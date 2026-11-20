@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2004-06-30) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2004-06-30) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="16">16. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="16">16. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1466149255-HS-16-16-2004.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2004-06-30">30.06.2004</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 148. Kazi ya Uandishi wa Habari</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u1" who="MheFaidaMohamedBakar">
+          <seg xml:id="seg1">Kwa kuwa kazi ya Uandishi wa Habari ni muhimu katika kuelimisha, kukosoa na kuongoza jamii na kwa kuwa Waandishi hao wanatakiwa wawe na ufahamu mzuri wa kazi yao na wastahimilivu na kwa kuwa baadhi ya Waandishi wa Habari hapa nchini wanafanyakazi katika mazingira magumu sana kutokana na upungufu wa nyenzo muhimu kama vyombo vya usafiri, vifaa kama Kompyuta, Printers na kadhalika:-</seg>
+          <seg xml:id="seg2">Je, Serikali italipunguza lini kama si kuliondoa kabisa tatizo hilo linalowakabili Waandishi wetu wa Habari?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u2" who="WaziriWaNchiOfisiYaWaziriMkuuMheMuhammedSeifKhatib">
+          <seg xml:id="seg3">Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kuwa kazi ya Uandishi wa Habari ni muhimu katika kuelimisha jamii na kuikosoa. Aidha, upungufu wa vitendea kazi kwa baadhi yao, huviza jitihada zao.</seg>
+          <seg xml:id="seg4">Mheshimiwa Spika, hata hivyo Vyombo vyetu vya Habari vya binafsi na vya Serikali, vimejitahidi sana kufanya kazi zao kwa ufanisi mkubwa ingawa vingine vina upungufu wa nyenzo kutokana na Bajeti zao ndogo.</seg>
+          <seg xml:id="seg5">Mheshimiwa Spika, hata hivyo, Serikali inatoa wito kwa wamiliki wote wa vyombo mbalimbali vya Habari kujiwekea mikakati ya kuwawezesha Waandishi wao wa habari hatua kwa hatua, mwaka hadi mwaka wapate zana hizo ili waweze kuwatumikia Watanzania katika tasnia hii kwa ustadi na ufanisi mkubwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u3" who="MheFaidaMohamedBakar">
+          <seg xml:id="seg6">Mheshimiwa Spika, ahsante sana kwa majibu mazuri ya Mheshimiwa Waziri. Lakini nina swali moja dogo la nyongeza. Kwa kuwa hapa Bungeni kuna Waandishi wa Habari mbalimbali ambao wanaandika habari kuhusiana na mambo yetu ya Bunge, je, Ofisi ya Bunge ina mpango gani wa kuwatengea eneo lao maalum la kutuma story zao Waandishi hao kitu ambacho kitafanya kazi zao ziende kwa urahisi kuliko linapomalizika tu Bunge hukimbilia Mjini kupeleka story?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u4" who="WaziriWaNchiOfisiYaWaziriMkuuMheMuhammedSeifKhatib">
+          <seg xml:id="seg7">Mheshimiwa Spika, hapa katika Bunge letu, Ofisi yako imewatengea chumba maalum ambacho kina computer za kutosha kwa kupeleka habari Dar es Salaam na sehemu nyingine. Kwa hiyo, Bunge hili limewapa nafasi maalum Waandishi wa Habari wetu wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u5" who="MheAbdullatifHusseinEsmail">
+          <seg xml:id="seg8">Mheshimiwa Spika, ahsante. Mimi nimefurahi swali hili leo kuletwa hapa, kwa sababu juzi Gazeti la Majira limepiga picha akinamama vijana wamekwenda kutafuta kazi kwenye mabanda ya maonesho halafu wanaandika hawa hawakimbii bomu. Hii ni heshima kweli wanafanya Waandishi wa Habari kupiga picha wale akinamama? Wanafanya jambo la halali? Wao wanataka wafanye machafu? Naomba nijibiwe, ahsante. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u6" who="Spika">
+          <seg xml:id="seg9">Halihusiani na swali la msingi. Mwisho Mheshimiwa Haroub Said Masoud. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u7" who="MheHaroubSaidMasoud">
+          <seg xml:id="seg10">Mheshimiwa Spika, baada ya majibu mazuri ya Mheshimiwa Waziri, nina swali moja la nyongeza. Kwa kuwa wafanyakazi wa</seg>
+          <seg xml:id="seg11">Vyombo vya Habari vinavyomilikiwa na Serikali nao wanafanya kazi nzuri za uandishi, lakini je, Serikali itawaangaliaje ili angalau nao wawe sawa na wale Waandishi wa Habari wa Vyombo vinavyomilikiwa na watu binafsi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u8" who="Spika">
+          <seg xml:id="seg12">Mheshimiwa Waziri, ni swali jipya lakini kama una majibu endelea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u9" who="WaziriWaNchiOfisiYaWaziriMkuuMheMuhammedSeifKhatib">
+          <seg xml:id="seg13">Mheshimiwa Spika, Serikali inawatendea haki sawasawa kama ilivyokuwa kwa Waandishi wa Habari binafsi kwa kuwapa zana za kisasa, kuwapa vifaa vya kufanyiakazi na pia kujaribu kuboresha maslahi yao. Kwa hiyo, Serikali pia haiwabagui na inawapa nafasi za kutosha Waandishi wa Habari wa Serikali.</seg>
+          <seg xml:id="seg14">Na.149</seg>
+          <seg xml:id="seg15">Wabunge Kupatiwa Sheria Zilizopitishwa na Bunge</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u10" who="MheMwadiniAbbasJecha">
+          <seg xml:id="seg16">Kwa kuwa miongoni mwa kazi za Bunge la Jamhuri ya Muungano wa Tanzania ni kutunga sheria na kwa kuwa Wabunge hupatiwa nakala za Miswada ili kuisoma na kushiriki katika mijadala kwenye Kamati husika na katika Bunge na pale inapobidi kufanyiwa marekebisho kulingana na jinsi inavyofaa ili kukidhi haja iliyokusudiwa na kwa kuwa Serikali haijaweka utaratibu wa kuwapatia Waheshimiwa Wabunge nakala za Sheria mbazo zimeshapitishwa na Bunge na kupata kibali cha Rais kuwa sheria na kwa kuwa jukumu mojawapo la Mbunge ni pamoja na kuielimisha jamii kuhusu sheria za nchi zilizotungwa na Bunge:-</seg>
+          <seg xml:id="seg17">(a) Je, Serikali haioni kwamba sasa kuna umuhimu wa kuweka utaratibu utakaofaa wa kuwapatia Waheshimwia Wabunge nakala za sheria ambazo zimeshapata kibali cha Mheshimiwa Rais kuwa sheria?</seg>
+          <seg xml:id="seg18">(b) Je, utaratibu huo utaanza lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u11" who="WaziriWaNchiOfisiYaWaziriMkuuMheWilliamVLukuvi">
+          <seg xml:id="seg19">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Mwadini Abbas Jecha, lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg20">Mheshimiwa Spika, swali hili kwa njia moja au nyingine linafanana na swali nambari 90 ambalo liliulizwa na Mheshimiwa Dr. Zainab Gama na kujibiwa nami tarehe 17 Aprili, 2002.</seg>
+          <seg xml:id="seg21">Mheshimiwa Spika, ni kweli kama alivyosema Mheshimiwa Mbunge kuwa moja ya kazi za Bunge ni kutunga sheria. Aidha, ni kweli pia kuwa Waheshimiwa Wabunge</seg>
+          <seg xml:id="seg22">hupewa nakala za Miswasda ya sheria ili waisome na kujiandaa tayari kwa majadiliano kwenye Vikao vya Bunge.</seg>
+          <seg xml:id="seg23">Mheshimiwa Spika, suala la Waheshimiwa Wabunge kupewa nakala za sheria zinazopitishwa na Bunge si suala la Serikali kuamua kuweka au kutoweka utaratibu, bali ni suala la umuzi wa Bunge lenyewe.</seg>
+          <seg xml:id="seg24">Mheshimiwa Spika, uamuzi wa Wabunge kupewa sheria mara zinapotangazwa kwenye Gazeti la Serikali ulikwishafanywa na kukubalika na kwamba Waheshimiwa Wabunge wamekuwa wakigaiwa kwa kuwekewa kwenye Pigeon holes zao na gharama zote hulipwa na Ofisi ya Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u12" who="WaziriWaNchiOfisiYaWaziriMkuuMheWilliamVLukuvi">
+          <seg xml:id="seg25">Mheshimiwa Spika, hutokea wakati mwingine Waheshimiwa Wabunge wakachelewa kupatiwa sheria hizo kutokana na taratibu za utekelezaji tu, lakini jitihada hufanywa ili jukumu hili likamilike. Matatizo yanayoweza kutokea na kuchelewesha kuwapatia Waheshimiwa Wabunge sheria hizo, ni kazi kubwa ya uchapishaji katika muda mfupi baada ya kuwa ni sheria za nchi.</seg>
+          <seg xml:id="seg26">Mheshimiwa Spika, napenda kuliafiru Bunge lako Tukufu kwamba Waheshimiwa Wabunge wote watapata sheria zilizotungwa na Bunge katika Mikutano iliyopita ambazo zilikuwa hazijatolewa kwenu. Sheria hizo zitapatikana na Mkutano huu unaoendelea hivi sasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u13" who="MheElizabethNBatenga">
+          <seg xml:id="seg27">Mheshimiwa Spika, mbali na Wabunge kupewa nakala za sheria zinazotungwa na Bunge hili, je, Serikali haioni ni muhimu sana nakala mbalimbali za sheria mbalimbali zinazotungwa kuwekwa katika Maktaba mbalimbali ili wananchi waweze kujielimisha na kuzijua sheria za nchi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u14" who="WaziriWaNchiOfisiYaWaziriMkuuMheWilliamVLukuvi">
+          <seg xml:id="seg28">Mheshimiwa Spika, wananchi wote walipo ndani ya nchi na nje ya nchi wanapewa fursa ya kuzipitia sheria zinazotungwa na Bunge la Tanzania kupitia Website ya Bunge ambayo imezinduliwa hivi karibuni na wote ni mashahidi. Lakini pia sheria hizi zikishachapishwa tunatoa tu upendeleo kwa Waheshimiwa Wabunge.</seg>
+          <seg xml:id="seg29">Mheshimiwa Spika, lakini kwa wananchi wa kawaida sheria hizi zinauzwa kwenye maduka mbalimbali ya Serikali. Hata hapo nje ukienda utakuta kuna Mpigachapa wetu wa Serikali anauza vitabu vya sheria na vitabu mbalimbali vya Serikali viko hapo. Kwa hiyo, sheria zinauzwa, ziko kila mahali na yeyote anayetaka kuziona anaweza kuzipata kupitia kwa Mpigachapa Mkuu na maduka ya Serikali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u15" who="WaziriWaNchiOfisiYaWaziriMkuuMheWilliamVLukuvi">
+          <seg xml:id="seg30">Wanaosababisha Ajali za Barabarani</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u16" who="MheRosemaryHKNyerere">
+          <seg xml:id="seg31">Kwa kuwa mara nyingi inaaminika kwamba chanzo cha ajali za barabarani ni madreva au wapanda baiskeli:-</seg>
+          <seg xml:id="seg32">(a) Je, Serikali itakubaliana nami kwamba siku hizi kwenye Miji mikubwa kama Dar es Salaam, waenda kwa miguu hususan wanaotembeza bidhaa za mikononi ndio wanaohatarisha usalama wa watumiaji wengine wa barabara hasa kwenye maeneo ya TAZARA, Sea View, Morocco, mzunguko wa Peugeot, Namanga na kadhalika?</seg>
+          <seg xml:id="seg33">(b) Je, Serikali itakuwa tayari kuchukua hatua zitakazohakikisha usalama wao na watumiaji wengine wa barabara?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u17" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg34">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Rosemary Nyerere, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg35">Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kuwa kwenye Miji mikubwa kama Dar es Salaam waenda kwa miguu hususan wanaotembeza bidhaa za mikononi na wanaopanga bidhaa zao kwenye sehemu za barabara za waendao kwa miguu wanachangia kwa kiasi kikubwa kuhatarisha usalama barabarani.</seg>
+          <seg xml:id="seg36">Katika kutafuta ufumbuzi wa tatizo hili, Serikali imekuwa ikiwashirikisha wadau mbalimbali kujadili na kupata mapendekezo. Jeshi la Polisi limepeleka mapendekezo yake katika Halmashauri ya Jiji la Dar es Salaam ambayo yatasaidia kupata ufumbuzi wa tatizo hili. Moja ya mapendekezo hayo ni kwa Jiji kutenga maeneo maalum ya biashara ndogo ndogo na kisha kupiga marufuku biashara za kutembeza barabarani au kupanga bidhaa barabarani, sehemu iliyowekwa kwa ajili ya waendao kwa miguu. Jiji limeanza kutekeleza mpango huo na hali imeanza kuwa afadhali. Mpango huu utakapokamilika, tatizo la biashara za katikati ya barabara litatokomea.</seg>
+          <seg xml:id="seg37">Mheshimiwa Spika, napenda kumhakikishia Mheshimiwa Mbunge kuwa kwa kutambua uzito wa tatizo hili, Serikali kwa kushirikiana na wadau mbalimbali itaendelea kuchukua hatua madhubuti zitakazohakikisha usalama barabarani kwa kutenga maeneo maalum kwa ajili ya wafanyabiashara ndogo ndogo na pia kufungua barabara za waendao kwa miguu zilizokuwa zimefungwa na wafanyabiashara wadogo wadogo waliokuwa wanaweka bidhaa zao katikati ya barabara hizo.</seg>
+          <seg xml:id="seg38">Napenda kuipongeza Halmashauri ya Jiji la Dar es Salaam na Manispaa zake kwa juhudi kubwa wanazofanya za kutenga maeneo kwa Wafanyabiashara wadogo na hivyo kuondoa biashara za barabarani zilizokuwa zinahatarisha usalama barabarani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u18" who="MheMohammedRajabSoud">
+          <seg xml:id="seg39">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi hii. Pamoja na majibu mazuri ya Mheshimiwa Waziri, hivi sasa dhahiri inaonesha elimu ni ndogo sana ya watembea kwa miguu hasa kwenye Zebra Crossing, je, Waziri haoni kwamba sasa iko haja ya kuweka taa za waenda kwa miguu ili wafahamu kwamba sasa hivi ni time ya kupita na sasa hivi ni time ya kusimamia? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u19" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg40">Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kwamba bado elimu inahitajika, si tu kwa watembea kwa miguu lakini hata kwa wenye vyombo vya moto kuhusu suala la zebra crossing na hasa kwa wenye magari. Miji kama Dar es Salaam utakuta katika zebra crossing dreva pale badala ya kusimama apishe waenda kwa miguu wapite yeye anapita moja kwa moja. Hili ni tatizo kubwa.</seg>
+          <seg xml:id="seg41">Napenda kutoa wito kwamba madreva lazima watii zebra crossing na kwamba kuhusu kuweka taa katika zebra crossing hilo ni suala la wenzetu wa ujenzi katika taratibu zao za kuboresha usalama barabarani na kuweka alama mbalimbali za barabarani, wanaweza wakalichukua hilo. Lakini hilo la elimu tutaendelea kuwaelimisha waenda kwa miguu pamoja na magari kuhusu kuheshimu zebra crossing. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u20" who="MheSalomeJMbatia">
+          <seg xml:id="seg42">Mheshimiwa Spika, ahsante kwa kuniona. Mbali na magari na baiskeli, Mheshimiwa Waziri ana habari kwamba barabara ya Dodoma kuelekea Dar es Salaam hususan Dodoma - Gairo kuna wasukuma mikokoteni inayokokotwa na ng’ombe na punda ambao ni hatari sana, hawana reflectors hasa wakati wa jioni? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u21" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg43">Mheshimiwa Spika, ni kweli watumiaji wa barabara wako wengi. Wapo waendao kwa miguu, wako wenye magari, wenye baiskeli na vile vile wa mikokoteni. Wote hawa ni watumiaji wa barabara. Jambo kubwa kabisa la kuzingatia, kila mtumiaji wa barabara kuzingatia sheria za barabarani. Kwa hiyo, hawa wenye mikokoteni aliowataja Mheshimiwa Mbunge, tutaendelea kuwaelimisha kwamba ni vizuri kuweka reflectors. Sio mikokoteni tu hata wapanda baiskeli, ukiwa na reflector wakati wa usiku inamsaidia mtumiaji mwingine wa barabara kukuona na kuchukua tahadhari. Kwa hiyo, wazo la Mheshimiwa Mbunge tumelichukua, elimu tutaendelea kuwaelimisha ili waweke vifaa vinavyowasaidia kuongeza usalama wao wakiwa barabarani.</seg>
+          <seg xml:id="seg44">Na.151</seg>
+          <seg xml:id="seg45">Askari wa Gereza la Mahabusu Lushoto</seg>
+          <seg xml:id="seg46">MHE. JOHN E. SINGO (k.n.y. MHE. HENRY D. SHEKIFFU) aliuliza</seg>
+          <seg xml:id="seg47">Kwa kuwa kwa kipindi kirefu sasa Askari Magereza wa Gereza la Mahabusu, Lushoto wamekuwa wakiishi kwenye nyumba mbovu sana:-</seg>
+          <seg xml:id="seg48">(a) Je, Serikali inachukua hatua gani za makusudi za kurekebisha hali hiyo kwa kuwajengea nyumba?</seg>
+          <seg xml:id="seg49">(b) Kwa kuwa Gereza hilo limepewa eneo la kujenga Gereza jipya na nyumba za Askari Magereza huko Yoghoi karibu na Mji wa Lushoto, je, ni lini ujenzi huo utaanza ili kupunguza msongamano katika Gereza la Mjini Lushoto?</seg>
+          <seg xml:id="seg50">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Henry Shekiffu, Mbunge wa Lushoto, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg51">(a) Mheshimiwa Spika, katika Bajeti ya mwaka 2004/2005 hatutakuwa na uwezo wa kuanzisha ujenzi mpya wa nyumba za Askari, siyo tu kwa Gereza la Lushoto, bali hata kwingineko kote nchini. Nguvu zetu tutazielekeza kwenye kuendeleza ujenzi wa viporo vya miaka ya nyuma. Baada ya kukamilisha viporo hivyo, ndipo tutaanza kujenga nyumba mpya huko Lushoto na sehemu nyingine za nchi ambako tatizo la ukozefu wa nyumba za Askari Magereza ni kubwa.</seg>
+          <seg xml:id="seg52">(b) Mheshimiwa Spika, kuhusu ujenzi wa Gereza jipya katika eneo la Yoghoi katika mwaka wa fedha 2004/2005 zimetengwa shilingi milioni kumi kwa ajili ya kuanza kujenga bweni moja la wafungwa na kukamilisha ukarabati wa mabweni yaliyopo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u22" who="MheJohnESingo">
+          <seg xml:id="seg53">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza. Pia namshukuru Mheshimiwa Waziri kwa kutenga milioni 10 kwa ajili ya kujenga bweni moja la wafungwa. Lakini ningependa Mheshimiwa Waziri anifahamishe kwa niaba ya wananchi wa kule Lushoto kwamba kwa kuwa Askari hawa wanaishi sasa katika nyumba mbovu sana na bado ni chakavu, inapotokea hatari nyumba ikahatarisha maisha ya Askari, nani ambaye ataweza kutoa fidia kwa Askari?</seg>
+          <seg xml:id="seg54">Pili, kwa kuwa Askari hao mazingira hayo yamekuwa mabovu mwaka hadi mwaka, je, Serikali imepanga mpango wa kujenga nyumba zao za kuishi mwaka gani wa fedha wakati ambapo bajeti inaongezeka mwaka hadi mwaka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u23" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg55">Mheshimiwa Spika, tatizo la ubovu wa nyumba za Askari tunalo, sio Lushoto tu anakokusemea lakini kwa kweli kila Mbunge hapa akisimama ataeleza nyumba za Askari wake huko anakotoka. Lakini tunao mpango wa kuanza kujenga nyumba za Askari na anasema je, kama nyumba ikianguka nani atalipa fidia?</seg>
+          <seg xml:id="seg56">Taratibu za kijeshi ni kwamba kama Askari akipata ajali akiwa katika eneo lake la kazi na wakati wa kazi ziko taratibu za kumlipa fidia. Sasa kuhusu mipango gani ya kujenga nyumba za Askari, Mheshimiwa Mbunge asubiri katika hotuba yetu ya Bajeti,</seg>
+          <seg xml:id="seg57">tunayo mapendekezo ambayo nafikiri yataungana na sisi kuyafikisha ili kujenga nyumba kwa ajili ya Askari wetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u24" who="MheMariaDWatondoha">
+          <seg xml:id="seg58">Mheshimiwa Spika, nakushukuru sana kwa kuniona. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, kwa kuwa katika Magereza wapo wafungwa wa aina mbalimbali na baadhi yao inawezekana wakawa ni mafundi waashi, je, Serikali haioni kwamba ni muhimu kutumia wafungwa hawa kuliko kuwaacha tu kukaa idle kwa kufyatua matofali na kkujenga misingi ili Serikali ichangie katika mabati na mambo mengine ili kuhakikisha kwamba tuna nyumba za uhakika kwa ajili ya Askari wetu wanaofanya kazi katika mazingira magumu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u25" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg59">Mheshimiwa Spika, ni kweli katika Magereza yetu tunao wafungwa ambao wana Ufundi mbalimbali hasa katika mambo ya ujenzi na hawa kusema kweli tunawatumia.</seg>
+          <seg xml:id="seg60">Mheshimiwa Spika, popote pale walipo hawakai bila shughuli au hawakai idle kama Mheshimiwa Mbunge anvyosema na kusema kweli tunawatumia katika maeneo yetu mbalimbali tuna Vikosi vya ujenzi vya Magereza na mafundi walio wengi ni wafungwa wenyewe. Hata lile jengo ambalo Waheshimiwa Wabunge mmefika, lile jengo ambalo Waheshimiwa mmefika katika Wizara yetu ya Mambo ya Ndani, lile jengo jipya ambalo sasa hivi Wizara tumo, limejengwa na kikosi cha Magereza na mafundi walio wengi ni hao hao wafungwa. Kwa hiyo, tunao utaratibu wa kuwatumia.</seg>
+          <seg xml:id="seg61">Na.152</seg>
+          <seg xml:id="seg62">Vyuo vya Kilimo</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u26" who="MheLeonardNDerefa">
+          <seg xml:id="seg63">Kwa kuwa Vyuo vya VETA vinazidi kuongezeka na kufundisha mafundi wengi:-</seg>
+          <seg xml:id="seg64">(a) Je, kwa nini Serikali imepuguza na hata kufunga Vyuo vya Kilimo pamoja na kwamba kilimo kinaajiri Watanzania wengi zaidi na wakati mwingine mchango wa kilimo ni mkubwa zaidi?</seg>
+          <seg xml:id="seg65">(b) Je, Serikali ina mipango gani thabiti ya kuanza tena kwa nguvu kufundisha Watendaji wa kuwafundisha wakulima kilimo cha ufugaji bora?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u27" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg66">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Leonard Derefa, Mbunge wa Shinyanga Mjini, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg67">(a) Serikali haijafunga Vyuo vya Kilimo. Vyuo vilivyopo vinavyoendelea kutoa mafunzo kwa wataalam na wakulima ni kama Uyole, Ukiriguru, Ilonga, Tumbi, Mlingano, Naliendele, KATC - Moshi, Igurusi na Maruku kinachoendesha mafunzo</seg>
+          <seg xml:id="seg68">kuhusu zao la chai kwa wataalam na wakulima. Chuo cha Mubondo kilichoko Wilaya ya Kasulu kilikabidhiwa kwa Halmashauri ya Wilaya ya Kasulu mwaka wa1995 na kuwa shule ya Sekondari.</seg>
+          <seg xml:id="seg69">(b) Serikali inaendelea kutoa mafunzo ya muda mfupi na mrefu kwa wataalam. Katika mwaka wa 2004/2004 Vyuo vya Kilimo vilikuwa na jumla ya wanafunzi 540 wakiwemo wanawake 111 na wanaume 429. Vyuo pia viliendesha Mafunzo Rejea kwa Maofisa Ugani 186 wanaowashauri wakulima kilimo bora cha mazao ya biashara. Idadi hiyo ya wanafunzi 540 ni ndogo sana ukilinganisha na nafasi ya wanafunzi 1400 wa bweni kwa Vyuo vyote vya Kilimo. Serikali imekuwa ikidhamini wanafunzi katika Vyuo hivyo kulingana na uwezo uliopo. Kwa mfano, katika mwaka wa 2003/2004 jumla ya wanafunzi 250 walipewa udhamini wa masomo ya stashahada.</seg>
+          <seg xml:id="seg70">Aidha, kama nilivyoeleza wakati nikiwasilisha Bajeti ya Wizara ya Kilimo na Chakula ya mwaka wa 2004/2005 hapa Bungeni, Serikali itadhamini wanafunzi 250 kwenye mafunzo ya Stashahada na vijana tarajali 150 kwenye mafunzo ya Astashahada. Kadri uwezo wa Serikali utakavyokuwa unaongezeka ndivyo itakavyotenga fedha kwa ajili ya mafunzo ya wataalam.</seg>
+          <seg xml:id="seg71">Vile vile sekta binafsi inaendelea kugharamia wanafunzi katika Vyuo vya Kilimo ingawa kwa idadi ndogo kulingana na uwezo mdogo wa Sekta hiyo. Wizara inazishauri Halmashauri za Wilaya kuweka mipango thabiti ya kugharamia mafunzo kwa wataalam wa kilimo wanaoshauri kilimo katika Wilaya zao pia kuwaimarisha wakulima kwa mafunzo ya kilimo cha kisasa.</seg>
+          <seg xml:id="seg72">Mheshimiwa Spika, kutokana na Vyuo kuwa na idadi ndogo ya wanafunzi, Wizara itawapanga upya wanafunzi waliopo kwenye Vyuo ili Vyuo vichache ndivyo viendelee kutoa mafunzo ya muda mrefu kwa watalam kwa lengo la kuongeza ufanisi. Vyuo ambavyo wanafunzi wake watahamishwa vitasimamiwa na uongozi wa utafiti ulioko kwenye Kanda husika ili viendelee kutoa mafunzo kwa wakulima na mafunzo rejea ya muda mfupi kwa wataalam katika Kanda hizo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u28" who="MheRichardMNdassa">
+          <seg xml:id="seg73">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niulize swali dogo la nyongeza. Pamoja na maelezo mazuri na marefu ya Mheshimiwa Naibu Waziri wa Kilimo na Chakula, naomba niulize swali dogo.</seg>
+          <seg xml:id="seg74">Mheshimiwa Spika, kwa sababu hapo awali Vyama vya Ushirika vilikuwa vinasaidia wananchi kwenda kupeleka magari ya Sinema na hivyo magari ya Sinema yalikuwa yanasaidia kuonyesha jinsi gani ya kulima, namna ya kuvuna na kazi nyingine, je, Serikali sasa kwa kushirikiana na Wizara ya Kilimo na Vyama vya Ushirika inaweza ikapeleka Sinema Vijijini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u29" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg75">Mheshimiwa Spika, Serikali ina magari ingawa ni machache na yanaendelea kutumika. Baadhi yao yamo kwenye Bodi za Mazao. Kwa hiyo, yapo na tunatumia vitu vingine vile vile kama alivyosema Mheshimiwa Waziri jana, magazeti ya Ukulima wa Kisasa yapo na vipindi vyetu vya</seg>
+          <seg xml:id="seg76">Redio vyote hivyo vina kazi hiyo moja. Vile vile tusisahau kwenye baadhi ya Wilaya kuna Vyuo vya Wananchi kule vinafanya kazi hiyo hiyo. Kwa hiyo jibu ni ndiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u30" who="MheBenitoWMalangalila">
+          <seg xml:id="seg77">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niulize swali la nyongeza.</seg>
+          <seg xml:id="seg78">Kwa kuwa katika swali la msingi ilizungumzwa kwamba VETA wanafundisha mafundi na wanafanya kazi nzuri na kwa kuwa katika jibu la Mheshimiwa Naibu Waziri, imeonekana kwamba kwa kweli idadi ya watu wanaosoma kilimo sasa hivi imepungua sana, je, Serikali haiwezi ikashirikana na VETA ili kuandaa mtaala hata kama ni elementary wa kuwafundisha vijana wetu kupitia Vyuo vya VETA? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u31" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg79">Mheshimiwa Spika, tungeweza kufanya hivyo lakini mpaka sasa tunavyo Vyuo na mihtasari ipo, nafikiri ninachopendekeza sasa hivi ni kuwa tuziombe Halmashauri mbalimbali za Wilaya na Miji nchini zitenge na ziweke mafungu kusudi tutekeleze azma hiyo. Uwezo tunao, utaalamu tunao na vitendea kazi tunavyo. Tunaomba msaada wenu kuhamasisha Halmashauri ilete hao watu wafundishe katika Vyuo vyetu ambavyo viko vya kutosha kabla hatujahitaji msaada zaidi kutoka VETA. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <note>Na. 153. Kilimo cha Umwagiliaji</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u32" who="MheDrSuleimanJumaOmar">
+          <seg xml:id="seg80">Kwa kuwa Serikali katika kutekeleza mpango wake wa kujitosheleza kwa chakula inaendeleza mpango wa kutayarisha maeneo mengi nchini kwa ajili ya kilimo cha umwagiliaji hasa kwa zao la mpunga:-</seg>
+          <seg xml:id="seg81">(a) Je, ni maeneo ya ukubwa gani ambayo tayari yanazalisha mpunga kwa njia ya umwagiliaji na yako wapi?</seg>
+          <seg xml:id="seg82">(b) Je, ni mpunga kiasi gani umepatikana katika maeneo hayo kwa kila hekta na kwa ujumla wake?</seg>
+          <seg xml:id="seg83">(c) Kwa kuwa mahitaji hapa ni kupata mchele, je, ni kiasi gani cha mchele kinapatikana kutokana na mavuno ya mpunga?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u33" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg84">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Dr. Suleiman Juma Omar, Mbunge wa Mkunguni, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg85">(a) Mheshimiwa Spika, hadi sasa eneo linalotumika kwa kilimo cha umwagiliaji maji mashambani limefikia hekta 227,486. Zao la mpunga ndilo linalochukua eneo</seg>
+          <seg xml:id="seg86">kubwa likiwa na hekta 108,478 sawa na asilimia 48 ya eneo lote linalotumika kwa kilimo cha umwagiliaji maji mashambani nchini. Aidha, zao la mpunga linalimwa katika Mikoa yote 21 kwa ukubwa tofauti wa maeneo ambayo ninayo orodha yake hapa lakini kwa kufupisha tu nasema hekta 108,478.</seg>
+          <seg xml:id="seg87">(b) Wastani wa tani 4.5 kwa hekta za mpunga zinazalishwa katika maeneo yaliyotajwa. Kwa hiyo, uzalishaji huo, katika msimu wa mwaka 2003/2004, tani 488,151 za mpunga zilizalishwa kutokana na kilimo cha umwagiliaji maji mashambani. Uzalishaji huo ni sawa na asilimia 55 ya mahitaji ya mpunga ya nchi nzima katika mwaka wa 2003/2004.</seg>
+          <seg xml:id="seg88">(c) Mahitaji ya mpunga na mchele kwa miaka minne iliyopita yalikuwa kama ifuatavyo:-</seg>
+          <seg xml:id="seg89">Mwaka Mavuno(Tani) Mahitaji (Tani)</seg>
+          <seg xml:id="seg90">Mpunga Mchele Mpunga Mchele</seg>
+          <seg xml:id="seg91">2000/2001 782,000 508,000 834,000 542,000</seg>
+          <seg xml:id="seg92">2001/2002 868,000 564,000 857,000 557,000</seg>
+          <seg xml:id="seg93">2002/2003 985,000 640,000 881,000 573,000</seg>
+          <seg xml:id="seg94">2003/2004 860,108 516,065 880,000 572,000</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u34" who="MheMzeeNgwaliZubeir">
+          <seg xml:id="seg95">Mheshimiwa Spika, nashukuru kunipatia nafasi hii kuuliza maswali mawili madogo ya nyongeza. Nashukuru kwa majibu mazuri ya Mheshimiwa Waziri, nauliza kama hivi ifuatavyo. Matatizo makubwa ya umwagiliaji nchini Tanzania ni miundombinu mibovu, fedha na programu zisizotekelezeka, je, tatizo hili litakwisha lini? Hilo la kwanza.</seg>
+          <seg xml:id="seg96">Pili, ukiangalia mchele unaozalishwa Tanzania ni gharama au ni ghali zaidi kuliko mchele ambao unatoka nje, tatizo hili linasababishwa na nini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u35" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg97">Mheshimiwa Spika, miundombinu mibovu kwa baadhi ya miradi imeanza kukarabatiwa na programu zipo za kisasa. Kwa hiyo, si miundombinu yote ni mibovu, hapana. Tukawa tunaanza taratibu kukarabati na baadaye sasa tunaendeleza, kama nilivyosema jana, ujenzi umeongezeka wa miundombinu. Tulianza mwaka 2001 hekta 4,000, mwaka wa pili, karibu hekta 12,000 na mwaka unaishia leo hekta 24,000. Kwa hiyo, progressively kumekuwa na ongezeko. Tunaomba kwa hilo angalau mtupongeze. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u36" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg98">Sasa kuhusu mchele kutoka nje unakuwa rahisi kuliko ule wa ndani, kuna sababu nyingi tu. Sababu mojawapo ni kwamba wale wenzetu pengine ule mchele si lazima wote unakuwa fresh kama wa kwetu. Mimi najua katika system yetu kuna baadhi ya mchele wetu unauzwa nje kwa sababu wanaupenda una ladha na roma nzuri. Kwa hiyo, katika system yetu kuna baadhi ya mchele wetu unauzwa nje kwa sababu una ladha na roma nzuri. Kwa hiyo, hata kwa hilo bado tumepiga hatua na tunategemea kufanya zaidi</seg>
+          <seg xml:id="seg99">kusudi tusihitaji tena mchele kutoka nje kwa kutumia nguvu zetu nchini humu humu na mpango kamambe una lengo hilo. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u37" who="MheDrHajiMwitaHaji">
+          <seg xml:id="seg100">Ahsante sana Mheshimiwa Spika, kwa kuniona. Baada ya majibu mazuri ya Mheshimiwa Naibu Waziri, nina swali moja la nyongeza. Mbali na zao hili la mpunga na mchele, ni zao gani lingine zaidi linaweza likawanufaisha Watanzania katika kujiletea uchumi kwa kutumia mpango huu wa umwagiliaji maji? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u38" who="NaibuWaziriWaKilimoNaChakula">
+          <seg xml:id="seg101">Mheshimiwa Spika, mazao ambayo yana bei nzuri ni mengi kidogo, mojawapo ni nyanya, ni zao rahisi kulilima na lina bei nzuri sana, unapata papo kwa papo muda wa miezi miwili, mitatu, tayari umeshapata kuliko mahindi unangoja au mchele unaweza kungoja zaidi ya miaka mitatu. Lakini lingine vile vile zao la Paprika linalimwa, zao lingine hata migomba nayo. Migomba ya kisasa, tunayo kule Arusha ambayo tunailima for export na tunawahamasisha Waheshimiwa Wabunge chukueni mbegu zile muonyeshe mfano huko Mikoani, tupeleke nje tulete pesa.</seg>
+          <seg xml:id="seg102">Mheshimiwa Spika, halafu zao lingine ni vanilla, kama nilivyosema jana. Mwaka huu kwa sababu ya athari iliyotokea kwingineko, kilo moja ya vanilla mbichi imekuwa na bei kutoka shilingi 10,000 mbichi mpaka shilingi 60,000 kwa kilo na naambiwa hata kavu yake ina bei nzuri zaidi, kilo moja ni shilingi 300,000/=. Je, hatupendi na sisi tuwahamasishe wananchi washiriki kulima zao hili? Karibuni. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <note>Na. 154. Ubovu wa Barabara Mwanza-Musoma</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u39" who="MheDrRaphaelMChegeni">
+          <seg xml:id="seg103">Kwa kuwa pamekuwepo na ajali nyingi sana za barabarani zinazosababishwa na kutokuwa makini kwa madreva wa vyombo vya usafiri na hasa magari na mabasi ya abiria katika barabara ya Mwanza-Musoma inayopitia katika Jimbo la Busega, Wilayani Magu, hivyo kupelekea vifo na upotevu wa mali za watu mara kwa mara na kwa kuwa ajali nyingi zimesababishwa pia na ubovu wa barabara hiyo kwa kutokuwepo kwa road bumps au matuta ya kuzuia mwendo wa kasi na ukosefu wa alama za barabarani zinazosaidia kuongoza madereva na wananchi wanaotumia barabara hiyo:-</seg>
+          <seg xml:id="seg104">(a) Je, Serikali ina mpango gani wa kuitengeneza upya au kuiwekea tabaka jipya la lami barabara ya Nyanguge-Musoma iliyojengwa yapata miaka 20 iliyopita na haijafanyiwa matengenezo kama hayo hadi sasa?</seg>
+          <seg xml:id="seg105">(b) Kwa kuwa katika Kikao cha Bajeti cha mwaka 2003/2004 Serikali iliahidi kuweka alama za barabarani pamoja na matuta barabarani kwa sehemu za msongamano wa watu kama vile Masanza Corner, Mwamanyili, Nassa Nyashimo, Nyamikoma,</seg>
+          <seg xml:id="seg106">Kalemela na Lamadi, je, ni lini Serikali itatekeleza ahadi yake ili kuwaepusha wananchi wa maeneo hayo na ajali?</seg>
+          <seg xml:id="seg107">(c) Je, Serikali ina mpango gani wa kuweka njia maalum kwa wananchi wanaotumia barabara kuu kama hii ili kupunguza msongamano wa waenda kwa miguu, waendesha baiskeli na kadhalika, ambao nao wana haki ya kutumia barabara hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u40" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg108">Mheshimiwa Spika, kabla ya kujibu swali la Mheshimiwa Dr. Raphael Masunga Chegeni, Mbunge wa Busega, ningependa kutoa maelezo mafupi kama ifuatavyo:-</seg>
+          <seg xml:id="seg109">Mheshimiwa Spika, barabara ya Mwanza-Nyanguge hivi sasa ipo katika hali nzuri baada ya ukarabati unaoendelea sasa chini ya ufadhili wa Jumuiya ya Nchi za Ulaya. Barabara ya kutoka Nyanguge hadi Musoma ndiyo iliyojengwa muda mrefu uliopita mwaka 1986 na sehemu nyingi zimeharibika. Hivi sasa matengenezo ya maeneo korofi kati ya Lamadi na Musoma, yanaendelea. Sehemu zilizobaki zitaendelea kurekebishwa kadri fedha zinavyopatikana.</seg>
+          <seg xml:id="seg110">Mheshimiwa Spika, baada ya ujenzi wa barabara zote mpya alama za barabarani huwa zinawekwa sehemu zote muhimu lakini wananchi wachache wakorofi huwa wanaziiba au kuziharibu. Alama hizo husaidia sana kupunguza ajali barabarani hivyo kupunguza vifo vya watumaiji wa barabara hizo.Nawaombeni Waheshimiwa Wabunge kutusaidia kuwaelimisha wananchi umuhimu wa alama hizo ili wasiibe au kuziharibu. Wizara yangu itahakikisha inazirudisha alama hizo kadri fedha zinavyopatikana.</seg>
+          <seg xml:id="seg111">Mheshimiwa Spika, baada ya maelezo haya sasa napenda kujibu swali la Mheshimiwa Dr. Raphael Masunga Chegeni, Mbunge wa Busega, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">(a) Mheshimiwa Spika, Serikali inaendelea na juhudi za kutafuta fedha za kuikarabati barabara hii. Aidha, Wizara yangu kupitia Wakala wa Barabara (TANROADS) imekuwa ikiifanyia matengenezo barabara hii kama ifuatavyo:-</seg>
+          <seg xml:id="seg113">Katika mwaka 2002/2003 jumla ya shilingi milioni 379.6 zilitumika kufanya matengenezo ya kawaida, ya dharura na matengenezo ya muda maalum. Katika mwaka 2003/2004 jumla ya shilingi milioni 844.6 zilitumika kufanya matengenezo ya kawaida na ya dharura na katika mwaka 2004/2005 jumla ya shilingi milioni 773.22 zimetengwa kwa ajili ya matengenezo ya barabara hii.</seg>
+          <seg xml:id="seg114">(b) Mheshimiwa Spika, Wizara yangu haitajenga matuta maeneo maalum katika barabara husika kwani uwekaji wa matuta mengi kwenye barabara kuu hauendani na mategemeo ya matumizi ya barabara hizo. Aidha, msisitizo utawekwa kwenye uwekaji wa alama muhimu za barabarani kuwawezesha madereva kuzingatia mwendo unaoruhusiwa. Kazi hii itafanywa kwa awamu kufuatana na uwezo wa kifedha.</seg>
+          <seg xml:id="seg115">Nawaombeni Waheshimiwa Wabunge, msaidie katika kuelimisha wananchi wakorofi umuhimu wa alama za barabara ili wasiziharibu ili fedha za Serikali ilizowekeza zisipotee bure.</seg>
+          <seg xml:id="seg116">(c) Mheshimiwa Spika, Serikali kwa hivi sasa haina mpango wa kujenga njia ya waenda kwa miguu na baiskeli katika barabara ya Mwanza-Musoma, isipokuwa wananchi hao wanapaswa kutumia mabega ya barabara kwani itakuwa gharama kubwa kujenga njia maalum za aina hiyo kwenye barabara yote. Ni maeneo ya vijiji vikubwa na mjini ambapo njia za aina hiyo huwekwa kutokana na msongamano wa watu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u41" who="MheDrRaphaelMChegeni">
+          <seg xml:id="seg117">Mheshimiwa Spika, napenda nishukuru sana kwa majibu ya Mheshimiwa Naibu Waziri na kwamba naipongeza Wizara ya Ujenzi kwa kazi nzuri kwa kazi wanayofanya. Lakini pamoja na hayo ningependa tu kuuliza maswali mawili ya nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg118">Mheshimiwa Spika, toka nimekuwa Mbunge sijawahi kuona alama yoyote ya barabarani katika eneo nililolitaja kuanzia Lamadi, Kalemela, Nyamikoma, Nyashimo mpaka Kilole sijawahi kuona. Sasa ukorofi wa wananchi uko wapi, hata Mbunge hajawahi kuona alama ya barabarani na katika barabara ile, je, Serikali haiwezi kuona kweli kuna umuhimu wa kurudisha alama hizi kwa sababu inasababisha ajali kubwa sana kwa wananchi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u42" who="MheDrRaphaelMChegeni">
+          <seg xml:id="seg119">Mheshimiwa Spika, swali la pili ni kuwa katika barabara hiyo matumizi ni mengi na suala la Speed Governor limefeli, mabasi kila leo yanasababisha ajali kubwa na upotevu wa mali za wananchi, je, Serikali haioni kweli bado kuna umuhimu wa kuweka vizuizi katika maeneo yenye msongamano wa wananchi ili kupunguza ajali hizi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u43" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg120">Mheshimiwa Spika, inashangaza sana Mheshimiwa Mbunge tangu amekuwa Mbunge hajaona alama ya barabarani. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u44" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg121">Mheshimiwa Spika, ni kawaida mkataba wa ujenzi wa barabara unajumuisha mambo yafuatayo:-</seg>
+          <seg xml:id="seg122">(i) Kufuatia ramani iliyochorwa ya barabara hiyo pamoja na mifereji pamoja na alama za barabara, lazima aweke kabla hajakabidhi barabara. Lakini mara moja zikiwekwa na ushahidi unaweza kuona barabara mpya ya Chalinze-Morogoro. Pale alama zinavyowekwa ndivyo zinavyoondoka. Sasa mtengenezaji wa barabara anawajibika kuweka alama na kukabidhi baada ya hapo nchi inawajibika kurudishia.</seg>
+          <seg xml:id="seg123">Sasa wanachukua, wanatengeneza vifuniko vya ubwabwa, wanachukua wanatengeneza sufuria,wengine wanachukua mabomba. Sasa hili ni kosa letu sisi siyo yule mtengenezaji wa barabara. Kwa hiyo, ndiyo maana tumesema Serikali itarudishia alama hizo kadri pesa inavyopatikana na Mheshimiwa Mbunge mmoja hapa anasema wanatengenezea baiskeli za Kisukuma mnatembea. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u45" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg124">Matumizi mengi ya speed governor yameshindikana katika sehemu hizo. Huo ni wito mzuri kwamba sasa wale watumiaji warudishe magari yao kwenye speed governor na matrafiki wafanye kazi zao kuhakikisha kwamba speed governor katika barabara ile inafanya kazi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u46" who="MheDrJamesAMsekela">
+          <seg xml:id="seg125">Mheshimiwa Spika, nakushukuru kwa nafasi ya kuuliza swali la nyongeza. Katika jibu lake Mheshimiwa Waziri ametamka kwamba vizuizi vinavyowekwa barabara kuna sehemu havistahili na mimi nampongeza sana kwa tamko kama hilo. Lakini pia kutokuonekana kwa hizi road signs kwenye hii barabara iliyotajwa kwenye swali la msingi, kunaendana pia na maajabu ambayo nayaona siku hizi ukipita kwenye barabara ambazo bado zina hizo road signs unakuta zimewekewa alama ya X. Sasa wana utaratibu wa kubadilisha hizo road signs au zile sasa nazo zinatakiwa ziondolewe? Nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u47" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg126">Mheshimiwa Spika, tunaweka alama ya X kwa chochote kilichokuwemo barabarani, tunamwambia aliyetengeneza barabara hiyo kwamba, hapa amekosea. Sisi tutakisogeza kama ni alama ya barabarani. Kama ni tangazo tunamwambia aondoe.</seg>
+        </u>
+        <note>Na. 155. Barabara kwenda Kabanga Nickel Mines</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u48" who="MheGwassaASebabili">
+          <seg xml:id="seg127">Kwa kuwa Serikali imeamua kujitegemea katika kujenga miundombinu yake badala ya kutegemea wahisani na mikopo toka kwenye mashirika ya kifedha duniani na Wizara ya Ujenzi imekuwa mstari wa mbele kujenga barabara za kudumu za lami lakini hakuna barabara kuelekea kwenye maeneo ya machimbo ya Kabanga Nickel ambako kunapatikana madini ya aina nyingi ya thamani kama Nickel na Cobalt:-</seg>
+          <seg xml:id="seg128">Baada ya kuthibitika kuwepo kwa madini mengi sana kwa zaidi ya miaka 43 sasa, je, Serikali imetenga fedha kiasi gani katika mwaka wa fedha 2004/2005 kwa ajili ya kujenga barabara ya Nyakahura-Rulenge-Kabanga Nickel Mines ili kuwezesha uchimbaji na usafirishaji wa madini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u49" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg129">Mheshimiwa Spika, kabla ya kujibu swali la Mheshimiwa Gwassa Angus Sebabili, Mbunge wa Ngara, naomba kutoa maelezo ya utangulizi yafuatayo:-</seg>
+          <seg xml:id="seg130">Mheshimiwa Spika, barabara inayopita karibu na maeneo ya machimbo ya Kabanga Nickel ni ile ya Nyakahura-Kumubuga-Murusagamba-Muganza Bugarama- Rulenge yenye urefu wa kilometa 114. Barabara hii ni ya Mkoa na inahudumiwa na Wizara yangu kupitia Wakala wa Barabara (TANROADS) Mkoa wa Kagera. Umbali</seg>
+          <seg xml:id="seg131">kutoka eneo la machimbo na iliko barabara ya lami ya Rusumo-Isaka ni kilometa 87.</seg>
+          <seg xml:id="seg132">Mheshimiwa Spika, Wizara yangu inautambua umuhimu wa barabara hii na imekuwa ikifanyia matengenezo muhimu ya mara kwa mara kupitia Wakala wa Barabara kama ifuatavyo:-</seg>
+          <seg xml:id="seg133">Mwaka wa fedha 2000/2001 barabara hii ilifanyiwa matengenezo makubwa chini ya mradi wa Kagera Road Maintenance (KAROM) uliofadhaliwa na Serikali ya Uholanzi na Tanzania. Kiasi cha shilingi milioni 212.7 zilitumika.</seg>
+          <seg xml:id="seg134">Mheshimiwa Spika, mwaka wa fedha 2001/2002, Wizara yangu iliifanyia matengenezo ya kawaida barabara hii kwa gharama ya shilingi milioni 22.6.</seg>
+          <seg xml:id="seg135">Katika mwaka wa fedha 2002/2003 Wizara yangu iliendelea kuifanyia matengenezo ya kawaida barabara hii yaliyogharimu shilingi milioni 30.4. Aidha, kuanzia mwaka wa fedha wa 2003/2004, Wizara yangu ilipanga kuikarabati barabara hii kwa kiwango cha changarawe kuanzia Nyakahura-Kumubuga-Murusangamba-Muganza- Kabanga Nickel junction, umbali wa kilometa 56.4 kwa gharama ya shilingi bilioni 1.108 chini ya ufadhili toka Benki ya Maendeleo ya Afrika (ADB) na mchango toka Serikali ya Tanzania.</seg>
+          <seg xml:id="seg136">Mheshimiwa Spika, mkandarasi kwa ajili ya utekelezaji wa kazi hii amekwishapatikana na tayari yupo katika eneo la kazi akifanya maandalizi. Kwa mujibu wa mkataba uliopo, utekelezaji wa mradi huu utakamilika ndani ya mwaka wa fedha wa 2004/2005.</seg>
+          <seg xml:id="seg137">Mheshimiwa Spika, baada ya kutoa maelezo hayo ya utangulizi na mafupi, naomba sasa kujibu swali la Mheshimiwa Gwassa Sebabili, kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg138">Mheshimiwa Spika, pamoja na nia njema ya Serikali ya kujitegemea katika kujenga miundombinu yake bila ya kusubiri wahisani au mikopo, Wizara yangu haijatenga fedha zozote kwa mwaka 2004/2005 za kujenga barabara hii kwa kiwango cha lami. Uwezo wa nchi kiuchumi ndicho kigezo kikubwa katika kufikia maamuzi ya aina hiyo.</seg>
+          <seg xml:id="seg139">Aidha, Serikali kwa kushirikiana na Mheshimiwa Mbunge, itaendelea kuwashawishi wawekezaji kuwekeza katika machimbo haya. Endapo atapatikana mwekezaji mwenye nia njema, basi pamoja na kuwekeza katika uchimbaji wa madini hayo, ashauriwe pia kuboresha baadhi ya miundombinu itakayomwezesha kufanya kazi zake kikamilifu kama inavyofanyika kwingineko nchini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u50" who="MheGwassaASebabili">
+          <seg xml:id="seg140">Mheshimiwa Spika, nakushukuru kuniruhusu niulize maswali mawili ya nyongeza. Swali la msingi lilikuwa ni barabara ya Nyakahura kwenda Rulenge. Barabara hii imesahaulika kwa karibu miaka 10 na inapita katikati ya Tarafa mbili za Rusagamba na Rulenge zenye vijiji vingi karibu vijiji 15, kuna taasisi</seg>
+          <seg xml:id="seg141">nyingi za Serikali zisizokuwa za Serikali na mazao mengi. Sasa naomba kujua Mheshimiwa Waziri anakubali kwamba hii barabara ni ya muhimu kutoka Nyakahura - Rulenge na kuunganika na barabara ya lami inayotoka Ngara Mjini pale Murugarama kuelekea Kabanga ili wananchi wa eneo hilo waweze kufanikiwa kuendelea kama wengine?</seg>
+          <seg xml:id="seg142">Swali la pili, ni barabara niliyoisema ya kutokea Rulenge kwenda Kabanga Nickel barabara hii ni ya ulinzi na Serikali inafahamu hivyo hasa kutokana na wimbi la wakimbi lililokuwepo miaka 11 iliyopita. Huko kuna hayo madini, kuna Taasisi za Serikali, kama vile Sekondari na Vituo vya Afya na bado ni mpakani ambako mara nyingi kuna matatizo ya mashambulizi kutoka nchi jirani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u51" who="Spika">
+          <seg xml:id="seg143">Uliza swali, usifanye hotuba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u52" who="MheGwassaASebabili">
+          <seg xml:id="seg144">Je, yuko tayari kuchukua barabara hiyo na kuiweka chini ya Mamlaka ya Mkoa kwa sababu mara nyingi swali linapojibiwa inasemekana kwamba ni barabara ya Wilaya?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u53" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg145">Mheshimiwa Spika, barabara Nyakahura - Rulenge najua inakwenda Ngara Mjini na katika jibu langu la msingi nilieleza ni jinsi gani pesa tumetumia na mamilioni katika kuendeleza barabara hiyo.</seg>
+          <seg xml:id="seg146">Mheshimiwa Spika, kile kipande cha kutoka Rulenge kwenda Ngara Mjini bado tunakijua ni muhimu. Lakini hii inategemea vile vile kupanga ni kuchagua. Kwa hiyo, tumeamua kwanza kutengeneza barabara ile kubwa na tutakapopata pesa tutaweza kufikiria hiyo.</seg>
+          <seg xml:id="seg147">Mheshimiwa Spika, pili, barabara ya Rulenge - Kabanga Nickel na bahati nzuri Mheshimiwa Mbunge amekiri kwamba siyo barabara ya Mkoa. Kwa hiyo, hatungojei watakapoleta Sheria ile ya kubadilisha barabara kama Mkoa iliomba kubadilisha barabara hii kutoka Wilaya iwe ya Mkoa basi itakuwepo. Kama haikuomba naamini Mbunge atakuwa Bungeni hapa atajenga hoja.</seg>
+        </u>
+        <note>Na. 156. Mpaka wa Mgodi wa Geita Gold Mine Limited</note>
+        <note>(k.n.y. MHE. ERNEST G. MABINA)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u54" who="MheJamesPMusalika">
+          <seg xml:id="seg148">Kwa kuwa Serikali hutoa leseni kwa wachimbaji wakubwa wa madini kama dhahabu, almasi, Tanzanite na kadhalika katika maeneo mbalimbali hapa nchini na kwa kuwa Wilaya ya Geita ina mgodi mkubwa wa Geita Gold Mine Limited na wananchi wa maeneo hayo hawajui mipaka ya mgodi huo:-</seg>
+          <seg xml:id="seg149">Je, Serikali inaweza kuwaeleza wananchi wa Geita mipaka ya mgodi huo na kuonyesha ukubwa wa eneo hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u55" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg150">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Ernest Gakeya Mabina, Mbunge wa Geita kama ifuatavyo:-</seg>
+          <seg xml:id="seg151">Mheshimiwa Spika, nachukua nafasi hii kuwaeleza wananchi wa Geita kuwa Serikali inaweza kuwaonyesha mipaka ya mgodi wa Geita. Leseni ya uchimbaji wa mgodi wa Geita ina ukubwa wa kilometa za mraba 114.1 ambayo ina vipimo na kuwekwa alama ya juu ardhini kwa mujibu wa sheria na taratibu za uchimbaji madini. Kwa upande ambao mgodi unapakana na Mji wa Geita, mpaka umeonyeshwa kwa marundo ya mawe yaliyopakwa rangi nyeupe, yaliyowekwa kila baada ya umbali upatao mita 100.</seg>
+          <seg xml:id="seg152">Mheshimimiwa Spika, sehemu ambazo mipaka ya leseni inakatiza barabara, vijiji na maeneo ya mashamba, imewekwa alama za kuwatahadharisha wananchi. Baadhi ya maeneo hayo ni Nyakabale, Samena na Namalembo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u56" who="MheJamesPMusalika">
+          <seg xml:id="seg153">Nashukuru kwa kunipa nafasi niulize swali moja la nyongeza. Pamoja na majibu mazuri ya Naibu Waziri napenda kuuliza kama ifuatavyo:-</seg>
+          <seg xml:id="seg154">Kwa kuwa migodi hii ipo kwa mfano Geita Gold Mine tangu mwaka 1999 na mingine ya KMCL tangu mwaka 2001 na kwa kuwa alama alizozisema Mheshimiwa Waziri wananchi hawajui kama ni mipaka haswa hawajaambiwa. Wao wanafikiri labda ni utamaduni wa wachimbaji wa wenye migodi na kwa sababu sasa hivi kuna wananchi wameshajenga na hawajaambiwa mipaka. Je, Serikali iko tayari sasa kwa safari hii kuwalipa fidia wale ambao watakuwa wamejenga kwenye maeneo haya ya leseni na Serikali isirudie matatizo iliyowafanyia wananchi wa Mtakuja walipe kabla ya kuwahamisha, kwa sababu ni uzembe wake? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u57" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg155">Mheshimiwa Spika, wakati mgodi unaanzishwa taratibu zote za kuanzisha mgodi kwa mujibu wa sheria na taratibu zilifuatwa ikiwa ni pamoja na kushirikisha uongozi wa Halmashauri ya Geita na Wilaya ya Geita. Mipaka hii viongozi wa Geita pia walifahamishwa na kupitia kwao basi inatarajiwa kwa maana wananchi watakuwa wanaambiwa wasiende kwenye maeneo ya migodi ambayo inatakiwa kisheria wayaheshimu.</seg>
+          <seg xml:id="seg156">Mheshimiwa Spika hakuna uzembe wowote wa Serikali uliofanyika hapa isipokuwa kama Mheshimiwa Mbunge bado anadhani kwamba yeye na ndugu wananchi wa maeneo yale hawayafahamu vizuri maeneo haya. Niko tayari kumwamrisha Afisa Madini wa Kanda aende kwenye maeneo hayo aonane upya na uongozi wa eneo hilo wawafahamishe lakini si kwa sababu kwamba walikuwa hawakuwaambia hapo awali.</seg>
+          <seg xml:id="seg157">Mheshimiwa Spika, kuhusu suala la fidia, Serikali ilishatoa fidia kwa wananchi wa Geita kwenye maeneo yote yale halali ambao walikuwa tayari wameshafanyiwa tathmini na hata wale ambao walikuwa na malalamiko, baadaye Serikali pia ilitoa fedha katikati ya mwaka 2003 na mwaka 2004 wamekuwa wakilipwa. Kwa hiyo, hakuna suala la fidia lililobakia kwa upande wa wananchi wa Geita ambao watakuwa wanavamia maeneo ya mgodi wategemee kwamba Serikali itawalipa.</seg>
+        </u>
+        <note>Na. 157. Umeme katika Maeneo Jirani na Mlalo</note>
+        <note>(k.n.y. MHE. CHARLES H. KAGONJI)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u58" who="MheJohnESingo">
+          <seg xml:id="seg158">Mheshimiwa Spika, kwa kuwa mradi wa umeme wa KV 33 ulikwishafika Mlalo ingawa mradi huo hautakuwa na manufaa makubwa kama hautafikishwa kwenye maeneo ya jirani Jimboni Mlalo ambayo yana umuhimu mkubwa kutokana na vigezo vingi kwa kiwango cha vijijini, kama vile, kuwepo viwanda vidogo vya mbao, mashine za kusaga na kukoboa nafaka, nyumba nzuri za kisasa, Makao Makuu ya Shirika la Masista wa Usambara, migahawa, maduka mbalimbali, shule za Sekondari, shamba madhubuti la Katani na vigezo vingine vingi na kwa kuwa baadhi ya viongozi wetu wamejaliwa kufika kwenye maeneo husika na kujionea wenyewe hali halisi ilivyo:-</seg>
+          <seg xml:id="seg159">(a) Je, ni lini Serikali itawapelekea umeme wananchi wa Kata za Rangwi, Sunga, Mtae na Mnazi?</seg>
+          <seg xml:id="seg160">(b) Kwa kuzingatia pia kuwepo kwa kilimo cha matunda na mboga mboga katika maeneo hayo, je, ni kwa nini Serikali kwa makusudi kabisa, isitoe kipaumbele nambari moja ili kuhakikisha kwamba umeme unafikishwa kwenye maeneo hayo?</seg>
+          <seg xml:id="seg161">(c) Je, ni vigezo gani muhimu ambavyo Serikali imeweka katika mpango wake wa kupeleka umeme vijijini hapa nchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u59" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg162">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Charles Kagonji, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg163">(a) Mradi wa kupeleka umeme katika Kata za Rangwi, Sunga, Mtae na Mnazi unakadiriwa kugharimu shilingi milioni 748. Kiasi hiki ni kikubwa na Serikali inafanya juhudi ya kutafuta fedha za kupeleka umeme kwenye miradi kama hii ya vijijini maeneo mbalimbali ya nchi.</seg>
+          <seg xml:id="seg164">(b) Pamoja na kuwepo shughuli hizo ambazo Mheshimiwa Mbunge amezitaja, kwa sasa inashindikana kupeleka umeme kutokana na Serikali kutokuwa na fedha za kufanyia kazi hiyo hasa ikizingatiwa kwamba kama nilivyosema awali kwamba maeneo</seg>
+          <seg xml:id="seg165">ya aina hii yapo mengi katika sehemu mbalimbali nchini. Lengo kuu la Serikali ni kupeleka umeme kama ambavyo tumeeleza mara nyingi Bungeni kwenye makao makuu ya Wilaya, makao makuu ya majimbo maeneo ya uzalishaji awamu kwa awamu kwa kadri ya uwezo wa fedha unavyoruhusu.</seg>
+          <seg xml:id="seg166">(c) Mheshimiwa Spika, vigezo hivyo ni kama kupeleka umeme katika maeneo mbalimbali kama ambavyo nimeeleza. Kipaumbele cha kwanza kinapewa kwa Makao Makuu ya Wilaya hadi sasa tuna Wilaya karibu 18 ambazo Makao Makuu yake hayana umeme.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u60" who="MheJohnESingo">
+          <seg xml:id="seg167">Mheshimiwa Spika, nashukuru kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg168">Mheshimiwa Spika, namshukuru Mheshimiwa Waziri kwa majibu yake mazuri, lakini swali la msingi ni lini, naiomba Wizara itufahamishe ni lini wale wananchi watapelekewa umeme?</seg>
+          <seg xml:id="seg169">Swali la pili, kwa sababu pesa inayohitajika ni nyingi shilingi milioni 748. Je, Mheshimiwa Waziri haoni kupunguza mzigo kidogo kidogo ni njia moja ya kuwafikishia wananchi huduma hiyo ya umeme? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u61" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg170">Mheshimiwa Spika, mimi napenda nikubaliane na Mheshimiwa Mbunge kwamba pale inapowezekana na fedha zimepatikana ni busara kuifanya kazi hii awamu kwa awamu na hata katika jimbo la Mheshimiwa Mbunge mwuliza swali kazi hii pia imekuwa ikifanyika awamu kwa awamu.</seg>
+          <seg xml:id="seg171">Lakini pia napenda nichukue nafasi hii kutoa wito kwetu sisi sote Waheshimiwa Wabunge kwamba pale ambapo umeme umefika tuwahamasishe wananchi basi na wao waweze kuhakikisha kwamba wanavuta umeme ili Shirika hili ambalo linafanya kazi kubwa ya kusambaza umeme nchi nzima liweze kupata fedha za kujiendesha katika eneo husika lakini pia kupeleka umeme katika maeneo mengine.</seg>
+          <seg xml:id="seg172">Mheshimiwa Spika, kwa mfano, katika Jimbo la Mlalo, kwa muda mrefu sasa TANESCO ina wateja kama 229 tu na wateja hawa kwa maana ya mapato kwa upande wa TANESCO ni kama Shilingi milioni moja kwa mwezi. Nadhani ni vizuri nikatoa wito sio katika eneo hili tu lakini katika maeneo mengine pia, sote tujitahidi kuwahamasisha wananchi wetu waweze kujiunga katika suala zima la kufungiwa umeme ili Mradi huu wa kusambaza umeme uweze kuwa makini zaidi.</seg>
+          <seg xml:id="seg173">Mheshimiwa Spika, siwezi kusema ni lini haswa suala la kupeleka umeme kwenye maeneo ambayo ameyataja Mheshimiwa John Singo, litafanyika lakini napenda nimhakikishie kwamba, Serikali inafanya juhudi kubwa ikiwa ni pamoja na kuandaa utaratibu maalum wa umeme vijijini na fund maalum ya umeme vijijini. Fund hiyo na taasisi hiyo itakapokuwa imekamilika, nadhani itatoa msukumo mkubwa sana kufikisha</seg>
+          <seg xml:id="seg174">umeme katika maeneo mbalimbali ya vijijini na sisi kama Serikali, tunatambua kwamba, umeme ni muhimu sana kama kichocheo cha maendeleo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u62" who="Spika">
+          <seg xml:id="seg175">Waheshimiwa Wabunge, maswali yote yaliyoko kwenye Order Paper ya leo yamejibiwa na muda wa maswali umekwisha. Kwa hiyo, tunaendelea na shughuli nyingine, sina matangazo yoyote, Katibu tusomee ajenda inayofuata.</seg>
+          <seg xml:id="seg176">HOJA ZA SERIKALI</seg>
+          <seg xml:id="seg177">AZIMIO</seg>
+          <seg xml:id="seg178">Azimio la Kuongeza Muda wa Kutumika kwa Sheria ya LART</seg>
+          <seg xml:id="seg179">(The Loans and Advances Realization Trust Act No.6 of 1991)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u63" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatibu">
+          <seg xml:id="seg180">Mheshimiwa Spika, kwa niaba ya Waziri wa Fedha, naomba kutoa hoja kwamba, Bunge lako Tukufu, likubali kupitisha Azimio la Kuongeza Muda wa Kutumika kwa Sheria ya Mfuko wa Udhamini wa Madeni ya mwaka 1991 (The Loans and Advances Realization Trust Act No.6 of 1991. Azimio hili lilipata ridhaa ya Kamati ya Bunge ya Fedha na Uchumi katika kikao chake tarehe 25 Juni, 2004 kilichofanyika hapa Dodoma.</seg>
+          <seg xml:id="seg181">Mheshimiwa Spika, awali ya yote, napenda kutoa shukrani zangu za dhati kwa Mheshimiwa Profesa Saimon Mbilinyi, Mbunge wa Peramiho na Kaimu Mwenyekiti wa Kamati ya Bunge ya Fedha na Uchumi, pamoja na Wajumbe wote wa Kamati hiyo, kwa maoni yao mazuri yenye lengo la kuboresha usimamizi na utekelezaji wa majukumu ya LART.</seg>
+          <seg xml:id="seg182">Mheshimiwa Spika, LART ilianzishwa kwa Sheria ya Bunge Na.6 ya mwaka 1991 na shughuli zake kuanza rasmi mwaka 1993 baada ya kukamilika kwa kanuni za ukusanyaji wa madeni, yaani LART seizure and espouse of assets rules 1993.</seg>
+          <seg xml:id="seg183">Mheshimiwa Spika, LART imekuwa na majukumu mawili makubwa yaani ukusanyaji wa madeni na ufilisi wa mashirika ya umma. Katika uhai wake, LART imepokea jumla ya madeni 187 yenye thamani ya shilingi 61 bilioni katika awamu mbili na imepokea mashirika 36 kwa ajili ya ufilisi.</seg>
+          <seg xml:id="seg184">Mheshimiwa Spika, kwa muda uliowekwa kisheria ulikoma mwaka 2000. Kutokana na mamlaka aliyopewa Waziri wa Fedha katika kifungu cha 29(1) cha Sheria ya LART aliongeza uhai wa Sheria ya LART kwa kipindi cha miaka miwili katika awamu mbili za mwaka mmoja mmoja. Muda huu wa nyongeza ulimalizika mwaka 2002.</seg>
+          <seg xml:id="seg185">Mheshimiwa Spika, mapendekezo ya kuongeza muda wa Sheria ya LART baada ya mwaka 2002 yaliidhinishwa na Bunge lako Tukufu kupitia Azimio la Bunge Na.19 la tarehe 14 Juni, 2002.</seg>
+          <seg xml:id="seg186">Mheshimiwa Spika, muda huo uliotolewa na Bunge utaisha tarehe 30 Jun, 2004, yaani leo. Kwa mujibu wa kifungu cha 29(2) cha Sheria ya LART baada ya muda wa nyongeza wa LART, Bunge ndilo lenye madaraka ya kuongeza muda wa chombo hiki kwa kipindi kitakachoonekana kinafaa.</seg>
+          <seg xml:id="seg187">Mheshimiwa Spika, pamoja na kazi kubwa iliyofanywa, LART haijaweza kukamilisha majukumu yake kwa muda huo kwa sababu mbalimbali zilizo nje ya uwezo wake. Marekebisho ya LART yaliyofanywa mwaka 1996 yaliiwezesha LART pia kupokea madeni kutoka Benki binafsi na taasisi nyingine za fedha. Hadi sasa LART imepokea madeni ya wadaiwa 83 yenye thamani ya Sh.34 bilioni kutoka Benki na taasisi zifuatazo. CRDB Limited, African Development Bank na Benki ya Posta. Kutokana na tathmini ya madeni hayo, ilikadiriwa kwamba ni shilingi bilioni 3.4 tu ndizo zingeweza kukusanywa, hadi sasa shilingi 2.1 bilioni zimekusanywa na akaunti za wadaiwa 59 kati ya wadaiwa 83 zimefungwa, ukusanyaji wa madeni ya wadaiwa 24 bado unaendelea.</seg>
+          <seg xml:id="seg188">Mheshimiwa Spika, Serikali inaomba muda zaidi wa uhai wa LART ili iweze kuamua kwa uhakika zaidi namna shughuli zilizobaki zitakavyoshughulikiwa kwa njia endelevu na isiyo ya gharama kubwa hasa kwa kuzingatia kuwa hadi sasa imekuwa ikigharamiwa na mkopo wa Benki ya Dunia. Tayari Serikali inayo mapendekezo kutoka kwa washauri wa kitaalam, wadau na LART yenyewe. Nia ni kuharakisha zoezi hili ili likamilike hata kabla ya hiyo miaka miwili kwisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u64" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatibu">
+          <seg xml:id="seg189">Mheshimiwa Spika, Serikali inayo matumaini kuwa utaalam uliojengeka katika LART utaendelea kutumika na kuwezesha kazi zilizopo kuendelezwa na hivyo kufanikisha malengo ya Serikali katika urekebishaji wa sekta ya fedha (Financial Sector Reform Programme) na ubinafsishaji wa mashirika ya umma kwa njia ya ufilisi.</seg>
+          <seg xml:id="seg190">Mheshimiwa Spika, baada ya kusema hayo, naomba sasa kuwasilisha Azimio la Bunge la Kuongeza Muda wa Kutumika kwa Sheria ya LART ya mwaka 1991 kama ifuatavyo:-</seg>
+          <seg xml:id="seg191">KWA KUWA Sheria iitwayo: The Loans and Advance Realization Trust Act, 1991 au Sheria ya LART ilipitishwa na Bunge kwa madhumuni ya kukusanya madeni sugu ya zilizokuwa Benki na taasisi za fedha za Umma, ilikusudia uhai wake ukome ifikapo tarehe 30 Juni, 2000 isipokuwa tu iwapo uhai wa sheria hiyo utarefushwa kwa mujibu wa vipengele vya sheria hiyo;</seg>
+          <seg xml:id="seg192">NA KWA KUWA kifungu cha 29(1)cha Sheria hiyo ya LART kilimpa Waziri wa Fedha mamlaka ya kurefusha uhai wa sheria hiyo kwa kipindi cha miaka miwili katika awamu mbili za mwaka mmoja mmoja na baada ya hapo Bunge ndilo lenye mamlaka ya kurefusha muda wa uhai wa LART kama litakavyoona inafaa;</seg>
+          <seg xml:id="seg193">NA KWA KUWA muda ulioongezwa na Bunge mnamo mwaka 2002 unamalizika hivi leo tarehe 30 Juni, 2004 ambapo Sheria ya LART itakoma na vyombo</seg>
+          <seg xml:id="seg194">vilivyoundwa na Sheria hiyo yaani Taasisi ya LART na Baraza la LART pia vitakoma hapo hapo sambamba na kukoma kwa Sheria hiyo ya LART;</seg>
+          <seg xml:id="seg195">NA KWA KUWA kuna shughuli ziko mikononi mwa LART na mashauri yaliyoanzwa kusikilizwa na Baraza la LART ambayo hayajakamilishwa na hivyo kuwa si busara kuziacha bila ya kuwa na usimamizi madhubuti;</seg>
+          <seg xml:id="seg196">NA KWA KUWA kurefusha uhai wa Sheria ya LART kwa muda unaostahili ndio njia pekee ya kuwezesha Serikali kuamua jinsi ya kukamilisha, kuendeleza au kuhamishia shughuli hizo kwenye vyombo mbadala au vinginevyo bila kuathiri haki, wajibu na madai yaliyokabidhiwa kwa Taasisi ya LART na Baraza la LART kama ilivyokuwa imekusudiwa wakati wa kutunga sheria na kuanzisha taasisi hiyo ya LART;</seg>
+          <seg xml:id="seg197">NA KWA KUWA Bunge hili linayo mamlaka chini ya kifungu cha 29(2) cha Sheria ya LART ya kuendeleza uhai wa Sheria ya LART kwa kipindi chochote cha ziada kinachofaa baada ya tarehe 30 Juni, 2004 baada ya kupata mapendekezo ya Waziri wa Fedha;</seg>
+          <seg xml:id="seg198">NA KWA KUWA kwa kuzingatia umuhimu na faida ya kuongeza kipindi cha muda wa kutumika kwa Sheria ya LART, Bunge hili katika Mkutano wake wa Kumi na Sita linaazimia kwamba uhai wa Sheria hiyo iitwayo The Loans and Advances Realization Trust Act, 1991 uongozwe kwa kipindi kingine kisichozidi miaka miwili kuanzia tarehe 1 Julai, 2004;</seg>
+          <seg xml:id="seg199">KWA HIYO BASI kwa mujibu wa sheria, kifungu cha 23(3)(a) cha Katiba ya Jamhuri ya Muungano wa Tanzania ya mwaka 1977, ambayo imelipa Bunge uwezo wa kujadili na kuridhia Itifaki, Makubaliano na Mikataba yote inayohusu Jamhuri ya Muungano ambayo kwa masharti yake inahitaji kuridhiwa;</seg>
+          <seg xml:id="seg200">HIVYO BASI Bunge hili linaazimia Kuridhia Azimio la Bunge la Kuongeza Uhai wa Sheria iitwayo The Loans and Advances Realization Trust Act, 1991 kwa kipindi kingine kisichozidi miaka miwili kuanzia tarehe ya Azimio hili.</seg>
+          <seg xml:id="seg201">Mheshimiwa Spika, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u65" who="WaziriWaKilimoNaChakula">
+          <seg xml:id="seg202">Mheshimiwa Spika, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u66" who="Spika">
+          <seg xml:id="seg203">Waheshimiwa Wabunge, waliojiandikisha kuchangia hoja hii ni wanne wafuatao: Mheshimiwa Dr. James Msekela, Mheshimiwa Abdullatif Hussein Esmail, Mheshimiwa Semindu Pawa na Mheshimiwa Ibrahimu Marwa. Nadhani kwa kuwa tuna shughuli nyingine ya semina baada ya hapo, tukubaliane kwamba hawa wanatosha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u67" who="MheProfSimonMMbilinyiMakamuMwenyekitiWaKamatiYaFedhaNaUchumi">
+          <seg xml:id="seg204">Mheshimiwa Spika, kwa niaba ya Mwenyekiti wa Kamati ya Fedha na Uchumi, Mheshimiwa Njelu Kasaka na kwa mujibu wa Kanuni ya 43(4) ya Kanuni za Bunge Toleo la mwaka 2004, naomba kuwasilisha mbele ya Bunge lako Tukufu, maoni ya Kamati kuhusu Azimio la Kuongeza Uhai wa Kutumika kwa Sheria ya LART (The Loans and Advances Realization Trust Act, No. 6 of 1991).</seg>
+          <seg xml:id="seg205">Aidha, kabla sijafanya hivyo, kwa niaba yangu binafsi na kwa niaba ya Kamati yangu, nachukua fursa hii, kwa masikitiko makubwa kuwapa pole za dhati, familia na wananchi wa Jimbo la Mbeya Vijijini, Mkoani Mbeya, kwa kufiwa na Mbunge wao, Mheshimiwa Yete Sintemule Mwalyego, tarehe 24 Juni, 2004 hapa Mjini Dodoma. Mwenyezi Mungu ailaze roho ya marehemu mahali pema peponi, amin.</seg>
+          <seg xml:id="seg206">Napenda pia kwa niaba yangu na Wananchi wa Jimbo Peramiho, kutoa rambirambi zangu kwa Mheshimiwa Dr. Lawrence Gama, kwa kufiwa na mtoto wake mpendwa. Naye pia namwomba Mungu ailaze roho yake mahali pema peponi, amin.</seg>
+          <seg xml:id="seg207">Mheshimiwa Spika, awali ya yote, napenda kuwashukuru Waheshimiwa Wabunge, Wajumbe wa Kamati ya Fedha na Uchumi, kwa maoni na michango yao mizuri na Naibu Waziri wa Fedha, Mheshimiwa Abdisalaam Issa Khatibu, kwa kuwasilisha mbele ya Kamati maudhui na makusudio ya Azimio yaliyolenga katika kuongeza muda wa uhai wa Sheria ya LART kwa kipindi kisichozidi miaka miwili ili shughuli zinazotekelezwa na LART ziendelezwe wakati Serikali inatafakari na kuandaa utaratibu endelevu wa kuunda chombo cha kudumu kitakachofanya kazi za LART siku zijazo.</seg>
+          <seg xml:id="seg208">Mheshimiwa Spika, zoezi la kurekebisha sekta ya umma ni endelevu katika historia ya kuimarisha uchumi wa nchi yetu kwa kutekeleza sera mbalimbali za fedha na uchumi. Aidha, sambamba na kazi zinazofanywa na Tume ya Rais ya Kurekebisha Mashirika ya Umma (PSRC), chombo hiki cha LART bado kina umuhimu wake wa kutekeleza majukumu yake kama yalivyoainishwa katika Sheria Na.67 ya mwaka 1991 iliyoanzisha LART na kupitishwa na Bunge lako Tukufu.</seg>
+          <seg xml:id="seg209">Mheshimiwa Spika, kwa kuwa kazi kubwa ya LART ya ukusanyaji madeni na ufilisi wa Mashirika ya Umma haijakamilika na wakati huo huo kuwepo kwa kesi nyingi Mahakamani, hali ambayo inasababisha kutokamilisha ufilisi wa mashirika yaliyohamishiwa LART kutoka PSRC na Msajili wa Hazina na kwa kuwa muda wa uhai wa LART utakoma ifikapo tarehe 30 Juni, 2004 yaani leo, Kamati ilijadili kwa kina umuhimu wa kuiongezea LART muda wa ziada na kupendekeza muda huo usiwe chini ya takribani miaka miwili kuanzia tarehe 1 Julai, 2004.</seg>
+          <seg xml:id="seg210">Mheshimiwa Spika, pamoja na kuafiki LART kuongezewa muda, Kamati ilikuwa na maoni ya jumla kama ifuatavyo:-</seg>
+          <seg xml:id="seg211">(i) Kamati imeiagiza management ya LART kuoanisha na kutoa michanganuo ya kazi zilizobaki kwa ufasaha zitakazokabidhiwa kwa chombo kitakachoundwa na kitakachoendeleza kazi ya LART;</seg>
+          <seg xml:id="seg212">(ii) Kamati pia imetoa pongezi kwa management kwa kazi nzuri wanayofanya ingawa bado hawajatimiza malengo yao kwa muda unaoishia Juni, 30. Kamati inaagiza jitihada za ziada ziongezwe kwa kufuatilia ufilisi, ukusanyaji madeni na kesi zilizopo Mahakamani; na</seg>
+          <seg xml:id="seg213">(iii) Kamati inaunga mkono jitihada za Serikali katika kuunda chombo cha kudumu kitakachokabidhiwa majukumu ya LART. Aidha, Kamati inashauri chombo hicho kiundwe mapema iwezekanavyo kabla ya muda huu utakaoongezwa wa LART na kufikia tarehe 30 Juni, 2006 kumalizika.</seg>
+          <seg xml:id="seg214">Mheshimiwa Spika, mwisho kabisa, napenda kuipongeza Serikali kwa kuleta Azimio hili wakati huu muafaka kabla ya muda wa uhai wa LART kufikia ukomo wake tarehe 30 Juni, 2004 yaani leo usiku wa manane. Aidha, Kamati pia inampongeza Mwanasheria Mkuu, aliyewakilishwa na Maafisa wake katika kikao cha Kamati, ambao kwa kiasi kikubwa waliisaidia Kamati kwa kutoa ufafanuzi mbalimbali na hatimaye Kamati kulipitisha Azimio.</seg>
+          <seg xml:id="seg215">Mheshimiwa Spika, baada ya majadiliano ya kina, Kamati ilipitisha Azimio la Kuongeza Muda wa Uhai wa LART.</seg>
+          <seg xml:id="seg216">Mheshimiwa Spika, naomba kuwasilisha na naunga mkono hoja, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u68" who="MheIsaacMCheyoMsemajiWaKambiYaUpinzaniaKwaWizaraYaFedha">
+          <seg xml:id="seg217">Mheshimiwa Spika, ahsante sana kwa kunipa nafasi ili nitoe maoni ya Kambi ya Upinzani.</seg>
+          <seg xml:id="seg218">Sidhani kama Kambi ya Upinzani ina sababu yoyote ya kupinga hoja ya kuongeza muda wa LART isipokuwa tu ni ule wasiwasi kwamba hii siyo mara ya kwanza LART wanakuja hapa kuomba kuongezewa muda. Walipewa muda wa miaka kumi hawakuweza kumaliza shughuli hizo wakaja hapa tena wakaomba, wamekuja tena hii ni mara ya tatu. Sasa hii inatufanya tuanze kuamini kwamba, inawezekana shughuli hizi hazikuwa zimepangwa vizuri au kuna kitu kinaingilia hapa katikati. Kwa hiyo, kama uhai wake usije basi ukawa mzigo kwa walipa kodi wa nchi hii kwa kuendelea kuwepo pale. Tufanye kazi ya kuangalia kile wanachokusanya kinalingana kweli na muda tunaoendelea kuwapa na gharama za kuweza kui-keep hiyo LART. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u69" who="MheIsaacMCheyoMsemajiWaKambiYaUpinzaniaKwaWizaraYaFedha">
+          <seg xml:id="seg219">Mheshimiwa Spika, kama wameshindwa kukusanya madeni na hizo shughuli bado zipo nyingi kuna njia nyingi za kufanya. Njia mojawapo ni kutumia tu njia za kihasibu kwamba, yale madeni hayawezi kukusanywa, you write it off, ukishayafuta moja kwa moja basi mambo mengine yanaendelea. Njia nyingine ni kutafuta watu wengine ambao wanaweza kuwa na uwezo zaidi wa kuweza kukusanya madeni haya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u70" who="MheIsaacMCheyoMsemajiWaKambiYaUpinzaniaKwaWizaraYaFedha">
+          <seg xml:id="seg220">Mheshimiwa Spika, kwa mfano, sasa tumeingiliwa katika wakati wetu wa bajeti, is also expensive kuja kuliweka hili Bunge kwa kuahirisha siku hii ya leo ambayo tungekuwa tunafanya kazi.</seg>
+          <seg xml:id="seg221">Mheshimiwa Spika, badala kuja hapa mara mbili wanapewa miaka miwili, miwili na miaka miwili hiyo hawawezi kumaliza kazi yao, basi Bunge hili liamue kuwapa miaka mitano zaidi waweze kumaliza shughuli hizo once and for all wasije tena kutupotezea muda wetu hapa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u71" who="MheIsaacMCheyoMsemajiWaKambiYaUpinzaniaKwaWizaraYaFedha">
+          <seg xml:id="seg222">Mheshimiwa Spika, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u72" who="MheDrJamesAMsekela">
+          <seg xml:id="seg223">Mheshimiwa Spika, nashukuru kwa nafasi ya awali ya kuchangia. Kwanza kabisa, naomba nitoe pole na rambirambi zangu kwa familia ya Marehemu Mheshimiwa Yete Mwalyego na kwa Waheshimiwa Wabunge wote waliofikwa na majanga katika kipindi hiki.</seg>
+          <seg xml:id="seg224">Mheshimiwa Spika, Azimio lililo mbele yetu ni nia yangu kwa kweli kuliunga lipite kwa sababu hata hivyo limechelewa sana. Napenda nianze kwa kuuliza moja kwa moja kwa nini wamechelewa namna hii kwa sababu hapa tulikuwa tuna-risk kwa kweli hii ingeweza kufia hivyo hivyo kama sheria ilivyokuwa inatamka. Napenda nielezwe sababu za msingi kwa sababu nafikiri hii sio mara ya kwanza kunakuwa na vitu vya namna hii vya aina ya kama zima moto, kitu gani kinatokea huko? Nafikiri hapa tunahitaji kupata maelezo mazuri pamoja na kuwa kwa kweli tunashangaa, mimi binafsi nashangaa sana kwa nini ilibidi mkae mpaka siku ya mwisho. Kawaida huwa hatuombi mabaya lakini kwa mfano, kama kingetokea kitu ambacho ingebidi labda leo Bunge lisikae sijui ingekuwaje? Kwa sababu hivi ni vitu ambavyo lazima pia mtu uvifikirie. Sasa hii inaonyesha matatizo ambayo yanaweza kuwepo kwenye plan.</seg>
+          <seg xml:id="seg225">Mheshimiwa Spika, lingine nilikuwa nafikiri watu kama hawa ambao clientele yao kwanza inafahamika kwa kiwango kizuri tu, walitakiwa kuwa na mpango wa kazi, walipewa kipindi kile wakaja wakarudi, wakarudi by then walitakiwa kuwa wanafahamu muda maalum ambao unatakiwa na kutoa mapendekezo kwamba hii sheria kwa kweli always tutakuwa time barred sasa tuna-suggest nini. Sasa nafikiri hii kutokuwa na mpango wa kazi ndio inawaingiza kwenye matatizo.</seg>
+          <seg xml:id="seg226">Mheshimiwa Spika, mimi nafikiri hata leo hii, pamoja na kuwa kwa kweli watapata hiyo miaka miwili, kama ambavyo ukisoma hili Azimio pamoja na kuwa hawasemi kabisa wanataka miaka miwili lakini kwenye matamshi ya Mheshimiwa Naibu Waziri, unaona kabisa moja kwa moja kwamba, wanaomba miaka miwili. Nafikiri leo wangefanya vizuri zaidi kama pamoja na kuwasilisha Azimio hili wangewasilisha mpango wa kazi ambao kwenye Azimio hili unaonekana. Mpango wenyewe wa kazi nafikiri ungekuwa na jinsi gani wanaendelea kufanya kazi yao na jinsi gani wanafikiria wata-transfer mamlaka haya au legality ya kufanya kazi ya LART kwenda kwenye chombo kipi katika muda ambao watapata extension. Nafikiri ingetusaidia sana na</seg>
+          <seg xml:id="seg227">ingeonyesha wazi kabisa kwamba, walau hawachukulii for granted kwamba, hivi vitu vitapita tu sababu saa nyingine nafikiri ni busara mtu ukafikiria, je, kama lisipopita?</seg>
+          <seg xml:id="seg228">Mheshimiwa Spika, mimi nilikuwa nafikiri, pamoja na kuwa kwenye Azimio hapa imetamkwa lakini sio bayana kwamba wakipata muda wa hii extension wanayoitaka hapa pamoja na kuendelea kufanya kazi ya LART lakini watafanya utaratibu. Ngoja nisome kwenye ukurasa wa pili, paragraph ya kwanza juu pale: „Na kwa kuwa kurefushwa kwa uhai wa Sheria ya LART kwa muda unaostahili ndio njia pekee ya kuiwezesha Serikali kuamua jinsi ya kukamilisha, kuendeleza au kuhamisha shughuli hizo kwenye vyombo mbadala”. Sasa nafikiri ni kitu ambacho wameshaona sasa lazima wakifanye.</seg>
+          <seg xml:id="seg229">Mheshimiwa Spika, nataka niseme kwamba, nafikiri wanastahili kupewa hiyo miaka miwili lakini kwa kipindi kifupi iwezekanavyo kwa ajili yao wenyewe, kwa manufaa yao wenyewe, watekelezaji hawa wajiwekee mpango ambao watahakikisha wanaufuata kwa herufi, ambao utahakikisha kukamilisha transfer ya hii legality ya functions za LART kwenye chombo hicho wanachotarajia kurithi shughuli hizo.</seg>
+          <seg xml:id="seg230">Halafu niseme tu katika Azimio lenyewe, nafikiri limeandikwa kiungwana kwa mfano, kwenye paragraph ya pili toka mwisho, ukurasa wa pili, mstari wa mwisho isipokuwa mmoja wanasema uongezwe kwa kipindi kingine kisichozidi miaka miwili kuanzia hiyo tarehe ya kesho halafu bado kwenye paragraph ya mwisho hapo chini kabisa mstari wa mwisho isipokuwa mmoja wametumia neno hilo hilo tena kisichozidi. Nafikiri kama tunaazimia kwa nini tunaazimia kwa kipindi ambacho kinaonekana kiko protracted. Sisi hapa tungesema tu kwamba, wapewe miaka miwili basi wao watimize kazi yao chini ya hiyo miaka miwili kama kazi ya kuendelea kukusanya madeni itakuwa inaendelea ni pamoja na kuja na hicho chombo ambacho natarajia kitapata baraka tu ambacho kita- substitute hii LART.</seg>
+          <seg xml:id="seg231">Mheshimiwa Spika, baada ya hayo machache, napenda kusema kwamba, naunga mkono Azimio lenyewe na napendekeza kabisa kwamba, wapewe miaka miwili sio pungufu ya hapo, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u73" who="MheAbdullatifHusseinEsmail">
+          <seg xml:id="seg232">Mheshimiwa Spika, ahsante. Kwanza, napenda kutoa pole kwa familia ya Mheshimiwa Yete Mwalyego, pamoja na Wabunge wote waliopata matatizo katika kipindi hiki cha Bunge la Bajeti, Mwenyezi Mungu atawapa subira.</seg>
+          <seg xml:id="seg233">Mheshimiwa Spika, nampongeza Naibu Waziri kwa kuleta Azimio hili bila kuchelewa. Penye maisha pana matumaini na fikra nzuri. Rais Bill Clinton, alipopata Urais alimwita War Veteran mmoja mwenye umri wa miaka 80 alimkaribisha Ikulu na akamwona yuko maktaba anasoma Kitabu cha Plato ambacho kimeandikwa tena miaka 200 iliyopita akamwuliza kwa nini unasoma kitabu hiki akamwambia I want to improve my mind.</seg>
+          <seg xml:id="seg234">Mheshimiwa Spika, Watendaji wa LART they already have their improved mind, kwa hiyo, tusiwadharau ni wajibu wetu kuwaongezea muda ili waweze kufanya kazi hii ambayo sio ndogo, ujuzi wa miaka 11 sio mdogo, we should not neglect their improved mind. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u74" who="MheAbdullatifHusseinEsmail">
+          <seg xml:id="seg235">Mheshimiwa Spika, kufanya mambo mapya lazima tupitie njia ile ya zamani. Tuwaamini na tuwape miaka miwili bila kufikiria mara ya pili wamalize kazi zao kwa gharama ndogo wasije wao wenyewe wakajiingiza kwenye madeni. Kukusanya madeni na kufilisi makampuni sio kazi rahisi unaweza ukajijengea maadui hata wakakuua, lazima tuwaonee huruma. Kuna kitu kinaitwa Court Injunction, mtu anakimbilia Mahakama ya Rufaa kupata kinga asidaiwe, inawahangaisha sana hawa wakusanya madeni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u75" who="MheAbdullatifHusseinEsmail">
+          <seg xml:id="seg236">Mheshimiwa Spika, vile vile LART imekuwa ikiisaidia PSRC kufilisi mashirika yaliyobinafsishwa. Wale wasioona bila ya miwani na wavae miwani. Shilingi bilioni 39 sio kidogo, leo sisi tunazozana shilingi bilioni 30 za STABEX kwa nini tuziachie hizi shilingi bilioni 39. Kutokana na uzee wangu na uzoefu wangu, nimechunguza au nimevumbua kwamba mtu mwenye pesa akikutana na mtu mwenye ujuzi basi mtu mwenye ujuzi anabaki na pesa na mwenye pesa anakuwa hana pesa. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u76" who="MheAbdullatifHusseinEsmail">
+          <seg xml:id="seg237">Mheshimiwa Spika, naomba kuwashauri LART yafuatayo:-</seg>
+          <seg xml:id="seg238">(i) Never do anything standing which you can do while sitting;</seg>
+          <seg xml:id="seg239">(ii) Anything sitting which you can do while sleeping;</seg>
+          <seg xml:id="seg240">(iii) Without entering the tiger’s den you can not take their cubs. Bila kuingia lile shimo la simba huwezi kupata watoto wa simba; na</seg>
+          <seg xml:id="seg241">(iii) Do not take their payment in politeness, msiwe na huruma muwe wakakamavu katika kukusanya madeni.</seg>
+          <seg xml:id="seg242">Mheshimiwa Spika, kufanya jambo dogo vizuri ni njia ya kufanya jambo kubwa vizuri zaidi. More efforts required to reach the target.</seg>
+          <seg xml:id="seg243">Nampongeza Naibu Waziri kwa kuleta Azimio hili saa machache kabla ya kumaliza muda wake. Naomba uniruhusu nimnukuu William Shakespare alisema: „Better three hours too soon than one minute too late”. Naunga mkono LART iongezewe uhai miaka miwili. Time shows the problem, ikiwa to write-off the debts basi tungefutiwa sisi Waheshimiwa Wabunge, hapa tunadaiwa, kila mwezi tunachajiwa. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u77" who="MheAbdullatifHusseinEsmail">
+          <seg xml:id="seg244">Mheshimiwa Spika, naunga mkono hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u78" who="MheSeminduKPawa">
+          <seg xml:id="seg245">Mheshimiwa Spika, nimesimama ili kuunga mkono Azimio lililoko mbele yetu. Kwa mujibu wa Kanuni ya Bunge, Bunge hili limepewa madaraka na majukumu ya kuunda chombo kilichopo madarakani ambacho</seg>
+          <seg xml:id="seg246">tulikipitisha sisi wenyewe mwaka 1991 kwa mujibu wa Sheria ambayo imetungwa na Bunge lako Tukufu, basi ni wajibu kuwa, kama unapomtuma mtu kazi hawezi kutekeleza kwa mujibu wa taratibu na muda, basi ni ustaarabu wakati mwingine kutumia vifungu vilivyopo ili kuviunga mkono ili chombo hicho kilichopo madarakani kiweze kuendelea.</seg>
+          <seg xml:id="seg247">Hivyo nimeona kwamba baada ya mafanikio yale ambayo yametajwa katika accounted report inayoishia Juni, 2003, walieleza kinaganaga kwamba, walikusanya karibu shilingi 26,484,260,652/=. Haya ni mafanikio makubwa sana kwa chombo kama hiki ambacho kina watendaji wachache sana katika orodha ya Kitabu cha Trustees kimeonyesha watendaji wake si wengi sana wala hawakuenea kwa mtandao katika hii nchi lakini madeni yapo makubwa.</seg>
+          <seg xml:id="seg248">Mheshimiwa Spika, madeni mara nyingi yanapoongezewa muda ni pale ambapo mtu anapoambiwa kwamba, unataka muda gani nikuongezee ili uweze kulipa deni lako. Lakini kwa utaratibu wa Kiserikali tunakiongezea chombo ambacho kinadai bila kujua uwezo wa huyo anayedaiwa na kwa sababu kuna Tribunal ambayo imeundwa chini ya Sheria hiyo hiyo, hivyo basi tunapokiongezea muda vile vile tunaiongeza ile Tribunal ya LART muda vile vile kwa sababu wanazo kesi karibu 136 ambazo zilikuwepo. Katika hizo ambazo zilishughulikiwa ni 78 ambazo LART wameshinda lakini tano tulishindwa. Kesi 53, zilikuwa zinangoja decision. Huu ni utaratibu mzuri, tuwaongezea muda ili waweze kuyamaliza haya. Lakini wakati mwingine tunaomba tujue kiasi ambacho kinadaiwa kwa sababu tunajua kinachokusanywa tu kwamba ni shilingi bilioni 26.4, tukajivuna, lakini tujue wakati tunaandaa LART walikuwa wanadai kiasi gani au madeni yanakuwa cumulative, unapomaliza hili linaongezeka lingine?</seg>
+          <seg xml:id="seg249">Mheshimiwa Spika, halafu kuna madeni mengine hayawezi kulipika, unaweza kumfuata mtu, lakini kwa kweli hata ukimwona mwenyewe unaona kama unaomba jamvi kwenye msiba. Kwa kweli madeni kama hayo unaweza kuamua tu kwamba, yaletwe katika Public Account Committee au sijui katika Kamati gani ili yaweze kufikiriwa. Kuna baadhi ya madeni ambayo ni madogo madogo sana kiasi kwamba, yanashughulikiwa na sekta ambazo zitakuwa zinahusika. Halafu mgongano wa utekelezaji katika vyombo ambavyo vinahusika, kwa mfano, kuna holding inayokusanya madeni katika benki, ile nayo vile vile tuone kwamba, wasidai mdaiwa mmoja kwa wadai wengi, kwani anaweza kuchanganya ili ababaishe kwenye mahesabu.</seg>
+          <seg xml:id="seg250">Mheshimiwa Spika, after all baada ya kuona audited account yao pamoja na kusoma ile sheria, pamoja na maelezo ya Waziri, nimelazimika kuunga mkono hoja hii kwamba, Azimio hili lipite. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u79" who="MheIbrahimuWMarwa">
+          <seg xml:id="seg251">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ili niwe mchangiaji wa mwisho kwenye hoja hii ya kupitisha Azimio la kuongeza muda wa LART. Nami kwa niaba ya Wananchi wa Jimbo la Musoma Mjini, naomba nitoe salamu zangu za pole kwa familia ya Marehemu Mheshimiwa Yete Mwalyego, pamoja na Wananchi wa Mbeya Vijijini, kwa kumpoteza mwakilishi wao. Naomba Mwenyezi Mungu, ailaze roho ya marehemu mahali pema peponi, amen.</seg>
+          <seg xml:id="seg252">Mheshimiwa Spika, naomba na mimi niseme naunga mkono hoja hii kwa asilimia mia moja, maana ninaweza nikafika mwisho nikasahau kuunga mkono halafu ikawa tatizo. Kwa hiyo, naomba nitoe msimamo wangu mapema. Mimi nilitaka kuzungumza machache tu kwamba, Bunge lako Tukufu ni lazima lipewe muda wa kutosha kujadili baadhi ya vitu na hatutarajii kwamba Bunge litakuwa labda ni sehemu ambayo tunaweza kuletewa vitu dakika za mwisho tu. Kwa mfano, kitu kama hiki cha ku-extend muda wa chombo kama LART dakika za mwisho kama ambavyo wazungumzaji wenzangu walivyozungumza, mimi nilitegemea kwamba vitu kama hivyo tunavipata mapema, Wabunge wanajadili, tunapata nafasi nje ya Bunge kuvijadili na tunaelewa kwamba zipo sababu za kuendelea kuviongezea muda na kutoa ushauri na vitu kama hivyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u80" who="MheIbrahimuWMarwa">
+          <seg xml:id="seg253">Mheshimiwa Spika, mimi sina tatizo na ndugu zangu hawa wa LART. Kwanza, kwa kweli wamefanya kazi nzuri na nina matumaini kwamba, bado wana majukumu ambayo wanahitaji kuyakamilisha katika kipindi cha miaka miwili wanayoomba. Lakini pamoja na hayo wasiwasi wangu ni kwamba, katika mazingira haya ya kazi hizi zinazofanywa na LART, muda wa miaka miwili ni mchache sana na sina hakika kama miaka miwili itawatosha LART kukamilisha kazi hizi walizonazo na kuji-transform kwenda kuwa kama Idara ya Serikali. Kwa hiyo, kuna vitu viwili hapa, kukamilisha majukumu yao na vilevile kwa miaka hii miwili wajibadilishe wawe ni chombo katika Idara ya Serikali. Kwa hiyo, nilidhani kama walivyozungumza wenzangu pia waliangalie hili kwamba, ni vyema basi kukawekwa mkakati ambao wataufanyia kazi katika kipindi hiki cha miaka miwili ili waweze kukamilisha haya malengo ambayo yamesalia na hayo yatakayosalia basi waweze kuyahamishia katika hicho kitengo ambacho kitaundwa hapo baadaye. Lakini nililotaka kuzungumza ni kwamba, nimewajibika kusimama nichangie hoja hii kwa sababu pale kwangu nina Kiwanda cha Nguo cha MUTEX na hiki kiwanda kinasimamiwa na LART kwa hivi sasa. Nilikuwa najiuliza kama leo Bunge lisingeridhia hili Azimio, hivi kiwanda kile kingekuwa chini ya nani baada ya saa machache kuanzia sasa? Kwa hiyo, natoa hii tahadhari kwamba ni vyema vitu hivi tusivifanye tu kwa kuwa na uhakika kwamba, Bungeni ni sehemu ya kuleta vitu na vikapita. Kwa hiyo, nilikuwa najiuliza na kusema hivi leo kama Wabunge watakataa kuridhia Azimio hili la kupitisha nyongeza ya muda wa LART, kile kiwanda kingekuwa chini ya uangalizi wa nani? Kwa hiyo, mimi ninaungana na Waheshimiwa Wabunge wenzangu, kukubali hoja hii, lakini baada ya kuwa tumeridhia hii hoja, niwaombe basi ndugu zangu hawa wa LART wahakikishe kwamba, wanamaliza tatizo la malipo ya wale wafanyakazi wa pale Kiwanda cha Nguo cha Musoma. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u81" who="MheIbrahimuWMarwa">
+          <seg xml:id="seg254">Mheshimiwa Spika, tulizungumza nao vizuri na wafanyakazi wakaridhia kulipwa malipo kama walivyokuwa wameletewa zile barua za awali na LART. Lakini baada ya kupewa zile barua za malipo yale, baadaye malipo yale yakabadilishwa, zile barua zikabadilishwa, wakaja kuletewa barua ambazo kwa kweli zilikuwa zinakatisha tamaa. Maana kama mtu aliambiwa atalipwa shilingi laki tatu au nne, analetewa barua baadaye ya kumwambia anatakiwa alipwe shilingi elfu sitini au sabini wakati barua ya kwanza ilikuwa inamwonyesha angelipwa takriban shilingi labda laki tatu au nne. Kwa hiyo, ningewaomba basi LART, baada ya kuwa sasa tumewapa nafasi tena ya kurudi kwenye ofisi kwa miaka miwili, tatizo la malipo ya wafanyakazi wa Kiwanda cha Nguo cha</seg>
+          <seg xml:id="seg255">Musoma yamalizwe. Mimi sipendi kuingia kwenye ugomvi tena na LART kwa sababu tumefanya kazi nzuri kwa pamoja na nisingependa kurudi hapa tukaanza tena kunyoosheana vidole.</seg>
+          <seg xml:id="seg256">Mheshimiwa Spika, la mwisho kabisa ni kwamba, kwa sababu sasa hivi LART walikuwa wame-repossess kiwanda kutoka kwa mnunuzi huyu ambaye yupo na bahati nzuri ni kwamba wamefanya mazungumzo na mnunuzi huyu, sasa amekwishaonyesha dalili za kulipa, nadhani huu mgogoro ungemalizika ili hivi viwanda vyetu visiwe sehemu ya migogoro maana tunapokwenda Mahakamani kushtakiana na baadhi ya wawekezaji au wanunuzi tunakuwa tunawasumbua na kuwatesa sana wananchi wetu ambao wanapata ajira kutoka kwenye hivi viwanda. Kwa hiyo, naiomba LART baada ya kuwa tumepitisha hili Azimio leo, basi mimi ya kwangu ni hayo mawili kwamba, wahakikishe wanasimamia kwa dhati malipo ya wale wafanyakazi waliokuwa MUTEX chini ya Serikali na wamalize huu mgogoro ambao upo na huyu mnunuzi ambaye yupo sasa hivi pale.</seg>
+          <seg xml:id="seg257">Mheshimiwa Spika, naomba na mimi niseme naunga mkono hoja na niwatakie kila la kheri ndugu zangu wa LART. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u82" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatibu">
+          <seg xml:id="seg258">Mheshimiwa Spika, naomba kuwashukuru wachangiaji wote wa Azimio hili ikiwa ni pamoja na Kaimu Mwenyekiti wa Kamati ya Fedha na Uchumi, Mheshimiwa Profesa Simon Mbilinyi, Msemaji wa Kambi ya Upinzani, Mheshimiwa Isaac Cheyo, Mheshimiwa Dr. James Msekela, Mheshimiwa Abdullatif Hussein Esmail, Mheshimiwa Semindu Pawa na Mheshimiwa Ibrahimu Marwa. Ninashukuru kwamba wote wameunga mkono Azimio hili na yale yote waliyotushauri na waliyotaka yachukuliwe hatua tunawahakikishieni kwamba, LART itafanya hivyo. Hatukufanya kwa makusudi kuwashtukizieni lakini kama nilivyosema wakati nawasilisha Azimio hilo kwamba, already LART na wadau wote wanaohusika, wameshaanza mazungumzo namna LART inayokuja iwe ya aina gani, lakini kwa sababu hatukuweza kumaliza kwa wakati ndiyo maana tulichelewa. Kwa hilo tunaomba radhi.</seg>
+          <seg xml:id="seg259">Mheshimiwa Spika, baada ya kusema hayo, nasema tena kwamba yale yote ambayo wametushauri Waheshimiwa Wabunge, tutayazingatia na tutafanya kama walivyotushauri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u83" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatibu">
+          <seg xml:id="seg260">Mheshimiwa Spika, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u84" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatibu">
+          <seg xml:id="seg261">(Azimio la Kuongeza Muda wa Kutumika kwa Sheria ya LART lilipitishwa na Bunge)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2004-06-30-bunge-16-16.u85" who="Spika">
+          <seg xml:id="seg262">Waheshimiwa Wabunge, mpaka hapo ndiyo tumefikia mwisho wa shughuli za Bunge mpaka kesho saa tatu asubuhi, ili kazi nyingine ya semina iliyotangazwa iweze kufanyika. Semina itaanza saa tano kamili. Hapo katikati</seg>
+          <seg xml:id="seg263">Waheshimiwa Wabunge, mnaweza mkapumzika kidogo ili Jaji Makame, Mwenyekiti wa Tume ya Uchaguzi na wenzake, waweze kuingia na kujiandaa kuendesha semina.</seg>
+          <seg xml:id="seg264">Bunge linaahirishwa mpaka kesho saa tatu asubuhi.</seg>
+          <seg xml:id="seg265">(Saa 4.43 asubuhi Bunge liliahirishwa mpaka siku ya Alhamisi</seg>
+          <seg xml:id="seg266">tarehe 1 Julai, 2004 saa tatu asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

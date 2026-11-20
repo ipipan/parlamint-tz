@@ -1,0 +1,787 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2021-03-31) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2021-03-31) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="2">2. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="3">3. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1618293647-31 MARCH, 2021.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2021-03-31">31.03.2021</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u1" who="NaibuSpika">
+          <seg xml:id="seg1">Waheshimiwa Wabunge, Maswali, tutaanza na Ofisi ya Rais, TAMISEMI. Mheshimiwa Hassan Seleman Mtenga, Mbunge wa Mtwara Mjini, sasa aulize swali lake. Kwa niaba yake Mheshimiwa Nape Nnauye.</seg>
+        </u>
+        <note>Na. 11. Kuongeza Ruzuku Katika Mpango wa Elimu Bure</note>
+        <note>K.n.y. MHE. HASSAN S. MTENGA</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u2" who="MheNapeMNnauye">
+          <seg xml:id="seg2">Je, Serikali ina mkakati gani wa kuongeza ruzuku katika mpango wa utoaji bure Elimu ya Sekondari na Msingi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u3" who="SerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg3">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, TAMISEMI, naomba kujibu swali la Mheshimiwa Hassan Seleman Mtenga, Mbunge wa Jimbo la Mtwara Mjini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, Serikali imeendelea kutekeleza Mpango wa Elimumsingi Bila Malipo nchini ulioanza kutekelezwa mwezi Desemba, 2015. Fedha zinazotolewa kupitia mpango huo zinahusisha fidia ya ada, shughuli za uendeshaji wa shule, fedha za chakula kwa shule za bweni na malipo ya posho za madaraka kwa Wakuu wa Shule na Maafisa Elimu Kata.</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, katika mwaka wa fedha 2021/2022, Serikali inaomba kutengewa kiasi cha shilingi bilioni 312.09 kwa ajili ya utekelezaji wa Mpango wa Elimu Bila Malipo ambalo ni ongezeko la shilingi bilioni 13.96 ikilinganishwa na shilingi bilioni 298.13 zilizoidhinishwa katika mwaka wa fedha 2020/2021. Serikali itaendelea kutenga fedha kwa ajili ya utekelezaji wa mpango wa Elimumsingi Bila Malipo kwa kadiri ya mahitaji na upatikanaji wa fedha. Aidha, kuanzia mwezi Desemba, 2015 hadi Februari mwaka 2021, Serikali imetoa kiasi cha shilingi trilioni 1.26 kwa ajili ya Elimumsingi Bila Malipo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u4" who="NaibuSpika">
+          <seg xml:id="seg6">Mheshimiwa Nape Nnauye, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u5" who="MheNapeMNnauye">
+          <seg xml:id="seg7">Mheshimiwa Naibu Spika, ahsante. Pamoja na majibu mazuri ya Serikali, naomba kuuliza maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg8">Mheshimiwa Naibu Spika, swali la kwanza, baada ya kazi nzuri iliyofanywa na Serikali ya kutoa Elimumsingi Bila Malipo kwa miaka mitano mfululizo, kuna changamoto ambazo zimejitokeza kutokana na zoezi hili. Moja ya eneo kubwa ni kwamba vigezo vinavyotumika kupeleka fedha kidogo vinasumbua, hasa kwa shule ambazo zina wanafunzi wachache wakati baadhi ya mahitaji hasa ya utawala yanafana. Je, Serikali haioni umefika wakati wa kupitia upya</seg>
+          <seg xml:id="seg9">vigezo hivi na kuona namna bora ya kupeleka fedha hasa kwenye eneo la utawala ili kutatua tatizo hili?</seg>
+          <seg xml:id="seg10">Mheshimiwa Naibu Spika, swali la pili, Elimumsingi kwa definition ambayo imekuwa ikitolewa ni kuanzia Chekechea mpaka Kidato cha Nne. Hapa pana Kidato cha Tano na cha Sita ambapo hakuna facility na Elimu ya Juu kuna mikopo.</seg>
+          <seg xml:id="seg11">Je, Serikali haioni sasa umefika wakati wa kuhusisha kidato cha tano na cha sita kwenye elimumsingi ili nao wapate elimu hii ambayo imekuwa ikitolewa na Serikali? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u6" who="NaibuSpika">
+          <seg xml:id="seg12">Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, Mheshimiwa David Ernest Silinde, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u7" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg13">Mheshimiwa Naibu Spika, naomba kujibu maswali madogo mawili ya nyongeza ya Mheshimiwa Nape Moses Nnauye, Mbunge wa Mtama, kama ifuatavyo:-</seg>
+          <seg xml:id="seg14">Mheshimiwa Naibu Spika, ni kweli alichoeleza Mheshimiwa Mbunge kwamba Serikali ina vigezo vyake ikiwemo idadi ya wanafunzi na ndiyo mfumo ambao tunautumia kupeleka hiyo ruzuku ya fedha katika shule zote nchini. Bahati mbaya sana kwenye zile shule ambazo wanafunzi wake ni wachache tumekuwa tukipeleka fedha kulingana na mahitaji ama kulingana na idadi yao ambayo ipo.</seg>
+          <seg xml:id="seg15">Mheshimiwa Naibu Spika, Serikali imekuwa na nia njema na ndiyo maana moja ya nia njema yake ni kuanzisha Elimu Bila Malipo. Kutokana na hiyo nia njema, sasa hivi nafikiri ninyi nyote mmejua, moja ya jitihada kubwa ya Serikali ilikuwa ni kuboresha miundombinu hususan katika yale maeneo ambayo shule nyingi zimekosa uhitaji na Wabunge wote ni mashuhuda sasa hivi, Serikali imepeleka fedha kwa ajili ya ujenzi wa madarasa, mabweni, mabwalo pamoja na maabara. Ndiyo maana nimeeleza kwenye jibu langu la</seg>
+          <seg xml:id="seg16">msingi kwamba, kulingana na bajeti na mahitaji tutaendelea kutenga fedha. Hata hivyo, hiyo changamoto anayoielezea Mheshimiwa Mbunge tunaipokea na kutaifanyia kazi.</seg>
+          <seg xml:id="seg17">Mheshimiwa Naibu Spika, swali la pili kuhusiana na wanafunzi wa Kidato cha Tano na Sita ambao Mheshimiwa Mbunge ameeleza kwamba hawahusiki na Elimu Bila Malipo. Moja nipokee, lakini hili ni suala la kisera; na kwa sababu Serikali ipo hapa ndani, tumelipokea hilo na tutalifanyia kazi tuone mahitaji yake kulingana na mazingira tuliyonayo. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u8" who="NaibuSpika">
+          <seg xml:id="seg18">Mheshimiwa Dkt. Christine Gabriel Ishengoma, Mbunge wa Viti Maalum, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 12. Kujenga Hospitali ya Kisasa Morogoro</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u9" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg19">Je, Serikali ina mpango gani wa kujenga Hospitali ya kisasa Mkoani Morogoro?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u10" who="NaibuSpika">
+          <seg xml:id="seg20">Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, Mheshimiwa Dkt. Festo Dugange, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u11" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg21">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, TAMISEMI, naomba kujibu swali la Mheshimiwa Dkt. Christine Gabriel Ishengoma, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg22">Mheshimiwa Naibu Spika, Serikali inaendelea na mpango wa kujenga Hospitali za kisasa za Halmashauri na za Rufaa za Mikoa ili kuboresha huduma za afya za rufaa katika ngazi hizo. Kupitia mpango huo, Hospitali ya Rufaa ya Mkoa wa Morogoro itakarabatiwa na kupanuliwa. Mpango</seg>
+          <seg xml:id="seg23">huo utahusika ujenzi wa jengo la kisasa la wagonjwa wa nje, jengo la kutolea huduma za dharura, jengo la huduma za uchunguzi wa mionzi na maabara, matibabu ya viungo, huduma za famasia, utawala pamoja na Wodi Maalum (Private Wards).</seg>
+          <seg xml:id="seg24">Mheshimiwa Naibu Spika, kwa kuwa eneo ilipo Hospitali ya Rufaa ya Mkoa wa Morogoro kwa sasa ni dogo, Serikali kupitia Ofisi ya Mkuu wa Mkoa wa Morogoro inakamilisha taratibu za umiliki wa eneo lenye ukubwa wa ekari 100 kwa ajili ya ujenzi wa Hospitali ya Rufaa ya Mkoa ya kisasa.</seg>
+          <seg xml:id="seg25">Mheshimiwa Naibu Spika, vilevile katika kuboresha huduma za afya ngazi ya msingi katika Mkoa wa Morogoro, Serikali imejenga Hospitali tano za Halmashauri ya Malinyi, Gairo, Morogoro, Mvomero na Kilombero kwa gharama ya shilingi bilioni 7.5 katika kipindi cha Juni, 2016 hadi Juni, 2020. Katika mwaka wa fedha 2020/2021, Serikali imetenga kiasi cha shilingi bilioni mbili kwa ajili ya kuanza ujenzi wa Hospitali za Halmashauri ya Mlimba na Mvomero. Aidha, shilingi bilioni 1.5 zimetengwa kwa ajili ya kuendelea na ujenzi wa wodi tatu katika Halmashauri za Wilaya za Malinyi, Gairo na Morogoro.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u12" who="NaibuSpika">
+          <seg xml:id="seg26">Mheshimiwa Dkt. Christine Ishengoma, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u13" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg27">Mheshimiwa Naibu Spika, ahsante sana. Namshukuru Naibu Waziri kwa majibu mazuri. Naishukuru Serikali kwa kuwa na mpango wa kujenga Hospitali ya kisasa kwenye Mkoa wetu wa Morogoro. Hata hivyo, bado kuna tatizo la umilikishaji na nimeambiwa kuwa karibu watakamilisha umilikishaji.</seg>
+          <seg xml:id="seg28">Mheshimiwa Naibu Spika, swali langu la kwanza, Hospitali hiyo ya Rufaa ya Morogoro ambayo tunaipanua mpaka sasa hivi haina kifaa cha CT-Scan na hili swali nilishauliza humu ndani, nikaahidiwa lakini mpaka sasa hivi hatujapata kifaa hicho. Je, kifaa hicho tutapatiwa lini?</seg>
+          <seg xml:id="seg29">Mheshimiwa Naibu Spika, swali langu la pili, kutokana na Mkoa wa Morogoro kuwa katikati na kupokea majeruhi wengi lakini tuna tatizo la mtambo wa oxygen. Je, Serikali ina mkakati gani wa kutupatia mtambo wa oxygen ili kupunguza matatizo tuliyonayo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u14" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg30">Mheshimiwa Naibu Spika, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u15" who="NaibuSpika">
+          <seg xml:id="seg31">Ahsante sana. Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, Mheshimiwa Dkt. Dugange, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u16" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg32">Mheshimiwa Naibu Spika, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Dkt. Christine Ishengoma, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg33">Mheshimiwa Naibu Spika, ni kweli kwamba Serikali imedhamiria kuhakikisha inaboresha huduma za afya za kibingwa katika Hospitali za Rufaa za Mikoa ikiwepo Hospitali ya Rufaa ya Mkoa wa Morogoro. Katika mipango yake, Serikali imeweka mipango ya kuhakikisha vifaa tiba kama CT-Scan zinapatikana katika hospitali kubwa za mikoa ikiwemo Hospitali ya Rufaa ya Mkoa wa Morogoro.</seg>
+          <seg xml:id="seg34">Mheshimiwa Naibu Spika, ni kweli kwamba Serikali iliahidi na ahadi yake bado ipo pale pale. Kazi inayoendelea sasa ni kutafuta fedha ili tuweze kupata mashine hiyo ya CT- Scan na kuifunga katika Hospitali ile ya Rufaa ya Mkoa wa Morogoro ili kuweza kuboresha huduma. Kwa hiyo, naomba nimhakikishie Mheshimiwa Mbunge kwamba jambo hilo bado linafanyiwa kazi na Serikali na litakamilika ili tuweze kuboresha huduma za afya katika Hospitali ya Rufaa ya Mkoa wa Morogoro.</seg>
+          <seg xml:id="seg35">Mheshimiwa Naibu Spika, kuhusiana na umuhimu wa kuwa na mtambo wa oxygen katika hospitali ile, ni kweli, Mkoa wa Morogoro upo kwenye highway ambapo mara nyingi kunakuwa na matukio ya ajali. Kwa hiyo, tuna kila sababu ya kuwa na mitambo ya oxygen ili kuwezesha mkoa</seg>
+          <seg xml:id="seg36">kuwa na uhakika wa kupata oxygen pale inapohitajika. Jambo hili pia limechukuliwa na Serikali, linafanyiwa kazi, fedha inatafutwa ili mtambo uweze kuwekwa pale na kuboresha huduma kwa wananchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u17" who="NaibuSpika">
+          <seg xml:id="seg37">Mheshimiwa Vita Kawawa, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u18" who="MheVitaRKawawa">
+          <seg xml:id="seg38">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg39">Mheshimiwa Naibu Spika, kwa kuwa kule kwetu Namtumbo kuna vituo vya afya viwili; Kituo cha Afya cha Mkongo na Kituo cha Afya cha Mputa ambavyo vilijengwa mwanzoni mwa miaka 1980 na hali yake kwa sasa hivi ni mbaya sana.</seg>
+          <seg xml:id="seg40">Kwa kuwa wakati ule vilipojengwa kulikuwa hakuna majengo ya upasuaji, je, Serikali inaweza ikatusaidia kutuletea au kututengea fedha kwa ajili ya kukarabati vituo hivyo vya afya na kujengewa vyumba vya upasuaji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u19" who="NaibuSpika">
+          <seg xml:id="seg41">Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u20" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg42">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Vita Kawawa, Mbunge wa Namtumbo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg43">Mheshimiwa Naibu Spika, ni kweli kwamba Serikali imeendelea kuboresha miundombinu ya utoaji huduma za afya na kwa muktadha huu inajumuisha ujenzi wa vituo vya afya, upanuzi na pia ukarabati vituo vya afya. Katika Halmashauri ya Wilaya ya Namtumbo, Kituo cha Afya cha Mkongo na Mputa ni Vituo vikongwe na vinahitaji kufanyiwa upanuzi na vinahitaji kukarabatiwa na kuongezewa baadhi ya majengo.</seg>
+          <seg xml:id="seg44">Mheshimiwa Vita Kawawa, Mbunge wa Namtumbo kwamba Serikali inachukua hoja hii na kwenda kuifanyia kazi ili tuweze kuona kadri ya upatikanaji wa fedha, tunatenga fedha kwa ajili ya ukarabati wa vituo hivyo na pia kuongeza majengo; yakiwepo ya upasuaji na majengo mengine ili viweze kutoa huduma bora kwa wananchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u21" who="NaibuSpika">
+          <seg xml:id="seg45">Mheshimiwa Timotheo Mnzava, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u22" who="MheTimotheoPMnzava">
+          <seg xml:id="seg46">Mheshimiwa Naibu Spika, nakushukuru. Pamoja na kazi kubwa na nzuri iliyofanywa na Serikali kwenye ujenzi wa hospitali na vituo vya afya, kama alivyokiri Mheshimiwa Naibu Waziri, ni kweli bado kuna uchakavu mkubwa wa vituo vyetu vya afya.</seg>
+          <seg xml:id="seg47">Napenda kujua kutoka kwa Mheshimiwa Waziri, ni upi sasa mpango wa Serikali kuhakikisha kwamba tunamaliza kabisa ukarabati wa vituo vyote vichakavu na vikongwe vikiwemo Vituo vya Afya vya Mombo, Bungu na Magoma katika Wilaya ya Korogwe?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u23" who="NaibuSpika">
+          <seg xml:id="seg48">Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u24" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg49">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mnzava, kama ifuatavyo:-</seg>
+          <seg xml:id="seg50">Mheshimiwa Naibu Spika, ni kweli kwamba Serikali imefanya kazi kubwa sana katika ujenzi wa hospitali, vituo vya afya na zahanati na pia imefanya kazi kubwa sana katika kukarabati vituo vya afya ili kuwezesha kutoa huduma bora kwa wananchi. Ni kweli pia kwamba bado kazi ipo na inahitajika kufanyika zaidi na Serikali inatambua kwamba bado kuna vituo vya afya ambavyo ni chakavu na vinahitaji kukarabatiwa vikiwemo vituo vya afya vilivyopo katika Jimbo la Korogwe Vijijini kwa Mheshimiwa Mnzava.</seg>
+          <seg xml:id="seg51">Mheshimiwa Naibu Spika, katika bajeti ya mwaka huu, Serikali imetenga shilingi bilioni 11 na imeshaainisha hospitali 43 za Halmashauri kwa ajili ya ukarabati na kuongeza majengo ambayo yanapungua ili yaweze kutoa huduma bora zaidi kwa wananchi. Pia mchakato wa kuandaa na kuainisha vituo vya afya chakavu vikiwemo vya Korogwe Vijijini, unaendelea.</seg>
+          <seg xml:id="seg52">Mheshimiwa Naibu Spika, naomba nimhakikishie Mheshimiwa Mnzava kwamba vituo vyake pia vitaingizwa katika orodha hiyo ili kadri ya upatikanaji wa fedha viweze kukarabatiwa na kutoa huduma bora zaidi kwa wananchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u25" who="NaibuSpika">
+          <seg xml:id="seg53">Mheshimiwa Yahya Mhata, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u26" who="MheYahyaAMhata">
+          <seg xml:id="seg54">Mheshimiwa Naibu Spika, naomba nichukue nafasi hii kuishukuru sana Serikali kwa kutenga fedha za kutosha kuweza kukarabati na kujenga wodi ya akina mama katika hospitali ya Wilaya ya Mangaka. Hospitali ile imekwisha, je, Serikali inatuhakikishia vipi upatikanaji wa vifaa tiba katika hospitali ile wakati kazi imeshakamilika? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u27" who="NaibuSpika">
+          <seg xml:id="seg55">Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, Mheshimiwa Dkt. Dugange, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u28" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mhata, Mbunge wa Nanyumbu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg57">Mheshimiwa Naibu Spika, Serikali imetenga bajeti ya kununua vifaa tiba katika hospitali zote mpya za Halmashauri 67. Jumla ya shilingi bilioni 33.5 zimetengwa katika mwaka huu wa fedha na tayari taratibu za mawasiliano kati ya Ofisi ya Rais, TAMISEMI, Wizara ya Afya na MSD kuona utaratibu wa kupata vifaa tiba katika hospitali zile mpya unafanyika mapema iwezekanavyo ili vifaa vile viweze kupelekwa katika</seg>
+          <seg xml:id="seg58">hospitali zetu mpya za Halmashauri na kuanza kutoa huduma zinazotarajiwa.</seg>
+          <seg xml:id="seg59">Mheshimiwa Naibu Spika, naomba nimhakikishie Mheshimiwa Mhata na Waheshimiwa Wabunge kwamba hospitali zetu zote na vituo vya afya zilizojengwa, taratibu za kuhakikisha zinaanza kutoa huduma za afya zinaendelea na Serikali inaendelea kwa kadiri ya upatikanaji wa fedha, kutenga fedha za kununua vifaa hivyo ikiwemo Hospitali ya Wilaya ya Nanyumbu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u29" who="NaibuSpika">
+          <seg xml:id="seg60">Waheshimiwa Wabunge, tunaendelea na swali la Mheshimiwa Noah Lemberis Saputu, Mbunge wa Arumeru Magharibi.</seg>
+        </u>
+        <note>Na. 13. Serikali Kuboresha Hospitali ya Wilaya ya Olturumet Arusha</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u30" who="MheNoahLSMollel">
+          <seg xml:id="seg61">Je, ni lini Serikali itaboresha Hospitali ya Wilaya ya Olturumet katika Halmashauri ya Wilaya ya Arusha kwa kuipatia jengo la OPD, Wodi ya kulaza Wagonjwa, Jengo la X-Ray na mashine ya X-Ray ili Hospitali hiyo iweze kutoa huduma kwa wananchi ipasavyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u31" who="NaibuSpika">
+          <seg xml:id="seg62">Mheshimiwa Naibu Waziri, Ofisi ya Rais, TAMISEMI, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u32" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg63">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, TAMISEMI, naomba kujibu swali la Mheshimiwa Noah Lemberis Saputu Mollel, Mbunge wa Arumeru Magharibi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, Serikali inatambua uwepo wa Hospitali kongwe 43 za Halmashauri nchini ikiwemo</seg>
+          <seg xml:id="seg65">Hospitali ya Halmashauri ya Olturumet Arusha, ambazo zinahitaji ukarabati na upanuzi wa miundombinu ili kuendana na mahitaji ya sasa ya utoaji wa huduma za afya.</seg>
+          <seg xml:id="seg66">Mheshimiwa Naibu Spika, Serikali imeanza kutekeleza Mpango wa Ukarabati wa Hospitali kongwe 43 nchini ambapo katika mwaka wa fedha 2021/2022, Serikali itaomba kutengewa kiasi cha shilingi bilioni 11 kwa ajili ya kuanza ukarabati wa Hospitali 21 za Halmashauri nchini. Mpango huo utaendelea kutekelezwa kwa awamu hadi ukarabati na upanuzi wa hospitali kongwe zote nchini utakapokamilika.</seg>
+          <seg xml:id="seg67">Mheshimiwa Naibu Spika, naomba kumhakikishia Mheshimiwa Mbunge Noah kuwa Hospitali ya Wilaya ya Olturumet Arusha ni miongoni mwa hospitali ambazo zitafanyiwa ukarabati na upanuzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u33" who="NaibuSpika">
+          <seg xml:id="seg68">Mheshimiwa Noah Saputu, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u34" who="MheNoahLSMollel">
+          <seg xml:id="seg69">Mheshimiwa Naibu Spika, nashukuru. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, na kutakuwa na maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg70">Mheshimiwa Naibu Spika, nataka kuuliza, kwa kuwa suala la kupanuliwa kwa hospitali hiyo ilikuwa ni ahadi ya Mheshimiwa Rais kwa muda mrefu; je, hospitali hiyo iko kwenye idadi ya hospitali 21 zitakazokarabatiwa katika bajeti ya mwaka 2021/2022?</seg>
+          <seg xml:id="seg71">Mheshimiwa Naibu Spika, swali la pili. Kwa kuwa, hospitali hiyo inatoa huduma kwa akina mama na watoto vijijini ambao hawana uwezo wa kupata huduma za afya kwenye hospitali binafsi ambazo ni gharama kubwa, je, Serikali sasa haioni ni wakati muafaka wa kuiweka hospitali hiyo kwenye bajeti ya mwaka 2021/2022 ili na yenyewe iweze kutoa huduma bora kwa wananchi wetu?</seg>
+          <seg xml:id="seg72">ya Rais TAMISEMI naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Noah Mollel Mbunge wa Arumeru Magharibi kama ifuatavyo:-</seg>
+          <seg xml:id="seg73">Mheshimiwa Naibu Spika, kwanza nimhakikishie kwamba ahadi zote za viongozi wetu wa Kitaifa ni kipaumbele katika utekelezaji wa miradi ya maendeleo. Nimhakikishie kwamba hospitali hii ya Orturmet ni miongoni mwa hospitali ambazo zimepewa kipaumbele; na nimhakikishie kwamba katika Mwaka wa Fedha 2021/2022 tumeanza na hospitali 21 awamu ya kwanza; na tutakuwa na awamu ya pili ya hospitali zile nyingine ambazo zinabaki. Nimhakikishie katika awamu hiyo ya pili hospitali hiyo ya Orturmet Arusha ni miongoni mwa hospitali ambazo zitaingizwa ili ziweze kufanyiwa upanuzi na ukarabati.</seg>
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, ni kweli kwamba hospitali hii inatoa huduma kwa wananchi vijijini na wengi wao ambao hawana uwezo na ndiyo maana Serikali imeendelea kuhakikisha kwamba inaingiza kwenye orodha hospitali ambazo zinapewa kipaumbele kwaajili ya ukarabati ili iendelee kutoa huduma bora zaidi kwa wananchi katika maeneo hayo. Kwa hiyo nimhakikishie Mheshimiwa Noah kwamba jambo hilo linafanyiwa kazi na mara fedha zikipatikana hospitali hii itakarabatiwa ili iweze kuendelea kutoa huduma bora kwa wananchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u35" who="NaibuSpika">
+          <seg xml:id="seg75">Mheshimiwa Aysharose Mattembe swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u36" who="MheAysharoseNMattembe">
+          <seg xml:id="seg76">Mheshimiwa Naibu Spika, nakushukuru kwa kuniona. Kwa kuwa, Kata ya Iyumbu ipo pembezoni na haina kituo cha afya wala zahanati katika vijiji vyake vyote, je, Serikali ina mpango gani wa kujenga kituo cha afya katika Kata ya Iyumbu iliyopo Jimbo la Singida Magharibi ili kuwawezesha wananchi wake kupata huduma bora za afya na kuokoa vifo vya akina mama na Watoto?</seg>
+          <seg xml:id="seg77">ya Rais TAMISEMI, naomba kujibu swali la nyongeza la Mheshimiwa Aysharose Mbunge wa Viti Maalum kama ifuatavyo?-</seg>
+          <seg xml:id="seg78">Mheshimiwa Naibu Spika, ni kweli kwamba tunafahamu pamoja na jitihada kubwa na kazi kubwa sana iliyofanywa na Serikali ya kujenga vituo vya afya, ambapo katika miaka mitano iliyopita zaidi ya vituo vya afya 490 vimejengwa bado kuna uhitaji wa vituo vya afya katika kata zetu mbalimbali kote nchini. Kwa hiyo katika eneo hilo Kata hii ya Iyumbu katika Mkoa wa Singida ni miongoni mwa kata ambazo kimsingi zina uhitaji wa kituo cha afya.</seg>
+          <seg xml:id="seg79">Mheshimiwa Naibu Spika na Mpango wa Serikali kupitia Mpango wa Maendeleo ya Afya Msingi ni kuendelea kujenga vituo vya afya kwa awamu katika kata zetu kadri ya upatikanaji wa fedha. Mimi naomba nimhakikishie Mheshimiwa Aysharose kwamba tunachukua hoja hiyo, na kadri ya upatikanaji wa fedha tutaendelea kutoa kipaumbele katika Kata hii ili tuweze kujenga kituo cha afya na kuweza kuwahudumia wananchi ipasavyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u37" who="NaibuSpika">
+          <seg xml:id="seg80">Ahsante sana, Mheshimiwa Sophia Mwakagenda, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u38" who="MheSophiaHMwakagenda">
+          <seg xml:id="seg81">Mheshimiwa Naibu Spika, ahsante. Kwa kuwa hospitali ya Makandana wilaya ya Rungwe imeshajengewa wodi ya wanawake. Serikali ina mpango gani wa kutuongezea madaktari bingwa wa magonjwa ya wanawake katika hospitali ile?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u39" who="NaibuSpika">
+          <seg xml:id="seg82">Mheshimiwa Naibu Waziri, Ofisi ya Rais</seg>
+          <seg xml:id="seg83">ya Rais TAMISEMI, naomba kujibu swali la nyongeza la Mheshimiwa Sophia Mwakagenda kama ifuatavyo:-</seg>
+          <seg xml:id="seg84">Mheshimiwa Naibu Spika, Serikali imeboresha miundombinu katika hospitali ya Wilaya ya Rungwe, hospitali ya Makandana kwa kujenga wodi ya wanawake ili kuendelea kuboresha huduma za afya ya mama na mtoto katika Halmashauri ya Rungwe. Ninaomba nimhakikishie Mheshimiwa Mbunge kwamba bado Serikali ina mipango ya kuendelea kuboresha miundombinu hiyo ikiwemo kuongeza vifaatiba lakini pia kuongeza madaktari.</seg>
+          <seg xml:id="seg85">Mheshimiwa Naibu Spika, pia nimhakikishie kwamba kwa sera na miongozo kwa sasa hospitali zetu za Halmashauri bado hazijawa na mwongozo wa moja kwa moja wa kuwa na waganga mabingwa, kwa maana ya madaktari bingwa katika hospitali hizo, kwa sababu kwa ngazi ile madaktari wa ngazi wanaopatikana bado wana uwezo mzuri wa kutibu na tuna mfumo mzuri wa rufaa pale ambapo kuna kesi ambazo zinashindikana.</seg>
+          <seg xml:id="seg86">Mheshimiwa Naibu Spika, kwa hiyo naomba nimhakikishie Mheshimiwa Sophia Mwakagenda kwamba Serikali itaendelea kuboresha ikama ya madaktari katika hospitali ya Makandana ili waendelee kuhudumia vizuri wananchi wetu wakiwepo wanawake katika wodi hizo na kwenda kuboresha huduma za afya kadri ya matarajio ya wananchi.</seg>
+          <seg xml:id="seg87">Mheshimiwa Salma Kikwete, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u40" who="MheSalmaRKikwete">
+          <seg xml:id="seg88">Mheshimiwa Naibu Spika, ahsante sana. Kwa kuwa Jimbo letu la Mkinga lina vituo vya afya viwili tu. Kituo cha kwanza ni Kitomanga na kituo cha pili ni Rutamba. Kituo cha Rutamba kipo katika hali mbaya sana. Hakikidhi haja za kutoa huduma za afya kama kituo.</seg>
+          <seg xml:id="seg89">Je, ni lini Serikali itatutengea pesa kwa ajili ya ukarabati wa kituo hicho? Kama itampendeza Mheshimiwa Waziri au Naibu Waziri naomba nifuatane nae akaone hicho kituo. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u41" who="NaibuSpika">
+          <seg xml:id="seg90">Mheshimiwa Naibu Waziri Ofisi ya Rais TAMISEMI, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u42" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDungange">
+          <seg xml:id="seg91">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi Ofisi ya Rais TAMISEMI, naomba kujibu swali la Mheshimiwa mama Salma Kikwete Mbunge wa Mkinga kama ifuatavyo:-</seg>
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, ni kweli katika Jimbo la Mkinga kuna upungufu mkubwa wa vituo vya afya na vituo vya afya vilivyopo ni chakavu ikiwepo Kituo cha Afya hiki cha Mtamba. Naomba nimhakikishie Mheshimiwa Mama Salma Kikwete kwamba Serikali inatambua kwamba kuna uhitaji mkubwa sana wa vituo vya afya katika Jimbo la Mkinga na ninatambua kwamba kuna kila sababu ya kuweka jitihada za maksudi kuhakikisha tunakarabati Kituo cha Afya cha Mtamba ili kiweze kutoa huduma bora zaidi kwa wananchi.</seg>
+          <seg xml:id="seg93">Mheshimiwa Naibu Spika, ninaomba nichukue nafasi hii kumhakikishia kwamba tutachukua hoja hii na kuiwekea kipaumbele katika awamu inayokuja ya ukarabati wa vituo vya afya ili kituo hiki pia kiweze kuwekewa fedha kwa ajili ya ukarabati na upanuzi ili kitoe huduma bora za afya.</seg>
+          <seg xml:id="seg94">Mheshimiwa Naibu Spika, naomba nimhakikishie Mheshimiwa mama Salma Kikwete kwamba tutaendelea kushirikiana kwa karibu sana, na Ofisi ya Rais TAMISEMI tuko tayari wakati wowote kushirikiana na kufuatana na Mheshimiwa mama Salma Kikwete. Baada ya kikao hiki tutapanga kuona uwezekano wa kupata fursa hiyo ili twende kushirikiana pale muda ambapo utaturuhusu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u43" who="NaibuSpika">
+          <seg xml:id="seg95">Mheshimiwa Ally Mlagila Jumbe, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u44" who="MheAllyAJMJumbe">
+          <seg xml:id="seg96">Mheshimiwa Naibu Spika, ahsante sana. Hospitali ya Kyela jengo la mama na mtoto liliungua. Je, ni lini Serikali sasa itamalizia pesa zilizobaki kwa ajili ya jengo la mama na mtoto katika hospitali ya Kyela?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u45" who="NaibuSpika">
+          <seg xml:id="seg97">Mheshimiwa Naibu Waziri, Ofisi ya Rais TAMISEMI majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u46" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDungange">
+          <seg xml:id="seg98">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi Ofisi ya Rais TAMISEMI, naomba kujibu swali la Mheshimiwa Ally Mlaghila Jumbe Mbunge wa Kyela kama ifuatavyo:-</seg>
+          <seg xml:id="seg99">Mheshimiwa Naibu Spika, kwanza naomba</seg>
+          <seg xml:id="seg100">nimhakikishie Mheshimiwa Jumbe kwamba hospitali ya Halmashauri ya Wilaya ya Kyela ni moja ya hospitali ambazo nazifahamu sana kwa sababu nimekuwa mganga mkuu wa Kyela kwa zaidi ya miaka tis ana nimekuwa sehemu ya uendelezaji wa miundombinu katika Halmashauri ya Wilaya ya Kyela. Ninafahamu kwamba ni kweli wodi ilipata ajali ya moto na Serikali imesha peleka fedha na kazi za ukarabati wa wodi ile zinaendela.</seg>
+          <seg xml:id="seg101">Mheshimiwa Naibu Spika, lakini nimhakikishie kwamba katika Mpango ujao tumetenga fedha kwa ajili ya kuhakikisha kwamba tunakamilisha ukarabati wa wodi ile iliyopata ajali ya moto ili iweze kutoa huduma bora zaidi kwa wananchi.</seg>
+          <seg xml:id="seg102">Kwa hiyo naomba nimhakikishie Mheshimiwa Jumbe kwamba jambo hilo linafanyiwa kazi na mara fedha zitakapopatikana basi ukamilishaji wa wodi ile utafanyika ili tuendelee kutoa huduma kama ambavyo tunatarajia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u47" who="NaibuSpika">
+          <seg xml:id="seg103">Ahsante sana. Waheshimiwa tunaenda Wizara ya Kilimo, Mheshimiwa Aida Joseph Khenani, Mbunge wa Nkasi Kaskazini sasa aulize swali lake.</seg>
+          <seg xml:id="seg104">Utaratibu wa Serikali wa Kuwakopesha</seg>
+          <seg xml:id="seg105">wakulima Matrekta</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u48" who="MheAidaJKhenani">
+          <seg xml:id="seg106">Utaratibu unaotumika sasa kuwakopesha matrekta wakulima unawasababishia hasara kwa kuwa wanatozwa riba kubwa: -</seg>
+          <seg xml:id="seg107">Je, kwa nini Serikali isibadili utaratibu huo ili kuleta tija?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u49" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg108">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Kilimo naomba kujibu Swali la Mheshimiwa Aida Joseph Khenani Mbunge wa Nkasi Kaskazini kama ifuatavyo:-</seg>
+          <seg xml:id="seg109">Mheshimiwa Naibu Spika, mikopo ya pembejeo na zana za kilimo ikiwemo matrekta kwa wakulima hutolewa kupitia mifumo mbalimbali. Mojawapo ya mifumo hiyo ni kupitia Sekta Binafsi ambapo kampuni zinazofanya biashara ya pembejeo na zana za kilimo hutoa mikopo kwa wakulima mmoja mmoja ama kupitia vikundi. Aidha, mfumo mwingine ni kupitia Taasisi za Serikali kama Mfuko wa Taifa wa Pembejeo na Benki ya Maendeleo ya Kilimo ambazo hutoa mikopo yenye riba na masharti nafuu kwa wakulima ukilinganisha na kampuni binafsi.</seg>
+          <seg xml:id="seg110">Mheshimiwa Naibu Spika, pamoja na kuwepo kwa mifumo hiyo, baadhi ya wakulima hushindwa kupata mikopo ya pembejeo kutokana na riba kubwa na masharti mengine yanayotolewa na watoa huduma. Kutokana na changamoto hizo, Serikali kupitia Wizara ya Kilimo imeanza kuwatambua watoa huduma wote wanaotoa mikopo ya pembejeo za kilimo ikiwemo matrekta ili kujua aina ya huduma na mikopo inayotolewa kwa wakulima pamoja na riba wanazotoza. Hatua hiyo itasaidia kutambua changamoto zilizopo na kuzipatia ufumbuzi ikiwemo kupunguza riba, kuweka utaratibu</seg>
+          <seg xml:id="seg111">unaomuwezesha mkulima kurejesha mkopo kulingana na mapato ya mkulima kwa msimu wa kilimo.</seg>
+          <seg xml:id="seg112">Mheshimiwa Naibu Spika, Mfuko wa Taifa wa Pembejeo za Kilimo pamoja na Benki ya Maendeleo ya Kilimo zinaendelea kutoa mikopo yenye riba na masharti nafuu kwa wakulima, ambapo zinatoza mikopo ya zana za kilimo ikiwemo matrekta kwa wastani wa riba ya asilimia 6 hadi 10 kulingana na aina ya mkopo. Lengo la jitihada hizo ni kuwawezesha wakulima kupata zana bora za kilimo ili kuongeza uzalishaji na tija. Katika mwaka 2020/2021 hadi Februari Mfuko wa Taifa wa Pembejeo umetoa mikopo yenye thamani ya shilingi 959,500,000. Kati ya mikopo hiyo, mikopo ya matrekta makubwa 16 yenye thamani ya shilingi 729,000,000.00 imetolewa. Aidha, Benki ya Maendeleo ya Kilimo imetoa mikopo ya matrekta makubwa 62 yenye thamani ya shilingi bilioni 5.6</seg>
+          <seg xml:id="seg113">Mheshimiwa Naibu Spika, Ili kuongeza matumizi ya zana bora za kilimo na kuongeza tija katika kilimo, Serikali imepanga kuhamasisha Sekta Binafsi kuanzisha vituo vya kutoa huduma za kukodisha zana za kilimo kwa lengo la kusogeza huduma za upatikanaji wa zana za kilimo kwa wakulima na kupunguza matumizi ya jembe la mkono kutoka asilimia 53 ya sasa hadi kufikia asilimia 10 ifikapo mwaka 2025.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u50" who="NaibuSpika">
+          <seg xml:id="seg114">Mheshimiwa Aida Khenani, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u51" who="MheAidaJKhenani">
+          <seg xml:id="seg115">Mheshimiwa Naibu Spika, nakushukuru na ninashukuru majibu ya Naibu Waziri ambao ndiyo uhalisia wenyewe.</seg>
+          <seg xml:id="seg116">Mheshimiwa Naibu Spika, lengo la Serikali lilikuwa ni kuwakomboa au kuwasaidia wakulima, na kwenye majibu yako, majibu ya Wizara, unasema kwamba Sekta binafsi zipo ambazo zinatoza riba kubwa. Ningependa kufahamu Wizara imefanya utafiti kiasi gani kujua ni kwanini Sekta Binafsi zinatoa riba kubwa kwenye matrekta? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u52" who="MheAidaJKhenani">
+          <seg xml:id="seg117">Mheshimiwa Naibu Spika, swali langu la pili, kwa kuwa mfuko wa pembejeo uko ndani ya Serikali pamoja na Benki ya Kilimo ni kwanini sasa Serikali isiweke ruzuku kwenye hizo Sekta Binafsi kama ilivyofanya kwenye taulo za kike ili wananchi waendelee kupata neema kwenye hizo trekta? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u53" who="NaibuSpika">
+          <seg xml:id="seg118">Mheshimiwa Naibu Waziri wa Kilimo majibu kwa maswali hayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u54" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg119">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Kilimo, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Aida kama ifuatavyo:-</seg>
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, kuhusu suala la kwanini Sekta Binafsi inatoa riba kubwa. Kkama Serikali na kwa muda mrefu tumekuwa na tatizo la model of financing kwenye Sekta ya Kilimo na ukiangalia financing model na mifumo mingi ya kutoa mikopo inakuwa ni mifumo inayofanana kuanzia grocery, kilimo na sekta zingine za uzalishaji.</seg>
+          <seg xml:id="seg121">Mheshimiwa Naibu Spika, kwa hiyo kama Wizara hatua tuliyochukua, tumewasiliana na wenzetu wa Wizara ya Fedha, tumewsiliana na Benki Kuu ili kutengeneza mfumo sahihi unaoendana na Sekta ya Kilimo; na sasa tumeanza majaribio katika Sekta ndogo ya pamba. Kwa mara ya kwanza Sekta Ndogo yap amba tumeipatia mkopo kwa riba ya asilimia mbili. Tumetengeza a vehicle kupitia ushirika, na mwaka huu tumegawa dawa na pembejeo na mbegu bure kwa wakulima kwa gharama ya asilimia mbili.</seg>
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, na mfumo huo huo tunaufanyia majaribio safari hii kwenye sekta ya korosho. Kwamba wakulima watapata pembejeo zote za kilimo bure na tutarudisha gharama katika mjengeko wa bei lakini gharama ya financing hii itakuwa asilimia mbili.</seg>
+          <seg xml:id="seg123">Mheshimiwa Naibu Spika, na Mheshimiwa Waziri wa Kilimo ameunda timu ya wataalam ikiwahusisha wataalam kutoka Benki Binafsi na Benki Kuu ambayo tutapeleka ushauri</seg>
+          <seg xml:id="seg124">Serikalini kupitia Benki Kuu ili tuwe na regulation za namna gani tutapata financing katika Sekta ya Kilimo ili itazamwe tofauti na sekta zingine.</seg>
+          <seg xml:id="seg125">Mheshimiwa Naibu Spika, kuhusu suala la ruzuku kuwa Sekta Binafsi, hili bado tunaliangalia kwa sababu tunaangalia insurance model. Kwa suala la kutoa ruzuku historia inaonesha ruzuku imetumika vibaya hata huko nyuma kwenye pembejeo, kwa hiyo hatuwezi sasahivi kutoa commitment kwamba tutatoa ruzuku katika taasisi binafsi ambazo zinakopesha. Lakini tumeanza kutumia Benki yetu ya Kilimo kwa mara ya kwanza sasahivi imetoa mikopo kwa asilimia 10, na sasahivi tunajadiliana nayo angalau mikopo ya vitendea kazi iweze kwenda kati ya asilimia tano na isizidi asilimia 10.</seg>
+          <seg xml:id="seg126">Mheshimiwa Naibu Spika, na Waheshimiwa Wabunge, la muhimu zaidi mkulima anahitaji shamba lake lilimwe na trekta, lipandwe na planter, lipate boom sprayer. Si lazima mkulima wah eka moja a-own trekta. Tunachokifanya kama Serikali ni kuhamasisha Sekta Binafsi, na sasa tumepeleka pendekezo kwenye technical team ya kodi ili VAT inayochajiwa kwenye huduma za kilimo iweze kuondoka kupunguza gharama za wakulima kwa ajili ya kuwalimia. Kwa hiyo ni mchakato tunaomba Waheshimiwa Wabunge mtupe muda tunalifanyia kazi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u55" who="NaibuSpika">
+          <seg xml:id="seg127">Mheshimiwa Issa Mchungahela.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u56" who="MheIssaAMchungahela">
+          <seg xml:id="seg128">Mheshimiwa Naibu Spika, ahsante sana kwa kuniona. Imekuwa ni changamoto kubwa sana kwenye masuala ya pembejeo hasa muda. Mara nyingi sana kwamfano jimboni kwangu kumekuwa na changamoto ya kuchelewa pembejeo kila muhula na hili jambo linajirudia mara kwa mara. Je, Serikali inaona jinsi gani ya kuweza kulitatua tatizo hili kwa haraka hasa hususan katiak msimu huu wa mwaka? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u57" who="NaibuSpika">
+          <seg xml:id="seg129">Mheshimiwa Naibu Waziri wa Kilimo, majibu kwa kifupi.</seg>
+          <seg xml:id="seg130">kwa niaba ya Waziri wa Kilimo naomba kujibu swali dogo la Mheshimiwa Mchungahela kama ifuatavyo:-</seg>
+          <seg xml:id="seg131">Mheshimiwa Naibu Spika, suala la uchelewaji wa upatikanaji wa pembejeo una mahusiano ya moja kwa moja na upatikanaji wa fedha. Kw ahiyo tumebadili mifumo, sasa hivi tunatumia bulk procurement system ili tuweze kupata pembejeo kwa wakati na kwa bei nafuu. Tunaamini kwamba kuanzia msimu unaokuja kwa maeneo ya Lindi, Mtwara wanaolima korosho mtaona mabadiliko ya upatikanaji wa pembejeo.</seg>
+          <seg xml:id="seg132">Mheshimiwa Humphrey Polepole.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u58" who="MheHumphreyHPolepole">
+          <seg xml:id="seg133">Mheshimiwa Naibu Spika, ahsante sana. Mojawapo ya mazao yanayoagizwa kwa kiasi kikubwa sana Uchina ni soy beans (maharage ya soya); na kwa mwaka Uchina wanatumia zaidi ya dola bilioni 40 na kuna nchi 12 tu ambazo zinaruhusiwa kupeleka maharage hayo kule Uchina. Tanzania ni nchi ya hivi karibuni ya 12 imeingia katika nchi hizo 12 na ndio ambayo iko karibu zaidi na Uchina ukilinganisha na zile nchi nyingine 11. Uzalishaji wetu ni mdogo sana na tumeshaingia mkataba wa kupeleka tani laki nne. Uzalishaji wetu kwa mwaka unaonekana kuwa kwenye tani 14,000 hivi.</seg>
+          <seg xml:id="seg134">Je, Serikali imejipanga vipi kutumia soko hili kubwa litakaloleta tija kwa wakulima hapa Tanzania? Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u59" who="NaibuSpika">
+          <seg xml:id="seg135">Mheshimiwa Naibu Waziri wa Kilimo, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u60" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg136">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Polepole kama ifuatavyo:-</seg>
+          <seg xml:id="seg137">Mheshimiwa Naibu Spika, ni kweli kwamba, hivi karibuni tumeingia makubaliano na Serikali ya China kwa ajili</seg>
+          <seg xml:id="seg138">ya kuwauzia soya. Nataka nitumie Bunge hili kuwataarifu Watanzania kwamba, consignment ya kwanza ya kupeleka soya tani 140 imesafirishwa mwezi Machi. Hatua tunazochukua za kwanza sasa hivi Taasisi yetu ya TARI na ASA tumewapa jukumu la kuongeza uzalishaji na upatikanaji wa mbegu, hilo ni jambo la kwanza. Bajeti itakapokuja mwaka huu, mtaona tumetenga fedha kwa ajili ya kuyawezesha mashamba yote 13 ya ASA na kuyawekea mifumo ya umwagiliaji ili yaweze kuzalisha mbegu za kutosha za mazao mbalimbali na soya ikiwa mojawapo.</seg>
+          <seg xml:id="seg139">Mheshimiwa Naibu Spika, kwa hatua ya awali, hatua ambayo tumechukua ili kuli-maintain soko hili, tumeamua kuondoa mifumo ya ukiritimba ya kuwasajili wafanyabiashara kwa ajili ya export. Kwa kuwa soko lipo na wafanyabiashara wapo, wakulima wenyewe wataongeza uzalishaji watakapopata mbegu za uhakika ambazo Wizara tunaanza kuzifanyia kazi.</seg>
+          <seg xml:id="seg140">Mheshimiwa Naibu Spika, vilevile tumefungua mlango wa re-export; tumewaruhusu wafanyabishara wa Tanzania, kwa kuwa, zao la soya pamoja na sisi kuwa tunazalisha, lakini linapatikana katika baadhi ya nchi zinazotuzunguka. Kwa hiyo, tumewaruhusu kwa mwaka huu wa kwanza, wakati tunajenga uwezo wa upatikanaji wa mbegu ya kutosha, waweze ku-import na waweze ku-re-export kwa sababu, bila ya hivyo tunaweza kulipoteza soko hilo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u61" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg141">Mheshimiwa Naibu Spika, tumejipanga pia kuanzia mwakani mbegu zitakuwa za kutosha na tutawahamasisha wakulima waingie mikataba moja kwa moja na makampuni yote yanayosajiliwa, bure bila gharama yoyote, kupitia Wizara ya Viwanda na Biashara na Wizara ya Kilimo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u62" who="NaibuSpika">
+          <seg xml:id="seg142">Waheshimiwa Wabunge, tunaendelea na Wizara ya Ujenzi na Uchukuzi. Mheshimiwa Josephat Sinkamba Kandege, Mbunge wa Kalambo, sasa aulize swali</seg>
+          <seg xml:id="seg143">Ujenzi wa Reli ya TAZARA Kutokea Tunduma – Kasanga</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u63" who="MheJosephatSKandege">
+          <seg xml:id="seg144">Je, Serikali haioni umuhimu wa kujenga reli ya TAZARA kutokea Tunduma kwenda Kasanga ili kuwa na manufaa mapana ya kiuchumi na matumizi mazuri ya Bandari ya Kasanga na kuufungua Mkoa wa Rukwa kiuchumi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u64" who="NaibuSpika">
+          <seg xml:id="seg145">Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi, Engineer Msongwe, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u65" who="NaibuWaziriWaUjenziNaUchukuzi">
+          <seg xml:id="seg146">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Ujenzi na Uchukuzi, naomba kujibu swali la Mheshimiwa Josephat Sinkamba Kandege, Mbunge wa Kalambo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, Serikali inaendelea na mkakati wa ujenzi wa miradi mbalimbali ya reli nchini ambayo utekelezaji wake unazingatia kipaumbele kutokana na utekelezaji wa miradi ya reli kuhitaji fedha nyingi. Hivi sasa, Serikali imekamilisha upembuzi yakinifu wa Reli ya Mpanda – Karema na ni matumaini yetu kwamba, mradi wa reli hii utakapokamilika, utaifungua Mikoa ya Rukwa na Katavi kiuchumi.</seg>
+          <seg xml:id="seg148">Mheshimiwa Naibu Spika, kuhusu kujenga reli ya kutoka Tunduma hadi Kasanga, naomba kumhakikishia Mheshimiwa Mbunge kwamba, ushauri wake umepokelewa na Wizara itaufanyia kazi.</seg>
+          <seg xml:id="seg149">Aidha, kama nilivyosema awali, kwa kuwa miradi ya reli inahitaji fedha nyingi, utekelezaji wa ushauri huu utazingatia matokeo ya upembuzi yakinifu utakaofanywa kuhusu kipande hicho cha reli ikiwa ni pamoja na vipaumbele vya nchi. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u66" who="NaibuSpika">
+          <seg xml:id="seg150">Mheshimiwa Josephat Kandege, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u67" who="MheJosephatSKandege">
+          <seg xml:id="seg151">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ili niulize maswali mawili ya nyongeza. Swali la kwanza; kwa sababu, iko study ambayo ilifanyika enzi za mkoloni kwamba, kuna umuhimu wa kujenga reli kuanzia Tunduma kwenda Kasanga, lakini kwenda mpaka Ziwa Nyasa kwa maana ya Kyela na study hiyo iko NDC hadi leo ninavyoongea. Je, Serikali haioni umuhimu wa kufuatilia study hiyo ambayo ilifanywa na mkoloni na akaona viability ya mradi huo ili sasa ianze kutekeleza?</seg>
+          <seg xml:id="seg152">Mheshimiwa Naibu Spika, swali la pili; kwa kuwa, Mheshimiwa Rais ambaye wakati ule alikuwa Makamu wa Rais, wakati amekuja kuomba kura kwa ajili ya CCM, katika mahitaji ya wananchi wa Mkoa wa Rukwa ilikuwa ni pamoja na ujenzi wa kipande hicho cha reli na akasema amepokea na ambaye leo ndio ndio Rais; na kwa kuwa mahusiano yetu na Serikali ya China hayana shida hata kidogo na kwa sababu, wao ndio walitusaidia katika ujenzi wa Reli ya TAZARA. Je, Serikali haioni umuhimu uleule ili tutumie window ya uhusiano mzuri na China ili vipande hivi viweze kujengwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u68" who="NaibuSpika">
+          <seg xml:id="seg153">Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u69" who="NaibuWaziriWaUjenziNaUchukuzi">
+          <seg xml:id="seg154">Mheshimiwa Naibu Spika, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Josephat Sinkamba Kandege, Mbunge wa Kalambo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg155">Mheshimiwa Naibu Spika, study aliyosema Mheshimiwa Mbunge ya mkoloni ni wazi kwamba haiwezi ikatumika kwa sasa. Kitakachofanyika inaweza kuwa tu ni kufanya review ya hiyo study kwa sababu, mazingira yamebadilika sana. Pia kama nilivyojibu kwenye swali langu la msingi ni kwamba, miradi hii ni miradi ambayo inahitaji fedha nyingi sana. Ikumbukwe tu kwamba, kwa sasa hivi kipaumbele cha Serikali ya Tanzania ni kujenga reli ya SGR</seg>
+          <seg xml:id="seg156">Awamu ya Kwanza kutoka Dar-es-Salaam mpaka Mwanza ambayo nina hakika ikishakamilika tutakwenda na awamu nyingine. Kwa hiyo, kama Serikali hasa kwa kulingana na ufinyi wa bajeti, naamini hatuwezi kwenda na miradi yote miwili. Ndio maana nimesema upembuzi yakinifu utatuambia gharama ni kiasi gani, ili huo mradi uweze kuanza kutekelezwa.</seg>
+          <seg xml:id="seg157">Mheshimiwa Naibu Spika, Mheshimiwa Kandege, Mbunge wa Kalambo ameeleza pia kwamba, Mheshimiwa Rais aliahidi kwamba, ujenzi huu uweze kufanyika wa reli na ilikuwa ni ahadi. Nakubaliana naye na hatusemi reli hii haihitajiki kujengwa. Tunachosema ni kwamba, tutakwenda kwa awamu na study ndio itakayotuambia gharama iliyopo, lakini pia itazingatia na vipaumbele vya Taifa, tuanze nini tumalizie na nini. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u70" who="NaibuSpika">
+          <seg xml:id="seg158">Ahsante sana. Mheshimiwa Asa Makanika, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u71" who="MheAssaNMakanika">
+          <seg xml:id="seg159">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa kuuliza swali la nyongeza. Kwa kuwa umuhimu wa reli hii ya kutokea Tunduma kwenda Kasanga unafanana kabisa na umuhimu wa barabara inayoanzia Mwandiga na kuelekea Chankere na inayopita nyuma ya Hifadhi ya Gombe na mpaka kwenda kwenye Bandari ya Kagunga. Je, Serikali haioni kuna umuhimu sana wa kuikamilisha barabara hii haraka iwezekanavyo kwa sababu, barabara hii ni barabara kwanza ya kiuchumi, lakini barabara hii pia ni barabara ya kiulinzi kwa sababu, ukanda huu hatuwezi kuwafikia wananchi wetu pasipo kupita nchi jirani ya Burundi. Je, Serikali haiwezi kututoa kwenye utumwa huu wa kupitia nchi jirani kwenda kuwahudumia watu wetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u72" who="NaibuSpika">
+          <seg xml:id="seg160">Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u73" who="NaibuWaziriWaUjenziNaUchukuzi">
+          <seg xml:id="seg161">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Makanika, Mbunge wa Kigoma Kaskazini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg162">Mheshimiwa Naibu Spika, Serikali itaendelea kutenga bajeti kwa ajili ya ujenzi wa barabara maana anayoongelea ni Barabara ya Mwandiga – Chankere hadi Kagunga. Serikali itaendelea kutenga fedha kwa ajili ya kusanifu barabara hiyo kwa sababu, barabara hiyo bado haijafunguliwa na tunajua kwamba, ni barabara muhimu sana kwenda Bandari ya Kasanga.</seg>
+          <seg xml:id="seg163">Mheshimiwa Naibu Spika, naomba nimhakikishie Mheshimiwa Mbunge kwamba, Serikali inatambua umuhimu wa barabara hiyo kuwahudumia wananchi wa Kagunga. Mheshimiwa Makanika amekuwa anafuatilia sana hii barabara, nimhakikishie kwamba, Serikali inalifahamu na nadhani pia, ilikuwa ni ahadi ya Mheshimiwa Waziri Mkuu kwamba, hii barabara iweze kufunguliwa. Kwa hiyo, Serikali inatafuta fedha kuona kwamba, barabara hii inafunguliwa. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u74" who="NaibuSpika">
+          <seg xml:id="seg164">Mheshimiwa Denis Londo, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u75" who="MheDennisLLondo">
+          <seg xml:id="seg165">Mheshimiwa Naibu Spika, nashukuru sana kwa kunipa nafasi hii ya swali la nyongeza. Kwa kuwa, Serikali imejikita katika umaliziaji wa reli ya mwendokasi kwa jina lingine SGR kutoka Dar-es-Salaam awamu ya kwanza mpaka Morogoro na kutoka Morogoro mpaka Makutupora awamu ya pili; na kwa kuwa, TAZARA ni reli ya kimkakati na TAZARA inaanzia Mlimba inachepuka mpaka Kidatu. Je, Serikali haioni umuhimu wa kuendelea na hiyo reli mpaka Kilosa kuungana na hii reli ya mwendokasi, ili kurahisisha usafirishaji wa mizigo kutoka reli ya kati na reli ya SGR kutoka Kilosa kuja Kidatu? Nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u76" who="NaibuSpika">
+          <seg xml:id="seg166">Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u77" who="NaibuWaziriWaUjenziNaUchukuzi">
+          <seg xml:id="seg167">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Denis Londo, Mbunge wa Mikumi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg168">Mheshimiwa Naibu Spika, ni kweli kwamba, kuna umuhimu mkubwa sana wa kuunganisha reli ya SGR na reli ya TAZARA kuanzia Kilosa hadi Mikumi. Nimhakikishie Mheshimiwa Mbunge Denis Londo kwamba, Serikali ina mpango huo wa kuziunganisha hizo reli, lakini upembuzi yakinifu utafanyika pale tu ambapo Serikali itakuwa imepata fedha, lakini tunaona kabisa ni muhimu kuziunganisha hizi reli kwa ajili ya ustawi wa uchumi wa nchi, lakini pia kuziunganisha hizi reli eneo la Kilosa na Mikumi. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u78" who="NaibuSpika">
+          <seg xml:id="seg169">Mheshimiwa Ali kasinge, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u79" who="MheAllyMKassinge">
+          <seg xml:id="seg170">Mheshimiwa Naibu Spika, ahsante kwa kuniona. Umuhimu wa reli ya kutoka Tunduma kwenda Kasanga ni sawa kabisa na umuhimu wa reli ambayo ilishakuwepo kabla ya Tanganyika kupata uhuru ya kutoka Mtwara – Nachingwea kwa Mikoa ya Kusini. Je, ni nini mpango wa Serikali wa kufufua reli ya Mtwara – Nachingwea mpaka Nyasa kwa manufaa ya kiuchumi na shughuli za kijamii kwa Mikoa ya Kusini? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u80" who="NaibuSpika">
+          <seg xml:id="seg171">Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u81" who="NaibuWaziriWaUjenziNaUchukuzi">
+          <seg xml:id="seg172">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Ali Kasinge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, Mbunge atakubaliana nami kwamba, Serikali ina mpango wa kujenga reli ya Mtwara hadi Mbamba Bay kwa kiwango cha SGR ambapo tayari upembuzi yakinifu umeshakamilika na usanifu wa awali umeshafanyika. Serikali imeshatafuta tayari transaction adviser kwa ajili ya kuandaa andiko ili kutafuta mbia ambapo reli hiyo tunategemea itajengwa kwa mfumo wa PPP. Kwa hiyo, itategemea na kama mbia huyo atapatikana haraka, basi hiyo reli itajengwa. Reli hiyo itahudumia corridor ya Mtwara kutoka Mtwara hadi Mbamba Bay, lakini pia itakuwa na branch kwenda Liganga na Mchuchuma kwa ajili ya</seg>
+          <seg xml:id="seg174">kusafirisha madini ambayo tunategemea yatazalishwa katika migodi hiyo. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u82" who="NaibuSpika">
+          <seg xml:id="seg175">Waheshimiwa Wabunge, tunaendelea na Wizara ya Ulinzi na Jeshi la Kujenga Taifa. Mheshimiwa Issa Kombo Omar, Mbunge wa Wingwi, sasa aulize swali lake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u83" who="MheOmarIssaKombo">
+          <seg xml:id="seg176">Mheshimiwa Naibu Spika, asante. Kwanza naomba nisahihishe jina, naitwa Omar Issa Kombo, ili kuondoa mchanganyiko kwa wananchi wa Jimbo la Wingwi.</seg>
+          <seg xml:id="seg177">Mheshimiwa Naibu Spika, baada ya hayo, kwa niaba ya wananchi wa Jimbo la Wingwi, naomba swali langu namba 16 lipatiwe majibu.</seg>
+        </u>
+        <note>Na. 16. JKT Kuwarejesha Nyumbani Vijana Waliokuwa Mafunzo</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u84" who="MheOmarIssaKombo">
+          <seg xml:id="seg178">Je, ni kwa nini Jeshi la Kujenga Taifa (JKT) limewarudisha nyumbani Vijana ambao walishafika Kambini kwa ajili ya kuanza mafunzo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u85" who="NaibuSpika">
+          <seg xml:id="seg179">Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u86" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg180">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Omar Issa Kombo, Mbunge wa Wingwi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg181">Mheshimiwa Naibu Spika, JKT ilisitisha mafunzo ya vijana wa kujitolea kwa mwaka wa fedha 2020/2021 kutokana na sababu zifuatazo:-</seg>
+          <seg xml:id="seg182">(1) Kutoa nafasi kwa JKT kutathmini mafunzo yaliyofanyika na kuandaa utaratibu wa kuwa na mitaala bora ya mafunzo ya vijana itakayowawezesha vijana hao kujitegemea wanapomaliza mafunzo badala ya kutegemea kuajiriwa.</seg>
+          <seg xml:id="seg183">(2) JKT kwa kushirikiana na Wizara ya Ulinzi na Jeshi la Kujenga Taifa kufanya mawasiliano na taasisi zingine kama, Wizara ya Elimu na Mafunzo ya Ufundi, Tume ya Vyuo Vikuu na Baraza la Mitihani (NECTA) kuandaa utaratibu wa kuongeza muda wa mafunzo ya vijana wa mujibu wa sheria kuwa mwaka mmoja badala ya miezi mitatu ya sasa na kuchukua vijana wengi zaidi wanaomaliza kidato cha sita huku idadi ya vijana wa kujitolea ikipunguzwa.</seg>
+          <seg xml:id="seg184">(3) Kutoa fursa kwa JKT kukamilisha mpango wa kuwawezesha vijana kupata mitaji wanapohitimu mafunzo kwa kushirikisha taasisi nyingine ambazo ni Baraza la Uwezeshaji Wananchi Kiuchumi, Ofisi ya Waziri Mkuu, Wizara ya Fedha na Mipango, Wizara ya Kazi na Vijana na TAMISEMI.</seg>
+          <seg xml:id="seg185">Mheshimiwa Naibu Spika, utekelezaji wa mkakati huu utasimamiwa na Wizara ya Ulinzi na Jeshi la Kujenga Taifa.</seg>
+          <seg xml:id="seg186">Mheshimiwa Naibu Spika, JKT itaendelea kutoa elimu kwa umma na kwa vijana wanaojiunga na JKT kujitolea kuelewa kwamba, lengo la mafunzo ni kuwawezesha waweze kujitegemea baada ya mafunzo hayo badala ya kutegemea ajira.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u87" who="NaibuSpika">
+          <seg xml:id="seg187">Mheshimiwa Omar Issa Kombo, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u88" who="MheOmarIssaKombo">
+          <seg xml:id="seg188">Mheshimiwa Naibu Spika, ahsante. Pamona na majibu mazuri ya Mheshimiwa Waziri, lakini je, kwa vile tunafahamu kwamba, vijana hawa wanaokwenda JKT takribani wengi wao ni kutoka katika familia maskini na wanatumia gharama kubwa mpaka kufikia kwenye makambi. Je, Serikali iko tayari kuweka utaratibu pindi</seg>
+          <seg xml:id="seg189">inapotokea dosari kama hii kuwarejeshea gharama ambazo wanatumia kwa ajili ya safari hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u89" who="NaibuSpika">
+          <seg xml:id="seg190">Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u90" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg191">Mheshimiwa Naibu Spika, napenda kujibu swali la nyongeza la Mheshimiwa Omar Issa Kombo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg192">Mheshimiwa Naibu Spika, kama tulivyosema kwamba, lengo la kuwarudisha vijana ilikuwa ni kuhakikisha kwamba, tunaweka utaratibu mzuri. Nafikiri Mheshimiwa Mbunge akubaliane na mimi kwamba na kwa haraka utaratibu ukikamilika tutawahitaji tena vijana kwa sababu, yako manufaa makubwa sana kwa mafunzo ambayo yanatolewa kwa vijana kwa sababu, hawa vijana tunawaandaa, kuna mafunzo ambayo yanawasaidia pia kwenda kujitegemea.</seg>
+          <seg xml:id="seg193">Mheshimiwa Naibu Spika, niombe tu kwamba, tutoe ushirikiano kwa Serikali, tutoe ushirikiano kwa Wizara kama wazazi. Kama anavyosema hata tulivyowarudisha tulizingatia kuona kwamba, vijana hawa wanarudi kwa kufuata utaratibu ambao tumeuweka. Tutaendelea kuona namna nzuri ya kuwasaidia vijana kupitia utaratibu ambao nilikuwa nimeutoa katika jibu langu la msingi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u91" who="NaibuSpika">
+          <seg xml:id="seg194">Mheshimiwa Deo Kasenyenda Sanga, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u92" who="MheDeoKSanga">
+          <seg xml:id="seg195">Mheshimiwa Naibu Spika, nakushukuru kwa kuniona:-</seg>
+          <seg xml:id="seg196">Mheshimiwa Naibu Spika, kwa kuwa, Jeshi ni mali ya wananchi na wananchi ni sehemu yao. Sehemu ya Idofi Kihanga, eneo la pale Makambako kuna tatizo kati ya jeshi na wananchi na wananchi hawa wana eneo ambalo wanalima, wamepanda ulanzi, wanagema ulanzi kwenye eneo hilo. Sasa wana zaidi ya takribani miaka saba au nane wamekosa kupata kipato chao kupitia ulanzi. Je, Waziri</seg>
+          <seg xml:id="seg197">atakuwa tayari kuongozana na mimi ili akaone mgogoro huu namna ambavyo tunaweza kuutatua, ili wananchi hawa waendelee kugema ulanzi wao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u93" who="NaibuSpika">
+          <seg xml:id="seg198">Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u94" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg199">Mheshimiwa Naibu Spika, napenda kujibu swali la nyongeza la Mheshimiwa Sanga kama ifuatavyo:-</seg>
+          <seg xml:id="seg200">Mheshimiwa Naibu Spika, kwanza nimpongeze sana Mheshimiwa Sanga sababu hata kipindi nilipokuwa kule Ujenzi, niliwahi kutembelea eneo la Idofi kwa sababu ni sehemu ambapo kuna mradi wa Serikali pale. Niseme tu kwa ujumla wake iko migogoro kadhaa kwenye maeneo mbalimbali ambayo yanamilikiwa na majeshi yetu. Kama alivyosema Mheshimiwa Sanga ni kweli kwamba Jeshi ni la wananchi wa Tanzania.</seg>
+          <seg xml:id="seg201">Mheshimiwa Naibu Spika, kwa hiyo, niendelee kuwaomba tu Waheshimiwa Wabunge ikiwemo Mheshimiwa Sanga tuendelee kushirikiana na ameshauri nitembelee sehemu husika ili kutatatua mgogoro uliokuwepo. Nimhakikishie Mheshimiwa Sanga kwamba maeneo yote ambayo yana migogoro iko kamati maalum tuliiunda imetembelea maeneo yote. Kwa hiyo, Mheshimiwa Sanga tunafahamu changamoto iliyokuwepo pale Idofi nimhakikishie tu tutaenda kuimaliza kwa sababu uko mkakati Wizara tumeutengeneza ili kuhakikisha kwamba maeneo yote ambayo yanamilikiwa na Jeshi ambayo yana changamoto tutaenda kuzimaliza.</seg>
+          <seg xml:id="seg202">Mheshimiwa Naibu Spika, ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u95" who="NaibuSpika">
+          <seg xml:id="seg203">Mheshimiwa Ester Bulaya, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u96" who="MheEsterABulaya">
+          <seg xml:id="seg204">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi. Najikita katika jibu la msingi</seg>
+          <seg xml:id="seg205">la Mheshimiwa Waziri, amesema walisitisha mafunzo ya vijana kwa sababu kuna mambo wanataka kuyaweka sawa. Tunajua moja ya mafunzo wanayopewa vijana wa JKT ni pamoja na matumizi ya silaha na mbinu mbalimbali za kivita na ulinzi wa nchi yetu. Naamini Serikali inajua ni idadi gani ya jeshi la akiba wanaowahitaji.</seg>
+          <seg xml:id="seg206">Mheshimiwa Naibu Spika, katika kuhakikisha wanajipanga vizuri kwa nini wasihakikishe mafunzo fulani fulani ya silaha wanapewa watu kadhaa ambao wanajua wataajiriwa katika vyombo vyetu vya ulinzi na usalama na wale wengine ambao hawaajiriwi wapewe mafunzo ya ujasiriamali ili waende kujiajiri wenyewe? Nasema hivyo kwa sababu siyo wote watakaopewa mafunzo ya kutumia silaha za kivita wakayatumia vizuri wanapokosa ajira. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u97" who="NaibuSpika">
+          <seg xml:id="seg207">Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u98" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg208">Mheshimiwa Naibu Spika, napenda kujibu swali la nyongeza la Mheshimiwa Bulaya, kama ifuatavyo:-</seg>
+          <seg xml:id="seg209">Mheshimiwa Naibu Spika, ni kweli tunatoa mafunzo kwa vijana na ziko sababu na uko utaratibu mzuri wa mafunzo hayo. Hatutoi mafunzo tu kiholela bali ni kulingana na mahitaji na matumizi ya nguvu kazi ya vijana tuliyokuwa nayo. Kwa hiyo, nimhakikishie Mheshimiwa Mbunge kwamba mafunzo haya tunayoyatoa yana dhamira ya kulifanya taifa letu likae katika hali nzuri. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u99" who="NaibuSpika">
+          <seg xml:id="seg210">Mheshimiwa Mbunge wa Kiteto, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u100" who="MheEdwardKOlelekaita">
+          <seg xml:id="seg211">Mheshimiwa Naibu Spika, nakushukuru sana. Nataka kumuuliza Mheshimiwa Waziri, nini kauli ya Serikali kwa vijana waliomaliza mafunzo ya JKT na wameshiriki katika miradi mbalimbali ya ujenzi wa nchi yetu lakini sasa wamerudi nyumbani bila ajira?</seg>
+          <seg xml:id="seg212">Mheshimiwa Naibu Spika, napenda kumjibu Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg213">Mheshimiwa Naibu Spika, kwanza nimpongeze Mheshimiwa Mbunge kwa sababu ni mara kadhaa amekuja tumezungumza juu ya hatma ya vijana na inaonyesha namna anavyowajali vijana wake. Kwa hiyo, nampongeza sana.</seg>
+          <seg xml:id="seg214">Mheshimiwa Naibu Spika, kama nilivyosema nafasi hizi za mafunzo ya vijana wetu zina nia nzuri, kwanza ya kuwafanya vijana ambao tunawafundisha kuwaunda ili kuwa na umoja wa kitaifa. Hiyo haipingiki kwa sababu tunavyokuwa tunawafundisha kule hatuna siasa, hatuna maneno mengi, tunawaunda wakae vizuri. Pia tunawaunda kuwa viongozi, wanaweza kuwa viongozi kwenye maeneo mbalimbali ikiwa ni pamoja na uongozi katika biashara na mambo mbalimbali ya ujasiriamali. Pia tunawafundisha kufanya kazi kwa bidii, nidhamu na ubunifu.</seg>
+          <seg xml:id="seg215">Mheshimiwa Naibu Spika, kwa hiyo, niseme tu kwamba kwa vijana ambao wamepata nafasi ya kupata mafunzo haya pamoja na kupata stadi za kazi, tunawaandaa hawa vijana kwenda kujitegemea. Pia upande wa Serikali ziko fursa kadhaa ambazo Waheshimiwa Wabunge tunazifahamu ni za kuwafanya vijana hawa waweze kuchangamkia fursa ambazo zipo kwa maana ya kupata mitaji na kadhalika. Mimi niwaombe Waheshimiwa Wabunge tukiwaunganisha hawa vijana kwa skill ambazo wamezipata katika mafunzo yetu tutawafanya waweze kujitegemea na kutoa mchango mkubwa sana kwenye taifa letu.</seg>
+          <seg xml:id="seg216">Mheshimiwa Naibu Spika, kwa hiyo, niwaombe Wabunge pale ambapo vijana wetu hawana taarifa hizi za fursa ambazo Wabunge tunazifahamu, tutumie nafasi hiyo kuwaunganisha vijana hawa, wawe kwenye makundi au binafsi ili Serikali iweze kuwasaidia vijana hawa na lengo</seg>
+          <seg xml:id="seg217">ambalo limewekwa kwa ajili ya kuwasaidia vijana wetu liweze kutimia.</seg>
+          <seg xml:id="seg218">Mheshimiwa Naibu Spika, kwa hiyo, tumejipanga vizuri na Waheshimiwa Wabunge niwakaribishe pale ambapo labda wanaweza wasiwe na uelewa wa kutosha niko tayari kuwaweka vizuri ili tuweze kuwasaidia vijana wetu kadri tutakavyokuwa tumejipanga. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u101" who="NaibuSpika">
+          <seg xml:id="seg219">Wizara ya Elimu, Sayansi na Teknolojia, Mheshimiwa Husna Juma Sekiboko, Mbunge wa Viti Maalum, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 17. Hatma ya Wanaoshindwa Mitihani ya Elimu Nchini</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u102" who="MheHusnaJSekiboko">
+          <seg xml:id="seg220">Je, Serikali ina mpango gani kwa vijana wanaoshindwa mitihani kwenye ngazi</seg>
+          <seg xml:id="seg221">mbalimbali za elimu nchini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u103" who="NaibuSpika">
+          <seg xml:id="seg222">Mheshimiwa Naibu Waziri wa Elimu, Sayansi na Teknolojia, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u104" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg223">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Elimu, Sayansi na Teknolojia, napenda kujibu swali la Mheshimiwa Husna Juma Sekiboko, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg224">Mheshimiwa Spika, Serikali inatambua umuhimu wa kuwaendeleza vijana wakiwemo wale ambao hawakubahatika kuendelea na ngazi ya elimu inayofuata ya masomo baada ya kuhitimu. Hii ni kwa sababu vijana hawa ndiyo rasilimaliwatu ya Taifa inayotegemewa katika maendeleo ya viwanda na uchumi wa kati.</seg>
+          <seg xml:id="seg225">Mheshimiwa Naibu Spika, Serikali ina mipango mbalimbali ya kuwaendeleza vijana hao. Mipango hiyo ni pamoja na ujenzi wa Vyuo vya VETA katika ngazi za Mikoa na Wilaya pamoja na ukarabati wa Vyuo vya Maendeleo ya Wananchi. Kwa mfano, katika kipindi cha mwaka 2020/ 2021, Serikali imeendelea na ujenzi wa vyuo vipya vya VETA 29 katika ngazi ya Wilaya ambavyo vinatarajiwa kukamilika mwezi Juni 2021.</seg>
+          <seg xml:id="seg226">Mheshimiwa Naibu Spika, vilevile, Serikali imeendelea na ukarabati na ujenzi wa miundombinu katika Vyuo vya Maendeleo ya Wananchi 54 kwa lengo la kuwezesha wananchi na vijana kupata ujuzi mbalimbali. Aidha, vipo vyuo 34 vya Wilaya na 22 vya Mikoa ambavyo vinadahili wanafunzi katika fani mbalimbali na hivyo kutoa fursa kwa vijana hao kujiendeleza na kupata ujuzi mbalimbali.</seg>
+          <seg xml:id="seg227">Mheshimiwa Naibu Spika, napenda kutumia fursa hii kuwaomba wazazi na Watanzania kwa ujumla kutumia vyuo hivyo ili kuwawezesha vijana na wananchi wengine kujiendeleza na kupata ujuzi katika fani mbalimbali. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u105" who="NaibuSpika">
+          <seg xml:id="seg228">Mheshimiwa Husna Sekiboko, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u106" who="MheHusnaJSekiboko">
+          <seg xml:id="seg229">Mheshimiwa Naibu Spika, pamoja na majibu mazuri ya Serikali, naomba kuuliza maswali mawili ya nyongeza, kama ifuatavyo:-</seg>
+          <seg xml:id="seg230">Mheshimiwa Naibu Spika, pamoja na mpango mzuri wa kuwawezesha wanafunzi hao ambao wameshindwa kufaulu mitihani ya darasa la saba na kidato cha tano, lakini ikumbukwe kwamba wanafunzi tunaowazungumzia ni wale ambao wazazi wao wameshindwa kulipa ada ya 20,000 na kwa maana hiyo Serikali imewapa elimu bila malipo. Je, Serikali haioni umuhimu wa kuanzisha mafunzo maalum ya bure kupitia Mfuko wa Uwezeshaji wa Vijana chini ya Ofisi ya Waziri Mkuu ili wanafunzi hao ambao wanashindwa mitihani na wanarudi nyumbani na kuwa tegemezi kwa taifa waweze kupata mafunzo hayo na hatimaye waweze kujiajiri? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u107" who="MheHusnaJSekiboko">
+          <seg xml:id="seg231">Mheshimiwa Naibu Spika, swali la pili, tunayo Idara ya Elimu ya Watu Wazima lakini idara hii haijafanya vizuri kwa muda mrefu. Kutokana na wahitimu kuongezeka sababu ya mpango wa elimu bila malipo nchini wanafunzi wengi wanahitaji kupata elimu hii ya ziada. Je, Serikali sasa ipo tayari kutoa elimu ya watu wazima bure ili kuwawezesha wanafunzi ambao wanashindwa mitihani ya kidato cha nne na darasa la saba kupita kwenye mfumo huu ambao siyo mfumo rasmi wa elimu nchini? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u108" who="NaibuSpika">
+          <seg xml:id="seg232">Mheshimiwa Naibu Waziri wa Elimu, Sayansi na Teknolojia, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u109" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg233">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Husna, kama ifuatavyo:-</seg>
+          <seg xml:id="seg234">Mheshimiwa Naibu Spika, nadhani maswali yote aliyouliza Mheshimiwa Husna ni mapendekezo ambapo anapendekeza kwa jinsi yeye anavyofikiri. Kwa hiyo, naomba maswali hayo yote mawili kwa pamoja tuyachukue na tuweze kwenda kuyaongeza kwenye mipango pamoja na Sera yetu ya Elimu na kuweza kuangalia namna gani ya kufanya.</seg>
+          <seg xml:id="seg235">Mheshimiwa Naibu Spika, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u110" who="NaibuSpika">
+          <seg xml:id="seg236">Mheshimiwa Waziri wa Nchi, Ofisi ya Waziri Mkuu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u111" who="WaziriWaNchiOfisiYaWaziriMkuuSeraBungeKaziAjiraVijanaNaWenyeUlemavu">
+          <seg xml:id="seg237">Mheshimiwa Naibu Spika, pamoja na majibu mazuri sana yaliyotolewa na Mheshimiwa Naibu Waziri, nikirejea swali la Mheshimiwa Mbunge na hasa ushauri wake, kupitia Programu ya Ukuzaji Ujuzi ndani ya Ofisi ya Waziri Mkuu, alikuwa anafikiri kwamba Vyuo hivi vya Maendeleo ya Jamii vingeweza pia kutumika kuwafundisha na kuwasaidia vijana kukuza ujuzi katika skills ambazo zinatumika kwenye mazingira husika.</seg>
+          <seg xml:id="seg238">Mheshimiwa Naibu Spika, naomba kuliarifu Bunge lako tukufu kwamba program hizo zinaendelea na Serikali imekwisha kutenga bajeti kwa mwaka wa fedha 2021/2022 tutaendelea kutenga hiyo bajeti lakini kwa mwaka wa fedha 2020/2021 tayari tunavyo Vyuo vya Maendeleo ya Jamii, ambavyo mwezi huu wa nne vitaanza kutoa mafunzo ya ujuzi kwa vijana, kuwasaidia vijana kuweza kupata ujuzi katika maeneo mbalimbali, lakini asilimia kubwa ya malipo ya ujuzi huo yatagharamiwa na Serikali. Tutakwenda kuangalia vyuo vyote ambavyo vinaweza kutoa mafunzo hayo, tutafanya tathmini yake kwa kushirikiana na Wizara ya Elimu, kuona vile ambavyo vina uwezo wa kufanya kazi hiyo tutaendelea kuvijumuisha kwenye mpango na vitaendelea kutoa mafunzo hayo na kuwafikia vijana wengi wa Tanzania kwenye programu hiyo maalum ya Ofisi ya Waziri Mkuu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u112" who="NaibuSpika">
+          <seg xml:id="seg239">Ahsante sana. Mheshimiwa Engineer Mwanaisha Ulenge, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u113" who="MheEngMwanaishaNUlenge">
+          <seg xml:id="seg240">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi hii, naomba kuuliza swali la nyongeza, kama ifuatavyo: -</seg>
+          <seg xml:id="seg241">Mheshimiwa Naibu Spika, kumekuwa na nafasi za udhamini wa kusoma elimu ya juu kutoka kwa nchi wahisani Barani Afrika. Baadhi ya nafasi hizi zimekuwa ni maalum kwa ajili ya watoto yatima. Kwa kuwa nafasi hizi ni za ushindani kati ya nchi na nchi, je, Serikali inahakikishaje taarifa hizi za udhamini zinawafikia Watanzania wote popote walipo ili waweze kushindana na nchi za jirani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u114" who="NaibuSpika">
+          <seg xml:id="seg242">Sasa hili swali tutakuwa tunampa wakati mgumu Naibu Waziri kwa sababu halihusiani na swali la msingi. Kwa hiyo, nitakupa fursa uliulize kama swali la msingi ili liweze kujibiwa kikamilifu na Serikali na waje na taarifa za hizo taasisi zote unazozisema wazieleze. Sasa ulilete hilo swali kama swali la msingi ili Wizara ipate muda wa kujiandaa kulijibu.</seg>
+          <seg xml:id="seg243">Mheshimiwa Dkt. Steven Kiruswa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u115" who="MheDktStevenLKiruswa">
+          <seg xml:id="seg244">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi niulize swali dogo la nyongeza, kama ifuatavyo:-</seg>
+          <seg xml:id="seg245">Mheshimiwa Naibu Spika, kwa kuwa elimu ya vyuo vya kati na vya chini ni kiungo muhimu katika ujenzi wa uchumi na kupunguza umaskini nchini. Kwa kuwa watoto wengi wanaosoma katika hivi vyuo vya chini ni wa maskini. Je, Serikali ina mpango gani wa ku-extend ule Mfuko wa Mikopo wa Elimu ya Juu ili hawa watoto wa maskini wanaotaka elimu katika vyuo vya chini waweze kupata mikopo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u116" who="NaibuSpika">
+          <seg xml:id="seg246">Mheshimiwa Naibu Waziri wa Elimu, Sayansi na Teknolojia, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u117" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, naomba nijibu swali Mheshimiwa Mbunge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg248">Mheshimiwa Naibu Spika, ni kweli tumekuwa na utaratibu wa kutoa mikopo kwa wanafunzi wa elimu ya juu lakini siyo hawa wa level ya elimu ya kati. Tukiangalia gharama za vyuo hivi kwa mwaka, Serikali inachangia au inagharamia kwa kiasi kikubwa sana. Kwa Vyuo vyetu vya FDC ada yake ni Sh.250,000/= kwa wanafunzi wale wanaokaa bweni na Sh.145,000/= kwa wanafunzi wa kutwa lakini kwa vyuo vyetu vya VETA, vina gharama ya Sh.120,000/= kwa wale wanafunzi wa boarding na Sh.60,000/= kwa wale wanafunzi ambao wako day. Hata hivyo, tunarudi pale pale kulingana na wigo na bajeti ilivyo, nadhani Serikali tutaangalia kitu gani cha kufanya lakini mpaka hivi sasa Serikali inatoa ruzuku ya kutosha kabisa kuhakikisha kwamba vyuo hivi vinakwenda na kuwapunguzia mzigo wananchi wa kulipa gharama hizi kubwa.</seg>
+          <seg xml:id="seg249">Mheshimiwa Naibu Spika, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u118" who="NaibuSpika">
+          <seg xml:id="seg250">Mheshimiwa Mussa Sima, swali la</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u119" who="MheMussaRSima">
+          <seg xml:id="seg251">Mheshimiwa Naibu Spika, nakushukuru sana. Kwa kuwa Serikali inatoa elimu bila malipo kuanzia chekechea mpaka kidato cha nne, wanafunzi wachache ambao hawajabahatika kwenda kidato cha tano wanaenda vyuo vya ufundi. Vyuo vya ufundi, Mheshimiwa Naibu Waziri amesema wanalipia ada ya Sh.60,000/= na Sh.120,000/= kwa wale wa boarding. Je, Serikali haioni haja sasa kuondoa ada pia kwenye vyuo vya ufundi ili kuwawezesha watoto wengi kuweza kupata ujuzi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u120" who="NaibuSpika">
+          <seg xml:id="seg252">Mheshimiwa Naibu Waziri Elimu, Sayansi na Teknolojia, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u121" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg253">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Sima, Mbunge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg254">Mheshimiwa Naibu Spika, ni kweli kama nilivyoeleza katika majibu yangu ya mwanzo kwamba Serikali inatoa ruzuku ya kutosha.</seg>
+          <seg xml:id="seg255">Kwa hiyo, hili alilolileta Mheshimiwa Sima ni pendekezo, tunaomba twende tukalifanyie kazi tuweze kuangalia namna gani aidha kwa kupunguza au kwa kuondoa wakati huo huo tukiangalia wigo wa bajeti ya Serikali unavyokuwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u122" who="NaibuSpika">
+          <seg xml:id="seg256">Waheshimiwa Wabunge, tunaendelea na swali la Mheshimiwa Atupele Fredy Mwakibete, Mbunge wa Busokelo.</seg>
+        </u>
+        <note>Na. 18. Mikopo ya Wanafunzi wa Elimu ya Juu</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u123" who="MheAtupeleFMwakibete">
+          <seg xml:id="seg257">Je, ni kwa kiwango gani Serikali inajiridhisha kuwa mikopo kwa wanafunzi wa elimu ya juu imetolewa kwa wanafunzi walengwa?</seg>
+          <seg xml:id="seg258">alijibu: -</seg>
+          <seg xml:id="seg259">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Elimu, Sayansi na Teknolojia, naomba kujibu swali la Mheshimiwa Atupele Fredy Mwakibete, Mbunge wa Busekelo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg260">Mheshimiwa Naibu Spika, Serikali inajiridhisha kuwa inatoa mikopo kwa wanafunzi walengwa, kupitia vigezo vilivyowekwa na Sheria ya Bodi ya Mikopo (Sura178) ambayo inawalenga wanafunzi wa Kitanzania wenye sifa za kujiunga na elimu ya juu, lakini kutokana na hali ya kiuchumi hawana uwezo wa kumudu gharama. Vigezo hivyo ni mwombaji anatakiwa awe Mtanzania mhitaji; awe amepata udahili katika taasisi inayotambulika; asiwe na ufadhili wa masomo yake ya elimu ya juu kutoka taasisi nyingine; na awe ameomba mkopo kwa usahihi.</seg>
+          <seg xml:id="seg261">Mheshimiwa Naibu Spika, aidha ili kuwafikia wahitaji wengi zaidi Sheria ya Bodi ya Mikopo imetoa mamlaka kwa Bodi kuweka vigezo vya ziada ambapo katika mwaka wa masomo 2020/2021, Serikali kupitia Bodi ya Mikopo ilitangaza Mwongozo wa Utoaji wa Mikopo uliotaja sifa na vigezo vya ziada kama ifuatavyo: Yatima; mwombaji au mzazi mwenye ulemavu; mwombaji aliyefadhiliwa katika masomo yake ya sekondari au stashahada; na mwombaji aliyetoka katika familia ya kipato cha chini au kaya maskini.</seg>
+          <seg xml:id="seg262">Mheshimiwa Naibu Spika, kwa kuzingatia sifa na vigezo hivi, katika mwaka wa masomo 2020/2021, jumla ya waombaji wapya 66,374 wenye sifa za kujiunga na elimu ya juu waliomba mkopo na kati ya hao waombaji 55,318 sawa na 83% walipangiwa mkopo kwa mchanganuo ufuatao: Yatima walikuwa 1,137 sawa na 2.06%; waliofiwa na mzazi mmoja walikuwa 8,683 sawa na 15.7%; waombaji wasiofahamu wazazi au waliolelewa katika Vituo vya Ustawi</seg>
+          <seg xml:id="seg263">wa Jamii walikuwa ni 71 sawa na 0.17%; waombaji wenye ulemavu au wenye wazazi wenye ulemavu walikuwa ni 92 sawa na 0.13%; waombaji waliofadhiliwa na taasisi zinazotambulika walikuwa 1,992 sawa na 3.6%); na waombaji kutoka kaya maskini walikuwa 43,343 sawa na 78.35%. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u124" who="NaibuSpika">
+          <seg xml:id="seg264">Mheshimiwa Atupele Fredy Mwakibete, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u125" who="MheAtupeleFMwakibete">
+          <seg xml:id="seg265">Mheshimiwa Naibu Spika, ahsante. Pamoja na majibu ya Serikali, nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg266">Mheshimiwa Naibu Spika, kumekuwepo na malalamiko mengi ya wanafunzi wenye sifa za kupata mikopo ya elimu ya juu lakini hawapati hiyo mikopo; na mimi ni shuhuda kwa kuwaleta wanafunzi wa jimbo langu, kwenda Bodi ya Mikopo lakini hawakuweza kufanikiwa kupata Bodi ya Mikopo, zaidi ya wanafunzi 20.</seg>
+          <seg xml:id="seg267">Mheshimiwa Naibu Spika, sasa swali je, serikali ni lini itahakikisha kwamba wanafunzi wenye sifa hakika wanapata mikopo badala sasa takwimu zinaonesha wanapata lakini uhalisia hawapati mikopo hiyo?</seg>
+          <seg xml:id="seg268">Mheshimiwa Naibu Spika, swali la pili, kwa wale waliofanikiwa kupata mikopo, kwa maana ya ukimaliza umeweka kanuni ama utaratibu kwamba mwanafunzi akimaliza chuo kikuu mara tu baada ya kumaliza aanze kurudisha huo mkopo na baada ya miezi 24, kwa maana ya miaka miwili, asipoanza kurudisha huo mkopo mmeweka kanuni kwamba atatozwa riba ya asilimia 10.</seg>
+          <seg xml:id="seg269">Mheshimiwa Naibu Spika, swali, kwa wanafunzi ambao hawajapata ajira na sasa ajira ni changamoto, pengine miaka mitano, mingine kumi, wengine 20 na wengine hawapati kabisa; Serikali imejipangaje kuhakikisha kwamba wanawawezesha kwanza hao wanafunzi kuwa-link</seg>
+          <seg xml:id="seg270">na mashirika na taasisi ili fedha zilizokopwa na wanafunzi hawa zisipotee? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u126" who="NaibuSpika">
+          <seg xml:id="seg271">Mheshimiwa Naibu Waziri wa Elimu Sayansi na Teknolojia, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u127" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg272">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Elimu, Sayansi na Teknolojia napenda kujibu maswali ya nyongeza ya Mheshimiwa Mwakibete kama ifuatavyo:-</seg>
+          <seg xml:id="seg273">Mheshimiwa Naibu Spika, kama nilivyoeleza kwenye swali langu la msingi, kwamba Serikali imekuwa ikitoa mikopo hii kwa walengwa na wale ambao wamefikia sifa hizo. Kwa hiyo nichukue hoja ya Mheshimiwa Mbunge; lakini Serikali inaendelea kuboresha bajeti yake ya mwaka hadi mwaka.</seg>
+          <seg xml:id="seg274">Mheshimiwa Naibu Spika, mikopo yetu imepanda kutoka bilioni 427 kwa 2017/2018 mpaka shilingi bilioni 464 2020/2021; na mwaka ujao wa fedha tunatarajia kutoa mikopo hii kwa jumla ya shilingi bilioni 500. Kwa hiyo tunaamini katika kuongeza wigo huu wa bajeti tunaweza tukawafikia walengwa wengi na changamoto hii ya vijana wetu kukosa mikopo inaweza ikatatulika. Hata hivyo tunarudi palepale, kwamba vigezo vya uhitaji ansifa zeke lazima viziingatiwe.</seg>
+          <seg xml:id="seg275">Mheshimiwa Naibu Spika, kwenye hili eneo la pili la hizi asilimia; na hili naomba tulibebe kwasababu yamekuwa ni malalamiko ya wanufaika wengi na ni malalamiko ya muda mrefu, tuweze kwenda kuliangalia na kufanya review halafu tutaleta hoja hapa katika Bunge lako Tukufu kwamba namna gani tunaweza kwenda kuzishughulikia hizi tozo ambazo zimekuwa ni kero.</seg>
+          <seg xml:id="seg276">Mheshimiwa Naibu Spika, kuhusiana na suala la hawa vijana sasa la kuwa-link kwenye taasisi na maeneo mengine ya ajira ni kwamba, jukumu la Wizara ya Elimu, Sayansi na Teknolojia ni kutoa taaluma kwa vijana, sio jukumu lake kutafuta ajira kwa vijana. Sasa hili tunaomba tulibebe kama serikali tuweze kuangalia vijana wetu wanapomaliza namna</seg>
+          <seg xml:id="seg277">gani tunaweza kuwa-link na maeneo mengine ya kuweza kupata ajira ili fedha hizi ziweze kurudishwa kwa haraka ili na wanufaika waweze kuwa wengi zaidi. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u128" who="NaibuSpika">
+          <seg xml:id="seg278">Mheshimiwa George R. Mwenisongole swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u129" who="MheGeorgeRMwenisongole">
+          <seg xml:id="seg279">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi hii. Mimi ningependa kuuliza swali la nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg280">Kwa nini Serikali isipunguze riba kwa hao wanaolipa deni lote kwa mkupuo kwa wakati mmoja ikatoka asilimia kumi au asilimia mbili au tatu au na vile vile kupunguza- retention fee ambayo ni kubwa na haipo kwenye mkataba wanaojaza wakati wa kukopa? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u130" who="NaibuSpika">
+          <seg xml:id="seg281">Mheshimiwa Naibu Waziri wa Elimu, Sayansi na Teknolojia majibu kwa kifupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u131" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg282">Mheshimiwa Naibu Spika, napenda kujibu swali la nyongeza la Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg283">Mheshimiwa Naibu Spika, kama nilivyoeleza katika majibu yangu yaliyopita, kwamba tunaenda kufanya review ya tozo hizi pamoja na riba na kuweza kuangalia namna gani tunaweza tukazipunguza au kuziondoa kulingana na uhitaji kutokana na malalamiko yaliyopo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u132" who="NaibuSpika">
+          <seg xml:id="seg284">Mheshimiwa Ndaisaba George Ruhoro swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u133" who="MheNdaisabaGRuhoro">
+          <seg xml:id="seg285">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa fursa hii ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg286">Mheshimiwa Naibu Spika, liko kundi kubwa sana la wanafunzi wa vyuo vikuu ambao wanakosa mkopo licha ya kuwa na sifa zote alizozitaja Mheshimiwa Naibu Waziri, na</seg>
+          <seg xml:id="seg287">baada ya kukosa mkopo hupitisha bakuli maeneo mbalimbali wakichangisha fedha na wanabahatika kwenda vyuo vikuu lakini baadaye wanakatisha masomo yao kwa kushindwa kupata fedha za kuendelea.</seg>
+          <seg xml:id="seg288">Je, Serikali ina mpango gani wa kuwatambua wanafunzi hao ambao wame-drop out na kuweza kuwasaidia ili waweze kuhitimisha elimu yao na kufikia ndoto zao? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u134" who="NaibuSpika">
+          <seg xml:id="seg289">Mheshimiwa Naibu Waziri wa Elimu, Sayansi na Teknolojia majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u135" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg290">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Elimu Sayansi na Teknolojia napenda kujibu swali la Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg291">Mheshimiwa Naibu Spika, kama nilivyoeleza awali kwamba Serikali tunaendelea na kuongeza wigo wa bajeti ili kuweza kuwafikia walengwa wengi zaidi. Kama nilivyojibu katika jibu langu la msingi, katika mwaka 2020/2021 waliojaza fomu ni zaidi ya 66,000 lakini tulioweza kuwapa mikopo ni 55,000.</seg>
+          <seg xml:id="seg292">Mheshimiwa Naibu Spika, jawabu kwamba kuna zaidi ya wanafunzi 11,000 ambao walikidhi vile vigezo lakini hatukuweza kuwapa. Majawabu ya Wizara kupitia Serikali tunakwenda kuongeza wigo wa bajeti ili kuweza sasa kuwafikia walengwa wengi zaidi.</seg>
+          <seg xml:id="seg293">Mheshimiwa Naibu Spika, nimeeleza hapo mwanzoni kwamba bajeti yetu ya mwaka 2017/2018 ilikuwa ni bilioni 427. Bajeti ya 2020/2021 ilikuwa 464, lakini bajeti yetu ya mwaka 2021/2022 inakwenda kuwa bilioni 500. Tunaamini kwa kadri tutakavyokuwa tunaongeza bajeti yetu itaweza kuwafikia walengwa wengi na vijana wetu wengi wataweza kunufaika na mikopo hii.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u136" who="NaibuSpika">
+          <seg xml:id="seg294">Ahsante sana. Mheshimiwa Halima James Mdee swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u137" who="MheHalimaJMdee">
+          <seg xml:id="seg295">Mheshimiwa Naibu Spika, Serikali imekuwa ikijinasibu kwamba mikopo hii inalenga kusaidia watoto wa familia maskini lakini kimsingi mikopo hii inakuwa ni mzigo kwa watoto wa familia maskini. Muuliza wa swali msingi amezungumzia asilima 15 ya makato kila mwezi, amezungumzia asilimia 10 ya interest rate kwa watu ambao ndani ya miezi 24 wameshindwa kulipa, kuna asilimia 6 ya interest kwa watu ambao wanalipa. Sasa matokeo yake ni kwamba badala ya kuwa ni mkopo wa kusaidia watoto unakuwa ni mkopo wa kibiashara.</seg>
+          <seg xml:id="seg296">Sasa ni lini Serikali italeta hapa Bungeni mabadiliko ya kisheria ili kile kinachosemwa kusaidia watoto maskini kithibitike kwa maneno na kwa vitendo na isiwe lugha za kisiasa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u138" who="NaibuSpika">
+          <seg xml:id="seg297">Ahsante, Mheshimiwa Naibu Waziri wa Elimu, Sayansi na Teknolojia majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u139" who="NaibuWaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg298">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Elimu Sayansi na Teknolojia napenda kujibu swali la nyongeza la Mheshimiwa Halima kama ifuatavyo:-</seg>
+          <seg xml:id="seg299">Mheshimiwa Naibu Spika, ni kweli, katika urejeshaji wa mikopo hii mnufaika anapaswa kukatwa asilimia 15 katika gross salary yake ambayo makato haya yalipitishwa katika Bunge lako hili Tukufu. Lakini vilevile kuna hizo alizozitaja Mheshimiwa Mbunge kwamba kuna hiyo asilimia 10 kwa wale watakaochelewa na asilimia sita.</seg>
+          <seg xml:id="seg300">Lakini kama nilivyojibu katika maswali ya nyongeza yaliyopita, kwamba tunakwenda kufanya review ya kanuni hizi na kuweza kuangalia namna gani tunaweza aidha kuondoa au kupunguza. Kwa hiyo, tunaomba tuachie ili jambo hili tukalifanyie kazi; na tuwe watulivu ili kuhakikisha mikopo hii haiendi kuwa kero kwa watumishi wetu maskini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u140" who="NaibuSpika">
+          <seg xml:id="seg301">Mheshimiwa Waziri wa Elimu, Sayansi na Teknolojia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u141" who="WaziriWaElimuSayansiNaTeknolojia">
+          <seg xml:id="seg302">Mheshimiwa Spika, ahsante sana. Kwanza na mpongeza sana Mheshimiwa Naibu Waziri kwa majibu yake mazuri na kwa maswali mengi ambayo yameelekezwa na ameyajibu kwa ufasaha. Jambo dogo tu nilikuwa nataka niweke kumbukumbu ili kwenye Hansard ikae vizuri.</seg>
+          <seg xml:id="seg303">Nilikuwa nataka tu kueleza kwamba, katika mkopo wa mwanafunzi analipa asilimia sita kama tozo ya kutunza thamani, lakini hakuna riba ya asilimia 10 kama ambavyo ilikuwa imeelekezwa, na hiyo asilimia 6 ndiyo hiyo ambayo tunaifanyika kazi. Nilikuwa ninaomba kumbukumbu zikae vizuri. Asilimia 15 ni makato ya mshahara kila mwezi, lakini ile riba iliyokuwa inatajwa ya asilimia 10 niombe niweke kumbukumbu vizuri hiyo haipo. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u142" who="NaibuSpika">
+          <seg xml:id="seg304">Ahsante sana. Waheshimiwa Wabunge tumalizie Wizara ya Fedha na Mipango. Mheshimiwa Jerry William Silaa, Mbunge wa Ukonga sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 19. Kurejesha Mfumo wa TANePS Hazina</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u143" who="MheJerryWSilaa">
+          <seg xml:id="seg305">Je, Serikali haioni haja ya sasa ya kurejesha mfumo wa TANePS Hazina ili ukatekelezwe na kusimamiwa pamoja na GePG katika kuongeza ufanisi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u144" who="NaibuWaziriWaFedhaNaMipango">
+          <seg xml:id="seg306">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Mipango naomba kujibu swali la Mheshimiwa Jerry William Silaa, Mbunge wa Ukonga kama ifuatavyo:-</seg>
+          <seg xml:id="seg307">Mheshimiwa Naibu Spika, mfumo wa TANePS umetayarishwa na kukidhi matakwa ya sheria ya ununuzi wa umma Sura Na. 410 ambayo imeweka misingi na taratibu za ununuzi wa umma inayohimiza uwazi, usawa na haki katika michakato ya ununuzi ili kuipatia Serikali thamani halisi ya fedha zinazotumika katika ununuzi wa bidhaa na huduma mbalimbali. Aidha, kifungu Na. 9(1) cha Sheria kimeipa nguvu mamlaka ya udhibiti wa ununuzi wa umma kuanzisha na kusimamia mifumo na taratibu zote zinazohusu masuala ya ununuzi wa umma ikiwa ni pamoja na mfumo wa TANePS.</seg>
+          <seg xml:id="seg308">Mheshimiwa Naibu Spika, kwa sasa mfumo wa TANePS tayari umeunganishwa na mifumo ya GPG na taratibu zinaendelea ili kuunganisha na mifumo mingine ya Serikali ikiwemo mifumo ya MUSE na kadhalika.</seg>
+          <seg xml:id="seg309">Mheshimiwa Naibu Spika, kwa kuzingatia matakwa ya Sheria ya Ununuzi wa Umma Sura Na. 410 pamoja na Kanuni zake, Serikali inaendelea kuboresha utendaji na mfumo TANePS ili kuongeza ufanisi katika utekelezaji wa shughuli za ununuzi, hivyo basi haioni haja ya kuhamishia mfumo huo Hazina kwa sasa. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u145" who="NaibuSpika">
+          <seg xml:id="seg310">Mheshimiwa Jerry William Silaa swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u146" who="MheJerryWSilaa">
+          <seg xml:id="seg311">Mheshimiwa Naibu Spika, nashukuru kwa majibu mazuri ya Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg312">Mheshimiwa Naibu Spika, nitakubaliana na Serikali kwamba kifungu cha 9 (1)(j) cha Sheria ya Manunuzi ya Umma ya mwaka 2011 kinaipa mamlaka PPRA kufanya kazi nyingine ikiwemo ya kuandaa mifumo.</seg>
+          <seg xml:id="seg313">Mheshimiwa Naibu Spika, Mheshimiwa Waziri atakubaliana kwamba mfumo huu wa TANePS umeandaliwa na wataalam wa nje kupitia mradi uliofadhiliwa na Benki ya Dunia; lakini atakubaliana na mimi, kwamba Serikali kupitia wataalam wa ndani kupitia Wizara ya Fedha imeandaa</seg>
+          <seg xml:id="seg314">mifumo ambayo inafanya kazi kwa ufanisi mkubwa ukiwepo huu wa GPG, MUSE na GSPP.</seg>
+          <seg xml:id="seg315">Mheshimiwa Naibu Spika, sasa naomba kuuliza maswali mawili ya nyongeza. Juzi tumeona Mheshimiwa Rais wakati anapokea taarifa ya Mdhibiti na Mkaguzi Mkuu wa Serikali, ameonesha nia ya kuitaka serikali kuwa na mifumo michache ili kuongeza ufanisi.</seg>
+          <seg xml:id="seg316">(i) Je, Serikali haioni kwamba kuendelea kuwa na mifumo mingi kwenye taasisi nyingi itaendeleza urasimu badala ya ufanisi?</seg>
+          <seg xml:id="seg317">(ii) Kwa kuwa mfumo huu ukiuangalia na kwa language iliyoandikwa na wataalam hao wa nje haikuzingatia business concept ya nchi, yetu na mfumo huu umekuwa na matatizo mengi, hata siku mbili zilizopita mfumo huu ulikuwa chini na kuleta matatizo makubwa kwenye manunuzi.</seg>
+          <seg xml:id="seg318">Je, haoni kwamba ni wakati muafaka sasa kupitia kurugenzi yetu ya taarifa za mifumo ya fedha pale Hazina tutapunguza gharama kwa ku-integrate mfumo huu na mifumo ambayo nimeitaja hapo juu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u147" who="MheJerryWSilaa">
+          <seg xml:id="seg319">.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u148" who="NaibuSpika">
+          <seg xml:id="seg320">Mheshimiwa Naibu Waziri wa Fedha na Mipango Mheshimiwa Mwanaidi Ali Khamis, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u149" who="NaibuWaziriWaFedhaNaMipango">
+          <seg xml:id="seg321">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Mipango naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Silaa kama ifuatavyo:-</seg>
+          <seg xml:id="seg322">Mheshimiwa Naibu Spika, kwa sasa mfumo wa TANePS tayari umeshaunganishwa na mifumo mingine ya GPS na taratibu zinaendelea ili kuunganisha na mifumo mingine ya serikali ikiwemo mifumo ya MUSE nakadhalika ili kupunguza gharama za uendeshaji Serikalini.</seg>
+          <seg xml:id="seg323">Mheshimiwa Naibu Spika, kuhusu swali la pili la Mheshimiwa Slaa, ni kama alivyoeleza Mheshimiwa Rais katika hotuba yake ya juzi alipokuwa akipokea taarifa za CAG; kuhusu kuunganisha mifumo ya malipo yote ya Serikali ili kubaki na mifumo michache ili kupunguza gharama za uendeshaji. Kwa hivyo, Mheshimiwa Rais amesema kwamba tuwe na mifumo michache ambayo inaweza kuendesha Serikali na kupunguza gharama za Serikali ili kuondoa usumbufu na upotevu wa fedha za Serikali. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u150" who="NaibuSpika">
+          <seg xml:id="seg324">Ahsante sana Mheshimiwa Dkt. John Danielson Pallangyo, Mbunge wa Arumeru Mashariki sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 20. Serikali Kutoa Amana na Hisa za Wateja Benki ya</note>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u151" who="NaibuSpika">
+          <seg xml:id="seg325">Wananchi Meru</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u152" who="MheDktJohnDPallangyo">
+          <seg xml:id="seg326">Je, ni lini Serikali itatoa amana na hisa za wateja waliokuwa wamewekeza katika Benki ya Wananchi Meru ambayo ilifungiwa kutoa huduma za kibenki Mwaka 2018?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u153" who="NaibuSpika">
+          <seg xml:id="seg327">Mheshimiwa Naibu Waziri wa Wizara ya Fedha na Mipango, Mheshimiwa Mwanaidi Ali Khamis, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u154" who="NaibuWaziriWaFedhaNaMipango">
+          <seg xml:id="seg328">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Mipango naomba kujibu swali la nyongeza Mheshimiwa Dkt. John Danielson Pallangyo, Mbunge wa Arumeru Mashariki kama ifuatavyo: -</seg>
+          <seg xml:id="seg329">Mheshimiwa Naibu Spika, mnamo tarehe 4 Januari, 2018 Benki Kuu ya Tanzania iliifutia leseni Benki ya Wananchi wa Meru kutofanya biashara za kibenki kwa mujibu wa</seg>
+          <seg xml:id="seg330">vifungu Na. 11(3)(1), 41(a), 58(2) na 61(1) ya Sheria ya mabenki na taasisi ya fedha ya mwaka 2006.</seg>
+          <seg xml:id="seg331">Mheshimiwa Naibu Spika, baada ya kufuatia leseni benki hizo Benki Kuu ya Tanzania iliiteua Bodi ya Bima ya Amana kwa ufilisi. Katika kutimiza wajibu wake wa msingi kisheria, Bodi ya Bima ya Amana ilianza zoezi la kulipia fidia ya kulipia fidia ya bima ya amana hadi shilingi 1,500,000 kwa wateja waliostahili kulipwa bima ya amana, na zoezi hilo bado linaendelea kwa wateja ambao hawajajitokeza kuchukua fidia.</seg>
+          <seg xml:id="seg332">Mheshimiwa Naibu Spika, hadi kufikia mwisho wa mwezi wa Februari, 2021 jumla ya shilingi bilioni 1.47 zimeshilipwa kwa wateja waliokuwa na amana katika benki hiyo. Malipo hayo ambayo ni sawa na asilimia 78.70 ya kiasi cha shilingi bilioni 1.86 zilizotengwa kwa ajili kulipia fidia. Aidha, jumla ya wateja waliolipwa 4,679 kati ya wateja 13,138, ikiwa ni asilimia 35.61 ya wateja waliokuwa na amana zinazostahili fidia.</seg>
+          <seg xml:id="seg333">Mheshimiwa Naibu Spika, wateja waliokuwa na amana inayozidi shilingi 1,500,000 watalipwa kiasi kilichobaki chini zoezi la ufilisi, ambapo kwa mujibu sheria na taratibu za ufilisi kiasi kitakacholipwa kitategemea fedha zitakazopatika kutokana na kuuza mali za benki husika. Zoezi hili la kukusanya madeni na mali za Benki ya Wananchi Meru ili kupata fedha ya kuwapatia wateja wenye amana zenye thamani ya shilingi 1,500,000 pamoja na wanahisa wa benki hii bado linaendelea. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u155" who="NaibuSpika">
+          <seg xml:id="seg334">Mheshimiwa Dkt. John Danielson Pallangyo swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u156" who="MheDktJohnDPallangyo">
+          <seg xml:id="seg335">Mheshimiwa Naibu Spika, pamoja na majibu mazuri ya Serikali bado kuna tatizo. Wengi wa wateja waliokuwa wa benki hii ambayo ilifutiwa leseni pamoja na wanahisa ni wanyonge, ni watu ambao wasingeweza kusubiri kwa muda mrefu wakisubiri amana zao zilipwe. Pamoja na kwamba kuna ambao walilipwa</seg>
+          <seg xml:id="seg336">1,500,000/= kwa kupitia DIB naona kwamba suala la muda ni changamoto. Wateja wengi hawataweza kusubiri kwa muda mrefu kiasi hiki, sasa hivi ni miaka mitatu na miezi mitatu tangu benki hii ifutiwe leseni.</seg>
+          <seg xml:id="seg337">Mheshimiwa Naibu Spika, naomba Serikali itamke bayana, je, ni lini itamaliza tatizo hili kwa kulipa amana zote kwa wana hisa na wateja ambao walikuwa wa benki hii?</seg>
+          <seg xml:id="seg338">Mheshimiwa Naibu Spika na ninaomba hapa ni- declare interest, kwamba mimi mwenye nilikuwa mwanahisa wa benki hii nasubiri hiyo pesa kwa miaka mitatu sasa, ningeipata ningenunua hata ng’ombe. Naomba majibu ya Serikali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u157" who="NaibuSpika">
+          <seg xml:id="seg339">Ahsante sana, sasa Waheshimiwa Wabunge kwa Kanuni zetu ukiwa na maslahi ya kifedha namna hiyo, kidogo unatupa mtihani kwasababu maana yake na wewe binafsi ni sehemu hilo jambo zima. Lakini kwa ile sehemu ya kwanza ambazo umeuliza kutaka kujua Serikali lini inakusudia kumaliza kuwalipa hawa waliokuwa na amana. Mheshimiwa Naibu Waziri wa Fedha na Mipango Mheshimiwa Mwanaidi Ali Khamisi, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u158" who="NaibuWaziriWaFedhaNaMipango">
+          <seg xml:id="seg340">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Mipango naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa John kama ifuatavyo:-</seg>
+          <seg xml:id="seg341">Mheshimiwa Naibu Spika, kama nilivyoeleza katika jibu langu la msingi, Bodi ya Bima ya Amana bado inaendelea na zoezi la ufilisi wa mabenki na itakapokamilisha ufilisi wateja wote waliozidi zaidi ya shilingi 1,500,000/= watalipwa fedha zao kulingana na mapato yaliyokusanywa na kupatikana kutokana na benki husika.</seg>
+          <seg xml:id="seg342">Mheshimiwa Naibu Spika, kuhusu swali lake la pili, Mheshimiwa Mbunge, changamoto ambazo wanazipata katika benki ya amana mpaka sasa hivi ni wale ambao waliokopeshwa fedha hizo bado wanaendelea kuwa na</seg>
+          <seg xml:id="seg343">ugumu wa kulipa. Hata hivyo Serikali inaendelea kutafuta taratibu nyingine ili kuhimiza wale waliokopeshwa kulipa madeni hayo ili wateja wanaodai fedha zao katika benki hiyo waweze kulipwa kwa haraka. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-03-31-bunge-03-02.u159" who="NaibuSpika">
+          <seg xml:id="seg344">Waheshimiwa Wabunge tumefika mwisho wa kipindi chetu cha maswali na majibu kutoka upande wa Serikali. Sasa nitoe ushauri wa jumla, Waheshimiwa Wabunge, mnashauriwa kupeleka maswali ya msingi kwasababu kipindi hiki cha Bunge la Bajeti tumevuta kidogo ni kwasababu ya ratiba yetu namna ilivyo. Ninyi mnafahamu kipindi cha Bunge hili maswali huwa ni saa moja, na hiyo saa moja sana sana atauliza yule mwenye swali lake la msingi, maswali ya nyongeza yanakuwa kidogo. Kwa hivyo kwasababu tuko wengi na kila mmoja ana hoja za kutoka jimboni kwake mpeleke maswali ya msingi kabla muda ule haujapita ambao tumejiwekea kikanuni.</seg>
+          <seg xml:id="seg345">Lingine ni kuhusu maswali ya nyongeza. Maswali ya nyongeza lazima yafanane ama yaelekeane na swali la msingi. Msipofanya hivyo usipopata majibu mahususi kutoka kwa Serikali mnawapa na wao wakati mgumu kujibu majibu ambayo hawana uhakika nayo, na sisi Bunge tunataka majibu halisia majibu ambayo yatapeleka matumaini kwa wale wananchi ambao wana changamoto tunazoziuliza humu ndani. Kwa hiyo lile swali msingi uwe umelisoma vizuri kabla hujaomba swali la nyongeza, ili unapopewa uulize linalohusiana. Ukiuliza nje ya hapo mimi unanipa wakati mgumu lakini pia unaipa wakati mgumu Serikali na mimi nakuwa nataka itoe majibu ambayo yanauhalisia. Niwaombe sana tuzingatie hilo maswali ya nyongeza yaendane na maswali ya msingi.</seg>
+          <seg xml:id="seg346">Waheshimiwa Wabunge baada ya kusema hayo naahirisha shughuli za Bunge mpaka kesho saa tatu kamili asubuhi.</seg>
+          <seg xml:id="seg347">(Saa 4.45 Asubuhi Bunge liliahirishwa hadi siku ya Alhamisi,</seg>
+          <seg xml:id="seg348">Tarehe 1 Aprili, 2021 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

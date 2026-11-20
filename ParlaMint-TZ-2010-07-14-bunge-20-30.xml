@@ -1,0 +1,836 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2010-07-14) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2010-07-14) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="30">30. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="20">20. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1463724735-HS-20-30-2010.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2010-07-14">14.07.2010</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u1">
+          <seg xml:id="seg1">Muswada wa Sheria ya Marekebisho ya Sheria Mbalimbali wa Mwaka 2009</seg>
+          <seg xml:id="seg2">(The Written Laws (Miscellaneous Amendments) No. 3 Bill, 2009)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u2" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg3">Mheshimiwa Mwenyekiti, kwa heshima na taadhima naomba kuungana na familia ya Profesa Mwaikusa, Profesa wa Sheria wa Chuo Kikuu cha Dar es Salaam ambaye amepoteza maisha yake usiku wa leo kutokana na matukio ya ujambazi. Vile vile nijiunge na familia ya Jaji Mnyera na kumpa pole sana Mheshimiwa Jaji Mkuu kwa kifo cha Mheshimiwa Jaji Mnyera ambaye amefariki usiku wa kuamkia leo.</seg>
+          <seg xml:id="seg4">Mheshimiwa Mwenyekiti, baada ya utangulizi huo, naomba kutoa hoja kwa heshima kwamba Bunge hili sasa lijadili na hatimaye kupitisha Muswada wa Marekebisho ya Sheria Mbalimbali Na. 3 wa Mwaka 2010 yaani (The Written Laws (Miscellenaous Amendments) Na. 3 Act 2010).</seg>
+          <seg xml:id="seg5">Mheshimiwa Mwenyekiti, kama ilivyo ada, napenda kushukuru sana Kiti cha Spika na kupitia kwako kuwashukuru sana Waheshimiwa Wabunge wa aina zote waliomo humu ndani, kwa ushirikiano nilioupata kutoka kwao kwa kipindi chote nilichokitumikia Bunge hili. Kwa hakika nimejifunza mambo mengi sana kutoka kwa Waheshimiwa Wabunge ambayo nilikuwa sijajifunza kwa maisha yangu yaliyokuwa yametangulia. Nafahamu kwamba katika mchakato wa uteuzi katika vyama vyenu vya siasa kwa ajili ya uchaguzi mkuu umeanza na unaendelea. Nawatakia kila la kheri katika uchaguzi ujao na kubwa kuwaomba kwa heshima na kwa kuwapigia magoti kuwaomba muwe mfano wa viongozi bora, viongozi waungwana, viongozi waadilifu, wasiojihusisha na rushwa, matusi au kampeni za kuwagawa Watanzania wenzetu kwa mambo ya hovyo hovyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u3" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg6">Mheshimiwa Mwenyekiti, nitumie pia nafasi hii kutambua michango ya Mawakili wa Serikali na watumishi wote wa Ofisi ya Mwanasheria Mkuu wa Serikali wakiongozwa na Naibu Mwanasheria Mkuu kwa kazi nzuri wanazozifanya ambazo zimeniwezesha kufanya kazi zangu kwa urahisi na kwa ufanisi. Namshukuru sana Mwandishi Mkuu wa Sheria na Maafisa Waandishi wote wa Sheria kwa kuandaa Miswada yote ya Sheria ukiwemo huu. Nawashukuru Wakurugenzi wote wa Ofisi yangu pamoja na Wakuu wote wa Vitengo na watumishi wote wanaoonekana mbele yenu na wasioonekana mbele yenu kwa kazi zao.</seg>
+          <seg xml:id="seg7">Mheshimiwa Mwenyekiti, pia nawatambua Wachapaji, Madereva na Wahudumu ambao michango yao imesaidia kukamilika kwa kazi zetu. Bado tunayo kazi ya kuhudumia umma wa Tanzania kwa umakini na unyenyekevu na kufanya kwa kutambua kwamba kufanya kazi katika Ofisi hii ya Mwanasheria Mkuu wa Serikali na Serikalini kwa ujumla sasa liwe ni jambo la kujivunia. Nashawishika kuwapongeza sana Mawakili wa Serikali kwa kuendesha kwa umahiri mashauri Mahakamani na kuzisaidia Mahakama kutenda haki ama uendeshaji mzuri wa mashauri ya madai yameisaidia Serikali kuokoa fedha za umma.</seg>
+          <seg xml:id="seg8">Mheshimiwa Mwenyekiti, yale mashauri mengine ya kuwashtaki wale ambao wanahusika na mauaji ya ndugu zetu wenye ulemavu wa ngozi. Rai ni ile ile ya kawaida, vitendo vyetu vya uadilifu vitatuzungumzia kabla hatujaanza kupaza sauti zetu. Kuhusu Muswada namshukuru Mwenyekiti wa Kamati ya Sheria, Katiba na Utawala, Mheshimiwa George Malima Lubeleje, Mbunge wa Mpwapwa na kupitia kwake Waheshimiwa Wajumbe wa Kamati hiyo kwa ushauri wao wakati wa kupitia na kuujadili Muswada huu. Maoni na ushauri wao kwa kiasi kikubwa umesaidia kuboresha sana Muswada. Hii inathibitishwa na marekebisho katika Muswada kama yanavyoonekana katika Jedwali la Marekebisho tulilowasilisha pamoja na Muswada hapa Bungeni.</seg>
+          <seg xml:id="seg9">Mheshimiwa Mwenyekiti, nimewasilisha pia hotuba yangu ninayoisoma sasa na Muswada wa Marekebisho ya Sheria Mbalimbali ambao nausoma. Sheria zinazofanyiwa marekebisho kama zilivyo kwenye Muswada, naomba zionekane kwenye Hansard na kwa sababu kila Mbunge ana nakala ya hotuba yangu, nadhani sina haja ya kuzisoma. Sheria hizo ni The Electronic and Postal Communication Act, No.3 of 2010, The Mining Act, No.14 of 2010, the Employment and Labour Relations Act, Cap.366, the Labour Institutions Act,Cap. 300, the Election Expenses Act, No.6 of 2010, the National Elections Act, Cap.343, the Local Authority (Elections) Act, Cap.292, the Road Traffic Act, Cap. 168, the Local Government (District Authorities) Act, Cap.287 and the Local Government (Urban Authorities) Act, Cap.288.</seg>
+          <seg xml:id="seg10">Mheshimiwa Mwenyekiti, katika Sheria ya Mawasiliano ya Elektroniki na Posta Na. 3 ya mwaka 2010 inapendekezwa kufutwa na kuandikwa upya kifungu cha 26, kama ilivyo kwenye kifungu cha (4) cha Muswada. Kwa mujibu wa mabadiliko haya Kampuni zinazohusika na masuala ya mawasiliano ya elektroniki na posta sasa yatatakiwa kuuza hisa kwa wananchi kupitia soko la hisa baada ya miaka mitatu kuanza kutumika kwa Sheria ya Mawasiliano ya Elektroniki na Posta ya mwaka 2010.</seg>
+          <seg xml:id="seg11">Mheshimiwa Mwenyekiti, katika utekelezaji wa masharti haya inapendekezwa kumpatia Waziri mwenye dhamana mamlaka ya kutunga kanuni zitakazoweka ufafanuzi kuhusu viwango vya chini vya hisa na utaratibu utakaotumika katika uuzaji wa hisa hizo kwa wananchi. Katika kufanya hivyo masharti ya Sheria ya Mamlaka ya Masoko ya hisa na Dhamana yaani The Capital Markets and Securities Act, Sura ya 79 ya Sheria zetu zitatumika. Katika Sheria ya Madini Na. 14 ya mwaka 2010 inapendekeza katika Vifungu vya 5 na 6 vya Muswada kufanya marekebisho katika kifungu cha 96(iii) ili kubainisha kwa uwazi aina ya malipo ya fidia ambayo mmiliki wa ardhi ambaye atahamishwa ili kupisha shughuli za uchimbaji wa madini atastahili. Malipo hayo yatahusu pia usumbufu na uharibifu wa mali au upotevu wa haki ya matumizi ya mali yake kutokana na uhamisho huu.</seg>
+          <seg xml:id="seg12">Mheshimiwa Mwenyekiti, katika vifungu vya 7 hadi 16 vya Muswada, mapendekezo ya marekebisho katika Sheria ya Ajira na Mahusiano Kazini yaani Sura 396 yanafanyika katika vifungu vya 38, 67, 69, 71, 88, 91 na 93. Marekebisho haya yanalenga kuboresha utaratibu wa kutatua migogoro kazini, kwa kufafanua mambo yafuatayo:-</seg>
+          <seg xml:id="seg13">Yako mambo manne ukurasa wa nane. La kwanza, mkachato wa usuluhishi kabla mwajiri hajachukua uamuzi wa kumwachisha kazi mwajiriwa kwa sababu ya kutokubaliana na masharti ya kazi yaliyotolewa na mwajiri. Pili, kuruhusu Chama cha Wafanyakazi chenye wanachama wengi kuomba jukumu la chama cha wafanyakazi kilichopoteza haki ya uwakilishi kutokana na kuwa na idadi ndogo ya wanachama ndani ya Taasisi husika. Tatu, kuruhusu upande wowote katika majadiliano, kujiondoa katika majadiliano hayo baada ya kutoa sababu za kufanya hivyo. Nne, kuruhusu usuluhishi mgogoro wa kikazi, kuandaa makubaliano yaliyofikiwa katika utatuzi wa migogoro na ambayo yatawekwa saini pande zote mbili za mgogoro huo.</seg>
+          <seg xml:id="seg14">Mheshimiwa Mwenyekiti, katika kifungu cha 18, cha Muswada inapendekeza pia kurekebisha Sheria ya Taasisi za kazi Sura ya 300, Labour Institutions, kwa kuweka tafsiri ya neno Mahakama ambayo sasa katika Sheria itakuwa na maana ya Mahakama ya Kazi. Mahakama hiyo itakuwa ni sehemu ya Mahakama Kuu na itaongozwa na Jaji ambaye atakuwa ni Mwenyekiti.</seg>
+          <seg xml:id="seg15">Vile vile inapendekezwa kwenye kifungu cha 19 cha Muswada kuweka masharti ya kutotoza ada kwa mashauri yatakayofunguliwa katika Mahakama ya Kazi. Aidha, yapo masharti yanayoruhusu kupendekeza kwa mwenye mamlaka ya uteuzi kuondolewa kuwa Mshauri wa Mahakama yaani Assessor ambaye atashindwa kufanya kazi zake ipasavyo. Mamlaka za Uteuzi za Ushauri wa Mahakama hiyo zimetajwa kwenye kifungu cha 53 cha Sheria ya Taasisi za kazi.</seg>
+          <seg xml:id="seg16">Mheshimiwa Mwenyekiti, kifungu cha 23 cha Muswada kinabeba mapendekezo katika Sheria ya Gharama za Uchaguzi Na. 6 ya 2010 yanayohusu kubadilisha masharti ya kifungu cha 9(i) ili kuwataka watu walioteuliwa kuwa wagombea wa nafasi ya Rais,</seg>
+          <seg xml:id="seg17">Ubunge au Udiwani kutoa tamko la gharama watakazotumia katika uchaguzi siku saba baada ya uteuzi wao, badala ya siku tano kabla ya siku ya uteuzi ilivyo sasa.</seg>
+          <seg xml:id="seg18">Mheshimiwa Mwenyekiti, kwa kuwa mgombea atafahamu kwamba haya yamefanyika kwa kura, mgombea atafahamu ameteuliwa baada ya siku ya uteuzi na italeta maana iliyokusudiwa kama atatoa tamko hilo baada ya kuteuliwa.</seg>
+          <seg xml:id="seg19">Mheshimiwa Mwenyekiti, kifungu cha 20 cha Sheria hiyo kinafanyiwa marekebisho kwa kuzingatia marekebisho ya kifungu cha 9(i) kwa kuongeza neno linalomzuia mgombea anayepatikana na kosa la kutotaja matumizi kuendelea kushiriki katika uchaguzi kama inavyoonyeshwa katika kifungu cha 24 cha Muswada.</seg>
+          <seg xml:id="seg20">Mheshimiwa Mwenyekiti, rekebisho la mwisho linalofanywa kwenye kifungu cha 24 ni kwa kukifuta kifungu kidogo cha kwanza na kuorodhesha upya vifungu vidogo vilivyobaki kama inavyoonyeshwa kwenye Jedwali lenye marekebisho. Marekebisho haya yanaondoa sharti la Vyama vya Siasa kukamilisha zoezi la uteuzi angalau siku tano ili sasa zoezi hilo likamilishwe muda wowote kabla ya siku ya uteuzi.</seg>
+          <seg xml:id="seg21">Mheshimiwa Mwenyekiti, ili marekebisho haya yawiane na masharti yaliyomo katika Sheria ya Gharama za Uchaguzi, inapendekezwa kufanya marekebisho katika Kifungu cha 38(4) (d) cha Sheria ya Uchaguzi, Sura ya 343 na Kifungu cha 42(4)(d) cha Sheria ya Uchaguzi wa Serikali za Mitaa, Sura ya 292. Kwa marekebisho haya, vifungu hivyo sasa vinafutwa.</seg>
+          <seg xml:id="seg22">Mheshimiwa Mwenyekiti, marekebisho mengine katika sheria hizi, yanafanyika kwa kufuta na kuandika upya Vifungu vya 50(a) katika Sheria ya Uchaguzi, Sura ya 343 na Kifungu cha 52(a) cha Sheria ya Uchaguzi wa Serikali za Mitaa, Sura ya 292, ili kumpatia Msajili wa Vyama Vya Siasa Mamlaka ya kuweka pingamizi kwenye Tume ya Uchaguzi kwa lengo la kumuondoa katika mchakato wa uchaguzi mgombea ambaye amekiuka Sheria ya Gharama za Uchaguzi, kufuatia pingamizi lililowekwa na Msajili wa Vyama vya Siasa.</seg>
+          <seg xml:id="seg23">Mheshimiwa Mwenyekiti, marekebisho katika Sheria ya Serikali za Mitaa, Mamlaka za Wilaya, Sura ya 287, yanafanyika ili kuongeza Kifungu cha 178 (a) ambacho kinampa Waziri mwenye dhamana, Mamlaka ya kuvunja Mabaraza ya Halmashauri. Inapendekezwa kuwa Mabaraza hayo yavunjwe siku saba kabla ya tarehe ya kuvunja Bunge, ili kupisha kampeni kwa wagombea wa nafasi ya Udiwani katika Uchaguzi Mkuu kuanza. Kwa madhumuni hayo hayo, inapendekezwa kufanya marekebisho katika Sheria ya Serikali za Mitaa, Mamlaka ya Miji, Sura ya 288, kwa kuongeza Kifungu cha 84(a). Marekebisho haya yanabainisha kwamba katika kipindi ambacho Mabaraza ya Halmashauri yatakuwa yamevunjwa, Kamati zilizoundwa na Mabaraza hazitaruhusiwa kuanzisha au kubadilisha mradi wowote ulioanzishwa kabla Baraza halijavunjwa. Aidha, inapendekezwa kurekebisha Kifungu cha 16 kwa kuongeza kifungu kidogo cha sita na cha saba kwa lengo la kumpatia Msajili wa Vijiji, Mamlaka ya kutangaza orodha ya mitaa iliyosajiliwa.</seg>
+          <seg xml:id="seg24">Mheshimiwa Mwenyekiti, hivi sasa Mabaraza ya Madiwani yamevunjwa kwa mujibu wa masharti ya Kifungu cha 4(i)(a) na Kifungu cha 173(c) cha Sheria iitwayo The Local Government District Authorities Act, Chapter 287 (as revised in 2002). Waziri mhusika amevunja Mabaraza hayo kwa kutumia vifungu hivyo na akatoa Tangazo la Serikali Na.241 la 2010, yaani The Local Government Urban Authorities Suspension of Councils and Committee Meetings Order 2010. Tangazo hilo ni la terehe 2 Julai, 2010.</seg>
+          <seg xml:id="seg25">Mheshimiwa Mwenyekiti, marekebisho katika Sheria ya Usalama Barabarani, Sura ya 168 yanafanyika ili kuongeza kiwango cha faini itakayotozwa kwa makosa yaliyomo kwenye Sheria ya Usalama Barabarani. Sababu zake ni kwamba, kutilia maanani thamani ya shilingi ya Tanzania.</seg>
+          <seg xml:id="seg26">Mheshimiwa Mwenyekiti, marekebisho mengine yako katika Sheria ya Pensheni ya Watumishi wa Umma, Sura ya 371. Haya yanafanyika ili kubainisha umri wa kustaafu kwa hiari na kustaafu kwa lazima kwa Askari wa ngazi za Konstebo, Koplo na Sajenti wa Jeshi la Polisi, Magereza, Uhamiaji na Zimamoto na Uokoaji. Inapendekezwa kwamba sasa umri huo uwe kama ilivyoainishwa kwenye jedwali la marekebisho ambalo Wabunge, wamegawiwa.</seg>
+          <seg xml:id="seg27">Mheshimiwa Mwenyekiti, marekebisho mengine yanafanyika katika Sheria ya Taifa ya Bima ya Afya, The National Health Insurance Fund, Sura ya 395 katika Kifungu cha 9, ili kuongeza vifungu vidogo vya tatu (3) na nne (4), kuweka utaratibu wa uchangiaji katika Mfuko wa Taifa wa Bima ya Afya, kwa Askari Polisi, Magereza, Uhamiaji na Zimamoto na Uokoaji. Marekebisho haya yanaweka kiwango cha mchango ambapo Serikali itachangia kila mwezi katika Mfuko wa Bima, kwa ajili ya kuwawezesha Askari Polisi, Magereza, Uhamiaji na Zimamoto na Uokoaji, kutibiwa kama watumishi wengine wa Serikali.</seg>
+          <seg xml:id="seg28">Mheshimiwa Mwenyekiti, marekebisho mengine yanafanyika katika Sheria ya Udhibiti wa Silaha, Sura ya 223 kwa kukifuta Kifungu cha 34(2) na kukiandika upya ili Sheria hiyo itoe adhabu kwa makosa ya kupatikana na silaha kinyume cha sheria, kufuatia kuondolewa kwa kosa hilo katika Sheria ya Uhujumu Uchumi, Sura ya 200 ambayo ilikuwa inatoa adhabu kwa makosa ya kupatikana na silaha kinyume cha sheria. Makosa haya sasa hayana adhabu. Marekebisho tunayoyawasilisha, yatawezesha Mahakama zetu kutoa adhabu pindi mtuhumiwa akipatikana na hatia.</seg>
+          <seg xml:id="seg29">Mheshimiwa Mwenyekiti, marekebisho mengine yanayopendekezwa yanafanywa kwenye Sheria ya Umeme, The Electricity Act. No.10, 2008. Inapendekezwa kwamba vifungu vidogo vya (7), (8) na (9) vya Kifungu cha 41, vifutwe na kuweka kifungu kimoja kipya kinachompa Waziri anayehusika na Sekta kuweka Kanuni zitakazosimamia utekelezaji wa masharti ya Kifungu cha 41(6).</seg>
+          <seg xml:id="seg30">Mheshimiwa Mwenyekiti, baada ya maelezo haya, sasa ninapenda kupitia kwako, kuwaomba Waheshimiwa Wabunge, waujadili Muswada huu na kuupitisha katika hatua zinazofuata. Nina imani kwamba Bunge lako Tukufu litaridhia marekebisho yote</seg>
+          <seg xml:id="seg31">yanayopendekezwa na kukubali marekebisho haya yawe ni sehemu ya sheria ya nchi yetu.</seg>
+          <seg xml:id="seg32">Mheshimiwa Mwenyekiti, kwa heshima na taadhima, ninaomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u4" who="WaziriWaChakulaKilimoNaUshirika">
+          <seg xml:id="seg33">Mheshimiwa Mwenyekiti, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u5" who="MwenyekitiWaKamatiYaBungeYaKatibaSheriaNaUtawalaMheGeorgeMLubeleje">
+          <seg xml:id="seg34">Mheshimiwa Mwenyekiti, awali ya yote, napenda kuchukua fursa hii, kukushukuru wewe binafsi, kwa kunipa nafasi hii adhimu ili nitoe maoni ya Kamati ya Kudumu ya Bunge ya Katiba, Sheria na Utawala, baada ya kukamilisha kazi ya kuchambua Muswada wa Marekebisho ya Sheria Mbalimbali wa Mwaka 2010.</seg>
+          <seg xml:id="seg35">Mheshimiwa Mwenyekiti, baada ya kuipelekea Kamati yangu kazi ya kushughulikia Muswada huu kwa mujibu wa Kanuni ya 84(1) ya Kanuni za Bunge Toleo la 2010, tarehe 5 Julai, 2010, Kamati ilikutana Ofisi ya Bunge Dodoma na kupata maelezo ya Serikali kuhusu maudhui, madhumuni na sababu za Muswada huu, maelezo hayo yalitolewa na Mheshimiwa Jaji Frederick M. Werema, Mbunge, Mwanasheria Mkuu wa Serikali ambaye alieleza kuwa marekebisho yanayopendekezwa yanalenga kuziboresha Sheria husika na kufanya utekelezaji wake uwiane na mabadiliko ya kisera na mfumo. Aidha, ili kuendana na mabadiliko hayo ya mfumo, Serikali ililazimika kuchukua uamuzi ambao utekelezaji wake unahitaji marekebisho ya sheria kama inavyopendekezwa. Napenda kuliarifu Bunge lako Tukufu kuwa Kamati iliafiki sababu zilizotolewa na Serikali na kuona umuhimu wa mabadiliko ya Sheria hizo.</seg>
+          <seg xml:id="seg36">Mheshimiwa Mwenyekiti, kutokana na maelezo yaliyotolewa na Mwanasheria Mkuu wa Serikali, Kamati ilipenda kujiridhisha kuhusu namna mapendekezo hayo yanavyoweza kuboresha utekelezaji wa Sheria husika. Baada ya kujadili na kutafakari kwa kina, Kamati yangu iliridhika kwamba mapendekezo hayo kwa ujumla yanakidhi vigezo vya msingi na kwamba yatasaidia kuweka sawa mambo mengi katika Sheria zitakazorekebishwa.</seg>
+          <seg xml:id="seg37">Mheshimiwa Mwenyekiti, maudhui na sehemu za Muswada. Kama alivyoeleza mtoa hoja muda mfupi uliopita, Muswada ulipowasilishwa kwenye Kamati baada ya Kusomwa Mara ya Kwanza, ulitajwa kuwa na sehemu 13 na kwamba unapendekeza kufanya marekebisho katika Sheria mbalimbali 13 kama zilivyotajwa na mtoa hoja. Miongoni mwa Sheria hizo ni Sheria ya Gharama za Uchaguzi (The Election Expenses Act) Na. 6 ya Mwaka 2010, Sheria ya Mawasiliano ya Electroniki na Posta (The Electronic and Postal Communications Act) Na. 3 ya Mwaka 2010 na Sheria ya Uchaguzi (The National Election Act) Sura ya 343. Katika kikao cha tarehe 5 Julai, 2010, mtoa hoja pia aliwaliwasilisha Jedwali la Marekebisho na kutoa ufafanuzi.</seg>
+          <seg xml:id="seg38">Mheshimiwa Mwenyekiti, ni mara ya pili sasa Serikali inaleta mapendekezo ya kurekebisha Sheria ya Gharama za Uchaguzi na Sheria ya Mawasiliano ya Electroniki na Posta tangu Bunge lilipopitisha Sheria hizi. Mara ya kwanza, ilikuwa ni tarehe 17 Aprili, 2010 ambapo katika Muswada wa Sheria ya Marekebisho, Serikali ilipendekeza kubadilisha Sheria hizi pamoja na Sheria nyingine. Jambo la msingi kuhusu mapendekezo haya, ni azma ya Serikali ya kuboresha Sheria hizo na kuweka sawa utekelezaji wake.</seg>
+          <seg xml:id="seg39">Mheshimwa Mwenyekiti, kwa ujumla, marekebisho ya Sheria zinazopendekezwa yanatokana na nia njema ya Serikali ya kusimamia Sheria za Bunge kwa ufanisi. Kamati imeridhika kuwa dhamira hii ni njema na inapaswa kuungwa mkono. Jambo muhimu la kuzingatia, ni jinsi marekebsiho yanayopendekezwa yanavyoweza kuondoa upungufu uliolengwa. Kwa maelezo haya, naomba kuliarifu Bunge lako Tukufu kuwa Kamati inakubaliana na mapendekezo ya Serikali katika Muswada huu na Kamati ilitoa maoni na ushauri kwa jumla kuhusu sehemu mbalimbali za Muswada huu.</seg>
+          <seg xml:id="seg40">Mheshimiwa Mwenyekiti, kuhusu matumizi ya lugha na sarufi, katika kikao cha Kamati, Wajumbe walitoa ushauri uliopokelewa na Serikali na kusababisha Muswada huu uwe katika hali hii kama ilivyowasilishwa pamoja na Jedwali la Marekebisho. Tunamshukuru sana Mheshimiwa Jaji Frederick M. Werema, Mbunge, Mwanasheria Mkuu wa Serikali, kwa umakini mkubwa katika kufanyia kazi hoja zilizotolewa na Kamati yangu wakati wa kuchambua Muswada huu. Usikivu na ushirikiano wake umesaidia kuboresha mapendekezo ya Serikali kuhusu Marekebisho ya Sheria mbalimbali kama yalivyobainishwa muda mfupi uliopita.</seg>
+          <seg xml:id="seg41">Mheshimiwa Mwenyekiti, kuhusu maudhui ya Muswada, kwa ujumla Kamati ina maoni kuwa, Muswada huu utawezesha Sheria zinazorekebishwa kuwa katika sura ya kutekelezeka kwa ufanisi zaidi kwa kuondoa upungufu uliojitokeza wakati wa utekelezaji wake. Aidha, mapendekezo ya Serikali yatawezesha Sheria husika kusomeka kwa maana iliyokusudiwa na Bunge sambamba na kuendana na mabadiliko ya fedha na ongezeko la uvunjifu wa Sheria. Kamati inashauri kuwa, marekebisho haya yaende sanjari na kuimarisha usimamizi wa Sheria hizo.</seg>
+          <seg xml:id="seg42">Mheshimiwa Mwenyekiti, mbali na maoni hayo kwa ujumla, Kamati pia inatoa maoni yake katika maeneo mbalimbali ya Muswada wa Sheria uliowasilishwa. Mojawapo ya maeneo hayo, ni Sehemu ya Tatu ya Muswada huu hususan Ibara ya 6, inayopendekeza marekebisho ya Kifungu cha 96(3) cha Sheria ya Madini, Na 14 ya Mwaka 2010. Ni maoni ya Kamati kuwa mapendekezo haya yatazingatia ushauri uliotolewa na Waheshimiwa Wabunge wakati Bunge lako Tukufu linapitisha Sheria Namba 14 ya Mwaka 2010. Aidha, mapendekezo ya Serikali yatasaidia kuboresha Sheria ya Madini na kuweka mazingira bora ya Kibiashara katika Sekta ya Madini.</seg>
+          <seg xml:id="seg43">Mheshimiwa Mwenyekiti, katika Sehemu ya Nne ya Muswada huu, mapendekezo ya Serikali yanalenga kuifanyia Marekebisho Sheria ya Ajira na Mahusiano Kazini, Sura ya 366, The Employement and Labour Relation Act. Cap 366. Kamati ina maoni kuwa</seg>
+          <seg xml:id="seg44">ufafanuzi unaofanywa wa Ibara ya 8 hadi 16 za Muswada wa Sheria tunaoujadili, unarahisisha Sheria husika pamoja na kuzingatia haki za msingi za Mwajiri na Mwajiriwa. Pamoja na hivyo, Kamati yangu inashauri kuwa, mara zote Serikali inapopendekeza marekebisho ya Sheria iongeze umakini katika kufanya hivyo ili kuepuka kasoro zinazoweza kusababishwa na marekebisho ya Sheria pale ambapo Bunge litapitisha mapendekezo hayo kuwa Sheria.</seg>
+          <seg xml:id="seg45">Mheshimiwa Mwenyekiti, kuhusu Sehemu ya Sita, Saba na Tisa, Kamati imeridhika kuwa marekebisho yanayopendekezwa kwa kuzingatia maoni kuhusu kuwianisha Sheria ya Uchaguzi wa Serikali za Mitaa, Sura ya 292, Sheria ya Uchaguzi, Sura ya 343 na Sheria ya Gharama za Uchaguzi ya mwaka 2010, ni jambo la msingi ambalo litawezesha utekelezaji na usimamizi wa Sheria kuwa rahisi na wenye ufanisi. Aidha, kutokana na usikivu wa Serikali ya Awamu ya Nne, hoja nyingi zilizotolewa na Waheshimiwa Wabunge wakati wa majadiliano ya Mkutano wa Kumi na Nane wa Bunge na Mkutano wa Kumi na Tisa wa Bunge, kuhusu madaraka ya Msajili wa Vyama vya Siasa zimezingatiwa katika mapendekezo haya.</seg>
+          <seg xml:id="seg46">Mheshimiwa Mwenyekiti, kwa upande wa Ibara ya 23 inayopendekeza marekebisho katika Kifungu cha 9, kuhusu tamko la gharama watakazotumia Wagombea, kama sote tunavyofahamu, katika Mkutano wa Kumi na Tisa, Bunge hili lilifanya marekebisho yaliyolenga kuongeza siku kutoka Tano (5) hadi Saba (7), katika Muswada huu Serikali pia inapendekeza kurekebisha Kifungu kinachohusu muda wa kutoa tamko la gharama kutoka siku tano (5) kabla ya uchaguzi hadi siku saba (7). Ni maoni ya Kamati kuwa mapendekezo haya yamezingatia sana hali halisi na mazingira ya utekelezaji wa Sheria. Vilevile napenda kusema kuwa ni wazi mapendekezo haya yalizingatia majadiliano yalivyokuwa kila mara ndani na nje ya Bunge jambo ambalo linapaswa kupongezwa.</seg>
+          <seg xml:id="seg47">Mheshimiwa Mwenyekiti, katika sehemu ya Tisa na Kumi ya Muswada huu ambapo Serikali inapendekeza kuifanyia marekebisho Sheria ya Serikali za Mitaa (Mamlaka za Wilaya), Sura ya 287 na Sheria ya Serikali za Mitaa, (Mamlaka za Miji), Sura ya 288. Kamati ina maoni kuwa iwapo Bunge litapitisha Sheria inayopendekezwa, itasaidia sana kukabiliana na hali inayolalamikiwa. Uzoefu umeonyesha kuwa kuna malalamiko kuhusu Watendaji wachache wa baadhi ya Halmashauri nchini, kutekeleza au kubadilisha miradi mbalimbali pale Mabaraza ya Madiwani yanapokuwa yamevunjwa. Jambo hili si jema na ni kinyume na misingi ya kuwapa nguvu wananchi kujiamulia mambo yanayowahusu kwa kupitia Wawakilishi wao. Kamati yangu inaipongeza Serikali kwa mapendekezo haya. Ni matumaini yetu kuwa lengo la Serikali ni kudhibiti uanzishaji mradi mpya au ubadilishaji wa mradi wowote ulioanzishwa kabla ya Baraza kuvunjwa.</seg>
+          <seg xml:id="seg48">Mheshimiwa Mwenyekiti, Sehemu ya Kumi na Mbili, kama ilivyowasilishwa kwenye kikao cha Kamati, inalenga kuongeza umri wa Askari kustaafu. Kamati ina maoni kuwa, mapendekezo haya yanaonyesha usikivu wa Serikali kuhusu maoni ya Wabunge katika Mikutano ya Bunge iliyopita. Ni kweli kuwa umri wa kustaafu kwa Mujibu wa Sheria za awali ulisababisha kuwapoteza Askari wazoefu na wenye nguvu pale wanapostaafu. Napenda kuliomba Bunge lako Tukufu likubali mapendekezo haya ili</seg>
+          <seg xml:id="seg49">kuliwezesha Jeshi la Polisi, Magereza, Zimamoto na Uokoaji kuendelea kuwatumia Askari wenye uzoefu wa kutosha na nguvu katika kutekeleza majukumu yake ya msingi.</seg>
+          <seg xml:id="seg50">Mheshimiwa Mwenyekiti, kabla ya kuhitimisha maoni ya Kamati kuhusu Muswada huu, naomba nikushukuru tena kwa kunipa nafasi hii ili niwasilishe maoni ya Kamati yangu kuhusu Muswada huu. Aidha, namshukuru Mheshimiwa Jaji Frederick M. Werema, Mbunge, Mwanasheria Mkuu wa Serikali pamoja na wataalamu wa Ofisi yake, kwa ushirikiano na ufafanuzi walioutoa kwa Kamati yangu.</seg>
+          <seg xml:id="seg51">Mheshimiwa Mwenyekiti, napenda pia kuwashukuru sana na kuwapongeza Wajumbe wa Kamati ya Bunge ya Katiba, Sheria na Utawala, kwa umakini na michango yao ya kina wakati Kamati ilipochambua Muswada huu. Naomba kuwatambua Wajumbe hao kwa majina kama ifuatavyo. Mheshimiwa George Malima Lubeleje, Mwenyekiti, Mheshimiwa Ramadhani Athumani Maneno, Makamu Mwenyekiti, Mheshimiwa Stephen J. Galinoma, Mheshimiwa Rajab H. Juma, Mheshimiwa Riziki O. Juma, Mheshimiwa Shoka Khamis Juma, Mheshimiwa Abubakar Khamis Bakari, Mheshimiwa John Paulo Lwanji, Mheshimiwa Fatma Mussa Maghimbi, Mheshimiwa Yusuf Rajab Makamba, Mheshimiwa Pindi Hazara Chana, Mheshimiwa Nimrod Mkono, Mheshimiwa Salim Yusuf Mohamed, Mheshimiwa Benedict Ole-Nangoro, Mheshimiwa Abbas Zuberi Mtemvu na Mheshimiwa Kingunge Ngombale-Mwiru.</seg>
+          <seg xml:id="seg52">Mheshimiwa Mwenyekiti, vilevile napenda kuwashukuru watumishi wa ofisi ya Bunge wakiwemo Makatibu wa Kamati hii, Ndugu Athumani Hussein, Elihaika Mtui, chini ya uongozi wa Katibu wa Bunge Dr. Thomas Kashililah, kwa kuratibu vyema shughuli za Kamati.</seg>
+          <seg xml:id="seg53">Mheshimiwa Mwenyekiti, baada ya kusema hayo, naunga mkono hoja na naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u6" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg54">Mheshimiwa Mwenyekiti, ahsante sana kwa kunipa nafasi hii. Napenda kwanza kumshukuru Mwenyezi Mungu, kwa kuniwezesha kusimama mbele ya Bunge lako Tukufu, kuwasilisha maoni ya Kambi ya Upinzani, kuhusu Muswada wa Sheria ya Marekebisho ya Sheria Mbalimbali wa mwaka 2010, kwa mujibu wa Kanuni za Bunge, Kanuni ya 86(6), Toleo la mwaka 2007.</seg>
+          <seg xml:id="seg55">Mheshimiwa Mwenyekiti, mie pia naomba niunge mkono wenzangu kwa kutoa pole katika familia ya Mheshimiwa Prof. Mwaikusa. Prof. Mwaikusa amenisomesha Sheria mwaka wa pili na bila ya mchango wake katika kupata Shahada ya Sheria, pengine nisingekuwa hapa mbele yenu kama Waziri Kivuli wa Katiba na Sheria. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u7" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg56">Mheshimiwa Mwenyekiti, naanza kwa Sehemu ya Pili, ambayo ni Amendment of the Electronic and Postal Communication Act, 2010. Kifungu hiki cha 26</seg>
+          <seg xml:id="seg57">kinachorekebishwa, kilishawahi kuletwa katika Bunge lako hili Tukufu lakini kilitolewa bila ya kujadiliwa, wala Bunge halikuarifiwa ni kwa nini kilitolewa. Sasa kimeletwa tena kama kilivyokuwa kimeondolewa katika Miscellaneous ili kufanya mabadiliko ambayo yalipendekezwa wakati ule. Kambi ya Upinzani inapenda kuelewa ni kwa nini unakuja dakika hii ya mwisho ili Waheshimiwa Wabunge wasipate muda wa kuujadili kwa kina maana asilimia kubwa ya Wabunge sasa wamekwishachoka kutokana na kufanya kazi bila ya kupumzika.</seg>
+          <seg xml:id="seg58">Mheshimiwa Mwenyekiti, hoja yetu katika Sheria hii ilikuwa ni kwa nini wanahisa wa kizalendo (local shareholders) ndio walazimishwe kuuza hisa zao katika Soko la Hisa baada ya muda wa miaka mitatu tangu uanzishwaji wa kampuni na si wageni? Hisa ni sawa na mtu aliye na shamba la Kahawa, Chai Korosho, Karafuu na pia ni sawa na mfugaji anayemiliki ng’ombe, je, ni halali kuwaambia watu hao wauze mifugo yao au mashamba yao na wabakie na nusu au robo ya kile wanachomiliki? Kwa lugha yoyote itakayotumika kwa hili, bado Kambi ya Upinzani inaona kutakuwa na kasoro kubwa kwani mtu anapotafuta mbia toka nje, kuna makubaliano wanayoyafanya baina yao na hivyo kuingiza watu wengine katika biashara yao ni kinyume na hili linaweza kusababisha local shareholders wakafungwa na makubaliano na kujikuta wamepoteza uhalali wa kuwa wamiliki.</seg>
+          <seg xml:id="seg59">Mheshimiwa Mwenyekiti, Sehemu ya Tatu, amendment of the Mining Act, 2010, Kifungu cha 6 katika Muswada kinachorekebisha kifungu cha 96 cha Sheria ya Madini, maneno yanayoingizwa mwisho wa Kifungu kidogo cha 3, tunaomba neno „disturbance” litolewe, maana hawa Investors karibu wote ni wageni. Hivyo hata kupita karibu ya ukuta ambapo pengine pana njia ya miguu basi atasema kwanza ni trespass na pia ataita „disturbance” na wananchi wengi watasumbuliwa iwapo kifungu hiki hakitawekwa sawa.</seg>
+          <seg xml:id="seg60">Mheshimiwa Mwenyekiti, Sehemu ya Nne, amendment of the Employment and Labour Relations Act, tunakubaliana na mabadiliko ya Sehemu hii ya Kifungu 38(3) isipokuwa pale inaposema „The employer may proceed with their retrenchment”. Kambi ya Upinzani, inapendekeza kuwa hadi pale employer anaposhinda ndio uachishwaji kazi uendelee. Kwa sababu wafanyakazi wakishinda basi Waajiri wanakuwa wagumu kuwalipa zile siku zao ambazo walizokuwa „suspended”.</seg>
+          <seg xml:id="seg61">Mheshimiwa Mwenyekiti, Sehemu ya Tano, amendment of Labour Institutions Act, Kambi ya Upinzani inakubaliana na Sehemu hii ya Tano lakini tunaona adhabu haina haja. Kulitupilia mbali shauri ni adhabu ya kutosha. Kwa sababu kisa cha mlalamikaji kuleta kesi hiyo Mahakamani basi yeye aliiona kuwa kesi hiyo ni ya msingi.</seg>
+          <seg xml:id="seg62">Mheshimiwa Mwenyekiti, Sehemu ya Sita, amendment of Election Expense Act, 2010, Kambi ya Upinzani inakubaliana na mabadiliko yaliyofanywa. Lakini tuna wasiwasi na kujiuliza kwa nini Sheria hii imeshaingia katika Bunge lako Tukufu kwa mara ya tatu sasa. Je, tatizo liko kwa Wanasheria wenzetu wanaomshauri Rais?</seg>
+          <seg xml:id="seg63">Mheshimiwa Mwenyekiti, tunaomba Wanasheria wajitahidi kumshauri vizuri Rais ili Sheria muhimu kama hii isirudirudi kwa marekebisho maana wageni wanaweza</seg>
+          <seg xml:id="seg64">kufikiria kuwa tuna tatizo kwa Wanasheria wetu kiuwezo, jambo ambalo sio la kweli. Pia hii ni dalili ya ukosefu wa umakini wakati wa kupendekeza jambo linalosababishwa na kubana muda wa kutafakari mapendekezo kwa kina. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u8" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg65">Mheshimwa Mwenyekiti, Mwanasheria Mkuu ni mtu makini sana na tunahakika inaisaidia sana nchi yetu, nakuombeni Watanzania hasa Wanasheria tumpe ushirikiano mkubwa akiwa ni Attorney General na kama kuna cheo kikubwa zaidi ambacho kinaitwa Principal Attorney General basi apewe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u9" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg66">Mheshimiwa Mwenyekiti, hata hivyo, Sheria hii inahitaji marekebisho makubwa na haya yaliyoletwa ni kidogo, yapo mambo muhimu ambayo kimsingi yatafanya Sheria hii iwe ngumu kutekelezeka. Pia yataweza kupigiwa kelele na wadau mbalimbali vikiwemo Vyama vya Siasa na Wabunge. Ni imani ya Kambi ya Upinzani baada ya uchaguzi wa mwaka 2010, Sheria hii itatazamwa upya na kufanyiwa marekebisho makubwa.</seg>
+          <seg xml:id="seg67">Mheshimiwa Mwenyekiti, Sehemu ya Tisa, amendment of Local Government (District Authorities) Act. katika Kifungu cha 32(1), kinachorekebisha Kifungu cha 178A, Kambi ya Upinzani, inapenda kueleza masikitiko yake kuwa Kifungu hiki leo kinajadiliwa hapa Bungeni, lakini wakati huo huo Waziri mwenye dhamana amekwisha kuvunja Halmashauri za Miji, Manispaa na Halmashauri za Wilaya kwa Waraka. Hili ni jambo la kusikitisha, kwani Serikali inaamini kuwa jambo lolote linaloletwa na Serikali ni lazima likubalike na Bunge. Au kwa maana nyingine Serikali inaona Bunge kuwa ni Rubber Stamp tu, kama ilivyokuwa chini ya Serikali ya Chama kimoja.</seg>
+          <seg xml:id="seg68">Mheshimiwa Mwenyekiti, Kambi ya Upinzani inafahamu hata kabla ya rekebisho hili, Waziri alikuwa anavunja Halmashauri hizo kwa mujibu wa Sheria zilizokuwepo yaani Sheria na 7 na Sheria na 8 ya mwaka 1982 kama ilivyokuwa ikirekebishwa mara kwa mara. Hivyo hapakuwa na sababu kabisa kuleta rekebisho hili sasa isipokuwa kuthibitisha kuwa Bunge ni Rubber Stamp tu. Kambi ya Upinzani, inaitaka Serikali kueleza kwa kina kama Halmashauri hizo zimeshavunjwa, kama hivyo ndio rekebisho hili lina maana gani hasa?</seg>
+          <seg xml:id="seg69">Mheshimiwa Mwenyekiti, pamoja na hilo, Kambi ya Upinzani inapenda kutoa masikitiko yake kuwa Waziri mwenye dhamana amevunja Halmashauri hizo bila hata kuwalipa kiinua mgongo Madiwani waliomaliza muda wao. Tunataka kuwa na uhakika, Madiwani hao watalipwa lini na kwa utaratibu gani? Pia tunataka kujua ni kwa nini Serikali inachelewesha malipo wakati inafahamu kipindi cha Madiwani ni miaka mitano kama ilivyo kwa Mbunge, ni kwa nini hawakuandaa malipo yao kama ilivyo kwa Wabunge? Aidha, Wajumbe wa Mabaraza ya Miji Midogo, nao utaratibu wa malipo yao ukoje? Kama bado haujaandaliwa, ni vyema utaratibu wa malipo yao uandaliwe kuanzia leo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u10" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg70">Mheshimiwa Mwenyekiti, wakati huo huo, kuna tafsiri kuwa kuvunjwa Halmashauri za Wilaya, Manispa na Majiji, Serikali pia imevunja Uongozi wa Miji Midogo. Kambi ya Upinzani, inafahamu kuwa ni kweli Halmashauri za Miji Midogo</seg>
+          <seg xml:id="seg71">inategemea Halmashauri ya Wilaya, Manispaa na Majiji, kwa maamuzi ya Kisheria. Lakini Pia ni kweli kuwa katika utekelezaji wa shughuli za Serikali za Mitaa, kuna mambo ambayo hayahitaji maamuzi ya kisheria yanayoamuliwa na Baraza la Madiwani, yako ndani ya Sheria yenyewe iliyounda Miji Midogo.</seg>
+          <seg xml:id="seg72">Mheshimiwa Mwenyekiti, Kambi ya Upinzani inauliza, je, ni kwa nini Mamlaka hizo za Miji Midogo zimevunjwa pamoja na Mabaraza ya Madiwani, wakati kipindi chao cha uongozi kinaelezwa na Sheria kuwa ni miaka mitano? Je, hii si kuvunja Sheria? Muda huo unaopotea katika kipindi cha uchaguzi utafidiwa vipi? Kambi ya Upinzani, inataka Serikali kutoa majibu ya kina katika eneo hili kuondoa utata ambao tayari umejitokeza katika maeneo yote ya Miji Midogo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u11" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg73">Mheshimiwa Mwenyekiti, Sehemu ya Kumi, amendment of the Local Government (Urban Authorities) Act, Kifungu cha 34 cha Muswada kinachorekebisha Kifungu cha 16 cha Sheria, kinaeleza kuwa Msajili wa Vijiji atakuwa na uwezo wa kukubali au kukataa mtaa wowote utakaokuwa umeanzishwa na Mamlaka ya Mji. Kambi ya Upinzani inauliza, je, kuna Msajili wa Mitaa au Msajili wa Vitongoji? Kama itakuwa ni mtu huyo huyo itakuwa ni vyema cheo hicho kiwekwe vizuri ili kuondoa utata unaoweza kujitokeza. Pia tunauliza Msajili wa Vijiji atakuwa na uwezo gani wa kufuta Mitaa ambayo iko chini ya mamlaka tofauti na Sheria tofauti (District and Urban Authority)? Kambi ya Upinzani inamtaka Mheshimiwa Waziri atoe utaratibu unaotumiwa kwa sasa katika kujasili Mtaa, Kitongoji na Kijiji. Je, hivi vyote viko chini ya mamlaka zipi?</seg>
+          <seg xml:id="seg74">Mheshimiwa Mwenyekiti, zile zote ambazo hatukuzitaja basi ichukuliwe kwamba tumekubaliana nazo.</seg>
+          <seg xml:id="seg75">Mheshimiwa Mwenyekiti, mwisho lakini kwa umuhimu, naomba kulijulisha Bunge lako Tukufu kwamba Mheshimiwa Lubeleje, Mwenyekiti wa Kamati ya Katiba na Sheria ni kifaa muhimu katika Bunge lako Tukufu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u12" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg76">Mheshimiwa Mwenyekiti, naiomba CCM impitishe katika kura za maoni ili angojee kupambana na upinzani mwezi Oktoba. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u13" who="MheFatmaMMaghimbiMsemajiMkuuWaKambiYaUpinzaniKwaWizaraYaKatibaNaSheria">
+          <seg xml:id="seg77">Mheshimiwa Mwenyekiti, baada ya kusema hayo, kwa niaba ya Kambi ya Upinzani naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u14" who="Mwenyekiti">
+          <seg xml:id="seg78">Ahsante sana Mheshimiwa Fatma Maghimbi kwa uwasilishaji na kwa dua kwa Mheshimiwa Lubeleje, nadhani na mwenyewe atakuwa amenyanyua mikono kuitikia dua lako. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u15" who="Mwenyekiti">
+          <seg xml:id="seg79">Waheshimiwa Wabunge, tuna wachangiaji watano ambao nitawataja kama ifuatavyo, nadhani wengine pia ambao wanahitaji kuchangia wanaweza wakaendelea kuleta kama wapo. Kwanza kabisa, ni Mheshimiwa Kabwe Zuberi Zitto ambaye atafutiwa na Mheshimiwa Anna Abdallah, baadaye atafuatiwa na Mheshimiwa Mwadini Abbas Jecha, ambaye pia atafutiwa na Raynald Alfonce Mrope na kwa orodha niliyonayo</seg>
+          <seg xml:id="seg80">Mheshimiwa James Philipo Musalika naye atakuja baada ya hapo. Kwa heshima na tahadhima, Mheshimiwa Zitto tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u16" who="MheKabweZZitto">
+          <seg xml:id="seg81">Mheshimiwa Mwenyekiti, napenda kuchukua fursa hii, kukushukuru kwa kunipa fursa ya kuwa mchangiaji wa kwanza katika Muswada huu wa Marekebisho ya Sheria Mbalimbali. Napenda pia kumshukuru na kumpongeza sana Mwanasheria Mkuu wa Serikali, kwa kazi nzuri ambayo anaifanya ya kuhakikisha kwamba Sheria zetu zinatungwa vizuri na timu yake yote akiwemo Mwandishi Mkuu wa Sheria (CPD) na vijana wenzangu ambao wako pale ofisi ya Mwanasheria Mkuu wa Serikali kwa kuhakikisha kwamba tunaenda vizuri. Inawezekana kabisa leo ikawa ni siku yangu ya mwisho kuchangia katika Bunge hili la Tisa, kwa hiyo, nimeona kwamba nipate fursa hii kuweza kumshukuru sana Mwanasheria Mkuu wa Serikali na watu wake kwa kazi nzuri ambayo wanaifanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u17" who="MheKabweZZitto">
+          <seg xml:id="seg82">Mheshimiwa Mwenyekiti, leo tunafanya mabadiliko ya Sheria kumi na nne, sheria mbalimbali ambazo tumeletewa hapa, mabadiliko mengi yana nia njema na nitapenda kuchangia tu kwa baadhi ya mambo. La kwanza, napenda kuishukuru Serikali kwa kusikia kilio cha Wabunge wanaotoka maeneo ambayo hayana umeme, kwa kufanya mabadiliko ya Sheria ya Umeme kwa kufuta Vifungu namba 7, 8 na 9 na kumwezesha Waziri kuweza kutoa Kanuni, kuhakikisha kwamba Kifungu namba 41(6) kinafanyiwa utekelezaji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u18" who="MheKabweZZitto">
+          <seg xml:id="seg83">Mheshimiwa Mwenyekiti, ni mchakato ambao ulikuwa mrefu lakini nashukuru sana kwamba Serikali na Mwanasheria Mkuu wa Serikali wameweza kusikia na kuweza kuleta mabadiliko hayo na tutayaunga mkono, tunaelewa mazingira ya kwa nini vifungu vile vililetwa. Nilihudhuria mimi vikao vyote vya Kamati ya Bunge ya Nishati na Madini kuhusiana na kuweka vipengele vile, mazingira ya wakati ule yalihitaji vipengele vile na mazingira ya sasa yameonyesha kabisa kwamba vipengele vinazuia uwekezaji wa sekta binafsi katika sekta ya umeme. Kwa hiyo, napenda niwashukuru sana kwa kuwa wasikivu katika hilo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u19" who="MheKabweZZitto">
+          <seg xml:id="seg84">Mheshimiwa Mwenyekiti, la pili, nitaleta jedwali la mabadiliko kuhusiana na Sheria ya Serikali za Mitaa na hasa nafasi za Madiwani wa Viti Maalum. Wabunge wa Viti Maalum kwa mujibu wa Sheria ya sasa na kwa mujibu wa Katiba kabla ya mwaka 2005, Wabunge wa Viti Maalum walikuwa wanapatikana kutokana na idadi ya Wabunge ambao kila Chama kimepata. Mwaka 2005 tukafanya marekebisho, tukabadilisha Katiba tukasema kwamba Wabunge watapatikana kutokana na uwiano wa kura ambazo kila Chama cha Siasa kimepata katika Uchaguzi Mkuu wa Wabunge na matokeo yake hayo yameongeza idadi kubwa sana hasa kwa sisi upande wa Upinzani, kura zimekuwa na thamani na umeona tumeleta Wabunge wazuri kabisa hapa maana yake katika hali ya zamani vyama kama vyetu vingekuwa na Mbunge mmoja ama wawili, kwa hiyo, haya mabadiliko yalikuwa ni muhimu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u20" who="MheKabweZZitto">
+          <seg xml:id="seg85">Mheshimiwa Mwenyekiti, lakini katika mabadiliko yale tulisahau kufanya mabadiliko kwenye Sheria ya Local Government kwa ajili ya Madiwani wa Viti Maalum, wanapatikana namna gani? Kwa hiyo, sasa hivi Madiwani wa Viti Maalum wanapatikana</seg>
+          <seg xml:id="seg86">kwa mtindo ule wa zamani ambao Wabunge wa Viti Maalum walikuwa wanapatikana, kutokana na idadi ya Madiwani ambao kila Chama kinao kwenye Baraza La Madiwani. Kwa hiyo, ni suala la ku-reconcile tu ile proportionality ambayo tumeianzisha kuanzia kwenye ngazi ya Ubunge, tuishushe mpaka kwenye ngazi ya Madiwani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u21" who="MheKabweZZitto">
+          <seg xml:id="seg87">Mheshimiwa Mwenyekiti, kwa hiyo, nimeandika Schedule of Amendment kwa msaada mkubwa wa Wanasheria wa Bunge ili tuweze kufanya hiyo reconciliation. Nilishazungumzia suala hili muda mrefu na Serikali ikaahidi kwamba italifanyia marekebisho. Hiyo amendment inakuja, Mwanasheria Mkuu inakuja usiwe na wasiwasi imeshaingizwa Bungeni.</seg>
+          <seg xml:id="seg88">Mheshimiwa Mwenyekiti, muda mrefu sana nimezungumzia suala hili, kila wakati nilikuwa najaribu kuleta marekebisho hayo, Serikali ikaahidi kwamba italeta, lakini nadhani labda imeghafilika tu, kwa hiyo, ni muhimu sana kufanyika wakati huu tunafanya marekebisho ya Sheria ya Uchaguzi ili kura inayopigwa iwe na thamani. Kwa hiyo, Mheshimiwa Mwanasheria Mkuu, utaangalia hayo marekebisho, utaangalia kama yanakidhi haja za kisheria ili tuweze kuboresha demokrasia yetu katika nchi na kuhakikisha kwamba tunawapata Madiwani wa Viti Maalum kutokana na uwiano wa kura ambayo Chama cha Siasa kimepata katika ile ngazi ya Halmashauri husika.</seg>
+          <seg xml:id="seg89">Mheshimiwa Mwenyekiti, mwisho kabisa, kama nilivyosema, inawezekana kabisa kwamba leo nikawa nachangia mchango wangu wa mwisho katika Bunge hili la Tisa. Napenda nitoe pongezi zangu za dhati kwa Wazee ambao wameamua kutogombea mwaka huu. Wamefanya utumishi wao kwa nchi hii, wameitumikia nchi yetu kwa uzalendo wa hali ya juu sana na sasa wameamua kutoa fursa na kutoa kijiti kwa vijana ambao wataingia katika Majimbo yao. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u22" who="MheKabweZZitto">
+          <seg xml:id="seg90">Mheshimiwa Mwenyekiti, jana Maseneta wawili wamezungumza, Mheshimiwa Juma N’hunga na Mheshimiwa Kimiti, Mheshimiwa Mzindakaya hakuzungumza, naye pia ametangaza rasmi kwamba hatagombea na Mheshimiwa Keenja naye pia ametangaza hatagombea. Kwa kweli mimi binafsi kipindi hiki ambacho nimekaa ndani ya Bunge, nimefanya nao kazi kwa karibu sana, wamekuwa washauri wangu wazuri sana, wote kwa pamoja na hasa Mzee Kimiti, mara nyingi yanapotokea matatizo mbalimbali, tumekuwa tukishauriana naye. Lakini la msingi ni kwamba wametekeleza wajibu wao kwa nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u23" who="MheKabweZZitto">
+          <seg xml:id="seg91">Mheshimiwa Mwenyekiti, jambo ambalo ningependa nitoe salamu kwa watu ambao wameitumikia nchi yetu kwa muda mrefu ni kwamba wametuachia nchi ambayo ina imani, ina umoja, nchi stable, nchi ya kujivunia.</seg>
+          <seg xml:id="seg92">Mheshimiwa Mwenyekiti, ifahamike ya kwamba watoto waliozaliwa mwaka 1992 mwaka huu wanapiga kura kwa mara ya kwanza. Kuna wapigakura wapya milioni tano na laki sita wanaopiga kura, yaani first time voters mwaka huu 72% ya Watanzania ni vijana wa umri wa chini ya miaka 29. Kuna haja kubwa sana ya kuangalia demographic zetu na kuweza kuona ni jinsi gani Jeshi hili ambalo linatengenezwa kwenye nchi kutokana na wazazi wetu kutuzaa na kutuingiza nchini linaongezewa uwakilishi wake.</seg>
+          <seg xml:id="seg93">Natoa wito kwa vijana wenzangu kwamba kazi ambayo tumeifanya, vijana tulio ndani ya Bunge hili wa pande zote mbili, yaani wa Chama Tawala na sisi wa Vyama vya Upinzani ni chachu ya vijana wengine zaidi waingie ndani ya Bunge ili tuweze kufanya kazi ya kuendesha nchi yetu. Kuna kikomo ambacho watu wanafikia, kikomo hiki sasa generation nyingine ipewe fursa ili tuweze kuipeleka nchi yetu mbele.</seg>
+          <seg xml:id="seg94">Mambo mengi sana mazuri na mabaya yametokea ndani ya Bunge hili la Tisa, napenda kusema kwamba mtu yeyote katika utendaji wangu wa kazi ndani ya Bunge hili ambaye kwa njia moja ama nyingine tulikwaruzana ninaomba radhi anisamehe, na mtu yeyote ambaye kwa njia moja ama nyingine wakiwemo Wabunge kwa ujumla ambapo wao tarehe 14 Agosti, 2007 walinisimamisha Ubunge ilikuwa ni hali ya kisiasa na mchakato wa kidemokrasia, nawasamehe wote ambao kwa njia moja ama nyingine waliweza kunikosea kwani tumefanya kazi yetu na tumetekeleza wajibu wetu.</seg>
+          <seg xml:id="seg95">Nawaombea kila la kheri Wabunge wote huko muendako. Kama nilivyosema kwenye mchango wangu kwa Wizara ya Miundombinu, ninapenda Bunge letu lijalo liwe na Wabunge wengi zaidi wa Kambi ya Upinzani kwa sababu kazi ambayo Kambi ya Upinzani tumeifanya katika kipindi cha miaka mitano iliyopita ni kazi kubwa sana, tumewaelimisha sana wananchi lakini pia tumewasaidia watawala kwa kuwaonyesha maeneo ambayo tunaona siyo sahihi na kuna mambo mengi sana ambayo tumeyafanya.</seg>
+          <seg xml:id="seg96">Mheshimiwa Mwenyekiti, mabadiliko mengi sana ambayo tumeyafanya yametokana na initiatives za Kambi ya Upinzani ndani ya Bunge. Nawaomba Watanzania kwamba Bunge lijalo angalau theluthi ya Wabunge wawe Wabunge wa Kambi ya Upinzani. Vyovyote itakavyokuwa kama, Kambi ya Upinzani ikiwa CCM, wasiwe chini ya theluthi na kama Kambi ya Upinzani tukiendelea kuwa sisi wasiwe chini ya theluthi. Kuna umuhimu mkubwa sana wa kuimarisha demokrasia katika nchi.</seg>
+          <seg xml:id="seg97">Mheshimiwa Mwenyekiti, ninapenda niyaseme hayo na nitaleta schedule of amendments kuhusu hii ya Madiwani na nitaomba Wabunge wenzangu tukubaliane tufanye reconciliation kati ya Katiba yetu na Sheria ya Local Government ili kuimarisha demokrasia yetu. Naipongeza Serikali kwa mabadiliko ya Sheria mbalimbali ambazo wamezileta na mabadiliko ya Sheria ya Umeme ambayo Wabunge wa Kusini wamezunguzia sana na sisi ambao hatukuwa na bahati ya kupata umeme mapema tunajua madhara ya yale mambo ambayo yalikuwa yamefanyika kutokana na kutokuwa na umeme.</seg>
+          <seg xml:id="seg98">Mheshimiwa Mwenyekiti, nakushukuru sana na ninawashukuru Wabunge wote, Mungu atawapa kila la kheri, awajaalie, awalinde, awaepushe na mabalaa yote inshaalah.</seg>
+          <seg xml:id="seg99">Mheshimiwa Mwenyekiti, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u24" who="Mwenyekiti">
+          <seg xml:id="seg100">Ahsante sana Mheshimiwa Kabwe Z. Zitto. Nami naomba nichukue nafasi hii kukuhimiza tu umsaidie Mheshimiwa Mwanasheria Mkuu wa Serikali kwa kumpatia hiyo schedule of amendments ambayo umekuwa unaizungumza sasa hivi.</seg>
+          <seg xml:id="seg101">Sasa naomba nimpe nafasi mchangiaji wetu anayefuata Mheshimiwa Anna Abdallah ambaye atafuatiwa na Mheshimiwa Mwadini Abbas Jecha na Mheshimiwa Raynald A. Mrope ajiandae.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u25" who="MheAnnaNAbdallah">
+          <seg xml:id="seg102">Mheshimiwa Mwenyekiti, ahsante kwa kunipa nafasi, lakini na mimi nichukue fursa hii kwanza kabisa kumpongeza Mwanasheria Mkuu wa Serikali kwa mabadiliko haya ambayo yameletwa mbele yetu. Mabadiliko yana faida kubwa na ninafikiri tutakuwa tumepiga hatua kabisa katika maendeleo hasa katika lile suala la umeme.</seg>
+          <seg xml:id="seg103">Sisi tunaotoka Mkoa wa Mtwara tunajua yaliyotukuta kwa sababu tu ya vipengele hivi ambavyo vilikuwepo katika hii Sheria, lakini sasa nina hakika baada ya kupitisha Sheria hii, matatizo yetu yatapungua kwa sababu wale wawekezaji wa umeme kwetu Mtwara wamepata vikwazo vya kutisha kabisa. Huwezi kuamini kabisa kwamba Serikali ilipitisha Sheria ya kuwakaribisha wawekezaji kwa nia njema lakini utendaji haukufuatana na ile nia njema ilivyokuwa.</seg>
+          <seg xml:id="seg104">La pili, ninapenda kuzungumzia hii Sheria ya Election Expense, lakini nakubali zile nyingine zote. Hii Sheria ya Election Expense ni nzuri, lakini mimi naomba niseme kwamba kuna mambo humu hayahusiani na Election Expense. Ninaomba tukimaliza, watakaorudi katika Bunge lijalo wahakikishe kwamba wanaondoa utatanishi uliopo katika Sheria hii. Lakini nafurahia sana lile la 24(1) iliyofutwa ambayo sasa hivi ni 24(a). Ninaomba kusema kwamba kwanza ile 24 ya sasa inasema Disqualification of Candidates, nashukuru hiyo imefutwa, lakini una-disqualify candidate.</seg>
+          <seg xml:id="seg105">Kwanza hii statement iliyokuwa ni ya kushangaza tu kwamba kama chama hakita-under take and complete the nomination process within 21 days before the nomination day halafu inakuwaje? Huku kwenye marginal notes inasema: „disqualification of candidates”. Mimi nafikiri Sheria hii ina mambo mengi ambayo kwa mfano ku-disqualify candidate mwenyewe hii ni kazi ya Msajili wa Vyama vya Siasa, tunagawanaje madaraka na Tume ya Uchaguzi? Tume ya Uchaguzi ndiyo kwa kweli ina haki ya kusema kwa kweli Candidate huyu anafaa au hafai. Lakini Msajili! Mimi nafikiri tunafanya makosa, hiyo ni kazi ya Tume.</seg>
+          <seg xml:id="seg106">Kwa hiyo, maudhui ya Sheria yalikuwa mazuri sana lakini tuhakikishe kwamba huko tunakokwenda hebu tuikalie vizuri tuondoe mkanganyiko isije baadaye tukapata matatizo makubwa kati ya Tume ya Uchaguzi na Registrar of Political Parties. Sasa kama tulikuwa tunatafuta Sheria ya kumpa yeye kazi hii inasaidia, lakini tuondoe zile closes ambazo zitatuletea mgogoro huko tunakokwenda. Lakini nishukuru hizi amendments ambazo zimewekwa pamoja na kazi nzuri iliyofanywa na Kamati yetu ya Sheria na Katiba. Kwa kweli wamefanya kazi nzuri sana.</seg>
+          <seg xml:id="seg107">Mheshimiwa Mwenyekiti, ninaomba tu niseme hivi, kazi ya kuboresha na kukosa Serikali humu ndani tumefanya wote wa CCM na wa Upinzani, yaani wote tumeifanya. Hakuna anayetoka humu kifua mbele kwamba yeye ndiye champion aliyeboresha kila kitu, hapana! Wote tunaondoka vifua mbele tumeifanya kazi hiyo kwa pamoja. Hata</seg>
+          <seg xml:id="seg108">tulipokuwa tunazungumza habari za ufisadi, wapo Wabunge wa CCM waliopiga kelele kwelikweli tena sana.</seg>
+          <seg xml:id="seg109">Kwa hiyo, nasema mimi nafurahi na ninashukuru lakini wapinzani watakuwa wangapi na CCM wangapi, inategemea na utekelezaji wa Ilani ya Uchaguzi ya CCM na jinsi watu wanavyoelewa siasa ya nchi. Kwa hiyo, mimi nina hakika kwamba Chama cha Mapinduzi kitashinda tena kwa kishindo, tena sio ajabu zaidi kuliko tulikotokea.</seg>
+          <seg xml:id="seg110">Lakini mimi linanikera sana hili la watu ku-mention wazee. Nashukuru, lakini pengine hawa watu wazima watafutiwe chombo ambacho kitawasaidia pia kutoa maoni yao kwa maana hiyo wasiachwe tu. Sisi tunasema wastaafu wasiachwe wakiozea tu nyumbani na mawazo yao mazuri kichwani. Lakini naomba vijana muelewe kwamba hakuna mzee aliyekwaa kisiki akaanguka akastukia yuko mzee. Uzee ni process unakuwa mwaka wa kwanza, wa pili mpaka unafika sabini. Kwa hiyo, lazima tuwe na balance, hakuna nchi itaendeshwa na vijana peke yao, kwani tunahitaji wazee. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u26" who="MheAnnaNAbdallah">
+          <seg xml:id="seg111">Mimi nasikitika sana baadhi ya vyombo vya habari wanaandika kwamba wazee wang’atuke, hao wanaosema hivyo wamezaliwa na wazee hao hao. Wewe utakapokuja kuwa mzee uta-feel namna gani mwanao atakaposema mzee sasa toka nikurithi mimi. Sasa utamrithi na mama yako?</seg>
+          <seg xml:id="seg112">Kwa hiyo, mimi nasema hivi hili jambo la utu uzima ni process, watu wamefika utu uzima, wanaosema sisi tuondoke waondoke wao. Lakini naomba vijana msilifanye ndiyo ngoma ya kupiga wazee waondoke, mtachimba makaburi tu ya wazee. Mimi ninaona nchi hii tunahitajika wote, mimi ni mmojawapo katika hao wazee lakini tunahitajika wote. Kila mtu kwa namna yake.</seg>
+          <seg xml:id="seg113">Mnawaona akina Mzee Ngombale hapa, Mzee Ngombale anashindana na kijana yeyote kwa busara na kila kitu au akina mzee Malecela. Kwa hiyo, mimi nasema hivi, wewe kagombane kwenye Jimbo, kama wewe unataka kwenda kusema usimchague huyu ni mzee, kaseme wewe kwenye Jimbo lako na watu wataamua.</seg>
+          <seg xml:id="seg114">Kwa hiyo, naomba hili tungeliacha. Mimi linanikera kweli kweli, inakuwa kama wazee walikosa vile kuwa wazee kumbe na ninyi mtakuja huku huku.</seg>
+          <seg xml:id="seg115">Lakini namshukuru sana Mheshimiwa Zitto Kabwe yeye amesema kwamba wale wanaong’atuka ahsante. Ni kweli tulikuwa tunapeana vijiti, lakini nasema hivi tafadhalini kama mzee amesema mimi nitakuja, nataka kwenda kujaribu ama niendelee. Mwacheni kwa sababu ni haki yake ya kikatiba, Katiba haijasema ukishafika miaka 60 basi, huyo sio mfanyakazi wa kuajiriwa. Kwa hiyo, mimi ndiyo nilikuwa nataka kuchangia katika hilo.</seg>
+          <seg xml:id="seg116">Mwisho, nasema tumefanya kazi nzuri na mimi naomba niwaombeeni wote mtakaoingia katika mchakato, kila la kheri, mrudi na ningependa idadi ikabaki vile vile na ipungue zaidi kule, huku izidi.</seg>
+          <seg xml:id="seg117">Mheshimiwa Mwenyekiti, ahsante sana. </seg>
+        </u>
+        <note>(Kicheko /Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u27" who="Mwenyekiti">
+          <seg xml:id="seg118">Ahsante sana Mheshimiwa Anna Abdallah na ahsante kwa somo lako kwa Mheshimiwa Zitto na umri. Sasa naomba nimwite Mheshimiwa Mwadini Abbas Jecha atafuatiwa na Mheshimiwa Raynald A. Mrope na Mheshimiwa James P. Musalika ajiandae.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u28" who="MheMwadiniAbbasJecha">
+          <seg xml:id="seg119">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi hii nami kuchangia Muswada uliopo mbele yetu wa marekebisho ya Sheria mbalimbali za Serikali.</seg>
+          <seg xml:id="seg120">Mheshimiwa Mwenyekiti, pia nimpongeze na kumshukuru Mheshimiwa Mwanasheria Mkuu wa Serikali kwa kusikiliza kilio cha Wabunge na wadau wengine na hatimaye kufanya maarifa ya kitaalamu anayoyafahamu yeye na wenzake kutuletea marekebisho ya Sheria mbalimbali za Serikali.</seg>
+          <seg xml:id="seg121">Lakini kadhalika, nimpongeze kwamba mara nyingi amekuwa anajitangaza kwamba yeye sio mwanachama wa chama chochote katika nchi hii, lakini tulishangazwa juzi wakati anawapongeza wagombea wa chama kimoja tu ambacho kimefanya uteuzi wa wagombea ilhali kuna baadhi ya vyama tayari vimeshachagua wagombea. Sasa kwa kuwathibitishia hilo, kwamba yeye sio mwanachama wa chama chochote, basi atakapokuwa anakuja kufanya winding up ya hoja yake, basi awapongeze pia wale ambao wameshateuliwa na vyama vyao kuwa wagombea wa nafasi za Urais, Makamu wa Rais na Rais wa Zanzibar.</seg>
+          <seg xml:id="seg122">Mheshimiwa Mwenyekiti, nichangie kidogo kuhusu suala zima la Sheria ya Umeme ya mwaka 2008. Nashukuru kwamba kuna marekebisho yameletwa katika Bunge kako Tukufu.</seg>
+          <seg xml:id="seg123">Wiki iliyopita wakati nachangia katika hotuba ya Mheshimiwa William Ngeleja Waziri wa Nishati na Madini, nilikuwa nazungumzia suala zima la upatikanaji wa umeme katika nchi hii, na nikasema haipendezi hata kidogo kuona katika nchi hii kuna baadhi ya sehemu wanapata umeme wa uhakika, baadhi ya sehemu wanapata umeme wa wasiwasi, lakini kuna baadhi ya sehemu katika nchi hii hawapati umeme kabisa. Nikasema ni jinsi gani juhudi iliyochukuliwa na Serikali kuhakikisha kwamba sehemu kadhaa au sehemu zote za nchi hii zinapata umeme wa uhakika, na kama tulitunga Sheria hapa Bungeni za kusaidia mchakato mzima wa kusambaza umeme katika nchi hii. Ila nikasema kuwa kuna baadhi ya vifungu katika Sheria tulizotunga sisi wenyewe kwamba zilikuwa zinakwaza juhudi nzima ya kuiruhusu sekta binafsi kuwekeza katika suala zima la kuzalisha na kusambaza umeme katika nchi hii.</seg>
+          <seg xml:id="seg124">Ni dhahiri kwamba Serikali imesikia, na kwamba vifungu vile na hasa kifungu hiki cha 41(7), (8) na (9) ndiyo vilikuwa ni gumzo kubwa katika Bunge hili Tukufu kwamba ni kikwazo kinachozuia sekta binafsi kuwekeza katika suala zima la kuzalisha na kusambaza umeme. Sasa nashukuru sana kwamba leo hii imeletwa hapa tufanye marekebisho na kama alivyosema mama yangu Mheshimiwa Anna kwamba angalau watu wa Mikoa ya Kusini mwa Tanzania na sehemu nyingine za Tanzania ambazo bado</seg>
+          <seg xml:id="seg125">umeme ni tatizo, basi sekta binafsi itakuwa na nafasi kubwa ya kuweza kuzalisha na kusambaza umeme katika sehemu hizo sambamba na hatua za kiserikali.</seg>
+          <seg xml:id="seg126">Mheshimiwa Mwenyekiti, nizungumzie pia hili suala la Election Expense Act ya mwaka huu. Watu wengi wamezungumzia Sheria hii. Sheria hii imetungwa na madhumuni yake makubwa ni kuweka hali iliyo sawa katika uchaguzi wa nchi hii ili uwe huru na wa haki kwa mwananchi yeyote katika nchi hii ambaye ana nia ya kugombea katika chaguzi za Serikali basi awe na haki sawa na mtu yeyote katika kugombea na kwamba ana uwezo au wananchi watakapomkubali basi anaweza kuchaguliwa bila kujali kwamba ni mtu mwenye fedha au mwenye akili sana na kadhalika.</seg>
+          <seg xml:id="seg127">Mheshimiwa Mwenyekiti, kutokana na umuhimu wa Sheria hii, Sheria hii ikafanywa haraka haraka ikaletwa Bungeni, ikajadiliwa na tukaipitisha. Lakini muda mfupi tu baada ya kusainiwa Sheria hii makosa kadhaa yaligundulika, wadau wameyaona makosa hayo, vyama vya siasa ambavyo ndiyo wadau wakubwa wakagundua makosa hayo, sisi Wabunge pia tukagundua makosa mengi tu. Kwa hiyo, tukajadili tena Sheria hii na hata Kanuni zake ambazo zilikuwa zimetungwa za Sheria hii zikaonekana kuna makosa mengi ambayo kwa kweli yasingeweza kufanya Sheria hii itekelezeke kirahisi na kuweza kutoa haki kwa kila mtu.</seg>
+          <seg xml:id="seg128">Mheshimiwa Mwenyekiti, nashukuru sana, pamoja na kwamba marekebisho haya ambayo yameletwa hayatoshelezi hasa kuiweka sawa Sheria yenyewe, ni dhahiri kwamba wakati inatumika Sheria hii kutajitokeza makosa mengine madogo madogo ambayo yatahitaji kufanyiwa marekebisho hapo mbeleni. Sasa nimtahadharishe tu kaka yangu Mheshimiwa AG kwamba kadri tutakavyoitumia Sheria hii kutajitokeza mengi na kwa hiyo, Serikali iwe tayari kurekebisha Sheria za nchi ili chaguzi zetu ziwe za huru na haki na iwe ni mfano kwa Afrika na kwa dunia.</seg>
+          <seg xml:id="seg129">Ila pia naomba Serikali kwamba Kanuni zenyewe zinazoongoza matumizi ya Sheria hii na kwa sababu uchaguzi wenyewe hauko mbali, basi zitengenezwe haraka haraka zichapishwe kwa wingi na tusambaziwe wadau wote ili tuweze kuitumia na isije ikawa ni kikwazo kwa watu wengine kwamba wanakwazwa na Sheria yenyewe kutokana na kutopatikana kwa Kanuni za Sheria hii.</seg>
+          <seg xml:id="seg130">Mheshimiwa Mwenyekiti, nilikuwa najaribu kupitia Schedule of Amendments aliyoiwasilisha Mheshimiwa Zitto Kabwe. Kwa haraka haraka nimeiona na kuielewa kwa kiasi fulani na nimeona kwa kweli ni marekebisho ambayo yanahitaji kila mmoja wetu ayape msisitizo. Ni marekebisho ambayo kwa kweli yanatoa haki kwa wadau wote wa siasa na wote ambao wataingia katika chaguzi hizi ambazo tunaelekea hapo mbeleni. Hivi viti maalum ambavyo alikuwa anavizungumzia, kwa kweli kwa sasa hivi uteuzi wake naweza kusema bado haujakaa sawa na kwa mapendekezo ambayo yameletwa na Mheshimiwa Zitto ni mapendekezo mazuri na Serikali iangalie vizuri ili tuweze kuya- adopt mapendekezo hayo iwe ni sehemu ya mawasilisho ya leo.</seg>
+          <seg xml:id="seg131">Sasa baada ya kusema hayo nichukue nafasi hii kuwapongeza sana wananchi wa Jimbo langu la Wete, nimekaa nao miaka karibu saba na nusu katika ubunge, nusu ya</seg>
+          <seg xml:id="seg132">Bunge la 2000-2005 na miaka miaka mitano ya Bunge la 2005-2010. Nimekaa nao na nimewatumikia kwa kadri Mwenyezi Mungu alivyonijaalia. Ni matumaini yangu kwamba sikuwaangusha katika kuwawakilisha katika Bunge hili na kwa hiyo, niwatakie kila la kheri na inshaalah Mwenyezi Mungu awajaalie atakayojaalia ili maendeleo ya Jimbo letu yasonge mbele kulingana na matakwa ya chama changu, lakini pia matakwa ya wananchi wenyewe.</seg>
+          <seg xml:id="seg133">Aidha, nichukue nafasi hii kwa sababu binadamu kama binadamu kama alivyotangulia kusema Mheshimiwa Zitto, ni kwamba binadamu wanapokaa sio kama vikombe, hata vikombe vinagongana. Tumekaa huu muda mrefu sana, mimi nasema kwamba siku zote nimejifunza mengi kutoka kwenu Wabunge wenzangu, nilikuwa najihisi kama nimo katika familia ya watu tuliozaliwa tumbo moja kwa muda wote. Niwashukuru sana kwa msaada wenu, kwa maarifa yenu, na kwa uelekezi wenu. Yeyote ambaye katika uhai wa utumishi wa Bunge letu nimemkosea, mimi ni binadamu ama kwa kukusudia au kwa bahati mbaya, tunakokwenda sio mbali, ni mahali pa nyanda moja tu, naomba yeyote ambaye nimemkera au nimemuudhi basi anisamehe na yeyote ambaye nahisi labda ameniudhi ingawa sifikirii kama kuna mtu ameniudhi, basi naye pia kwa moyo safi kabisa nimemsamehe.</seg>
+          <seg xml:id="seg134">Mheshimiwa Mwenyekiti, nichukue nafasi hii pia kuwapongeza Spika - Mheshimiwa Samuel Sitta, Naibu Spika - Mheshimiwa Anne Makinda, Wenyeviti - Mheshimiwa Job Ndugai, Mheshimiwa Zubeir Maulid na Mheshimiwa Jenista Mhagama kwa kweli kwa juhudi kubwa ambayo wameichukua katika kuliendesha Bunge hili Tukufu na ninasema kwa kweli ile azma ya Mheshimiwa Spika ya kuendesha Bunge hili kwa viwango kwa kweli tumeiona na Bunge la Tisa. Niwe muwazi kabisa, ni Bunge ambalo limeonesha viwango vikubwa, na limekuwa ni Bunge la mfano katika nchi za East Africa.</seg>
+          <seg xml:id="seg135">Mheshimiwa Mwenyekiti, kwa hayo machache ninaomba nikushukuru na kwa sababu pengine leo ndiyo itakuwa mwisho wa mimi kuzungumza, niwatakieni kila la kheri nyote, na kila ambaye Mwenyezi Mungu aliyemwandikia kurudi katika Bunge hili, basi amjalie kurudi kwa salama na amani. Nashukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u29" who="MheRaynaldAMrope">
+          <seg xml:id="seg136">Mheshimiwa Mwenyekiti, nashukuru sana kwa kunipa nafasi hii ili nami niweze kuchangia katika hoja hii iliyo mbele yetu. Kwanza, ninataka kutoa hongera nyingi sana kwa Mwenyekiti wetu wa Chama, Mheshimiwa Jakaya Mrisho Kikwete kwa kuchaguliwa na wanachama wenzake wa CCM kwa kura nyingi mno, nampa hongera nyingi sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u30" who="MheRaynaldAMrope">
+          <seg xml:id="seg137">Wakati huo huo nimpe hongera nyingi sana Mheshimiwa Makamu wa Rais, Dr. Shein, naye amefanya kazi kubwa sana hapa na wana-CCM kwa kweli wakarudisha shukurani zao kwa kumpa kura nyingi ili aweze kutuwakilisha kule Zanzibar.</seg>
+          <seg xml:id="seg138">Mwisho pia nimpe hongera Dr. Bilal ambaye ndiye amechaguliwa kuwa Mwenyekiti mwenza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u31" who="MbungeFulani">
+          <seg xml:id="seg139">Ni mgombea mwenza, siyo Mwenyekiti mwenza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u32" who="MheRaynaldAMrope">
+          <seg xml:id="seg140">Mheshimiwa Mwenyekiti, mgombea mwenza. Ukiangalia safu hii ya CCM unaona moja kwa moja kwamba, ni timu ya ushindi. Ninaamini kabisa kwa jinsi watakavyotuongoza, kwanza ni wasomi tupu! Hii inatuweka katika mahali pazuri sana na kwa kweli tunataka watu wenye taaluma mbalimbali ndiyo waweze kutufikisha kule tunakotaka kufika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u33" who="MheRaynaldAMrope">
+          <seg xml:id="seg141">Mheshimiwa Mwenyekiti, kwa kuwa hii inawezekana ikawa mara yangu ya mwisho kuzungumzia hoja katika Bunge letu hili, ninaomba nitoe shukurani zangu za dhati kwa wapigakura wangu wa Masasi. Wamenilea kwa miaka hii mitano na tumefanya mambo mengi mazito. Kwa hiyo, ninachukua nafasi hii kuwashukuru sana wapigakura wa Masasi. Ninawashukuru kwa sababu kuna mambo mengi tumeyafanya pamoja. Tulikuwa na tatizo la umeme, hivi sasa umeme Masasi ni saa 24. Hayo ni mafanikio yetu sote pamoja na mimi kama Mbunge wao.</seg>
+          <seg xml:id="seg142">Halafu leo asubuhi mmemsikia Waziri wa Maji akisema kwamba nikahudhurie sherehe maalum za utiaji sahihi mradi wa kuleta maji kutoka Mbwinji kuja Masasi, maji ya uhakika kabisa. Kwa hiyo, mkataba ule tunaokwenda kutia sahihi, hili ni jambo kubwa na siku kuu kubwa kabisa kwa watu wa Masasi kwa sababu tulikuwa na shida ya maji, lakini sasa kutakuwa kuchele kabisa! Umeme upo, maji yapo na hayo ndiyo mafanikio makubwa ya Mheshimiwa Jakaya Mrisho Kikwete na Mbunge Raynald A. Mrope.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u34" who="MheRaynaldAMrope">
+          <seg xml:id="seg143">Mheshimiwa Mwenyekiti, baada ya shukurani hizi, sasa niingie katika hayo marekebisho. Mimi ninaishukuru sana Serikali kwa kusikia kilio cha Wabunge kilichohusiana na Sheria ya umeme ambayo haikukaa vizuri. Nashukuru kwamba, sheria hii inabadilishwa kwa kumpa Waziri mamlaka ya kusimamia masharti ya kifungu hiki cha Na. 41.6 na kukifuta kabisa. Kwa kweli kwa hali ya sasa hakifai. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u35" who="MheRaynaldAMrope">
+          <seg xml:id="seg144">Kifungu hiki ndicho kilichowapa masikio na nguvu kubwa EWURA. EWURA walikuwa miungu mtu kutokana na kifungu hiki. Uungu mtu huo umetuumiza sana sisi watu wa Kusini kwa sababu kule Kusini kulikuwa na mradi mkubwa wa ORET unaotoka Serikali ya Uholanzi. Waholanzi wametoa shilingi bilioni 45 (dola milioni 30) ili kusaidia masikini ambao hawawezi kuunganisha umeme katika majumba yao. Kwa hivi sasa TANESCO inatoza shilingi 475,000 kwa kuunganisha kati ya nguzo na nyumba, wakati mpango wa ORET ulikuwa unalenga kuwawezesha wale masikini watoe shilingi 60,000 au 80,000 tu ili kuunganishiwa umeme katika majumba yao. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u36" who="MheRaynaldAMrope">
+          <seg xml:id="seg145">Mheshimiwa Mwenyekiti, sasa EWURA akasimama katikati akafunga breki kubwa kiasi kwamba sisi tumekosa. Mheshimiwa Mwanasheria Mkuu, nitaomba utuhakikishie: Je, hizi fedha zilizokuwa zimepangwa zamani ili ziwanufaishe watu wa Kusini zitafika? Kwa sababu kutokana na danadana walizochezewa Waholanzi wameamua kujitoa pamoja na fedha zao, sasa tutafanyaje? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u37" who="MheRaynaldAMrope">
+          <seg xml:id="seg146">Mheshimiwa Mwenyekiti, Serikali yetu kama ninavyofahamu mimi haina fedha za kutosha kuweza kutekeleza mradi huu kama tulivyokuwa tumepanga mwanzo. Kwa</seg>
+          <seg xml:id="seg147">hiyo, ninaomba sana Mwanasheria Mkuu ongeeni huko Serikalini mradi wa kuleta umeme katika mikoa ya Kusini uende kama vile ulivyokuwa umepangwa. Wakati huo huo kwa sababu EWURA ndio waliotukosesha mambo haya: Je, Serikali itachukua hatua gani kwa uzandiki huu wa EWURA? Kwa sababu zinatakiwa zipatikane shilingi bilioni 45 ambazo zilikuwa tayari zimetolewa?</seg>
+          <seg xml:id="seg148">Sasa danadana zao zimefanya fedha hizi tukazikosa. Naomba Serikali iwawajibishe EWURA kabisa kwa sababu sisi hatuwezi kukosa umeme kwa sababu ya Taasisi hii kutokuelewa wajibu wake. Mimi ninaomba Mwanasheria Mkuu wa Serikali azungumze na Serikalini ili sisi tuhakikishiwe kupata umeme kwa shilingi 60,000 mpaka 80,000. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u38" who="MheRaynaldAMrope">
+          <seg xml:id="seg149">Mheshimiwa Mwenyekiti, sasa hivi Waziri mwenye dhamana ya umeme ndiye atakayekuwa anatoa masharti ya mwisho. Hili ni jambo kubwa na zuri kabisa. Hizi taasisi ambazo baadaye zinaanza kuwa na mapembe hazifai na mimi ninasema katika Bunge lijalo lazima hii EWURA iangaliwe.</seg>
+          <seg xml:id="seg150">Mimi ninasema katika Bunge lijalo lazima EWURA ifutwe ili kuwepo na Taasisi mbili; itakayoshughulikia mamlaka ya maji, na nyingine itakayoshughulikia mambo ya umeme na madini, kwa sababu ukiunganisha zote ndiyo haya matatizo tunayoyapata. Hawa sasa hivi wako chini ya Waziri wa Maji, lakini inapofika kwenye masuala ya umeme na madini, mara nyingi wanakuwa wagumu kweli kweli kwa sababu hawahusiki moja kwa moja kwa Waziri wa Nishati na Madini.</seg>
+          <seg xml:id="seg151">Kwa hiyo, ninachosema ni kwamba matatizo haya tumeyaona, EWURA ivunjwe ili kuwe na taasisi mbili za Regulatory Authority. Sijui tutaziitaje, lakini mimi hili jina la EWURA naona life kabisa wala halitusaidii kwa kitu chochote. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u39" who="MheRaynaldAMrope">
+          <seg xml:id="seg152">Mheshimiwa Mwenyekiti, mwisho kabisa, nami nilitaka kusema kwamba, kwa kweli ninashukuru nimekuwa katika Bunge hili kwa miaka mitano iliyopita na nimejifunza mambo mengi na nimebobea katika mambo mengi. Mama Anna pale amekwishasema vizuri sana, ameelezea na mimi nataka kuwahakikishia wananchi wangu wa Masasi, wale ambao wananipigia simu: Je, unasimama au vipi?</seg>
+          <seg xml:id="seg153">Sasa ninataka kusema kupitia hapa Bungeni kwamba, mimi ninatetea kiti changu cha Ubunge kwa pale Masasi. Afya ninayo safi sana, nguvu ninazo, sina wasiwasi, nimeyapata mambo mengi ninayoyaelewa na nimekutana na kufanya urafiki na watu wengi tu ambao wanaweza kutusaidia katika kuendeleza Masasi yetu, na kama mnavyoona hivi leo haya mambo niliyoyazungumza sasa hivi yanatokana na kuelewana na wahusika mbalimbali ili tuweze kuondoa vikwazo vile vitakavyowafanya wananchi wasiendelee.</seg>
+          <seg xml:id="seg154">Kwa hiyo, kwa kupitia kwangu nafikiri inakuwa ni rahisi zaidi kwa sababu unavyojenga nyumba na kuifikisha kwenye lenta, kazi inayobaki si kuezeka tu? Sasa ni nani aezeke? Yule aliyeanza kuijenga au aje tu mtu mpya asiyefahamu lolote? Hata msingi hajui namna ya kuujenga, aje tu achukue! Haiwezekani! Nyumba itajengwa, na yule aliyeianza na ndiye ataweza kuimaliza vizuri. Huyu mpya hajui lolote kwamba,</seg>
+          <seg xml:id="seg155">msingi utakuaje, madirisha uweke wapi na nini, kwanini tujiweke katika hatua ya namna hiyo?</seg>
+          <seg xml:id="seg156">Mimi ninaomba haya wananchi wa Masasi tuweze kuyasahihisha sisi wenyewe wakati tunapiga kura na nina hakika kwamba, kwa ushirikiano tulionao bila shaka mtanirudisha tena hapa ili niendelee kuwahudumia.</seg>
+          <seg xml:id="seg157">Hivi sasa kuna wanaopitapita huko, tunawaita wapita njia, wanasema nichagueni mimi nitaleta maji, utaleta maji kwa namna gani? Waziri hapa leo ameshasema tunakwenda kutia sahihi. Anayeweza kuleta maji pale ni Jakaya Kikwete na Raynald Mrope tu, basi. </seg>
+        </u>
+        <note>(Kicheko/ Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u40" who="MheRaynaldAMrope">
+          <seg xml:id="seg158">Kwa hiyo, ninawashukuruni sana wenzangu, tumekwenda vizuri, tumekaa vizuri na tuombeane kila la kheri ili mwezi Novemba tuweze kurudi tena. Nawashukuruni sana kwa kunisikiliza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u41" who="Mwenyekiti">
+          <seg xml:id="seg159">Ahsante sana Mheshimiwa Mrope. Sasa ninamwita mchangiaji wetu ambaye atakuwa ni wa mwisho sasa hivi, Mheshimiwa James P. Musalika. Simwoni. Tuendelee.</seg>
+          <seg xml:id="seg160">MICHANGO KWA MAANDISHI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u42" who="MheProfPhilemonMSarungi">
+          <seg xml:id="seg161">Mheshimiwa Mwenyekiti, napenda kuungana na Waheshimiwa Wabunge, kumpongeza Mheshimiwa Waziri na timu yake kwa kazi nzuri waliyoifanya kwa kufanya marekebisho katika sheria mbalimbali zinazohusu fedha na kodi.</seg>
+          <seg xml:id="seg162">Mheshimiwa Mwenyekiti, napenda kutamka kuwa naunga mkono hoja na napenda kutoa ushauri katika maeneo yafuatayo katika muswada:-</seg>
+          <seg xml:id="seg163">Katika Muswada, sehemu ya tatu, marekebisho kufungu cha 8 cha Muswada ukurasa wa nne, marekebisho kifungu kidogo 124(3), nashauri kuwa Serikali iangalie tena marekebisho haya ili wananchi watumiaji simu wasibebeshwe ushuru huu kupitia makampuni kupandisha gharama ya muda wa maongezi badala ya kupunguza ukizingatia gharama ya maongezi ni kubwa ikilinganishwa na nchi jirani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u43" who="MheHawaAbdulrahmanGhasia">
+          <seg xml:id="seg164">Mheshimiwa Mwenyekiti, napenda kuunga mkono hoja.</seg>
+          <seg xml:id="seg165">Mheshimiwa Mwenyekiti, napenda kumshauri Waziri wa Fedha kuhusu suala la uchakachuaji mafuta. Kwa kuwa suala hili limejadiliwa sana na kwa kuwa athari zinazotokana na uchanganyaji mafuta ni kubwa sana kibiashara na kiuchumi, Wizara ione uwezekano wa kuanzisha utaratibu wa vocha kwa matumizi/ununuzi wa mafuta ya taa kwa wananchi ili mafuta ya taa na petrol iwe sawa na hivyo kukomesha kabisa uchanganyaji wa mafuta. Ni imani yangu kuwa Serikali itatoa ruzuku kiasi kidogo sana kwenye vocha za mafuta ya taa kuliko kiasi kinachopotea kupitia uchakachuaji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u44" who="MheSalimHKhamis">
+          <seg xml:id="seg166">Mheshimiwa Mwenyekiti, kwanza nampongeza Mheshimiwa Waziri wa Fedha na Manaibu Mawaziri wake wawili, Katibu Mkuu na Watendaji wake wote kwa kazi kubwa za kuandaa bajeti ya mwaka 2010/2011. Pamoja na mapungufu yaliyojitokeza, lazima tukiri kuwa Wizara hii ni nyeti sana na sote tunahitaji kutoa msaada na ushirikiano wa hali na mali ili kuhakikisha kuwa bajeti yetu inaboreshwa mwaka hadi mwaka.</seg>
+          <seg xml:id="seg167">Mheshimiwa Mwenyekiti, kila mwaka Serikali inadai kuwa bajeti yetu ni finyu, hivyo inabidi kupunguza kwa kiasi kikubwa miradi ya maendeleo lakini tumegundua kupitia ripoti ya Mdhibiti na Mkaguzi Mkuu wa Serikali (CAG) kuwa makusanyo ya Serikali ni chini ya asilimia 50 na yale yaliyotarajiwa kukusanywa. Huu ni udhaifu mkubwa.</seg>
+          <seg xml:id="seg168">Mheshimiwa Mwenyekiti, kwani itaifanya Serikali kushindwa kuhudumia elimu, afya, barabara na kadhalika na hili likitokea, Serikali itakosa imani na wananchi.</seg>
+          <seg xml:id="seg169">Pamoja na Mheshimiwa Naibu Waziri kukiri kuwa vianzio vya mapato vilivyopo hawataweza kuvitumia vizuri, bado tunashauri waanze kuviangalia vyanzo vipya vilivyopendekezwa na Kambi ya Upinzani ili kuongeza mapato na hivyo kutunisha bajeti ya Serikali.</seg>
+          <seg xml:id="seg170">Mheshimiwa Mwenyekiti, inasikitisha kuwa baada ya Bunge lako Tukufu kupitisha marekebisho ya Sheria ya Madini ya kuondoa misamaha ya madeni, leo Serikali inakuja na kauli ya kuendelea kuyasamehe makampuni ya madini ambayo yameweka sahihi na Serikali kabla ya Juni, 2009. Hiki bado ni kitendawili kingine. Kwa utaratibu huo, Serikali inawasaidiaje Watanzania ambao wamekosa mapato ya madini yao kwa miaka yote?</seg>
+          <seg xml:id="seg171">Mheshimiwa Mwenyekiti, ili kuongeza tija katika kilimo, hivyo ufanisi kwa wakulima Serikali ikazie kufufua viwanda vilivyokufa au kubinafsishwa na ambavyo vinavyofanya kazi kinyume na ile ya asili. Haiwezekani tuzuie kusafirisha mazao ghali kama Korosho, wakati hapa nchini hakuna viwanda vya kutosha vya korosho vya nguo na kadhalika.</seg>
+          <seg xml:id="seg172">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u45" who="MheShokaKhamisJuma">
+          <seg xml:id="seg173">Mheshimiwa Mwenyekiti, awali ya yote namshukuru Mwenyezi Mungu kwa kunijaalia uzima na baada ya shukrani hizi napenda nichangie muswada huu kama ifuatavyo:-</seg>
+          <seg xml:id="seg174">Kwanza nitazungumzia sehemu zilizosamehewa kodi. Kwa maoni yangu kutotoza ushuru katika kusafirisha maua kwa ndege kwenda nje ya nchi mimi naona faida yake ni ndogo sana kwani watu wanaofanya biashara hii ni kidogo sana. Lakini unapoongeza kodi kwenye vinywaji baridi unawaumiza wananchi wote nchi nzima.</seg>
+          <seg xml:id="seg175">Mheshimiwa Mwenyekiti, Serikali yetu kila mwaka inaongeza kodi kwenye sigara, tumbaku, bia, vinywaji baridi na kadhalika. Ni kwa nini Serikali isitafute vyanzo vingine kila mwaka ikaleta kodi hizi hizi.</seg>
+          <seg xml:id="seg176">Mheshimiwa Mwenyekiti, kuanzia hivi karibuni tena Mheshimiwa Waziri wa Fedha na Uchumi ameanza kuongeza kodi kwenye usajili wa magari pamoja na pikipiki na leseni za barabara, sasa Mheshimiwa Waziri aangalia sana isiwe kila mwaka ukawa unaongeza kodi kama vile unavyofanya kwenye vinywaji baridi, mvinyo, sigara na kadhalika ikawa kila mwaka unaongeza kodi hii.</seg>
+          <seg xml:id="seg177">Mheshimiwa Mwenyekiti, kwa nini basi Waziri hatafuti vyanzo vipya mapema kama vile tunavyompatia Kambi ya Upinzani akavifanyia kazi mapema na ikifika wakati akawa yupo tayari badala ya utaratibu anaotumia sasa wa kutoa kodi vitu vile vile. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u46" who="MheEustaceOKatagira">
+          <seg xml:id="seg178">Mheshimiwa Mwenyekiti, nampongeza Waziri wa Fedha na Uchumi na timu yake yote kwa maandalizi ya sheria hii.</seg>
+          <seg xml:id="seg179">Mheshimiwa Mwenyekiti, sheria ya korosho, imeendeleza na kuongeza export levy inayotozwa kwa usafirishaji korosho nje ambazo hazikubanguliwa, hii ni sawa na sahihi, ila hii inasaidia kidogo tu.</seg>
+          <seg xml:id="seg180">Mheshimiwa Mwenyekiti, nataka ifahamike kuwa huyu mnunuzi wa korosho, gharama ya levy hii anaipeleka kwa mkulima kwa kumpunguzia bei. Dawa ni kuweka masharti ya kuzuia na kushawishi uendeshaji wa viwanda hapa nchini kwa kuweka incentives nzuri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u47" who="MheMarthaJUmbulla">
+          <seg xml:id="seg181">Mheshimiwa Mwenyekiti, naomba kuchangia maeneo machache ya Muswada huu wa Fedha (Sheria za Fedha).</seg>
+          <seg xml:id="seg182">Mheshimiwa Mwenyekiti, riba za benki kwa walipa kodi hailengi gharama za ukopaji (cost of finance) kwa wakopaji wenye kipato cha chini. Kwa mfano, haizingatii adha anayopata mkopaji tangu anapojitayarisha kwenda benki kukopo yaani muda wake anaopoteza kupata taarifa na kufuatilia haujathaminishwa na riba inayowekwa kwenye savings zake anazoweka benki hailingani na riba inayowekwa kwenye mkopo anaokopa. Huu ni uonevu kwa wakopaji.</seg>
+          <seg xml:id="seg183">Mheshimiwa Mwenyekiti, sheria hii iweke bayana kurekebisha mazingira hayo ili haki itendeke, mfano riba ya savings iongezwe na gharama za ukopaji ithaminishwe na sheria iseme.</seg>
+          <seg xml:id="seg184">Mheshimiwa Mwenyekiti, Kodi ya Ongezeko la Thamani kwa mafuta ya kula, kwa kuwa nchi nyingi imeweka kwenye sheria za nchi zao kuwa mazao yote ya mafuta yenye kulinda afya za watu wake, hayaruhusiwi kuuzwa nje.</seg>
+          <seg xml:id="seg185">Mheshimiwa Mwenyekiti, naishauri Serikali kuwa sheria hii iagize Serikali kusindika mbegu za mafuta ya kula yanayozalishwa hapa nchini ili kunusuru maisha ya</seg>
+          <seg xml:id="seg186">Watanzania. Baada ya kuzingatia haya, ndipo itawekwa kwenye sheria nyingine kupiga marufuku uagizaji wa mafuta yasiyofaa kwa afya.</seg>
+          <seg xml:id="seg187">Mheshimiwa Mwenyekiti, pia naishauri Serikali kuhakikisha kuwa nishati ya kutosha hapa nchini inaelekezwa kwenye viwanda vyetu vya saruji ili Serikali iache kuagiza saruji kutoka nje. Hii ni aibu kwa nchi maskini kutoweka mikakati mizuri ya kuhakikisha viwanda vyake vinazalisha na hapo hapo tunalalamikia Pato la Taifa kuwa chini.</seg>
+          <seg xml:id="seg188">Mheshimiwa Mwenyekiti, sheria hii ijikite vizuri kwenye uagizaji (import licence). Pia waagizaji wa mafuta ya taa wadhibitiwe vizuri ili kuagiza huko kuwe kwa manufaa ya Watanzania na siyo kwa kuhamasisha uhabiribu.</seg>
+          <seg xml:id="seg189">Mheshimiwa Mwenyekiti, nashauri kuwa leseni za waagizaji zihakikiwe kuonesha matumizi na soko la mafuta ya taa anayoagiza ni ipi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u48" who="MheJumaHKillimbah">
+          <seg xml:id="seg190">Mheshimiwa Mwenyekiti, nampongeza Mheshimiwa Mustafa Haidi Mkulo, Naibu Mawaziri, Katibu Mkuu, Naibu Makatibu Wakuu na watendaji wote wa Wizara ya Fedha na Uchumi.</seg>
+          <seg xml:id="seg191">Meshimiwa Mwenyekiti, napongeze Serikali kwa kufanya marekebisho ya sheria mbalimbali ya kutoza ushuru wa bidhaa mbalimbali.</seg>
+          <seg xml:id="seg192">Mheshimiwa Mwenyekiti, kuhusu ushuru wa mazao, nakubaliana kabisa moja ya chanzo muhimu cha mapato ya halmashauri ni ushuru wa mazao, marekebisho ya sasa yanamwondolea kero mzalishaji (mkulima) kutozwa ushuru pale anapouza mazao yake, suala la sasa la kumtoza ushuru mnunuzi ni sahihi kwani yeye ndiye mtu wa kati anayepata bidhaa toka kwa mzalishaji na kutafuta soko.</seg>
+          <seg xml:id="seg193">Mheshimiwa Mwenyekiti, kuondoa ushuru wa uzalishaji wa saruji ili kuleta ushindani na saruji toka nje, pamoja na hayo umuhimu uongezwe kuvipa uwezo viwanda vya ndani vya uzalishaji saruji ili kudhibiti ushindani unaoweza kujitokeza kwa soko la pamoja la Jumuiya ya Afika Mashariki, kuondoa kwa ushuru kwa saruji kutaongeza ari ya wananch kufanya matumizi ya saruji ya ndani ya nchi na hivyo kuiondolea aibu Taifa kugeuzwa soko la bidhaa za kigeni.</seg>
+          <seg xml:id="seg194">Mheshimiwa Mwenyekiti, katika kuondoa ushuru nasikitika Wizara kutokuona haja ya kuondoa ushuru wa uzalishaji wa magunia ya mkonge (sisal bag), yanayozalishwa na viwanda vya ndani, kuendelea kuacha ushuru kwa magunia haya kuua zao la mkonge na kudhoofisha juhudi za kilimo ushindani wa matumizi ya magunia ya mkonge umefifishwa na magunia sasa (duty bags) toka ng’ambo ambayo yameingia bila ushuru na yanayo ruzuku kwa nchi zao, hivyo ingekuwa busara kwa Serikali kuzingatia suala hili.</seg>
+          <seg xml:id="seg195">Mheshimiwa Mwenyekiit, katika Bunge la Bajeti la mwaka 2009/2010 lililetwa azimio la kutaka Serikali iridhie uondoaji wa ushuru kwa magunia ya mkonge (sisal bag). Naomba Mheshimiwa Waziri wakati wa majumuisho anipe ufafanuzi juu ya hatua hiyo.</seg>
+          <seg xml:id="seg196">Mheshimiwa Mwenyekiti, kuhusu kuondoa kabisa ushuru wa bidhaa za mafuta mazito ya uzalishaji viwandani ili kuongeza ushindani katika uzalishaji wa bidhaa, suala hili ni zuri lakini lazima udhibiti uelekezwe katika kudhibiti msamaha huu maana unaweza kutumika visivyo hasa kwa viwanda dhaifu kuingiza mafuta bila kodi kwa kutumia jina la kiwanda lakini baadaye kutumika kwa biashara.</seg>
+          <seg xml:id="seg197">Mheshimiwa Mwenyekiti, naunga mkono.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u49" who="MheDianaMChilolo">
+          <seg xml:id="seg198">Mheshimiwa Mwenyekiti, napenda kutumia nafasi ya awali kabisa kutoa pongezi kwa Serikali kupitia Waziri wa Fedha na Uchumi Mheshimiwa Mustafa Mkulo, Naibu Waziri Mheshimiwa Omar Yussuf Mzee, Naibu Waziri Mheshimiwa Jeremiah Sumari, Katibu Mkuu pamoja na watendaji wote walioshiriki kuandaa Muswada huu kwani ukitekelezwa ipasavyo utaleta tija kubwa katika kukuza uchumi wa nchi.</seg>
+          <seg xml:id="seg199">Mheshimiwa Mwenyekiti, kuhusu ukusanyaji wa mapato kwenye halmashauri zote nchini, napenda kuiomba Serikali kuwa ukusanyaji wa mapato kwenye halmashauri kupitia vyanzo vyao wenyewe ni duni sana kwanza uwezo wa kuibua vyanzo vya mapato ni mdogo na juhudi za ukusanyaji ni mdogo na uaminifu wa utunzaji wa mapato hayo ni mdogo. Naiomba Serikali kumtenganisha Mkaguzi wa Ndani na mwajiri wake yaani Afisa Mhasibu vile vile semina, kozi fupi na kozi ndefu zitolewe kwa wahasibu wote kwenye halmashauri ili kuongeza tija kwenye uzalishaji.</seg>
+          <seg xml:id="seg200">Mheshimiwa Mwenyekiti, suala la ukusanyaji mapato kwenye mashirika ya umma, napongeza mashirika ya umma ambayo yanajitahidi sana kuongeza makusanyo yao kwa kila mwaka. Pamoja na pongezi hizi pia napenda kutoa angalizo kuwa bado yapo mashirika ambayo makusanyo yao sio mazuri ama matumizi yao sio mazuri. Hivyo naiomba Serikali kupitia Muswada huu kutoa utaratibu upya wa kufuatwa na Mashirika ya Umma katika utumiaji wao kwani kumekuwa na taratibu tofauti tofauti za kufuata katika matumizi yao ya fedha, hii itasaidia kulinda fedha zisitumike ovyo ovyo. Sheria zifuatwe za fedha na manunuzi.</seg>
+          <seg xml:id="seg201">Mheshimiwa Mwenyekiti, kuhusu matumizi ya mizani katika kuuza bidhaa, vile vile kumekuwepo na utaratibu mbaya wa uuzaji wa bidhaa kwani wananchi wanauza mazao pasipo na bei ya pamoja na kudumu. Naishauri Serikali kuagiza halmashauri zote nchini kuhakikisha mazao yanauzwa kwa kutumia mizani ili kusaidia pia kuwepo kumbukumbu ambazo zitasaidia kupata tathimini ya kipato cha mwananchi wa chini kwa kila mkoa.</seg>
+          <seg xml:id="seg202">Mheshimiwa Mwenyekiti, suala la kuondoa kodi kwa magari yenye CC zero mpaka CC 2000, kuwa na vyombo vya usafiri sasa hivi sio kwa ajili ya starehe tena bali</seg>
+          <seg xml:id="seg203">ni kwa ajili ya kuwawezesha wananchi katika kurahisisha shughuli zao mfano kubebea mazao, kwendea shambani, kuendea hospitali na kadhalika, hivyo naiomba Serikali kufuta ushuru kwa vyombo vya usafiri kuanzia CC zero hadi CC 2000.</seg>
+          <seg xml:id="seg204">Mheshimiwa Mwenyekiti, mwisho napenda kumalizia mchango wangu kwa kuunga mkono hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u50" who="MheZaynabMVulu">
+          <seg xml:id="seg205">Mheshimiwa Mwenyekiti, napenda kuchukua nafasi hii, kuipongeza Serikali, kwa juhudi zake za kuleta na kufanya marekebisho ya Sheria mbalimbali kwa maslahi ya nchi na wananchi wake.</seg>
+          <seg xml:id="seg206">Mheshimiwa Mwenyekiti, baada ya pongezi hizo, napenda kutoa pendekezo langu katika marekebisho ya Sheria, Sehemu ya Kumi na Mbili (Part XII). Sheria hii pia ingefanya marekebisho ya kutoa au kupunguza kodi katika vifungashio vya madawa ya binadamu. Serikali imetoa changamoto kwa Watanzania kuanzisha Viwanda vya Madawa ili kuleta unafuu wa bei kwa watumiaji. Tatizo dawa zinazozalishwa nchini zimekuwa ghali sana na hiyo inachangiwa pia na gharama za VAT katika vifungashio vya madawa, hatimaye mtumiaji ndiye anayeumia zaidi. Je, Mheshimiwa Waziri atakubaliana nami kwamba ni vyema kutoa VAT kwa vifungashio na kuingiza katika marekebisho haya tunayojadili leo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u51" who="MheFatumaAMikidadi">
+          <seg xml:id="seg207">Mheshimiwa Mwenyekiti, kwanza kabisa, ninapenda kuchukua nafasi hii, kuipongeza Wizara, kwa kuona kuwa kuna haja ya kuwa na Muswada wa Sheria ya Fedha na kufanya marekebisho kwa baadhi ya vipengele haswa sehemu ya Sheria ya Kososho, Sura 203, kwa kuongeza Kifungu cha 17A.</seg>
+          <seg xml:id="seg208">Mheshimiwa Mwenyekiti, kwa kweli mimi ninapongeza sana kukusanya ushuru kutoka kwenye korosho ghafi inayosafirishwa nje ya nchi kupitia TRA, pili kuongeza kiwango kutoka asilimia 10 ya sasa ya bei ya kosoro ghafi hadi asilimia 15. Vile vile kiwango cha asilimia 65 ya makusanyo yatapelekwa kwenye Mfuko wa Sekta ya Maendeleo ya Korosho (Cashewnut Industry Development Fund), ili yaweze kutumika kwa ajili ya kuendeleza sekta ya korosho na kuhamasisha ubanguaji wa korosho nchini.</seg>
+          <seg xml:id="seg209">Mheshimiwa Mwenyekiti, tusipokuwa na mfuko maalumu wa kuendeleza korosho nchini, kwa kweli zao la korosho litafutika kabisa. Hivi sasa Tanzania tunakabiliwa na matatizo kadhaa ya kutoliendeleza zao la korosho kwa vile tu, halina mfuko maalumu wa kuisaidia. Mkulima wa korosho anahitaji pembejeo; miche mipya kwani hadi sasa mikorosho mingi ni mizee na haizai vizuri; kupalilia mikorosho yake ili korosho iangukie pazuri; kuendeleza zao hili kwa kuibangua korosho ili kuongeza thamani yake. Mpaka sasa, korosho yetu inasafirishwa nje nzima nzima kwani wakulima wengi hawana uwezo wa kuibangua kitaalamu hadi imfikie mlaji na mwisho wanahitaji vifaa, viwanda na maandalizi ya ubanguaji korosho kitaalamu.</seg>
+          <seg xml:id="seg210">Mheshimiwa Mwenyekiti, haya yote yanataka fedha, tunapata wapi? Njia pekee ya kupata fedha ni hiyo hiyo ya kuanzisdha mfuko. Hivi sasa, korosho yetu ya Tanzania inaanza kupandwa katika Mikoa mingine nchini, ukiachia Mtwara, Ruvuma na Lindi, kuna Mikoa mingine zaidi imeanza kupanda korosho, nao pia wanahitaji kujiendeleza.</seg>
+          <seg xml:id="seg211">Mikoa hiyo ni Pwani, Ruvuma, Tanga, Dar es Salaam, Mbeya, Morogoro, Iringa na Dodoma.</seg>
+          <seg xml:id="seg212">Mikoa hii yote inayoanza kupenda kulima zao hili, ni budi waendelezwe kwa kupatiwa pembejeo kwa wakati, watambuliwe na waelekezwe masuala mazima ya ubanguaji. Imeonekana kuwa Tanzania husafirisha korosho nje kwa asilimia 2.7% karibu nusu ya mazao mengine mfano tumbaku ni 4.8, pamba ni 4.2%, kahawa ni 4.2% na samaki ni 4.8%.</seg>
+          <seg xml:id="seg213">Kwa hiyo, mimi ninadhani, korosho ikiwekewa mikakati maalumu ya kuliboresha, basi tunaweza kusafirisha nje asilimia kubwa zaidi kama mazao mengine. Njia pekee ni kuwa na Mfuko Maalumu ambao utaingiziwa pesa kutokana na ushuru wa korosho ghafi inayosafirishwa nje ambayo imependekezwa katika Sheria ya Korosho, Sura 203, katika Kifungu cha 17 kwa kuongeza Kifungu kipya cha 17A ili asilimia ya makusanyo ipelekwe kwenye Mfuko wa Sekta ya Maendeleo ya Korosho ili makusanyo hayo yaweze kuendeleza zao la korosho.</seg>
+          <seg xml:id="seg214">Mheshimiwa Mwenyekiti, ninaunga mkono hoja kwa asilimia mia moja. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u52" who="MheMohamedHMissanga">
+          <seg xml:id="seg215">Mheshimiwa Mwenyekiti, nampongeza Mheshimiwa Waziri Mkulo na Manaibu Mawaziri wote wawili pamoja na Katibu Mkuu, Mheshimiwa Khadija, kwa maandalizi mazuri ya bajeti na kupitishwa vizuri tarehe 14/6/2009 pamoja na maandalizi mazuri ya Muswada huu.</seg>
+          <seg xml:id="seg216">Mheshimiwa Mwenyekiti, kwa muda mrefu, tumekuwa tukieleza tatizo la kuchanganya mafuta ya diesel na mafuta ya taa, maarufu kama ‘Chakachua’, lakini Serikali haijachukua hatua thabiti za kutatua tatizo hili.</seg>
+          <seg xml:id="seg217">Suala hili sasa limefikia mahali pabaya kwani magari ya mafuta zaidi ya 60 yamerejeshwa kutoka nchi jirani tena kwa escort ya Polisi. Hii ni aibu na fedheha kwa nchi yetu licha ya kwamba athari zake ni nyingi kwa uchumi wa nchi yetu. Nchi jirani zinategemea mafuta kupitia Bandari ya Dar es Salaam hivyo kwa mtindo huu wa Chakachua, mapato mengi ya nchi jirani tutayakosa kwani hivi sasa wameamua kupitisha mafuta na bidhaa nyingine katika Bandari za nchi nyingine.</seg>
+          <seg xml:id="seg218">Serikali inatakiwa kuchukua maamuzi mazito kurekebisha tatito hili. Suluhisho la kudumu ni kuoanisha kodi ya mafuta ya diseli na kodi ya mafuta ya taa, hakuna njia nyingine. Nafuu ya kodi ya mafuta ya taa inawasaidia wachache sana wakati nchi inapata hasara kubwa kuliko faida ya kutenganisha kodi hizi. Okoa nchi na ondoa fedheha kwa nchi kwa kuoanisha kodi ya mafuta ya taa na diseli na vilevile kuwachukulia hatua kali wote wanaojishughulisha na biashara ya Chakachua.</seg>
+          <seg xml:id="seg219">Mheshimiwa Mwenyekiti, pongezi kwa misamaha na nafuu ya kodi katika maeneo mbalimbali, tatizo ni kwamba watakaofaidika na misaada hii, ni makampuni na wafanyabiashara tu. Mwananchi wa kawaida, mlaji wa mwisho, hatafaidika kabisa. Miaka kadhaa misamaha ilitolewa lakini wananchi hawafaidiki.</seg>
+          <seg xml:id="seg220">Mheshimiwa Mwenyekiti, kuhusu kodi zilizoongezwa kwenye magari sawa lakini pikipiki tusiwatoze.</seg>
+          <seg xml:id="seg221">Mheshimiwa Mwenyekiti, naunga mkono hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u53" who="MheLucasLSelelii">
+          <seg xml:id="seg222">Mheshimiwa Mwenyekiti, nampongeza sana Waziri kwa kupitisha bajeti ya 2010/2011.</seg>
+          <seg xml:id="seg223">Mheshimiwa Mwenyekiti, sioni sababu ya kuweka kodi kwenye pikipiki (bodaboda) kutokana na usafiri huu kutumiwa na wananchi walio na kipato kidogo cha fedha. Itafutwe kodi sehemu nyingine.</seg>
+          <seg xml:id="seg224">Mheshimiwa Mwenyekiti, nakubaliana na Serikali kuheshimu mikataba ya wamiliki wa migodi ya madini lakini kuendelea kuwasamehe kodi wachimbaji hawa, ni kujinyima vyanzo vya mapato. Mazungumzo yaendelee, napongeza hatua ya Serikali.</seg>
+          <seg xml:id="seg225">Mheshimiwa Mwenyekiti, kupunguza kodi kwenye mafuta mazito (HMO) ili kuwezesha viwanda kama cha cement kupunguza bei, naishauri Serikali iweke ruzuku (subsidary) ili kushindana na bidhaa toka nje.</seg>
+          <seg xml:id="seg226">Mheshimiwa Mwenyekiti, mwisho nawatakia kazi njema.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u54" who="MhePindiHChana">
+          <seg xml:id="seg227">Mheshimiwa Mwenyekiti, naunga mkono hoja.</seg>
+          <seg xml:id="seg228">Mheshimiwa Mwenyekiti, Kifungu cha 4, kwa nini tutumie US dollar kwenye Sheria yetu? Endapo dollar imepanda au kushuka thamani hali itakuwaje? US$ one hundred sixty per metric tone, which ever is higher.</seg>
+          <seg xml:id="seg229">Mheshimiwa Mwenyekiti, export levy itakusanywa na TRA, tutatumia mechanism (utaratibu upi) kujua kwamba pato hili limetokana na korosho za Wilaya X,Y,Z. ili fedha hizo zirudishwe kwenye Wilaya husika? What if korosho zinanunuliwa na middlemen wa hapa nchini, anakusanya toka Wilaya sita mbalimbali na baadaye yeye ndio ana-export kwa pamoja, tutajuaje ili kodi ya 65% irudishwe Wilaya husika. Lakini nipongeze suala la kurudisha 65% kwa Halmashauri.</seg>
+          <seg xml:id="seg230">Mheshimiwa Mwenyekiti, kuhusu marekebisho katika viwango cha kutoza ushuru wa mazao shambani kati ya 3% na 5%. Naomba kushauri kuwa ushuru huu wa mazao utozwe kwa mazao ambayo hununuliwa kwa ajili ya biashara na sio chakula. Kwa niaba ya akina mama wa Wilaya saba za Iringa, wanaomba mtu anaponunua debe moja la mahindi, mpunga kwa ajili ya kujikimu chakula, asitozwe ushuru wa mazao. Wale wanaonunua Fuso zima au lori, wanapopita getini ni halalli kulipa kodi. Hivyo, naomba Halmashauri na Wakala wa Ukusanyaji Mazao, walizingatie hilo.</seg>
+          <seg xml:id="seg231">Mheshimiwa Mwenyekiti, binafsi ninakubaliana na wazo la kusamehe kodi ya majengo kwenye nyumba zinazomilikiwa na wazee lakini nina wasiwasi na maneno ya Kifungu 33 kinachosema:-</seg>
+          <seg xml:id="seg232">„A person … has no other means of earning than residential ratable property may be exempted from payment of levy”</seg>
+          <seg xml:id="seg233">Mheshimiwa Mwenyekiti, hii inamaanisha kwanza, it is not for granted na pili ni may be, how can you prove?</seg>
+          <seg xml:id="seg234">Mheshimiwa Mwenyekiti, Section 22 1(b) or b Volume, hii ‘b’ ina maanisha nini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u55" who="MheFelisterABura">
+          <seg xml:id="seg235">Mheshimiwa Mwenyekiti, nampongeza Mheshimiwa Mustafa Haidi Mkulo, (MB), Manaibu Mawaziri, Katibu Mkuu pamoja na watendaji wote, kwa kuleta marekebisho haya ya Finance Act, 2010.</seg>
+          <seg xml:id="seg236">Mheshimiwa Mwenyekiti, pamoja na marekebisho haya yaliyoletwa mbele ya Bunge lako Tukufu, nasikitishwa na wafanyabiashara wanaouza mali kwa kutumia USD badala ya shilingi ya Kitanzania. Muswada huu haujazungumzia kuwabana watu hao. Yapo maduka mengi ndani ya nchi yetu yanayouza bidhaa kwa USD na Serikali haijawahi kuwachukulia hatua kitu ambacho nchi zingine si ruhusa hata kidogo.</seg>
+          <seg xml:id="seg237">Mheshimiwa Mwenyekiti, naipongeza Serikali kwa kupunguza ushuru wa bidhaa kwenye mafuta mazito ya kuendeshea mitambo na hasa Viwanda vya Simenti. Nashauri ushuru huo upunguzwe pia kwa Viwanda vya Mabati, pembejeo zote za kilimo kwa mfano magunia, power tiller na kadhalika ili wananchi wa hali ya chini waweze kumudu kununua/kufaidika.</seg>
+          <seg xml:id="seg238">Mheshimiwa Mwenyekiti, Kifungu cha 98, ni ukweli usiopingika kuwa wafanyabiashara wengi hapa nchini hawatoi stakabadhi na wanaotoa stakabadhi wanatoa baada ya majadiliano na mnunuzi kwani mauzo kwa stakabadhi ni ghali kuliko mauzo pasipo stakabadhi. Kifungu kinachorekebishwa, kinatamka adhabu itakayotolewa.</seg>
+          <seg xml:id="seg239">Ninachoomba ni Serikali kusimamia kwa karibu sana na ikiwezekana viongozi wa Serikali za Mitaa watumike kuhakikisha kuwa stakabadhi zinatolewa kwa kila mauzo, hii itasaidia wakwepa kodi kulipa kwa wakati.</seg>
+          <seg xml:id="seg240">Mheshimiwa Mwenyekiti, Sura 124, marekebisho aya ya 3 na ya 4, nashauri marekebisho hayo yaguse zaidi magari ya starehe kwa mfano, Landcruiser, Lexus, Rangerover na kadhalika na sio pikipiki au magari ya kusafirisha abiria.</seg>
+          <seg xml:id="seg241">Mheshimiwa Mwenyekiti, naipongeza Serikali kwa kuanzisha Idara ya Usimamizi wa Ukaguzi wa Ndani pamoja na uteuzi wa CAG, idara hii ndio jicho la Serikali katika kusimamia matumizi yenye tija. Ninashauri taarifa zitakazotolewa na CAG za matumizi mabaya ya fedha za umma, zifanywe kazi mapema na kwa haraka ili kujenga heshima ya matumizi kwa watumishi wa Serikali.</seg>
+          <seg xml:id="seg242">Mheshimiwa Mwenyekiti, naipongeza Serikali kwa kusamehe kodi ya majengo kwenye nyumba zinazomilikiwa na wazee wenye umri wa miaka sitini na zaidi. Je, msamaha huo ni kwa jengo moja au majengo yote yanayomilikiwa na wazee hao? Ninaomba msamaha huo wapewe watoto yatima waliofiwa na wazazi wote na hawana kipato cha kuwawezesha kulipa kodi ya majengo.</seg>
+          <seg xml:id="seg243">Mheshimiwa Mwenyekiti, mwisho, naunga mkono Muswada huu kwa asilimia mia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u56" who="Mwenyekiti">
+          <seg xml:id="seg244">Sasa nitampa Mheshimiwa Mwanasheria Mkuu, ili yeye aanze kujibu hoja ambazo Waheshimiwa Wabunge wamezitoa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u57" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg245">Mheshimiwa Mwenyekiti, ninakushukuru tena kwa kunipa nafasi hii na ninaomba niwashukuru sana Waheshimiwa Wabunge waliochangia Muswada huu. Bila shaka waliowasikiliza watakubaliana na mimi kwamba, kiwango na ueledi wa uchangiaji Bungeni kimeongezeka sana. Ninapokea pongezi kwa maneno mazuri yaliyosemwa na wachangiaji wote. Maneno mazuri yaliyosemwa juu yangu, najisikia mnyonge wakati fulani nikisifiwa kwa sababu kwa profession yangu huwa tunaanza kwa kukashifiwa kwanza.</seg>
+          <seg xml:id="seg246">Lakini ninawashukuru sana kwa kunipongeza, ninamshukuru sana Mheshimiwa George Malima Lubeleje, huyu mzee wetu ana uzoefu mkubwa, ni mlezi mzuri, anasikiliza, ana imani na binadamu wenzake, na amenisaidia sana kufafanua Muswada huu kwa lugha nyepesi na sura yenye ushawishi. Baba Mheshimiwa Lubeleje, Mungu wetu akunyooshee mikono yake na akujalie katika mahitaji yako. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u58" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg247">Mchangiaji mama yangu, naona hayupo Mheshimiwa Fatma Maghimbi - Waziri Kivuli wa Katiba na Sheria - Kambi ya Upinzani, amesema maneno mazuri juu yangu lakini tulikuwa tumepatana kwamba kama nilivyokuwa university; paper yangu nilikuwa ninaiweka notice board, siweki kwenye kwapa. Mimi paper yangu nilimpa mapema sana kwamba asome na kama kuna kitu, basi akiseme kwa kufanya research, lakini ya kwake hakunipa, hata hivyo ninamshukuru sana.</seg>
+          <seg xml:id="seg248">Kuhusu kifungu cha 26 alichoelezea, nafikiri nimesema vizuri zaidi kwenye hotuba yangu na kwa kweli mabadiliko yanayofanyika katika Sheria hii ya Elektroniki ni kama yale ambayo yako kwenye Sheria ya Madini na tunayaainisha. Jamani Waheshimiwa Wabunge tusiwe na mawazo ya zamani sana, tukadhani kwamba tukiwa wakali Sheria zetu zitatekelezwa ipasavyo.</seg>
+          <seg xml:id="seg249">Nafikiri tuainishe, tuwape nafasi wawekezaji na Mawaziri ambao wana dhamana ya kufanya hizo kazi kusimamia sekta hizo. Itakuwa vizuri zaidi kuliko kuweka vitu vya jumla. Kwa hiyo, mimi jibu langu kwa Mheshimiwa Mama Maghimbi ni hilo, hayupo, lakini nitamtafuta mchana na tutaongea naye.</seg>
+          <seg xml:id="seg250">Mheshimiwa Mwenyekiti, mchangiaji wa tatu, Mheshimiwa Kabwe Zitto ninamshukuru sana ndugu yangu. Ni kweli kabisa kwamba, vipengele vile vya Sheria ya Umeme vinazuia uwekezaji na haitakuwa na maana kama unawasikia binadamu wenzako wanalalamika kwamba vifungu hivi vinazuia uwekezaji katika Kanda ya Kusini na wewe ukawa umekaa unang’ang’ania tu.</seg>
+          <seg xml:id="seg251">Kwa hiyo, ndiyo maana tumevileta hapa na mimi ninashukuru kwamba umeniunga mkono mara nyingi tu, ninakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u59" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg252">Mheshimiwa Kabwe Zitto pia amezungumzia kuhusu viti vya vijana. Mimi ninaamini katika demokrasia, kweli kabisa katika demokrasia ya jumla ya kuanzia kwenye grass root. Kwa mfano, pale nyumbani mkeo na wewe mwenyewe na watoto wako ni lazima kuwe na demokrasia kidogo.</seg>
+          <seg xml:id="seg253">Kwa hiyo, ninaamini kwamba katika mambo mengine haya ya viti vya vijana nadhani yanaweza kuanzia pia kwenye Vyama vya Siasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u60" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg254">Mheshimiwa Mwenyekiti, ninasema hivi kwa sababu ni vizuri tukaimarisha demokrasia katika Vyama vya Siasa na nitakuja kwa Mheshimiwa Mwadini, lakini nina taarifa ninyi hamkunikaribisha kwenye mkutano wenu. Wenzenu walinikaribisha katika mkutano wao ingawa sikwenda, na walinipa taarifa kwamba wametenga viti kumi kwa ajili ya vijana na ninajua hapa wengi wenu mlikuwa wanachama wa Chama cha Mapinduzi.</seg>
+          <seg xml:id="seg255">Nafikiri wengine walikuwa bado hawajazaliwa na mnajua jinsi chama hicho kilivyo na utaratibu wa kupanua demokrasia. Naomba muige tu, kwani ni vizuri kuiga, sisemi hivyo kwa sababu ya kuwakandia, bali ninasema hivyo kwa sababu mazungumzo niliyosikia leo na wiki nzima hii, na katika kikao hiki yanaonesha kwamba na ninyi mna mwelekeo wa demokrasia ya kitaifa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u61" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg256">Kuhusiana na hili la Madiwani wa Viti Maalum, nimesoma mapendekezo ambayo Mheshimiwa Kabwe Zitto ameyatoa, yameandikwa vizuri. Ukiangalia juu juu ni mazuri sana, lakini ukiangalia kwa undani utagundua kwamba yanadurufu Ibara ya 78(1) ya Katiba na kwa ajili hiyo basi Mheshimiwa Kabwe Zitto, kambale wa mambo haya ni kwenye mchakato kwenye vyama vyetu. Kambale wangu mimi kama Mwanasheria Mkuu wa Serikali ni Baraza la Mawaziri. Hili ni suala kubwa sana, ni suala la sera kwa sababu unazungumzia sasa haki ya kushiriki ya wanawake katika maeneo haya. Nafikiri kwamba ni vizuri tulijadili kwa kina. Huu sio mwisho wa sheria nafikiri wakati utakapofika tutaandika kwa sababu karatasi za kuandika na kalamu tutakuwa nazo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u62" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg257">Mheshimiwa Mwenyekiti, labda nikwambie kwamba mantiki ya mapendekezo haya Mheshimiwa Kabwe Zitto yanapunguza fursa kwa vyama vya siasa kupata Madiwani kwa kuwa sasa kigezo kitakuwa kupata angalau asilimia tano ya kura zote zilizopigwa katika Kata. Nafikiri ni mambo ambayo yanahitaji kufikiriwa kwa siku za usoni. Lakini kwa wepesi, mimi kama mtaalamu wa mambo ya kutunga sheria lazima niseme kwamba na wewe unielewe kwamba huyu ni Mwanasheria makini kama ulivyosema, basi Baraza la Mawaziri ndilo lenye dhamana ya kushughulikia hili suala ambalo ni la sera, lakini haizuii mawazo mazuri kama hayo uliyotoa na nakupongeza kwa sababu umefanya research nzuri. Thank you. Thank you again. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u63" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg258">Mheshimiwa Mwadini Abbas Jecha, kwanza napenda kuchukua nafasi hii kwa moyo mkunjufu kabisa kukipongeza Chama cha CUF kwa uchaguzi ingawa hamkunialika, lakini nilikuwa sifahamu kama mlifanya uchaguzi kwa sababu hata barua hamkuniandikia na TLP ambao pia wamefanya uchaguzi wa kumpata Mgombea wa Kiti cha Urais. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u64" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg259">Mheshimiwa Mwenyekiti, kuhusiana na maneno kwamba mimi si mwanachama, ni kweli, si kwa hiyari yangu, lakini ni kwa mujibu wa Katiba. Naomba kufafanua hili jambo kwa sababu hata ndugu zangu kule kijijini wengine wanang’ung’unika, wanalalamika huku kwamba wewe vipi? Ibara ya 113(a) inasema kwamba; „Itakuwa ni marufuku kwa Jaji wa Mahakama ya Rufani, Jaji wa Mahakama Kuu, Msajili wa Mahakama ngazi yoyote, Hakimu wa ngazi yoyote kujiunga na chama chochote cha siasa isipokuwa tu kwamba atakuwa na haki ya kupiga kura iliyotajwa katika Ibara ya 5 ya Katiba hii.” </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u65" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg260">Mheshimiwa Mwenyekiti, mimi ni Jaji, sijajiuzulu bado. Kwa hiyo, ndiyo sababu inanifanya mimi niwe na nguvu ya kusema hivyo kwamba mimi hata mkinialika kwenye congress I will come. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u66" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg261">Mheshimiwa Mwenyekiti, lakini pia nakubaliana na wewe kwamba pengine Sheria ya Gharama za Uchaguzi inahitaji kufanyiwa kazi zaidi, tutafanya kila wakati tukipata nafasi, isipokuwa sasa mimi nimesoma Kiswahili kigumu lile neno ulilokuwa unatumia mbeleni si neno la kifasaha, unaweza kusema siku za usoni lakini sio mbeleni, mbeleni ni kitu kingine kabisa, nafikiri huyo alikuwa mchangiaji wa tano. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u67" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg262">Mheshimiwa Mwenyekiti, Mheshimiwa mwingine alikuwa ni Mheshimiwa Raynald Mrope. Hili suala la kufuta EWURA nafikiri nitamwachia Mheshimiwa Adam Malima wakati wa kwenda kwenye vifungu atakuja alizungumzie, ingawa nina majibu lakini nitampa Waziri ambaye anahusika nalo akujibu vizuri, sitaki kukujibu ovyo ovyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u68" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg263">Kuhusiana na nadhani tukifika hapo tunakuwa na taabu. Hii Sheria ya Waziri amevunja mabaraza kinyume cha sheria. Hii si kweli kwa sababu sheria ambayo Mheshimiwa Waziri ametumia ni sheria iliyopo sasa ambayo haijafanyiwa marekebisho. Tunachofanya sasa kwenye marekebisho haya kitu kidogo tu ni kuweka muda. Sheria ya sasa haisemi ni kwa muda gani. Sasa tunaweka muda kwamba ni siku saba kabla ya</seg>
+          <seg xml:id="seg264">kuvunjwa kwa Bunge. Nafikiri ni vizuri kuweka benchmark kwa sababu unaweza kumpata Waziri mwingine kama mimi, sivunji. Lakini nakubaliana na maoni kwamba ni vizuri tuwe na usimamizi mzuri wa sheria hii. Lakini kwa kweli Waziri amefanya kazi hiyo sawa sawa. Tunaweka sharti la muda tu. Nafikiri alikuwa Mheshimiwa Fatma Maghimbi huyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u69" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg265">Mheshimiwa Mwenyekiti, kwa nini tunaleta mabadiliko kwenye Sheria ya Uchaguzi, ni kwa sababu ya ukosefu wa umakini, kwa sababu ya ukosefu wa umahiri au uwezo? Ni swali zuri na tusingependa sisi kila wakati kuleta sheria ambayo hata haijaanza kutumika kwenye mabadiliko. Lakini Waheshimiwa Wabunge sheria inapotungwa huwezi kuwauzia watu wengine kuzungumza na watu wengine wakizungumza wakikupa mawazo mazuri ni vizuri kuyachukua.</seg>
+          <seg xml:id="seg266">Mheshimiwa Mwenyekiti, ni kwa msingi huo tumechukua mawazo haya, kwa mfano tulipokuja na scheme ya kwanza tulikuwa tunafikiri kwamba kwa sababu ya kusimamia eneo moja la gharama za uchaguzi kwa mtu mmoja then ni vizuri kuweka zile siku tano kabla ya siku ya uteuzi ili kumpa nafasi yeye kuweka pingamizi. Sasa kwa sababu unaondoa hiyo na unaondoa kwa sababu umesikiliza maoni ya watu wengine basi inabidi ufanye marekebisho ya hiyo sheria. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u70" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg267">Kwa msingi huo Mwenyekiti kwa mara nyingine tena niwashukuru Waheshimiwa Wabunge kama kuna kitu ambacho sikujibu si kwa sababu ya kunuia, lakini ni kwa sababu labda kimenipitia, lakini kama kuna Mbunge yeyote ambaye anataka apate majibu zaidi basi tunaweza kuzungumza baadaye au wakati wa kupitisha kifungu kwa kifungu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u71" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg268">Mheshimiwa Mwenyekiti, baada ya kusema hayo naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u72" who="Mwenyekiti">
+          <seg xml:id="seg269">Ahsante sana Mheshimiwa Mwanasheria Mkuu wa Serikali. Waheshimiwa Wabunge hoja imetolewa na imeungwa mkono sasa kwa hatua inayofuata.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u73" who="WaziriWaNishatiNamadini">
+          <seg xml:id="seg270">Mheshimiwa Mwenyekiti, naafiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u74" who="WaziriWaNishatiNamadini">
+          <seg xml:id="seg271">KAMATI YA BUNGE ZIMA</seg>
+          <seg xml:id="seg272">Muswada wa Sheria ya Marekebisho ya Sheria Mbalimbali wa Mwaka 2010, (The</seg>
+          <seg xml:id="seg273">Written Laws (Miscellaneous Amendments) No. 3. Bill, 2010)</seg>
+          <seg xml:id="seg274">MWONGOZO WA MWENYEKITI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u75" who="MheRaynaldAMrope">
+          <seg xml:id="seg275">Mheshimiwa Mwenyekiti, ninayo hii Bill Supplement lakini kuna suala hili katika hotuba ya Mwanasheria Mkuu wa Serikali</seg>
+          <seg xml:id="seg276">linalohusiana na mambo ya Sheria ya Umeme halipo hapa katika hii main sheria. Sasa nilitaka kuuliza kama nataka kupata maelezo zaidi nisimame katika kifungu gani hapa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u76" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg277">Mheshimiwa Mwenyekiti, kwenye suala la umeme kuna schedule of amendment. Naomba uangalie schedule of amendment pamoja na ule Muswada.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u77" who="Mwenyekiti">
+          <seg xml:id="seg278">Ahsante Mheshimiwa Mwanasheria Mkuu wa Serikali naona limeshakaa sawa.</seg>
+          <seg xml:id="seg279">Kifungu cha 1</seg>
+          <seg xml:id="seg280">Kifungu cha 2</seg>
+          <seg xml:id="seg281">Kifungu cha 3</seg>
+          <seg xml:id="seg282">(Vifungu vilivyotajwa hapo juu vilipitishwa na Kamati ya Bunge Zima bila ya mabadiliko</seg>
+          <seg xml:id="seg283">yoyote)</seg>
+          <seg xml:id="seg284">Kifungu cha 4</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u78" who="MheAndrewJChenge">
+          <seg xml:id="seg285">Mheshimiwa Mwenyekiti, nasimama kwanza kuipongeza sana Serikali kwa marekebisho yanayoletwa sasa hivi kwani yana maana kubwa sana katika sekta hii muhimu ya mawasiliano, ila nina kitu kimoja tu cha kusaidia ukisoma kwenye kifungu cha 26(1) kina mtiririko mzuri mpaka unapofika sasa kwenye maneno; „Approval and transfer of shares of electronic communications, postal, license and content service license.” Sasa uhamishaji wa hisa ni kwenye Kampuni.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u79" who="Mwenyekiti">
+          <seg xml:id="seg286">Samahani Mheshimiwa Chenge, Mheshimiwa Mwanasheria Mkuu simuoni na ndio anatakiwa aijibu hii hoja. Unamwakilisha? Yuko Mheshimiwa Chikawe haya tuendelee sasa. Anza upya Mheshimiwa Chenge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u80" who="MheAndrewJChenge">
+          <seg xml:id="seg287">Mheshimiwa Mwenyekiti, nakushukuru sana. Nilikuwa nasema hivi makampuni haya yana leseni, sasa unapohamisha wewe kama mwanahisa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u81" who="Mwenyekiti">
+          <seg xml:id="seg288">Samahani ngojea tumsaidie Mheshimiwa Chikawe ni ukurasa wa 6, kifungu cha 26 (1) na 61. Mheshimiwa Mwanasheria Mkuu ameshaingia. Tuendelee.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u82" who="MheAndrewJChenge">
+          <seg xml:id="seg289">Nadhani hapa ni suala tu la concept kwamba tunaweka kiwango cha chini cha umiliki wa hisa katika makampuni yanayofanya biashara hii na utaratibu wa kuweza kuuza hisa kwa local shareholders. Hiyo dhana ni nzuri tu ila sasa ilivyokaa huwezi ukasema transfer of shares kwa leseni, leseni inashikiliwa na Kampuni na Kampuni hiyo ndani yake kuna wanahisa.</seg>
+          <seg xml:id="seg290">Mimi nilikuwa nashauri kwamba baada ya neno shares pale tuseme in a company holding, maana makampuni haya ndio yenye leseni hizi. Wewe ndani ya Kampuni hiyo</seg>
+          <seg xml:id="seg291">ndio unataka kuuza hisa zako kama mzawa au local shareholder. Sasa utaratibu huu ndio tunapendekeza utawekwa. Ukiiacha namna hii inakuwa haina maana kidogo maana shares of a licence of postal licence or content licence, service licence haileti maana. Ndio nilikuwa naomba tu hapo.</seg>
+          <seg xml:id="seg292">Mheshimiwa Mwenyekiti, la mwisho kabisa katika kifungu kidogo cha 2 la class licence C, hapana. Individual or class licence, sio licence C. Huo ndio mchango wangu mdogo katika eneo hili. Sasa sijui kama Mwanasheria Mkuu…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u83" who="Mwenyekiti">
+          <seg xml:id="seg293">Mheshimiwa Mwanasheria Mkuu umeuelewa mchango wa Mheshimiwa au akusaidie Mheshimiwa Chikawe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u84" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg294">Mheshimiwa Mwenyekiti, namshukuru sana Mheshimiwa Andrew Chenge kwenye hili la pili ninakubaliana naye kwamba kwenye kile kifungu cha 26(2) baada ya maneno „in consultation with a company incorporated in the United Republic” tuongeze neno „and holding an individual or a class licence.” Hiyo ni sawa sawa. Kwenye hili la concept ambalo liko kwenye 26(1) kama Mheshimiwa Chenge ana mapendekezo mahsusi ni vizuri angesema kusudi tuweze kuona kama yanakwenda na…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u85" who="Mwenyekiti">
+          <seg xml:id="seg295">Mheshimiwa Chenge nitalazimika kukupa tena nafasi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u86" who="MheAndrewJChenge">
+          <seg xml:id="seg296">Nashukuru Mwenyekiti, samahani sana Mheshimiwa Mwanasheria Mkuu nilisema tu kwamba baada ya neno „shares” tufute neno „of” halafu tuingize maneno tunaanza kwa kusema „for approval and transfer of shares in a company holding an electronic communication and postal licence and content service licence.”</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u87" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg297">Mheshimiwa Mwenyekiti, namshukuru tena Mheshimiwa Chenge sina tatizo na mapendekezo aliyoyafanya na naomba yaingie kwenye Muswada huu. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u88" who="MheRaynaldAMrope">
+          <seg xml:id="seg298">Mheshimiwa Mwenyekiti, sielewi hapa kuna 14 mbili. Sasa mimi nilitaka hii ya 14 ya pili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u89" who="Mwenyekiti">
+          <seg xml:id="seg299">Mheshimiwa Mwanasheria Mkuu sijui utakuwa umemwelewa au aseme tena? Hebu fafanua kidogo tatizo lako liko wapi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u90" who="MheRaynaldAMrope">
+          <seg xml:id="seg300">Tatizo langu ni kwamba kuna Part 14 inasema; „Amendment of Army’s and Ammunition Act.” Halafu kuna Part 14 tena inayosema; „Amendment to the Electricity Act.” Sasa kwa kuwa yote imetajwa 14 na nisije nikakosa nafasi yangu ndiyo nauliza hii.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u91" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg301">Mheshimiwa Mwenyekiti, hatujafika huko anakozungumzia. Tuko ukurasa wa 10 wa Muswada Kifungu cha 14 sio sehemu ya 14.</seg>
+          <seg xml:id="seg302">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima bila ya</seg>
+          <seg xml:id="seg303">mabadiliko yoyote)</seg>
+          <seg xml:id="seg304">Kifungu cha 26</seg>
+          <seg xml:id="seg305">Kifungu cha 27</seg>
+          <seg xml:id="seg306">(Vifungu vilivyotajwa hapo juu vilipitishwa na Kamati ya Bunge Zima pamoja na</seg>
+          <seg xml:id="seg307">mabadiliko yake)</seg>
+          <seg xml:id="seg308">Kifungu cha 28</seg>
+          <seg xml:id="seg309">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima bila ya mabadiliko</seg>
+          <seg xml:id="seg310">yoyote)</seg>
+          <seg xml:id="seg311">Kifungu cha 29</seg>
+          <seg xml:id="seg312">Kifungu cha 30</seg>
+          <seg xml:id="seg313">(Vifungu vilivyotajwa hapo juu vilipitishwa na Kamati ya Bunge Zima pamoja na</seg>
+          <seg xml:id="seg314">mabadiliko yake)</seg>
+          <seg xml:id="seg315">Kifungu cha 31</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u92" who="MheKabweZZitto">
+          <seg xml:id="seg316">Mheshimiwa Mwenyekiti, naomba asome kwamba Kifungu 31 kina marekebisho yangu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u93" who="Mwenyekiti">
+          <seg xml:id="seg317">Ndiyo tayari Mheshimiwa Kabwe Zitto.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u94" who="MheKabweZZitto">
+          <seg xml:id="seg318">Hajasoma kwa sababu kuna marekebisho yangu kwa hiyo inabidi asome kwamba kuna marekebisho ya Mbunge ili ni move motion na Waheshimiwa Wabunge waunge mkono halafu tuweze kujadili. Ndiyo utaratibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u95" who="Mwenyekiti">
+          <seg xml:id="seg319">Mheshimiwa Mwanasheria Mkuu tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u96" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg320">Mheshimiwa Mwenyekiti, nilikuwa naepuka confrontation kwa sababu ya utaratibu kwamba Mheshimiwa Kabwe Zitto angeleta marekebisho hayo mapema zaidi kuliko alivyofanya ili kusudi tupate nafasi ya kuyaangalia kwa kina zaidi. Sasa kwa hivi walivyoyaleta hapa na wewe mwenyewe ulimwona nilipokuwa nafanya mikono hivi akasema yatakuja. Kwa hiyo, itakuwa vigumu sana ku-deal na hoja yake na sidhani kama iko kwenye utaratibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u97" who="MheKabweZZitto">
+          <seg xml:id="seg321">Mheshimiwa Mwenyekiti, sijatoa hoja ya marekebisho yangu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u98" who="Mwenyekiti">
+          <seg xml:id="seg322">Alikukatalia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u99" who="MheKabweZZitto">
+          <seg xml:id="seg323">Hana Mamlaka ya kukataa Hoja ya Mbunge. Natakiwa nitoe hoja baadaye tuijadili atatoa majibu then tutakubali au tutakataa. Bunge ndilo linalokubali au kukataa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u100" who="Mwenyekiti">
+          <seg xml:id="seg324">Mheshimiwa Kabwe Zitto naomba ukae. Hata na mimi nilikukumbusha kwamba ilionekana kabisa Mwanasheria Mkuu hana marekebisho yako na nikakwambia kwamba ungetumia wakati huu basi ukamfikishia amendment kwa wakati. Lakini sasa sijui ilikuwaje na ndiyo maana alipojibu hapa alikukatalia. Kwa hiyo, naomba tuendelee.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u101" who="MheKabweZZitto">
+          <seg xml:id="seg325">Mheshimiwa Mwenyekiti Taarifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u102" who="Mwenyekiti">
+          <seg xml:id="seg326">Mheshimiwa Kabwe Zitto usisimame kwa sababu nimekunyima nafasi ya kuendelea kwa sababu hujafuata utaratibu. Tuendelee. (Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima bila ya mabadiliko</seg>
+          <seg xml:id="seg327">yoyote)</seg>
+          <seg xml:id="seg328">Kifungu cha 32</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u103" who="MheKabweZZitto">
+          <seg xml:id="seg329">Mheshimiwa Mwenyekiti, napenda sasa kuchukua fursa hii kutoa hoja ya marekebisho yangu ambayo nataka tufanyie mabadiliko kifungu hicho cha 32 haya mazungumzo ya awali yalikuwa si hoja yenyewe. Kwanza Kanuni za Bunge hazielezi ni muda gani ambao Mheshimiwa Mbunge anapaswa kuleta marekebisho. Muda ambao Mheshimiwa Mbunge anazungumza analeta schedule, schedule inajadiliwa, inakubaliwa au kukataliwa. Hilo ni la kwanza.</seg>
+          <seg xml:id="seg330">Mheshimiwa Mwenyekiti, la pili, lazima tujifunze hii nchi imekua. Mwaka kesho nchi yetu inatimiza miaka 50 baada ya Uhuru lazima tujifunze kusikiliza na wengine hata kama hawatoki chama ambacho unatoka. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u104" who="MheKabweZZitto">
+          <seg xml:id="seg331">Ni suala la kukua tu, next year half of the century, miaka 50 baada ya Uhuru. Kuna principle ya proportionality kwa mujibu wa Katiba ambayo ipo ndani ya Katiba ambayo inawafanya Wabunge wa sasa wa Viti Maalum wawemo ndani ya Bunge hili kwa wingi huu tulionao.</seg>
+          <seg xml:id="seg332">Mheshimiwa Mwenyekiti, principle ile ya proportionality marekebisho haya ambayo naya-move sasa Mheshimiwa Mwanasheria Mkuu ina-translate principle ya proportionality ndani ya Katiba. Kuyaweka sasa kwenye Serikali za Mitaa na maana yake ni nini? Maana yake ni kwamba kila kura inayopigwa kwenye uchaguzi, mwananchi anapoenda kumchagua Diwani inakuwa na thamani. Sasa hivi kura ambazo wananchi wanapiga hazina thamani kwa sababu Madiwani wa Viti Maalum wanapatikana kutoka na idadi ya Madiwani ambayo kila chama kinao.</seg>
+          <seg xml:id="seg333">Sasa tunataka kama jinsi ambavyo iko kwenye Bunge hivi sasa kwamba Wabunge wa Viti Maalum watapatikana kutokana na idadi ya kura ambayo kila chama kimepata kwenye uchaguzi wa Wabunge. Principle hiyo hiyo tunaishusha sasa chini kwamba Madiwani wa Viti Maalum wapatikane kutokana na idadi ya kura ambayo kila chama kimepata kwenye uchaguzi wa Madiwani. Ndiyo maana nikasema kwenye mchango wangu kwamba katika hili tulighafilika, hatukufanyia hayo mabadiliko, kwa sababu tulifanya kwenye Katiba. Kwa sababu uchaguzi wa Madiwani haumo ndani ya Katiba, composition ya Madiwani haimo ndani ya Katiba tukachelewa au tukasahau ku-reconcile kwenye Sheria ya Uchaguzi kwa maana ya Sheria Namba 7 na Namba 8 ya Local Government.</seg>
+          <seg xml:id="seg334">Kwa hiyo, anachokifanya Mbunge wa Kigoma Kaskazini sasa hivi ni hiyo reconciliation haihitaji chama chochote cha siasa kwenda kukaa ama Mkutano Mkuu au NEC au Baraza la Mawaziri kwa sababu tayari tumeweka principle ile ndani ya Katiba. Sasa inawezekana kabisa kwamba hoja kama hii angeileta Mbunge wa CCM labda pasingekuwa na mjadala. Lakini kwa sababu hoja hii anaileta Mbunge wa Kambi ya Upinzani inaonekana ni mjadala. Hakuna in feeling, hakuna nia mbaya ni nia tu ya kuhakikisha kwamba…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u105" who="Mwenyekiti">
+          <seg xml:id="seg335">Mheshimiwa Kabwe Zitto nenda kwenye hoja nafikiri Mheshimiwa Mwanasheria ameshaifahamu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u106" who="MheKabweZZitto">
+          <seg xml:id="seg336">Mheshimiwa Mwenyekiti, ndiyo nafafanua hoja, naomba unipe fursa. Nina muda kwa mujibu wa Kanuni hata kama maneno haya ninayosema hayakupendezi mnipe haki tu ya kuyasema, mkikataa, mmekataa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u107" who="Mwenyekiti">
+          <seg xml:id="seg337">Mheshimiwa Mbunge umebakiwa na dakika moja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u108" who="MheKabweZZitto">
+          <seg xml:id="seg338">Mheshimiwa Mwenyekiti, kwa hiyo basi kuna hoja ambayo Mheshimiwa Mwanasheria Mkuu amesema kwamba mabadiliko haya yatapunguza fursa ya vyama kupata Wabunge, ni contrary to that. Mabadiliko haya yataongeza fursa ya vyama kupata Wabunge. Kwa mfano chama kimeweka Madiwani kwenye Halmashauri. Chama kile kimepata asilimia kumi kwa Kata zote zilizoko ndani ya Halmashauri, chukua ziko Kata 12, amepata asilimia kumi maana yake chama hiki…</seg>
+          <seg xml:id="seg339">KUHUSU UTARATIBU</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u109" who="MwanasheriaMkuu">
+          <seg xml:id="seg340">Kuhusu utaratibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u110" who="Mwenyekiti">
+          <seg xml:id="seg341">Kuhusu Utaratibu Mheshimiwa Mwanasheria Mkuu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u111" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg342">Mheshimiwa Mwenyekiti, nadhani kulikwa na objection kwamba marekebisho haya yanayopendekezwa hayakuletwa kwa mujibu wa Kanuni. Tui-solve kwanza hiyo halafu twende kwenye amendments. Kanuni iko wazi na Mheshimiwa Kabwe Zitto ameleta mapendekezo haya chini ya Kanuni ya 86(10). Kanuni hiyo inasomeka kama ifuatavyo:-</seg>
+          <seg xml:id="seg343">„Katika hatua hii iwapo Mtoa Hoja anataka kufanya Marekebisho au Mabadiliko katika Muswada wa Sheria kutokana na ushauri uliotolewa ama katika Kamati au wakati wa Muswada wa Sheria Kusomwa Mara ya Pili au kwa sababu nyingine yoyote iwapo Muswada huo ni wa Serikali atamjulisha Mwandishi wa Mkuu wa Sheria na iwapo Muswada husika ni wa Kamati au binafsi atamjulisha Mshauri Mkuu wa Bunge wa Mambo ya Sheria ili atayarishe na kumkabidhi Katibu ambaye atagawa kwa kila Bunge nakala ya:</seg>
+          <seg xml:id="seg344">(a) Muswada wa Sheria uliochapishwa upya ukiwa na Marekebisho au Mabadiliko yanayokusudiwa kufanyika au Jedwali la Marekebisho au Mabadiliko yanayokusudiwa kufanyika.”</seg>
+          <seg xml:id="seg345">Mheshimiwa Mwenyekiti, hii si Kanuni ambayo Mheshimiwa Kabwe Zitto angeitumia. Kanuni ambayo angeitumia ni Kanuni ndogo ya 11 ambayo inasema; „Kamati au Mbunge anaweza kuwasilisha kwa Katibu kwa maandishi mabadiliko anayoyakusudia kuyafanya katika Muswada huo wakati wa Kamati ya Bunge Zima akionesha bayana mabadiliko yanayokusudiwa kufanyika katika kila Ibara inayohusika.”</seg>
+          <seg xml:id="seg346">Sasa hapa huu mstari hujauvuka, huwezi kwenda mbele. Kwa hiyo, objection hii ni kwamba mabadiliko haya hayajaletwa chini ya utaratibu. Mimi nilijifunza kwamba palipo na wazee wanaonizidi umri huwa sipazi sauti. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u112" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg347">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima pamoja na</seg>
+          <seg xml:id="seg348">mabadiliko yake)</seg>
+          <seg xml:id="seg349">TAARIFA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u113" who="MheKabweZZitto">
+          <seg xml:id="seg350">Mheshimiwa Mwenyekiti, taarifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u114" who="Mwenyekiti">
+          <seg xml:id="seg351">Mheshimiwa Kabwe Zitto, taarifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u115" who="MheKabweZZitto">
+          <seg xml:id="seg352">Mheshimiwa Mwenyekiti, napenda tu kutoa taarifa kwamba taratibu zote zinazotakiwa zilifuatwa, Mshauri wa Sheria wa Bunge ndiye ambaye ameandika mabadiliko haya, Katibu amejulishwa, Wabunge wamegawiwa lakini pale ambapo watu wanaamua kutumia hoja za nguvu kukataa au kupinga jambo ambalo wanalitaka ndivyo inavyokuwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u116" who="Mwenyekiti">
+          <seg xml:id="seg353">Mheshimiwa Kabwe Zitto, naona unatupotezea wakati, kaa chini tuendelee.</seg>
+          <seg xml:id="seg354">Kifungu cha 33</seg>
+          <seg xml:id="seg355">Kifungu cha 34</seg>
+          <seg xml:id="seg356">Kifungu cha 35</seg>
+          <seg xml:id="seg357">(Vifungu villivyotajwa hapo juu vililipitishwa na Kamati ya Bunge Zima bila ya</seg>
+          <seg xml:id="seg358">mabadiliko yoyote)</seg>
+          <seg xml:id="seg359">Kifungu cha 36</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u117" who="MheJohnMCheyo">
+          <seg xml:id="seg360">Mheshimiwa Mwenyekiti, ahsante sana. Mimi niulize kwamba hiki kifungu sasa kitatumika kwenye muhula huu? Kwa sababu tayari Mabaraza yameshavunjwa au itatumika baadaye na kama ni baadaye mimi nashangaa kwa nini imekuja wakati huu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u118" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg361">Mheshimiwa Mwenyekiti, Kifungu hiki kitatumika siku za usoni na sasa hivi kimeletwa kwa sababu Sheria ilivyo sasa haisemi huo muda na sasa tunasema kwamba Waziri atakapofanya mambo yake afanye siku saba kabla ya Bunge kuvunjwa ni siku za usoni. Lakini hakuna hila wala hila. (Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima bila ya mabadiliko</seg>
+          <seg xml:id="seg362">yoyote)</seg>
+          <seg xml:id="seg363">Kifungu cha 37</seg>
+          <seg xml:id="seg364">Kifungu cha 38</seg>
+          <seg xml:id="seg365">Kifungu cha 39</seg>
+          <seg xml:id="seg366">Kifungu cha 40</seg>
+          <seg xml:id="seg367">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima pamoja na</seg>
+          <seg xml:id="seg368">mabadiliko yake)</seg>
+          <seg xml:id="seg369">Sehemu Mpya ya 12</seg>
+          <seg xml:id="seg370">(Sehemu mpya iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge Zima bila mabadiliko</seg>
+          <seg xml:id="seg371">(Sehemu Mpya iliyotajwa hapo juu ilipitishwa na Kamati yaBunge Zima bila mabadiliko</seg>
+          <seg xml:id="seg372">yoyote)</seg>
+          <seg xml:id="seg373">Kifungu cha 45</seg>
+          <seg xml:id="seg374">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima bila ya mabadiliko</seg>
+          <seg xml:id="seg375">yoyote)</seg>
+          <seg xml:id="seg376">Kifungu cha 46</seg>
+          <seg xml:id="seg377">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima pamoja na</seg>
+          <seg xml:id="seg378">marekebisho yake)</seg>
+          <seg xml:id="seg379">Sehemu Mpya ya 15</seg>
+          <seg xml:id="seg380">(Sehemu Mpya iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge Zima bila mabadiliko</seg>
+          <seg xml:id="seg381">yoyote)</seg>
+          <seg xml:id="seg382">Kifungu cha 47</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u119" who="MheRaynaldAMrope">
+          <seg xml:id="seg383">Mheshimiwa Mwenyekiti, nashukuru sana kwa kunipa nafasi hii ili niweze kupata maelezo ya ziada. Katika kifungu hiki EWURA kwa bahati mbaya imechelewesha suala la Artamus na katika kuchelewesha Serikali ya Uholanzi ambayo ilitaka kutoa karibu shilingi bilioni 45 ili kusaidia katika suala zima la</seg>
+          <seg xml:id="seg384">umeme vijijini. Wao kutokana na hilo EWURA waliweka bei ya senti 40 kwa KWH badala ya mapendekezo ya Artamus ya senti 26. Wao waliamua kwamba sasa hawataisaidia tena Tanzania. Sasa kwa kitendo hiki tumekosa shilingi bilioni 45. Sasa nataka kuhakikishiwa na Serikali je, kuna mpango mbadala wa kupata fedha hizi ili umeme vijijini uweze kutozwa kwa shilingi 60,000/= mpaka 80,000/= kama ilivyo katika mradi wa awali au sasa tufanye nini na kwa nini EWURA yenyewe iliyosababisha mambo haya isiwajibishwe kwa kosa hili kwa sababu hili litawaumiza sana watumiaji wa umeme wa Mikoa ya Kusini ya Lindi na Mtwara?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u120" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg385">Mheshimiwa Mwenyekiti, kwanza naomba niseme tu kwamba labda katika hili ambalo Mzee Mrope amelileta precisely mabadiliko haya ya Sheria yaliyofanywa hapa yamelenga kukabiliana na tatizo hili. Tatizo lililokuwepo baina ya Olet ni jambo la mwekezaji Artumas aliyekuwepo pale ambaye kama kawaida unapokuja kufanya utaratibu wa kuja kuwekeza kwenye umeme ni lazima uje na maelezo ambayo huyu regulator anatakiwa ayafanyie kazi na abaini kama kweli katika utoaji wako wa huduma hiyo unayokusudia utafikia yale malengo ambayo yanakusudiwa na sekta yetu ya umeme.</seg>
+          <seg xml:id="seg386">Sasa tulijiwekea hivi vipengele mwaka 2008 mwezi wa nne wakati Sheria hii ilipokuja Bungeni kwa lengo la kutarajia kwamba litaboresha masuala ya usambazaji lakini pia uzalishaji wa umeme na pia kuwezesha sekta binafsi kuwa na ushiriki mkubwa zaidi. Lakini kadri siku zilivyokwenda na utekelezaji na mifano kama hii ya Olet imeonesha wazi kwamba vipengele hivi badala ya kutusaidia kujenga na kuendeleza sekta yetu vilikuwa vinatukwaza. Kwa hiyo, mapendekezo yalipokuwa yanakuja ya kuleta mabadiliko haya ndiyo maana tumefuta Sheria hizi.</seg>
+          <seg xml:id="seg387">Lakini katika maelezo yake alikuwa anataka kujua mambo makubwa matatu, moja ni hili la kuchukua hatua gani kuhusu suala la EWURA na la pili ni kukamilika kwa mradi wenyewe na haya masuala ya tariff methodology na la tatu lilikuwa ni structure ya EWURA. Sasa niseme tu kwamba tumemaliza suala la kisheria hili suala la tariff methodology na kwa nini limekwaza mradi huu kutekelezeka na kufikia hatua kwamba hizo pesa zimepotea kusema kweli kilichofuata hapo kulikuwa na utaratibu wa kufuata ambao kulikuwa na pande zote mbili zilikuwa zinashindwa kuelewana.</seg>
+          <seg xml:id="seg388">Sasa katika misingi hiyo mimi nilisema juzi labda busara haikutumika kuweka msimamo wa taratibu. Kwa hiyo, sisi kama Serikali naamini tutafanya tathimini juu ya hali hii lakini kwa kuwa ule mradi ni ahadi ya Serikali utekelezwe kwa manufaa ya wananchi wa Mtwara na Lindi na maeneo ya mpaka wa Mangaka na kwa sababu gesi iko pale ya kutosha na uwezo wa kuzalisha mpaka Megawatt 30 upo pale unatarajiwa kwamba ka-mini grid haka kanaweza kufika mpaka Tunduru na maeneo yote yale yakapata umeme kupitia maeneo haya.</seg>
+          <seg xml:id="seg389">Mheshimiwa Mwenyekiti, mimi naamini kwamba kwa kuwa mradi wenyewe ulikuwa ni mradi unaoendelea zile shilingi bilioni 41 zilizokuwa zitoke Olet zingesaidia sana kufanya wepesi kwenye ule mradi. Lakini kwa sababu haya matatizo ya kiutaratibu yametokea hapo mimi naomba hapo niseme kama alivyosema Waziri wa Nishati na</seg>
+          <seg xml:id="seg390">Madini kwamba bado mradi huu lazima utekelezwe katika hatua zake zote mpaka tufike maeneo ya Nachingwea kwa Mheshimiwa Chikawe mpaka Mangaka kwa Mheshimiwa Mkapa mpaka Tunduru. Kwa hiyo, utekelezaji wa mradi huo bado unaendelea na utatekelezwa kulingana na mipango ya Serikali na ahadi zake kwa wananchi wa Lindi na Mtwara.</seg>
+          <seg xml:id="seg391">Mheshimiwa Mwenyekiti, hili lingine la structure ya EWURA kwa sasa hivi EWURA imeanzishwa Kisheria kwamba ni Mamlaka ya Maji na Nishati. Lakini kwa nchi zingine kuna Mamlaka ya Maji, kuna Mamlaka ya Nishati zikiwa tofauti. Kwa hiyo, mimi naamua hilo, nafikiri hilo ni suala ambalo linaweza likaja Bungeni likajadiliwa. Lakini kwa sasa hivi kwa kuridhia Bunge hili kuondoa vipengele hivi vya kisheria ninaamini kwamba sekta ya umeme itapata unafuu mkubwa katika malengo yake ya awali ya usambazaji na uzalishaji wa sekta binafsi.</seg>
+          <seg xml:id="seg392">Mheshimiwa Mwenyekiti, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u121" who="Mwenyekiti">
+          <seg xml:id="seg393">Ahsante sana Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u122" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg394">Mheshimiwa Mwenyekiti, namshukuru sana Mheshimiwa Waziri Adam Malima. Naomba kufanya mabadiliko kwenye part ambayo imeandikwa kwa makosa kama Part 14 isomeke kama roman fifteen.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u123" who="Mwenyekiti">
+          <seg xml:id="seg395">Ahsante sana Mheshimiwa Mwanasheria Mkuu wa Serikali. Ilishafanyika huku mezani ilikuwa tayari imeshakaa sawa hiyo. (Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge Zima bila ya mabadiliko</seg>
+          <seg xml:id="seg396">yoyote)</seg>
+          <seg xml:id="seg397">Kifungu cha 48</seg>
+          <seg xml:id="seg398">(Kifungu kilichotajwa hapo juu kilipitishwa na Kamati ya Bunge pamoja na marekebisho</seg>
+          <seg xml:id="seg399">yake)</seg>
+        </u>
+        <note>(Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u124" who="Mwenyekiti">
+          <seg xml:id="seg400">Muswada wa Sheria ya Marekebisho ya Sheria Mbalimbali wa mwaka 2010 (The</seg>
+          <seg xml:id="seg401">Written Laws (Miscellaneous Amendments) No. 3, 2010)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u125" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg402">Mheshimiwa Mwenyekiti, naomba kutoa taarifa kuwa Kamati ya Bunge Zima imeupitia Muswada wa Sheria ya Mabadiliko ya Sheria Mbalimbali Na. 3 wa mwaka 2010 yaani The Written Laws Miscellaneous Amendments No. 3 of 2010 kifungu kwa kifungu na kuukubali pamoja na mabadiliko yake.</seg>
+          <seg xml:id="seg403">Mheshimiwa Mwenyekiti, naomba kutoa hoja kwamba Muswada wa Sheria ya Mabadiliko ya Sheria Mbalimbali Na. 3 wa mwaka 2010 yaani The Written Laws Miscellaneous Amendments Na. 3 of 2010 kama ulivyorekebishwa sasa ukubaliwe.</seg>
+          <seg xml:id="seg404">Mheshimiwa Mwenyekiti, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u126" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg405">Mheshimiwa Mwenyekiti, naafiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u127" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg406">Hoja ilitolewa iamuliwe)</seg>
+        </u>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <note>(Muswada wa Sheria ya Serikali Ulisomwa Mara ya Tatu na Kupitishwa)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u128" who="Mwenyekiti">
+          <seg xml:id="seg407">Waheshimiwa Wabunge, kwa hiyo, Muswada huu sasa utawasilishwa kwa Mheshimiwa Rais ili sasa ukamilike kwa hatua ya kusainiwa na Mheshimiwa Rais. Ahsante sana Katibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u129" who="Mwenyekiti">
+          <seg xml:id="seg408">Kwa hiyo, sasa utaratibu umekamilika rasmi kwa kuwa Muswada umeshasomwa kwa mara ya tatu. Napenda nichukue nafasi hii kukupongeza Mheshimiwa Mwanasheria Mkuu wa Serikali kwa namna ulivyowasilisha na namna ulivyoweza kujibu masuala ya Waheshimiwa Wabunge mbalimbali ambayo yamejitokeza katika mabadiliko haya ya Sheria Ndogo Ndogo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u130" who="Mwenyekiti">
+          <seg xml:id="seg409">Waheshimiwa Wabunge, nina matangazo mawili, tangazo la mwanzo ni kukujulisheni kwamba kesho siku ya Alhamisi hatutakuwa na maswali kwa Mheshimiwa Waziri Mkuu ingawa naona Mheshimiwa Waziri Mkuu mnamwona hapo, lakini kuna mawasiliano ambayo Spika tayari ameshayafanya pamoja na Mheshimiwa Waziri Mkuu, hakutakuwa na kipindi cha maswali kwa Mheshimiwa Waziri Mkuu. Kwa hiyo, tutaendelea na utaratibu tu wa kawaida.</seg>
+          <seg xml:id="seg410">Tangazo lingine, ni kwamba kuna uzinduzi wa Chuo Kikuu cha Dodoma ambao ulikuwa umepangwa ufanyike tarehe 15 Julai, 2010 na Mheshimiwa Jakaya Mrisho Kikwete, Rais wa Jamhuri ya Muungano wa Tanzania alitarajiw akuwa mgeni rasmi.Napenda kuwatangazia kuwa uzinduzi huo umeahirishwa mpaka tarehe 16 Novemba, 2010.</seg>
+          <seg xml:id="seg411">Naomba Waheshimiwa Wabunge nikupeni taarifa hiyo ili muweze kujipanga kuhudhuria. Mtajulishwa muda na saa, mimi nimeambiwa niahirishe ile tarehe tu kutoka 15 Julai, kwenda 16 Novemba, 2010 lakini Mheshimiwa Profesa Jumanne Maghembe, Waziri wa Elimu na Mafunzo ya Ufundi atakujulisheni muda unaohusika. Ni mwezi wa kumi na moja imeandikwa hapa Waheshimiwa Wabunge. Ndiyo mambo mengine yote mtajulishwa na mwenyewe, Mheshimiwa Waziri wa Elimu.</seg>
+          <seg xml:id="seg412">Napenda pia kuchukua nafasi hii kuwajulisha Waheshimiwa Wajumbe wote wa CCM kwamba kuna kikao leo tarehe 14 Julai, 2010 mara baada ya kuahirishwa kwa kikao hiki cha sasa hivi na kikao hicho kiko katika Ukumbi wa Pius Msekwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u131" who="Mwenyekiti">
+          <seg xml:id="seg413">Waheshimiwa Wabunge, kwa kuwa shughuli ambazo zimepangwa kwenye Order Paper ya leo zimekamilika, napenda sasa kuchukua nafasi hii kwa kuwa hatutakuwa na kikao cha Bunge cha jioni saa 11.00, niahirishe Bunge mpaka kesho saa tatu barabara asubuhi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-07-14-bunge-20-30.u132" who="Mwenyekiti">
+          <seg xml:id="seg414">(Saa 6.45 mchana Bunge liliahirishwa mpaka siku ya Alhamisi,</seg>
+          <seg xml:id="seg415">Tarehe 15 Julai, 2010 saa tatu asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

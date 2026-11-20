@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2012-06-12) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2012-06-12) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="1">1. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="8">8. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1462517334-HS-8-1-2012.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2012-06-12">12.06.2012</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 1. Wananchi Wengi Kutojitokeza Kupiga Kura</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u1">
+          <seg xml:id="seg1">Kwenye Chaguzi Nchini</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u2" who="MhePaulinePGekul">
+          <seg xml:id="seg2">Uzoefu umeonesha kuwa Watanzania walio wengi hawakujitokeza kupiga kura kwenye chaguzi mbalimbali zilizopita licha ya kujiandikisha katika Daftari la Kudumu la Wapiga Kura:-</seg>
+          <seg xml:id="seg3">(a) Je, Serikali imefanya utafiti juu ya tatizo hilo?</seg>
+          <seg xml:id="seg4">(b) Je, kwa nini Serikali inawanyima haki ya kupiga kura wananchi ambao wamepoteza vitambulisho vyao vya kupiga kura ilhali majina na picha zao zipo kwenye Daftari la Kudumu la Wapiga Kura?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u3" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg5">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, napenda kujibu swali la Mheshimiwa Pauline Philipo Gekul, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg6">(a) Mheshimiwa Spika, Serikali kupitia Tume ya Taifa ya Uchaguzi na kwa kushirikiana na Washirika wetu wa Maendeleo, imefanya tafiti kwa kuzitumia Taasisi za REDET na Chama cha Wanasheria Nchini (Tanganyika Law Society), kujua sababu zilizowasababisha Watanzania wengi kutojitokeza kupiga kura licha ya kujiandikisha katika Daftari la Kudumu la Wapiga Kura. Hivi sasa Tume ya Taifa ya Uchaguzi inaendelea na uchambuzi wa taarifa na kuainisha mikakati ya kushughulikia kasoro hizo katika chaguzi zijazo.</seg>
+          <seg xml:id="seg7">(b) Mheshimiwa Spika, Kifungu cha 61(3)(a) cha Sheria ya Taifa ya Uchaguzi, Sura ya 343, iliyopitishwa na Bunge hili, inaelekeza kwamba ili mtu aruhusiwe kupiga kura ni lazima amridhishe msimamizi wa kituo cha kupigia kura kuwa yeye ni mpiga kura aliyeandikishwa kwa mujibu wa sheria.</seg>
+          <seg xml:id="seg8">Katika mazingira ya sasa kadi ya mpiga kura ndiyo uthibitisho kuwa mtu anayetaka kupiga ndiyo yule aliyeandikishwa katika Daftari la Kudumu la Wapiga Kura. Hata hivyo, Serikali imeona changamoto iliyopo katika utaratibu huu na kwa sasa inashirikiana na Tume ya Taifa ya Uchaguzi ili kuweka mfumo utakaowezesha wananchi wasio na vitambulisho lakini wapo kwenye Daftari la Wapiga Kura waweze kupiga kura. Tunaamini Vitambulisho vya Taifa navyo vitaondoa tatizo ambapo tunaamini hadi mwaka 2015 kila mtu mwenye umri wa miaka kumi na nane na kuendelea atakuwa na kitambulisho.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u4" who="MhePaulinePGekul">
+          <seg xml:id="seg9">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niulize maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg10">(i) Kwa kuwa uzoefu umejionesha katika Chaguzi Kuu zilizopita kwamba Serikali imekuwa ikitoa muda mfupi sana wakati wa kuboresha Daftari la Wapiga Kura mfano Uchaguzi wa 2010 Serikali ilitoa wiki mbili tu kwa ajili ya kuboresha daftari hilo, kitu ambacho kilisababisha wananchi wengi wasiingie katika Daftari hilo. Je, Serikali sasa katika chaguzi zinazofuata imejipanga kutenga muda kiasi gani ili zoezi hilo liweze kufanyika kwa uwazi?</seg>
+          <seg xml:id="seg11">(ii) Kwa kuwa zoezi la kuboresha Daftari la Wapiga Kura kimsingi lilitakiwa liwe la kudumu; je, Serikali haioni kwamba ni busara kuwa na afisa atakayeshughulikia zoezi hilo katika ngazi ya Halmashauri zote ili kuhakikisha wale wanaofikia umri wa kupiga kura, wanaofariki na wanaohama kutoka kituo kimoja kwenda kingine kumbukumbu zao zinaingia katika Daftari hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u5" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg12">Mheshimiwa Spika, ni kweli kwamba, wakati wa uandikishaji tulitoa wiki mbili, hatuwezi kusema muda ulikuwa mfupi au mrefu lakini tulitoa wiki mbili ambazo zilitosha. Unaweza kuweka hata miezi mitatu lakini kama hakuna waandikishwaji inakuwa muda hauna maana. Muda huu tuliouweka ulitosha kuandikisha wapiga kura wote waliotakiwa, isipokuwa katika mikoa fulani kama Dar es Salaam ambapo tuliongeza muda kutokana na uwingi wa mahitaji. Kwa hiyo, muda huwa unakadiriwa kutokana na idadi ya mahitaji yaliyopo.</seg>
+          <seg xml:id="seg13">Kwa mujibu wa Sheria, suala la urekebishaji na uandikishaji wa Daftari la Wapiga Kura limepangwa mara mbili katika kipindi cha miaka mitano. Kwa hiyo, tunatarajia kabla ya uchaguzi ujao tunaweza tukafanya zoezi hili tena kwa sababu uandikishwaji ni zoezi la kisheria. Endapo hayo anayoyasema Mheshimiwa Mbunge, angependa yatekelezwe kwa sasa ni vigumu kwa sababu Sheria inataka Daftari liandikishwe au lirekebishwe kwa utaratibu uliopo mara mbili katika kipindi cha miaka mitano kati ya uchaguzi mmoja na uchaguzi mwingine.</seg>
+          <seg xml:id="seg14">Mheshimiwa Spika, niruhusu nitoe takwimu na uzoefu ambao umesababisha takwimu mbalimbali za wapiga kura kutokujitokeza kama alivyouliza Mheshimiwa Gekul katika miaka iliyopita. Kwa mfano, mwaka 1995 wapiga kura walikuwa asilimia 76.6, 2005 asilimia 72.4, 2010 asilimia 42.8 na Arumeru ni asilimia 33. Ninasema tu ingawa hakuuliza lakini tujikumbushe wakati tunatafakari kujua kwa nini kila mwaka wananchi wanaendelea kushuka.</seg>
+          <seg xml:id="seg15">Vilevile siyo Tanzania tu, hata wenzetu walioendelea mfano Marekani, wapiga kura kadiri miaka inavyoendelea wanazidi kushuka. Kati ya mwaka 1960 na 2008, uzoefu unaonesha hata Marekani, wapiga kura walikuwa kati ya asilimia 49 mpaka asilimia 63 lakini uchaguzi wa 2002 wapiga kura walikuwa asilimia 39. Kwa hiyo, wakati tunatafakari sababu za watu kushuka, vilevile tuzingatie takwimu hizi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u6" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg16">Mheshimiwa Spika, nashukuru kwa kunipatia nafasi ya kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg17">Kwa kuwa Tanzania ni Mwanachama wa SADC; na kwa kuwa moja ya mafanikio makubwa ya SADC ni katika kutengeneza Sheria na Taratibu za Uchaguzi. Moja kati ya mambo ambayo yamo ni kwamba mtu ambaye hajatimiza umri anaandikishwa in advance ikiwa tu baada ya miaka miwili au mitatu atatimiza umri wa kupiga kura, kwa hiyo, mapema sana na Tanzania hilo haijalifuata mpaka leo.</seg>
+          <seg xml:id="seg18">Je, lini Tanzania itakuwa ni moja ya nchi ambayo inatekeleza Sheria na Taratibu za Uchaguzi za SADC ambazo zimetengenezwa na kuzikubali?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u7" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg19">Mheshimiwa Spika, ni kweli Tume ya Uchaguzi inapitia mapendekezo kadhaa ili kulinganisha baadhi ya Sheria za Uchaguzi. Kama tunavyojua, sasa hivi wanachechemea kidogo kwa sababu wanasubiri marekebisho ambayo tunatarajia yanaweza kuwepo vilevile baada ya zoezi la Katiba Mpya kukamilika. Haya yapo tusubiri wakati ukifika tutafanya marekebisho yote kwa jumla.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u8" who="MheSabreenaHSungura">
+          <seg xml:id="seg20">Mheshimiwa Spika, ahsante. Kwa kuwa kuna tatizo hili la wananchi wengi kutokwenda kupiga kura wakati wakiwa tayari wamepoteza vitambulisho vyao. Je, Serikali haioni kwamba tuna haja ya kutumia mfumo mpya wa kisasa na kisayansi wa biometric voters registration kama wenzetu wa Ghana ili kuweza kukabiliana na tatizo hili kwa sababu katika mfumo huo wananchi wanakuwa registered kwa kutumia finger prints ama unique features zote ambazo wanazo katika miili yao; hii inaepusha tatizo la watu kupiga kura wakiwa hawana vitambulisho?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u9" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg21">Mheshimiwa Spika, kama nilivyojibu swali la nyongeza, Tume ya Uchaguzi na Serikali tunajiandaa kufanya marekebisho ya sheria na utaratibu na ndiyo maana sasa hivi Tume ya Uchaguzi inafanya tathmini kadhaa zilizofanywa na taasisi mbalimbali ili kujua maboresho gani yanatakiwa ikiwa ni pamoja na maboresho ya daftari ili kwenda katika teknolojia anayosema Mheshimiwa Sabreena. Kwa hiyo, haya yote yatazingatiwa katika zoezi hili linalofanyika sasa hivi la tathmini lakini na zoezi zima la marekebisho ya sheria na utaratibu la uandikishaji wa Daftari la Kupiga Kura.</seg>
+        </u>
+        <note>Na. 2. Uhaba wa Maji Mkoa Mpya wa Katavi</note>
+        <note>(K.n.y. MHE. DKT. PUDENCIANA W. KIKWEMBE)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u10" who="MheAndrewJChenge">
+          <seg xml:id="seg22">Mkoa Mpya wa Katavi unakabiliwa na uhaba mkubwa wa maji safi ya kunywa katika Kata za Kansansa, Mamba, Manga, Majimoto, Mihumba, Ikola na Karema:-</seg>
+          <seg xml:id="seg23">Je, Serikali ina mipango gani mahususi ya kuwapatia wananchi wa maeneo hayo maji ya kunywa ya uhakika kwa kipindi cha mwaka mzima?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u11" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg24">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu la Mheshimiwa Dkt. Pudenciana Wilfred Kikwembe, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg25">Mheshimiwa Spika, katika Kata za Kasansa, Mamba, Majimoto, Ikola na Karema na Vijiji vya Manga na Mirumba vilivyopo katika Wilaya ya Mpanda vina jumla ya wakazi wapatao 79,667. Kati ya hao wananchi 19,317 ndiyo wanaopata huduma ya maji safi na salama ambao ni sawa na asilimia 24 tu.</seg>
+          <seg xml:id="seg26">Mheshimiwa Spika, wananchi hawa hupata maji kutoka kwenye mifumo mbalimbali ikiwemo miradi ya maji ya mserereko, visima virefu na vifupi vilivyofungwa katika pampu za mikono na chemchemi zinazoendelezwa.</seg>
+          <seg xml:id="seg27">Mheshimiwa Spika, kwa kutambua tatizo la maji katika Kata hizo, Serikali katika Bajeti ya 2011/2012 imetenga na kupeleka kiasi cha shilingi 357,888,220 katika Halmashauri ya Wilaya ya Mpanda kwa ajili ya ujenzi wa miundombinu ya maji katika Vijiji vya Ikola. Ujenzi wa miundombinu wa Mradi huu unatarajiwa kuanza mwishoni mwa mwezi Juni, 2012 baada ya kusaini mkataba na mkandarasi aliyepatikana. Aidha, katika bajeti ya mwaka 2013, jumla ya shilingi 309,318,178 zimetengwa kwa ajili ya ujenzi wa Mradi wa Maji katika Kijiji cha Majimoto. Hata hivyo, Halmashauri kupitia vyanzo vyake vya ndani vya mapato, imetenga shilingi 15,000,000 kwa ajili ya uchimbaji wa visima vitatu vifupi katika Vijiji vya Manga na Mirumba kwa Mwaka wa Fedha wa 2012/2013.</seg>
+          <seg xml:id="seg28">Mheshimiwa Spika, maeneo yaliyobaki yenye upungufu wa huduma za maji ya Iziwasungu, Kilida, Mamba, Majimoto, Mchangani, Isengule na Karema, yataendelea kujengewa miundombinu ya maji kwa kadiri rasilimali fedha zitakapokuwa zinapatikana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u12" who="MheAndrewJChenge">
+          <seg xml:id="seg29">Mheshimiwa Spika, nakushukuru sana. Kwa kuwa tatizo la uhaba mkubwa wa maji katika Mkoa wa Mpya wa Katavi linafanana sana na mahitaji makubwa ya maji katika Mkoa Mpya wa Simuyu hasa katika Makao Makuu ya Mkoa wa Bariadi. Je, Waziri anaweza akaliambia Bunge lako kwamba Serikali ina mpango gani wa muda mfupi na wa kati kukabiliana na tatizo hilo la uhaba wa maji katika Mji wa Bariadi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u13" who="Spika">
+          <seg xml:id="seg30">Pia na Mkoa Mpya wa Njombe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u14" who="WaziriWaMaji">
+          <seg xml:id="seg31">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kujibu swali la nyongeza la Mheshimiwa John Chenge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg32">Mheshimiwa Spika, baada ya Mji wa Bariadi kutangazwa kama Mji Mkuu wa Mkoa wa Simuyu, Wizara yangu ilituma wataalam katika Mji huo kufanya tathmini ya mahitaji ya maji ya muda mfupi, wa kati na mrefu ili kuhakikisha kwamba Mradi wa Maji kwa ajili ya mahitaji ambayo yataongezeka unaweza kuanza kujengwa. Katika hatua ya kwanza, usanifu wa Mradi mzima unafanywa sasa na hatua zinachukuliwa kwa ajili ya upatikanaji wa maji katika muda mfupi. Ninapenda kumhakikishia Mheshimiwa Mbunge kwamba, Serikali imejiandaa vizuri kuupatia Mji huo maji salama.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u15" who="MheJumaANjwayo">
+          <seg xml:id="seg33">Mheshimiwa Spika, ahsante kwa kuniona. Kwa kuwa swali la msingi linaongelea matatizo ya maji na kwa sababu tatizo hili linafanana kabisa na tatizo lililopo katika Uwanda wa Makonde kwa maana ya Tandahimba, Newala na Mtwara Vijijini; na kwa kuwa Ilani ya Chama cha Mapinduzi ilisema suala la kufanya ukarabati mkubwa katika Mradi ulioko kwenye maeneo hayo na kwa sababu upembuzi yakinifu tayari umekamilika:-</seg>
+          <seg xml:id="seg34">Je, Serikali inaweza kutuambia ukarabati wa Mradi huo utaanza lini? I mean kumaliza tatizo hili la maji kwa kuanza kufanya ukarabati kwenye Mradi huo utaanza lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u16" who="Spika">
+          <seg xml:id="seg35">Ninyi hamwoni Mawaziri wengine ni wapya mnawashagiza shagiza! Mheshimiwa Naibu Waziri, unaweza kujibu nafikiri unalifahamu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u17" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg36">Mheshimiwa Spika, tumekuwa na matatizo haya kwenye Miradi ya Maji katika nchi nzima ambayo yamejitokeza lakini sasa hivi tume-rectify situation hiyo na Mheshimiwa Waziri wa Maji atakapozungumza, ataelezea vizuri zaidi. Miradi yote ambayo tumeiingiza katika quick wins na ile ambayo ina-fall under World Bank, yote sasa hivi tunajaribu kuona ule urasimu ambao ulikuwa unajitokeza usiwepo tena.</seg>
+          <seg xml:id="seg37">Ninajua anachosema Mheshimiwa ni kwamba, feasibility study imeshafanyika na kila kitu kimeshafanyika, nitakwenda deep into huu Mradi anaouzungumzia hapa ili kuweza kujua status yake na ili niweze kumwarifu Mheshimiwa Mbunge.</seg>
+        </u>
+        <note>Na. 3. Mipaka ya Kiutendaji Kati ya Serikali Kuu na Serikali za Mitaa</note>
+        <note>(K.n.y. MHE. SYLVESTER MHOJA KASULUMBAYI)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u18" who="MheRoseKamiliSukum">
+          <seg xml:id="seg38">Kwa mujibu wa Sheria na Kanuni husika, Watendaji wa Vijiji, Vitongoji na Mitaa kiutendaji wanawajibika kwa Mkurugenzi wa Wilaya:-</seg>
+          <seg xml:id="seg39">(a) Je, inakuwaje Mkuu wa Mkoa/Wilaya ambo kiutendaji ni Watumishi wa Serikali Kuu wanatoa amri kwa Watendaji walio chini ya Mkurugenzi wa Wilaya kuhamisha wananchi katika maeneo yao?</seg>
+          <seg xml:id="seg40">(b) Je, mpaka wa madaraka kati ya Serikali za Mitaa na Serikali Kuu unaanzia na kuishia wapi kiutendaji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u19" who="NaibuWaziriTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg41">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Sylvester Mhoja Kasulumbayi, Mbunge wa Maswa, lenye sehemu (a) na (b), kama ifuatavyo:-</seg>
+          <seg xml:id="seg42">(a) Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kwamba, kwa mujibu wa Sheria zilizopo, Watendaji wa Vijiji na Mitaa wanawajibika kwa Mkurugenzi wa Halmashauri.</seg>
+          <seg xml:id="seg43">Mheshimiwa Spika, Mkuu wa Mkoa kwa mujibu wa Sheria ya Tawala za Mikoa (Na.19) ya Mwaka 1997, katika vifungu namba (5), (6) na (7), ana wajibu wa kusimamia kazi na shughuli zote za Serikali katika Mkoa ikiwa ni pamoja na kuziwezesha Mamlaka za Serikali za Mitaa kutekeleza majukumu yao kwa ufanisi kwa kuzingatia Sheria, Kanuni na Taratibu zilizotungwa na Bunge. Aidha, majukumu ya Mkuu wa Wilaya yametajwa katika Kifungu Na. 14 (1) – (3) cha Sheria ya Tawala za Mikoa (Na. 19) ya Mwaka 1997 kwamba yeye ndiye Msimamizi Mkuu wa shughuli za Serikali katika Wilaya yake. Hivyo, madaraka ya jumla ya Mkuu wa Wilaya yanatiririshwa kutoka kwa Mheshimiwa Rais kupitia kwa Mkuu wa Mkoa. Kwa upande wa Watendaji walio chini ya Mkurugenzi wa Halmashauri, wao ni watekelezaji wa shughuli za Serikali kwa kuzingatia Sheria, Kanuni na Taratibu zilizopo.</seg>
+          <seg xml:id="seg44">(b) Mheshimiwa Spika, mipaka ya madaraka kati ya Serikali za Mitaa na Serikali Kuu imeainishwa katika Sheria za Mamlaka za Serikali za Mitaa na Sheria ya Tawala za Mikoa (Na. 19) ya Mwaka 1997. Kwa kuzingatia Sheria hizo ni kwamba, Mkuu wa Mkoa/Wilaya anaruhusiwa kuingilia kati inapotokea Mamlaka za Serikali za Mitaa zimeshindwa kutekeleza majukumu yao au kukiuka misingi ya Sera na Sheria zilizopo. Aidha, Mkuu wa Mkoa/Wilaya haruhusiwi kwa mujibu wa Sheria kuingilia utendaji kazi wa Mamlaka za Serikali za Mitaa yaani ikiwa zinatekelezwa majukumu yao kwa kuzingatia Sera, Sheria, Kanuni na Miongozo iliyowekwa na Serikali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u20" who="MheRoseKamiliSukum">
+          <seg xml:id="seg45">Mheshimiwa Spika, ahsante sana kwa kunipa fursa hii. Nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg46">(i) Kwa nini Wakuu wa Wilaya mara nyingi hutoa amri na amri yao ni ya vitisho kwa kuwahamisha wananchi kwenye maeneo yao hususan Maswa walitoa amri kuwahamisha wananchi eti kwa sababu hawatekelezi wajibu wao kisera na wananchi hao kama 27 hutishiwa na kuvunjiwa nyumba zao na kuchomewa moto. Pia wananchi wengine waliopata matatizo hi wafugaji ambao huhamishwa kiholela kwa amri ya Wakuu wa Wilaya mwisho wanatangatanga nchi nzima.</seg>
+          <seg xml:id="seg47">Je, hili suala ni sahihi kwa Wakuu wa Wilaya kutumia kauli za vitisho?</seg>
+          <seg xml:id="seg48">(ii) Je, inakuwaje Wakuu wa Wilaya wawakamate Watendaji na kuwaweka ndani au kuwaweka lockup mahabusu kwa zaidi ya siku saba eti kwa sababu hawajakusanya mbuzi tisa kwa ajili ya kumzawadia Waziri Mkuu? Hayo yametokea Maswa mwezi Februari, 2012. Je, na hilo ni sahihi?</seg>
+          <seg xml:id="seg49">Mheshimiwa Spika, ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u21" who="Spika">
+          <seg xml:id="seg50">Mheshimiwa Naibu Waziri majibu lakini maneno yako ni mazito!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u22" who="NaibuWaziriTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg51">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Rose Kamili Sukum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg52">Mheshimiwa Spika, labda la kwanza kabisa niseme kwamba, Mkuu wa Mkoa na Mkuu wa Wilaya ni msimamizi wa shughuli zote za Serikali katika Halmashauri au katika Wilaya au katika Mkoa including Local Government. Ikitokea purukushani halafu amani inatoweka basi Mkuu wa Mkoa na Mkuu wa Wilaya hawawezi kukaa pembeni wakasema kwamba hili halinihusu bali linaihusu Halmashauri. Mkuu wa Mkoa must be seen to be on top of business, anakaa pale anaona purukushani imetokea pale ataingilia kati.</seg>
+          <seg xml:id="seg53">Mheshimiwa Spika, sasa kuhusu hili la Maswa ambalo linazungumzwa hapa, hili si mara ya kwanza kuja hapa; lilipotokea hapa Mheshimiwa Mkuchika aliondoka hapa akaenda mpaka Maswa wakati huo akiwa Waziri wa Nchi katika Ofisi ya Waziri Mkuu. Akalipitia jambo hili na kuangalia watu ambao walikuwa wameingia katika WMA, akaangalia utaratibu uliotumika pale, vijiji vilivyopo pale ni saba na vyote viliafikiana kwamba wanataka utaratibu wa mwekezaji kuingia katika lile eneo. Waka-resolve ile problem na Mheshimiwa Mkuchika akaenda pale, wakazungumza wakakubaliana kwamba wale waliopo katika WMA waondoke. Baadaye jambo hili likajitokeza wakati Mheshimiwa Waziri Mkuu alipokwenda pale lakini nalo likatolewa maelezo na kuelezwa jinsi ilivyokwenda na baadaye ikatoka rai ya Serikali kuwataka wananchi wote walioingia katika eneo lile wasifanye hivyo.</seg>
+          <seg xml:id="seg54">Kwamba nyumba zilichomwa na kadhalika, vyote viliingia katika Ripoti ya Mheshimiwa Mkuchika, ikaonekana kwamba wananchi wenyewe walilalamika ni kwa nini jambo lile lilizungumzwa kwa sura hiyo na haikuwa hivyo ilivyotokea.</seg>
+          <seg xml:id="seg55">Hili linalozungumzwa sasa la Mkuu wa Wilaya eti amemkamata mtu amemuweka ndani kwa sababu hakutoa Mbuzi, hii ni allegation ambayo nataka niseme hapa kwamba, tutataka sasa Mheshimiwa Mbunge atupe ushahidi kuhusu jambo hili kwa sababu hatuna taarifa yoyote ya namna hiyo na be sure kwamba sisi tuta-cooperate. Hili ni jambo ambalo linakuja hapa ambalo sisi hatuna taarifa yoyote na hakuna maelekezo yoyote yalliyowahi kutolewa kwa Mtendaji yeyote wa Serikali kwamba wewe ukiacha kutoa, hatuna utaratibu wa namna hiyo na hakuna kitu cha namna hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u23" who="NaibuWaziriTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg56">Kwa hiyo, tunamwomba kama anao ushahidi atuletee.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u24" who="Spika">
+          <seg xml:id="seg57">Mheshimiwa Rose Kamili unaweza kuleta ushahidi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u25" who="MheRoseKamiliSukum">
+          <seg xml:id="seg58">Mheshimiwa Spika, ushahidi upo hata kwenye TV walionesha alivyopewa ng’ombe tisa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u26" who="Spika">
+          <seg xml:id="seg59">Hapana, Waheshimiwa Wabunge huwa tunakuwa na matatizo ya kutoa allegation moja halafu ukakwepea huku.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u27" who="MbungeFulani">
+          <seg xml:id="seg60">Sawa sawa!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u28" who="Spika">
+          <seg xml:id="seg61">Tunayo Hansard, unasema kwamba DC mmoja aliagizwa kuleta mbuzi tisa kwa ajili ya Waziri Mkuu, siyo kwamba uliona kwenye TV hiyo; mbona hizi huwa zinatolewa tu! Naomba tuweke sawa Hansard iwe sawa, msianze kusema tuliona kwenye TV, huo siyo ushahidi wa kutosha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u29" who="MheFelixFrancisMkosamali">
+          <seg xml:id="seg62">Mheshimiwa Spika, nashukuru kwa kuniona. Nina swali la nyongeza.</seg>
+          <seg xml:id="seg63">Kwa nini Watendaji wa Vijiji na Kata wamekuwa miunguwatu kutokana na TAMISEMI kushindwa kuitisha Chaguzi za Vijiji; kuna vijiji vingi sana nchi hii havina Viongozi wa Vijiji zaidi ya miaka miwili; kwa nini tumekuwa hatutoi kipaumbele kwenye Chaguzi za Vijiji kama tunavyotoa kwenye Uchaguzi wa Wabunge na Madiwani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u30" who="NaibuWaziriTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg64">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mkosamali kama ifuatavyo:-</seg>
+          <seg xml:id="seg65">Mheshimiwa Spika, chaguzi za nchi nzima zinavyotokea huwa zinatangazwa katika taratibu zilizowekwa za kisheria. Mheshimiwa Mkosamali anasema kwamba, kuna vijiji imetokea Mwenyekiti amefariki dunia au ameondolewa kwa njia moja au nyingine yoyote ambayo imesababisha jambo hilo, itakuwa ni vizuri akatupatia taarifa hiyo ili tuweze kuifanyia kazi na kuhakikisha kwamba tunaitisha uchaguzi mdogo katika eneo lile.</seg>
+          <seg xml:id="seg66">Wakati mwingine unaweza kukuta purukushani iliyotokea pale ime-involve kwenda Mahakamani na vitu vingine unaweza kukuta imebaki hivyo; it is a bit hypothetical siwezi kujua ni nini kilichotokea pale. Naomba nimhakikishie rafiki yangu Mheshimiwa Mkosamali kwamba, kama yeye anavyo vijiji na wengine wote ambao mna vijiji ambavyo vinaonekana vipo wazi, tuleteeni halafu tutaweka utaratibu unaotambulika kisheria ili tuweze kufanya uchaguzi huo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 4. Kusuasua kwa Ujenzi wa Barabara – Tabora</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u31" who="MheIsmailAdenRage">
+          <seg xml:id="seg67">(a) Je, kwa nini ujenzi wa Barabara za Tabora/Nzega – Tabora, Tabora – Manyoni – Tabora na Tabora – Urambo – Tabora unasuasua?</seg>
+          <seg xml:id="seg68">(b) Je, Serikali inaweza kuwahakikishia Wananchi wa Mkoa wa Tabora kwamba na wao watapata barabara za lami?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u32" who="Spika">
+          <seg xml:id="seg69">Mheshimiwa Naibu Waziri, lakini kwanza kabisa nichukue nafasi kuwapongeza Mawaziri wote waliochaguliwa na tunawategemea watafanya kazi zao kwa uadilifu, kwa bidii na kwa mtazamo mzuri. Kwa hiyo, nawapongeza sana. Karibu Naibu Waziri, ujibu swali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u33" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg70">Mheshimiwa Spika, kwa niaba ya Waziri wa Ujenzi, naomba kujibu swali la Mheshimiwa Ismail Aden Rage, Mbunge wa Tabora Mjini, lenye vipengele (a) na (b), kwa pamoja kama</seg>
+          <seg xml:id="seg71">Katika Mkoa wa Tabora, Serikali inatekeleza Miradi ya Barabara kwa kiwango cha lami kama ifuatavyo:-</seg>
+          <seg xml:id="seg72">(i) Tabora – Nzega (km 114.9) ambapo imegawanywa katika sehemu mbili za Nzega – Puge (km 58.8) na Puge – Tabora (km 56.1);</seg>
+          <seg xml:id="seg73">(ii) Tabora – Urambo (km 94) ambayo imegawanywa katika sehemu mbili za Tabora – Ndono (km 42) na Ndono – Urambo (km 52); na</seg>
+          <seg xml:id="seg74">(iii) Tabora – Manyoni (km 260) ambayo imegawanywa katika sehemu tatu na ujenzi unaendelea katika sehemu mbili za Tabora – Nyahua (km 85) na Manyoni – Itigi – Chaya (km 89.3). Kwa sehemu ya tatu ya Nyahua – Chaya (km 85), ujenzi bado haujaanza kutokana na ukosefu wa fedha.</seg>
+          <seg xml:id="seg75">Kusuasua kwa ujenzi wa Barabara za Nzega – Tabora, Tabora – Manyoni na Tabora – Urambo, kumechangiwa kwa kiasi kikubwa na kuchelewa kupatikana kwa fedha za kuwalipa Makandarasi wanaojenga barabara hizi ikiwa ni malipo ya awali (advance payments) na madai ya kazi walizofanya. Hata hivyo, hivi karibuni Wizara ya Ujenzi imefanikiwa kupata fedha kutoka Hazina na kuwalipa Makandasi malipo ya awali (advance payments) kulingana na mikataba iliyopo. Hadi sasa Makandarasi na Wahandisi Washauri wanaojenga barabara hizi wameshalipwa jumla ya shilingi 64,898,206,460.17. Hivyo, hawana sababu nyingine ya kuchelewa katika ujenzi wa barabara husika. Aidha, ninawahakikishia Wananchi wa Tabora kuwa, barabara hizo zitakamilika kujengwa kwa kiwango cha lami kama ilivyopangwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u34" who="MheIsmailAdenRage">
+          <seg xml:id="seg76">Mheshimiwa Spika, nina maswali mawili tu ya nyongeza.</seg>
+          <seg xml:id="seg77">Kwanza, ninasikitika sana na majibu ya Mheshimiwa Naibu Waziri, inaelekea kwa sababu bado mgeni katika Wizara hii wamemdanganya. Mpaka jana kulikuwa hakuna malipo ambayo wamelipwa Wakandarasi na kuonesha ushahidi, ninapenda kuipongeza Kamati ya Miundombinu, kwa kazi nzuri waliyoifanya. Walipita Tabora na kunifahamisha kwamba, katika Tanzania nzima Mkoa ambao Makandarasi hawajafanya kazi yoyote ni Tabora.</seg>
+          <seg xml:id="seg78">(i) Je, Waziri anajua kwamba Mkandarasi wa Tabora - Nzega kwa maana ya Nzega - Puge amesimama kazi hivi sasa na amefanya asilimia sita ya kazi na Tabora - Puge amefanya asilimia 12 ya kazi, Tabora - Ndono amefanya kazi asilimia 18 tu na Tabora - Manyoni amefanya kazi asilimia 12 tu?</seg>
+          <seg xml:id="seg79">(ii) Je, Mheshimiwa Waziri yuko tayari ili nikamthibitishie haya ninayoyasema wakati wowote wa weekend twende naye hata kwa gharama zangu akatembelee Miradi hii aone?</seg>
+          <seg xml:id="seg80">Mheshimiwa Spika, watu wa Tabora tumenyanyaswa muda mrefu sana…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u35" who="Spika">
+          <seg xml:id="seg81">Uliza swali habari ya kunyanyaswa kwa muda mrefu haihusiki hapa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u36" who="MheIsmailAdenRage">
+          <seg xml:id="seg82">Je, yuko tayari kwenda na mimi Tabora akakague hii Miradi ili ajionee na hatimaye aje awaeleze wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u37" who="Spika">
+          <seg xml:id="seg83">Mheshimiwa Naibu Waziri majibu; mpaka swali la pili amesahau!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u38" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg84">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Ismail Aden Rage, kama ifuatavyo:-</seg>
+          <seg xml:id="seg85">Kwanza, naomba nimpongeze kwa namna anavyofuatilia ujenzi wa barabara hizi. Naomba niwahakikishie Wananchi wa Tabora kwamba, Serikali haijawaacha Wananchi wa Tabora na ndiyo maana barabara hizi zimepewa mikataba na zaidi ya kilomita 250 hizi ukijumlisha wanapata Wananchi wa Mkoa wa Tabora.</seg>
+          <seg xml:id="seg86">Serikali ya Chama cha Mapinduzi inawajali. Kwa hiyo, naomba sana ndugu yangu, pamoja na kwamba anasema asilimia kumi lakini wale watu wana mikataba, sisi tuli-default kwa sababu hatukuwalipa advance, sasa tumeshawalipa advance hawana sababu ya kusimama kazi na kama wanasimama kazi wakati wameshalipwa advance hatua zinazostahili za mikataba tutazichukua.</seg>
+          <seg xml:id="seg87">Nikuhakikishie pia kwamba, zile fedha ambazo wanadai za ziada, Serikali tayari imeshapata utaratibu na watalipwa. Kwa hiyo, tuna uhakika kabisa kwamba watalipwa na nikuhakikishie pia kwamba, nilishakwenda Tabora lakini nitaendelea kwenda kufuatilia ujenzi wa barabara hizi na hata ukitaka tuongozane tutakwenda.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u39" who="Spika">
+          <seg xml:id="seg88">Dkt. Kigwangalla, Mbunge wa Tabora tena.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u40" who="MheDktHamisAndreaKigwangalla">
+          <seg xml:id="seg89">Mheshimiwa Spika, ahsante. Kwa kuwa Mkoa wa Tabora ni wa kihistoria na ulikuwa mkubwa kabla hatujapata uhuru na leo hii umesahaulika; na kwa kuwa majibu ya Mheshimiwa Waziri ni changa la macho na ni ahadi hewa kwa Wananchi wa Mkoa wa Tabora. Anatuhakikishiaje katika Bunge hili kwamba Wananchi wa Tabora waishi kwa matumaini kwamba barabara hizo zitakamilika kwa wakati kwa sababu zilitakiwa zikamilike ndani ya miaka miwili lakini leo hii ni zaidi ya mwaka mmoja na nusu umepita hata robo ya ujenzi haijakamilika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u41" who="Spika">
+          <seg xml:id="seg90">Basi ondoa kwanza changa la macho kisha ajibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u42" who="MheDktHamisAndreaKigwangalla">
+          <seg xml:id="seg91">Mheshimiwa Spika, naondoa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u43" who="Spika">
+          <seg xml:id="seg92">Haya, Naibu Waziri naomba ujibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u44" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg93">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Naibu Waziri wa Ujenzi, naomba kujibu swali la nyongeza la Mheshimiwa Kigwangalla. kama ifuatavyo:-</seg>
+          <seg xml:id="seg94">Kwanza, nakushukuru kwa kuondoa hilo suala la changa la macho.</seg>
+          <seg xml:id="seg95">Ninaomba sana Wananchi wa Tabora watupe moyo Serikali ya Chama cha Mapinduzi, kwa namna tunavyofanya, Barabara zote Kuu za Tabora zimeshakuwa tayari katika mkakati wa kujenga kwa kiwango cha lami lakini kuna mikoa mingine haina hiyo; kwa hiyo, hatujawatenga Wananchi wa Tabora. Nimekuhakikishia kwamba, nitafuatilia hizo barabara na zitaisha kwa wakati uliopangwa na kabla ya mwaka 2015 tunategemea barabara hizi zitakuwa zimekamilika.</seg>
+        </u>
+        <note>Na. 5. Ujenzi wa Barabara ya Bugene – Kasulo</note>
+        <note>(K.n.y. MHE. GOSBERT BEGUMISA BLANDES)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u45" who="MheNyambariCMNyangwine">
+          <seg xml:id="seg96">Bunge lilishaidhinisha fedha kwa ajili ya upembuzi yakinifu wa ujenzi wa Barabara ya Bugene – Kasulo (Benaco Ngara) na Barabara ya Gakorongo – Murongo Wilayani Karagwe:-</seg>
+          <seg xml:id="seg97">(a) Je, ni lini kazi hiyo itaanza na kukamilika?</seg>
+          <seg xml:id="seg98">(b) Je, ujenzi wa barabara zote mbili unaweza kuanza na kukamilika kabla ya mwaka 2015?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u46" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg99">Mheshimiwa Spika, kwa niaba ya Waziri wa Ujenzi, naomba kujibu swali la Mheshimiwa Gosbert Begumisa Blandes, Mbunge wa Karagwe, lenye sehemu (a) na (b), kama ifuatavyo:-</seg>
+          <seg xml:id="seg100">(a) Mheshimiwa Spika, ni kweli kwamba katika Mwaka wa Fedha wa 2011/2012, Wizara yangu ilitenga kiasi cha shilingi milioni 96.4 kwa Barabara ya Bugene – Kasulo (km 118.9) na shilingi milioni 144.668 kwa Barabara ya Omugakorongo – Murongo (km 105) kwa ajili ya upembuzi yakinifu na usanifu wa kina kwa ajili ya ujenzi wa kiwango cha lami.</seg>
+          <seg xml:id="seg101">Mheshimiwa Spika, mchakato wa kumpata Mhandisi Mshauri kwa ajili ya kazi ya upembuzi yakinifu, usanifu wa kina na uandaaji wa makabrasha ya zabuni kwa barabara hizo mbili unaendelea na Mhandisi Mshauri anategemewa kuwa amepatikana mapema mwaka huu wa 2012 na kazi ya usanifu inatarajiwa kukamilika mwaka ujao wa fedha.</seg>
+          <seg xml:id="seg102">(b) Mheshimiwa Spika, mpango wa kuanza kazi za ujenzi wa barabara husika utaanza baada ya kukamilika kwa upembuzi yakinifu na usanifu wa kina.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u47" who="MheNyambariCMNyangwine">
+          <seg xml:id="seg103">Mheshimiwa Spika, ahsante. Pamoja na majibu hayo mazuri, lakini jibu la (b) sikuridhika nalo. Swali linauliza ujenzi wa barabara zote mbili unaweza kuanza na kukamilika kabla ya mwaka 2015; Mheshimiwa Waziri anatakiwa ajibu ndiyo au hapana; kama ni ndiyo aeleze ni kwa vipi na kama ni hapana ni kwa nini.</seg>
+          <seg xml:id="seg104">Swali la pili, mwaka jana katika Bajeti, Mheshimiwa Naibu Waziri, aliahidi kupitia Bunge lako Tukufu kuwa, ujenzi wa Barabara ya Nyamwaga kutoka Tarime mpaka Serengeti, utaanza kujengwa mara moja na mpaka hivi sasa sijaona chochote ambacho kimeshafanyika na mwaka umeshapita.</seg>
+          <seg xml:id="seg105">Naomba Mheshimiwa Naibu Waziri, awathibitishie Wananchi wa Tarime ni lini ujenzi wa Barabara ya Nyamwaga yenye kilomita 82 kutoka Tarime Mjini mpaka Serengeti itaanza kujengwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u48" who="Spika">
+          <seg xml:id="seg106">Haya, usipojibiwa vizuri la pili ni swali jipya, Mheshimiwa Naibu Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u49" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg107">Mheshimiwa Spika, kwanza kabisa nakiri kwamba Mbunge anataka barabara ziishe kabla mwaka 2015, lakini jibu ni kwamba hatuwezi kusema tarehe wakati usanifu haujakamilika. Usanifu ndiyo utaonyesha barabara ile itahitaji kumalizika katika muda gani. Lakini nia ya Serikali tunataka tumalize ikiwezekana kabla ya mwaka 2015.</seg>
+          <seg xml:id="seg108">Katika suala lake la pili, la kwamba barabara ya Nyamwaga/Tarime/Serengeti itaanza lini, namwomba Mheshimiwa Mbunge angeleta hilo swali kwa maandishi tuweze kumjibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u50" who="MheDianaMChilolo">
+          <seg xml:id="seg109">Mheshimiwa Spika, ahsante sana. Pamoja na majibu mazuri ya Mheshimiwa Waziri, nina swali dogo la nyongeza.</seg>
+          <seg xml:id="seg110">Kwa kuwa tatizo la barabara ni la kitaifa na tulishapewa ahadi kwamba barabara ya kutoka Singida Mjini kwenda Ilongelo Mtingo itajengwa kwa kiwango cha lami ndani ya miaka hii mitano, lakini hatujaona kwenye bajeti hii tunayoianza leo. Je, Mheshimiwa Naibu Waziri atatueleza barabara hiyo ambayo hata mwaka jana waliahidi, itaanza lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u51" who="Spika">
+          <seg xml:id="seg111">Yale yale! Hizo barabara wenzenu hawakujiandaa nazo, mtapata majibu hayo hayo!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u52" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg112">Mheshimiwa Spika, naomba niseme kwamba jibu analolitaka ni kujua bajeti hii na bajeti hii. Naomba Mheshimiwa Chilolo asubiri bajeti yetu ya Wizara ya Ujenzi itakavyopitishwa, aiunge mkono ili kusudi tuweze kuona mipango ambayo tumepanga kuitekeleza.</seg>
+        </u>
+        <note>Na. 6. Usambazaji Maji ya Ziwa Victoria</note>
+        <note>(K.n.y. MHE. AHMED A. SALUM)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u53" who="MheLuhagaJMpina">
+          <seg xml:id="seg113">Je, ni lini kazi ya usambazaji maji Ziwa Victoria kwa awamu ya pili ndani ya kilometa 12 kutoka bomba kuu utafanyika ikizingatiwa kuwa Mheshimiwa Rais aliahidi kuwa kazi hiyo itafanywa mapema iwezekanavyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u54" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg114">Mheshimiwa Spika, kwa niaba ya Waziri wa Maji, naomba kujibu swali la Mheshimiwa Ahmed Ali Salim, Mbunge wa Solwa kama ifuatavyo:-</seg>
+          <seg xml:id="seg115">Mheshimiwa Spika, katika awamu ya kwanza ya mradi wa maji toka Ziwa Victoria kwenda katika miji ya Kahama na Shinyanga ulilenga kuvipatia maji vijiji 54 vilivyoko katika wigo wa kilomita tano katika kila upande wa bomba katika Wilaya za Misungwi, Kwimba, Shinyanga na Kahama, na kati ya hivyo, vijiji 25 vipo katika Wilaya ya Shinyanga Vijijini. Katika utekelezaji wa awamu ya kwanza, vijiji 39 tayari vimepata maji.</seg>
+          <seg xml:id="seg116">Mheshimiwa Spika, katika awamu ya pili ya mradi, Mheshimiwa Rais aliagiza wigo huo uongezwe kufikia kilomita 12 kutoka pande zote za bomba, na hivyo vijiji vipya 81 vikalengwa kupatiwa maji. Kati ya vijiji hivyo, vijiji 41 vipo katika Wilaya ya Shinyanga Vijijini.</seg>
+          <seg xml:id="seg117">Mheshimiwa Spika, Serikali imeanza kutekeleza awamu ya pili ambapo katika mwaka wa fedha 2011/2012, Shilingi milioni 100 zimepelekwa Mamlaka ya Maji Kahama-Shinyanga kwa ajili ya kuanza utekelezaji wa miradi hiyo. Tayari vijiji vitano katika Wilaya ya Kwimba vimepatiwa maji ambavyo ni Kawekamo, Chasalawi, Muhalo, Bupamwa na Sanga. Mabomba na viungio vya maji kwa ajili ya vijiji vitatu vya Nyang’honge, Ndambi na Chibuje vimenunuliwa ambapo ujenzi utaanza tarehe 18 Juni, 2012. Usanifu wa vijiji vinne vya Nyang’homango, Isesa, Igenge na Mbarika vinavyozunguka chanzo cha maji cha Ihelele umekamilika.</seg>
+          <seg xml:id="seg118">Mheshimiwa Spika, katika utekelezaji wa awamu ya pili kwa vijiji vilivyo ndani ya kilomita 12 tayari zabuni ya kumpata Mtaalam Mshauri atakayesanifu miradi katika vijiji 96 imetangazwa. Mategemeo ni kukamilisha kazi ya usanifu katika mwaka wa fedha 2012/2013 ili fedha zikipatikana ujenzi uanze katika mwaka 2013/2014 mapema iwezekanavyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u55" who="MheLuhagaJMpina">
+          <seg xml:id="seg119">Mheshimiwa Spika, ahsante. Kwa kuwa tatizo la maji katika vijiji hivi 96 vilivyopitiwa na hili bomba la maji la Ziwa Victoria vikiwemo vijiji 41 vya Jimbo la Solwa. Tatizo la maji ni kubwa sana na kwamba hii ahadi ni ya mzito, Mheshimiwa Rais. Je, Mheshimiwa Waziri badala ya kusema hili, fedha zikipatikana awaahidi wananchi hawa kwa dhati kabisa kwamba mara baada ya usanifu mwaka 2012/2013 na 2013/2014, mradi huu utatekelezwa?</seg>
+          <seg xml:id="seg120">La pili, kwa kuwa mkandarasi wa kupeleka maji kutoka Shinyanga kwenda Kishapu na baadaye Maswa, yuko mbioni kuanza kazi; na kwa kuwa kutoka Maswa kwenye Makao Makuu ya Jimbo la Kisesa, yaani Mwandoya ni karibu sana: Je, Waziri atakubaliana na mimi kwamba sasa umefika muda muafaka wa kuanza zoezi la kuyatoa maji pale yanapofika Maswa kuyapeleka Makao Makuu ya Jimbo la Kisesa ambapo ni Mwandoya? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u56" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg121">Mheshimiwa Spika, kuhusu kuahidi kwamba baada ya kufanya usanifu mwaka 2012/2013 kwamba tutaanza kujenga miundombinu mwaka 2013/2014 na kutoa maji, nadhani itakuwa vigumu kwa sababu nimemalizia kwa kusema kwamba itategemea uwezekano wa kupatikana fedha. La msingi ni kwamba, tayari Serikali imeshatenga fedha kwa ajili ya usanifu huu wa vijiji 96 kutoka kwenye chanzo cha maji cha Ziwa Victoria mpaka Kahama na Shinyanga na baadaye kwa fedha hizo mpaka Igunga, Nzega na Tabora kwa Shilingi ambazo ni bilioni moja kwa sasa hivi. Kwa hiyo, baada ya usanifu huo kufanyika, ndipo itategemea fedha kama zimepatikana ili sasa ujenzi wa miundombinu hiyo uanze kufanyika.</seg>
+          <seg xml:id="seg122">Swali lake la pili kuhusu kupeleka maji kwenye Mji Mkuu wa Kisesa, nadhani hili lingeanzia kwenye Halmashauri. Kwa sababu sisi tunafanya kazi kwa mapendekezo ambayo yanaanzia kwenye Halmashauri. Kwa hiyo, kama mtapendekeza kwamba ipo haja ya kupeleka maji kutoka kwenye source hii, nadhani inawezekana na kwa sababu hata hii miradi ya kutoa maji kutoka</seg>
+          <seg xml:id="seg123">kwenye vijiji 96 wanaosimamia ni Halmashauri husika kwa kushirikiana na KASHUWASHA. Sisi tunachofanya kama Wizara ni kutumia mradi wa Water Sector Development Programme (WSDP) kutoa fedha, lakini usimamizi ni wa hizi Halmashauri zenyewe. Kwa hiyo, wanaweza wakaamua kwamba wanaweza wakaingiza na inaweza ikawezekana bila matatizo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u57" who="MheSelemaniSJafo">
+          <seg xml:id="seg124">Mheshimiwa Spika, ahsante. Kwa kuwa kwa muda mrefu nilikuwa na kilio kikubwa sana kuhusu tatizo la maji katika Wilaya ya Kisarawe; na kwa kuwa najua kwamba Mheshimiwa Waziri na Naibu wake ni wachapakazi hodari sana; nilikuwa naomba kauli ya Serikali, nini mtazamo wa Serikali katika tatizo la maji katika Wilaya yangu ya Kisarawe? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u58" who="Spika">
+          <seg xml:id="seg125">Hilo swali ni jipya. Haya Naibu Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u59" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg126">Mheshimiwa Spika, ni kweli hili ni swali jipya. Lakini naweza nikamjibu kwa faida ya wananchi wa Tanzania kwamba, katika miradi ya maji Dar es Salaam ipo miradi ya Kimbiji na Mtera ambayo itakapokuwa imekamilika itatoa maji mita za ujazo za 260 na hii miradi ndiyo imedhamiria kwamba itapitisha kwenye vijiji vilivyopo kwenye Wilaya ya Kisarawe na kutatoa utatuzi wa Mheshimiwa Mbunge.</seg>
+        </u>
+        <note>Na. 7. Ruzuku Kwenye Pembejeo kwa Zao la Tumbaku</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u60" who="MheVictorKMwambalaswa">
+          <seg xml:id="seg127">Serikali imefanya kazi nzuri sana kutoa ruzuku kwenye pembejeo za mazao ya chakula na sasa imetoa ruzuku hiyo kwa zao la biashara la Pamba:-</seg>
+          <seg xml:id="seg128">Je, ni lini sasa Serikali itatoa ruzuku ya pembejeo kwa zao la Tumbaku?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u61" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg129">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Victor Kilasile Mwambalaswa, Mbunge wa Lupa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg130">Mheshimiwa Spika, Serikali imekuwa ikitoa ruzuku ya mbegu na madawa kwenye zao la Pamba kwa kupunguza bei ya pembejezo hizo. Upunguzaji huo wa gharama za pembejeo umesaidia wakulima kupata mbegu na madawa kwa bei nafuu. Hali hiyo imesaidia wakulima kupata mbegu, kudhibiti wadudu waharibifu na kuongeza tija na uzalishaji wa zao la pamba. Mathalan uzalishaji wa pamba umeongezeka kutoka tani 163,644 mwaka 2010/2011 hadi tani 226,000 mwaka 2011/2012. Changamoto za utoaji wa ruzuku kwenye zao la Pamba ni pembejeo zisizokidhi viwango (mbegu na madawa). Mkakati wa kupambana na changamoto hiyo ni pamoja na kuchukua hatua za kisheria kwa makampuni yatakayouza pembejeo zisizokidhi viwango na kuwa na vikao vya mara kwa mara na makampuni ya pembejeo kuyahimiza kuuza pembejeo zinazokidhi viwango.</seg>
+          <seg xml:id="seg131">Mheshimiwa Spika, Serikali kwa sasa bado haijaanza kutoa ruzuku ya pembejeo kwenye zao la Tumbaku kutokana na ufinyu wa bajeti miongoni mwa sababu nyingine. Serikali inaendelea kuhamasisha wakulima kupitia vyama vyao vya ushirika kuendelea na utaratibu wa kujinunulia mbolea kupitia mikopo inayopatikana kutoka benki mbalimbali. Utaratibu huu ni mzuri na endelevu unaomwezesha mkulima kujihakikishia matumizi ya pembejeo kwa kadri ya upanuzi wa kilimo chake na unaowajengea uwezo wa kujitegemea zaidi, mfumo ambao unatarajiwa kutumika hata kwenye mazao yanayopata ruzuku kwa sasa.</seg>
+          <seg xml:id="seg132">Mheshimiwa Spika, aidha, Serikali inaendelea na utaratibu wa kuhamasisha na kushirikisha wadau wa zao la Tumbaku kuanzisha mfuko wa kuendeleza zao hili la Tumbaku kama ilivyo kwenye zao la Pamba kama alivyoshauri Mheshimiwa Mbunge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u62" who="MheVictorKMwambalaswa">
+          <seg xml:id="seg133">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi hii. Pamoja na majibu mazuri sana ya Mheshimiwa Naibu Waziri, nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg134">Swali la kwanza; pamoja na mpango mzuri wa Serikali wa kuanzisha hii ruzuku ya pembejeo, kuna matatizo makubwa ya Mawakala. Mawakala wakati mwingine wanakusanya sahihi hewa ili walipwe kazi ambazo hawajafanya. Pengine wakifanya kazi Mawakala wanashindwa kulipwa na Serikali kwa wakati kwa sababu wanasema mitandao ya benki iko chini au iko juu. Sasa Serikali ina mpango gani madhubuti ya kwamba wazo lake hili zuri la kuweka ruzuku ya pembejeo inakwenda kwa mlengwa ipasavyo? Hilo la kwanza.</seg>
+          <seg xml:id="seg135">Mheshimiwa Spika, la pili, Serikali kupitia Sheria ya Finance iliweka asilimia tano ya malipo ya Tumbaku yaende kwenye Halmashauri ambazo zinahudumia wakulima wale ili kuboresha maisha ya wananchi kwenye Halmashauri hizo. Lakini hapa katikati Serikali ikapunguza asilimia tano, ikasema asilimia mbili ziende moja kwa moja kwa wakulima bila kurekebisha sheria. Sasa Serikali ilipogundua hilo, imezirudisha kwa Halmashauri zile asilimia mbili wiki moja iliyopita. Kwa hiyo, Halmashauri inaendelea kupata asilimia tano kama ilivyokuwa kwenye Finance Bill. Je, wakulima ambao waliahidiwa asilimia mbili kutoka kwenye Makampuni hayo, nao watapewa lini? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u63" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg136">Mheshimiwa Spika, ni kweli tuna tatizo la Mawakala na mfumo wa usambazaji. Lakini suala hili linatarajiwa kupata ufumbuzi kwa kuwashirikisha wale suppliers wakubwa wa pembejeo ili wao na Mawakala wabebe dhamana ya kuwafikishia pembejeo wakulima moja kwa moja bila ya kupitia mfumo. Kwa kweli matatizo haya ya Mawakala tunataka sasa Wakala awajibike kwa supplier ili pembejeo ile ifike kwa ubora, viwango na kwa wakati ambao umekubaliwa. Hili tunatarajia kuwa linaweza likawa ni tatizo pia hata kwenye mfumo wa vocha na matatizo mengine yanayoshirikisha Mawakala.</seg>
+          <seg xml:id="seg137">Mheshimiwa Spika, hili la pili la asilimia tano, ni kweli kwamba ushuru uliokuwepo ni wa asilimia tano na kwamba Serikali ilikuwa imefikiria kwamba asilimia mbili itengwe ili iende kwa wakulima. Kama alivyosema Mheshimiwa Mbunge, kwa sababu ilikuwa haina misingi ya kisheria, kulikuwa na matatizo baina ya Makampuni yanayochangia hii asilimia mbili na utekelezaji wa maagizo hayo.</seg>
+          <seg xml:id="seg138">Kwa hiyo, kilichotokea ni kwamba wiki iliyopita Makampuni haya yote yamelipa kwenye Halmashauri Shilingi bilioni 5.5 za fedha hizo. Sasa kwa utaratibu huu, kwa sababu hakuna sheria inayosimamia, bado hizo asilimia mbili, fikra ni kwamba Halmashauri hizo zitaagizwa kupitia Wakuu wa Mikoa na Wilaya kwa kushirikiana na sisi na Wizara ya TAMISEMI kwamba fedha hizo zikae kwanza mpaka zikipatiwa maagizo ili zipatiwe utekelezaji uliokusudiwa ambao ni kuendeleza zao la Tumbaku wenye manufaa kwa mkulima moja kwa moja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u64" who="MheGodfreyWZambi">
+          <seg xml:id="seg139">Mheshimiwa Spika, nashukuru kwa kunipa nafasi niweze kuuliza swali moja la nyongeza. Mkoa wa Mbeya na Mikoa yote ya Nyanda za Juu Kusini ni Mikoa ambayo inaongoza kwa kilimo na hususan mazao ya chakula. Serikali imekuwa inatoa ruzuku kwa ajili ya mazao hayo ili wananchi waweze kujipatia chakula. Lakini Serikali imekuwa inachelewesha sana kupeleka pembejeo hizi za ruzuku kwa wananchi. Mwaka jana mathalan Serikali ilipeleka pembejeo hizi mwezi wa Februari na Machi kwa maana msimu uliopita ilipeleka mbolea mwaka huu mwezi wa Februari na Machi. Je, Serikali inawaeleza nini wananchi wa Mbozi, Mbeya na Mikoa ya Nyanda za Juu Kusini kwamba mwaka huu hakutakuwa na ucheleweshaji tena wa pembejeo za kilimo na kwa maana hiyo kuondoa kero kwa wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u65" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg140">Mheshimiwa Spika, wakati najibu swali la msingi nilikuwa nimegusia kidogo kwamba kuna utaratibu huu ambao mwaka jana ni kweli mbolea ilichelewa kufika kwa sababu ya utaratibu wa vocha na pembejeo. Sasa mwaka huu Serikali imekuja na pendekezo la kusambaza vocha kwa mfumo wa vocha ambao tunafikiria labda ungesaidia haraka zaidi. Inaonekana wadau wamekuwa na reservation kidogo kuhusu huo mfumo. Kwa hiyo, Serikali imejipanga upya kwa kushirikisha wadau wenyewe ili tupate ufanisi wa huu mfumo wa kugawa pembejeo kwa mfumo wa ruzuku ili ziwafikie wakulima kwa wakati. Namna mojawapo ni hii ya kuhakikisha kwamba Mawakala na wale suppliers wa pembejeo</seg>
+          <seg xml:id="seg141">wanafanya kazi kwa pamoja na wanawajibika kwa pamoja kuhusu kuwafikishia wakulima pembejeo kwa wakati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u66" who="MheVitaMKawawa">
+          <seg xml:id="seg142">Mheshimiwa Spika, ahsante sana kwa kunipa fursa hii kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg143">Kwa kuwa zao hili limekuwa na mchango mkubwa katika pato la Taifa la Tumbaku, kwa sababu suala la msingi lilikuwa kwa nini zao la Tumbaku wakulima wasipewe ruzuku ya mbolea; kwa kuwa zao hili limekuwa linatoa mchango mkubwa katika pato la Taifa katika kipindi cha miaka mitatu mfululizo, limekuwa likichangia kodi ya Shilingi bilioni zisizopungua 100 kwa mwaka. Lakini pia katika miaka mitatu hiyo ya mfululizo limekuwa zao la kwanza katika kuliingizia Taifa fedha za mauzo ya nje isiyopungua Dola milioni 230 kwa mwaka. Je, Serikali haioni sasa ili kusaidia wakulima wazalishe zaidi, kuwapa moyo kwa kuwapa ruzuku ili waweze kuchangia zaidi katika pato la Taifa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u67" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg144">Mheshimiwa Spika, ni kweli kwamba zao la Tumbaku hapa katikati limeongezeka sana mchango wake na katika miaka hii hasa mwaka huu uliopita uzalishaji umechangia mauzo ya Tumbaku kufikia Dola 180 katika msimu mzima.</seg>
+          <seg xml:id="seg145">Mheshimiwa Spika, kama tulivyosema, zao la Tumbaku linakabiliana na mambo mengi. Lakini moja katika matatizo yanayokabiliana nayo ni matatizo ndani ya uzalishaji wa zao lenyewe ambao moja, ni pamoja na mabano ya kukaushia zao la Tumbaku na upungufu wa stoo za kuhifadhia Tumbaku, jambo ambalo linapelekea ubora na uhafifu wa Tumbaku kushuka.</seg>
+          <seg xml:id="seg146">Sasa kama alivyosema Mwenyekiti wa Bodi, ni kweli kwamba tukipata hii ruzuku, na kama nilivyosema, Serikali inajipanga ili kuboresha zao la Tumbaku kwa viwango na idadi yake liweze kushindana na wazalishaji wengine ambao kwa sasa hivi tofauti na mazao mengine, Tumbaku ina ushindani mkubwa katika Soko la Dunia. Kwa hiyo, linaathirika kidogo na bei. Lakini tukiongeza kiwango na Serikali ikiweza kuongeza mchango na wadau wenyewe kuweza kushiriki kwa nafasi kubwa zaidi nadhani nafasi ya zao la Tumbaku katika Soko la Dunia litaongezeka kuwa imara zaidi na manufaa kwa wakulima zaidi.</seg>
+        </u>
+        <note>Na. 8. Ujenzi wa Uwanja Mkubwa wa Ndege Itigi</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u68" who="MheJohnPLwanji">
+          <seg xml:id="seg147">Hospitali ya Mtakatifu Gasper ya Mjini Itigi ndiyo Hospitali kubwa zaidi inayohudumia wagonjwa katika Kanda ya Kati na Magharibi mwa nchi. Je, Serikali ina mpango gani wa kujenga uwanja mkubwa wa ndege Itigi Mjini ili kuboresha huduma ya usafiri?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u69" who="Spika">
+          <seg xml:id="seg148">Naibu Waziri majibu! Wanasema kibao kimegeuka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u70" who="NaibuWaziriWaUchukuzi">
+          <seg xml:id="seg149">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa John Paul Lwanji, Mbunge wa Manyoni Magharibi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg150">Mheshimiwa Spika, Serikali inatambua umuhimu wa viwanja vya ndege katika kuboresha huduma mbalimbali za kiuchumi na kijamii ikiwemo Sekta ya Afya. Hivyo, Serikali itaendelea kujenga miundombinu ya viwanja katika maeneo mbalimbali nchini kuendana na upatikanaji wa fedha.</seg>
+          <seg xml:id="seg151">Mheshimiwa Spika, kutokana na gharama za ujenzi kuwa kubwa, Wizara yangu inaendelea na jitihada za kutafuta fedha kwa ajili ya kuboresha viwanja vyake vya ndege vilivyopo na kumalizia ujenzi wa viwanja vipya. Pale hali ya fedha itakaporuhusu, Wizara yangu</seg>
+          <seg xml:id="seg152">kupitia Mamlaka ya Viwanja vya Ndege itaangalia uwezekano wa kujenga viwanja vingine vipya sehemu nyingine nchini ukiwemo Mji wa Itigi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u71" who="MheJohnPLwanji">
+          <seg xml:id="seg153">Mheshimiwa Spika, ahsante. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg154">Kwa kuwa logistics za eneo hilo ni ngumu kuweza kufikiwa kwa haraka na hasa ukitilia maanani kwamba miundombinu ya sasa ya reli pamoja na barabara inasuasua na pia imetokea mara nyingi wagonjwa kuwa evacuated kutolewa maeneo hayo kupelekwa haraka katika Hospitali nyingine kama MOI na KCMC kuwa ngumu: Je, Serikali haioni kwamba kuna umuhimu wa kutoa kipaumbele cha pekee kwa eneo hili ili kuweza kuokoa maisha ya watu?</seg>
+          <seg xml:id="seg155">Mheshimiwa Spika, swali la pili, kuna imani zinazohimiza waumini wao kuweza kuwastiri kwa kuwazika haraka watu wanaofariki. Kuna watu ambao wanaofika pale wana uwezo wao wa kusafirisha maiti kwenda kuwastiri maeneo ya kwao kwa heshima, lakini wanashindwa kufanya hivyo kwa haraka kwa sababu ya tatizo hilo. Je, Serikali inasemaje? Hatuwezi kutoa fursa hiyo ili kuweza kupata usafiri wa haraka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u72" who="NaibuWaziriWaUchukuzi">
+          <seg xml:id="seg156">Mheshimiwa Spika, ni kweli kwamba kwa sasa reli na barabara haziko katika hali nzuri sana kama Serikali inavyotarajia. Lakini tukumbuke kwamba upo mradi wa ujenzi wa barabara hiyo ya Itigi kwenda Tabora unaendelea hivi sasa na kwa hiyo, barabara ile itaboreka vizuri.</seg>
+          <seg xml:id="seg157">Kuhusu reli pia, nadhani Serikali inafanya utaratibu mzuri sasa wa kuhakikisha na yenyewe itafanya kazi vizuri. Pamoja na hayo, Serikali kwa sasa imetenga fedha kukarabati Uwanja wa Ndege wa Singida na imetenga fedha katika bajeti ya mwaka huu kufanya usanifu ili kiwanja kile kiweze kupanuliwa na kuwezesha ndege kubwa kutua zaidi pale. Mji wa Itigi hauko mbali sana na Mji wa Singida.</seg>
+          <seg xml:id="seg158">Mheshimiwa Spika, kwa watu wenye uwezo wa kusafirisha ndugu zao waliopoteza maisha, kwa sasa nadhani itakuwa ni rahisi zaidi kuwapeleka katika Uwanja wa Ndege wa Singida ambao unafanya kazi. Singida sio umbali mrefu sana wa mtu kumsafirisha marehemu na kuwahi kwenda kumzika atakapotaka kwenda.</seg>
+        </u>
+        <note>Na. 9. Ubinafsishaji na Faida Zake kwa Taifa</note>
+        <note>(K.n.y. MHE. MAGDALENA H. SAKAYA)</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u73" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg159">(a) Je, Watanzania wamenufaikaje na ubinafsishaji uliokwishafanyika?</seg>
+          <seg xml:id="seg160">(b) Kwa sababu viwanda vingi vilijengwa kimkakati kuendana na mahitaji ya wananchi na malighafi zinazopatikana kwenye maeneo husika: Je, Serikali inasema nini juu ya kubadilishwa kwa matumizi ya viwanda hivyo tofauti na makubaliano ya mkataba wa kubinafsishwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u74" who="NaibuWaziriWaFedhaMheJanetZMbene">
+          <seg xml:id="seg161">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Magdalena Hamisi Sakaya, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg162">(a) Mheshimiwa Spika, baada ya ubinafsishaji mashirika mengi yamefufuliwa na hivyo yameweza kutimiza malengo ya kuongeza tija kama ifuatavyo:-</seg>
+          <seg xml:id="seg163">(i) Mheshimiwa Spika, ubinafsishaji umeimarisha na kuongeza uzalishaji kwa baadhi ya viwanda. Kwa vilivyokuwa vimesitisha uzalishaji, umefufuliwa na kuongeza uzalishaji, na kuimarisha pale ambapo uzalishaji ulikuwa ukisuasua. Uzalishaji umeokoa mahitaji ya fedha za</seg>
+          <seg xml:id="seg164">kigeni ambazo zingetumika kuagiza bidhaa hizo, kuongeza fedha za kigeni pale zilipouzwa nje na kuongeza thamani ya mazao ya ndani hasa ya kilimo.</seg>
+          <seg xml:id="seg165">(ii) Mheshimiwa Spika, ubinafsishaji umeongeza fursa za ajira na hivyo kupunguza umaskini wa kipato na umechochea ukuaji wa uchumi. Uzalishaji na ajira kwa pamoja vimeongeza mapato ya Serikali kupitia kodi mbalimbali na hivyo kuimarisha utoaji wa huduma kwa Watanzania (jamii).</seg>
+          <seg xml:id="seg166">(iii) Ubinafsishaji umesaidia uhamishaji wa teknolojia na uzalishaji wa sasa unafanyika kwa ufinisi zaidi. Aidha, Watanzania wengi wameongeza weledi (skills) katika uzalishaji wa kisasa kupitia viwanda vilivyobinafsishwa.</seg>
+          <seg xml:id="seg167">(b) Mheshimiwa Spika, napenda kukubaliana na hoja ya Mheshimiwa Sakaya kwamba kumekuwa na kubadilishwa kwa matumizi ya baadhi ya viwanda, tofauti na makubaliano ya mikataba ya kubinafsishwa. Hii ni changamoto kwa Serikali na Taifa kwa ujumla. Hata hivyo, Serikali imewaruhusu baadhi ya wawekezaji kubadili matumizi ya viwanda pale ambapo mabadiliko yalionekana kuwa na manufaa zaidi kwa Taifa. Aidha, Serikali imeliagiza Shirika Hodhi yaani CHC kufanya tathmini ya kina ili kubaini mapungufu na ukiukwaji wa mikataba unaofanywa na wawekezaji kwa kila kiwanda au shirika na kupendekeza hatua za kuchukua.</seg>
+          <seg xml:id="seg168">Mheshimiwa Spika, taarifa ya awali ya tathmini imewasilishwa Ofisi ya Waziri Mkuu, Sera, Uratibu na Bunge tarehe 28 Februari, 2012. Katika taarifa hii, jumla ya viwanda na mashirika 167 yamefanyiwa tathmini katika Sekta ya Kilimo, Maliasili na Utalii, na Viwanda. Taarifa inaonyesha kuwa viwanda na masharika yanayofanya kazi kwa faida ni 110, yaani asilimia 65.87, na 57 ambavyo ni asilimia 34,13 havifanyi kazi.</seg>
+          <seg xml:id="seg169">Mheshimiwa Spika, napenda kulihakikishia Bunge lako Tukufu kuwa Serikali iko makini katika kusimamia na kufuatilia viwanda na mashirika yote yaliyobinafsishwa ili kuona malengo na madhumuni ya ubinafsishwaji yanatimizwa ipasavyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u75" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg170">Mheshimiwa Spika, kabla sijauliza maswali ya nyongeza, naomba nitoe masikitiko yangu kwa kuvunjwa Kanuni ya 46 kwa swali hili kutokujibiwa kikamilifu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u76" who="Spika">
+          <seg xml:id="seg171">Bwana, nimesoma na nimeona kama limejibiwa. Sasa uliza swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u77" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg172">Mheshimiwa Spika, ikiwa ubinafsishaji umeimarika na kuongeza uzalishaji, kwanini Wizara hii isiweze kutoa takwimu? Lakini hata hivyo, hata kama tumeongeza kipato, kwanini Wizara ya Fedha isitoe takwimu? Hayo ni masikitiko! Wizara ya Fedha imepewa swali muda mrefu, ingekuwa na uwezo wa kutoa takwimu kuthibitisha hili.</seg>
+          <seg xml:id="seg173">Mheshimiwa Spika, sasa naomba kuuliza maswali ya nyongeza. Kiwanda cha Zana za Kilimo cha Mbeya kilichobinafsishwa sasa hivi kimebadilishwa kazi yake na kimekuwa Kiwanda cha Bia. Kiwanda cha Arusha cha kuchakata mazao ya Wanyamapori, hivi sasa ni Karakana ya Malori, vilevile Kiwanda cha Morogoro Mang’ula, wakati huo huo swali hili linasema, viwanda hivi vilijengwa kimkakati kwa azma na makusudi ya Mwalimu Nyerere ambaye tunasema tunaenzi na kudumisha mambo yake mazuri. Je, ikiwa tumevibadilisha hivyo: Je, hii ni kuenzi azma nzuri ya Mwalimu, au ni kuvunja yale mazuri aliyoyakusudia? Hilo la kwanza.</seg>
+          <seg xml:id="seg174">Kwa kuwa sera hii ya ubinafishaji inaonekana imefeli na imenufaisha wachache kuliko wengi: Je, baada ya hiyo tathmini, Serikali iko tayari sasa vile viwanda vyote vilivyofeli kuvirejesha Serikalini ili vipangiwe utaratibu mpya wa kuweza kuisaidia Serikali?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u78" who="NaibuWaziriWaFedhaMheJanetZMbene">
+          <seg xml:id="seg175">Mheshimiwa Spika, kwanza kuhusiana na takwimu za ajira, takwimu zipo na ripoti iliyotumwa imeonyesha takwimu zote. Lakini ningependa kumhakikishia Mheshimiwa Mnyaa kwamba, takwimu zote tunazo kuhusiana na viwanda vilivyobadilishwa matumizi. Hii tathmini iliyofanywa sasa hivi ndiyo itafanyiwa kazi kutambua ni nini</seg>
+          <seg xml:id="seg176">kifanyike kufuatana na tathmini yenyewe na hatua zitachukuliwa kwa mujibu wa Sheria iliyoingiwa na wawekezaji katika kubinafsishwa viwanda hivi.</seg>
+          <seg xml:id="seg177">Mheshimiwa Spika, bado tunaenzi mawazo ya Mwalimu Nyerere kwa kuhakikisha kuwa hivi viwanda kama havifanyi kazi, basi vitatafutiwe njia mbadala ya kuviendeleza. Lakini ile Sheria iliyounda na ule mtazamo mzima bado unafanya kazi na bado unaweza kufanya kazi.</seg>
+          <seg xml:id="seg178">Mheshimiwa Mbunge, utanisamehe kama nitakuwa sijalipata swali lako vizuri. Umezungumzia ile dhana nzima ya ubinafsishaji kwamba haikufanya vizuri. Dhana ya kubinafsisha, ina maana bado, lakini changamoto zilizojitokeza zinafanyiwa kazi na nimekiri hapa kuwa kuna viwanda vinavyozalisha kwa faida nzuri sana na kuna vile ambavyo sasa hivi vinasuasua lakini vinaweza vilevile kufufuliwa na vikafanya kazi vizuri. Kwa hiyo, maoni yote tunayazingatia na tutaendelea kuyafanyia kazi kama Serikali. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u79" who="Spika">
+          <seg xml:id="seg179">Pia msimsingizie Baba wa Taifa kila kitu. Hata uchumi!</seg>
+          <seg xml:id="seg180">Waheshimiwa Wabunge, muda umekwisha na sasa hivi, nakopa muda. Swali linalofuata, Mheshimiwa Hamad Ali Hamad.</seg>
+        </u>
+        <note>Na. 10. Mamlaka ya Mapato (TRA) Kukusanya Kodi Bandarini</note>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u80" who="MheHamadAliHamad">
+          <seg xml:id="seg181">Tanzania tunao mfumo wa kukusanya kodi kwa bidhaa zinazoingia nchini kwa kutumia Mamlaka ya Mapato Tanzania (TRA):-</seg>
+          <seg xml:id="seg182">(a) Je, kuna Bandari ngapi hapa nchini ambazo Mamlaka ya Mapato Tanzania (TRA) imeweka watu kwa ajili ya kukusanya kodi hizo?</seg>
+          <seg xml:id="seg183">(b) Je, ni kodi zipi hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u81" who="NaibuWaziriWaFedhaMheSaadaMkuyaSalum">
+          <seg xml:id="seg184">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Hamad Ali Hamad, Mbunge wa Magogoni lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg185">Mheshimiwa Spika, Mamlaka ya Mapato Tanzania imeweka watumishi wake katika bandari 21 katika Jamhuri ya Muungano wa Tanzania ambazo aidha, zinapakana na nchi jirani na ambazo biashara katika maeneo hayo inafanyika kwa kuingiza au kutoa bidhaa nchini au zipo katika bahari, mito na maziwa ya hapa nchini. Bandari ambazo Mamlaka ya Mapato Tanzania imeweka watumishi wake ni kama zifuatavyo:-</seg>
+          <seg xml:id="seg186">(a) Bandari zilizopo kwenye Bahari ya Hindi ni Dar es Salaam, Bagamoyo, Tanga, Pangani, Mtwara, Lindi, Kilwa Masoko, Msimbati, Malindi Zanzibar, Mkokotoni Zanzibar, Wete Pemba na Mkoani Pemba;</seg>
+          <seg xml:id="seg187">(b) Bandari zilizopo kwenye Ziwa Victoria ni Mwanza, Bukoba na Musoma;</seg>
+          <seg xml:id="seg188">(c) Bandari zilizopo kwenye Ziwa Tanganyika ni Kabwe, Kigoma Port, Kipili na Kasanga; na</seg>
+          <seg xml:id="seg189">(d) Bandari zilizopo katika Ziwa Nyasa, ni Mbamba Bay na Ipyana Kyela.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u82" who="MheHamadAliHamad">
+          <seg xml:id="seg190">Mheshimiwa Spika, ahsante. Nina maswali mawili ya nyongeza. Kwa kuwa bidhaa zote zinazoingizwa nchini kupitia Bandari za huku Tanzania Bara zinakuwa ni</seg>
+          <seg xml:id="seg191">bidhaa halali kwa Tanzania nzima mpaka Zanzibar, ni kwa sababu gani bidhaa ambazo zinalipiwa ushuru Zanzibar zinapoingizwa bara zinatozwa ushuru huo kama awali?</seg>
+          <seg xml:id="seg192">Swali la pili. Kwa kuwa inaonyesha wazi kwamba kazi ya ukusanyaji inayofanywa na TRA pale Zanzibar haitambuliwi kwenye mfumo mzima wa ukusanyaji kwa huku bara, na kwa sababu bidhaa zinazotozwa ushuru Zanzibar zikiingia huku bara zinatozwa ushuru mara nyingine: Ni kwa sababu gani bidhaa ambazo zimeingia nchini kupitia njia nyingine isiyokuwa pale Dar es Salaam zinaposafirishwa kwenda Zanzibar kutoka bara hazitozwi ushuru kama ambavyo zinafanywa kwa Zanzibar?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u83" who="NaibuWaziriWaFedhaMheSaadaMkuyaSalum">
+          <seg xml:id="seg193">Mheshimiwa Spika, naomba kukiri kwamba tatizo hili la kutozwa mara mbili ushuru hususan kwa bidhaa za magari ambazo zinatoka katika Bandari ya Zanzibar na kusafirishwa hususan Bandari ya Dar es Salaam, hili limekuwa ni tatizo na limedumu kwa muda mrefu. Lakini nichukue fursa hii kwa niaba ya Waziri wangu kwamba mwaka wa kutatuliwa tatizo hili ni mwaka huu.</seg>
+          <seg xml:id="seg194">Mheshimiwa Spika, siendi kinyume na statement ambayo Waziri wangu ameitoa Jumamosi iliyopita aliyokuwa na Mkutano na Ofisi ya Rais, Fedha na Uchumi na Mipango ya Maendeleo pale Zanzibar kwa ajili ya kujadili bajeti hii. Tumeazimia kwamba hili tatizo tutalipatia ufumbuzi. Tutasikiliza pande zote mbili zinasema nini na vilevile tutakaa na wafanyabiashara hasa tusikilize kilio chao ni nini kwa sababu kilichopo, TRA ni moja na mfumo wa kodi ni mmoja. Kwa hiyo, tutasikiliza nini hasa kiini cha tatizo na tulitatue once and for all.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2012-06-12-bunge-08-01.u84" who="Spika">
+          <seg xml:id="seg195">Muda wa maswali umepita na tumeshakopa zaidi ya dakika kumi. Kwa hiyo, muda umekwisha na maswali yamekwisha. Nina matangazo machache.</seg>
+          <seg xml:id="seg196">Kwanza kabisa, matangazo ya wageni sina, kwa hiyo, ni ya kazi tu. Makamu Mwenyekiti wa Kamati ya Mambo ya Nje, Ulinzi na Usalama Mheshimiwa Mussa Azzan Zungu anaomba niwatangazie Wajumbe wa Kamati yake kwamba kutakuwa na kikao cha Kamati hii leo tarehe 12 Juni, 2012 mara baada ya kuarisha Bunge katika Ukumbi namba 231.</seg>
+          <seg xml:id="seg197">Mwenyekiti wa Kamati ya Miundombinu - Mheshimiwa Peter Serukamba anaomba niwatangazie Wajumbe wa Kamati yake kwamba leo saa 5.00 asubuhi wakutane kwenye Chumba Na. 227.</seg>
+          <seg xml:id="seg198">Makamu Mwenyekiti wa Kamati ya Maendeleo ya Jamii - Mheshimiwa Juma Nkamia, anaomba niwatangazie Wajumbe wa Kamati yake kwamba watakuwa na kikao leo mara baada ya kipindi cha maswali kuahirishwa katika Ukumbi wa Msekwa B.</seg>
+          <seg xml:id="seg199">Mwenyekiti wa APNAC, hiki ni Chama cha Kupambana na Rushwa. Mheshimiwa Dkt. Mary Mwanjelwa anaomba niwatangazie Wajumbe wa Kamati Tendaji ya Chama Cha APNAC Barani Afrika kuwa, leo saa 5.30 watakuwa na Mkutano katika Jengo la Utawala Chumba Na. 231. Mkaangalie namna mtakavyokubaliana huko maana Kamati nyingine inakutana huko.</seg>
+          <seg xml:id="seg200">Mheshimiwa David Silinde, yeye ni Katibu wa Wabunge wa CHADEMA, anaomba Wabunge wote wa CHADEMA wakutane katika Ofisi ya Kambi ya Upinzani mara baada ya kuahirisha kikao hiki.</seg>
+          <seg xml:id="seg201">Simwoni Mwenyekiti wa Kamati ya Katiba na Sheria,ningependa wawe na kikao leo mchana kwa sababu hawajajaza nafasi ya Makamu Mwenyekiti. Hawakuniambia. Kama mmejaza ni vizuri sijapewa taarifa hiyo.</seg>
+          <seg xml:id="seg202">Waheshimiwa Wabunge, kwanza niwapongeze Mawaziri wote waliochaguliwa na tunawatakia kazi njema na wengine wameonekana wameanza vizuri na naomba mwende na mwendo huo huo. Pia niwapongeze Wabunge wote niliowaapisha leo. Naomba tuendelee kushirikiana nao katika kufanya kazi zetu.</seg>
+          <seg xml:id="seg203">Jambo lingine ambalo ningependa kueleza Waheshimiwa Wabunge, kwenye maswali ukianza kuuliza swali ambalo halikuulizwa, kweli mnawapa taabu wale wanaojibu. Sio kila mtu ana uwezo wa kujibu kuhusu nchi nzima hii. Ni kubwa sana. Kwa hiyo, maswali ya nyongeza mara zote yanatakiwa yawe ya jumla, kusudi kama ni sera ya Wizara wataweza kujibu tu. Lakini ukimwuliza kijiji cha Njombe mpaka Mtaa wake akujibu hapa, hapo kweli unatafuta matatizo, huwezi kujibiwa. Haya yanajitokeza katika maswali ya umeme, maswali ya maji na maswali ya simu.</seg>
+          <seg xml:id="seg204">Tafadhali msidandie maswali ya wenzenu. Sasa mkikosa majibu mnasema hawakujibu. Hawakujibu kwa sababu siyo swali la msingi. Sasa hilo nalo ni utaratibu wa Kanuni tu, mkisoma mtaambiwa kabisa swali la nyongeza liwe na msingi wa swali la msingi. Kwa hiyo, naomba mfanye hivyo na nawashukuru kwa kuuliza maswali mafupi na tuendelee namna hiyo.</seg>
+          <seg xml:id="seg205">Waheshimiwa Wabunge, sina matangazo mengine, napenda kuahirisha kikao cha Bunge mpaka kesho saa tatu asubuhi. Kamati za vyama vya siasa zinaweza kukutana kuanzia saa tano.</seg>
+          <seg xml:id="seg206">(Saa 4.34 Asubuhi Bunge liliahirishwa Mpaka Siku ya</seg>
+          <seg xml:id="seg207">Jumatano, Tarehe 13 Juni, 2012 saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

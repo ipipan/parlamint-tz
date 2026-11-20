@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2011-04-08) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2011-04-08) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="3">3. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="3">3. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1458743475-HS-3-3-2011.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2011-04-08">8.04.2011</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 31. Hospitali ya Mkoa wa Kigoma</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u1" who="MheSaidAArfiKNYMheMhongaSRuhwanya">
+          <seg xml:id="seg1">Hospitali ya Mkoa wa Kigoma inaelemewa sana na wagonjwa kwa sababu hakuna Hospitali ya Wilaya, pia ina upungufu mkubwa wa Madaktari Bingwa, vifaa vya kutosha vya kupimia, mashuka, magodoro, vitanda, Wauguzi na Madaktari wa kawaida ni wachache:-</seg>
+          <seg xml:id="seg2">(a) Je, Serikali inafahamu kuwa hata maji ni ya shida katika Hospitali hiyo? (b) Je, ni lini Hospitali hiyo itaboreshwa ili itoe huduma inayostahili?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u2" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg3">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Mhonga Said Ruhwanya Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg4">(a)Mheshimiwa Spika, ni kweli kwamba Hospitali ya Mkoa ilikuwa na tatizo kubwa la maji. Hata hivyo, mwezi Januari, 2011 Serikali imeweza kuunganisha maji kutoka Bomba Kuu linalopeleka maji katika eneo la Ujiji ili kuwezesha Hospitali kupata maji ya kutosha kuliko ilivyokuwa hapo awali. Ili kuhakikisha kwamba huduma ya maji inapatikana katika kipindi chote, Hospitali imeweka matanki (reservoir) yenye uwezo wa kuhifadhi lita 37,000 za maji.</seg>
+          <seg xml:id="seg5">(b)Mheshimiwa Spika, Mpango Mkakati wa Serikali una lengo la kuzifanya Hospitali za Mkoa kuwa za Rufaa kwa kuzifanyia ukarabati kwa awamu. Hospitali ya Mkoa wa Kigoma imefanyiwa ukarabati mkubwa kuanzia mwaka wa fedha 2007/2008 kupitia Bajeti ya maendeleo ambapo jumla ya shilingi 600,000,000/= zilitolewa.</seg>
+          <seg xml:id="seg6">Fedha hizo zilitumika katika ujenzi na ukarabati wa Ofisi ya Utawala, ujenzi wa Kliniki ya Macho, ujenzi wa Chumba cha Wagonjwa Mahututi, upanuzi wa Sehemu ya Mapokezi, ukarabati wa Wodi Na. 7, 8 na 10, ukarabati wa Jengo la Upasuaji na Jengo la Kufulia Nguo za Wagonjwa.</seg>
+          <seg xml:id="seg7">Mheshimiwa Spika, awamu ya pili ya fedha za ukarabati wa Hospitali ya Mkoa ilitolewa katika kipindi cha mwaka wa fedha 2008/2009 ambapo kiasi cha shilingi 600,000,000/= kilitumika katika ukarabati wa Wodi ya Wazazi, Wodi Na. 5, ukarabati wa Wodi Daraja la KJwanza na Daraja la Pili na ukarabati wa Jengo la Huduma kwa Wagonjwa wa Nje (OPD).</seg>
+          <seg xml:id="seg8">Katika mwaka wa fedha wa 2009/2010 ukarabati uliendelea katika Wodi ya Wazazi, Wodi Daraja la I na Wodi Na.8 ambapo kiasi cha shilingi 268,298,000/= kilitengwa na kutumika. Aidha, ukarabati wa Maabara umefanywa na Shirika la ABBOT kwa thamani ya shilingi 746,400,000/=. Majengo hayo yote utekelezaji wake umekamilika na yanatumika. Katika mwaka wa fedha 2010/2011 jumla ya shilingi 197,000,000/= zimetengwa kwa ajili ya kujenga Uzio, kazi ambayo inaendelea kwa sasa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u3" who="MheSaidAArfi">
+          <seg xml:id="seg9">Mheshimiwa Spika, pamoja na majibu mazuri ya Mheshimiwa Waziri na jitihada za Serikali zinazofanywa kwa ajili ya Hospitali ya Mkoa wa Kigoma, lakini bado tatizo la Madaktari lipo na hakuna maelezo yoyote yaliyotolewa kuhusu eneo la Madaktari na Madaktari Bingwa katika Hospitali ya Mkoa wa Kigoma.</seg>
+          <seg xml:id="seg10">Swali la pili, kwa kuwa Hospitali za Mikoa katika Makao Makuu ya Mikoa mingi nchini yamekuwa na matatizo kwa sababu hakuna Hospitali za Wilaya. Je, sasa Serikali iko tayari kuifanya Zahanati ya Ujiji kuwa Hospitali ya Wilaya?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u4" who="Spika">
+          <seg xml:id="seg11">Afadhali wewe umekuwa mwaminifu, vinginevyo ungesema inafanana na kwenu! </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u5" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg12">Mheshimwa Spika, hili analosema Mheshimiwa Arfi ni kweli na nawaangalia Wabunge wananiangalia. Mimi nimefanya kazi Kigoma kwa muda wa miaka mitano na watoto wangu wamezaliwa katika Hospitali hii inayozungumzwa hapa. Kwa hiyo, nina nasaba nayo na najua magnitude ya problem inayozungwa hapa.</seg>
+          <seg xml:id="seg13">Ni kweli kinachosemwa hapa, ni kweli kabisa kwamba kuna tatizo pale na Madaktari. Madaktari Bingwa wamepelekwa pale, wengine hawakuripoti. Juzi nimekwenda kufanya mkutano pale, tumeona tuongeze Madaktari wengine wawili. Sasa hivi wamefika wawili na Madaktari wa kawaida kama wawili tena wameongezeka pale.</seg>
+          <seg xml:id="seg14">Lakini, nataka nikiri hapa mpaka ninapozungumza na RMO asubuhi hii, bado kuna tatizo pale.</seg>
+          <seg xml:id="seg15">Swali la pili analozungumza kuhusu Kituo kile cha Kigoma, Ujiji. Sasa hivi katika Manispaa ya Kigoma, tumeanzisha pale Designated Hospital kwa ajili ya Manispaa (Baptist Hospital) ambayo ndiyo itakayoondoa hili tatizo analolizungumza hapa.</seg>
+          <seg xml:id="seg16">Hawajatangaza, lakini nime-check na Karinjuma ambaye yeye ndiye Mkurugenzi Mtendaji pale, ameniambia kwamba huduma imeanza kupatikana pale. Nilikwenda katika Hospitali hiyo, wamenipokea kwa mabango pale, lakini tuliyamaliza mambo yote pale. (MakofI)</seg>
+          <seg xml:id="seg17">Kwa hiyo, awe na hakika Mheshimiwa Arfi kwamba kazi hii inafanyika na kwamba kuanzishwa kwa Designated Hospital Kigoma –Ujiji pale, kitaondoa matatizo haya yaliyoko katika Hospitali ya Mkoa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u6" who="Spika">
+          <seg xml:id="seg18">Tumsikilize Mbunge wa Kigoma Mjini, Mheshimiwa Serukamba!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u7" who="MhePeterJSerukamba">
+          <seg xml:id="seg19">Mheshimiwa Spika, nashukuru kwa kunipa nafasi. Pamoja na majawabu mazuri ya Naibu Waziri, mimi ningemwomba Naibu Waziri; amesema kwamba tumeanzishwa Hoispitali pale iliyokuwa ya Baptist kuwa ya Wilaya, lakini huu ni mwaka umepita, bajeti ya kuendeleza kuwalipa wafanyakazi pamoja na miundombinu ambayo ilikuwa imechakaa, haijatoka.</seg>
+          <seg xml:id="seg20">Sasa, anaweza akatuambia ni lini Ofisi ya Waziri Mkuu ama TAMISEMI itatusaidia pesa ili tuweze kumalizia yale matatizo ya Baptist ili iweze kuanza kazi vizuri?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u8" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg21">Mheshimiwa Spika, hii Bajeti inayozungumzwa hapa, wakati nilipozungumza habari ya mabango hapa, ndiyo iliyosababisha haya yote yanayozungumzwa hapa kwa sababu ilikuwa ni pamoja na kulipwa mishahara na mambo mengine ambayo yalikuwa yamefanywa na Baptist Hospital.</seg>
+          <seg xml:id="seg22">Mpaka ninavyozungumza asubuhi hii wakati niko kwenye gari nakuja hapa, nimezungumza na Mkurugenzi Mtendaji na nimekwenda katika Hospitali hii mimi mwenyewe. Niliona kwamba vitanda vimewekwa na magodoro yamewekwa, na hela ambazo tulikuwa tunazitegemea na maelekezo ya Rais yalitolewa pale, tukatoa maelekezo kwamba hizi hela zipatikane ziende pale.</seg>
+          <seg xml:id="seg23">Nataka nimhakikishie Mheshimiwa Peter Serukamba kwamba kama hicho anachosema ndicho ninachosema, hizi hela zimekwenda pale. Lakini niko tayari kukaa na yeye tujue vizuri kwamba ni nini anachozungumza. Lakini katika hili linalozungumzwa hapa nina hakika na ninachokizungumza kwamba hela zimekwenda pale. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u9" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg24">Madai ya Mtumishi Baada ya Kufariki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u10" who="MheClaraDMwatuka">
+          <seg xml:id="seg25">Baadhi ya warithi wa waliokuwa watumishi wa Serikali wanapofuatilia madai mbalimbali ya watumishi hao waliyokuwa wanadai enzi za uhai na utumishi wao hujibiwa kuwa mtumishi akifariki kila kitu kinaisha pale pale:-</seg>
+          <seg xml:id="seg26">Je, kama jibu hilo huwa ni sahihi, kwa nini mafao hutolewa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u11" who="WaziriWaNchiOfisiYaRaisMenejimentiYaUtumishiWaUmma">
+          <seg xml:id="seg27">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Clara Diana Mwatuka, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg28">Mheshimiwa Spika, siyo sahihi kwa Mamlaka za Ajira kuwaeleza warithi wa watumishi wanaofariki dunia wakiwa kazini kuwa kila kitu kinaishia hapo hapo, na badala yake napenda kusisitiza kwa waajiri wote nchini wawahudumie kwa mujibu wa sheria, kanuni na taratibu zilizopo.</seg>
+          <seg xml:id="seg29">Mheshimiwa Spika, mirathi ya marehemu hushughulikiwa kwa mujibu wa Sheria ya Usimamizi wa Mirathi Namba 9 ya mwaka 1963, Sura ya 352 ya Sheria za Tanzania. Kwa mujibu wa sheria hii na maudhui yake, warithi halali wa marehemu wanastahili kulipwa madai halali ya mtumishi kama vile malimbikizo ya mshahara na fedha za uhamisho ambazo hakulipwa wakati akiwa hai.</seg>
+          <seg xml:id="seg30">Mheshimiwa Spika, kwa kutambua kuwepo kwa Sheria hii, Sheria za Mifuko ya Hifadhi ya Jamii ambayo kila mtumishi ni mwanachama kulingana na masharti yake ya ajira; yaani Mfuko wa Pensheni wa Mashirika ya Umma (PPF), Mfuko wa Pensheni wa Watumishi wa Serikali Kuu (PSPF), Mfuko wa Pensheni wa Watumishi wa Serikali za Mitaa (LAPF) na Mfuko wa Hifadhi ya Jamii (NSSF), zinaelekeza stahili ambazo warithi halali wa marehemu waliothibitishwa na Mahakama wanastahili kulipwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u12" who="MheClaraDMwatuka">
+          <seg xml:id="seg31">Mheshimiwa Spika, ahsante. Pamoja na jibu zuri na Mheshimiwa Waziri, naomba niongeze swali la nyongeza kwamba; Serikali inatambua kwamba watu hawa walikuwa wanafanya kazi na kumbukumbu imepotea.</seg>
+          <seg xml:id="seg32">Sasa, kwa nini Serikali inapoteza kumbukumbuna kukosesha warithi haki zao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u13" who="WaziriWaNchiOfisiYaRaisMenejimentiYaUtumishiWaUmma">
+          <seg xml:id="seg33">Mheshimiwa Spika, si kweli kwamba mtumishi kumbukumbu zinapopotea kwamba hawezi kupata mirathi yake au haki zake. Zipo sheria za kuweza kuthibitisha kwamba yeye alikuwa ni mtumishi halali na mwajiri anaweza akajenga hoja akaleta</seg>
+          <seg xml:id="seg34">katika ofisi yetu na tukamwomba Mheshimiwa Rais akamlegezea masharti na akapewa haki zake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u14" who="MheGodfreyWZambi">
+          <seg xml:id="seg35">Mheshimiwa Spika, nakushukuru kwa kunipatia nafasi niulize swali la nyongeza. Pamoja na upotevu wa nyaraka ambao unatokea kwa wafiwa au wasimamizi wa mirathi na kwa maana hiyo kuchukua muda mrefu. Lakini pia lipo tatizo lenyewe la mirathi kuchukua muda mrefu sana na hivyo kuwafanya hawa wategemezi wa marehemu au mtumishi aliyekuwa anafanya kuishi katika maisha ya tabu sana.</seg>
+          <seg xml:id="seg36">Serikali inachukua hatua gani kuhakikisha kwamba mirathi hiyo haichukui muda mrefu ikiwa ni pamoja na kuangalia kile kipindi cha miezi mitatu kinachotangazwa ili mirathi yenyewe ianze kushughulikiwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u15" who="WaziriWaNchiOfisiYaRaisMenejimentiYaUtumishiWaUmma">
+          <seg xml:id="seg37">Mheshimiwa Spika, suala la mirathi kuchukua muda mrefu wakati mwingine pia linachangiwa na familia. Kwa sababu, inavyotakiwa mara tu anapofariki, familia ikae imchague msimamizi wa mirathi na iende Mahakamani na Mahakama ikishathibitisha, basi mwajiri atakuwa tayari kukamilisha masuala mazima ya mirathi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u16" who="WaziriWaNchiOfisiYaRaisMenejimentiYaUtumishiWaUmma">
+          <seg xml:id="seg38">Kwa hiyo, ninachowaomba wale wote wafiwa au wote ambao tunawasaidia watu ambao wanafuatilia suala zima la mirathi, ni kuzisaidia zile familia ambazo zinafiwa kuharakisha mchakato wa kudai mirathi ya mtumishi anayehusika.</seg>
+          <seg xml:id="seg39">Kwa sababu, kama familia haijamaliza mchakato wa kumtafuta msimamizi wa mirathi, mwajiri hana uwezo wowote wa kuanza ku-process mirathi ya mhusika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u17" who="MheFreemanAMboweKiongoziWaKambiYaUpinzaniBungeni">
+          <seg xml:id="seg40">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg41">Kwa kuwa malalamiko ya watumishi na watu wengine wanaoidai Serikali ni mengi na ya muda mrefu katika maeneo mbalimbali; na kwa sababu Serikali ina utaratibu wa kutoza adhabu pamoja na riba kwenye vyanzo vyake vya mapato.</seg>
+          <seg xml:id="seg42">Je, ni kwa nini sasa Serikali isione kwamba kuna haki ya kulipa riba kwa wale wanaoidai wakiwemo watumishi pale ambapo malipo yao yanachelewa ili kwa kufanya hivyo, vile vile iweze kuongeza ufanisi wa Serikali katika kuhakikisha kwamba nayo inawajibika pale uzembe unapotokea? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u18" who="WaziriWaNchiOfisiYaRaisMenejimentiYaUtumishiWaUmma">
+          <seg xml:id="seg43">Mheshimiwa Spika, si kwamba mtumishi anapochelewa kulipwa malimbikizo yake ya mshahara au madai yake ni kwamba kuna uzembe uliyofanyika. Mara nyingi inakuwa ni uwezo wa Halmashauri au wa Serikali kulipa kwa wakati.</seg>
+          <seg xml:id="seg44">Mheshimiwa Spika, kwa sasa hivi hatuna utaratibu wa kutoza riba. Lakini, inapobainika kwamba mtumishi amechelewa kulipwa stahili zake kwa uzembe, mtumishi ambaye amesababisha uzembne ule huwa anachukuliwa hatua za kinidhamu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 33. Madaktari wa Meno Nchini</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u19" who="MheMuhammadIbrahimSanya">
+          <seg xml:id="seg45">Huduma ya afya ni muhimu kwa kila Mtanzania; na nchi yetu ni kati ya nchi zenye ongezeko la watu mwaka hadi mwaka, hali inayoongeza hitaji la huduma mbalimbali:-</seg>
+          <seg xml:id="seg46">(a) Je, Tanzania inao Madaktari wangapi wa Meno?</seg>
+          <seg xml:id="seg47">(b) Je, Daktari mmoja wa Meno anapaswa kutibu wagonjwa wangapi?</seg>
+          <seg xml:id="seg48">(c) Je, tunahitaji kuwa na Madaktari wangapi wa Meno?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u20" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg49">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Muhammad Ibrahim Sanya, Mbunge wa Mji Mkongwe, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg50">(a) Mheshimiwa Spika, Tanzania ina Madaktari wa Meno 337, Madaktari wa Meno Wasaidizi 230 na Matabibu Meno 292.</seg>
+          <seg xml:id="seg51">(b) Mheshimiwa Spika, kwa mujibu wa viwango vya Shirika la Afya Duniani, Daktari wa Meno mmoja anapaswa kutibu wastani wa wananchi 7,500 kwa nchi zinazoendelea na wastani wa wananchi 1,000 kwa nchi zilizoendelea. Katika nchi yetu ambayo ina idadi ya watu milioni 40, uwiano wake na Madaktari wa Meno ni Daktari mmoja kwa wananchi 118,694. Madaktari hawa ni wachache sana, lakini katika ngazi za Wilaya na Vituo vya Afya wanasaidiwa na Kada nyingine ya Madaktari wa Meno Wasaidizi na Tabibu Meno.</seg>
+          <seg xml:id="seg52">(c) Mheshimiwa Spika, kwa kuzingatia viwango vya Shirika la Afya Duniani, kama nilivyoeleza kwenye kipengele (b) hapo juu, yaani Daktari wa Meno mmoja kwa wananchi 7,500, Tanzania inatakiwa kuwa na Madaktari wa Meno 5,330. Hivyo, Tanzania ina upungufu wa Madaktari 4,993. Aidha, naomba ifahamike kwamba Madaktari wengi waliopo wamebadilishwa fani, hivyo kusababisha uhaba mkubwa zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u21" who="MheMuhammadIbrahimSanya">
+          <seg xml:id="seg53">Mheshimiwa Spika, pam,oja na majibu mazuri ya Waziri, nina maswali mawili madogo ya nyongeza. Kwa kuwa,</seg>
+          <seg xml:id="seg54">kutokana na takwimu tulizopewa tuna upungufu mkubwa sana au kusema kwa ufupi, hatuna Madaktari wa Meno katika nchi ya Tanzania; kwa nini Wizara husika…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u22" who="Spika">
+          <seg xml:id="seg55">Sema wa kutosha!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u23" who="MheMuhammadIbrahimSanya">
+          <seg xml:id="seg56">Hatuna Madaktari wa meno wa kutosha! Kwa nini Wizara husika kwa kujua upungufu huu, wakaruhusu Madaktari hao kidogo waliopo kubadilisha fani zao na kuchukua fani zingine wakati tuna mahitaji makubwa ya Madaktari hao?</seg>
+          <seg xml:id="seg57">Swali la pili; hatuoni kwamba sasa wakati umefika kwa Serikali yetu kupitia Wizara hii wakaanzisha Dental Mobile Clinic ili wakafikiwa wagonjwa wa Meno zaidi Vijijini na shuleni nchini Tanzania?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u24" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg58">Mheshimiwa Spika, ni kweli kwamba tunatambua kwamba kuna upungufu mkubwa wa Madaktari wa Meno katika nchi yetu.</seg>
+          <seg xml:id="seg59">Lakini, katika jibu langu la msingi nilijibu kwamba pamoja na huo upungufu, tunao Madaktari Wasaidizi wa Meno pamoja na Matabibu ambao wanatusaidia katika Hospitali za Wilaya na katika Vituo vya Afya.</seg>
+          <seg xml:id="seg60">Lengo letu sasa hivi katika kutoa mafunzo ya Madaktari kwenye Fani ya Meno, tumeongeza capacity ya Muhimbili na tumeongeza pia capacity ya kuweza ku-train Matabibu pamoja na Madaktari wengine Wasaidizi ili katika hilo eneo waweze kufidia mtu anapokuwa anataka kubadili fani yake.</seg>
+          <seg xml:id="seg61">Mheshimiwa Spika, mtu anapotaka kwenda kusoma Udaktari wa meno ameamua mwenyewe, anapofika kule anaona labda yeye haikuwa ni wito wake anaamua kwenda kufanya shughuli nyingine. Sasa sisi kama Serikali hatutaweza kwenda kumkamata endelea kuwa Daktari wa meno, kwa sababu tunasema unaweza ukamfikisha mbuzi mtoni asinywe maji. Unaweza ukamshurutisha afike kule akawa ni kero kwa wagonjwa.</seg>
+          <seg xml:id="seg62">Mheshimiwa Spika, kwa hiyo hiyo ni demokrasia kila mmoja ana uhuru wa kufanya lile ambalo anaona anapenda kulifanya kwa moyo wake wote katika Nchi yetu.</seg>
+          <seg xml:id="seg63">(b) Mheshimiwa Spika, ni kweli kwamba ingewezekana tukaanzisha huduma za Dental Mobile Clinics naomba niseme kwamba outreach programmes au mobile clinics ni very expensive na ndiyo sababu tumekubali kwamba tuende kwenye ku-train kada ya chini ya kupeleka watu kwenye Wilaya na kwenye vituo vya afya, lakini pale ambako inawezekana kwa sasa hivi naomba niseme kwamba kutoka katika kituo chetu cha Muhimbili tuna hospitali moja nzuri sana, wale Madaktari wanatoka wanakwenda mashuleni kufanya kitu ambacho kinaitwa Oral Healthy Mobilization wanaangalia watoto wa shule. Lakini kwa sababu hatuna fedha za kutosha wanafanya kwenye maeneo ambayo wanaweza, lakini pale ambapo tukiwa na uwezo tutatafuta namna ya kuanzisha mobile clinics. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u25" who="MheRittaEKabati">
+          <seg xml:id="seg64">Mheshimiwa Spika ahsante. Naomba kumwuliza Waziri swali la nyongeza kwamba, kwa kuwa sasa hivi kumekuwepo na matangazo mbalimbali ya waganga wa kienyeji kwamba wanatibu meno bila kung’oa;</seg>
+          <seg xml:id="seg65">Je, Serikali inasemaje kuhusu hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u26" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg66">Mheshimiwa Spika, ni kweli kwamba kuna Waganga wa kienyeji wanaotangaza kwamba wanatibu meno bila kong’oa.</seg>
+          <seg xml:id="seg67">Mheshimiwa Spika, ni kwamba tuna sheria ya Waganga wa kienyeji ya mwaka 2009 kama nakumbuka inayowakataza wasitangaze, na mwenye kusimamia mambo hayo ya kuangalia kwamba watu wasitangaze waganga wa kienyeji na Madaktari wa kawaida wasijitangaze ni Halmashauri zetu kupitia Idara za Afya.</seg>
+          <seg xml:id="seg68">Mheshimiwa Spika, ningependa kusema kwamba tangu zamani tumekuwa na matibabu ya meno ya kienyeji, wanasema unauma hiyo dawa unapona. Sasa kwa sababu wanajitangaza na wananchi wanakwenda kule sisi hatutaweza kuzuia wananchi kwa sababu ile ni tiba mbadala ambayo kama kweli inafanyika vizuri inaweza ikawasaidia wananchi wetu. Lakini pale ambapo wanajitangaza ndipo ambapo nasema kwamba kufuatana na sheria ya waganga ya Tiba asili na tiba mbadala, ni kwamba kuanzia sasa ningependa kutoa wito kwa waganga wa kienyeji wasijitangaze na hasa wale ambao wanasema wanatibu Kifua Kikuu kujitangaza huko kunatuletea matatizo kwamba wagonjwa wanaacha tiba wanapata kifua kikuu sugu na nchi inapata matatizo ya kuwatibu na maambukizi yake yanakuwa ni hatari kwa wananchi wengine.</seg>
+          <seg xml:id="seg69">Mheshimiwa Spika, hivyo basi, wale ambao wanajitangaza kwamba wanatibu meno ningeomba na wao pia wafuate sheria. Na kuanzia sasa natoa wito kwa Halmashauri zetu zifuatilie wale ambao wanatangaza wanakwenda kinyume na sheria ya Tiba ya Asilia na tiba mbadala ili anayetoa huduma atoe huduma zake alipo asitangaze na kuwachanganya wananchi.</seg>
+          <seg xml:id="seg70">Mheshimiwa Spika, kutangaza siyo sahihi naomba waache mara moja.</seg>
+        </u>
+        <note>Na. 34. Uvuvi Haramu Nchini</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u27" who="MheYussufHajiKhamis">
+          <seg xml:id="seg71">(a) Je, Serikali imejipanga vipi kuzuia uvuvi haramu?</seg>
+          <seg xml:id="seg72">(b) Je, ni meli ngapi zilizokamatwa toka mwaka 2005-2010 kwa kosa la uvuvi</seg>
+          <seg xml:id="seg73">haramu?</seg>
+          <seg xml:id="seg74">(a) Mheshimiwa Spika, katika kupambana na uvuvi haramu, Wizara kwa kushirikiana na mamlaka za Serikali za mitaa inatekeleza yafuatayo:-</seg>
+          <seg xml:id="seg75">(i) Inatoa elimu bora na wenye tija kwa uvuvi na wadau wengine wa sekta ya uvuvi kwa njia ya semina, makangamano, mikutano ya hadhara, maandiko mbalimbali pamoja na kuwatembelea wavuvi.</seg>
+          <seg xml:id="seg76">Kwa mfano kuanzia mwezi Julai 2010 hadi Februari 2011, jumla ya 229 wa ukanda wa pwani wamepatiwa mafunzo hayo. Kutokana na elimu hiyo, taarifa kadhaa za uvuvi haramu ziliripotiwa.</seg>
+          <seg xml:id="seg77">(ii) Serikali imewahasisha na kuwezesha wananchi kuanzisha vikundi vya usimamizi wa rasilimali za uvuvi(Beach Management Units (BMUs) katika Wilaya 15 za ukanda wa pwani ambapo hadi sasa jumla ya vikundi 165 vimeanzishwa.</seg>
+          <seg xml:id="seg78">(iii) Serikali imeanzisha vikosi vya doria katika ukanda wa Pwani, katika vituo vya Dar es Salaam, Tanga, Mafia, Kilwa na Mtwara. Kazi za vituo hivyo ni pamoja na kusimamia utekelezaji wa sheria ya Uvuvi Na. 22 ya mwaka 2003 na Kanuni za Uvuvi za mwaka 2009.</seg>
+          <seg xml:id="seg79">(iv) Wizara kupitia kitengo cha Hifadhi za bahari na maeneo tengefu inasimamia sehemu zilizohifadhiwa kwa ajili ya mazalia na makulia ya samaki.</seg>
+          <seg xml:id="seg80">(v) Wizara kupitia Mradi wa usimamizi wa mazingira ya Bahari na Ukanda wa Pwani (MACEMP), inawezesha wananchi kwa njia ya kutoa elimu na mitaji mbalimbali kwa wavuvi na wachakataji wa samaki na mazao ya uvuvi wa ukanda wa Pwani ili kupata zana bora za uvuvi na shughuli nyingine mbadala za kiuchumi kama vile ufugaji wa nyuki, ufugaji wa samaki, ufugaji wa kuku, kunenepesha kaa, kuchakata samaki na kilimo cha mwani.</seg>
+          <seg xml:id="seg81">(b) Mheshimiwa Spika, kuanzia mwaka 2005-2010 ni meli moja tu ya kigeni iitwayo Tawariq 1, ilikamatwa mwezi Machi mwaka 2009 ikivua katika Bahari Kuu ya Tanzania. Meli hiyo ilikuwa na tani 296.3 za aina mbalimbali za samaki. Mabaharia wa meli hiyo wakiongozwa na nahodha wake walifikishwa Mahakamani na kesi bado inaendelea kusikilizwa katika Mahakama Kuu Kanda ya Dar es Salaam.</seg>
+          <seg xml:id="seg82">Mheshimiwa Spika, kwa ruhusa yako naomba kuuliza swali mmoja la nyongeza.</seg>
+          <seg xml:id="seg83">Mheshimiwa Spika, hizi tani 296.3 zilizokamatwa na kwenye meli hii ya Tawariq 1, ninataka kujua mpaka sasa samaki hawa bado wapo na kama hawapo wamefanywa nini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u28" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg84">Mheshimiwa Spika, kwa niaba, Ohh!</seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u29" who="Spika">
+          <seg xml:id="seg85">Kwa niaba ya Mheshimiwa Magufuli? Ulizoea kwa niaba ya Mheshimiwa Magufuli. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u30" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg86">Mheshimiwa Spika nilizoea kujibu maswali kwa niaba ya Waziri na sasa hivi Mungu amesaidia ni Waziri Kamili kwa hiyo najibu mwenyewe. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u31" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg87">Mheshimiwa Spika, samaki hawa hawapo, waligawanywa bure kwa mashirika mbalimbali taasisi mbalimbali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u32" who="MheAlphaxardKNLugola">
+          <seg xml:id="seg88">Mheshimiwa Spika ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg89">Kwa kuwa mojawapo ya sababu kubwa zinazosababisha uvuzi haramu hasa kwa kutumia nyavu ambazo haziruhusiwi hauishi, na kwa kuwa unatokana na viwanda vinavyotengeza nyavu hizi kutochukuliwa hatua. Hata wale wanaosambaza kutochukuliwa hatua wakati sheria za kuwachukulia hatua zipo. Kwa kuwa Katiba ya Jamhuri ya Muungano inawataka watu wote watendewe sawa kwa mujibu wa sheria, lakini ni wavuvi ambao wapo Ziwa Viktoria, Nyumba ya Mungu na sehemu nyingine ndiyo huwa wanavamiwa kwa doria na kuchomewa nyavu zao.</seg>
+          <seg xml:id="seg90">Je, Waziri haoni kwamba kwa staili hiyo hiyo inatakiwa viwanda navyo vivamiwe na kuchomwa moto pamoja na maduka? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u33" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg91">Mheshimiwa Spika, Serikali haikamati Wavuvi haramu peke yake bali pia inakwenda kwenye viwanda pamoja na maduka na sasa hivi kuna kesi mbalimbali ambazo zinaendelea ziko mahakamani kwa wale wenye viwanda ambao wanatengeneza nyavu ambazo zimepigwa marufuku.</seg>
+          <seg xml:id="seg92">Mheshimiwa Spika, kwa hiyo, napenda kumhakikishia Mbunge kwamba tunaangalia maeneo yote, kuanzia maeneo ya uzalishaji, maeneo ya uingizaji, pamoja na maeneo ya kutumia nyavu hizi ambazo ni haramu.</seg>
+          <seg xml:id="seg93">Mhehsimiwa Spika, napenda kulijulisha Bunge lako Tukufu kwamba uvuvi haramu hautokani na nyavu peke yake, uvuvi haramu ni pamoja na kwamba unatokana na zana pamoja na mbinu ambazo zinatumika ambazo hazikubaliki lakini pia inatokana na aina ya viumbe ambavyo unavivua. Kwa mfano Kasa hairuhusiwi kuvuliwa, Nyangumi</seg>
+          <seg xml:id="seg94">hairuhusiwi kuvuliwi, Dolphins hawaruhusiwi kuvuliwa pamoja na samaki ambao wana mayai hawaruhusiwi kuvuliwa. Na kila aina ya samaki ina saizi ambazo zinaruhusiwa kuvuliwa.</seg>
+          <seg xml:id="seg95">Mheshimiwa Spika, vile vile kuna maeneo tengefu ambayo hayaruhusiwi kuvuliwa hata kama una nyavu zinazoruhusiwa kisheria lakini kama unavua kwenye maeneo Tengefu ambayo ndiyo yanatumika kama mazalia ya samaki uvuvi huo unakuwa ni haramu.</seg>
+          <seg xml:id="seg96">Vile vile kuna kipindi ambacho tunafunga tukasema kwamba sasa hivi haturuhusu kuvua samaki kwa sababu zimepungua, kwa mfano Kamba Koche tumezuia wasivuliwe kwa sababu wamepungua. Tumefunga kwa kipindi tu mpaka wawe wengi wakishakuwa wengi basi tutaruhusu tena watu wavue.</seg>
+          <seg xml:id="seg97">Mheshimiwa Spika, hivyo zana peke yake siyo uvuvi haramu lakini aina ya samaki, kipindi unachovua pamoja na maeneo ambayo wanavua ndiyo tunasema ni uvuvi haramu.</seg>
+        </u>
+        <note>Na. 35. Kuboresha Mazingira ya Wafugaji</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u34" who="MheDktAnthonyGMbassa">
+          <seg xml:id="seg98">Serikali ilitoa kibali cha kufanya operesheni ya kusaka waharibifu wa mazingira hususani wafugaji na wakulima katika maeneo yanayozunguka misitu ya hifadhi:-</seg>
+          <seg xml:id="seg99">(a) Je, ni lini Serikali itapima maeneo husika ili wafugaji waache kubugudhiwa?</seg>
+          <seg xml:id="seg100">(b) Je, ni lini Serikali itawahakikishia wafugaji huduma ya mifugo yao maana</seg>
+          <seg xml:id="seg101">wanafuga bila kuwa na ushauri wa watalaam wa mifugo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u35" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg102">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Dkt. Anthony Mbassa, Mbunge wa Biharamulo Magharibi, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg103">(a) Mheshimiwa Spika, Serikali kupitia Tume ya Matumizi Bora ya Ardhi imekuwa ikiandaa mpango wa matumizi Bora ya Ardhi. Hadi sasa jumla hekta 2,061,566.07 katika mikoa 17 zimepimwa kwa ajili ya ufugaji. Aidha, katika Wilaya ya Biharamulo jumla ya hekta 8,054.33 zimepimwa na kutengwa kwa ajili ya ufugaji katika vijiji vinne. Baada ya kutenga maeneo hayo, Wizara ya Maendeleo ya Mifugo na Uvuvi kwa kushirikiana na Halmashauri husika zinaandaa mipango ya maendeleo ya maeneo ya malisho na itakapokamilika maeneo hayo yatatangazwa kwenye Gazeti la Serikali kwa</seg>
+          <seg xml:id="seg104">mujibu wa sheria ya maeneo ya malisho na Rasilimali za vyakula vya Mifugo Na. 13 ya mwaka 2010.</seg>
+          <seg xml:id="seg105">(b)Mheshimiwa Spika, itakumbukwa kwamba, Serikali ilisimamisha ajira kuanzia kipindi cha mwaka 1992 mpaka 2002, na hii ilisababisha kuwepo kwa upungufu wa Maafisa Ugani. Tathmini iliyofanyika mwaka 2007, ilionyesha mahitaji halisi ya Maafisa Ugani wa mifugo ni 16,050 na waliokuwepo ni 2,581, hivyo kuwa na upungufu wa watalaam 13,469. Kwa sasa Halmashauri ya Wilaya ya Biharamulo ina watalaamu wa mifugo 13.</seg>
+          <seg xml:id="seg106">Mheshimiwa Spika, kuanzia mwaka 2007/2008 Wizara iliweka mkakati wa kupanua na kuimarisha vyuo vyake sita vya mafunzo ya mifugo na Ugani ili kukidhi mahitaji ya Watalaamu wenye Astashahada na Stashahada. Jumla ya wanafunzi 2,126 wamehitimu na 1,591 kuajiriwa na Halmashauri za Serikali za Mitaa (LGAs). Hadi sasa Taifa lina pengo la watalaamu 11,874.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u36" who="MheDktAnthonyGMbassa">
+          <seg xml:id="seg107">Mheshimiwa Spika nakushukuru kwa kunipa nafasi ya kuuliza maswali matatu ya nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u37" who="Spika">
+          <seg xml:id="seg108">Ni maswali mawili tu siyo matatu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u38" who="MheDktAnthonyGMbassa">
+          <seg xml:id="seg109">Mheshimiwa Spika ahsante, namshukuru sana Waziri kwa majibu yake mazuri.</seg>
+          <seg xml:id="seg110">Kwa kuwa wakati zoezi hili linafanyika lilifanyika katika vijiji vinne na jumla ya hekari 8054.33 zilitengwa, na leo hii vijiji vimeongezeka na Kata zimeongezeka.</seg>
+          <seg xml:id="seg111">(a)Je, haoni kwamba kuna haja ya kufanya tathmini hii upya na kupima haraka maeneo haya.</seg>
+          <seg xml:id="seg112">(b)Kwa kuwa, Halmashauri imeona sasa suala la wafugaji ni kama chanzo cha mapato na wamekuwa wakinyanyaswa hapa na pale. Je Waziri haoni kwamba kuna haja ya kuwapatia maeneo ya kufugia haraka sana?</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u39" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg113">Mheshimiwa Spika, kwanza; ninakubaliana na Mbunge kwamba maeneo ambayo yameongezeka kuna haja ya Tume hiyo na kupima upya ili maeneo hayo pia yaweze kutumika kwa ajili ya mifugo. Lakini Pili, ushauri wake nitauzingatia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u40" who="MheRegiaEMtema">
+          <seg xml:id="seg114">Mheshimiwa Spika nashukuru kwa kuniona na kunipa nafasi ya kuuliza swali la nyongeza; Napenda kuuliza swali la nyongeza kama ifuatavyo.</seg>
+          <seg xml:id="seg115">Kwa kuwa wananchi wa Wilaya ya Kilombero hasa wafugaji na wenyewe wanakabiliwa na changamoto kubwa, kumekuwa na migongano kati yao pamoja na wakulima.</seg>
+          <seg xml:id="seg116">Je, Waziri anazungumzia nini suala hili la migogoro kati ya Wafugaji na wakulima ndani ya Wilaya ya Kilombero?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u41" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg117">Mheshimiwa Spika, nakubaliana na yeye kwamba maeneo hayo yalikuwa na migogoro lakini katika maeneo ambayo yamefaidika ya mwanzo kabisa katika kupimwa ardhi hii ya ekari milioni mbili ni pamoja na Wilaya ya Kilombero na Kilindi.</seg>
+          <seg xml:id="seg118">Kwa hiyo, ninaziomba Halmashauri ziweze kuharakisha ili kukamilisha mchakato huu wa kuwaonesha wananchi maeneo yaliyopimwa na waweze kutenga fedha kwa kutumia DADPS ili waweze kujenga malambo pamoja na majosho ya kusaidia wafugaji hawa maeneo hayo ili waweze kufaidika na zoezi hili la upimaji wa ardhi.</seg>
+        </u>
+        <note>Na. 36. Nyumba Zilizokuwa za Maendeleo ya Wananchi</note>
+        <note>(K.n.y.) MHE. ZARINA SHAMTE MADABIDA</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u42" who="MheMariamNassoroKisangi">
+          <seg xml:id="seg119">Nyumba za maendeleo (Welfare Building) zilikuwa zinatoa elimu kama kusoma/kuandika, elimu ya uchumi kwa nadharia na vitendo, lugha, upishi, kushona na kadhalika kwa wanawake wa rika zote na katika Jijini Da es Salaam ilikuwa ni jengo la Arnatoglu katika Manispaa ya Ilala, na Magomeni ambako sasa zipo ofisi za Manispaa ya Kinondoni. Nyumba hizo kwa sasa hazipo na majengo yaliyokuwepo yanatumika kwa kazi nyingine.</seg>
+          <seg xml:id="seg120">(a)Je, Serikali ina mpango gani wa kurudisha nyumba hizo ili ziweze kutumika kwa maksudi ya kuwapo kwake?</seg>
+          <seg xml:id="seg121">(b)Je, Serikali iko tayari kuzisimamia na kuhakikisha zinafanya kazi iliyokusudiwa ikiwa ni pamoja na upatikanaji wa walimu wa fani hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u43" who="NaibuWaziriWaMaendeleoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg122">Mheshimiwa Spika, kwa niaba ya Waziri wa Maendeleo ya Jamii na Ustawi wa Jamii, kabla ya kujibu swali la Mheshimiwa Zarina Shamte Madabida, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) napenda kwanza kutoa maelezo ya jumla kama ifuatavyo:-</seg>
+          <seg xml:id="seg123">Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kuhusu umuhimu wa majumba ya maendeleo yaliyokuwepo hapo awali katika Halmashauri mbalimbali nchini kwa madhumuni ya kuwapatia wananchi taarifa, maarifa, stadi za maisha na burudani.</seg>
+          <seg xml:id="seg124">Majumba hayo yalitumika pia kuendeshea mikutano, uhamasishaji na kutoa mafunzo ya stadi na kuendeshea kimasomo chenye manufaa.</seg>
+          <seg xml:id="seg125">Mheshimiwa Spika, kutokana na utafiti mdogo uliofanywa katika mikoa ya Tanga, Dodoma, Morogoro na Dar es Salaam. Wizara yangu imebaini kuwa majumba mengi yamebadilishwa matumizi yake na kutumika kama ofisi au kukodishwa kwa wafanyabiashara ambao wengine huyatumia kama baa au vilabu vya pombe.</seg>
+          <seg xml:id="seg126">Jengo la Arnatoglu ambalo Mheshimiwa Mbunge amelitolea mfano ndimo zilizo ofisi za Halmashauri ya Manispaa ya Ilala. Serikali ilipitisha mapendekezo ya kuimarisha sekta ya maendeleo ya Jamii mwaka 2007 yaliyoandaliwa na Wizara yangu ambayo pamoja na mambo mengine yalisisitiza kuwa majumba ya Maendeleo yafufuliwe na kurejeshwa katika matumizi yake ya awali.</seg>
+          <seg xml:id="seg127">Mheshimiwa Spika, baada ya maelezo hayo sasa naomba kujibu swali la Mheshimiwa Mbunge, lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg128">Mheshimiwa Spika, katika kukubali mapendekezo ya kuimarisha sekta ya maendeleo ya jamii, Serikali imezielekeza Halmashauri zote nchini kufufua vituo/majumba ya maendeleo (community centres) mara moja na kuvitumia kulingana na madhumuni ya kujengwa kwake. Aidha, Wizara yangu kupitia barua Kumb. CAB.67/156/02/B/31 ya tarehe 7 Mei, 2007 iliikumbusha Ofisi ya Waziri Mkuu, Tawala za Mikoa na Serikali za Mitaa kuhusu utekelezaji wa uamuzi huo wa Serikali haraka iwezekanavyo.</seg>
+          <seg xml:id="seg129">Mheshimiwa Spika, napenda kuwajulisha Waheshimiwa Wabunge, kuwa jukumu la usimamizi na uendeshaji wa majumba ya maendeleo ni la Halmashauri husika. Hivyo, nawaomba wakati tunapokuwa kwenye vikao vya kujadili na kupitisha mipango mbalimbali ya maendeleo katika Halmashauri zetu suala la ufufuaji na uimarishaji wa majumba ya maendeleo vilevile lipewe kipaumbele.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u44" who="MheMariamNKisangi">
+          <seg xml:id="seg130">Mheshimiwa Spika, kwa kuwa Wizara yako imeshatoa amri toka mwaka 2007 ya kurudisha majengo hayo na bado amri hiyo haijatekelezwa. Kwanza, je, Wizara yako ina mkakati gani wa kuwasaidia wanawake wa Dar es Salaam ili waweze kupata maeneo ya kufanyia shughuli zao za maendeleo?</seg>
+          <seg xml:id="seg131">Pili, je, Wizara yako iko tayari kushirikiana na wanawake wa Dar es Salaam pamoja na Mikoa mingine ili kuweza kusaidia kukomboa majengo hayo? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u45" who="NaibuWaziriWaMaendeleoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg132">Mheshimiwa Spika, Wizara yetu iko tayari kushikiriana na wanawake wa Mkoa wa Dar es Salaam kuhakikisha kwamba wanapata maeneo ya kufanyia shughuli zao. Jibu langu la msingi ni kwamba, Serikali tayari imeshatoa agizo majumba ya maendeleo yafufuliwe na yarejeshwe. Sisi kama Wizara husika tutashirikiana na Wizara ya TAMISEMI. Nafurahi kwamba kuna Mheshimiwa Captain Mstaafu kuhakikisha kwamba majumba ya maendeleo yanarejeshwa ili wanawake siyo tu wa Dar es Salaam lakini hata kule kwetu</seg>
+          <seg xml:id="seg133">Tanga, Morogoro, Kigoma, Singida, wapate nafasi ya kubadilishana mawazo kuhusu maendeleo, masuala ya uzazi salama, masuala ya uchumi na masuala ya ujasiriamali. Kwa hiyo, Wizara tutalifuatilia na baada ya kipindi kifupi tutatoa majibu mazuri kuhakikisha kwamba majumba ya maendeleo yanatumika kwa ajili ya maendeleo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u46" who="MheLeticiaMNyerere">
+          <seg xml:id="seg134">Mheshimiwa Spika, tatizo la kukosa nyumba za maendeleo ni tatizo kubwa na linaathiri akinamama hususan wa Mikoa ya Mwanza na Geita. Matokeo yake kwa sababu wanawake hao wamekosa sehemu ya kukutana na kujifunza mambo ya msingi wameishia kwenye mambo yasiyofaa yakiwemo mazungumzo yasiyokuwa na tija.</seg>
+          <seg xml:id="seg135">Mheshimiwa Spika, kwa kuwa Serikali imeshindwa kuboresha ama kuendesha nyumba hizi za maendeleo, je, haioni kuwa ni busara kushirikiana na wadau binafsi ili hatimaye tuweze kufufua hizi nyumba za maendeleo ambazo ni uti wa mgongo katika maendeleo ya mwanamke wa leo? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u47" who="NaibuWaziriWaMaendeleoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg136">Mheshimiwa Spika, suala la msingi hapa, sisi kama Serikali tuna dhamana kubwa kabisa ya kuhakikisha majumba ya maendeleo yanafufuliwa na yanafanya kazi kama ilivyokusudiwa. Lakini si vibaya kama tutapata wadau wengine binafsi wakatujengea majumba ya maendeleo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u48" who="NaibuWaziriWaMaendeleoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg137">Mkakati wetu ni kwamba ikiwezekana yasiishie tu kwenye level ya Wilaya, yafike mpaka kwenye level ya Tarafa na level ya Kata ili kusudi wanawake wapate nafasi. Tunapozungumzia maendeleo ya jamii kama wananchi hasa wanawake hawako involved, hawako empowered, hawako sensitize kuhusu masuala ya maendeleo ambayo majumba haya ndiyo yanatakiwa yawe kama vituo vya kutoa hiyo elimu, ni kweli hatutaweza kufikia hatua kimaendeleo. Kwa hiyo, ni suala muhimu sana majumba haya yakafufuliwa.</seg>
+          <seg xml:id="seg138">Mheshimiwa Spika, natoa nafasi hii kuwaomba wadau, Mashirika yasiyo ya Kiserikali watusaidie pamoja na Halmashauri tuyajenge haya majumba ya maendeleo na si tu kwa wanawake hata vijana wanacheza michezo ambayo haina maana, wanafanya shughuli ambazo hazina maana za kuvuta bangi. Lakini kama kuna majumba ya maendeleo watapata nafasi ya kujua masuala ya elimu ya afya ya uzazi, ujasiriamali na majumba muhimu sana. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u49" who="Spika">
+          <seg xml:id="seg139">Naona umewakuna wengi lakini sina hakika ni majumba ya maendeleo au ni ukumbi wa mikutano.</seg>
+          <seg xml:id="seg140">Ajira ya Watoto</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u50" who="MheRebeccaMMngodo">
+          <seg xml:id="seg141">Kitendo cha kuajiri watoto ni kukiuka sheria na haki za mtoto, lakini licha ya hivyo hapa nchini bado kuna tabia ya baadhi ya watu wanaoajiri watoto kwenye maeneo mbalimbali hususan Wilayani Arumeru Mashariki ambako kuna mashamba ya maua yaliyoko USA River.</seg>
+          <seg xml:id="seg142">Je, Serikali inatoa tamko gani la kuwachukulia hatua kali wale wote wanaobainika kuwaajiri watoto?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u51" who="NaibuWaziriWaMaendeleoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg143">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Rebecca M. Mngodo kama ifuatavyo:-</seg>
+          <seg xml:id="seg144">Mheshimiwa Spika, utumikishwaji wa watoto ni kitendo cha watoto kufanyishwa kazi ngumu na hatari katika mazingira ambayo humuathiri mtoto kiakili, kiafya, kimaadili na kielimu. Vitendo hivi ni ukikukwaji wa kanuni za msingi za haki za mtoto.</seg>
+          <seg xml:id="seg145">Mheshimiwa Spika, Serikali kupitia Bunge lako Tukufu imetunga Sheria ya Ajira na Mahusiano Kazini Na. 6 ya mwaka 2004 na Sheria ya Mtoto Na. 21 ya mwaka 2009 ambazo zinazuia utumikishwaji wa watoto katika kazi hatarishi kama vile kazi za migodini, viwandani, ukahaba, uvuvi na mashambani, hasa mashamba makubwa ya chai, tumbaku, katani na maua). Kifungu cha 5(1) cha Sheria ya Ajira kinakataza kabisa ajira ya watoto walio chini ya miaka 14. Kifungu cha 5(2) kinatoa mazingira ya mtoto wa umri wa kati ya miaka 14 hadi 17 kuajiriwa katika kazi nyepesi na ambazo hazina madhara kwa afya na maendeleo ya mtoto na kwamba kazi hiyo haitaathiri mahudhurio ya mtoto shuleni, au ushiriki wake katika mafunzo ya ufundi au program nyingine za kielemu. Vile vile Sheria ya Mtoto Na. 21 ya mwaka 2009 inakatiza ajira mbaya na za kinyonyaji kwa mtoto.</seg>
+          <seg xml:id="seg146">Sheria zote mbili hizi zimetoa adhabu kwa mtu yeyote atakayepatikana na hatia. Kwa mujibu wa Sheria ya Ajira, kwa anayepatikana na hatia adhabu yake ni faini isiyozidi shilingi milioni tano (5) au kifungo cha mwaka mmoja au vyote kwa pamoja. Sheria ya Mtoto inatoa adhabu mbalimbali kuhusiana na ajira hatarishi, udhalilishaji na unyonyaji wa mtoto ikianzia na faini ya shilingi elfu hamsini hadi milioni tano na kifungo cha miezi mitatu hadi miaka ishirini kulingana na uzito wa kosa lililotendwa.</seg>
+          <seg xml:id="seg147">Mheshimiwa Spika, kwa kuzingatia sheria za nchi, yeyote atakayeajiri mtoto katika kazi hatarishi, yaani kazi itakayohatarisha afya, mahudhurio shuleni, ustawi, usalama, maadili na maendeleo ya mtoto, atakuwa ametenda kosa la jinai na hivyo kustahili adhabu kwa mujibu wa sheria za nchi.</seg>
+          <seg xml:id="seg148">Mheshimiwa Spika, napenda kutumia nafasi hii kuliahidi Bunge lako Tukufu kuwa Serikali itaendelea kushirikiana na wadau mbalimbali kutoa elimu kwa jamii juu ya athari ya ajira mbaya kwa watoto.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u52" who="MheRebeccaMMngodo">
+          <seg xml:id="seg149">Mheshimiwa Spika, kwa kuwa bado kuna watoto wanaajiriwa katika mazingira magumu hasa katika mashamba ya maua kwa mfano USA River, ni kwa nini Wizara imeshindwa kuwachukulia hatua kali za kisheria ambazo Naibu Waziri amezielezea?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u53" who="NaibuWaziriWaMaendeleoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg150">Mheshimiwa Spika, ni kweli bado kuna watoto nakubali kwamba wameajiriwa katika kazi hatarishi. Sheria imeweka vyombo husika vya kufuatilia katika ngazi ya Halmashauri kwa mfano kuna Maafisa Ustawi wa Jamii, Maafisa Maendeleo ya Jamii katika kila Halmashauri, tuanze katika ngazi hiyo kwanza. Naomba nitumie fursa hii kuwakumbusha Maafisa Ustawi wa Jamii na Maafisa Maendeleo ya Jamii ni jukumu lao kuhakikisha kwamba watoto hawaajiriwi katika kazi ambazo zinahatarisha elimu, mahudhurio yao ya shule, afya zao na masuala pia ya kimaendeleo. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u54" who="MheFaidaMohamedBakar">
+          <seg xml:id="seg151">Mheshimiwa Spika, kwa kuwa tatizo la kuajiriwa watoto limekuwa sugu hapa Tanzania na kwa kuwa kuna baadhi ya hawa waajiri mbali na kuwaajiri watoto hawa kuwafanyisha kazi mbalimbali lakini wanawadhalilisha kijinsia. Je, Serikali itakubaliana nami kwamba sasa ni wakati muafaka wa kufanya sensa maalum ya kuwatambua waajiriwa hawa ili kujua ukubwa wa tatizo na kuwachukulia hatua za haraka? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(K.n.y. WAZIRI WA MAENDELEO YA JAMII, JINSIA NA WATOTO</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u55" who="NaibuWaziriWaKaziNaAjira">
+          <seg xml:id="seg152">Mheshimiwa Spika, hili alilolizungumza ni kweli. Wizara yetu ya Kazi na Ajira imekuwa ikifanya tafiti mbalimbali kuona maeneo ambapo ajira ya watoto bado ipo na inaonekana bado ajira ya watoto ni suala zito kama ambavyo Wabunge wanasema. Ni ahadi mbele ya Bunge lako kwamba Wizara yangu itaendelea kufanyia shughuli hii kwa maana ya kufanya kaguzi katika maeneo mbalimbali ili suala hili la ajira kwa watoto kwa mujibu wa sheria zetu ambazo zipo pamoja na Conventions za ILO pamoja na Umoja wa Mataifa, ziweze kutimizwa na waajiri wetu. Tunaahidi kwamba mwaka huu tukipata fedha vizuri katika bajeti yetu ya kutuwezesha kufanya kazi hii ya ubaguzi basi kazi hizi zitafanywa kwa kasi zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 38. Uhaba wa Maji Safi – Kibaha</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u56" who="MheSilvestryFKoka">
+          <seg xml:id="seg153">Maeneo mengi ya Jimbo la Kibaha Mjini hayana maji safi ya bomba na zimetolewa ahadi mbalimbali za kuupatia maji mji huo:-</seg>
+          <seg xml:id="seg154">Je, ni lini Serikali itatimiza ahadi hizo na kuwaondolea wananchi kero hiyo ya maji safi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u57" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg155">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Silvestry Francis Koka, Mbunge wa Kibaha Mjini kama ifuatavyo:-</seg>
+          <seg xml:id="seg156">Mheshimiwa Spika, Mji wa Kibaha ni moja ya maeneo yanayopata maji kupitia Kampuni ya Usambazaji Maji Safi na Uondoaji wa Maji Taka Jijini Dar es Salaam (DAWASCO). Ni kweli kuna tatizo la maji katika maeneo mengi ya Jimbo la Kibaha. Sababu kubwa ya uhaba wa maji katika maeneo hayo inatokana na uwezo mdogo wa uzalishaji maji katika mtambo ulioko Ruvu Juu unao uwezo wa kukidhi ongezeko kubwa la mahitaji ya huduma hiyo, hiii inatokana na ukweli kwamba kumekuwa na ongezeko la makazi na shughuli za kibiashara kati ya Mlandizi na Kimara.</seg>
+          <seg xml:id="seg157">Mheshimiwa Spika, ili kumaliza tatizo hilo Serikali itapanua mtambo wa Ruvu Juu ili kuongeza uzalishaji kutoka lita milioni 82 kwa siku. Mchakato wa zabuni ya kumtafuta Mtaalam Mshauri atakayefanya mapitio ya usanifu na kuchunguza athari za kijamii na mazingira, pamoja na kusimamia ujenzi umeanza. Zabuni ya kumtafuta Mkandarasi inatarajiwa kutangazwa kuanzia mwezi August, 2011. Kazi ya upanuzi wa mtambo inatarajiwa kuanza mwezi Januari, 2012. Katika mpango huo pia, bomba kuu la ziada toka Kibaha hadi Kimara lenye urefu wa kilomita 43 litajengwa. Mradi huo unakadiriwa kugharimu shilingi billioni 22.25 hadi kukamilika.</seg>
+          <seg xml:id="seg158">Mheshimiwa Spika, kukamilika kwa mradi wa upanuzi wa mtambo wa Ruvu Juu kutawezesha Mji wa Kibaha kupata maji ya kutosha na hivyo kuondoa tatizo lililopo sasa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u58" who="MheSilvestryFKoka">
+          <seg xml:id="seg159">Mheshimiwa Spika, pamoja na majibu mazuri ya Naibu Waziri, kuhusu mpango huu wa muda mrefu utakaotatua tatizo hili kikamilifu ni ukweli kwamba wananchi wa Jimbo la Kibaha Mjini wamekuwa wakiteseka na kupata athari za kiafya na za kiuchumi kwa ajili ya kukosa maji katika maeneo mbalimbali hususan Pangani kwa maana ya Vikawe Shule, Vikawe Bondeni, Viziwaziwa, Mbwawa pamoja na Kongowe.</seg>
+          <seg xml:id="seg160">Kwanza, je, Serikali ina mpango gani wa muda mfupi utakaohakikisha kwamba wananchi hawa wanapata mradi wa maji wa haraka ikiwa ni pamoja na visima vya maji masafi ili waondokane na tatizo la magonjwa yanayotokana na maji yasiyo salama pamoja na tatizo la kununua maji kwa gharama kubwa karibu shilingi 1000 kwa ndoo moja?</seg>
+          <seg xml:id="seg161">Pili, Mheshimiwa Spika, je, Serikali haioni sasa ni muda muafaka wa kufanya mchakato katika Mji wa Kibaha ili Mji wenyewe uweze kupata Mamlaka ya Maji ili uweze kusimamia kikamilifu mradi huu mkubwa utakaoanzishwa kwa maana DAWASCO haijaonyesha ufanisi mkubwa hata kwa huduma ya maji katika Jiji la Dar es Salaam peke yake? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u59" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg162">Mheshimiwa Spika, kwanza naomba kulieleza Bunge hili kwamba Serikali imeanza mpango maalum wa kuweza kuongeza uwezo wa uzalishaji maji kwa kuweza kutatua tatizo la Dar es Salaam. Kwa sasa hivi tunazalisha lita milioni 300. Mpango huu Maalum utachukua miaka mitatu mpaka 2013 Desemba, tutaweza kuzalisha lita milioni 710. Kwa hiyo, tatizo la kukosa maji maeneo ya Kibaha litatatuliwa.</seg>
+          <seg xml:id="seg163">Kwa Kibaha pia tuna mpango kila Manispaa ina vijiji kumi ambavyo tutahakikisha kila kijiji kitaweza kupata maji safi kulingana na mpango huo.</seg>
+          <seg xml:id="seg164">Katika suala la pili kuhusu kuunda Mamlaka ya Maji Mjini Kibaha ni sera ya Serikali kwamba maji mijini zinaundiwa mamlaka kwa hiyo, suala hilo tutalifanyia kazi. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u60" who="MheDavidESilinde">
+          <seg xml:id="seg165">Mheshimiwa Spika, kwa kuwa kero ya maji limekuwa ni tatizo kubwa katika Taifa letu ambalo limeshindwa kupatiwa majibu ya msingi kama ilivyoelezwa katika swali la msingi. Je, sasa Serikali inaweza kutueleza mkakati wa muda mfupi wa kati ya miezi sita mpaka mwaka mmoja ambao unaweza kuwasaidia Watanzania wakiwemo wananchi wa Jimbo la Mbozi Magharibi kuondokana na kero ya maji wakati huo wakisubiri mkakati wa muda mrefu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u61" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg166">Mheshimiwa Spika, Serikali imekuwa na mpango wa muda mfupi na muda mrefu kuwapatia wananchi maji. Katika mradi wa kuendeleza sekta ya maji WSDP ambao kila Halmashauri unatekelezwa ni kwamba jinsi mnavyoweza kufanya utekelezaji kwa haraka ndivyo mnavyoweza kupata maji. Kwa hiyo, mipango inategemeana na mipango ya Halmashauri kuweza kuwahudumia wananchi maji pale walipo. Kwa hiyo, ipo mipango ya muda mfupi na mipango ya muda mrefu.</seg>
+        </u>
+        <note>Na. 39. Ufufuaji wa Matanki ya Maji-Mufindi Kusini</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u62" who="MheMendradLKigola">
+          <seg xml:id="seg167">Matanki yaliyojengwa kwa michango ya wananchi wakishirikiana na Serikali katika Vijiji vya Nyololo, Kibao na Sawala katika Jimbo la Mufindi Kusini hayafanyi kazi kwa muda wa miaka kumi sasa:-</seg>
+          <seg xml:id="seg168">Je, Serikali ina mpango gani wa kuyafufua matanki hayo ili wananchi waweze kupata maji ya bomba?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u63" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg169">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Mendrad L. Kigola, Mbunge wa Mufindi Kusini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg170">Mheshimiwa Spika, matanki ya maji kwenye vijiji vya Nyololo, Kibao na Sawala yalijengwa katika miaka ya 1970. Matanki haya yalisimama kufanya kazi miaka ya 1978 mpaka 2000 kutokana na uchakavu wa mitambo ya kusukuma maji na miundombinu ya kusambaza maji. Miundombinu hiyo pia ilikosa fedha za uendeshaji wa matengenezo. Katika Kijiji cha Sawala na Nyololo mitambo ya sekta ya maji iliibiwa.</seg>
+          <seg xml:id="seg171">Mheshimiwa Spika, Vijiji vya Kibao na Sawala ni kati ya vijiji kumi na mbili (12) vya Halmashauri ya Wilaya ya Mufindi vilivyo kwenye Programu Ndogo ya Maji na Usafi wa Mazingira Vijijini inayotekelezwa chini ya programu ya Maendeleo ya Sekta ya Maji.</seg>
+          <seg xml:id="seg172">Mheshimiwa Spika, Halmashauri ya Wilaya ya Mufindi ilimwajiri Mtaalam Mshauri ‘Service Plan Ltd in Association with GITEC Consultants GmbH” tarehe 27/7/2009 ambaye anafanya kazi ya kutafuta vyanzo vya maji, kusanifu miradi na kuandaa makabrasha ya zabuni na kusimamia ujenzi wa miradi. Hii ina maana kuwa katika hatua ya ujenzi wa miradi, ukarabati wa matanki hayo utafanywa endapo Mtaalam Mshauri atayaona kuwa bado yanafaa kutumika.</seg>
+          <seg xml:id="seg173">Mheshimiwa Spika, tarehe 25/1/2011, Halmashauri ya Wilaya ya Mufindi ilimwajiri mkandarasi PNR Service Limited ambaye amekwishaanza kazi ya uchimbaji wa visima vya majaribio katika vijiji husika vikiwemo Kibao na Sawala.</seg>
+          <seg xml:id="seg174">Mheshimiwa Spika, Halmashauri ya Wilaya ya Mufindi inashauriwa kukipa kipaumbele Kijiji cha Nyololo na kukiweka katika mipango ya maendeleo ya mwaka wa fedha 2011/2012 ili kitekelezwe katika awamu ya pili ya Programu ya Maendeleo ya Sekta ya Maji inayotegemewa kuanza Julai, 2013.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u64" who="MheMendradLKigola">
+          <seg xml:id="seg175">Mheshimiwa Spika, pamoja na majibu mazuri ya Naibu Waziri wa Maji, naomba kuuliza maswali mawili ya nyongeza. Kwa kuwa Jimbo la Mufindi Kusini ni Jimbo ambalo limebahatika kuwa na vyanzo vingi sana vya maji na mito mingi sana. Sasa je, kwa nini Serikali imeamua kuchimba visima badala ya kutega maji kutoka kwenye vyanzo vya maji husika?</seg>
+          <seg xml:id="seg176">Swali la pili, je, Serikali ina mkakati gani wa kuongeza kujenga matenki mengine katika Kata zile ambazo zinapata matatizo makubwa ya maji? Kwa mfano Kata ya Mtambula, Kata ya Nyololo na Kata ya Mbalamaziwa ni Kata ambazo zimepata matatizo kwa muda mrefu sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u65" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg177">Mheshimiwa Spika, kwanza katika mradi huu wa kuendeleza sekta ya maji vijijini tumesema kwamba hawa wataalam washauri wanahusiana na vijiji kuweza kutambua vyanzo vya maji na kuweza kuona ni mfumo upi katika kijiji husika wautumie au kufuata njia ya mtiririko au kuchimba visima, baada ya hapo tunaangalia gharama ya mradi. Kwa hiyo, pale ambapo tunaona kwamba kutumia mtiririko ni bei nafuu, vijiji vinaruhusiwa kufanya hivyo, lakini pale wanapoona kuchimba visima ndiyo njia nafuu ndiyo wanavyoweza kufanya, kwa hiyo ni choice ya Kijiji na Halmashauri kuona kwamba watumie njia ipi.</seg>
+          <seg xml:id="seg178">Mheshimiwa Spika, swali la pili kuhusu kujenga matenki ya ziada ni kwamba baada ya kufanya usanifu sasa itajulikana kwamba ili kuweza kutandaza maji kwa maeneo makubwa waweze kujenga matanki mangapi na ya ukubwa kiasi gani kuweza kukidhi mahitaji ya maeneo husika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u66" who="MheMansoorSHiran">
+          <seg xml:id="seg179">Mheshimiwa Spika, nashukuru kunipa nafasi ya kuuliza swali la nyongeza. Matatizo ya maji ni makubwa sana kwenye Jimbo langu, hususan Tarafa ya Mamashimba. Mradi wa Kashwasi wa bomba la maji ambalo limetoka Mwanza kwenda Shinyanga limepitisha maji kwenye Kijiji cha Muhalo, kutoka Kijiji cha Muhalo kuna bomba ambalo lilikuwa limejengwa mpaka Kijiji cha Lunele, hilo bomba linataka kukarabatiwa ili maji yaweze kupatikana kwenye vijiji vingine zaidi ya kumi.</seg>
+          <seg xml:id="seg180">Mheshimiwa Spika, naomba kuuliza swali kwa Mheshimiwa Waziri, anaweza kufanya kukarabati hilo bomba la maji la kutoka Kijiji cha Alumele kwenda mpaka tanki la Muhalo ili wananchi waweze kupata maji ya ziwa Victoria. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u67" who="Spika">
+          <seg xml:id="seg181">Kwanza Jimbo lako lenyewe hatulijui.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u68" who="MheMansoorSHiran">
+          <seg xml:id="seg182">Mheshimiwa Spika, ni Jimbo la Kwimba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u69" who="Spika">
+          <seg xml:id="seg183">Kwa hiyo, suala hilo ni jipya kabisa lakini Naibu Waziri naona unawezaweza yote.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u70" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg184">Mheshimiwa Spika, ni lini tutakwenda kukarabati bomba hilo, naomba tupate nafasi ya kutembelea na kuweza kuona hali halisi na mahitaji halisi yanayohitajika kwa ajili ya ukarabati wa bomba hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u71" who="MheMahamoudHMgimwa">
+          <seg xml:id="seg185">Mheshimiwa Spika, nashukuru kwa kunipa nafasi ya kuuliza swali dogo la nyongeza. Kwa kuwa tatizo lilokuwepo katika Jimbo la Mufindi Kusini linafanana kabisa na tatizo lililoko katika Mji Mdogo wa Mafinga. Je, Serikali ina mkakati gani kuhakikisha tatizo sugu la maji lililopo katika Mji Mdogo wa Mafinga linatatuliwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u72" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg186">Mheshimiwa Spika, tumesema kwamba tunao mpango maalum wa miradi ambayo kila Halmashauri inashughulikia eneo lake. Kwa hiyo, kwa Mafinga tunao mpango ambao tayari kuna Mhandisi Mshauri anayefanya usanifu na kuweza kutoa mapendekezo namna gani Mji wa Mafinga utapata maji. Kwa</seg>
+          <seg xml:id="seg187">hiyo, tusubiri Mhandisi Mshauri atakapotupa taarifa tutajua hatua zipi zichukuliwe ili Mafinga waweze kupata maji safi.</seg>
+        </u>
+        <note>Na. 40. Mahitaji ya Maji- Vijiji vya Jimbo la Kalenga</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u73" who="MheDktWilliamAMgimwa">
+          <seg xml:id="seg188">Serikali ina sera nzuri ya kuwapatia maji safi na salama kila kijiji nchini lakini Vijiji vya Igangidung’u, Isupilo, Lumuli, Itengulinyi, Weru, Mgama na Itagutwa katika Jimbo la Kalenga vina shida kubwa ya maji salama:-</seg>
+          <seg xml:id="seg189">(a) Je, Serikali ina mkakati gani wa kuvipatia vijiji maji salama?</seg>
+          <seg xml:id="seg190">(b) Kama Serikali inao mkakati; je, mkakati huo utatekelezwa lini na ni fedha kiasi gani kimetengwa kwa ajili ya vijiji hivyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u74" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg191">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Maji, naomba kujibu swali la Mheshimiwa Dkt. William Augustao Mgimwa, Mbunge wa Kalenga lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg192">(a) Mheshimiwa Spika, mwaka 2007/2008, Serikali ilianza kutekeleza programu ya maji na usafi wa mazingira vijijini kwa kujenga miradi yenye kuleta matokeo ya haraka maarufu kama quickwins. Kijiji cha Itagutwa kilipatiwa huduma ya maji ambapo takriban wananchi wapatao 500 wananufaika hivi sasa na huduma ya maji safi na salama. Kijiji cha Mgama kina mfumo wa zamani wa maji ya bomba ambao unatoa huduma japo hautoshelezi mahitaji kwa sasa. Halmashauri imeshauriwa kutenga fedha kwa ajili ya upanuzi wa mfumo wa miundombinu ya usambazaji wa maji katika kijiji hiki.</seg>
+          <seg xml:id="seg193">Mheshimiwa Spika, Serikali imeandaa programu ya Maji na Usafi wa mazingira Vijijini nchini, ambapo kila Halmashauri imeainisha Vijiji kumi vya kipaumbele. Halmashauri ya Wilaya ya Iringa nayo imeainisha Vijiji kumi, kati ya hivyo Vijiji saba vipo katika Jimbo la Kalenga. Vijiji hivyo ni Igangidung’u, Kikombwe, Mfyome, Weru, Lumuli, Itengulinyi na Isupilo.</seg>
+          <seg xml:id="seg194">(b) Mheshimiwa Spika, hatua ya utekelezaji wa miradi ya maji katika Vijiji kumi iliyofikiwa hadi sasa kupitia kwa Mtaalam Mshauri M/S NORPLAN (T) LIMITED ni kuandaliwa kwa taarifa ya usanifu wa miradi ya maji na makadirio ya gharama za ujenzi wa miradi ya maji kwa Vijiji vyote kumi inayofikia shilingi bilioni 5.29.</seg>
+          <seg xml:id="seg195">Jumla ya fedha zilizotengwa kwa miaka miwili ya 2010/2011 na 2011/2012 ni shilingi milioni 851.4 kwa ajili ya ujenzi wa miundombinu ya maji. Hivyo basi,</seg>
+          <seg xml:id="seg196">utekelezaji wa mradi huo mkubwa utakuwa kwa awamu na utazingatia vipaumbele vya Halmashauri ya Wilaya ya Iringa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u75" who="MheDktWilliamAMgimwa">
+          <seg xml:id="seg197">Mheshimiwa Spika, pamoja na majibu mazuri ya Naibu Waziri, nina maswali mawili ya nyongeza. Wakati huu ambapo Serikali inakusanya nguvu ili kutatua tatizo hilo la maji katika vijiji hususan hivyo vya Isupilo, Itengulinyi, Weru pamoja na Mfyomi. Je, dakika hii inaweza Serikali ikawa tayari kufanya geophysical survey au reconnaissance vijiji hivyo, ili tuweze tukabaini maeneo fika walau tuchimbe visima wananchi waanze kupata maji wakati tunasubiri nguvu kubwa ya Serikali kwa ajili la mradi wa kutiririsha maji.</seg>
+          <seg xml:id="seg198">Mheshimiwa Spika, la pili, suala la matatizo ya maji ni suala ambalo sasa hivi ni sugu, Serikali inaweza ikasema nini kwa mkakati endelevu wa kujenga nguvu za Wizara ili katika kipindi cha miaka michache kulingana na sera yetu ya maji, nchi hii pamoja na Jimbo langu la Kalenga, tuwe na uhakika sasa kwamba maji yanapatikana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u76" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg199">Mheshimiwa Spika, suala la geophysical surveys, hawa Wataalam Washauri ambao kila Halmashauri imewaajiri katika hadidu za rejea moja ya kazi wanayoifanya ni geophysical surveys katika kila kijiji kuweza kuainisha wapi tutapa vyanzo na vya aina gani. Kwa hiyo, ni kazi ambayo inaendelea nchi nzima.</seg>
+          <seg xml:id="seg200">Mheshimiwa Spika, swali lake la pili, mkakati endelevu, huu mradi tumeupanga ni wa miaka 20-25 na tutakuwa tunautekeleza kila miaka mitano na kwamba mradi unakuwa ni endelevu kwa sababu kwanza tunawahusisha hawa Wataalam Washauri katika kupanga na kusanifu na kujenga miradi hii, ni lazima wananchi wahusishwe ili hii miradi iwe owned na wao yaani iwe ni miradi yao. Kwa hiyo, itakuwa ni endelevu na kama nilivyosema kwamba maeneo mengine miradi iliyojengwa na Serikali imehujumiwa, wameweza kuiba mabomba lakini wananchi wakijua ni miradi yao wataweza kuilinda. Kwa hiyo, mpango huu ni endelevu na nina uhakika kabisa utaweza kufanikiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u77" who="MheBeatriceMShellukindo">
+          <seg xml:id="seg201">Mheshimiwa Spika, ahsante sana. Sambamba na swali ambalo limeulizwa, katika Wilaya ya Kilindi suala la usalama wa maji katika Kijiji chetu cha Kwamaligwa katika wiki tatu zilizopita tumepata maafa makubwa ya kubomokewa na bwawa kubwa la maji lililokuwa linatoa maji kwa zaidi ya mifugo 2500 na wananchi zaidi ya 6000. Sasa kwa kweli tumepeleka taratibu zetu na maoni yetu kunakohusika.</seg>
+          <seg xml:id="seg202">Mheshimiwa Spika, kwa sababu mlolongo ni mrefu namwomba Mheshimiwa Naibu Waziri kupitia Wizara yake kama wataona utaratibu wowote wa kuweza kusaidia wananchi hao ambao wako katika hali mbaya sana katika kipindi hiki ambapo makadirio ambayo yamefanyika na wataalam ni shilingi milioni mia tano tu. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u78" who="Spika">
+          <seg xml:id="seg203">Waende wakaone au vipi? Mheshimiwa Naibu Waziri Majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u79" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg204">Mheshimiwa Spika, kuhusiana na kwamba, kumetokea tatizo la kubomoka kwa bwawa na kuna hatari usalama wa wananchi pale ukawa sio mzuri, niseme kwamba, ni kitu cha dharura na ni kitu ambacho tutajipanga na wataalam wangu tukaangalie na tuweze kuona namna gani tutawasaidia wananchi wale.</seg>
+        </u>
+        <note>Na. 41. Udhibiti wa Wizi wa Kazi za Wasanii</note>
+        <note>(K.n.y. MHE. MARTHA M. MLATA)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u80" who="MheAssumpterNMshama">
+          <seg xml:id="seg205">Mheshimiwa Rais alitoa kwa Clouds FM Mastering Machine ili iwasaidie wasanii kupunguza tatizo la kazi zao:-</seg>
+          <seg xml:id="seg206">(a) Je, Wasanii wanafaidika vipi na chombo hicho?</seg>
+          <seg xml:id="seg207">(b) Je, Wasanii wangapi wanaonufaika na chombo hicho?</seg>
+          <seg xml:id="seg208">(Hapa Mheshimiwa Waziri alifika mbele tayari kwa ajili</seg>
+          <seg xml:id="seg209">ya kujibu swali kabla hajaitwa na Mheshimiwa Spika)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u81" who="Spika">
+          <seg xml:id="seg210">Yuko wapi? Ooh! Tayari Umeshafika? Waheshimiwa unakaa mpaka uitwe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u82" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg211">Mheshimiwa Spika, ahsante na mimi nasimama mbele yenu, hii ni mara yangu ya kwanza, kwa hiyo napenda nichukue nafasi hii nimshukuru Mwenyezi Mungu, kwa kuniwezesha kusimama hapa mbele yenu; ni muhimu wote mmepata hii nafasi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u83" who="Spika">
+          <seg xml:id="seg212">Hapana kufuatana na Kanuni muda hautoshi, naomba ujibu Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u84" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg213">Mheshimiwa Spika, kwa niaba ya Waziri wa Habari, Vijana, Utamaduni na Michezo, napenda kujibu swali la Mheshimiwa Martha Mlata, Mbunge wa Viti Maalum lenye</seg>
+          <seg xml:id="seg214">Mheshimiwa Spika, kwanza kabisa napenda kumjulisha Mheshimiwa Mlata na Bunge lako Tukufu kuwa, Mastering Studio inayozungumziwa haikutolewa kwa Clouds FM bali imetolewa kwa kikundi cha wasanii waliojiunga pamoja na kuanzisha Chama cha Tanzania Flava Unit.</seg>
+          <seg xml:id="seg215">Mheshimiwa Spika, hata hivyo, napenda kumjulisha Mheshimiwa Mlata kwamba Mastering Studio hiyo bado haijaanza kufanya kazi. Hivyo ni mapema sana kuelezea jinsi wasanii wanavyonufaika. Ni matumaini yangu kwamba pale ufungaji wa studio hiyo utakapokamilika, wasanii watanufaika kwa kuitumia kuzalisha kazi zao kwa gharama nafuu. Vile vile, kutokana na sababu niliyoisema, kwamba, studio hiyo bado haijaanza kufanya kazi, tusingeweza kupata idadi ya wasanii ambao wamekwishanufaika na chombo hicho.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u85" who="MheAssumpterNMshama">
+          <seg xml:id="seg216">Mheshimiwa Spika, ahsante sana. Napenda kuuliza swali la nyongeza. Kwa kuwa Rais amekuwa na usikivu kwa kilio cha wasanii wa Tanzania na akaamua kutoa chombo hicho. Je, Serikali imejipanga vipi kuhakikisha kwamba si Dar es Salaam tu, labda hata kuweka kwa kutumia Kanda kwamba wasanii ni wengi hata yule msanii wa kwetu anayeitwa msanii mfupi sana kuliko wasanii wote na yeye akapata nafasi ya kuja kurekodi katika kituo hicho?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u86" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg217">Mheshimiwa Spika, kwanza napenda kumshukuru Martha Mlata kwa juhudi zake za kutetea haki za wasanii popote pale anapopata nafasi. Tunakumbuka Bunge hili linawaka moto kila mara Mheshimiwa Martha Mlata akisimamia kuhusu wasanii.</seg>
+          <seg xml:id="seg218">Mheshimiwa Spika, kwa kweli mahitaji ya vyombo hivi ni makubwa kuna vikundi takribani 1716 vya wasanii, 16 ni Vyama vya Wasanii, 452 wakuzaji wa sanaa au tunaweza kusema Talent House, sasa Serikali imejipanga, tuna BASATA yenye kushughulikia wasanii wa aina zote kwa kuendeleza sanaa. Pia tuna COSOTA yenye kusimamia haki za wasanii zisidhulumiwe, napenda kuchua nafasi hii kumfahamisha Mheshimiwa Assumpter Mshama kwamba Serikali imejipanga na ni sikivu. Mheshimiwa Rais Kikwete ni sikivu ndiyo maana baada ya kusikia maombi alitoa chombo cha kusaidia wasanii, lakini kwa sasa hivi hatuwezi kusema kinatumika vipi kwa sababu bado hakijaanza kutumika kiko kwa wale waliopewa na kiko salama.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u87" who="MheJosephOMbilinyi">
+          <seg xml:id="seg219">Mheshimiwa Spika, ahsante sana kwa kunipa fursa ya kuuliza swali la nyongeza kwa niaba ya wasanii wa Tanzania. Kwanza kabisa naomba nimjulishe Mheshimiwa Naibu Waziri kwamba Tanzania Flava Unit sio chama ni kampuni baada ya BASATA kukataa kuisajili kwa kuwa BASATA waliwaambia wazi kwamba tayari walishasajili chama cha wasanii wa muziki wa kizazi kipya ambacho kinaitwa Tanzania Urban Music Association kwa hiyo, wao wako pale kwa ajili ya kusimamia umoja, sio utengano. Kwa hiyo, wakagoma kukisajili kile chama cha Tanzania Flava Unit na kwa kuwa nia yao ilikuwa ni kupata uhalali wa kumiliki ile studio ndipo wakaamua kwenda kusajili kama kampuni, hili Mheshimiwa Waziri Nchimbi analifahamu.</seg>
+          <seg xml:id="seg220">Mheshimiwa Spika, swali. Kwa sheria za nchi yetu BASATA ndiyo chombo cha msingi kusimamia sanaa. Kwa nini studio hiyo haikupelekwa au isipelekwe BASATA badala ya kupewa watu binafsi kitu ambacho kinawanyima fursa wasanii walio wengi kuifikia? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u88" who="WaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg221">Mheshimiwa Spika, la kwanza, chombo kama kile kingepewa BASATA ni jambo jema kwa sababu hatujapungukiwa uwezo, tutawatafutia BASATA chombo kingine wataweza kufanya kazi hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u89" who="WaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg222">La pili, kuhusu kwamba wale hawakusajiliwa kwa sababu katika kujenga umoja ilibidi wasisajiliwe, hii si kweli. Naomba niseme kwamba sheria haizui kusajili chombo kingine, ni utaratibu tu wa kawaida na kwamba wakiwa katika namna yoyote ambayo wasanii wanajiunga, wajibu wa Serikali ni kuwasaidia kufikia malengo yao mradi wakiwa wameungana ama kampuni ama chama. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 42. Mpango wa Kujenga Kiwanda cha Ngozi Mwanza</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u90" who="MheMariaIHewa">
+          <seg xml:id="seg223">Kulikuwa na mpango wa kujenga Kiwanda cha Ngozi cha Ilemela – Mwanza, je, mpango huu umefikia wapi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u91" who="WaziriWaViwandaNaBiashara">
+          <seg xml:id="seg224">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Maria Ibeshi Hewa, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg225">Mheshimiwa Spika, sekta ya Viwanda vya Ngozi ni moja ya sekta muhimu katika maendeleo ya viwanda na uchumi wa nchi kwa ujumla. Hii ni kutokana na mchango wake katika mlolongo mzima wa uongezaji thamani ambapo hutoa ajira kuanzia ukusanyaji wa ngozi, usindikaji katika hatua mbalimbali na uzalishaji wa bidhaa za ngozi.</seg>
+          <seg xml:id="seg226">Mheshimiwa Spika, kwa kutambua umuhimu wa sekta ya ngozi nchini na upatikanaji kwa wingi wa malighafi ya ngozi katika eneo la Kanda ya Ziwa, Serikali iliamua kuanzishwa Kiwanda cha Kusindika Ngozi Ghafi mwishoni mwa miaka ya 1970 katika eneo la Ilemela sambamba na Chuo cha kutoa mafunzo ya utaalamu wa ngozi cha Tanzania Leather Institute Technology (TILT). Mwaka 1993 Serikali ilibinafsisha Kiwanda cha Ilemela cha Mwanza Tanneries cha kusindika ngozi kwa kampuni ya African Trading Development. Hata hivyo, kutokana na kiwanda hicho kuwa karibu sana na Ziwa Viktoria, maji machafu kutoka kiwandani yalitishia uchafuzi wa mazingira na hivyo uzalishaji ukasimamishwa mwaka wa 1998.</seg>
+          <seg xml:id="seg227">Mheshimiwa Spika, juhudi za kuwasiliana na mnunuzi wa kiwanda hiki ili kukubaliana jinsi ya kukifua zinafanyika. Kufuatia kubainika kuwepo matatizo mbalimbali kwa baadhi ya viwanda vilivyobinafsishwa na ambavyo havijaendelezwa, Wizara inaandaa Waraka wa Baraza la Mawaziri ili kupata maamuzi ya hatua za kuchukua kwa wawekezaji ambao hawajaendeleza viwanda vyao. Aidha, Chuo cha Ngozi (TILT) cha Ilemela kilichoko chini ya Wizara ya Mawasiliano, Sayansi na Teknolojia kimewekewa mkakati ili Chuo cha Dar es Salaam Institute of Technology (DIT) ikitumie kutoa mafunzo yanayolenga utaalamu katika fani ya ngozi.</seg>
+          <seg xml:id="seg228">Mheshimiwa Spika, wakati Serikali inaongea na mwekezaji ili kuona namna bora ya kukifufua kiwanda hiki, Serikali imehamasisha sekta binafsi ambayo imeanzisha kiwanda cha kusindika ngozi hapo hapo Ilemela na Nyakato kiitwacho Jayati Limited na kiwanda kingine cha Petrol City Tanneries ambacho hivi sasa kinakamilisha taratibu za kufunga mitambo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u92" who="MheMariaIHewa">
+          <seg xml:id="seg229">Mheshimiwa Spika, ahsante kwa kunipa nafasi ili niweze kuuliza maswali mawili ya nyongeza. Kwanza, namshukuru sana Mheshimiwa Waziri kwa ufuatiliaji wa suala hili maana siyo mara yangu ya kwanza nang’ang’ana na ufufuaji wa kiwanda hiki. Napenda niulize kama ifuatavyo:-</seg>
+          <seg xml:id="seg230">(a) Kiwanda hiki kilianza kufanya kazi mwaka 1970 na kikasitishwa mwaka 1998. Ni miaka 28 kinafanya kazi hapo na wakati kinawekwa, Ziwa Victoria lilikuwepo. Je, Serikali inaweza kukiri kwamba ni makosa ya Serikali kuweka viwanda hivi karibu na Ziwa hilo halafu kinakuja kusimamishwa, wakati kinajengwa Ziwa Victoria lilikuwepo?</seg>
+          <seg xml:id="seg231">(b) Katika kukifufua sasa kiwanda hiki na chuo kipo katika kiwanda hicho, je, chuo hicho kitakuwa na sections mbili kwa maana ya kuwa na kiwanda na chuo humo ndani? Naomba majibu Mheshimiwa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u93" who="WaziriWaViwandaNaBiashara">
+          <seg xml:id="seg232">Mheshimiwa Spika, kwanza kabisa, kama nilivyosema kwenye jibu la msingi, kiwanda hiki kilipoanza kazi miaka ya 1970, hakikuonekana kwamba kilikuwa na athari kwa mazingira lakini ilipofika mwaka wa 1993, ufanisi katika kiwanda hiki kama katika viwanda vingine ambavyo vilibinafsishwa ukaonekana unashuka, kiwanda kikabinafsishwa. Baada ya miaka mitano, ile aina ya uzalishaji ambao ulianza na yule mwekezaji, ndipo ikaonekana kwamba maji yake sasa yanaathiri Ziwa Victoria na Serikali hii kwa umakini wake ikaona kwamba faida itakayopatikana kwa kiwanda hiki kuendelea kuzalisha itakuwa ndogo kulinganisha na hasara itakayopatikana kama maji haya yangeendelea kutolewa katika Ziwa Victoria. Ndiyo Serikali ikaamua kusitisha uzalishaji. Kwa hiyo, haina maana kwamba miaka 24 imepita tu hivi hivi, ni kwamba kwa miaka mingi kati ya hiyo kiwanda kilikuwa kinazalisha. Sasa hivi Serikali inaona umuhimu wa kiwanda ndiyo maana tunaongea na mwekezaji ili tuone aina nyingine ya uzalishaji ambayo itaendelea kutoa ajira, itaendelea kulipa kodi na itaendelea kuhakikisha kwamba teknolojia inaendelea kusimamiwa.</seg>
+          <seg xml:id="seg233">Mheshimiwa Spika, swali la pili, katika kufufua kiwanda, tusema kwamba tunaangalia aina nyingine ya uzalishaji lakini lile eneo la kutoa mafunzo litaendelea kusimamiwa na DIT, maana yake ni nini? Maana yake ni kwamba hata ngozi haitasindikwa pale, upande mwingine utakuwa unaendelea kutoa mafunzo ya ngozi na wale wataenda katika maeneo mengine nchini kwa ajili ya kusindika ngozi.</seg>
+        </u>
+        <note>Na. 43. Gari la Kituo cha Polisi – Kibaha Vijijini</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u94" who="MheAbuuHJumaa">
+          <seg xml:id="seg234">Kituo cha Polisi Wilaya ya Kibaha Vijijini kilichoko Mlandizi hakina gari na kuna ajali nyingi zinazotokea kwenye barabara ya Morogoro na kufanya Askari wa Kituo hicho kushindwa kufika eneo la ajali kwa wakati:-</seg>
+          <seg xml:id="seg235">Je, Serikali ina mpango gani wa muda mfupi na mrefu wa kukipatia kituo hicho gari ili kiweze kutekeleza kazi zake kwa ufanisi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u95" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg236">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Mambo ya Ndani ya Nchi, naomba kujibu swali la Mheshimiwa Abuu H. Jumaa, Mbunge wa Kibaha Vijijini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg237">Mheshimiwa Spika, ni kweli Kituo cha Polisi Mlandizi hakina gari, ila kinayo pikipiki moja. Hata hivyo, kituo hicho kinahudumiwa na magari ya doria ya highway ambayo muda mwingi yanakuwepo pale kama base point.</seg>
+          <seg xml:id="seg238">Mheshimiwa Spika, kuhusu mpango wa muda mrefu, Wizara yangu inaorodhesha maombi ya vitendea kazi kote nchini na imekuwa inatoa vitendea kazi hivyo katika maeneo mbalimbali kadri bajeti ya Wizara inavyoruhusu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u96" who="MheAbuuHJumaa">
+          <seg xml:id="seg239">Mheshimiwa Spika, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya Nchi, nakiri ni kweli pikipiki hiyo ipo lakini haina uwezo wa kufanya doria katika Jimbo zima la Kibaha Vijijini na Jimbo zima la Kibaha Vijijini, haina maana kwamba ni barabara kubwa tu, lina Kata 11, je, Serikali haioni umuhimu wa kulipatia gari Jimbo hilo la Kibaha Vijijini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u97" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg240">Mheshimiwa Spika, nakubaliana naye kwamba Serikali kweli inaona umuhimu wa kutoa vitendea kazi na tunakubali kabisa kwamba Jimbo lake lina Kata za kutosha. Lakini kama nilivyosema siyo utashi wa Wizara kusema haitaki kufanya hivyo. Mahitaji tuliyonayo ni ya nchi nzima na kutokana na utaratibu ambao tumejiwekea, tunakwenda awamu kwa awamu.</seg>
+          <seg xml:id="seg241">Nimhakikishie tu kwamba suala hilo tunalo hata katika mpango wetu wa kazi. Kama nilivyosema katika jibu langu msingi ni kwamba vitendea kazi tunavitoa kwa mujibu wa bajeti inavyoruhusu. Kwa hivyo, nimhakikishie Mheshimiwa Mbunge kwamba ombi hilo tunalo na tutafanya tutakavyoruhusiwa na bajeti.</seg>
+        </u>
+        <note>Na. 44. Kituo cha Polisi Kawe</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u98" who="MheRittaLMlaki">
+          <seg xml:id="seg242">Kituo cha Polisi Kawe kinahudumia watu wengi sana lakini kiko katika hali mbaya kutokana na ubovu na udogo wa jengo, imewalazimu Askari kutumia container kama Ofisi.</seg>
+          <seg xml:id="seg243">(a) Je, Serikali ina mpango gani wa kujenga jengo jipya lenye Ofisi za kutosha na mahabusu?</seg>
+          <seg xml:id="seg244">(b) Je, Serikali ina mpango gani wa kuwaongezea magari ili kuwawezesha kukabiliana na uhalifu kwenye maeneo hayo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u99" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg245">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Rita Mlaki, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg246">Mheshimiwa Spika, Serikali imepanga kujenga kituo kikubwa cha Wilaya ya Kipolisi Kawe katika eneo la Tangi Bovu, Mbezi Beach katika mwaka wa fedha 2011/2012.</seg>
+          <seg xml:id="seg247">Mheshimiwa Spika, katika mwaka wa fedha 2010/2011, Serikali imekipatia Kituo cha Polisi Kawe magari mawili kwa ajili ya kukabiliana na uhalifu. Serikali itakiongezea kituo hicho pamoja na vituo vingine vitendea kazi yakiwemo magari kulingana na upatikanaji wa fedha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u100" who="MheRitaLMlaki">
+          <seg xml:id="seg248">Mheshimiwa Spika, nashukuru sana kwa majibu mazuri ya Mheshimiwa Waziri. Ningependa kuuliza maswali mawili ya nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg249">Mheshimiwa Spika, kama nilivyosema katika swali la msingi kwamba Kituo cha Polisi Kawe kiko katika hali mbovu kiasi cha kufikia Askari kuandika statement kwenye container na kwa sababu ni mpaka pesa ya bajeti itoke, mkandarasi apatikane na kijengwe siyo chini ya miaka miwili, je, Waziri atakubali kuongozana na mimi kwenda</seg>
+          <seg xml:id="seg250">kukagua Kituo cha Polisi Kawe na hatimaye kuchukua hatua za dharura za kunusuru hali hiyo?</seg>
+          <seg xml:id="seg251">Mheshimiwa Spika, la pili, kwa kuwa pia hii sekta ya ulinzi na usalama ni muhimu sana na inatusaidia sana na uhalifu unaongezeka kadri watu wanavyoongezeka, je, Serikali itakubali kuongeza bajeti ya ziada kwa sekta hii ya ulinzi ili Kituo cha Polisi Oyster Bay, Kituo cha Polisi cha Wazo na Kituo cha Polisi cha Kawe viweze kupata magari ya ziada? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u101" who="Spika">
+          <seg xml:id="seg252">Siku hiyo mnaongozana na Mheshimiwa Halima Mdee. Mheshimiwa Naibu Waziri. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u102" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg253">Mheshimiwa Spika, kuhusu swali lake la kwanza, nimhakikishie Mheshimiwa Mbunge kwamba hapana shaka niko tayari kabisa kuongozana naye tukakikague kituo na tuone matatizo ya Kituo hicho.</seg>
+          <seg xml:id="seg254">Mheshimiwa Spika, kuhusu swali la pili, kama nilivyosema katika swali lililopita ni kwamba vitendea kazi yakiwemo magari ni suala la msingi ambalo tunalitazama katika Wizara yetu na tumekuwa tunaomba fedha kila mwaka wa fedha. Nimhakikishie tu kwamba siwezi hapa nikasema tutatoa hizi fedha kwa vituo hivi ambavyo amevitaja kwani kufanya hivyo bado kuna vituo vingine vingi katika nchi nzima katika Mikoa mbalimbali kama Kagera, Kigoma, Mtwara ambao wana matatizo kama hayo hayo. Kubwa tu niseme kwamba hilo nimelipokea na nimhakikishie kwamba tutakuwa tunatoa magari jinsi tutakavyokuwa tunaruhusiwa na bajeti yetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u103" who="MheJosephRSelasini">
+          <seg xml:id="seg255">Mheshimiwa Spika, ahsante sana kwa kuniona. Kwa kuwa upatikanaji wa magari pamoja na ujenzi bora wa vituo lazima uendane na hali ya Askari wenyewe na kwa kuwa baadhi ya Askari katika vituo wamekuwa vituoni kwa muda mrefu sana na wengine kufikia hatua ya kuzoeana na watuhumiwa na hata kuanzisha biashara zinazoshindana na baadhi ya wafanyabiashara katika maeneo yao. Je, Askari analazimika kukaa kituoni kwa muda gani kabla hajahamishwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u104" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg256">Mheshimiwa Spika, hilo suala alilolisema kwa kweli tumekuwa tunakabiliana nalo kwamba Maaskari wamekuwa wanakaa kwenye vituo kwa muda mrefu kuliko inavyohitajika. Kwa mujibu wa taratibu zetu, tumejipangia kwamba Askari asiweze kukaa katika kituo zaidi ya miaka mitano lakini imekuwa inazidi kipindi hicho na hii inatokana na matatizo ya bajeti ambapo kumhamisha Askari wa kawaida inakwenda takriban kati ya shilingi milioni tano mpaka milioni nane na hiyo ni kumhamisha yeye na familia yake na vitu vyake. Hili limekuwa ni tatizo. Ingawa tumekuwa tunakabiliana na tatizo hili, nimhakikishie Mheshimiwa Mbunge na nilihakikishie Bunge lako Tukufu kwamba Wizara imekuwa inafanya jitihada kwa kuzingatia kwamba Askari anapokaa katika kituo kwa muda mrefu anakuwa na mazoea halafu ule weledi wake wa kufanya kazi unapotea na unapungua. Hili tumekuwa tunaliwekea jitihada. Niombe tu katika bajeti yetu, mtuongezee pesa ili tuweze kuhakikisha kwamba hili linafanyika.</seg>
+          <seg xml:id="seg257">Matatizo yaliyoko kambi ya Jeshi ya Kisakasaka</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u105" who="MheAbdallahShariaAmeir">
+          <seg xml:id="seg258">(a) Je, Serikali inaelewa mgogoro wa mipaka uliopo eneo la Kambi ya Jeshi ya Kisakasaka na wananchi wa eneo hilo?</seg>
+          <seg xml:id="seg259">(b) Je, Serikali imechukua hatua gani ikiwa ni pamoja na kuzungusha uzio katika eneo hilo?</seg>
+          <seg xml:id="seg260">(c) Je, Serikali inafahamu kuwa, kambi hiyo haina umeme, maji na nyumba za kutosha kwa Wanajeshi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u106" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg261">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Abdallah Sharia Ameir, Mbunge wa Dimani, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg262">(a) Mheshimiwa Spika, Serikali inatambua kuwepo kwa mgogoro wa mipaka katika Kambi ya Jeshi Kisakasaka na wananchi wa eneo hilo. Uongozi wa Kambi ya Kisakasaka ulipokea barua ya malalamiko kutoka kwa wananchi wa Shehia za Dimani, Kombeni na Maungani ikiwa na majina ya watu 36 ambao wanadai kuwa uongozi wa Kambi ya Kisakasaka umeongeza mipaka ya eneo la kambi.</seg>
+          <seg xml:id="seg263">(b) Mheshimiwa Spika, Serikali kwa kupitia Idara ya Ardhi na Upimaji – Zanzibar na Uongozi wa Kambi ya Kisakasaka, inachukua hatua za kupitia upya mipaka ya kambi hiyo. Aidha, kwa usimamizi wa Ofisi ya Mkuu wa Wilaya, Serikali inahakiki majina yaliyowasilishwa, ili kuona ni watu gani walishalipwa fidia na watu gani ambao hawakulipwa. Baada ya kuthibitisha mipaka hiyo, Serikali itagharamia uwekaji wa uzio wa Kambi hiyo.</seg>
+          <seg xml:id="seg264">(c) Mheshimiwa Spika, tatizo la maji, umeme na nyumba za kuishi za Wanajeshi lipo katika Kambi nyingi hapa nchini. Hii inatokana na ufinyu wa bajeti. Serikali imeendelea kuongeza bajeti ya Ngome kila mwaka, fedha ambazo zinatumika kuondoa matatizo haya katika makambi kwa awamu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u107" who="MheAbdallahShariaAmeir">
+          <seg xml:id="seg265">Mheshimiwa Spika, ahsante. Pamoja na majibu mazuri ya Mheshimiwa Waziri, naomba kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg266">(a) Mheshimiwa Waziri ametuambia kwamba kuna mpango huo wa kuendelea kupima eneo hilo, je, tatizo hili litaondoka kwa muda gani?</seg>
+          <seg xml:id="seg267">(b) Kambi ya Kisakasaka ni Kambi ambayo tunaitegemea sana kwa ulinzi wa Zanzibar na kwa kweli iko kwenye hali mbaya. Je, hiyo bajeti ya Ngome itakapokuwa tayari, anatuhakikishia kufanya ukarabati katika Kambi hiyo? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u108" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg268">Mheshimiwa Spika, tatizo la mipaka katika Makambi ni tatizo kubwa. Liko sehemu nyingi katika Makambi katika nchi yetu. Ndiyo maana Wizara yangu iliunda Kamati ya kupitia mipaka ya Jeshi katika Makambi yote nchini nzima Kamati ambayo imewasilisha taarifa yake Wizarani. Kinachofuata sasa ni kuweza kupata fedha kwa sababu tunahitaji kufanya mambo kadhaa. Kuna baadhi ya Makambi ambayo migogoro yake ni kwa sababu wananchi hawajalipwa fidia. Tunahitaji kwanza kulipa fidia. Katika Kambi hii kama nilivyosema, tunafanya uhakiki wa hao wananchi 36 endapo ni kweli itathibitika kwamba wana haki basi ni lazima kwanza walipwe kabla ya kambi hiyo kuwekewa uzio.</seg>
+          <seg xml:id="seg269">Mheshimiwa Spika, lakini vilevile kuna tatizo la uvamizi katika Makambi ya Jeshi, tatizo ambalo ni kubwa na ni lazima tulishughulikie kule kote ambako kutathibitika kwamba wananchi wamevamia, ni lazima waondoke katika maeneo hayo. Aidha, kuna baadhi ya Makambi ambayo wananchi au vijiji vilitoa kwa Jeshi wakati huo mahitaji ya ardhi yakiwa ni madogo lakini sasa ni wananchi haohao wamegeuka kutaka maeneo yale yarudishwe kwao. Kwa hiyo, matatizo haya ni makubwa, yanafanyiwa kazi kwa ujumla wake ili hatimaye tuweze kuondoa kabisa matatizo yanayokabili Makambi yetu.</seg>
+          <seg xml:id="seg270">Mheshimiwa Spika, kuhusu ukarabati wa Makambi. Tumeiomba Serikali iombe mkopo maalum wa ujenzi wa nyumba 10,000 katika Makambi nchi nzima na ni mategemeo yetu kwamba fedha hizi zikipatikana kutoka Serikali ya China basi tutaweza kuanza mara moja ujenzi na kuondoa matatizo ya makazi pamoja na uduni wa maofisi katika Makambi yetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u109" who="Spika">
+          <seg xml:id="seg271">Waheshimiwa Wabunge, muda wa maswali umepita sana lakini na maswali yameisha. Lipo tatizo la muda, kuna Mawaziri nawasifu, maswali yaliyoandikwa ni mafupi lakini wanapokuja kujibu maswali ya nyongeza basi inakuwa ni hotuba. Sasa hili nalo tunaomba mlirekebishe. Lakini Waheshimiwa Wabunge, wakati huohuo maswali ya nyongeza nayo ni hotuba. Sasa matokeo yake tunashindwa kupata watu wengi kuuliza maswali ya nyongeza, inabidi mtu mmoja achukue dakika kumi. Maswali yetu kama nilivyosema, swali moja, jibu la msingi, swali la nyongeza la aliyeuliza na lingine ni dakika tano tu. Kwa hiyo, ni lazima tujifunze kuuliza maswali direct na wanaojibu ya nyongeza wajibu kifupi na ndio maana wenzetu wanaomwomba Mungu kabla ya kuuliza swali, wanatuchukulia muda. Mungu tulishamwomba wakati ule tunaanza Bunge, tulikuwa tumeshamwomba Mungu kwa ujumla. Sasa mkianza kumwomba Mungu tena muda haupo, tulimwomba kabla ya kuanza kazi. Kwa hiyo, nilifikiri nitoe angalizo, tujifunze kwa sababu itatupa muda, sasa hivi tuna tatizo la muda, tupo wengi, sasa mtu akihutubia anabakia ni yeye tu basi. Kwa hiyo, naomba sana wanaouliza maswali waulize direct, wanaojibu wajibu direct, tutakuta tunaweza kuuliza maswali mengi sana.</seg>
+          <seg xml:id="seg272">Waheshimiwa Wabunge, tunao wageni, mbele ya Speaker’s Gallery, tunao wasomi wafuatao; hawa ni wataalam kutoka Wizara ya Ulinzi na Jeshi la Kujenga Taifa, ambao wanawakilishwa na yupo bwana Job Msina, huyu ni Kaimu Katibu Mkuu. Amefuatana na Meja Jenerali C. L. Makalala na Brigedia Jenerali P. P. Mlowezi. Yupo Brigedia Jenerali K. G. Msemwa, Brigedia Jenerali U. S. Mabeyo, Brigedia Jenerali Mzanila na Kamishna Mrema. Naona hawa wamekuja leo kwa ajili ya Kamati na naomba niwatangazie kabisa, Mwenyekiti wa Kamati ya Kudumu ya Bunge ya Mambo ya Nje, Ulinzi na Usalama, Mheshimiwa Edward Lowasa, anaomba niwatangazie Wajumbe wa Kamati hiyo kwamba kutakuwa na kikao leo saa 5:00 asubuhi hii katika ukumbi namba 231, jengo la Utawala. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u110" who="Spika">
+          <seg xml:id="seg273">Wakati huo huo pia, ninaelezea kazi nyingine za Kamati. Mwenyekiti wa Kamati ya Viwanda na Biashara, Mheshimiwa Mahmoud Hassan Mgimwa, anaomba niwatangazie Wajumbe wa Kamati yake kwamba leo saa 5:00 pia kutakuwa na kikao kitakachofanyika ukumbi namba 219.</seg>
+          <seg xml:id="seg274">Halafu nina tangazo pia la kutoka kwa Mwenyekiti wa Kamati ya Kudumu ya Bunge ya Huduma za Jamii, Mheshimiwa Margaret Sitta, kwamba kutakuwa na vikao viwili vya Kamati leo saa 5.00 asubuhi na saa 7.00 mchana mara baada ya kuahirisha Bunge, katika ukumbi wa Basement, ni hapa chini. Kwa hiyo, Wajumbe wakumbuke kwamba ni saa 5.00 sijui mtaendelea hapo mpaka saa 7.00, mtajua hukohuko.</seg>
+          <seg xml:id="seg275">Mwenyekiti wa Kamati ya Kudumu ya Bunge ya Fedha na Uchumi, Dokta Abdallah Kigoda, anaomba niwatangazie Waheshimiwa Wabunge wa Kamati yake kwamba leo hii saa 5:00 kutakuwa na kikao cha Kamati katika ukumbi wa Basement. Nafikiri nafasi inatosha kwa watu wote hao.</seg>
+          <seg xml:id="seg276">Halafu nina tangazo lingine kutoka kwa Mheshimiwa Iddi Azzan, yeye anaomba niwatangazie Waheshimiwa Wabunge wanamichezo kuwa, kesho tarehe 9/4/2011 Jumamosi, mazoezi yanaendelea Jamhuri Stadium. Pia hiyo kesho, utafanyika uchaguzi wa viongozi wa Bunge Sports Club hapo hapo Jamhuri Stadium asubuhi. Kwa hiyo, anaomba Waheshimiwa Wabunge wajitokeze kwa wingi na wale wanaowania nafasi waandike kwa Katibu wa Bunge Sports Club; nafasi zinazogombewa ni Mwenyekiti na Makamu Mwenyekiti. Sasa nafikiri watatakiwa waandike leo, maana kama kesho asubuhi mnapiga kura basi leo hii waandike; sijui wanafunga saa ngapi, mimi sijui. Kwa hiyo, nafikiri wanaogombea nafasi hiyo waende wakajiandikishe huko.</seg>
+          <seg xml:id="seg277">Mheshimiwa Jenista Mhagama, Katibu wa Caucas ya Chama cha Mapinduzi, anaomba niwatangazie Wabunge ambao ni Wajumbe wa Kamati ya Uongozi ya CCM kuwa kutakuwa na kikao cha Kamati hiyo ya Uongozi leo tarehe 8/4/2011 mara baada ya kuahirisha Bunge asubuhi hii katika ukumbi wa Spika.</seg>
+          <seg xml:id="seg278">Ninalo tangazo lingine kutoka Utawala kwamba Kampuni ya Spray and Fumigation Services Ltd inafanya maonesho ya pikipiki zenye miguu mitatu zinazotumika kubeba wagonjwa. Maonesho haya yanafanyika kwenye eneo la kuegesha magari ya Wabunge, kwa hiyo wote mnakaribishwa.</seg>
+          <seg xml:id="seg279">Ofisi ya Vizazi na Vifo wapo hapa Bungeni kwa ajili ya kurahisisha upatikanaji wa vyeti vya kuzaliwa kwa Wabunge na familia zao kwa wale wasio na vyeti. Hili ni tangazo la pili hili, fomu zinapatikana mapokezi katika jengo la Utawala. Wale wanaohitaji huduma hiyo pia wanakaribishwa.</seg>
+          <seg xml:id="seg280">Waheshimiwa Wabunge, kama mtakavyoona kwenye Order Paper, shughuli za Bunge leo tumeamua ziishie katika maswali kwa sababu ya lile suala la kusikiliza maoni ya wananchi bado linaendelea. Kwa hiyo, wale Mawaziri na Wenyeviti wote wanaohusika wako katika sehemu ile kwa hiyo tutaahirisha kikao asubuhi hii.</seg>
+          <seg xml:id="seg281">Waheshimiwa Wabunge, lakini kabla ya kufanya hivyo, ninapenda kueleza kwamba tarehe 5 Aprili, 2011 Muswada wa Sheria ya Mabadiliko ya Katiba ya Nchi wa Mwaka 2011 (The Constitutional Review Bill) ulisomwa Bungeni kwa Mara ya Kwanza kwa mujibu wa Kanuni ya 83(1), Kanuni za Bunge, Toleo la 2007. Kwa mujibu wa Kanuni ya 84(1), Spika aliupeleka Muswada huo kwenye Kamati ya Bunge ya Katiba, Sheria na Utawala ili ianze kuufanyia kazi.</seg>
+          <seg xml:id="seg282">Tarehe 5 Aprili, 2011, Kamati ilikutana mjini Dodoma na kuweka utaratibu wa kuujadili Muswada huo ambapo kwa kuzingatia uzito wake na hasa kutokana na Muswada huo kugusa maslahi ya umma, Kamati iliamua kuwashirikisha wadau mbalimbali kwa mujibu wa Kanuni za Bunge, Kanuni ya 114(9) na 84(5) ambapo ilitoa mialiko kwa wadau hao kwa njia ya barua na matangazo kupitia vyombo vya habari yakiwemo magazeti na televisheni.</seg>
+          <seg xml:id="seg283">Katika kupata michango ya wadau wengi iwezekanavyo, Kamati ilijigawa katika makundi matatu (Kamati ndogo tatu), Kundi moja likibaki Dodoma, lingine Dar es Salaam na lingine Zanzibar. Ilikubalika kuwa shughuli za kukutana na wadau zianze tarehe 7 – 9 Aprili, 2011 katika Kituo cha Dodoma na Dar es Salaam na Zanzibar tarehe 8 – 9 Aprili, 2011.</seg>
+          <seg xml:id="seg284">Kituo cha Dodoma – Ukumbi wa Pius Msekwa. Wakati mchakato wa kukusanya maoni ulipoanza katika ukumbi wa Msekwa, Ofisi ya Bunge, Dodoma wadau wengi walijitokeza tarehe 7 Aprili, 2011 zikiwemo Asasi Zisizo za Serikali, watu binafsi, wanataaluma, wanafunzi kutoka Vyuo Vikuu, kikiwemo Chuo Kikuu cha Dodoma, Chuo cha Mipango, Chuo Kikuu cha St. John na wanafunzi kutoka Chuo Kikuu cha Mkwawa, Iringa. Idadi ya wadau wote inakisiwa kuwa elfu moja wengi wao wakiwa wanafunzi wa Vyuo Vikuu.</seg>
+          <seg xml:id="seg285">Kwa kuzingatia uwezo wa Ukumbi wa Msekwa, ambao unachukua watu takriban 500, Ofisi ya Bunge, iliweka utaratibu maalumu wa kuwasikiliza wadau hao kulingana na idadi yao. Kwanza, kwa kuzingatia taratibu za ulinzi na usalama za Kibunge na uwezo wa ukumbi, wadau hao walishauriwa waingie kwa kutuma Wawakilishi wao kwa idadi ya watu kumi na pili waliwekewa utaratibu wa kupitia katika mlango maalumu kusajiliwa na kukaguliwa. Wanafunzi hao walikataa ushauri huo huku wakiimba na kupiga kelele wakitaka waingie wote ukumbini bila kukaguliwa hali ambayo ilitishia usalama wa</seg>
+          <seg xml:id="seg286">Viongozi na Wananchi katika maeneo ya Bunge na ulikwenda kinyume na taratibu za Kibunge ambapo hata Wabunge hukaguliwa wakiwa na vitambulisho maalumu wanapoingia Bungeni. Kutokana na wingi wao, waliziba geti la kuingilia maeneo ya Bunge pamoja na barabara kuu ya Morogoro – Dodoma.</seg>
+          <seg xml:id="seg287">Katika kuendelea kusikiliza kilio chao, jitihada zaidi zilifanyika na Uongozi wa Ofisi ya Bunge na Uongozi wa Mkoa ambapo Mkuu wa Mkoa wa Dodoma na Katibu wa Bunge waliwashauri wadau hao hasa wanafunzi waingie kwa awamu. Pamoja na hayo baadhi yao walitii na kufuata utaratibu uliowekwa na kuruhusiwa kuingia ndani hadi ukumbi ulipojaa.</seg>
+          <seg xml:id="seg288">Hata hivyo, walio wengi ambao walikuwa nje ya geti, hawakukubaliana na utaratibu huo na wakilazimisha Kamati iahirishe kikao na kuhamia uwanja wa Jamhuri huku wakiimba nyimbo, wakionyesha mabango na kutoa lugha chafu. Aidha, waliendelea kuleta fujo na kurusha mawe yaliyowajeruhi baadhi ya Wananchi na Viongozi waliokuwa wanawasihi waache fujo na kufuata utaratibu uliowekwa wa kuingia ndani ya Ukumbi wa Bunge. Kutokana na hali hiyo iliyoashiria uvunjifu wa amani, Polisi walilazimika kuwatawanya.</seg>
+          <seg xml:id="seg289">Kituo cha Dar es Salaam. Katika Kituo cha Dar es Salaam majadiliano yalifanyika katika Ukumbi Mkubwa wa Karimjee ambapo zaidi ya wadau elfu moja walijitokeza kuanzia saa mbili asubuhi wakiwemo Viongozi wa Kisiasa, Wanataaluma, Viongozi Wakuu Wastaafu, Taasisi zisizo za Serikali na wanafunzi kutoka Vyuo mbalimbali. Mara baada ya ufunguzi na wadau kupewa fursa ya kuchangia, kulijitokeza hali ya kurushiana maneno miongoni mwa washiriki na kusababisha kikao hicho kiahirishwe saa nane mchana kabla ya wakati uliopangwa na Kamati hadi 8 Aprili, 2011.</seg>
+          <seg xml:id="seg290">Kituo cha Zanzibar. Katika Kituo cha Zanzibar Wadau watasikilizwa tarehe 8 Aprili, 2011 katika Ukumbi wa Hoteli ya Bwawani. Kwa ushirikiano na Serikali ya Mapinduzi ya Zanzibar, Ofisi ya Bunge imekwisha waalika wadau mbalimbali zikiwemo Taasisi za Dini, Asasi zisizo za Serikali na Wananchi kwa ujumla.</seg>
+          <seg xml:id="seg291">Mwisho. Katika matukio yaliyotokea Dar es Salaam na Dodoma inasemekana kuwa wapo baadhi ya Wanasiasa wanautumia Muswada huo wa Mabadiliko ya Katiba kama mtaji wa kisiasa kwa kuwapotosha wananchi hususan wanafunzi. Kama kweli kitendo hicho kinafanyika, hakileti picha nzuri na hakifai na kinapaswa kukemewa na kuachwa mara moja, kwani kinahatarisha amani na usalama wa nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u111" who="Spika">
+          <seg xml:id="seg292">Kwa wale walioshiriki mjadala uliofanyika 7 Aprili, 2011 hapa Dodoma, licha ya dosari zilizojitokeza, imeonekana dhahiri kuwa wadau wengi walioshiriki walitoa michango yao ya kina baada ya kupewa fursa ya kutosha, wakiwemo wanafunzi kutoka Chuo Kikuu cha Dodoma waliopata fursa ya kushiriki tofauti na mawazo yaliyokuwa yakitolewa na baadhi ya wanafunzi waliokuwa nje ya Geti la Bunge kuwa Kamati ya Bunge au Bunge lilikuwa na njama za kuchagua watu maalumu kushiriki kwenye mchakato wa mkutano wa Kamati wa kusikiliza na kupokea maoni.</seg>
+          <seg xml:id="seg293">Kamati za Bunge zinapopokea maoni ya wananchi kuhusu Muswada kabla ya kusomwa mara ya pili, ni kwamba Kamati inasikiliza maoni ya Wananchi kwa lengo la kuboresha Muswada huo. Huu siyo mdahalo; hivyo, busara lazima zitumike. Ibara ya 18 ya Katiba inatoa haki ya uhuru wa mawazo. Kwa kutambua haki ya Kikatiba ndiyo maana Bunge limetoa fursa ya kuwashirikisha Wananchi katika masuala muhimu yanayoihusu jamii.</seg>
+          <seg xml:id="seg294">Hata hivyo, haki hiyo haina budi kuzingatia haki na madaraka ya Bunge kama ilivyofafanuliwa katika Ibara ya 100 (1) ya Katiba, Kanuni za Bunge na Sheria ya Kinga, Haki na Madaraka ya Bunge, Sura ya 296 ya Sheria za Tanzania ambazo zimeweka utaratibu maalumu wa kuendesha mikutano ya Bunge na Kamati zake. Hivyo basi, kuheshimu mawazo ya mtu mwingine hata kama hukubaliani nayo lazima izingatiwe. Tabia ya kuzomea na kadhalika Bunge halikubali. Pale tunasikiliza tu mtu anasema mawazo yake, tunamsikiliza na tunayachukua yale mawazo lakini kushangilia na kuzomea sio utaratibu wetu wa Bunge, kwa sababu mawazo ya mtu ni yake na ni lazima yaheshimiwe.</seg>
+          <seg xml:id="seg295">Watu wenye nia njema wanachambua Muswada na kuleta maandiko yao kuhusu uchambuzi wao. Wanafunzi wana nafasi hiyo zaidi ya watu wengine wowote; maana wangeweza kutengeneza club zao kule wakaandika, wakauchambua Muswada wakaleta maandiko yale halafu Kamati zetu zikaweza kuyatumia na yakawa na manufaa sana. Tabia ya kupotosha Wananchi kwa malengo ya kisiasa pia haikubaliki kwa mujibu wa Kanuni za Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u112" who="Spika">
+          <seg xml:id="seg296">Muswada ni mapendekezo na si Sheria. Hivyo, Wabunge kwa kutumia maoni yenu wanao uwezo wa kuuandika upya. Kuzomea, kushangilia, hakuandiki sheria bali kunavuruga utaratibu na kukwamisha Shughuli za Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2011-04-08-bunge-03-03.u113" who="Spika">
+          <seg xml:id="seg297">Waheshimiwa Wabunge, naisema hii kwa sababu hii tabia sisi hatujawahi kuiona tokea tuanze mambo kama haya. Lengo letu ni kutunga Muswada na ule Muswada kama tulivyosema ni Road Map, sasa kama hii Road Map haikubaliki basi mnatoa mawazo lakini siyo kuzomea au kukusanya watu kuja kufanya fujo katika maeneo ya Bunge, huu siyo utaratibu. Kwa hiyo, zikichukuliwa hatua nazo siyo sifa, Tanzania tumekuzwa kwa kusikilizana na kuweza kushauriana; tabia zilizoanza sasa hivi sizo. Hata katika dunia, nchi zote zilizoendelea wanazungumza. Mimi nilitegemea na nimeweka Kamati yangu ina watu wazito sana, nimewajaza Wanasheria karibu wote mle ili siku itakapofika, wakajadiliane hata walale humo kwa wiki nzima sisi tupo tayari. Sasa haya mengine tusiyafanye, hayana faida kwetu sisi wala kwa Wananchi wa Tanzania na wala kwa Tanzania yenyewe. Kwa hiyo, ni mategemeo yangu kwamba, katika kuendelea siku hizi mbili taratibu zote zitafuatwa.</seg>
+          <seg xml:id="seg298">Waheshimiwa Wabunge, baada ya kusema haya, mimi sina suala lingine lolote, ninapenda kuahirisha Kikao cha Bunge mpaka Siku ya Jumatatu, saa 3.00 asubuhi.</seg>
+          <seg xml:id="seg299">(Saa 5.04 Asubuhi Bunge liliahirishwa Mpaka Siku ya Jumatatu,</seg>
+          <seg xml:id="seg300">Tarehe 11 Aprili, 2011, Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2006-11-01) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2006-11-01) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="2">2. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="5">5. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1465973037-HS-5-2-2006.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2006-11-01">1.11.2006</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 13. Elimu ya Ukimwi kwa Wanawake</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u1" who="MheMgeniJadiKadika">
+          <seg xml:id="seg1">Kwa kuwa wanawake wengi ndio waathirika wakubwa na UKIMWI; na kwa kuwa UKIMWI ni janga kubwa kwa Watanzania kwa ujumla; na kwa kuwa Serikali ina mpango wa kutoa mafunzo kwa wanawake walioathirika na UKIMWI wapatao 200 ili nao wawe walimu wazuri wa kutoa taaluma nchini:-</seg>
+          <seg xml:id="seg2">(a) Je, Serikali haioni kuwa idadi hiyo ni ndogo sana ikilinganishwa na ukubwa wa nchi yetu na uzito wa tatizo lenyewe lilivyo?</seg>
+          <seg xml:id="seg3">(b) Je, Serikali ina mpango gani wa kuwawezesha waathirika ambao hali zao ni duni kuwapatia huduma angalau ya chakula bora ili kuhimili nguvu ya dawa wanazotumia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u2" who="NaibuWaziriOfisiYaWaziriMkuuMaafaNaKampeniDhidiYaUkimwiMheDrLukaJSiyame">
+          <seg xml:id="seg4">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Mgeni Jadi Kadika, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">(a) Mheshimiwa Spika, ni kweli kwamba UKIMWI ni janga kubwa la Taifa na athari zake zinaonekana katika maeneo yote nchini, wanawake wakiwa ndio waathirika wakubwa. Udhibiti wake ni changamoto kwa jamii yote hususan katika kufikisha elimu kwa wananchi na huduma stahili kwa wote wanaostahili.</seg>
+          <seg xml:id="seg6">Mheshimiwa Spika, ili kufanikisha hili, Serikali inashirikiana na asasi mbalimbali zilizopo nchini, uwezeshaji wa kutoa elimu ya UKIMWI, hupewa mafunzo kulingana na mahitaji ya kitaalam na walengwa kwa nyakati na maeneo mbalimbali. Asasi huchagua wawezeshaji wakiume na wakike kutegemea na uwezo wao.</seg>
+          <seg xml:id="seg7">Mheshimiwa Spika, hivyo nakubaliana na Mheshimiwa Mbunge kwamba kwa kuwa nchi yetu ni kubwa, wawezeshaji wengi zaidi wanahitajika katika kutekeleza mpango huu. Azma ya Serikali ni kuhakikisha kwamba kila inapowezekana, wanawake waishio na virusi vya UKIMWI wenye uwezo wa kutoa elimu, wanashirikiana na kushirikishwa katika kutoa mafunzo hayo.</seg>
+          <seg xml:id="seg8">(b) Mheshimiwa Spika, ni kweli wagonjwa wanaotumia dawa za kupunguza makali ya UKIMWI wanahitaji sana huduma ya chakula bora ili kuweza kuhimili nguvu ya dawa wanazotumia. Bado hatujawa na sera mahsusi ya kutoa huduma ya vyakula kwa wagonjwa wanaostahili, lakini hilo linafanyika kwa kushirikiana na asasi zinazotoa huduma kwa wagonjwa wa UKIMWI. Jitihada za Serikali ni kuzihimiza na kuzielekeza asasi za kiraia kuwa na mpango wa kuwahudumia waathirika wa UKIMWI ikiwa ni pamoja na kuwapatia chakula bora, na kuelimisha jamii juu ya mahitaji ya vyakula kwa wagonjwa.</seg>
+          <seg xml:id="seg9">Aidha, mwongozo utatolewa kuhimiza kilimo cha mazao yanayokomaa haraka yenye nguvu ili waishio na virusi vya UKIMWI na wagonjwa wa UKIMWI wapate chakula bora chenye virutubisho mapema iwezekanavyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u3" who="MheMgeniJadiKadika">
+          <seg xml:id="seg10">Mheshimiwa Spika, nashukuru kwa majibu yake mazuri, nina swali moja tu la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u4" who="Spika">
+          <seg xml:id="seg11">Samahani Mheshimiwa sijui ni tatizo la microphone, mafundi pale hapasikiki, Katibu hebu msaidie Mheshimiwa aende kwenye microphone nyingine. Tafadhali anza mwanzo Mheshimiwa, Mheshimiwa Naibu Waziri hakusikia vizuri, tuna matatizo ya kiufundi inaelekea microphone hiyo haifanyi kazi vizuri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u5" who="MheMgeniJadiKadika">
+          <seg xml:id="seg12">Nashukuru kwa kunipa nafasi hii ya swali la nyongeza. Kwanza swali langu ni dogo tu hawa washiriki 200 watakaosimamia mafunzo haya, Wazanzibar watakuwepo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u6" who="Spika">
+          <seg xml:id="seg13">Mheshimiwa samahani kidogo nakuomba uje kwenye microphone hii, Mheshimiwa nimekuomba uje hapa aliposimama mhudumu. Hapo sio tu kwamba utasikika vizuri, lakini pia utaonekana vizuri. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u7" who="MheMgeniJadiKadika">
+          <seg xml:id="seg14">Nakushukuru kwa majibu mazuri niliyopata, lakini nina swali moja tu la nyongeza, hawa washiriki 200 kati yao watakuwemo Wazanzibar? Kwa sababu hili janga limeenea Tanzania nzima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u8" who="NaibuWaziriOfisiYaWaziriMkuuMaafaNaKampeniDhidiYaUkimwiMheDrLukaJSiyame">
+          <seg xml:id="seg15">Mheshimiwa Spika, juhudi hizi za kushirikisha hawa akinamama 200 zimefanywa na Tume ya Taifa ya Kudhibiti UKIMWI yaani TACAIDS na ndiyo ambayo imeomba hawa washiriki 200 akinamama kwa upande wa Tanzania Bara washiriki.</seg>
+          <seg xml:id="seg16">Mheshimiwa Spika, hali kadhalika kule Zanzibar tuna ZAC ambayo ni Zanzibar Aids Commission ambao wako huru kufanya vivyo hivyo kama ilivyo huku Bara.</seg>
+        </u>
+        <note>Na. 14. Mchango wa 10% kwa Halmashauri kwa Ajili ya</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u9" who="NaibuWaziriOfisiYaWaziriMkuuMaafaNaKampeniDhidiYaUkimwiMheDrLukaJSiyame">
+          <seg xml:id="seg17">Wanawake na Vijana</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u10" who="MheVedastusiMManyinyi">
+          <seg xml:id="seg18">Kwa kuwa Serikali katika mpango wake wa kuviwezesha vikundi vya vijana na wanawake kwa kuwapatia mkopo, Halmashauri zimekuwa zikichangia asilimia 10 ya mapato yake katika mfuko huo wa vijana na wanawake:-</seg>
+          <seg xml:id="seg19">(a) Je, mpango huo bado unaendelea kutekelezwa?</seg>
+          <seg xml:id="seg20">(b) Je, hiyo asilimia 10 ni jumla ya mapato yote ya Halmashauri pamoja na fidia za vyanzo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u11" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg21">Mheshimiwa Spika, kwa niaba ya Waziri Mkuu, naomba kujibu swali la Mheshimiwa Vedastusi Manyinyi, Mbunge wa Musoma Mjini, swali lake lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg22">(a) Mheshimiwa Spika, ni kweli kuwa Halmashauri zimekuwa zikichangia asilimia 10 ya mapato yake katika mfuko wa vijana na wanawake. Mpango huu bado unaendelea na kila Halmashauri inatakiwa kuchangia asilimia 10 ya mapato yake.</seg>
+          <seg xml:id="seg23">(b) Mheshimiwa Spika, mchango wa asilimia 10 ni wa mapato halisi ya Halmashauri husika ikiwa ni pamoja na fidia ambayo inatokana na vyanzo vya mapato ya Halmashauri. Aidha, fidia ya vyanzo vya mapato isiyohusiana na mapato halisi ya Halmashauri haichangia mfuko huu.</seg>
+          <seg xml:id="seg24">Mheshimiwa Spika, hata hivyo kuna baadhi ya Halmashauri ambazo zinachangia asilimia hiyo na baadhi ya Halmashauri ambazo hazichangii. Kwa vile sisi sote ni Madiwani katika maeneo yetu, naomba tujitahidi kushiriki wakati wa kupitisha makisio ya bajeti ya mwaka, bajeti za Halmashauri zetu ili tuweze kuendelea kutenga kiasi hicho cha fedha kwa ajili ya kuendeleza vikundi vya uzalishaji vya akinamama na vijana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u12" who="MheVedastusiMManyinyi">
+          <seg xml:id="seg25">Mheshimiwa Spika, ahsante kwa kunipa nafasi ya kuuliza maswali ya nyongeza kama ifuatavyo.</seg>
+          <seg xml:id="seg26">Kwanza naridhika na majibu ya Mheshimiwa Naibu Waziri kwa jinsi alivyoweza kuyatoa kwa maana ametoa ufafanuzi mzuri.</seg>
+          <seg xml:id="seg27">Sambamba na hizi fedha za mifuko ya vijana na akinamama, Serikali tunakumbuka imetoa fedha shilingi bilioni moja kwa kila mkoa ambazo vilevile zitafanya kazi sawa sawa na hii. Sasa nilichotaka kufahamu kwanza huo mpango utaanza kutekelezwa lini, lakini vile vile ni walengwa wapi watakohusika katika kupata fedha hizo ili ziweze kutusaidia kuinua viwango vyao vya maisha?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u13" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg28">Mheshimiwa Spika, ule mpango wa kutoa shilingi bilioni moja kwa kila mkoa ambao utatumia taratibu mbili. Utaratibu wa kwanza ni pesa ambazo Serikali itatoa kama dhamana kwa benki ya NMB na CRDB ili benki hizo nazo sasa zipeleke kwa walengwa, na mpango wa pili ni fedha ambazo zitapitia kwa taasisi nyingine zinazotoa mikopo kama Benki za Wananchi Benki ya Posta, SCULT na kadhalika. Ule mpango wa kwanza umekwisha kamilika, tayari Benki Kuu imeshafanya makubaliano na Benki ya CRDB na NMB na pesa hizo tayari zimeshaanza kusambazwa mikoani tayari kwa wajasiriamali kukopa.</seg>
+          <seg xml:id="seg29">Mpango wa pili bado benki kuu inazungumza na zile taasisi zingine, nao ukikamilika utaanza kazi, lakini mpango wa kwanza wenye shilingi bilioni 10 tayari umekamilika na walengwa ni wajasiriamali wadogo wadogo na wa kati katika mikoa yote Tanzania Bara.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u14" who="Spika">
+          <seg xml:id="seg30">Ahsante, nilisahau kusema tu kwamba huyo ni Waziri mpya wa Kazi, Ajira na Maendeleo ya Vijana ndio amejibu kuhusu wajasiriamali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u15" who="MheHaroubSaidMasoud">
+          <seg xml:id="seg31">Mheshimiwa Spika, baada ya majibu mazuri ya Mheshimiwa Naibu Waziri, nina suala moja la nyongeza.</seg>
+          <seg xml:id="seg32">Kwa kuwa Mheshimiwa Naibu amekiri kwamba kuna baadhi ya Halmashauri zinachangia na baadhi ya Halmashauri hazichangii, lakini mchango huu ambao umetakiwa ni agizo la Serikali Kuu, sasa je, Mheshimiwa Naibu Waziri anasema nini kwa zile Halmashauri ambazo bado zinakaidi agizo muhimu la Serikali ambalo wametakiwa wawe wanachangia asilimia 10 katika kila mapato yao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u16" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg33">Mheshimiwa Spika, kama nilivyosema kwenye jibu langu la msingi kwamba sisi wote hapa ni Madiwani katika Halmashauri zetu tunachotakiwa</seg>
+          <seg xml:id="seg34">kuwahimiza Halmashauri zote, tukiwa kwenye vikao kuhakikisha kwamba wanachangia ile asilimia 10.</seg>
+          <seg xml:id="seg35">Mheshimiwa Spika, ni mikoa mingi sana ambayo haijachangia na Wilaya nyingi sana hazijachangia, mfano katika mkoa wa Mara, hata Halmashauri moja haijachangia, katika Mkoa wa Singida, hata Halmashauri moja haijachangia, ni Halmashauri nyingi ambazo hazijachangia.</seg>
+          <seg xml:id="seg36">Mheshimiwa Spika, kwa hiyo, wote kwa pamoja kwa kuwa ni agizo la Serikali na sisi Waheshimiwa Wabunge ni Madiwani tujitahidi kuhakikisha kwamba tunapitisha katika Halmashauri zetu hiyo asilimia kumi katika kuwasaidia hivyo vikundi vya wanawake na vijana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u17" who="Spika">
+          <seg xml:id="seg37">Waheshimiwa Wabunge, nadhani muda hauruhusu tuendelee tu nadhani swali linalofuata la Ofisi ya Makamu wa Rais, na linaulizwa na Mheshimiwa Kheri Khatib Ameir, Mbunge wa Matemwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 15. Vikao vya Kuzungumzia Mambo ya Muungano</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u18" who="MheKheriKhatibAmeir">
+          <seg xml:id="seg38">Kwa kuwa Mheshimiwa Waziri anayeshughulikia mambo ya Muungano alipokuwa akiwasilisha hotuba ya bajeti ya mwaka wa fedha 2005/2006 alisema kuwa Muungano wetu umekuwa umepitia hatua mbalimbali na hivyo yamejitokeza hayo ya kuongeza maneno mengine katika orodha ya mambo ya Muungano; na kwa kuwa ili utaratibu wa mambo ya Muungano ufanyike kwa ufanisi zaidi kila Wizara, Idara, Asasi mbalimbali zitafanya angalau vikao viwili kwa mwaka kuanzia Julai, 2006.</seg>
+          <seg xml:id="seg39">(a) Je, Serikali inaweza kutueleza ni vikao vingapi vimefanyika mpaka sasa na nini matokeo ya vikao hivyo?</seg>
+          <seg xml:id="seg40">(b) Je, kati ya yale yaliyokusudiwa kuzungumzwa, kuna lolote lile lililokubalika kuhusu miradi ya pamoja kati ya Serikali zetu, ili kusaidia uchumi wa Zanzibar?</seg>
+          <seg xml:id="seg41">(c) Je, suala la madini na mafuta limefikia hatua gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u19" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoMheDrHusseinAliMwinyi">
+          <seg xml:id="seg42">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Kheri Khatib Ameir, Mbunge wa Matemwe, lenye vipengele (a), (b) na(c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg43">(a) Kuanzia mwezi Julai hadi Oktoba, 2006 vimeshafanyika vikao vitano vya ushirikiano katika Sekta zifuatazo:-</seg>
+          <seg xml:id="seg44">(i) Tawala za Mikoa na Serikali za Mitaa;</seg>
+          <seg xml:id="seg45">(ii) Maji;</seg>
+          <seg xml:id="seg46">(iii) Miundombinu;</seg>
+          <seg xml:id="seg47">(iv) Maliasili; na</seg>
+          <seg xml:id="seg48">(v) Viwanda na Biashara.</seg>
+          <seg xml:id="seg49">Mheshimiwa Spika, vikao vya ushirikiano kati ya Serikali ya Muungano na Serikali ya Mapinduzi Zanzibar vinafanyika kuendana na ratiba iliyoandaliwa na Ofisi ya Makamu wa Rais na kuwasilishwa kwa Wizara, Idara na Asasi zinazohusika. Nia ya vikao hivi ni kubadilishana uzoefu, ujuzi, utaalamu, sera ya pamoja na uwakilisha katika vikao mbalimbali vya kimajimbo na kimataifa.</seg>
+          <seg xml:id="seg50">(b) Kutokana na vikao hivi, utekelezaji wa miradi kadhaa ilikubalika kufanyika kwa pamoja ili Zanzibar iweze kufaidika kiuchumi kama ifuatavyo:-</seg>
+          <seg xml:id="seg51">(i) Miradi iliyo chini ya Agricultural Sector Development Programme (ASDP) (Miradi ya Umwagiliaji);</seg>
+          <seg xml:id="seg52">(ii) Miradi iliyo chini ya Millenium Challenge Account (Miradi ya Barabara); na</seg>
+          <seg xml:id="seg53">(iii) Miradi iliyo chini ya NEPAD.</seg>
+          <seg xml:id="seg54">(c) Mafuta ya Gesi Asilia ni suala la Muungano kwa mujibu wa Katiba ya Jamhuri ya Muungano wa Tanzania. Katika mazungumzo ya awali juu ya utekelezaji wa mikataba ya kutafuta na kuzalisha mafuta katika Pwani ya Zanzibar, ilikubalika kwamba ni vyema Serikali zetu mbili zikapata ushauri wa mshauri mwelekezi (consultant) juu ya ugawanaji wa mapato ya rasilimali hii kabla utekelezaji wa mikataba hiyo kuanza.</seg>
+          <seg xml:id="seg55">Mheshimiwa Spika, suala la madini mengine halipo katika orodha ya mambo ya Muungano na hivyo majadiliano yataendelea katika vikao vijavyo ili kupata muafaka wa eneo hili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u20" who="MheKheriKhatibAmeir">
+          <seg xml:id="seg56">Mheshimiwa Spika, nimshukuru sana Mheshimiwa Waziri kwa majibu yake, lakini nina swali dogo la nyongeza. Nini matokeo na mustakabali wa suala la mafuta pamoja na kwamba tunaambiwa kwamba kuna baadhi ya madini hayamo katika suala la Muungano, suala hili linategemewa kumalizika lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u21" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoMheDrHusseinAliMwinyi">
+          <seg xml:id="seg57">Mheshimiwa Spika, kama nilivyosema katika jibu langu la msingi suala la mafuta limezungumzwa, na kinachogomba sasa hivi kupata muafaka ni jinsi gani ya kugawana mapato yatokanayo na rasilimali hii. Kwa hivyo, ilionekana ni busara atafutwe kwanza mshauri mwelekezi kwa madhumuni ya kushauri Serikali zetu mbili juu ya ugawanyaji wa rasilimali hiyo. Kwa hiyo, suala hili linaendelea kujadiliwa katika vikao na hatimaye tutapata muafaka ili rasilimali hii iweze kutumika kwa manufaa ya nchi zetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u22" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoMheDrHusseinAliMwinyi">
+          <seg xml:id="seg58">Mheshimiwa Spika, kuhusu suala la madini kama nilivyosema, madini mengine kwa sasa hayako katika nyongeza ya kwanza ya Katiba ya Jamhuri ya Muungano ambayo ndio masuala ya Muungano, lakini hoja imeletwa kwamba ingekuwa vyema na yenyewe yakawa humo, majadiliano yanaendelea na tutatoa ripoti au taarifa ya vikao vitakavyofuata. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u23" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg59">Mheshimiwa Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza, ninalo swali moja la nyongeza. Kwa kuwa majadiliano yanayoendelea ya Muungano yanashirikisha upande mmoja tu na kero za Muungano zinahusu Watanzania wote, je, kuna mpango gani wa kero hizi na majadiliano haya kuwashirikisha sehemu nyingine watu wengine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u24" who="Spika">
+          <seg xml:id="seg60">Mheshimiwa Mbunge, halijawa wazi swali lako, hebu liweke vizuri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u25" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg61">Mheshimiwa Spika, ahsante sana nitafafanua, kwa kuwa kero za Muungano zinahusu nchi nzima, zinahusu vyama vyote au zinahusu taasisi zote na majadiliano yanayaoendelea hivi sasa ni ya pande mbili ambazo zinahusu pande za Chama Tawala tu. Je, pande nyingine zitashirikishwa namna gani katika majadiliano hayo kwa vile suala linatuhusu sote?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u26" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoMheDrHusseinAliMwinyi">
+          <seg xml:id="seg62">Mheshimiwa Spika, vikao vinavyoendelea sasa hivi ni vikao baina ya Serikali mbili yaani Serikali ya Muungano kwa Tanzania na Serikali ya Mapinduzi Zanzibar, katika maeneo ambayo yanaonekana ni kero kwa sababu maeneo hayo yanasimamiwa na vyombo vya Serikali, basi ni vyema Serikali zikakutana kujadili haya. Lakini kama tulivyosema katika hotuba yetu ya bajeti, kwamba ofisi ya Makamu wa Rais, Muungano, ina mpango madhubuti wa kuhakikisha kwamba tunashirikisha jamii katika kuzungumza, kuibua na kutatua kero za Muungano. Tutatoa utaratibu hivi karibuni juu ya matumizi ya vyombo vya habari, juu ya matumizi ya mikutano ya hadhara, juu ya utaratibu mbalimbali wa kukusanya maoni ya wadau, iwe wananchi wa kawaida, iwe mashirika yasiyokuwa ya kiserikali na hata vyama vya siasa kwa hivyo hilo halina tatizo utaratibu unaandaliwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 16. Kupungua kwa Maji katika Ziwa Victoria</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u27" who="MheKidawaHamidSalehe">
+          <seg xml:id="seg63">Kwa kuwa Ziwa Victoria ni Ziwa kubwa katika Bara la Afrika na lipo katika Ukanda wa Afrika Mashariki; na kwa kuwa kina cha maji ya Ziwa hilo kinapungua siku hadi siku:-</seg>
+          <seg xml:id="seg64">(a) Je, Serikali inaweza kueleza sababu za kupungua kwa kina cha maji ya Ziwa hilo?</seg>
+          <seg xml:id="seg65">(b) Je, ni athari zipi za kijamii na kiuchumi zinazodhaniwa kuchangia kuwepo kwa tatizo hilo?</seg>
+          <seg xml:id="seg66">(c) Je, Serikali ina mkakati gani wa kutafuta ufumbuzi wa tatizo hilo kwa manufaa ya Watanzania wote hasa wale waishio katika maeneo ya Ziwa hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u28" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg67">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Kidawa Hamid Salehe, Mbunge wa Viti Maalum, lenye sehemu (a), (b) na (c) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg68">Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kuwa kina maji cha Ziwa Victoria kimekuwa kikishuka. Hali hii imesababisha matatizo mbalimbali yanayohitaji ufumbuzi wa haraka.</seg>
+          <seg xml:id="seg69">Mheshimiwa Spika, sababu za kupungua kwa kina cha maji ya Ziwa Victoria zipo tatu:-</seg>
+          <seg xml:id="seg70">(i) Kwanza, ukame wa miaka mitatu mfululizo umepunguza kiasi cha maji ya mvua ambayo huchangia asilimia 85 ya maji yanayoingia Ziwani.</seg>
+          <seg xml:id="seg71">(ii) Pili, maji yanayotiririka kwenye mito kuingia Ziwani pia yamepungua kutokana na upungufu wa mvua katika maeneo yanayozunguka Ziwa.</seg>
+          <seg xml:id="seg72">(iii) Tatu, kumekuwa na matumizi makubwa ya maji ya Ziwa Victoira kwa ajili ya uzalishaji umeme kwenye kituo kipya cha umeme huko Jinja, Uganda. Hadi kufikia tarehe 21 Oktoba, 2006 kina cha maji kilikuwa mita 1131.7 juu ya usawa wa bahari. Kina hiki kiko chini ya kina cha wastani cha muda mrefu ambacho ni mita 1132.2 juu ya usawa wa bahari.</seg>
+          <seg xml:id="seg73">(b) Mheshimiwa Spika, athari za kijamii na kiuchumi zinazotokana na kupungua kwa kina cha maji katika Ziwa Victoria ni pamoja na usafiri Ziwani kuwa mgumu au kushindikana kabisa katika maeneo mengi, mitambo ya kusukuma maji kushindwa kufanya kazi na masalia ya samaki kupungua. Athari zifuatazo ni miongoni mwa zilizosababishwa na kushuka kwa kina cha maji.</seg>
+          <seg xml:id="seg74">(i) Kwanza, usafiri Ziwani, meli hushindwa kutia nanga kwenye magati ya Mwanza na Nansio na kulazimika kubeba mizigo chini ya uwezo wake. Hali hii imepunguza ufanisi na mapato ya wenye meli hizo.</seg>
+          <seg xml:id="seg75">Kivuko cha Kamonga, hubeba mizigo na watu kwa kiwango cha chini na Kivuko cha Korongo, kimesimamishwa. Hali hii imesababisha usumbufu mkubwa kwa wasafiri.</seg>
+          <seg xml:id="seg76">(ii) Pili, huduma ya Maji, kituo kimoja kati ya vituo vya kusukuma maji vya Mamlaka ya Maji Jijini Mwanza kimefungwa na kiasi cha maji yanayopatikana Jijini Mwanza kimepungua toka mita za ujazo 42,000 hadi 38,000 kwa siku. Aidha, Mamlaka ya Maji imelazimika kununua na kufunga pampu maalum za kuvuta maji kutoka ziwani na hivyo kuongeza matumizi ya umeme na gharama za uendeshaji.</seg>
+          <seg xml:id="seg77">Mamlaka ya Maji ya Mji wa Musoma imelazimika kuhamisha bomba la kuvuta maji kutoka ziwani, hatua ambayo imeongeza gharama za usambazaji maji. Aidha wananchi wameanza kulima katika maeneo ambako ziwa limehama jambo ambalo linaweza kusababisha uchafu wa maji.</seg>
+          <seg xml:id="seg78">Mamlaka ya Maji ya Mji wa Bukoba imesimamisha pampu moja kati ya tano za kusukuma maji na hivyo upatikanaji wa maji umepungua kutoka mita za ujazo 7,000 hadi 4,000 kwa siku. Kina kikipungua zaidi itabidi Mamlaka ibadilishe kabisa mitambo yake ya kusukuma maji.</seg>
+          <seg xml:id="seg79">(c) Mheshimiwa Spika, mkakati uliopo wa kutafuta ufumbuzi wa tatizo la kupungua kwa kina cha maji katika Ziwa Victoria, ni kwa nchi zote za Jumuiya ya Afrika Mashariki, kutekeleza mpango maalumu ili kudhibiti kushuka kwa kina cha maji. Mpango huu hivi sasa unaandaliwa kwa pamoja na nchi za Afrika Mashariki yaani Tanzania, Kenya na Uganda pamoja na Rwanda na Burundi na utatekelezwa kama awamu ya pili ya mradi wa Hifadhi ya Mazingira ya Ziwa Victoria kuanzia mwishoni mwaka 2007. Pamoja na mambo mengine, chini ya mpango huu msisitizo utawekwa kwa nchi ya Uganda kupunguza matumizi ya maji ya Ziwa Victoria, kuzalisha umeme na nchi zote shiriki kutunza mazingira na vyanzo vya maji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u29" who="MheKidawaHamidSalehe">
+          <seg xml:id="seg80">Mheshimiwa Spika, nashukuru kwa majibu mazuri ya Mheshimiwa Naibu Waziri. Nilikuwa na swali dogo tu la nyongeza.</seg>
+          <seg xml:id="seg81">Mheshimiwa Spika, labda tungeelezwa kuwa hakuna mkataba maalum baina ya nchi hizi tatu namna ya kutumia maji ya pamoja ya Ziwa Victoria kwa maana kila mmoja anakuja tu na mradi wake na mwingine unasababisha kuharibu mazingira kama ule uliotajwa wa kule Jinja? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u30" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg82">Mheshimiwa Spika, napenda kujibu swali la nyongeza la Mheshimiwa Kidawa Hamid Salehe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg83">Mheshimiwa Spika, ni kweli kwamba mapatano yapo ya jinsi ya kutumia maji na kuna kiwango ambacho kinaitwa Agree Curve ambacho ndiyo hicho kinatumika kama ni kiwango cha asili cha kila nchi cha kutumia maji.</seg>
+          <seg xml:id="seg84">Kwa hali hiyo basi, wenzetu wa Uganda wamevuka kile kiwango na sasa hivi wameshakubaliana wanarudi katika kiwango cha zamani na mpaka sasa wameshaanza kurudi kiasi, isipokuwa wamekubaliana na nchi nyingine zote kwamba watarudi mpaka wafikie ile Agreed Curve ambacho ndicho kiwango kinachokubalika kwa nchi zote za Afrika Mashariki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u31" who="MheBaloziDrGetrudeIMongella">
+          <seg xml:id="seg85">Mheshimiwa Spika, ahsante, kwanza napenda nipongeze viwango vya screen katika Bunge hili nadhani hili limetekelezwa vizuri.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u32" who="MheBaloziDrGetrudeIMongella">
+          <seg xml:id="seg86">Kwa kuwa Waziri ameainisha wazi wazi athari za kupungua kwa maji katika Ziwa Victoria na nyingine nyingi ambazo hakuzitaja ambazo sisi waathirika tunazifahamu. Je, yupo tayari kutengeneza task force ya sisi wahusika katika maeneo haya pamoja na Wizara hii ili tuweze kutoa majibu ya haraka na ya dharura kunusuru hali za wananchi wanaoishi katika visiwa na mwambao mwa Ziwa hili ambao tunaathirika hasa wale wa Wilaya ya Ukerewe kwenye Gati ya Nansio, Bugorola na visiwa vingine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u33" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingiraMheProfMarkJMwandosya">
+          <seg xml:id="seg87">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Balozi Dr. Getrude Mongella, nikifuatia majibu mazuri sana ya Mheshimiwa Naibu Waziri wa Maji kama ifuatavyo:-</seg>
+          <seg xml:id="seg88">Suala la kupungua kwa kina cha maji katika Ziwa Victoria kwa upana wake ni suala la mazingira na uharibu wa mazingira, kupungua kwa vyanzo vya maji vinavyoingia humo na mabadiliko ya hali ya hewa katika Bonde la Ziwa Victoria na nchini kwa ujumla.</seg>
+          <seg xml:id="seg89">Mheshimiwa Spika, suala hili vile vile linahusu matatizo ya Maziwa mengi yaliyo ndani ya nchi yetu kama vile Ziwa Natron, Ziwa Babati, Ziwa Eyasi na hata Ziwa Rukwa ambako kina cha kila Ziwa kinapungua. Serikali sasa tumeona jambo hili ni zito na tuwe na mkakati wa pamoja wa kulishughulikia suala hili, kwa maana hiyo tunaandaa mkakati wa Hifadhi ya Bahari, Maziwa Makuu na Maziwa yaliyo ndani ya nchi yetu, jambo ambalo tutalifanya ni kuzungumza na wahusika wote kwa kuchukua mapendekezo kama aliyoyatoa Mheshimiwa Balozi Dr. Getrude Mongella ili tuweze kapata ufumbuzi wa tatizo hili kuanzia nchi lakini vile vile kuanzia juu kwa maana hiyo tutalishughulikia na vile vile tutaomba michango mikubwa ya wale wanaoishi katika maeneo hayo.</seg>
+          <seg xml:id="seg90">Mheshimiwa Spika, nina hakika tutamfikia Mheshimiwa Balozi Dr. Getrude Mongella na watu wa Visiwa vya Ukerewe na kwingineko.</seg>
+          <seg xml:id="seg91">Mheshimiwa Spika, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 17. Huduma za Matibabu kwa Wazee, Watoto na Wasiojiweza</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u34" who="MheVitaRKawawa">
+          <seg xml:id="seg92">Kwa kuwa Serikali ya Awamu ya Tatu ilitangaza kuwa watoto walio chini ya umri wa miaka mitano, wazee wenye umri zaidi ya miaka sitini na watu wasio na uwezo kupatiwa huduma za matibabu bure; na kwa kuwa kumekuwa na utata hasa katika zahanati nyingi za Jimbo la Namtumbo wa jinsi ya utoaji wa huduma hizo kwa walengwa ambao ni nimewataja.</seg>
+          <seg xml:id="seg93">Je, Serikali inaweza kutoa ufafanuzi na tamko rasmi juu ya suala hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u35" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg94">Mheshimiwa Spika, kwa niaba ya Waziri wa Afya na Ustawi wa Jamii, napenda kujibu swali la Mheshimiwa Vita Kawawa, Mbunge wa Namtumbo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg95">Mheshimiwa Spika, utaratibu wa Serikali wa msamaha wa matibabu kwa makundi maalum unayahusu pia pia makundi aliyoyataja Mheshimiwa Mbunge, ambayo ni watoto wa chini ya miaka mitano, wazee wenye umri wa miaka 60 na wananchi wengine wasio na uwezo kutokana na sababu mbalimbali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u36" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg96">Mheshimiwa Spika, utoaji wa huduma za matibabu bila malipo kwa watoto hauna matatizo kwa vile mtoto anakuwa na kadi ya kliniki ambayo inaonyesha umri wake, mara nyingi matatizo yanajitokeza kwa matibabu ya wazee na wananchi wengine wasio na uwezo. Matatizo haya hutokea hasa katika kubaini nani Mzee au asiye na uwezo ili apate huduma bila malipo na pia katika upatikanaji wa matibabu yenyewe.</seg>
+          <seg xml:id="seg97">Mheshimiwa Spika, maelekezo ya Wizara yangu kuhusu suala hili yako wazi, wananchi wanaostahili kupata msamaha wanatakiwa kupata uthibitisho wa kutokuwa na uwezo kutoka kwa Afisa wa Ustawi wa Jamii au viongozi wa Serikali ya Mtaa katika eneo analoishi mhusika. Uthibitisho huo uwasilishwe kwa uongozi wa hospitali kwa ajili ya hatua zaidi.</seg>
+          <seg xml:id="seg98">Mheshimiwa Spika, napenda kuchukua nafasi hii kuwataka watumishi wa Wizara yangu katika sehemu zote za kutolea huduma zikiwemo Zahanati, Vituo vya Afya na Hospitali nchini kuwajibika ipasavyo kwa wananchi ambao wanahitaji huduma za afya kwa kuzingatia vigezo vilivyoainishwa katika taratibu za msamaha wa matibabu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u37" who="MheVitaRKawawa">
+          <seg xml:id="seg99">Mheshimiwa Spika, ahsante kwa kunipa nafasi hii ili niweze kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg100">Kwa kuwa wazee ndiyo mihimili yetu kwani wao ndiyo waliochangia kwa kiasi kikubwa katika ujenzi wa nchi na wengi wao wamestaafu na wengine wameishiwa nguvu za kujizalishia na uwezo wao ni mdogo katika kujihudumia kiafya.</seg>
+          <seg xml:id="seg101">Je, Serikali haioni iko haja ya kuelekeza Halmashauri kupitia Idara za Afya kuwatambua na kuwaorodhesha wazee walio na zaidi ya miaka 60 na wasio na uwezo wa kujitibu iwe rahisi kuwahudumia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u38" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg102">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Vita Kawawa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg103">Mheshimiwa Spika, ni kweli nakubaliana na Mheshimiwa Mbunge kwamba wazee ambao ndiyo mhimili wa Taifa wengi wao wakiwa wastaafu hawana uwezo wa kuweza kujihudumia kwa upande wa afya. Utaratibu upo wa kuwahudumia wazee lakini vile vile kama tumekuwa tukifuatilia matukio Mheshimiwa Waziri Mkuu katika siku ya kuadhimisha Siku ya Wazee tuliweza kukutana na Wazee katika Uwanja wa Mnazi</seg>
+          <seg xml:id="seg104">Mmoja naye alitoa tamko kwamba wazee tuwatengee utaratibu mzuri katika Halmashauri zetu ili tuweze kuwatolea huduma hizo.</seg>
+          <seg xml:id="seg105">Mheshimiwa Spika, naomba kuliarifu Bunge lako Tukufu kwamba Wizara ya Afya inafanya utaratibu ili kuweza kuona ni mpango upi mzuri ambao utaweza kuwasaidia utumike katika Hospitali zetu za Halmashauri na kwingineko katika Hospitali za Serikali ili kuona kwamba wazee wanapatiwa huduma hizi bila kuwa na mlolongo mrefu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u39" who="Spika">
+          <seg xml:id="seg106">Tunawatakia kheri katika kazi hiyo kwa sababu sisi wa miaka zaidi ya miaka 60 tunasubiri kwa hamu mipango hiyo. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u40" who="Spika">
+          <seg xml:id="seg107">Swali linalofuata linaulizwa kwa Wizara hiyo hiyo na linaulizwa na Mheshimiwa Esther Kabadi Nyawazwa, kwa niaba ya Mheshimiwa Janet Bina Kahama. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 18. Udhibiti wa Uvutaji Sigara Kwenye Maeneo Yenye Watu Wengi</note>
+        <note>(k.n.y. MHE. JANET B. KAHAMA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u41" who="MheEstherKNyawazwa">
+          <seg xml:id="seg108">Kwa kuwa uvutaji wa sigara unaleta madhara makubwa kwa binadamu kama maradhi ya kansa ya mapafu na kadhalika; na kwa kuwa, baada ya uchunguzi wa kitaalam imethibitika kuwa (second smoke) moshi unaopuliziwa kwa mtu aliye karibu na mvutaji ni hatari sana; na zaidi kwa mtu asiye mvutaji kuliko hata yule mvutaji sigara mwenyewe ambaye pia husababisha maradhi ya moyo (Coronary Heart Disease) kansa ya mapafu na maradhi mengine:-</seg>
+          <seg xml:id="seg109">(a) Je, Serikali imekwisha chukua hatua zipi kuhakikisha kuwa uvutaji wa sigara unadhibitiwa katika maeneo yenye watu wengi (public areas) kama vile hospitalini, mahotelini, kumbi za mikutano, maofisini, kwenye baa na kadhalika?</seg>
+          <seg xml:id="seg110">(b) Je, ni mara ngapi Serikali imetoa wito na matangazo kuhusu udhibiti huo; na je, wito huo umefikiaje wananchi kwa ujumla?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u42" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg111">Mheshimiwa Spika, kwa niaba ya Waziri wa Afya na Ustawi wa Jamii, napenda kujibu swali la Mheshimiwa Janet Bina Kahama, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">(a) Mheshimiwa Spika, hatua muhimu iliyokwishachukuliwa na Serikali ni kuundwa kwa Sheria ya udhibiti wa Bidhaa za Tumbaku Na. 2 ya mwaka 2003 ambayo kifungu Na. 12(i) kinakataza uvutaji sigara kwenye maeneo ya umma. Sheria hii inatoa maelekezo kwa wamiliki na wahusika wengine katika maeneo ya umma kutenga maeneo maalum kwa ajili ya kuvutia sigara, ili kuwawezesha wanaovuta kufanya hivyo bila</seg>
+          <seg xml:id="seg113">kusababisha madhara kwa watu wengine. Aidha, adhabu zinazoweza kutolewa kwawale watakaokiuka Sheria hiyo pia zimeainishwa.</seg>
+          <seg xml:id="seg114">Mheshimiwa Spika, Sheria ya Udhibiti wa Bidhaa za Tumbaku imefafanuliwa kwa lugha ya Kiswahili ili iweze kueleweka kwa wadau mbalimbali kwa urahisi zaidi. Aidha, Sheria hii imesambazwa nchi nzima kupitia watendaji wakuu wa Idara ya Afya ngazi za Mikoa na Wilaya na kwa wadau kutoka taasisi mbalimbali za umma na za binafsi wakati wa mikutano ya Chama cha Afya ya Jamii (Tanzania Public Health Association - TPHA).</seg>
+          <seg xml:id="seg115">(b) Serikali inatoa umuhimu katika elimu ya afya kuhusu kutovuta sigara na matumizi mengine ya bidhaa za tumbaku kama suala la kudumu kwa kuzingatia kuwa uvutaji wa sigara ni suala la tabia na hivyo linahitaji elimu ya afya endelevu.</seg>
+          <seg xml:id="seg116">Mheshimiwa Spika, njia mbalimbali zimekuwa zikitumika katika kutoa elimu hiyo, ikiwemo machapisho ya aina mbalimbali yanayokataza uvutaji wa sigara katika maeneo ya umma yamesambazwa katika maeneo mbalimbali kama vile vyombo vya usafiri, hospitali na kadhalika. Vipindi maalum vya redio na televisheni vimekuwa vikitolewa.</seg>
+          <seg xml:id="seg117">Kwa mfano mwezi Mei mwaka huu 2006 kipindi cha Siri ya Afya Bora kinachoendeshwa na Wizara ya Afya na Ustawi wa Jamii kilizungumzia mada ya matumizi ya bidhaa za Tumbaku. Aidha, Wizara ya Afya na Ustawi wa Jamii hutumia Siku ya Kutotumia Tumbaku Duniani ambayo huadhimishwa tarehe 31 Mei ya kila mwaka kwa shughuli za kuelimisha jamii kuhusu umuhimu wa kuepuka matumizi ya tumbaku na bidhaa zake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u43" who="MheEstherKNyawazwa">
+          <seg xml:id="seg118">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niweze kuuliza swali dogo la nyongeza.</seg>
+          <seg xml:id="seg119">Kwa kuwa, sigara hizi zinatokana na zao la Tumbaku na sisi zao hili tunalima Tanzania, je, Serikali inazungumziaje juu ya suala la zao la Tumbaku?</seg>
+          <seg xml:id="seg120">La pili, kwa kuwa kuna wakulima wa Tumbaku ambao wanashiriki katika mashamba hayo je, kwa afya zao hawaathiriki na zao hili la Tumbaku? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u44" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg121">Mheshimiwa Spika, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Esther Kabadi Nyawazwa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg122">Mheshimiwa Spika, ni kweli nakubali kwamba baadhi ya mikoa inategemea zao la Tumbaku kama zao la biashara la kuwapatia fedha lakini pia ni zao la uchumi.</seg>
+          <seg xml:id="seg123">Mheshimiwa Spika, pamoja kwamba zao hili linatupatia uchumi ni lazima tuelezee upande mwingine kwamba Tumbaku ina madhara katika afya ya binadamu. Lakini hata hivyo ni kwamba Serikali yetu ipo katika utaratibu wa kuweza kuangalia ni</seg>
+          <seg xml:id="seg124">jinsi gani tutaweza kuona tunaipatia mikoa husika zao mbadala ili iweze kuwa hapo baadaye na mazao mbadala ambayo pengine yatakuwa ni changamoto kuweza kunusuru afya ya wale wananchi ambao wanalima zao hili ili wakati huo huo wasiathirike kiuchumi lakini wakati huo huo pia afya zao tuwe tunazilinda.</seg>
+          <seg xml:id="seg125">Mheshimiwa Spika, suala la pili ni kwamba kwa wale wakulima ambao wanalima Tumbaku, Mheshimiwa Mbunge alitaka kujua kwamba je, na wenyewe kiafya wanaathirika namna gani?</seg>
+          <seg xml:id="seg126">Mheshimiwa Spika, matatizo ya Tumbaku yanaweza kupatikana kutokana na utumiaji wa Tumbaku na vile vile utumiaji wa bidhaa zinazotokana na Tumbaku. Vile vile kutokana na hali hiyo inawezekana kwamba wale wakulima wa Tumbaku wakapata matatizo ya kiafya, lakini napenda kutoa rai kwa wataalam wa kilimo waweze kuwashauri wakulima wa Tumbaku wakati wanapokuwa wanalima Tumbaku hii ili waweze kuwaainishia ni matatizo gani wanaweza kuyapata ili wachukue tahadhari wakati wakulima zao hili ili wasipate madhara ya kiafya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u45" who="Spika">
+          <seg xml:id="seg127">Tatizo ni kuivuta hiyo sigara na siyo kuilima, nimemwona Mheshimiwa Idd Azzan, kwa swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u46" who="MheIddMAzzan">
+          <seg xml:id="seg128">Mheshimiwa Spika, nashukuru sana kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg129">Kwa kuwa matangazo ya sigara pamoja na yale mabango yanatuhamasisha sana kuvuta sigara na katika mabango yale kuna tahadhari imetolewa ya onyo lakini imeandikwa kwa herufi ndogo sana. Je, Serikali haioni sasa wakati umefika kwa lile onyo kwenye matangazo ya sigara likaandikwa kwa herufi kubwa zaidi kuliko hata aina ya sigara?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u47" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg130">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Idd Azzan, kama ifuatavyo:-</seg>
+          <seg xml:id="seg131">Mheshimiwa Spika, ni kweli mabango yanayohamasisha matangazo ya sigara yameandikwa kwa maandishi makubwa na yale ambayo yanaonyesha kwamba sigara zina athari limeandikwa kwa maandishi madogo. Napenda kukubaliana naye kwamba ni kweli inawezekana yule msomaji hasa yule ambaye haoni vizuri ikawa anaona yale maandishi makubwa na wakashindwa kuona ile tahadhari iliyokuwepo.</seg>
+          <seg xml:id="seg132">Napenda kutoa wito kwa wale wanaoweka yale matangazo kwamba wanapokuwa wanatangaza biashara yao kwa faida ya kupata pesa lakini vile vile kwa kuzingatia umuhimu wa afya ya yule mtumiaji basi yale matangazo yao wayaandike kwa herufi kubwa ili yule mtumiaji mwenyewe aweze kutoa uamuzi, aidha, atumie ile sigara ambayo si kitu cha muhimu sana au vinginevyo aangalie afya yake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u48" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg133">Azimio la Utekelezaji wa Elimu Jumuishi kwa Watoto Wenye Ulemavu</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u49" who="MheMargrethAMkanga">
+          <seg xml:id="seg134">Kwa kuwa, Tanzania imeanza kutekeleza Azimio la Mkutano wa SALAMANCA kuhusu utekelezaji wa elimu jumuishi kwa watoto wenye ulemavu:-</seg>
+          <seg xml:id="seg135">Je, Serikali imejizatiti kwa kiasi gani katika kutekeleza Azimio hilo kwa ngazi ya shule na jamii?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u50" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheLudovickJMwananzila">
+          <seg xml:id="seg136">Mheshimiwa Spika, kwa niaba ya Waziri wa Elimu na Mafunzo ya Ufundi, kabla ya kujibu swali la Mheshimiwa Margreth A. Mkanga, Mbunge wa Viti Maalum, napenda kutoa maelezo yafuatayo:-</seg>
+          <seg xml:id="seg137">Mheshimiwa Spika, Azimio la Salamanca lililotolewa nchini Hispania mwaka 1994, linasisitiza umuhimu wa kupanua Elimu Jumuishi. Mfumo huu unaongeza ushirikishwaji wa wananfunzi wenye ulemavu na wasio na ulemavu shuleni na katika jamii katika kujifunza kwa pamoja. Pia unalenga kurekebisha miundombinu, kubadili mila, desturi, fikra, mtazamo, sera na mahusiano shuleni ili kukidhi mahitaji mbalimbali ya wananfunzi. Serikali inatambua umuhimu wa Azimio hili katika Maendeleo ya Elimu nchini.</seg>
+          <seg xml:id="seg138">Mheshimiwa Spika, kwa hiyo, Serikali imedhamiria ktumia mfumo wa Elimu Jumuishi kwa kuongeza idadi ya watoto wenye ulemavu katika shule za msingi, Sekondari na Vyuo vya Ualimu na kuboresha Elimu wanayoipata.</seg>
+          <seg xml:id="seg139">Mheshimiwa Spika, baada ya maelezo hayo naomba kujibu swali la Mheshimiwa Margreth A. Mkanga, kuwa Wizara yangu imejizatiti kutekeleza Azimio la Salamanca kwa kufanya yafuatayo:-</seg>
+          <seg xml:id="seg140">(i) Kuongeza mbinu na stadi za kuwahudumia watoto wenye ulemavu katika madarasa ya kawaida kwa kufanya marekebisho ya mtaala wa mafunzo ya walimu ngazi ya cheti.</seg>
+          <seg xml:id="seg141">(ii) Kutoa mafunzo mafupi kazini kuhusu Elimu Jumuishi kwa Maafisa Elimu Wilaya, Wakaguzi wa Shule, Waratibu Elimu Kata na Walimu katika Halmashauri zote nchini. Aidha, wataalam 150 wa Elimu Maalum watapatiwa mafunzo katika mwaka huu wa fedha.</seg>
+          <seg xml:id="seg142">(iii) Kusambaza michoro maalum ya majengo ya shule inayozingatia mahitaji ya wenye ulemavu. Michoro hii imekwishaanza kutumiwa na wakandarasi katika sehemu mbalimbali nchini.</seg>
+          <seg xml:id="seg143">(iv) Kukarabati miundombinu kwenye shule zenye wanafunzi wenye mahitaji maalum. Shule za sekondari zitakazokarabatiwa katika mwaka huu wa fedha ni Korogwe Wasichana, Tabora Wasichana, Moshi Ufundi, Kazima, Pugu na Rugambwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u51" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheLudovickJMwananzila">
+          <seg xml:id="seg144">(v) Kununua na kusambaza vifaa mbalimbali vya kujifunzia na kufundishia wenye ulemavu katika shule na vyuo vya ualimu.</seg>
+          <seg xml:id="seg145">Mheshimiwa Spika, Serikali inaelewa kuwa mahitaji ni makubwa kuliko uwezo, lakini itaendelea kutenga fedha kwa ajili ya kuendeleza elimu maalum kwa kadri fedha zitakavyopatikana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u52" who="MheMargrethAMkanga">
+          <seg xml:id="seg146">Mheshimiwa Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza, pamoja na majibu mazuri na ya kutia moyo, napenda kuuliza kwamba Wizara au Serikali kwa ujumla imejiandaa vipi kuwajumuisha watoto viziwi?</seg>
+          <seg xml:id="seg147">Mheshimiwa Spika, kwa sababu hawa hata katika kuwa nao elimu hii naona kama inaweza ikawa ni vigumu unless tunakuwa na walimu wawili darasani anayehudumia sign language na vinginevyo. Imejiandaa vipi kwa section hii au kwa kikundi hiki cha aina ya ulemavu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u53" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheLudovickJMwananzila">
+          <seg xml:id="seg148">Mheshimiwa Spika, napenda kujibu swali la nyongeza la Mheshiwa Margreth Mkanga, kama ifuatavyo:-</seg>
+          <seg xml:id="seg149">Mheshimiwa Spika, walemavu wa uziwi wanahitaji mwalimu maalum wa kuweza kuwafundisha ili waweze kuelewa na siyo rahisi mwalimu anayefundisha darasa la kawaida ambalo linajumuisha wenye ulemavu mbalimbali kuweza kufanya kazi mbili, ya kufundisha kwa njia ya kawaida na kufundisha kwa ishara wakati huo huo. Ndiyo maana mpaka sasa tumetenga shule maalum ambazo zinafundisha viziwi kwa sababu hawa wanahitaji taaluma maalum ya walimu wale waliojifunza kazi hiyo.</seg>
+          <seg xml:id="seg150">Mheshimiwa Spika, hivyo, kwa sasa wanafunzi walio na ulemavu wa uziwi wao watabaki wanajifunza katika shule zile zilizoandaliwa maalum kwa ajili yao. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u54" who="MheAliHaroonSuleiman">
+          <seg xml:id="seg151">Mheshimiwa Spika, nashukuru kwa kunipa nafasi hii ya mwanzo kuuliza swali leo.</seg>
+          <seg xml:id="seg152">Mheshimiwa Spika, Mheshimiwa Waziri haoni sababu hivi sasa ya kushirikiana na Waziri mwenzake wa Zanzibar kwa vile mitaala ya Elimu Jumuishi tayari ilishafanyiwa kazi na ilishapitiwa na tayari hivi sasa inafundishwa katika vyuo vya ualimu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u55" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheLudovickJMwananzila">
+          <seg xml:id="seg153">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Waziri wa Elimu wa Serikali ya Mapinduzi Zanzibar kama ifuatavyo:-</seg>
+          <seg xml:id="seg154">Mheshimiwa Spika, sisi kama Serikali ya Jamhuri ya Muungano wa Tanzania tutaendelea kushirikiana na Serikali ya Mapinduzi Zanzibar kwa mambo yanayohusu Elimu.</seg>
+          <seg xml:id="seg155">Mheshimiwa Spika, lakini napenda nimfahamishe Mheshimiwa Waziri kwamba mitaala hii imeshakamilika kwa zaidi ya miaka miwili sasa imekuwa ikifundishwa katika vyuo vyetu na inaendelea vizuri na wapo walimu ambao tayari wameshahitimu na wanaendelea kufundisha katika shule zetu, hivyo tutaendelea kushirikiana ili tuweze kujua wenzetu wamefikia kiwango gani lakini na wao wajifunze kutoka kwetu kwa sababu na sisi tayari suala hili tunalitekeleza kikamilifu.</seg>
+        </u>
+        <note>Na. 20. Viwango vya Ada katika Shule Binafsi</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u56" who="MheParmukhSinghHoogan">
+          <seg xml:id="seg156">Kwa kuwa hivi sasa shule nyingi binafsi (Private Schools) zimeshamiri na hali hii imechangia kwa kiasi kikubwa maendeleo ya elimu katika jamii yetu, lakini kuna baadhi ya shule za aina hiyo zinatoza ada kubwa ambazo ziko nje ya uwezo wa wananchi wengi ambao wanahitaji huduma hiyo muhimu kwa ajili ya watoto.</seg>
+          <seg xml:id="seg157">(a) Je, ni viwango vipi vya ada ambavyo vimeruhusiwa na Serikali?</seg>
+          <seg xml:id="seg158">(b) Je, Serikali inachukua hatua gani za kudhibiti hali kama hiyo?</seg>
+          <seg xml:id="seg159">(c) Inapothibitika kwamba shule fulani zinavuka viwango vya ada vilivyowekwa, Serikali huchukua hatua gani dhidi ya shule hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u57" who="NaibuWaziriWaElimuNaMafunzoMheMwantumuBMahiza">
+          <seg xml:id="seg160">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Parmukh Singh Hoogan, Mbunge wa Kikwajuni, lenye sehemu (a), (b), na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg161">(a) Viwango vya ada vilivyoruhusiwa na Serikali kutozwa katika shule zisizo za Serikali ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg162">AINA YA SHULE ADA ILIYORUHUSIWA</seg>
+          <seg xml:id="seg163">KUTWA BWENI</seg>
+          <seg xml:id="seg164">Shule za Msingi</seg>
+          <seg xml:id="seg165">Darasa la I – VII 210,000/= 350,000/=</seg>
+          <seg xml:id="seg166">Shule za Sekondari</seg>
+          <seg xml:id="seg167">Kidato I – VI 150,000/= 380,000/=</seg>
+          <seg xml:id="seg168">Vyuo vya Ualimu</seg>
+          <seg xml:id="seg169">Daraja la IIIA &amp; Stashahada 130,000/= 175,000/=</seg>
+          <seg xml:id="seg170">(b) Mheshimiwa Spika, Serikali hudhibiti viwango vya ada zinazotozwa katika shule hizi kwa kutoa Nyaraka za Wizara za kuwakumbusha wenye shule viwango vilivyowekwa na kufanya ukaguzi katika shule hizo.</seg>
+          <seg xml:id="seg171">(c) Mheshimiwa Spika, inapothibitika kwamba shule inavuka viwango vya ada vilivyowekwa, Serikali imekuwa ikichukua hatua ya kukutana na wenye shule kuwataka wapunguze viwango vya ada wanavyotoza. Hata hivyo kumekuwa na matatizo katika kuchukua hatua dhidi ya wenye shule hao pale ambapo wazazi wa wanafunzi wanaporidhia ada hizo.</seg>
+          <seg xml:id="seg172">Aidha, sehemu kubwa ya fedha zinazotozwa na michango na vifaa na huduma zinazotolewa katika shule hizo kama vile Mafunzo ya Kompyuta, chakula na usafiri. Hata hivyo Serikali imeliona tatizo hilo italifanyia kazi zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u58" who="MheJamesPMusalika">
+          <seg xml:id="seg173">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ili niweze kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg174">Kwa kuwa pamoja na mafanikio ambapo sekta binafsi katika elimu imeleta katika nchi yetu lakini kwa kuwa pia kumekuwa na matatizo hayo ya wenye shule hizi kujipangia ada na gharama za shule kama wanavyoona wao inafaa na kuleta matatizo kwa wazazi wengi.</seg>
+          <seg xml:id="seg175">Kwa kuwa Mheshimiwa Waziri amesema kwamba Serikali imekuwa ikichukua hatua ya kuwasiliana nao kwa kuwaandikia barua; na kwa kuwa bado matatizo bado yapo, je, Serikali inaonaje ingeunda chombo au mamlaka ya kudhibiti Elimu (Tanzania Education Regulatory Authority) ili waweze kudhibiti masuala mazima katika sekta ya elimu kwenye shule za msingi na za sekondari?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u59" who="NaibuWaziriWaElimuNaMafunzoMheMwantumuBMahiza">
+          <seg xml:id="seg176">Mheshimiwa Spika, napenda kujibu swali la nyongeza la Mheshimiwa James Musalika, kama ifuatavyo:-</seg>
+          <seg xml:id="seg177">Mheshimiwa Spika, ni kweli wenye shule wameendelea kujipangia ada kama wapendavyo, matatizo hayo kama nilivyosema hapo awali Serikali inatambua, tunakubaliana na ushauri wake, lakini naomba niseme kwamba sababu kubwa ambazo zinapelekea wenye shule hawa kuwa na ada hizo ni baadhi ya mishahara itolewayo ni tofauti na ni mikubwa kwa watumishi na walimu wao, huduma zinazotolewa lakini kubwa zaidi ni kwamba wenye shule binafsi hukopa kwenye mabenki ambayo riba zake ni kubwa na hivyo ulipaji wake ni wa muda mfupi kati ya miaka mitatu hadi mitano. Mambo haya yote yanatuzuia sisi kukweza kupita moja kwa moja kuwawekea viwango, hadi hapo mabenki yatakapoona umuhimu wa kupunguza riba kwa wanaowekeza kwenye elimu tunaweza sisi kama Serikali tukaingilia kati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u60" who="MheSameerILotto">
+          <seg xml:id="seg178">Mheshimiwa Spika, ahsante sana. Mimi nataka kuulizia kuhusu tuition, walimu wale wanatoza tuition baada ya masomo ni hao hao wana charge pesa nyingi …</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u61" who="Spika">
+          <seg xml:id="seg179">Mheshimiwa hili ni swali jipya itabidi uli…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u62" who="MheSameerILotto">
+          <seg xml:id="seg180">Lakini ujumbe umefika, ahsante. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u63" who="Spika">
+          <seg xml:id="seg181">Ahsante. Kabla hatujaendelea kwenye swali linalofuata la Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa nilikuwa napenda niwashukuru Manaibu Waziri wa Elimu na Mafunzo ya Ufundi, Mheshimiwa Ludovick Mwananzila na Mheshimiwa Mwantumu Mahiza, kwa umahiri wao wa kujibu maswali ambao ni msaada mkubwa sana kwa Waziri mhusika. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u64" who="Spika">
+          <seg xml:id="seg182">Tunaendelea na Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa, Mheshimiwa Dr. John S. Malecela hayupo basi Mheshimiwa Anne Kilango Malecela, anauliza kwa niaba yake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 21. Vijana wa Kitanzania Waliouawa Nchini Marekani</note>
+        <note>(k.n.y. MHE. DR. JOHN S. MALECELA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u65" who="MheAnneKMalecela">
+          <seg xml:id="seg183">Kwa kuwa mwishoni mwa Septemba, 2006 kumefanyika mauaji ya kikatili sana ya vijana wawili wa Kitanzania (mvulana na msichana) waliokuwa wanafunzi nchini Marekani, katika Jimbo ka Michgan:-</seg>
+          <seg xml:id="seg184">(a) Je, Serikali inawaambia nini Watanzania kuhusiana na mauaji hayo ya kikatili hasa ikitiliwa maanani kuwa baada ya vijana hao kupigwa risasi, mwili wa msichana huyo ulichomwa moto na kuharibika kabisa?</seg>
+          <seg xml:id="seg185">(b) Je, Serikali imechukua hatua gani juu ya tukio hilo kwa ujumla wake?</seg>
+        </u>
+        <note>(k.n.y. WAZIRI WA MAMBO YA NJE NA USHIRIKIANO WA KIMATAIFA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u66" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg186">Kwa niaba ya Waziri wa Mambo ya Nje na Ushirikiano wa Kimataifa, naomba kujibu swali la Mheshimiwa Dr. John Samwel Malecela, Mbunge wa Mtera, lenye vipengele (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg187">(a) Serikali inawaomba Watanzania kuwa na subira katika kipindi hiki ambacho vyombo vya usalama vya Marekani vinaendelea na uchunguzi wa tukio hilo kwa lengo</seg>
+          <seg xml:id="seg188">la kuwakamata na kuwachukulia hatua za kisheria wale wote waliohusika na kitendo hicho cha kinyama. Mara uchunguzi utakapokuwa umekamilika, Serikali itatoa taarifa kamili.</seg>
+          <seg xml:id="seg189">(b) Mpaka sasa Serikali imechukua hatua zifuatazo kuhusiana na tukio hili.</seg>
+          <seg xml:id="seg190">(i) Kuwasiliana na vyombo vya usalama vya Marekani na kuomba kupatiwa taarifa za mwenendo wa mzima wa upelelezi kuhusiana na vifo hivyo.</seg>
+          <seg xml:id="seg191">(ii) Kushirikiana na wafiwa kwa kuwapa vibali vya kusafirisha miili vya marehemu Walter na Vonetha kwa kuzingatia taratibu za Kimataifa za usafirishaji wa njia za anga.</seg>
+          <seg xml:id="seg192">Napenda kumhakikishia Mheshimiwa Mbunge na wananchi kwa ujumla kwamba Serikali inalifuatilia suala hili kwa karibu na taarifa kamili itatolewa mara upelelezi utakapokamilika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u67" who="MheAnneKMalecela">
+          <seg xml:id="seg193">Mheshimiwa Spika, ni kweli Mheshimiwa Waziri amejibu swali hili ambalo kidogo ni very sensitive. Lakini naomba kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg194">(a) Kwa kuwa haki za binadamu ni mkataba wa Kimataifa na ni mojawapo ya misingi ya Katiba ya Umoja wa Mataifa; na kwa kuwa haki ya binadamu iliyo nzito kuliko zote ni kuishi.</seg>
+          <seg xml:id="seg195">Mheshimiwa Spika, tuseme ukweli kabisa, mauaji ya kinyama waliyofanyiwa vijana wa Kitanzania nchini Marekani wangefanyiwa vijana wa Kimarekani nchini kwetu, sidhani kama Wamarekani wangeweza kuvumilia mpaka leo wakiwa wanangojea. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u68" who="MheAnneKMalecela">
+          <seg xml:id="seg196">Mheshimiwa Spika, je, ni kwa kiasi gani Serikali imeonyesha seriousness kwa Wamarekani kwamba Tanzania na sisi tunajali maisha ya watoto wetu na Watanzania wetu wanaoishi nje ya mipaka yetu?</seg>
+          <seg xml:id="seg197">(b) Mheshimiwa Spika, mimi naifahamu Marekani vizuri, katika nchi ambayo imeendelea kiteknolojia duniani, Marekani ni nchi ya kwanza na barabarani Marekani wana kamera za kuona mambo yote yanayofanyika barabarani na mpaka ndani ya magari.</seg>
+          <seg xml:id="seg198">Je, Serikali kweli inaamini kwamba mpaka sasa hivi Wamarekani hawajaweza kugundua hiki kitendo nani alikifanya? Naomba majibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(k.n.y. WAZIRI WA MAMBO YA NJE NA USHIRIKIANO WA KIMATAIFA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u69" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg199">Mheshimiwa Spika, ni kweli kama alivyosema kuishi ni haki ya binadamu na Katiba yetu inatambua hivyo na Katiba ya Marekani inatambua hivyo.</seg>
+          <seg xml:id="seg200">Mheshimiwa Mbunge alitaka kujua Serikali imeonyesha seriousness kivipi katika suala hili. Kama nilivyojibu katika maswali ya msingi, Serikali yetu iliiandikia Serikali ya Marekani kwa kutumia taratibu za kimahusiano na za Kibalozi na kuonyesha kusikitishwa kwetu na kuomba uchunguzi ufanyike na upelelezi ukamilike na hatua zichukuliwe kama ambavyo sheria zinavyosema. Kwa kufanya hivyo kwa kweli ni seriousness ambayo Serikali imeonyesha na kwa kweli hakuna lingine ambalo tungeweza kufanya kwa sababu haya ni masuala ya mahusiano kati ya nchi na nchi na Serikali itaendelea kufuatilia kwa karibu.</seg>
+          <seg xml:id="seg201">Mheshimiwa Spika, ni kweli Marekani ni nchi iliyoendelea sana katika masuala ya uchunguzi na ni kweli vile vile inavyokuwa imeendelea sana katika masuala ya uchunguzi na wahalifu vile vile wanakuwa wameendelea katika mbinu zao za kufanya uhalifu. Lakini vile vile ukiangalia Marekani zipo kesi nyingi sana ambazo uhalifu umetokea na uchunguzi unaendelea kufanyika na wakati mwingine hata haukamiliki.</seg>
+          <seg xml:id="seg202">Kwa hiyo, ni suala la kuaminiana, tunaiamini na Serikali ya Marekani, tuna mahusiano mazuri, ni matarajio yetu kwamba upelelezi ukikamilika basi hatua zitachukuliwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u70" who="WaziriWaNchiOfisiYaWaziriMkuuMheJumaJAkukweti">
+          <seg xml:id="seg203">Mheshimiwa Spika, kwa niaba ya Waziri wa Nchi za Nje, naomba kuongezea majibu mazuri sana ambayo ameyatoa Mheshimiwa Waziri. Mimi na Waziri, Mheshimiwa Hawa Ghasia kama siku tatu, nne, zilizopita tulikuwa Marekani na moja ambalo tulilifanya tulikwenda pale Ubalozini Washington tukakutana na Balozi Daraja na moja tulilomuuliza ni hili je, hii kesi inaendaje? Yeye akasema anafuatilia kwa karibu sana na kwa hivi sasa wana-clues ambazo wanazifuatilia. Nataka kuwahakikishia kwamba Serikali kupitia Ubalozi pale Washington wanafuatilia sana kwa karibu na kuwaomba Watanzania watulie, Serikali hapa nyumbani inafanya jitihada lakini pia Balozi wetu pale anafanya juhudi sana ya kufuatilia kwa karibu kuhakikisha kwamba jambo hili linapatiwa ufumbuzi au linaeleweka na hao watu waliohusika wanakamatwa. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 22. Matumizi Mabaya ya Fedha za Serikali Katika Balozi Zetu</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u71" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg204">Kwa kuwa taarifa ya Mdhibiti na Mkaguzi Mkuu wa Fedha za Serikali kwa mwaka wa fedha ulioishia tarehe 30 Juni, 2004 ilionyesha dhahiri ubadhilifu mkubwa wa fedha za umma na ukiukwaji wa taratibu za fedha za Serikali.</seg>
+          <seg xml:id="seg205">(a) Je, ni kiasi gani cha fedha kimethibitika kutumika vibaya au kinyume na utaratibu au kanuni za fedha za Serikali?</seg>
+          <seg xml:id="seg206">(b) Kwa kuwa Afisa wa Ubalozi ametajwa kwamba amefanya manunuzi makubwa kwa mfano gari aina ya Toyota Land Cruiser Model ya 1999 wakati huo ilikuwa tayari na kilometa 840,067 iliyonunuliwa Dubai kwa dola za Kimarekani 21,000/= jambo ambalo ni kinyume kabisa na utaratibu wa fedha za Serikali, je, afisa huyo amechukuliwa hatua gani za kinidhamu au za kisheria?</seg>
+          <seg xml:id="seg207">(c) Kwa kuwa suala hilo linaonyesha wazi usimamizi mbovu, mathalani kwa Afisa ubalozi kuchukua imprest ya USD 194,084.96 ni dhahiri kuwa wakubwa zake au walikuwa wanafahamu na hawakuchukua hatua au hawakulifahamu jambo hilo ambalo pia ni uzembe mkubwa, je, wahusika hao ambao wameliingizia Taifa letu hasara kubwa kiasi hicho ni akina nani na wamechukuliwa hatua gani?</seg>
+        </u>
+        <note>(k.n.y. WAZIRI WA MAMBO YA NJE NA USHIRIKIANO WA KIMATAIFA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u72" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg208">Mheshimiwa Spika, kwa niaba ya Waziri wa Mambo ya Nje na Ushirikiano wa Kimataifa, kabla ya kujibu swali la Mheshimiwa Dr. Wilbrod Slaa, lenye sehemu (a), (b) na (c), naomba kutoa maelezo ya utangulizi kama ifuatavyo:-</seg>
+          <seg xml:id="seg209">Mheshimiwa Spika, mnamo mwaka 2002, Serikali ilifanya uamuzi wa kuanzisha ubalozi nchini Malawi. Katika kutekeleza azma hiyo, Serikali ilimtuma Afisa mmoja kwenda Lilongwe kwa shughuli za kuanzisha ubalozi huo. Majukumu ya msingi ya Afisa huyo yalikuwa ni pamoja na ununuzi wa vitendea kazi muhimu kwa ajili ya ofisi hiyo mpya. Kwa asilimia kubwa, kazi hiyo ilifanyika na kuwezesha nyumba, samani na magari kununuliwa. Hata hivyo, palitokea kasoro za kukiukwa kwa taratibu za manunuzi ambazo ziligundulika baada ya ukaguzi.</seg>
+          <seg xml:id="seg210">Mheshimiwa Spika, Wizara ilifuatilia na kujiridhisha kwamba ni kweli kulikuwepo ukiukwaji huo na mpaka sasa hivi Wizara imeendelea kuchukua hatua mbalimbali kufuatia tatizo hili kama nitakavyoelezea kwenye majibu yangu.</seg>
+          <seg xml:id="seg211">Mheshimiwa Spika, sasa naomba kujibu swali la Mheshimwa Mbunge, lenye vipengele (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg212">(a) Kiasi cha Dola za Kimarekani 94,805.51 kilihusika kutumika vibaya kinyume na taratibu au kanuni za fedha katika ubalozi wetu wa Lilongwe.</seg>
+          <seg xml:id="seg213">(b) Mojawapo ya hatua zilizochukuliwa kwa Afisa aliyehusika na ununuzi wa magari yaliyotumika ni kuitwa na kutoa maelezo katika kikao cha Kamati ya Bunge ya Hesabu za Serikali kilichofanyika tarehe 30 Mei, 2006. Kamati hiyo ilitaarifu kikao kwamba itatoa mapendekezo ya hatua sahihi za kinidhamu au za kisheria dhidi ya Afisa aliyehusika.</seg>
+          <seg xml:id="seg214">Aidha, Wizara kwa kuzingatia kwamba Afisa huyo anastaafu mwezi Novemba, 2006 imeshapitia nyaraka mbalimbali ili kujua hasara iliyosababishwa na Afisa huyo katika ubadhilifu uliofanyika. Hatua iliyofikiwa ni kupendekeza kiasi cha kumtoza katika mafao ya kustaafu.</seg>
+          <seg xml:id="seg215">(c) Masurufu ya USD 194,084.86 yalichukuliwa na Afisa huyo wa Ubalozi wakati huo akiwa na wadhifa wa Balozi Mdogo. Bila shaka alichukua nafasi hiyo ya kufanya maamuzi yake binafsi bila kuhusisha wakuu wengine hadi ilipokuja kugundulika na wakaguzi. Ubadhilifu huu ulipogundulika, Afisa aliyehusika tayari alishapewa uhamisho kwenda kuwa Balozi Zambia ambako yuko mpaka sasa.</seg>
+          <seg xml:id="seg216">Aidha, hatua ya kinidhamu iliyochukuliwa kwa Mhasibu aliyehusika kulipa masurufu hayo bila kutoa ushauri unaostahili wa kimaandishi kwa Balozi Mdogo, ni kurejeshwa nyumbani kutoka ubalozini na hatimaye kumrudisha Wizara ya Fedha kwa hatua zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u73" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg217">Mheshimiwa Spika, nashukuru kwa kunipa nafasi ili niulize maswali madogo mawili ya nyongeza.</seg>
+          <seg xml:id="seg218">(a) Mheshimiwa Spika, kwa kuwa Mheshimiwa Waziri amekiri kwamba ubadhilifu kweli umefanyika na kanuni za fedha zimekiukwa, Waziri anaelezaje kwamba kuanzia mwezi wa tano hadi leo, Serikali inasema inafuatilia na hakuna hatua ya dhati iliyochukuliwa wakati ubadhilifu huu uko kweli na hapa Tanzania hata kama ingeonekana ubadhilifu wa shilingi moja mtu angekuwa lupango leo?</seg>
+          <seg xml:id="seg219">(b) Mheshimiwa Waziri analieleza Bunge hili kwamba Afisa mhusika anajiandaa kustaafu, je, ni kweli kwamba utaratibu wa Serikali unamruhusu Afisa wa Serikali astaafu wakati anadaiwa na ubadhilifu wa aina hii? Hii inaeleza nini kwa Watanzania wengine?</seg>
+        </u>
+        <note>(k.n.y. WAZIRI WA MAMBO YA NJE NA USHIRIKIANO WA KIMATAIFA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u74" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg220">Mheshimiwa Spika, katika majibu kama tulivyoeleza kwamba tulikuwa na nia ya kuanzisha ubalozi kule Lilongwe, maswali ya kujiuliza, je, nyumba ilinunuliwa? Jibu ni kweli kwamba nyumba ilinunuliwa. Swali la kujiuliza samani zilinunuliwa? Jibu ni kweli kwamba samani zilinunuliwa. Swali la kujiuliza je, magari yalinunuliwa? Jibu ni kweli kwamba magari yalinunuliwa. Je, ubalozi wetu upo na umeanza? Jibu ni kweli ubalozi upo na umeanza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u75" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg221">Mheshimiwa Spika, ni lazima sote tuelewe kwamba unaweza ukakuta mtu ana clean certificate lakini ukienda kwenye ground unakuta kwamba hakuna kazi yoyote ya maana iliyofanyika, lakini taratibu tu za kihasibu zimefuatwa. Mwingine unaweza kukuta kwamba taratibu hazikufuatwa lakini kazi imefanyika kwa asilimia mia moja.</seg>
+          <seg xml:id="seg222">Mheshimiwa Spika, naomba niseme kwamba Serikali inaendelea kulifuatilia suala hili na kwa kuwa waajiriwa wote walioajiriwa wameajiriwa kisheria na taratibu, Serikali</seg>
+          <seg xml:id="seg223">haiwezi ikamchukulia mtu hatua kabla haijajiridhisha kwamba hatua inazochukua hazitaiingiza Serikali katika matatizo mengine ya kutofuata sheria.</seg>
+          <seg xml:id="seg224">Mheshimiwa Spika, swali la pili kwamba huyu Afisa anaelekea kustaafu, suala la kustaafu linaenda kwa umri, mtu akifikisha umri wake wa kustaafu, huwezi kumzuia kustaafu eti kwa sababu ana kesi ya kujibu, lakini hata kama akistaafu haimaanishi kwamba kama umefanya kosa la jinai hautapelekwa kwenye vyombo vya sheria kujibu kosa hilo hata kama umekuwa umestaafu.</seg>
+          <seg xml:id="seg225">Mheshimiwa Spika, naomba nimhakikishie Mheshimiwa Mbunge awe na uhakika kwamba kosa la jinai likishabainika tu hatua zitachukuliwa awe amestaafu au awe hajastaafu.</seg>
+        </u>
+        <note>Na. 23. Ulipaji wa Ushuru wa Magari toka Zanzibar</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u76" who="MheFatmaAbdulhabibFereji">
+          <seg xml:id="seg226">Kwa kuwa Mamlaka ya Mapato ya Tanzania (TRA) ina jukumu la kukusanya mapato ya Tanzania Bara na Tanzania Zanzibar kwa kodi zote ambazo ziko chini ya shughuli za Muungano; na kwa kuwa viwango vya kodi za Mamlaka hiyo huwa ni sawa kwa nchi nzima:-</seg>
+          <seg xml:id="seg227">Je, inakuwaje magari yanayotoka Zanzibar yanapoletwa Tanzania Bara kwa matumizi inabidi yalipiwe tena ushuru mara ya pili wakati yamekwishalipiwa ushuru huo huko Tanzania Zanzibar?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u77" who="WaziriWaFedha">
+          <seg xml:id="seg228">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Fatma Adulhabib Fereji, Mbunge wa Baraza la Wawakilishi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg229">Mheshimiwa Spika, ushuru wa forodha unalipwa mara moja tu, aidha, Zanzibar au Tanzania Bara na siyo mara mbili. Endapo itagundulika kwamba kodi sahihi haikulipwa wakati wa kuliingiza gari hilo huko Tanzania Zanzibar, mmiliki hulazimika kulipa kiasi ambacho hakikulipwa na magari husika huandikishwa katika namba za Tanzania Bara.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u78" who="MheFatmaAbdulhabibFereji">
+          <seg xml:id="seg230">Mheshimiwa Spika, ahsante sana.</seg>
+          <seg xml:id="seg231">Pamoja na jibu la Mheshimiwa Waziri ambalo halijaniridhisha, napenda niulize swali moja la nyongeza. Kwa sababu gari linapokuja Tanzania Bara anasema kwamba inabidi lilipiwe ushuru kama kile kiwango kilichotakiwa kulipiwa hakikufikiwa, je, ni hatua gani za kinidhamu zinachukuliwa kwa Maafisa wa TRA ambao wanasababisha usumbufu kwa wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u79" who="WaziriWaFedha">
+          <seg xml:id="seg232">Mheshimiwa Spika, nasikitika kwamba jibu langu halikumridhisha kwa sababu sikutaka kulifanya refu nilijua litakuwa na maswali ya nyongeza. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u80" who="WaziriWaFedha">
+          <seg xml:id="seg233">Mheshimiwa Spika, kwanza kabisa sheria za uandikishaji wa magari kati ya Tanzania Bara na Zanzibar ni tofauti. Kwa mfano kwa upande wa Tanzania Bara, uandikishaji wa magari unazingatia sheria kuu tatu nazo ni Traffic Act, 1973, Motor Vehicle Registration, 1972 na Traffic au Foreign Vehicle Rules Registration Act, 1973. Kwa upande wa Tanzania Zanzibar, sheria ambayo inatumika ni The Road Transport Act, 2003.</seg>
+          <seg xml:id="seg234">Kwa hiyo, unakuta kwamba sheria kwa upande wa Tanzania Bara ni tofauti na Tanzania Zanzibar. Kwa maana hiyo, gari ambalo litaingizwa Zanzibar na kama hakulipiwa ushuru unaostahili litakapokwenda Tanzania Bara inabidi kulipa tofauti ile.</seg>
+          <seg xml:id="seg235">Mheshimiwa Spika, labda niseme ni kwa sababu gani inatokea hivyo. Gari lolote linaloingia ama Tanzania Bara au Tanzania Zanzibar yule ambaye anaingiza gari ana- login kile ambacho amesema ndicho alichonunua. Sasa anapolipa ushuru tunasema kwamba ushuru huu uliolipwa na mteja ni sahihi kwa hiyo, zinachukuliwa fedha zile anazolipia. Lakini baada ya hapo inaonekana kwamba kile ambacho alichosema amenunulia si sahihi na hii inatokea kwa sababu gani? Kwanza kabisa Zanzibar kwa wakati ule kulikuwa hakuna chombo hiki ambacho kinaitwa ESCUDA++.</seg>
+          <seg xml:id="seg236">Mheshimiwa Spika, kwa hiyo, unapo-login tu Tanzania Bara hakiendi Zanzibar na inaonyesha kwa mfano mwaka ambao gari limetengenezwa, chasis number na nasema kwamba gari hii kama wewe utasema kwamba ulinunua kwa milioni sita kinasema hapana sio milioni sita ni milioni saba. Chombo hiki kilikuwa hakipo Zanzibar. Kwa hiyo, wale waliokuwepo pale walikuwa wanaamua tu kwamba labda kwa mantiki hiyo inalipwa fedha kadhaa.</seg>
+          <seg xml:id="seg237">Mheshimiwa Spika, napenda kuliarifu Bunge lako Tukufu kwamba chombo hiki sasa hivi kipo Zanzibar na tatizo hili halitatokea tena.</seg>
+        </u>
+        <note>Na. 24. Viwango vya Kodi ya Mapato</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u81" who="MheHerbertJMntangi">
+          <seg xml:id="seg238">Kwa kuwa yamekuwepo malalamiko ya msingi kwamba viwango vya kodi ya mapato kwa wafanyakazi ni vya juu sana licha ya ukweli kuwa ukusanyaji wa kodi hiyo umerahisishwa sana kupitia kwa waajiri:-</seg>
+          <seg xml:id="seg239">(a) Je, katika nyongeza za mishahara Serikalini zilizotolewa mwaka 2006 kwa viwango vilivyokuwa shilingi 600,000/=, shilingi 900,000/=, shilingi 1,200,000/= na shilingi 1,500,000/= kwa mwezi vilipata ongezeko la kiasi gani?</seg>
+          <seg xml:id="seg240">(b) Je, viwango vya kodi kwa mishahara hiyo vilikuwa kiasi gani na sasa baada ya nyongeza ni kiasi gani?</seg>
+          <seg xml:id="seg241">(c) Je, kwa takwimu za majibu sehemu (a) na (b) hazionyeshi kwamba sehemu kubwa ya kiwango cha nyongeza zilizotolewa katika mishahara imechukuliwa na kodi zaidi kuliko kinachobaki kwa mfanyakazi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u82" who="WaziriWaFedha">
+          <seg xml:id="seg242">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Herbert James Mntangi, Mbunge wa Muheza, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg243">(a) Mheshimiwa Spika, katika nyongeza za mishahara Serikalini zilizotolewa mwaka 2006 kwa viwango vilivyokuwa shilingi 600,000/=, shilingi 900,000/=, shilingi 1,200,000/= na shilingi 1,500,000/= ambapo mishahara halisi kwa mwezi kwenye ngazi hizo ilikuwa shilingi 602,100/=, shilingi 921,000/=, shilingi 1,239,000/= na shilingi 1,425,000/= vilipata ongezeko la wastani wa asilimia 21.</seg>
+          <seg xml:id="seg244">Mheshimiwa Spika, watumishi waliokuwa wanapata shilingi 602,100/= sasa wanapata shilingi 739,990 ikiwa ni ongezeko la shilingi 137,890/= na waliokuwa wanapata shilingi 921,100/= sasa wanapata shilingi 1,101,000/= ikiwa ni ongezeko la shilingi 180,000/=. Aidha, mshahara wa shilingi 1,239,000/= umeongezwa kwa shilingi 261,000/= na hivyo kuwa shilingi 1,500,000/= na mshahara wa shilingi 1,425,000/= umeongezwa kwa shilingi 370,000/= na kuwa shilingi 1,795,000/=.</seg>
+          <seg xml:id="seg245">(b) Kabla ya nyongeza ya mishahara, viwango vya kodi vya mishahara hiyo vilikuwa ni shilingi 118,220/= kwa mshahara wa shilingi 602,100/=, shilingi 213,800/= kwa mshahara wa shilingi 921,000/=, shilingi 309,200/= kwa mshahara wa shilingi 1,239,000/= na shilingi 365,000/= kwa mshahara wa shilingi 1,425,000/= kwa mwezi. Baada ya nyongeza, viwango vya kodi kwa sasa ni shilingi 150,470/=, shilingi 267,470/=, shilingi 387,500/= na shilingi 476,000/= kwa mtiririko nilioutaja.</seg>
+          <seg xml:id="seg246">(c) Mheshimiwa Spika, takwimu za majibu sehemu (a) na (b) kwa kweli zinaonyesha kuwa ongezeko la kodi kwa mishahara iliyotajwa ni sawa na asilimia 30 ya ongezeko la mishahara hiyo. Hivyo asilimia 70 au sehemu kubwa ya kiwango cha nyongeza zilizotolewa katika mishahara hiyo imechukuliwa na mfanyakazi kuliko kiasi kinachochukuliwa na kodi. Kwa mfano, kwa mtumishi aliyepata nyongeza ya mshahara ya shilingi 137,890/=, ongezeko la kodi ni shilingi 32,000/= tu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u83" who="MheHerbertJMntangi">
+          <seg xml:id="seg247">Mheshimiwa Spika, namshukuru sana Mheshimiwa Waziri kwa majibu mazuri aliyoyatoa. Hata hivyo, naomba kuuliza swali moja dogo la nyongeza.</seg>
+          <seg xml:id="seg248">Shabaha ya swali hili ilikuwa ni kuona uwezekano wa Serikali kuangalia upya viwango vya kodi kwa wafanyakazi ambavyo kwa kweli inaonekana ni vikubwa asilimia</seg>
+          <seg xml:id="seg249">30 ya pato lake. Lakini tathmini za kiuchumi zinaonyesha kwamba sehemu kubwa ya fedha hizi wanazopata wafanyakazi (net take home) zinatumika katika kuboresha mahitaji yao ya maisha, kununua vifaa muhimu mfano vya ujenzi pamoja na matibabu. Vifaa hivi vyote ambavyo nimevitaja vinatozwa kodi. Je, Mheshimiwa Waziri haoni kwamba kutoteremsha kodi ili kuwapa nguvu wafanyakazi hawa kuweza kununua vifaa hivi ambavyo vinatozwa kodi ni sehemu pia ambayo inachangia kuchelewesha upatikanaji wa kodi kwa Serikali?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u84" who="WaziriWaFedha">
+          <seg xml:id="seg250">Mheshimiwa Spika, nimelielewa vizuri swali la Mheshimiwa Herbert Mntangi, lakini napenda kusema kwamba mapato makubwa ya Serikali hii yanatokana na kodi na tunajua kwamba Serikali hii na Waheshimiwa Wabunge wakiwa hapa hapa kuna mambo mengi ambayo wananchi lazima wayapate kwa mfano upande wa afya, barabara na kadhalika.</seg>
+          <seg xml:id="seg251">Mimi nasema kwamba tukianza kuzungumzia kwamba kodi kwa kweli ni kubwa nafikiri hapo hapo itabidi tuzungumzie yale ambayo tunataka wananchi wayapate. Tunataka kuleta mabadiliko makubwa, kukuza uchumi na kuondoa umaskini.</seg>
+          <seg xml:id="seg252">Kwa hiyo, mimi nafikiri kwamba mpaka hivi kodi ambazo wanatozwa wafanyakazi sifikiri kama ni kubwa hivyo. Lakini niseme kwamba hata upande wa mishahara, mishahara mwaka huu wa fedha imeongezeka lakini pamoja na hayo kuna Tume hii ambayo imeundwa na Mheshimiwa Rais ambayo inaangalia upya mishahara ambapo tunategemea huko mbele ya safari pengine kutakuwa na mabadiliko zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 25. Huduma za Simu za Mikononi Jimbo la Igalula</note>
+        <note>(k.n.y. MHE. TATU M. NTIMIZI)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u85" who="MheMwanneIMchemba">
+          <seg xml:id="seg253">Kwa kuwa katika Jimbo la Igalula kwa muda wa miaka mitano wananchi wana simu za mikononi, kupitia mtandao wa Celtel, tiGO na Vodacom na kwa kuwa jitihada za kupata mitambo ya simu hizo ili ziwekwe katika maeneo ya kata ya Igalula, Goweke, Lutende, Kizengi, Loya na Jimbo zima kwa ujumla bado kuzaa matunda na kwa kuwa kampuni ya Celtel imeanza maandalizi katika kata ya Igalula:-</seg>
+          <seg xml:id="seg254">(a) Je, lini uwekaji huo wa mtandao wa Celtel utakamilika?</seg>
+          <seg xml:id="seg255">(b) Je, kampuni za TTCL na Vodacom zitaanza lini kazi hiyo?</seg>
+          <seg xml:id="seg256">(c) Je, kuna uwezekano wa kueneza huduma hiyo katika kata zote za Jimbo la Igalula kwani wananchi wengi wana simu na wanazitegemea kwa mawasiliano?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u86" who="NaibuWaziriWaMiundombinuMheDrMiltonMMahanga">
+          <seg xml:id="seg257">la Mheshimiwa Tatu Ntimizi, Mbunge wa Igalula, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg258">(a) Kampuni ya Celtel ilishafanya tathmini kuhusu hali ya mahitaji na soko la huduma katika maeneo ya Goweke na gharama za ujenzi wa majengo na miundombinu mingine zimewekwa katika mpango wao wa kazi wa mwaka 2007.</seg>
+          <seg xml:id="seg259">Aidha, ujenzi wa kituo cha mitambo na huduma za mawasiliano katika eneo la Igalula na Usinge (Urambo) utafanyika katika kipindi cha robo ya kwanza ya mwaka 2007. Tathmini ya mahitaji ya soko kwa maeneo ya Kizengi, Loya na Lutende inategemewa kuwekwa katika mpango wa kampuni wa mwaka 2008.</seg>
+          <seg xml:id="seg260">(b) Kwa upande wa kampuni ya TTCL, kampuni hiyo inao mkakati wa kuanzisha simu za mkononi kwa kutumia teknolojia ya Code Division Multiple Access (CDMA) katika maeneo mbalimbali nchini. Mradi huu utatekelezwa kwa awamu mbili. Awamu ya kwanza itahusu miji yote ya Mikoa na baadhi ya miji ya Wilaya. Awamu hii ipo katika hatua za utekelezaji na itakamilika Desemba mwaka huu.</seg>
+          <seg xml:id="seg261">Mheshimiwa Spika, awamu ya pili itahusu maeneo yote ya vijijini pamoja na maeneo ya miji ya Wilaya yaliyosalia katika awamu ya kwanza. Mpango huu utatekelezwa katika bajeti ya mwaka 2007/2008. Aidha, ujenzi wa mitambo ya mawasiliano ya Vodacom Mkoani Tabora katika miji ya Urambo, Sikonge, Tabora mjini (karibu na TRC) na Igalula unatarajiwa kutekelezwa kabla ya mwisho wa mwaka huu wa 2006. Maeneo ya miji na vijiji vya Jimbo la Igalula yatafikiriwa katika mpango wao wa mwaka ujao wa 2007.</seg>
+          <seg xml:id="seg262">Mheshimiwa Spika, kampuni ya tiGO imekuwa ikitoa huduma katika maeneo ya miji ya Igunga, Igoko, Ndago, Ndala, Manyombo, Sikonge, Urambo, Ziba na Bukene. Kampuni hii pia inatarajia kupeleka mtambo wa huduma za mawasiliano sehemu za Igalula utakaohudumia Goweke, Lutende na sehemu jirani ndani ya miezi sita ijayo.</seg>
+          <seg xml:id="seg263">(c) Mheshimiwa Spika, nia ya Wizara ya Miundombinu, kupitia makampuni ya simu nchini ni kuona huduma za mawasiliano ya simu zinafikia wananchi wengi hasa vijijini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u87" who="MheMwanneIMchemba">
+          <seg xml:id="seg264">Mheshimiwa Spika, ahsante kwa kunipa nami nafasi niweze kuuliza swali dogo la nyongeza pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg265">Kwa kuwa mawasiliano huchangia pia kuvutia wawekezaji na kwa kuwa Serikali ilishatoa maelekezo kwamba angalau kila Wilaya ifikapo 2005 iweze kupata huduma za mawasiliano ya simu.</seg>
+          <seg xml:id="seg266">Je, Serikali ina mkakati gani wa makusudi kuangalia Wilaya ya Uyui ili iweze kupata mawasiliano ya simu hususani Igalula yenyewe kwa sababu ya hali halisi ya usalama wa nchi yetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u88" who="NaibuWaziriWaMiundombinuMheDrMiltonMMahanga">
+          <seg xml:id="seg267">Mheshimiwa Spika, ni kweli kwamba mawasiliano ni muhimu sana katika uwekezaji na ndio maana Serikali imekuwa ikisisitiza kwa makampuni hayo ya simu yaweze kuwekeza katika Wilaya na vijiji vyote nchini kama inawezekana.</seg>
+          <seg xml:id="seg268">Mheshimiwa Spika, kwa kuwa makampuni haya yanayo mipango ya kibiashara na kiuchumi na yanafanya tathmini lazima tukubali kwamba yanayo mapungufu ya investment capacity.</seg>
+          <seg xml:id="seg269">Mheshimiwa Spika, kwa hiyo, haiwezekani kwa mara moja maeneo yote yakafikiwa. Lakini kama nilivyosema tumekuwa tukijitahidi kuwaelekeza wawekeze katika maeneo hayo. Kama nilivyoeleza kwenye mipango ya Wilaya ya Uyui hasa maeneo aliyoyataja Mheshimiwa Mbunge yamo katika mpango kama nilivyoeleza. Katika mipango hiyo ni kwamba kufikia mwaka 2008 maeneo yote haya yatakuwa yameshapata huduma ya simu.</seg>
+        </u>
+        <note>Na. 26. Ujenzi wa Barabara ya Songea – Mbamba Bay</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u89" who="MheGaudenceCKayombo">
+          <seg xml:id="seg270">Kwa kuwa Mheshimiwa Rais wa Awamu ya Nne wakati wa kampeni zake za kugombea Urais Wilayani Mbinga aliahidi pamoja na mambo mengine kujengwa kwa barabara ya Songea – Mbamba Bay kwa kiwango cha lami:-</seg>
+          <seg xml:id="seg271">Je, ni lini ujenzi huo utaanza na barabara hiyo intarajiwa kumalizwa kujengwa lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u90" who="NaibuWaziriWaMiundombinu">
+          <seg xml:id="seg272">Mheshimiwa Spika, kwa niaba ya Waziri wa Miundombinu, napenda kujibu swali la Mheshimiwa Gaudence Cassian Kayombo, Mbunge wa Mbinga Mashariki, kama ifuatavyo:-</seg>
+          <seg xml:id="seg273">Mheshimiwa Spika, barabara ya Songea – Mbamba Bay ni sehemu ya barabara ya Mtwara – Songea – Mbamba Bay ambayo ilifanyiwa upembuzi yakinifu mwaka 2004 chini ya ufadhili wa Kuwait Fund. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u91" who="NaibuWaziriWaMiundombinu">
+          <seg xml:id="seg274">Mheshimiwa Spika, baada ya upembuzi yakinifu huo, Serikali kupitia Wizara ya Fedha iliwapelekea maombi wafadhili mbalimbali ya kugharamia usanifu wa kina pamoja na ujenzi wa barabara hiyo kwa kiwango cha lami. Wafadhili ambao tumewasiliana nao tukiwaomba watusaidie kugharamia ujenzi wa barabara hiyo ni kama</seg>
+          <seg xml:id="seg275">(i) Serikali ya Japan kwa kupitia Shirika lake la Kimataifa la JICA waliombwa msaada wa ujenzi wa sehemu ya Masasi – Tunduru (kilometa 190) na Serikali hiyo imeonyesha dhamira ya kutoa msaada ulioombwa kwa sehemu ya Masasi – Mangaka (kilometa 54) tu.</seg>
+          <seg xml:id="seg276">Mheshimiwa Spika, mazungumzo yanaendelea kati ya Serikali na Japan Bank for International Cooperation (JIBIC) kupitia Benki ya Maendeleo ya Afrika (ADB) ili kupata mkopo wa masharti nafuu kwa ajili ya ujenzi wa sehemu iliyobaki;</seg>
+          <seg xml:id="seg277">(ii) Kuwait Fund na OPEC waliombwa US$ 85,124,224 kugharamia usanifu wa kina pamoja na ujenzi wa sehemu ya Matemanga - Songea (kilometa 200);</seg>
+          <seg xml:id="seg278">(iii) Benki ya Maendeleo ya Afrika (ADB) waliombwa Dola za Kimarekani 65,322,081 kugharamia usanifu wa kina pamoja na ujenzi wa barabara ya Songea kuanzia sehemu ya Peramiho hadi Mbamba Bay kilometa 165; na</seg>
+          <seg xml:id="seg279">(iv) Serikali ya Tanzania ilitarajiwa igharamie usanifu wa kina pamoja na ujenzi wa sehemu ya Tunduru hadi Matemanga kilometa 66 kwa gharama ya Dola za Kimarekani 28,000,000. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u92" who="NaibuWaziriWaMiundombinu">
+          <seg xml:id="seg280">Mheshimiwa Spika, kutokana na Kuwait Fund na OPEC kutoa masharti magumu ya mkopo na ADB kutojibu maombi yetu, hivi sasa sehemu yote ya barabara ya Tunduru – Songea na Peramiho – Mbamba Bay imewekwa kwenye orodha ya miradi iliyopendekezwa kugharamiwa na Serikali ya Marekani kupitia Mfuko wake wa misaada wa Millennium Challenge Cooperation (MCC).</seg>
+          <seg xml:id="seg281">Serikali ipo kwenye hatua za mwisho katika mazungumzo na MCC kuhusu kufadhili usanifu wa kina pamoja na ujenzi wa barabara hizo kwa kiwango cha lami kwa gharama ya fedha za Kimarekani dola 202,000,000.</seg>
+          <seg xml:id="seg282">Mheshimiwa Spika, kutokana na maelezo hayo hapo juu, ujenzi wa barabara ya Songea – Mbamba Bay utaanza baada ya kukamilika kwa hatua za kuupata ufadhili na kukamilisha usanifu wa kina wa barabara hiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u93" who="MheGaudenceCKayombo">
+          <seg xml:id="seg283">Mheshimiwa Spika, nashukuru sana kwa majibu mazuri ya Mheshimiwa Naibu Waziri. Lakini kwa vile Serikali hii ni maarufu kwa sentensi inayosema maisha bora kwa kila Mtanzania na imejidhihirisha hivi karibuni wakati ilipochukua hatua za kuwanusuru ndugu zetu wa Mtwara kuhusu zao la korosho kwa kuondoa baadhi ya zile kodi zenye kero na hivyo kuboresha bei ya hilo zao kwa mkulima; na kwa sababu barabara hii pia inaathiri sana ubora wa zao la kahawa na kusababisha kupata fedha kidogo kwa mkulima, je, Serikali haioni sasa ni wakati mzuri kabisa wa kutenga bajeti yake yenyewe ili barabara hii ianze kutengenezwa katika kipindi kijacho?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u94" who="NaibuWaziriWaMiundombinuMheDrMiltonMMahanga">
+          <seg xml:id="seg284">Mheshimiwa Spika, kwa kuwa mazungumzo haya ya Serikali na MCC</seg>
+          <seg xml:id="seg285">yamefikia hatua nzuri, Mbunge avute subira ili tukamilishe na tuone kama tutapata fedha kutoka huko MCC.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u95" who="Spika">
+          <seg xml:id="seg286">Waheshimiwa Wabunge muda wa maswali umekwisha na hata hivyo swali la mwisho mwulizaji yupo katika udhuru maalum, kwa hiyo nitampa nafasi aliulize akiwepo.</seg>
+          <seg xml:id="seg287">Waheshimiwa Wabunge, mara baada ya matangazo haya nitaungana na msafara wa Mheshimiwa Waziri Mkuu kuelekea Iringa kwenye ule msiba wa mzee wetu Mzee Peter Siyovelwa. Kwa hiyo, Naibu Spika, atakuwa kwenye kiti.</seg>
+          <seg xml:id="seg288">Nataka nitambue kwenye Speaker’s Gallery uwepo wa Mheshimiwa Abdulrahman Kinana, aliyekuwa Spika wa Bunge la Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u96" who="Spika">
+          <seg xml:id="seg289">Waheshimiwa Wabunge, baadhi ya Watanzania wenzetu wamechomoza na kufanya mambo mazuri sana kule ambako tumewatuma na Mheshimiwa Abdulrahman Kinana, napenda kusema kwamba ametuwakilisha vizuri sana katika Bunge la Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u97" who="Spika">
+          <seg xml:id="seg290">Napenda niwaarifu Waheshimiwa Wabunge kwamba ikiletwa hoja hapa Bungeni ya namna fulani ya kumuenzi Mheshimiwa Abdulrahman Kinana, Spika ataipokea kwa mikono miwili. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u98" who="Spika">
+          <seg xml:id="seg291">Katika Speaker’s Gallery wapo wengine lakini kwa sababu ni wagombea wa Ubunge wa Bunge la Afrika Mashariki siwezi kuwatambulisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u99" who="Spika">
+          <seg xml:id="seg292">Naomba tumtambue Mheshimiwa Kabwaye, mgeni wa Mheshimiwa Emmanuel Luhaula, ambaye kwa sasa hivi ni Mwenyekiti wa Serikali ya Kijiji cha Shenda, Wilaya ya Bukombe. Umuhimu wa kumtambulisha huyu Mheshimiwa, naomba usimame Mheshimiwa Kabwaye. Mheshimiwa Kabwaye mwaka jana alijaribu kugombea Urais kupitia Chama cha Wananchi (CUF). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u100" who="Spika">
+          <seg xml:id="seg293">Naomba niwatambulishe Madiwani kutoka Halmashauri ya Manispaa ya Ilala, wageni wa Waheshimiwa Wabunge wa Mkoa wa Dar es Salaam, nao ni Mheshimiwa Heri Kesi, Mheshimiwa Jerry Slaa. Sijui kama ana uhusiano wowote na Mheshimiwa Dr. Slaa. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u101" who="Spika">
+          <seg xml:id="seg294">Taarifa za Kamati, Makamu Mwenyekiti wa Kamati ya Maliasili na Mazingira, Mheshimiwa Hassan Rajab Khatib ameniomba nitangaze kuwa Kamati ya Maliasili na Mazingira itakuwa na kikao chake ukumbi namba 231 leo hii, saa tano asubuhi.</seg>
+          <seg xml:id="seg295">Mheshimiwa William Kusila, Mwenyekiti wa Kamati ya Ulinzi na Usalama anawaomba Wajumbe kukutana katika kikao leo tarehe 1 Novemba, 2006, saa 10 jioni, ukumbi huo namba 231.</seg>
+          <seg xml:id="seg296">Mheshimiwa William Shellukindo, Mwenyekiti wa Kamati ya Uwekezaji na Biashara ameniomba niwatangazie Waheshimiwa Wabunge wote wa Kamati ya</seg>
+          <seg xml:id="seg297">Uwekezaji na Biashara kuwa leo Jumatano tarehe 1 Novemba, 2006 kutakuwa na kikao saa saba mchana chumba namba 133.</seg>
+          <seg xml:id="seg298">Mheshimiwa Mwenyekiti wa Kamati ya Kilimo na Ardhi, Mheshimiwa Gideon Asimulikwe Cheyo, anaomba Wajumbe wote wa Kamati ya Kilimo na Ardhi kukutana leo saa tano asubuhi katika ukumbi namba 219. Ni muhimu kwa sababu wanakwenda kuzingatia Muswada uliopo katika shughuli za Mkutano huu. Kwa hiyo, Kamati ya Kilimo na Ardhi saa tano asubuhi, Ukumbi namba 219.</seg>
+          <seg xml:id="seg299">Mheshimiwa Juma Suleiman N’hunga, Katibu wa Kamati ya Wabunge wote wa Chama cha Mapinduzi ameniomba nitangaze kwamba leo mara baada ya kuahirishwa Bunge hapo jioni kutakuwa na mkutano wa Kamati ya Wabunge wote wa Chama cha Mapinduzi na ni muhimu kuhudhuria pale katika Ukumbi wa Pius Msekwa. Kwa hiyo, saa mbili kasoro robo ama wakati wowote Bunge la jioni litakapokuwa limeahirishwa basi Wabunge wote wanaotokana na Chama cha Mapinduzi watakutana pale katika Ukumbi wa Pius Msekwa.</seg>
+          <seg xml:id="seg300">Mheshimiwa Brigedia Jenerali Hassan Ngwilizi, Kiongozi wa msafara wa Waheshimiwa Wabunge waliokwenda Canada anaomba wakutane leo hii katika ukumbi namba 133 mara baada ya kipindi hiki cha maswali. Kwa hiyo, wale Waheshimiwa Wabunge waliorejea kutoka Canada, kiongozi wa msafara anaomba mkutane pamoja kwa kikao kifupi ukumbi namba 133 mara baada ya maswali.</seg>
+          <seg xml:id="seg301">Mheshimiwa Balozi wa Finland anawaalika Waheshimiwa Wabunge wote kwenye maonyesho maalum ya miaka mia ya Parliamentary Democracy Finland ambayo yanaonyeshwa hapo Bungeni katika uwanja wa tafrija wa zamani, nyuma ya jengo la utawala, kuna maonyesho hapo ya nchi rafiki ya Finland na yanajikita katika kuelezea maendeleo yao ya demokrasia. Ni kitu kizuri nimekiona, nawasihi Waheshimiwa Wabunge mnapopata fursa mwende mkatazame. Yatakuwepo leo na kesho.</seg>
+          <seg xml:id="seg302">Mheshimiwa Kapteni John Komba, katika kofia yake nyingine ambayo wote mnaifahamu anaomba kutangaza kwamba TOT watakuwepo leo saa tatu usiku Dodoma Hotel. Kiingilio ni shilingi 5,000/=. Napenda kusema tu kwamba, hii bendi ya TOT jana wamewasili kutoka Urambo na salaam nilizozipata ni kwamba wametumbuiza vizuri sana kama kawaida yao. Kwa hiyo, nawasihi muweze kuhudhuria. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u102" who="Spika">
+          <seg xml:id="seg303">Mwisho, jana nilitamka baada ya kuletewa hapa ujumbe na Mheshimiwa Halima Mdee kwamba Mheshimiwa Gosbert Blandes, Mbunge wa Karagwe aliuliza swali kwa niaba yake katika Mkutano wa Nne. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u103" who="Spika">
+          <seg xml:id="seg304">Usahihi ni huu ufuatao, Mheshimiwa Halima Mdee hakuwepo wakati wa kuuliza swali. Swali lake likaulizwa na Mbunge wa upande wa Upinzani. Mbunge yule aliyeuliza swali kwa niaba ya Mheshimiwa Halima Mdee hakusimama tena kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg305">Waheshimiwa Wabunge, kwa hiyo, Mheshimiwa Gosbert Blandes alisimama kuuliza swali la nyongeza ambayo ni halali kabisa kwenye swali la nyongeza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u104" who="Spika">
+          <seg xml:id="seg306">Swali hili lilihusu ujenzi na ukarabati wa barabara ya River Side Makoka, Ubungo, sehemu ambayo Waheshimiwa hawa wote wawili wakiwa Dar es Salaam wanaishi ni majirani.</seg>
+          <seg xml:id="seg307">Kwa hiyo, hii iliongezea hata uhalali kwa sababu ni tatizo ambalo waliliona kama jirani. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u105" who="Spika">
+          <seg xml:id="seg308">Sasa nafanya mambo mawili, kwanza, nimeliweka sawa lakini pili, namwomba Mheshimiwa Halima Mdee kwamba si vizuri kupotosha Bunge katika mambo kama haya. Linaweza kuonekana ni dogo lakini si dogo kwa sababu hapa ni mahali ambapo tunatazamiwa tuseme kile kilicho halisi na kwa ukweli.</seg>
+          <seg xml:id="seg309">Sasa uamuzi wangu ni kwamba upotoshaji huo haukufikia kiwango ambacho angaweza kuadhibiwa.</seg>
+          <seg xml:id="seg310">Kwa hiyo, naacha hivyo lilivyo na tangazo hili litosheleze kutoa ilani kwa Waheshimiwa Wabunge wote kwamba tujihadhari na tuwe makini, tuweze kusema ukweli uliopo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u106" who="Spika">
+          <seg xml:id="seg311">Ahsanteni na huu ndiyo mwisho wa matangazo.</seg>
+          <seg xml:id="seg312">(Hapa Spika alitoka ndani ya Ukumbi wa Bunge kwa ajili ya kuungana na msafara wa</seg>
+          <seg xml:id="seg313">Waziri Mkuu kwenda Iringa</seg>
+          <seg xml:id="seg314">kuhudhuria maziko ya Mzee Peter Siyovelwa)</seg>
+          <seg xml:id="seg315">Hapa Naibu Spika (Mhe. Anne S. Makinda) Alikalia Kiti</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u107" who="NaibuSpika">
+          <seg xml:id="seg316">Waheshimiwa Wabunge, shughuli za maswali zimekwisha sasa tunaingia kwenye shughuli ya Miswada ya Serikali, Katibu.</seg>
+          <seg xml:id="seg317">MISWADA YA SHERIA YA SERIKALI</seg>
+          <seg xml:id="seg318">Muswada wa Sheria ya Kufanya Marekebisho Kwenye Sheria Mbalimbali wa</seg>
+          <seg xml:id="seg319">Mwaka 2006 (The Written Laws</seg>
+          <seg xml:id="seg320">(Miscellaneous Amendments)) Bill, 2006</seg>
+        </u>
+        <note>(Kusomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u108" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg321">Mheshimiwa Naibu Spika, kabla sijaendelea na hotuba yangu napenda kuchukua nafasi hii kuwapongeza Mawaziri mbalimbali walioteuliwa kushika nyadhifa mpya katika Wizara mbalimbali. Nawaombea kwa Mwenyezi Mungu awape afya njema ili waendelee kumudu majukumu yao mapya kwa umakini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u109" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg322">Baada ya kusema maneno hayo ya utangulizi, sasa naomba kutoa hoja kwamba Muswada wa Sheria uitwao Muswada wa Marekebisho ya Sheria Mbalimbali wa mwaka 2006 yaani The Written Laws (Miscellaneous Amendments) Act, 2006 sasa usomwe kwa mara ya pili.</seg>
+          <seg xml:id="seg323">Muswada huo una marekebisho ya Sheria sita zifuatazo:-</seg>
+          <seg xml:id="seg324">(i) Sheria ya Kanuni ya Adhabu, Sura ya 16;</seg>
+          <seg xml:id="seg325">(ii) Sheria ya Tume ya Haki za Binadamu na Utawala Bora, Sura ya 391;</seg>
+          <seg xml:id="seg326">(iii) Sheria ya Vyama vya Siasa, Sura ya 258;</seg>
+          <seg xml:id="seg327">(iv) Sheria ya Uchaguzi, Sura ya 343 kama ilivyojadiliwa mwaka 2005;</seg>
+          <seg xml:id="seg328">(v) Sheria ya Taasisi za Kazi ya Mwaka 2004 na;</seg>
+          <seg xml:id="seg329">(vi) Sheria ya Kazi na Mahusiano Kazini Na. 6 ya mwaka 2004.</seg>
+          <seg xml:id="seg330">Mheshimiwa Naibu Spika, Sheria ya Kwanza inayopendekezwa kufanyiwa marekebisho ni Sheria ya Kanuni ya Adhabu. Lengo la marekebisho hayo ni kuongeza vifungu vyenye makosa mbalimbali yanayohusiana na michezo ya kubahatisha, michezo ya walaghai na michezo mingine inayofanana nao. Ili kukidhi lengo hilo inapendekezwa kuongeza mafungu ya 171(a) na 171(b).</seg>
+          <seg xml:id="seg331">Aidha, ushawishi wa kushiriki katika michezo hiyo pia utahesabiwa kuwa ni kosa la jinai. Inapendekezwa kuweka adhabu mbalimbali zitakazotolewa kwa mtu atakayebainika kuwa ametenda makosa hayo. Lengo kuu la mapendekezo hayo ni kupambana na vitendo vya ulaghai vinavyofanywa na watu wajanja kwa lengo la kudhulumu fedha za washiriki wa michezo hiyo. Aidha, inapendekezwa kuongeza fungu la 171(c) ili kutoa tafsiri ya maneno ambayo yametumika katika mafungu 171(a) na 171(b).</seg>
+          <seg xml:id="seg332">Mheshimiwa Naibu Spika, Sheria ya pili inayopendekezwa kufanyiwa marekebisho ni Sheria ya Tume ya Haki za Binadamu na Utawala Bora, Sura ya 391. Marekebisho yanayopendekezwa ni kuingiza fungu jipya la 28(a). Lengo la mapendekezo hayo ni kuweka masharti yatakayowezesha Tume kufanya shughuli zake Tanzania na Zanzibar. Inapendekezwa kwamba Tume itoe taarifa au mapendekezo kuhusu suala lolote lililochunguzwa kwa mujibu wa fungu la 28 kwa taasisi husika kupitia kwa Waziri mwenye dhamana ya Haki za Binadamu na Utawala Bora katika Serikali ya Mapinduzi ya Zanzibar. Vile vile taasisi husika itajibu kupitia kwa Waziri huyo. Utaratibu huo utaiwezesha Tume kutoa taarifa zake kwa Serikali ya Mapinduzi Zanzibar.</seg>
+          <seg xml:id="seg333">Mheshimiwa Naibu Spika, Sheria ya tatu inayofanyiwa marekebisho ni Sheria ya Vyama vya Siasa, Sura ya 258. Inapendekezwa kurekebisha fungu la 22 kwa kuongeza aya ya (h) katika kifungu cha (ii) ili kumpatia Waziri mwenye dhamana ya Vyama vya Siasa mamlaka ya kutengeneza Kanuni zitakazoweka utaratibu mzuri wa kusimamia</seg>
+          <seg xml:id="seg334">mwenendo wa maadili katika Vyama vya Siasa kwa kushauriana na Vyama hivyo. Marekebisho hayo yanafuata mchakato wa muda mrefu wa mashauriano baina ya Tume ya Uchaguzi na wadau mbalimbali ikiwa ni pamoja na Vyama vya Siasa.</seg>
+          <seg xml:id="seg335">Mheshimiwa Naibu Spika, Sheria ya nne inayofanyiwa marekebisho ni Sheria ya Uchaguzi, Sura ya 243 kama ilivyojadiliwa mwaka 2005. Inapendekezwa kurekebisha fungu la 37 ili kuwezesha uchaguzi mdogo kufanyika ndani ya kipindi kisichopungua siku 25 na kisichozidi siku 50 tangu kutokea kwa tukio linalosababisha uchaguzi mdogo kufanyika. Vile vile inapendekezwa kumpatia Mwenyekiti wa Tume ya Uchaguzi mamlaka na wajibu wa kutoa taarifa kwa maandishi kwa Vyama vya Siasa kuhusu tarehe ya kufanyika kwa uchaguzi mdogo unaohusika.</seg>
+          <seg xml:id="seg336">Mheshimiwa Naibu Spika, Sheria ya tano inayopendekezwa kufanyiwa marekebisho ni Sheria ya Taasisi za Kazi Na. 6 ya mwaka 2004. Mapendekezo haya yanahusu kurekebisha kifungu cha (ii) cha fungu la 20 ili pande zinazohusika katika usuluhishi zilipe gharama za kuendesha mashauri pamoja na gharama za mashahidi. Lengo la marekebisho haya ni kuiondolea Serikali mzigo wa kugharamia mashauri kama ilivyo sasa. Hata hivyo, pale ambapo mazingira yatahitajika basi Serikali italipia gharama zote za kuendesha mashauri hayo. Mafungu mengine yaliyofanyiwa marekebisho ni fungu la 20, 35, 50, 51, 52, 53, 54 na 63. Mapendekezo hayo ni pamoja na kufuta kifungu cha tatu cha fungu la 35 na kuweka kingine kinachoelezea juu ya Wajumbe wa Bodi ya Mishahara (Wage Boards). Lingine ni lile la kuipa mamlaka Mahakama ya Kazi ili iwe sawa na Mahakama Kuu katika kutoa uamuzi na kukazia hukumu mbalimbali.</seg>
+          <seg xml:id="seg337">Mheshimiwa Naibu Spika, lengo la marekebisho haya ni kuweka mazingira mazuri ya ajira ya mfanyakazi. Marekebisho pia yanalenga kuwepo kwa Jaji Mfawidhi wa Mahakama ya Kazi ambaye atapangiwa kazi hiyo na Jaji Mkuu. Pia inapendekezwa Jaji Mfawidhi awe na uwezo wa kumteua Hakimu Mkazi na kumpa madaraka ya kusikiliza mashauri ya Kazi baada ya kushauriana na Jaji Mkuu.</seg>
+          <seg xml:id="seg338">Mwisho katika eneo hili, linatoa mapendekezo yanayoainisha mamlaka ya Mahakama ya Kazi. Aidha, fungu la 54 limeandikwa upya ili kuanzisha ofisi ya Msajili wa Mahakama ya Kazi ambaye atateuliwa na Jaji Mkuu. Msajili wa Mahakama hii atakuwa ni mtendaji mkuu wa Mahakama ya Kazi na atawajibika kwa Jaji Mfawidhi.</seg>
+          <seg xml:id="seg339">Mheshimiwa Naibu Spika, Sheria ya sita inayopendekezwa kufanyiwa marekebisho ni Sheria ya Kazi na Mahusiano Kazini ya mwaka 2004 yaani Sheria Na. 7 ya mwaka 2004. Inapendekezwa kufanya marekebisho katika kifungu cha (vii) cha fungu la 71 ili liwe ni kosa la jinai kwa yeyote atakayehusika katika Mkataba kushindwa kuwasilishwa Mkataba wa pamoja kwenye Tume ya Kazi. Pia mafungu ya 86, 84, 94 na 95 yamefanyiwa marekebisho. Vifungu vinavyohusu utatuzi wa migogoro ya kazi ili kuifanya itatuliwe kwa njia za usuluhishi kati ya pande zinazohusika. Vile vile marekebisho haya yameweka bayana mipaka iliyopo ya madaraka ya Mahakama ya Kazi katika kutatua migogoro ya kikazi.</seg>
+          <seg xml:id="seg340">Mheshimiwa Naibu Spika, baada ya kutoa maelezo haya naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u110" who="WaziriWaFedha">
+          <seg xml:id="seg341">Mheshimiwa Naibu Spika, naafiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(k.n.y. MHE. GEORGE M. LUBELEJE - MWENYEKITI WA KAMATI YA KATIBA, SHERIA NA UTAWALA)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u111" who="MheJohnPLwanji">
+          <seg xml:id="seg342">Mheshimiwa Naibu Spika, kwa niaba ya Mwenyekiti wa Kamati ya Katiba, Sheria na Utawala naomba kuwasilisha maoni ya Kamati ya Katiba, Sheria na Utawala kuhusu Muswada wa Sheria ya kurekebisha Sheria mbalimbali (The Written Laws (Miscellaneous Amendments).</seg>
+          <seg xml:id="seg343">Mheshimiwa Naibu Spika, naomba nianze kwa kukushukuru kwa kunipa nafasi hii ili nitoe maoni ya Kamati ya Katiba, Sheria na Utawala baada ya kuchambua na kujadili Muswada wa Sheria ya Marekebisho ya Sheria mbalimbali inayokusudia kufanya marekebisho ya Sheria zifuatazo:-</seg>
+          <seg xml:id="seg344">(i) Sheria ya Kanuni za Adhabu, Sura ya 16;</seg>
+          <seg xml:id="seg345">(ii) Sheria ya Mwenendo wa Makosa ya Jinai, Sura ya 20;</seg>
+          <seg xml:id="seg346">(iii) Sheria ya Haki za Binadamu na Utawala Bora, Sura ya 391;</seg>
+          <seg xml:id="seg347">(iv) Sheria ya Vyama vya Siasa, Sura ya 258;</seg>
+          <seg xml:id="seg348">(v) Sheria ya Uchaguzi, Sura ya 343;</seg>
+          <seg xml:id="seg349">(vi) Sheria ya Taasisi za Kazi ya 2004, Na. 7 ya mwaka 2004; na</seg>
+          <seg xml:id="seg350">(vii) Sheria ya Kazi na Mahusiano Kazini Na. 6 ya mwaka 2004.</seg>
+          <seg xml:id="seg351">Mheshimiwa Naibu Spika, kabla ya kuwasilisha maoni ya Kamati naomba nitumie fursa hii kuwapongeza Waheshimiwa Wajumbe wa Kamati ya Katiba, Sheria na Utawala kwa ushirikiano mkubwa wa kujadili Muswada huu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u112" who="MheJohnPLwanji">
+          <seg xml:id="seg352">Mheshimiwa Naibu Spika, naomba nitumie fursa hii kuwatambulisha wajumbe wa Kamati kama ifuatavyo, Mheshimiwa George Malima Lubeleje, Mwenyekiti wa Kamati, Mheshimiwa Tatu Ntimizi, Makamu Mwenyekiti na wajumbe ambao ni Mheshimiwa Pindi Chana, Mheshimiwa Stephen Galinoma, Mheshimiwa Athumani Janguo, Mheshimiwa Rajab Ahmad Juma, Mheshimiwa Shoka Khamis Juma, Mheshimiwa Charles Keenja, Mheshimiwa John Lwanji, Mheshimiwa Fatma Maghimbi, Mheshimiwa Ramadhani Maneno, Mheshimiwa Halima Mdee, Mheshimiwa Nimrod Mkono, Mheshimiwa Salim Mohamed, ; Mheshimiwa Abbas Mtemvu na wa mwisho Mheshimiwa Dr. Wilbrod Slaa.</seg>
+          <seg xml:id="seg353">Mheshimiwa Naibu Spika, kwa mujibu wa Kanuni za Bunge, kifungu cha 70(2) Toleo la mwaka 2004 sasa naomba niwasilishe maoni ya Kamati kuhusu Miswada iliyotajwa hapo juu kama ifuatavyo:-</seg>
+          <seg xml:id="seg354">Kwanza, Sheria ya Kanuni ya Adhabu, Sura ya 16 (The Penal Code, Cap 15). Sheria hii imependekezwa kufanyiwa marekebisho kwa kuongeza mafungu 171(a) na 171(b) yenye makosa mbalimbali yanayohusiana na michezo ya kubahatisha yaani Pyramid schemes, michezo ya ulaghai na michezo mingine inayofanana nayo. Aidha, fungu 171(c) limeongezwa ili kutoa tafsiri ya maneno ambayo yametumika katika mafungu 171(a) na 171(b).</seg>
+          <seg xml:id="seg355">Katika mapendekezo hayo ushawishi wa kushiriki katika michezo hiyo unahesabiwa kuwa ni kosa la jinai. Hivyo, mabadiliko haya yanapendekeza adhabu mbalimbali zitakazotolewa kwa mtu atakayebainika kuwa ametenda makosa hayo.</seg>
+          <seg xml:id="seg356">Mheshimiwa Spika, lengo la mapendekezo ya marekebisho ya Sheria hii ni kupambana na vitendo vya ulaghai vinavyofanywa na wajanja wachache wenye nia ya kujitajirisha haraka. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u113" who="MheJohnPLwanji">
+          <seg xml:id="seg357">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa Kamati inaunga mkono mapendekezo ya marekebisho ya Sheria hii. Hata hivyo, pamoja na kuafiki marekebisho ya Sheria hii Kamati ilikuwa na maoni yafuatayo:-</seg>
+          <seg xml:id="seg358">(a) Mheshimiwa Spika, Kamati inaona kuwa hata michezo ya karata tatu, kupeana fedha na korokoro ni ulaghai. Hivyo nayo idhibitiwe na sheria hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u114" who="MheJohnPLwanji">
+          <seg xml:id="seg359">(b) Serikali ibuni mbinu madhubuti ya utekelezaji wa sheria hii kwani hivi sasa pamoja na kukatazwa michezo ya upatu lakini bado inachezwa na watu wanaendelea kudhulumiwa.</seg>
+          <seg xml:id="seg360">Mheshimiwa Naibu Spika, pili, Sheria ya Mwenendo wa Makosa ya Jinai (Criminal Procedure Act, Cap 20). Sheria hii imependekezwa kufanyiwa marekebisho kwa kuandikwa upya kifungu cha (iii) cha fungu la 186.</seg>
+          <seg xml:id="seg361">Madhumuni ya marekebisho haya ni kuweka masharti yatakayowalinda waendesha mashitaka na mashahidi katika mashauri yanayofanyika chini ya Sheria ya Kuzuia Madawa ya Kulevya, Sura 95 na mashauri yanayohusu makosa ya kujamiina.</seg>
+          <seg xml:id="seg362">Mabadiliko haya yanapendekeza kwamba mashauri haya sasa yawe yanasikilizwa kwa faragha na kwamba mashauri hayo yasitangazwe kwenye magazeti au vyombo vya habari. Isipokuwa marekebisho haya hayatakataza kutangazwa kwa mashauri hayo endapo matangazo ya mashauri hayo yatafanywa kwa nia njema ya kuwapatia taaluma wataalam wa mambo ya sheria au matibabu.</seg>
+          <seg xml:id="seg363">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa baada ya Kamati kupitia na kutafakari kwa kina mapendekezo ya marekebisho ya Sheria hii</seg>
+          <seg xml:id="seg364">haikuafiki mapendekezo haya kwa sababu yana lengo la kuwalinda wahalifu wa madawa ya kulevya na wabakaji. Hivyo basi Kamati ilikuwa na maoni yafuatayo:-</seg>
+          <seg xml:id="seg365">(a) Kesi za namna hii zifanyike kwenye Mahakama ya wazi (Open Court) na zitangazwe kwenye vyombo vya habari ili jamii iwatambue watu wanaofanya biashara hii. Hii itawafanya watu waogope kufanya biashara hii.</seg>
+          <seg xml:id="seg366">Aidha, Hakimu aweze kusikiliza kesi yoyote ya faragha akiona inafaa. Hata hivyo, Mahakimu wasitumie madaraka yao kwa ajili ya maslahi binafsi na kusababisha haki isitendeke.</seg>
+          <seg xml:id="seg367">(b) Watuhumiwa wa ubakaji watangazwe pia kwenye vyombo vya habari ili jamii iwatambue ili iwe fundisho kwao.</seg>
+          <seg xml:id="seg368">(c) Kesi za ubakaji wa watoto ziendelee kufanyika kwa faragha.</seg>
+          <seg xml:id="seg369">(d) Serikali ibuni mikakati ya kuwalinda waendesha mashauri na mashahidi wao ili wasidhuriwe na washtakiwa wa madawa ya kulevya. Serikali ijifunze kwa nchi nyingine jinsi wanavyolinda waendesha mashitaka na mashahidi. Kwa mfano, Marekani ina utaratibu huu unaoitwa witness protection program. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u115" who="MheJohnPLwanji">
+          <seg xml:id="seg370">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa Serikali imekubali ushauri wa Kamati na imeondoa mapendekezo ya marekebisho ya Sheria hii.</seg>
+          <seg xml:id="seg371">Mheshimiwa Naibu Spika, tatu, Sheria ya Tume ya Haki za Binadamu na Utawala bora, Sura 391 (The Commission of Human Rights and Good Governance). Mabadiliko haya yanapendekeza kuingiza fungu jipya la 28A.</seg>
+          <seg xml:id="seg372">Mheshimiwa Spika, lengo ni kuweka masharti yatakayoiwezesha Tume hii kufanya shughuli zake Tanzania Zanzibar. Fungu hili linapendekeza kuwa Tume hii itoe taarifa au mapendekezo kuhusu suala lolote linalohusika na haki za binadamu linalohusu chombo au taasisi ambayo siyo ya Muungano kupitia kwa Waziri mwenye dhamana ya masuala ya haki za binadam na utawala bora katika Serikali ya Mapinduzi ya Zanzibar ili kuiwezesha Tume kutoa taarifa zake kwa Serikali ya Mapinduzi.</seg>
+          <seg xml:id="seg373">Mheshimiwa Naibu Spika, Kamati inaunga mkono mapendekezo ya marekebisho ya Sheria hii. Hata hivyo, pamoja na kuafiki marekebisho ya sheria hii Kamati ilikuwa na maoni yafuatayo:-</seg>
+          <seg xml:id="seg374">(i) Waziri mwenye dhamana ya masuala ya Haki za Binadamu na Utawala Bora katika Serikali ya Mapinduzi ya Zanzibar apewe muda maalum wa kupeleka taarifa ya uvunjaji wa haki za binadamu kwenye chombo husika kinachotuhumiwa kuvunja haki hizo na Tume.</seg>
+          <seg xml:id="seg375">(ii) Kama kuna jambo lolote linalogusa maslahi ya pande zote za Muungano uwakilishi wa pande zote lazima uzingatiwe.</seg>
+          <seg xml:id="seg376">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa, Serikali imekubali ushauri wa Kamati na imerekebisha mapendekezo ya marekebisho ya Sheria hii kama ilivyoshauri.</seg>
+          <seg xml:id="seg377">Mheshimiwa Naibu Spika, namba 4 Sheria ya Vyama vya Siasa sura 258 (The Political Parties Act, Cap. 258). Mabadiliko haya yanapendekeza kurekebisha fungu la 22 kwa kuongeza aya (h) katika kifungu cha pili, ili kumpatia Waziri mwenye dhamana ya Vyama vya Siasa mamlaka ya kutengeneza kanuni zitakazoweka utaratibu mzuri wa kusimamia mwenendo, maadili katika Vyama vya Siasa. Marekebisho hayo yanafuatia mchakato wa muda mrefu wa mashauriano baina ya Tume ya Uchaguzi na wadau mbalimbali vikiwemo Vyama vya Siasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u116" who="MheJohnPLwanji">
+          <seg xml:id="seg378">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa baada ya Kamati kupitia kwa kina mapendekezo haya, imependekeza kifungu cha pili cha fungu la 22 kifanyiwe marekebisho kwa kuzingatia mambo yafuatayo:-</seg>
+          <seg xml:id="seg379">Kwanza, Vyama vya Siasa vihusishwe wakati Waziri akitengeneza Kanuni zitazoweka utaratibu mzuri wa kusimamia mwenendo wa maadili katika Vyama vya Siasa.</seg>
+          <seg xml:id="seg380">Pili, dhana ya Ethnical Conduct itolewe tafsiri na tatu, Ethnical Conduct lazima iainishwe bayana kwenye sheria hii.</seg>
+          <seg xml:id="seg381">Mheshimiwa Naibu Spika, nne, naomba kulifahamisha Bunge lako Tukufu kuwa Serikali imekubali ushauri wa Kamati na imerekebisha mapendekezo na marekebisho ya Sheria hii kama ilivyoshauriwa. Serikalil imekubali kuvihusisha Vyama vya Siasa wakati itakapokuwa inatengeneza Kanuni zitazoweka utaratibu mzuri wa kusimamia mwenendo wa maadili katika Vyama vya Siasa.</seg>
+          <seg xml:id="seg382">Tano, Sheria ya Uchaguzi sura 343 Election Act Cap. 343, mabadiliko haya yanapendekeza kurekebisha fungu la 37 ili kuwezesha uchaguzi mdogo kufanyika ndani ya kipindi kisichopungua siku 20 na kisichozidi siku 50 tangu kutokea kwa tukio linalosababisha uchaguzi mdogo kufanyika. Vile vile inapendekezwa kumpatia Mwenyekiti wa Tume ya Uchaguzi mamlaka na wajibu wa kutoa taarifa kwa maandishi kwa Vyama vya Siasa kuhusu tarehe ya kufanyika uchaguzi mdogo unaohusika.</seg>
+          <seg xml:id="seg383">Mheshimiwa Naibu Spika, baada ya Kamati kupitia na kujadili kwa kina mapendekezo haya inaunga mkono mapendekezo ya marekebisho ya sheria hii. Hii ni kwa ajili ya kumpata mwakilishi mapema iwezekanavyo kwa Jimbo ambalo limetokea kuwa wazi ambaye atawakilisha na kuwasaidia wananchi wa Jimbo hilo kutatua kero mbalimbali zinazowakabili na kuletea maendeleo.</seg>
+          <seg xml:id="seg384">Sita, Sheria ya Taasisi za Kazi 2004 namba 7 ya mwaka 2004 (The Labour Institutions Act 7, 2004). Mabadiliko haya yanapendekeza kurekebisha mafungu yafuatayo:-</seg>
+          <seg xml:id="seg385">Kwanza, kifungu cha pili, cha fungu la 20 ili pande zote zinazohusika katika usuluhishi zilipe gharama za kuendesha mashauri pamoja na gharama za mashahidi. Lengo la marekebisho haya ni kuiondolewa Serikali mzigo wa kugharamia mashauri kama ilivyo sasa. Hata hivyo, pale ambapo mazingira yatahitaji basi Serikali italipia gharama zote za kuendesha mashauri hayo.</seg>
+          <seg xml:id="seg386">Pili, kufuta kifungu cha 3 cha fungu la 35 na kiwekwe kifungu kingine ambacho kinaelezea Wajumbe wa Bodi ya Maslahi (Wage Board) na kuipa mamlaka Mahakama ya Kazi ambayo itakuwa na uwezo wa kutoa uamuzi na kukazia hukumu mbalimbali kama Mahakama Kuu inavyofanya. Lengo la marekebisho haya ni kuhakikisha mfanyakazi anakuwa na mazingira mazuri ya ajira. Marekebisho haya pia yanampa mamlaka Jaji Mkuu kuteua Jaji Mfawidhi atakayeongoza Mahakama ya Kazi. Inapendekezwa pia Jaji Mfawidhi naye aweze kumteua Hakimu Mkazi na kumpa madaraka ya kusikiliza mashauri ya kazi designate baada ya kushauriana na Jaji Mkuu.</seg>
+          <seg xml:id="seg387">Fungu la 54 limeandikwa upya ili kuanzisha Ofisi ya Msajili wa Mahakama ya Kazi ambaye atateuliwa na Jaji Mkuu.</seg>
+          <seg xml:id="seg388">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa Kamati inaunga mkono mapendekezo ya marekebisho ya Sheria hii.</seg>
+          <seg xml:id="seg389">Namba 7 Sheria ya Kazi na Mahusiano Kazini ya mwaka 2004. Mabadiliko haya yanapendekeza kurekebisha mafungu yafuatayo:-</seg>
+          <seg xml:id="seg390">Kwanza, kifungu cha 7 cha fungu la 71 ili liwe kosa la jinai kwa mtu yeyote anayehusika katika Mkataba kushindwa kuwasilisha nakala ya Mkataba wa pamoja kwenye Tume ya Kazi. Pili, mafungu 86, 88, 94 na 95 nayo yamefanyiwa marekebisho ili migogoro ya kazi itatuliwe kwa njia ya usuluhisho kati ya pande zinazohusika.</seg>
+          <seg xml:id="seg391">Mheshimiwa Spika, aidha, marekebisho haya yameweka bayana mipaka iliyopo ya madaraka ya Mahakama ya Kazi katika kutatua migogoro ya kikazi.</seg>
+          <seg xml:id="seg392">Mheshimiwa Naibu Spika, naomba kulifahamisha Bunge lako Tukufu kuwa Kamati inaunga mkono mapendekezo ya marekebisho ya Sheria hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u117" who="MheJohnPLwanji">
+          <seg xml:id="seg393">Mheshimiwa Naibu Spika, napenda kuwashukuru Waheshimiwa Wajumbe wa Kamati kwa michango yao makini ambayo kwa kiwango kikubwa imesaidia sana kuboresha marekebisho ya Muswada huu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u118" who="MheJohnPLwanji">
+          <seg xml:id="seg394">Mheshimiwa Naibu Spika, mwisho kabisa, napenda kumshukuru na kumpongeza Mwanasheria Mkuu wa Serikali, Mheshimiwa Johnson Mwanyika, Mbunge, pamoja na timu yake kwa kusaidia Kamati kufanikisha kujadili na kupitisha Muswada huu.</seg>
+          <seg xml:id="seg395">Mwisho, nawashukuru sana Makatibu wa Kamati ndugu Emmanuel Mpanda, ndugu Nenelwa Mwihambi, ndugu Ernest Zulu na ndugu Charles Mloka kwa kuhudumia Kamati hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u119" who="MheJohnPLwanji">
+          <seg xml:id="seg396">Mheshimiwa Naibu Spika, naunga mkono hoja na ninaomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u120" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg397">Mheshimiwa Naibu Spika, naomba kutoa maoni ya Kambi ya Upinzani kuhusu Muswada wa kurekebisha Sheria Mbalimbali yaani Written Law Miscellaneous Amendments.</seg>
+          <seg xml:id="seg398">Mheshimiwa Naibu Spika, nashukuru sana kupata nafasi hii ambayo imeniruhusu kwa mujibu wa Kanuni za Bunge kifungu cha 43(5)(b)(c) na 81(1) Toleo la mwaka 2004.</seg>
+          <seg xml:id="seg399">Mheshimiwa Naibu Spika, naomba kwanza nianze na Tume ya Haki za Binadamu. Tume ya Haki za Binadamu ni Tume ya Muungano badala ya Zanzibar kuwa na muundo wake wa Tume ni vyema kuwe na tawi la Tume hiyo huko Zanzibar ambalo litashughulikia moja kwa moja na mambo ambayo hayamo katika masuala ya Muungano.</seg>
+          <seg xml:id="seg400">Mheshimiwa Naibu Spika, kama inavyokuwa masuala yote yanayohusu haki za binadamu ni masuala yanayohitaji uharaka katika kushughulikiwa. Lakini kwa muundo ambao sheria inauendeleza ni wa kimangimeza mno ambao unazidisha uvunjaji wa haki za binadamu. Rejea kifungu cha 28(a) kilichowezesha kuwepo kwa Tume ambacho kinaonyesha hatua zinazotakiwa kupitiwa hadi haki itendeke. Umangimeza wenyewe nia kama ufuatavyo:-</seg>
+          <seg xml:id="seg401">Kwanza, unaanza na mamlaka yenyewe, kuna shida sasa hivi katika ukiukwaji wa haki za binadamu. Unaanza na mamlaka yenyewe, halafu unakwenda kwa Kamishna, kisha unakwenda kwa Waziri, halafu unarudi tena kwa mamlaka husika. Kwa mfano, katika Serikali ya Mapinduzi ya Zanzibar kwa Waziri, mwisho ndiyo unarudi tena kwa Kamishna ambayo yenyewe ndiyo itatoa uamuzi, mzunguko kama huo peke yake ni uendelezaji wa uvunjaji wa haki za binadamu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u121" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg402">Mheshimiwa Naibu Spika, Zanzibar kuna uvunjwaji sana wa haki za binadamu hasa wakati wa uchaguzi, je, kuhusishwa kwa Serikali katika ukiukwaji wa haki za binadamu si kikwazo kikubwa sana kwa muathirika.</seg>
+          <seg xml:id="seg403">Mheshimiwa Naibu Spika, sasa nakwenda katika Sheria ya Vyama. Kwanza, kuhusu kipengele kinachohusu kusimamia maadili na nidhamu ya Vyama vya Siasa. Tunaipongeza Ofisi ya Mwanasheria Mkuu wa Serikali kwa kukubali kurekebisha Muswada wa Vyama vya Siasa katika kutengeneza maadili yanayohusu kazi zao za siasa kinyume na ulivyokuja Muswada wenyewe ambapo Msajili alipewa mamlaka ya kusimamia maadili ya Vyama vya Siasa bila kusema maadili hayo yanatengenezwa na nani. Lakini pamoja na kukubaliana na kumpongeza Mwanasheria Mkuu wa Serikali tunasisitiza kuwa ni lazima muafaka upatikane kabla ya maadili hayo hayajatangazwa.</seg>
+          <seg xml:id="seg404">Mheshimiwa Naibu Spika, kuhusu Criminal Procedure Act, Mheshimiwa Rais alipokuwa Mwanza wakati anatoa hotuba yake alikiri kuwa dawa za kulevya ni tatizo ambalo linahitaji kupambana nalo zaidi kuliko tatizo la vita vya ujambazi. Leo hii tunatunga sheria inayosema watuhumiwa wa dawa za kulevya kesi zao zisisikilizwe dhahiri, zisikilizwe in camera yaani zisikilizwe siri kabisa au tunauthibitishia umma kwamba dawa za kulevya yanawahusisha vigogo wa nchi hii maana ikiwa hayawahusishi vigogo wa nchi hii isingekuwa isikilizwe in camera. Lakini sisi Kambi ya Upinzani tunashauri kuwa kama ni kweli tupo makini na kupiga vita dawa za kulevya watuhumiwa wa kesi hizo zisikilizwe kwenye open court. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u122" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg405">Mimi kama Waziri Kivuli wa Katiba na Sheria napendekeza kesi hizi zikasikilizwe Uwanja wa Taifa ili watu wote wasikie au kama ni kwenye camera pia Waandishi wa Habari na vyombo vyote vya habari vihusishwe, ikiwa in camera basi vyombo vya habari vihusishwe ili wananchi waweze kujua kuna tatizo gani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u123" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg406">Mheshimiwa Naibu Spika, tunaweza kukubaliana na hoja hii ya kusikiliza kesi hizi in camera kama proceedings zake zikachapishwa katika vyombo vya habari. Lakini sheria inavibana hata vyombo vya habari kutangaza wala kuchapisha maendeleo ya kesi hizo. Kambi ya Upinzani inakubali kwamba mashahidi wanaoisaidia Serikali kutoa ushahidi wao wakasikilizwe in camera. Kwa sababu tunaelewa kwamba watu wa dawa za kulevya ni watu hatari sana na wanao uwezo wa kutoa fedha ili wamuumize yule mtoa ushahidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u124" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg407">Mheshimiwa Naibu Spika, sasa nakuja katika sheria ya Labour Institutions Act ya mwaka 2004. Kifungu cha 20(2) na kifungu kidogo cha (4) vifungu hivi tunaviona vina matatizo kwani kifungu kidogo cha pili kinasema atakayeita ushahidi ndiye atakayemgharamia huyo shahidi, wakati kile kifungu kidogo cha nne kinasema mazingira mengine ya ushahidi atakayelipa ni Mkurugenzi, ili kuepusha matumizi mabaya ya madaraka ni bora sheria ikaeleza mazingira yapi shahidi atatakiwa kulipwa na Mkurugenzi na yapi anatakiwa kulipa yule anayemwita shahidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u125" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg408">Mheshimiwa Naibu Spika, naomba niseme kwamba sheria nyingine ambazo sikuzitaja zile tumekubaliana nazo upande wa Upinzani kwani yale tuliyoyapendekeza yote katika Kamati Serikali imeyakubali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u126" who="MheFatmaMussaMaghimbiMsemajiMkuuWaUpinzaniKwaWizaraWaKatibaNaSheria">
+          <seg xml:id="seg409">Mheshimiwa Naibu Spika, naomba kuwasilisha, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u127" who="NaibuSpika">
+          <seg xml:id="seg410">Wasemaji Wakuu wameishamalizika. Sasa katika meza yangu nina wasemaji wanne ambao watachangia.</seg>
+          <seg xml:id="seg411">Kwa hiyo, namwita Mheshimiwa Dr. Wilbrod Slaa, atafuatiwa na Mheshimiwa Dr. Lucy Nkya na Mheshimiwa William Shellukindo ajiandae na Mheshimiwa Faustine Rwilomba, umo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u128" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg412">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi hii ya kwanza kabisa kuchangia katika Muswada huu wa Marekebisho ya Sheria Mbalimbali.</seg>
+          <seg xml:id="seg413">Mheshimiwa Naibu Spika, labda nianze na sheria ya Criminal Procedure Act, Sheria ya Mwenendo wa Jinai ambayo Msemaji wa Kambi ya Upinzani hapa sasa hivi ameizungumzia. Kwanza, nikiri kwamba mimi ni Mjumbe wa Kamati, nakubaliana na yote yaliyosemwa na Kamati. Nakubaliana na yote yaliyosemwa katika jambo hili na Msemaji wa Kambi ya Upinzani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u129" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg414">Mheshimiwa Naibu Spika, jambo hili linatisha. Jambo la dawa za kulevya nchini mwetu limekuwa la tishio na hapa tunazungumzia the evidence of all persons in all trials involving sexual offences, narcotic drugs or psychotropic substances. Kwa hiyo, ni aina zote zile za dawa za kulevya, tunazungumzia pia na makosa ya ubakaji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u130" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg415">Mimi nianze kwa kusema kwamba ninakubaliana tu na kusikiliza kesi za watoto wadogo waliobakwa kwenye camera. Sababu za kisaikolojia zinataka watoto hawa tuwalinde, wamekwishaumizwa na kitendo cha ubakaji na tusiwaweke kwenye mazingira magumu kwa kesi yao kusikilizwa hadharani ambapo wataendelea tena kuwekwa kwenye mazingira hayo wanapotoa ushahidi wao katika Mahakama ya wazi. Kwa hilo naomba nikubali kwamba kwa watoto wadogo sina tatizo. Lakini ubakaji wa watu wazima kwa masuala yote yanayohusu hizi dawa za kulevya zilizotajwa, mimi siafiki kabisa kesi hizi zisikilizwe kwenye siri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u131" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg416">Mheshimiwa Naibu Spika, Watanzania wote sasa hivi na tena ni hivi karibuni kama ni kweli Mheshimiwa Rais alipelekewa majina ya watu ambao wanadhaniwa kwamba wanauza hizo dawa za kulevya, wanaingiza hizo dawa za kulevya nchini na leo tunatunga sheria ya kufanya kesi hizo zisikilizwe kwenye usiri, jamii ya Watanzania haitatuelewa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u132" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg417">Moja, tuache kwanza suala la sheria, jamii haitatuelewa kwa sababu wakati sisi tunatakiwa kupiga vita dawa ya kulevya, sisi tunatengeneza mazingira ya kuwalea na kuwalinda hao watu wanaleta dawa za kulevya na wanaouza dawa za kulevya. Unaposikiliza kesi kwenye usiri maana yake ni kwamba hao watu hawatajulikana kwa jamii. Maana yake mtandao wao wote utalindwa, wananchi hawatakuwa tayari tena kushiriki katika kutoa majina kama vile yalivyotolewa sasa hivi kwa Mheshimiwa Rais. Maana yake hawatawajua na hata wale wanaowajua wataona hakuna sababu ya kutoa majina hayo, kwa sababu bado Serikali itakuwa inawalinda. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u133" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg418">Kwa hiyo, mimi nadhani hapa hii sheria, ni counter productive, Sheria ilenge katika kuleta matunda mazuri na tunda zuri linaletwa iwapo sheria ina kitu kinachoitwa deterrent effect, ni tishio, inatisha. Sheria isipotisha, sheria isipotoa hofu kwa wale wanaotenda kosa fulani, sheria hiyo itakuwa inapoteza nguvu. Kitendo tu cha kesi kusikilizwa hadharani, kitendo cha majina ya watu hao kutajwa hadharani hicho peke yake tu ni adhabu ya kutosha na hao watu nadhani wanastahili adhabu hiyo. Hawa ni wauaji kwa kiwango kikubwa. Anayeingiza dawa za kulevya, anayeuza dawa za kulevya</seg>
+          <seg xml:id="seg419">hawalitakii mema Taifa hili kwa sababu anaua kizazi cha jamii kwa wale wanaojua dawa za kulevya zinavyofanya kazi.</seg>
+          <seg xml:id="seg420">Mheshimiwa Naibu Spika, dawa za kulevya zikishaingia kwenye damu ya mtu hakuna namna ya kuwarudisha wale walioathirika katika hali nzuri, kama ipo njia ni kwa muda mrefu sana. Lakini jamii hiyo inaacha kuwa productive kwenye jamii inaanza kuwa na namna yake ya maisha, wanaanza kuwa na uhalifu wa namna nyingine vile vile, watoto wetu wanaumizwa, watoto wetu wanafikia mahali pagumu, watoto wetu wanauawa na hao watu ambao hawaitaki mema nchi yetu.</seg>
+          <seg xml:id="seg421">Mheshimiwa Naibu Spika, labda niseme tu pia kwamba mimi katika hili nina personal interest, katika nchi hii kosa la kwanza kabisa lililokamatwa la tani tano, gari langu lilihusika kubeba yale dawa za kulevya. Mimi sikuhusika, gari langu lilihusika kubeba zile dawa za kulevya. Mimi sikuhusika ila gari langu lilikuwa kwenye kampuni, tani tano za dawa za kulevya nafikiri mwaka 1991 au 1992 zilibebwa na gari langu, nikaathirika na mimi gari langu lilikaa huko karibu mpaka mwaka 1998 ndiyo gari langu limetoka. Japo mimi mwenyewe sikuhusishwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u134" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg422">Sasa najua athari yake kiuchumi, najua athari yake kijamii, ninapoongea ninaongea kitu cha dhahiri kabisa tena mbaya zaidi baadaye hata lile container lililobeba zile dawa za kulevya likapotea. Kwa hiyo, ni ndani ya system yetu, wakati gari langu limekaa lile container kilichokuwemo mle ndani bado hakikwenda hata Mahakamani. Kwa hiyo, hapa nadhani tunahitaji kuwa waangalifu sana, sheria tunayotunga isiwe sheria ambayo haitafanya kazi kama sheria, itakuwa na madhara kama sheria, lakini itakuwa pia inatuuza sisi Bunge kwa jamii ya Watanzania hawatatuelewa. Kwa hili, naomba nisisitize kabisa Mheshimiwa Waziri nimshawishi na Mwanasheria wake Mkuu kipengele hiki kinachosema kesi hizi zisikilizwe kwenye camera kiondoke. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u135" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg423">Mheshimiwa Naibu Spika, katika hatua hii ni sisi tunaweza kumshauri Mheshimiwa Mwanasheria Mkuu wa Serikali. Sasa naomba Mheshimiwa Waziri na Mwanasheria Mkuu wa Serikali walioleta sheria hii wakubali kubadilisha kipengele hiki kesi hizi zisikilizwe.</seg>
+          <seg xml:id="seg424">Mheshimiwa Fatma Maghimbi ameeleza pale kwamba ingewezekana zisikilizwe Uwanja wa Taifa, ame-dramatize kwa makusudi kwamba Watanzania wote wawajue hao wabaya wetu, Watanzania wote walie kilio kwamba hao ndiyo wanaoua watoto wetu, Watanzania wote wajue kwamba hao watu hawalitakii Taifa hili mema, lakini si kwa kuwaficha na kusikiliza kesi zao kwenye siri. Tunakubaliana kabisa na yale masharti kwamba wale wanatoa taarifa kwa ajili ya usalama wao hao ni kitu kingine wao wasikilizwe kwenye siri. Wale informers wote na mashahidi ikiwa ni lazima hata mashahidi wengine hawaogopi kutoa hiyo taarifa. Lakini kama shahidi anaogopa kutoa taarifa asikilizwe kwenye camera.</seg>
+          <seg xml:id="seg425">Mheshimiwa Naibu Spika, sheria hii sioni kwanza ina maana gani. Katika sheria yetu ya kawaida kuna kipengele kinachomruhusu Hakimu au Jaji kusikiliza kesi in</seg>
+          <seg xml:id="seg426">camera kama mazingira yanataka hivyo. Kwa kuhalalisha hapa tunaondoa ule uhuru tuliompa Jaji na Hakimu tunataka sasa zote hizi zifunikwe na zifungwe zisikilizwe kwenye siri si nia nadhani ya nchi yetu, si nia ya viongozi wetu, siamini kama ni nia ya Bunge hili hao watu tuwalinde kwa kiwango hicho. Kama kuna sababu ya kuwalinda wao kwa sababu wao watavamiwa ni jukumu la Serikali kutoa ulinzi wa kutosha kwa watu hao ndiyo maana wanaweka gerezani tunawatunza humo, tunanunua magari mapya na mwaka huu tumenunua magari kwa lengo hilo hilo. Kwa hiyo, hatuna sababu ya kuogopa.</seg>
+          <seg xml:id="seg427">Mheshimiwa Naibu Spika, Mwanasheria Mkuu najua wale prosecutors wake wanaweza kuwa hatari, lakini ni jukumu letu kuwalinda na tumeliseme hili siku zote, watu wetu wanaotetea haki za jamii si vyema tukawaacha wakawa katika hisani ya wale na hii ukiileta kama sababu mojawapo wala haina nguvu. Kwa sababu mlangoni kule Mahakamani wakitoka mnawafanyaje si wanaonekana. Prosecutors hata akiingia kule camera watu wale wanamwona wana network yao. Kwa hiyo, kitu kikubwa ni sisi kutengeneza utaratibu mzuri wa kuhakikisha watu wetu hawa tunawalinda. Naomba nieleze kabisa kifungu hiki sitakubaliana nacho. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u136" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg428">Mheshimiwa Naibu Spika, baada ya kukisema kifungu hicho naomba niseme kwa kifupi pia kifungu kinachofuata cha Political Parties Act. Tanzania inaheshimika katika dunia, Tanzania imepata sifa kwa sababu kwanza tumeunda vyama vingi vinaendeshwa kwa demokrasia sahihi na hata nchi inaonekana kimsingi tunavyoendesha chaguzi zetu nadhani jamii ya Kimataifa kwa upande wa Bara angalau inakiri kwamba kuna mwelekeo mzuri. Sasa mimi sitaki hiyo sifa nzuri na jina zuri la nchi yetu vivurugwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u137" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg429">Mheshimiwa Naibu Spika, namshukuru Mwanasheria Mkuu wa Serikali kwa kukubali ushauri wa Kamati kwa kuweka sasa kipengele katika schedule of amendment kwamba suala hili la ethical conduct liweze kuhusisha vyama.</seg>
+          <seg xml:id="seg430">Mimi naomba niweke mkazo tu hapa sina hakika kama prescribing pale inalivyokaa ina maana ile ile. Lakini tungependa ethical conduct ya Vyama vya Siasa itengenezwe na Vyama vya Siasa vyenyewe si kazi ya siasa tena kutwambia tunavaaje shati au kofi zetu. Si kazi ya Serikali kutuambia kwamba tufike mahali fulani tu-behave namna fulani, Serikali kazi yake ni kusimamia yale tuliyokubaliana na wakati wa uchaguzi tulitengeneza codes of ethics zaidi ya nne, kilichokosekana ni kuzipa uwezo wa kisheria wa kusimamia zile codes. Tunaomba hapa sasa zile zibarikiwe, Waziri awe na mamlaka ya kuzitangaza kama sheria ili ziweze kusimamiwa vizuri. Lakini Waziri asipewe mamlaka ya kuzitengeneza hizi ethical codes. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u138" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg431">Mheshimiwa Naibu Spika, kuna njia ndefu ya kutafsiri kinachoitwa ethical conduct. Hivi Ethical Conduct ni nini? Hivi mimi nikisema fulani kaiba na kweli kwenye Taarifa ya Mkaguzi Mkuu kaiba, halafu unasema ni kashfa, hivi kweli hiyo ni kashfa! Tunahitaji kupata vocabulary sahihi kabisa ya code of ethics ambazo zitapanua tunapozungumza lugha, tunazungumze lugha moja inayofanana ili hata tukisema hii ni lugha tuliyokubaliana iwe ni lugha tuliyokubaliana. Mtu anasema gabacholi, unasema</seg>
+          <seg xml:id="seg432">huyu kachochea, lakini hizi ni lugha zinatumika mitaani. Ni nini hasa hiki tunachozungumza kwamba ni code of ethical, tusikimbie kutengeneza sheria kabla hatujapata muafaka wa lugha zinazokubalika katika nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u139" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg433">La kwanza, ni muafaka wa lugha zinazokubalika ili tukubaliane kwamba huyu akisema hivi, kweli anaudhi, huyu akifanya hivi anatukana, huyu akifanya hivi anafanya kashfa, huyu akifanya hivi inakuwa hivi, hapo sheria hii itakuwa na maana. Lakini tukisema tukimbilie kwenda kutengeneza ethical of code nina hakika kabisa tutatengeneza mazingira ambapo yatazaa unyanyasaji kwa sababu kila mmoja atakuja na tafsiri yake. Hiyo itafanya jina la nchi yetu liweze kuchafuliwa na mtu yeyote ambaye anataka kuchafua kwa makusudi. Inawezekana vile vile hata ikaleta vurugu katika uendeshaji wa vyama, inawezekana amani na utulivu tulionao ukavurugwa, tusiruhusu jambo hata kama ni dogo likaja kuvuruga mazingira mahususi yaliyopo katika nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u140" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg434">Mheshimiwa Naibu Spika, nadhani Mheshimiwa Mwanasheria Mkuu wa Serikali anasikiliza na atatusaidia katika hilo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u141" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg435">Mheshimiwa Naibu Spika, niseme kidogo juu the Commission for Human Rights and Good Governance. Wakati Mwanasheria Mkuu wa Serikali akisikiliza sana kauli ya Kamati na kuweka masharti ya siku 21 kwa yule Waziri wa Zanzibar, mimi nadhani nimpongeze kwanza si kawaida sana Mwanasheria Mkuu wa Serikali kukubali kupokea mapendekezo hayo. Lakini ninamshukuru kwamba amepokea mapendekezo ya Kamati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u142" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg436">Mheshimiwa Naibu Spika, lakini niende mbele zaidi, sheria hii inatumika Tanzania kwa maana ya Tanzania Bara na Visiwani hii ni nchi moja. Unapokuwa na nchi moja ukawa na mifumo miwili ya sheria unaruhusu kitu kinachoitwa double standards. Double Standards katika kitu hasa kinachofanana na haki za binadamu ni hatari sana. Kwenye mambo mengine kama magari tulivyoambiwa leo, mimi sina shida, unaweza ku-register gari kule ukatumia utaratibu fulani na kodi fulani.</seg>
+          <seg xml:id="seg437">Mheshimiwa Naibu Spika, katika kesi hizi mara nyingi Serikali nayo inahusishwa. Halafu unarudisha wale ambao wanatafuta haki zao unaambiwa wapite kwenye mfumo wa Serikali. Hivi Waziri hata akipeleka tu anayeitwa competent authority hajatafsiriwa hapa, Waziri kupeleka tu kile kitendo kwamba imetoka kwa Waziri ndiye mkubwa wako, hicho kitendo chenyewe kitakufanya utende kama Waziri anavyotaka. Ni saikolojia ya kawaida ya binadamu, yule ni mtu ambaye yuko chini ya Waziri huyu, Waziri ni bosi wake, amemletea jambo, anataka alishughulikie kwa vyovyote ataangalia Waziri anataka nini, Serikali yangu inataka nini, siyo haki ya yule mtu mnyonge. Kwa dhamira yangu siko tayari pia hata kipengele jinsi kilivyokaa bado sitakiunga mkono. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u143" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg438">Mheshimiwa Naibu Spika, ningependa tuweke sheria inayolinda haki za binadamu bila kikwazo cha aina yoyote. Sheria ya haki za binadamu ilivyokaa katika sheria mama ambayo ndiyo hiyo hiyo tunaipeleka Zanzibar hapa sasa tunaiwekea viraka.</seg>
+          <seg xml:id="seg439">Mheshimiwa Naibu Spika, Sheria iliyokaa hapa inatoa uhuru kamili kwa Tume hii kufanya kazi zake bila kuwa na mtu mwingine hapa katikati. Katika sheria hii Waziri wa huku kwetu yeye amewekwa katika competent authority, lakini kule anatajwa kwa jina kwamba Waziri fulani ndiye aende. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u144" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg440">Mheshimiwa Naibu Spika, sasa ningependa ni kweli hoja imetolewa kwamba huku tunaingia kwenye nchi nyingine na mimi sina tatizo na hilo. Kwa hiyo, tunapoingia katika nchi nyingine tuingie kwa utaratibu huu, hapo ndipo ninapopata matatizo. Sheria tulizokubaliana tumezitengeneza za Muungano ambazo Bunge hili ndiyo zinatunga. Sheria zile zinaweka uwanja mpana wa kuweza kutekeleza sheria hizi sehemu zote kwa namna inayofanana.</seg>
+          <seg xml:id="seg441">Kwa hiyo, ningependa hii pia iweze kwa utaratibu huo, vigezo vya haki za binadamu viwekwe chini ya usimamizi wa Tume. Ikiwa lazima Tume ifungue branch yake kule Zanzibar. Njia ya kupita iwe kwa njia Tume kule Zanzibar. Kwa hiyo, ningependa hili suala tusiwe tena tunalipeleka Serikalini ambako kule Serikalini ndiyo tunasema kuna tatizo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u145" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg442">Mheshimiwa Naibu Spika, baada ya kusema hayo, naomba nikushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u146" who="MheDrLucySNkya">
+          <seg xml:id="seg443">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi hii ya kuchangia katika Muswada huu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u147" who="MheDrLucySNkya">
+          <seg xml:id="seg444">Mheshimiwa Naibu Spika, nimefurahi kuona kwamba Serikali inaanza kuchukua hatua za kufanya marekebisho katika sheria ambazo zinawagusa sana wananchi hasa wanyonge kama wanawake na watoto. Mimi ningependa kuangalia kwanza kwenye Criminal Procedure Act, Cap. 20, makosa ya kujamiiana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u148" who="MheDrLucySNkya">
+          <seg xml:id="seg445">Mheshimiwa Naibu Spika, ni vizuri kwamba nchi hii imekuwa na sheria ya kulinda wanawake na watoto na wanaobakwa. Lakini naomba kusema kwamba kesi nyingi ambazo zinakwenda Mahakamani kwanza, katika upelelezi kuna yule mtu anayeitwa Mwanasheria wa Serikali ambaye ndiye anayechukua lile faili kwenda kuangalia kama kuna kesi ama hakuna kesi. Naomba kusema kwamba hawa wamekuwa a disappointment especially kwa wanawake wanaobakwa na watoto.</seg>
+          <seg xml:id="seg446">Kuna kipengele kinachompa yeye mamlaka ya kusema kwamba kuna kesi au hakuna kesi. Nafikiri viwango wanavyotumia kuweza kutoa maamuzi kwamba kuna kesi ya kujibu haviridhishi wale waathirika, naomba kusema hivyo. Kuna watoto wamebakwa, kesi zimekwenda polisi, zimefanyiwa upelelezi na ushahidi ukawepo, ikapelekwa kwa Mwanasheria Mkuu wa Serikali to the disappointment ya wale walalamikaji na wote ambao tumekuwa tunaangalia haya mambo yanakwendaje, tunaambiwa kwamba hakuna kesi ya kujibu kwa sababu ushahidi haujakaa sawa. Mimi nabakia kushangaa kwamba ni ushahidi gani?</seg>
+          <seg xml:id="seg447">Mimi ningependa kusema kwamba hii sheria ina mapungufu makubwa pamoja na hizi amendments ambazo zimetolewa nimekuwa disappointed kuona kwamba wanazungumzia mazingira ya kuzungumzia kesi. Inahitaji kufanyiwa major amendment especially katika kuweka sawa ushahidi na katika kufuatilia mwenendo mzima wa kesi. Kwa sababu mtoto mchanga anabaki halafu unakuja kuambiwa Mahakamani kwamba hakuna kesi kwa sababu ushahidi haupo labda amechelewa kwenda kupimwa, amechelewa sijui kufanya nini au PF3 imepotea. Mimi naomba kwamba Serikali yetu kwa sababu imekuwa na nia njema basi ifanye mambo yaeleweke.</seg>
+          <seg xml:id="seg448">Kwa mfano unakuwa na mwanamke aliyebakwa au mtoto amebakwa halafu tunakuja kuambiwa kwamba hakuna kesi. Sasa ni nani anaweza akafufua hiyo kesi au akaamua kuandika rufaa ili hiyo kesi ifuatiliwe kwa sababu ushahidi umekuwa umefichwa kwa makusudi kwa sababu ni mtu mmoja tu ana determine factor ya kesi na ni Mwanasheria Mkuu wa Serikali. Naomba kuwepo na vipengele vya mlinzi wa amani. DC au Mbunge wa eneo lile, hata tuseme basi daktari anayempima yule mtoto apewe mamlaka ya kuzungumza na kulalamika. Kesi hizi mpaka leo za kubaka, kesi za unyanyasaji wa kijinsia mpaka leo tunakuwa na matatizo ya kupeleka rufaa na haijulikani rufaa iende kwa nani. Unapopeleka rufaa sijui utapeleka kwa nani ikiwa yule ambaye ana maamuzi ya kusema kuna kesi au hakuna kesi ameshakwambia hakuna kesi na ile technical knowhow ya ku-knock down unapokwenda kulalamika. Naomba hilo liangaliwe kwamba bado iko haja ya kuangalia upya Sheria ya Makosa ya Kujamiiana.</seg>
+          <seg xml:id="seg449">Mheshimiwa Naibu Spika, tunakuja tena kwenye criminal cases nyingine. Kesi zote zinakuwa ni kesi ambazo Serikali inaziangalia na kufuatilia na kusimama Mahakamani. Lakini yule muathirika anapoona kwamba amekosa haki anashindwa kujua kwamba aende kwa nani kwenda kulalamika. Bahati nzuri tumeambiwa kwamba kuna Tume ya Haki za Binadamu. Swali linakuja ni wananchi wangapi kijijini wanaifahamu. Labda nitoe mfano wangu wa Morogoro mwananchi ambaye yuko Malinyi mbali kabisa na hii Tume inakuwa inatangazwa kwenye televisheni ni wangapi wana televisheni kwanza hatuna umeme kule.</seg>
+          <seg xml:id="seg450">Kuna bwana mmoja ambaye anatangaza Haki za Binadamu, Onyango na mwenzake juu ya hii Tume. Lakini tunaona tu wale watu wa mjini lakini wananchi wa vijijini hawana taarifa kwamba unapokosewa haki uende kwa nani ili uweze kufika kwenye Tume ya Haki za Binadamu. Swali linakuja je hii Tume ya Haki za Binadamu ina mtandao mpaka kwenye ngazi gani? Ili hata mwananchi wa kijijini hususan mwananchi wangu au mama wa kule Malinyi aweze kujua kwamba nimekosewa haki Mahakamani, nimekosewa haki polisi, niende kwenye Tume ya Haki za Binadamu, wangapi wana hiyo taarifa?</seg>
+          <seg xml:id="seg451">Mimi naomba ule mtindo wa kuitangaza ile Tume ya Haki ya Binadamu ubadilishwe. Wapewe elimu wananchi kwa kutumia Wenyeviti wao wa Mitaa au viongozi ambao wako kwenye grassroot kusudi tuweze kujua. Otherwise ile Tume iko kwa ajili ya watu wa mijini na waelewa zaidi ambao wamesoma shule.</seg>
+          <seg xml:id="seg452">Mheshimiwa Naibu Spika, sasa tunakuja kwenye kusikiliza kesi. Mazingira ya kusikiliza hizi kesi kwa mfano kesi za ubakaji. Ningependa niseme kwamba tuendelee kusikiliza hizi kesi in camera kwa sababu ni lazima tutunze utu wa yule muathirika na mara nyingi waathirika ni akinamama bibi vizee, watoto na wasichana wachache. Tunapompelekea hii kesi labda tukaisikiliza kule Jamhuri Stadium au tukaisikiliza kwenye Mahakama ambayo ni open, tunaangalia sasa huko siku za usoni future ya huyu mtu katika jamii na heshima yake inakuwaje? Mimi naomba niunge mkono kwamba hizi kesi bado ziendelee kusikilizwa in camera kwa sababu tunaangalia utu wa yule muathirika na mara nyingi waathirika ni watoto na wanawake. Sasa mwanamke ambaye atakwenda kusimama hadharani atolewe kwenye vyombo vya habari, televisheni, picha zake zitoke kwamba ameathiriwa,bado tuna ule unyanyapaa katika jamii kwa sababu watu wengi wanafikiri kwamba mwanamke anabakwa kwa sababu amejiachia yeye akaingia kwenye yale mazingira. Lakini mara nyingi sivyo ila ninaomba ule mtindo wa kuendelea kusikiliza kesi in camera basi iwe ndiyo hivyo kama sheria ilivyowekwa.</seg>
+          <seg xml:id="seg453">Mheshimiwa Naibu Spika, naomba nizungumzie sasa Sheria ya Dawa za Kulevya. Madawa ya Kulevya imekuwa ni problem. Sasa suala la kusikiliza in camera au kutokusikilizwa in camera kuna mapungufu yake na mazuri yake. Lakini tuangalie basi ni lipo linamshinda mwingine. Naomba niseme kwamba mtandao wa kuuza madawa ya kulevya ni mkubwa. Sasa pale ambapo unaanza kusimamisha wale wanaotoa ushahidi pamoja na waathirika hadharani ni kwamba wale wengine watatengeneza mbinu za kujihami zaidi na Serikali au mkondo wa sheria utashindwa kuwabaini na kuwakamata wale ambao ni washirika.</seg>
+          <seg xml:id="seg454">Mimi napenda kusema kwamba pale ambako inaonekana kwamba ipo sababu ya kuwatangaza hawa watu kwenye vyombo vya habari basi itangazwe. Lakini bado mtindo wa kuendelea kuendesha kesi in camera uendelee kwa sababu kama ni Mheshimiwa Dr. Lucy Nkya, anauza dawa za kulevya siyo peke yangu nina mtandao mkubwa tu kwamba hizo dawa zinapotoka Brazil au zinatoka Pakistan zinakujaje kwangu ambaye niko Tanzania.</seg>
+          <seg xml:id="seg455">Kwa hiyo, ni lazima tukalinda kile chombo ambacho kimepewa dhamana ya kufanya upelelezi pamoja na wale ambao ni informers ili wale ambao wako kwenye mtandao wasijue kwamba Mheshimiwa Dr. Lucy Nkya ameshakamatwa na yuko ndani ya kesi hapa Tanzania ili tuweze tukahakikisha kwamba ufuatiliaji na upepelezi unakuwa hauna matatizo na wale wengine washirika tuweze kuwakamata. Mimi naomba niunge hilo mkono. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u149" who="MheDrLucySNkya">
+          <seg xml:id="seg456">Ningependa kuzungumzia sasa juu ya exhibit. Inashangaza anapokamatwa mtu na cocaine inapelekwa kwa Mkemia Mkuu wa Serikali na sijui kwamba inapita mkononi mwa polisi mpelelezi halafu ndiyo inakwenda kwa Mkemia Mkuu wa Serikali kuthibitisha kwamba ile kweli ni dawa ya kulevya au sio dawa ya kulevya. Kinachoshangaza ni kwamba jibu linakuja kwamba ilikuwa ni glucose. Sasa mimi nitabebaje glucose kwenye mabegi yangu nianze kuuza halafu ninakamatwa naambiwa kwamba nauza dawa za kulevya. Mimi naona kwamba mfumo wote wa kufuatilia kesi za dawa za kulevya na ushahidi ufanyiwe tena udhibiti upya tuangalie kwamba</seg>
+          <seg xml:id="seg457">anapokamatwa culprit kwamba ana Cocaine, Mandrax au Marijuana basi ithibitishwe kwa uangalifu. Mimi nashangaa wakati mwingine Marijuana inaambiwa kwamba ni mboga, mboga ya nani sasa. Inapelekwa inarudi inaambiwa kwamba ile ilikuwa ni mboga, alikuwa amebeba ya kukaushwa, nashangaa ni biashara ya mboga za kukausha imeanza lini Tanzania. Lakini kinachosikitiza ni Cocaine.</seg>
+          <seg xml:id="seg458">Mheshimiwa Naibu Spika, Cocaine imeharibu watoto wetu wengi lakini wale watuhumiwa wengi wanaouza Cocaine mpaka leo hii ukiangalia kesi ambazo ushahidi unarudi unathibitisha kwamba ilikuwa ni dawa za kulevya kwa kweli ni chache. Sasa suala linakuja tatizo liko wapi. Naomba Serikali, Wizara inayohusika especially ya Usalama wa Raia wale ambao wanachukua samples kupeleka je, kuna njia ambayo inaweza ikachukuliwa ile sample ikawekwa mahali pengine au ikadhibitiwa au ikachunguzwa na independent investigator. Tuseme kwamba labda ipelekwe Muhimbili pamoja na kupelekwa kwa Mkemia Mkuu wa Serikali au pale ambapo inachukuliwa basi DC anayehusika na yeye abakie na sample inaporudi kwamba imekuwa glucose basi ya yeye aichukue na yeye apeleke mahali pengine ili tuweze tukadhibiti huu mtandao. Lakini mimi naomba kusema kwamba wengi wao wanalindwa kwa sababu ushahidi unaharibiwa katika process ya kupeleka kwenye kupimwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u150" who="MheDrLucySNkya">
+          <seg xml:id="seg459">Mheshimiwa Naibu Spika, ningependa pia tuangalie suala la Marijuana. Suala hili imekuwa ni problem kwa sababu zaidi wanaokamatwa ni small peddlers. Unamkuta Mmachinga au kijana amechukua misokoto miwili au mitatu anakamatwa. Lakini ningependa kusema kwamba hili swali kama tunataka tulivalie njuga kweli hii bangi inaoteshwa katika vijiji vyetu. Sasa Serikali iangalie namna ya kuweza kuhamasisha viongozi katika ngazi za vijiji waweze kujua kwamba bangi ni zao linaloonekana namna gani na kuhamasisha wananchi waweze kutoa ripoti kwa Wenyeviti wao wa mitaa au vijiji ili tuweze tukafuatilia hayo mashamba makubwa ambayo mpaka sasa hivi yamejificha na hayo mashamba makubwa hayawezi yakalimwa na Wamachinga tu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u151" who="MheDrLucySNkya">
+          <seg xml:id="seg460">Hayo mashamba makubwa hayawezi yakalimwa na Mmachinga tu, Mmachinga analima kidogo kidogo kwenye mabonde ya kuotesha nyanya. Lakini wenye mashamba makubwa wapo na wanavijiji wanawajua, lakini kwa sababu wanavijiji hawajapewa ile nguvu ya hoja ya kuweza kuzungumza na ulinzi basi tunakuwa kwamba kama tunagusagusa tu the tip of the ice berg lakini the biggest ice iko chini ya bahari.</seg>
+          <seg xml:id="seg461">Kwa hiyo, hili suala mimi nafikiri mtazamo wake uangaliwe upya na tuone kwamba tunahamasishaje wananchi ili waweze wakahusika kwa sababu wanaoharibika ni watoto wetu sisi wote wa Mwenyekiti wa Kijiji, wa Waziri hata wa kwangu mimi Dr. Lucy Nkya anaweza akaharibika. Lakini kwa sababu hatujagusa bado chanzo na yale mashamba makubwa tatizo litaendelea kuwepo kwa sababu bangi ndiyo dawa za kulevya ambayo kila mtu anaweza akainunua. Mtoto wa shule, anaweza akainunua pia.</seg>
+          <seg xml:id="seg462">Mheshimiwa Naibu Spika, tuangalie sasa suala la watoto wa mitaani. Mimi naweza kusema kuwepo kwa watoto wa mitaani bado kutaendelea kuchochea biashara kwa sababu ndio wanaotumika katika kuuza na kutumia dawa za kulevya. Sasa</seg>
+          <seg xml:id="seg463">tusipoliangalia kama tatizo la Kitaifa tukawaachia hawa watoto wa mitaani kwa ma- NGO’s waanze ku-deal nao naomba kwamba tuangalie hawa watoto kama ni kuwatoa tuwatoke kule mitaani tuwapeleke shule na tuwarudishe makwao liwe ni intervention ya makusudi kabisa ya Kitaifa kwa sababu kuwepo kwa watoto wanaomangamanga mitaani imekuwa kama mhimili mmojawapo wa kusaidia kuwepo kwa biashara ya madawa ya kulevya.</seg>
+          <seg xml:id="seg464">Mheshimiwa Naibu Spika, mimi naomba tu nimalize kwa kusema kwamba naomba Sheria ya Makosa ya Kujamiiana iangalie upya mkakati wa kudhibiti dawa za kulevya, uangalie upya pamoja na kufuatilia vipimo kwa ajili ya zile exhibit ambavyo zitasaidia anayeendesha kesi aweze akatoa hukumu inayostahili.</seg>
+          <seg xml:id="seg465">Mheshimiwa Naibu Spika, baada ya kuzungumza hayo naomba kusema kwamba ninaunga mkono hoja asilimia mia moja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u152" who="MheWilliamHShellukindo">
+          <seg xml:id="seg466">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa nafasi hii ili na mimi nitoe mchango wangu kidogo kuhusu Muswada wa Kurekebisha Sheria Mbalimbali wa mwaka 2006.</seg>
+          <seg xml:id="seg467">Mheshimiwa Naibu Spika, napenda kumshukuru sana Mwanasheria Mkuu wa Serikali, Mheshimiwa Johnson Mwanyika kwa kuleta marekebisho ya sheria hizi sita ili ziende na wakati. Nadhani hii ndiyo kazi yake kubwa katika sheria ambazo ziko tayari. Sasa nadhani si sheria hizi tu, ziko sheria nyingi ambazo zinahitaji marekebisho. Nadhani kuna wakati hapa tulishauri kwamba Serikali ingekuwa na mpango wa kuziangalia sheria hizi kwa mfano katika kipindi hiki cha mwaka huu wa fedha 2006/2007 ni sheria zipi ambazo zina haja ya kuzitazama na ziwekewe umuhimu au kwa upande mwingine kuweka Legislative Programme ambayo itasaidia hata sisi Wabunge kujiandaa na kufanya utafiti kuhusu sheria hizi ambazo zimewekwa katika mpango wa kushughulikiwa katika mwaka huu wa fedha.</seg>
+          <seg xml:id="seg468">Mheshimiwa Naibu Spika, mimi napenda kuunga mkono kabisa marekebisho haya ambayo yameletwa mbele ya Bunge lako Tukufu. Nina maeneo matatu tu ya kuchangia. Moja ni hili linalohusu Tume ya Haki za Binadamu na Utawala Bora wa kuweka utaratibu wa Tume kuwasilisha taarifa zake na maamuzi yake au mapendekezo yake kwenye Serikali ya Mapinduzi ya Zanzibar.</seg>
+          <seg xml:id="seg469">Mimi nadhani jambo hili ni muhimu sana na pengine sio sheria hii tu ambayo haina utaratibu. Mimi nadhani ingekuwa ni utaratibu kwamba tusifikie kwenye kutamka kwamba sheria hii itahusu Zanzibar vile vile. Inabidi kuweka utaratibu kwa sababu tuna Serikali mbili sasa kama hakuna utaratibu utakuta sheria ipo lakini hakuna utaratibu wa kuitekeleza. Nadhani hizi ndiyo baadhi ya kero za kisheria ambazo zinachanganya wananchi.</seg>
+          <seg xml:id="seg470">Mimi nakubaliana kabisa kwamba hili ni muhimu na sitakwenda zaidi kuzungumzia sheria kwa sababu hatuzungumzii utekelezaji wake isipokuwa kuweka</seg>
+          <seg xml:id="seg471">utaratibu wa kushughulikia ndio hasa la msingi kuhusu marekebisho ambayo ameyaleta Mwanasheria Mkuu katika Sheria ya Sura namba 361.</seg>
+          <seg xml:id="seg472">Eneo la pili ni kuhusu kuweka kanuni za kushughulikia mienendo ya Vyama vya Siasa. Hii ni muhimu sana na tuna uzoefu sasa katika Vyama Vingi kuna mambo mengi sana yanatokea na yanafanywa hata watu wanauliza hivi huyu anayofanya haya Serikali haimuoni. Kwa hiyo, hata wananchi wanaunga mkono kwamba kungekuwepo na kanuni za kushughulikia mienendo ya Vyama vya Siasa. Sasa hapa kidogo ninakuwa na wasi wasi. Nadhani kuna wengine humu wamesema kuna kanuni zimetengenezwa of a code of conduct, code hizi zitatengenezwa vipi na mtu mwingine. Yule ambaye anashughulikia ile sheria ndiyo anayeziweka hizo. Sasa huwezi kuchukua aliyeziandaa mtu mwingine ukasema hizi basi ndiyo zitumike, hapana, lakini mchango unahitajika tunakubali. Tushirikiane vyama vyote vilete maoni kama kuna mawazo yaliyotolewa na Serikali yatolewe halafu yasambazwe watoe maoni baadaye Serikali iyapitie na kusema tunadhani haya yanaweza kusaidia kujenga kanuni nzuri na namna ya kudhibiti na haswa sio kudhibiti lakini nadhani itafika wakati kudhibiti watu wengine wanajizungumzia mambo hata unashangaa hivi huyu mtu anazungumza ana akili timamu.</seg>
+          <seg xml:id="seg473">Jana niliona kipindi je, tutafika nadhani wengine mmekiona ambacho kinaendeshwa na mwandishi mmoja wa siku nyingi sana Makwaia wa Kuhenga nimekipenda sana kile kipindi kwa sababu Makwaia alikuwa anauliza maswali mengine ya kumrekebisha mtu tukasema hizo kanuni basi zingezingatia masuala haya, mtu kuamka tu kujizungumzia. Katiba iko lakini utakuta mtu anajizungumzia tu mambo ambayo yanakwenda kinyume na Katiba, je anashughulikiwa vipi?</seg>
+          <seg xml:id="seg474">Kwa hiyo, kanuni hizo nadhani zitatusaidia kuweka sawa mienendo ya vyama vyetu vya siasa. Tunapozungumza, hatuzungumziii Vyama vya Upinzani tunazungumzia Vyama vya Siasa, ikiwa ni pamoja na chama changu mimi. Kwa hiyo, isije ikaonekana kwamba tunaweka kanuni za kudhibiti Vyama vya Upinzani, hapana. Tunaweka kanuni za kuongoza mienendo ya Vyama vya Siasa pamoja na Chama Tawala. Kwa hiyo, iwe wazi hiyo na nadhani sisi wote tushirikiane ili kanuni hizo ziwe nzuri sana na zituwekee taratibu hizo za kuweza kushiriki vizuri katika michakato ya kisiasa.</seg>
+          <seg xml:id="seg475">Mheshimiwa Naibu Spika, sheria nyingine hii Sheria ya Uchaguzi sura ya 343. Mimi nadhani Serikali imefanya jambo zuri sana. Wananchi wakishachagua kiongozi wao halafu anaondoka kwa sababu mbalimbali nadhani ni vizuri kuwe na muda mfupi ambao unawafanya kuwa na wasiwasi na kurudi nyuma katika mipango yao ambayo wameiweka. Kwa hiyo, mimi naunga mkono kabisa utaratibu huu wa kuweka muda maalum siku 25 na si zaidi ya siku 50.</seg>
+          <seg xml:id="seg476">Nadhani ni jambo muhimu sana na haya ndiyo mambo ambayo nadhani Mwanasheria wetu Mkuu angeyatizama sana kwa sheria nyingine zilizopo kama zinachelewesha kutoa haki na kuchelewesha maendeleo ya wananchi basi ziletwe mbele ya Bunge ziweze kurekebisha. Kama ulivyosema tunahitaji kwa kweli tuwe na mpango wa kuangalia sheria hizi tusikae tu mpaka litokee tatizo ndiyo tulete marekebisho. Sheria hizi lazima ziende na wakati ziwe dynamic, hakuna sheria ambayo iko kamili kuanzia</seg>
+          <seg xml:id="seg477">siku unayoitumia siku ile tayari kesho inaweza kuwa na mabadiliko na tusiogope kufanya hayo mabadiliko kwa sababu ndiyo kazi ya Bunge letu kutunga sheria ambazo zinakwenda na wakati na zinapunguza kero kwa wananchi.</seg>
+          <seg xml:id="seg478">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi hii, napenda kusema tena kwamba naunga mkono marekebisho yote haya ambayo yameletwa na Serikali pamoja na yale ya Kamati ya katiba, Sheria na Utawala. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u153" who="NaibuSpika">
+          <seg xml:id="seg479">Ahsante, sasa nitaomba nimpe nafasi Mheshimiwa Kabuzi Rwilomba, atafuatiwa na Mheshimiwa Abubakar Khamis Bakar ndiyo msemaji wa mwisho kama hakuna maombi zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u154" who="MheKabuziFRwilomba">
+          <seg xml:id="seg480">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi niweze kuzungumza angalau machache kuhusiana na hoja iliyo mbele yetu. Nianze na kuwapongeza ndugu zetu waliopata madaraka mapya katika mabadiliko yaliyojitokeza juzi, nawapa hongera na Mungu awasaidie wazidi kupata nguvu katika kazi mpya waliyopewa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u155" who="MheKabuziFRwilomba">
+          <seg xml:id="seg481">Nimshukuru Mheshimiwa Mwanasheria Mkuu wa Serikali kwa kuliona hili na kuleta mabadiliko katika sheria mbalimbali. Katika sheria inayozungumziwa hii ya kipengele cha dawa za kulevya na ubakaji. Suala hili la dawa za kulevya na ubakaji lina unyeti na ni zito na katika kipengele cha dawa ya kulevya mimi nashauri ni kwamba kesi hizi za dawa za kulevya kwa upande wangu ningekubaliana na wasemaji waliotangulia ni vema ziwekwe wazi ili watu wajifunze. Lakini katika suala la ubakaji na kuwa na wasi wasi kama litawekwa wazi inawezekana kwa sababu ya ubinadamu tukawa tunakosa ushahidi kwa sababu matokeo ni mengi mbele ya watu wakifahamu kwamba huyu amefanyiwa kitendo hiki na akafikia hatua hii. Wengine wanaweza kuwa maisha yao yakawa sio mazuri, wengine wanaweza wakawa hawawezi kuolewa na wengine wakawa hawathamini tena. Nadhani kuna haja ya kuliangalia upya kwamba ni kweli lisikilizwe katika uficho wa aina fulani kuweza kulinda heshima ya binadamu.</seg>
+          <seg xml:id="seg482">Mheshimiwa Naibu Spika, mimi nilipokuwa namsikiliza Mwanasheria Mkuu nilitarajia vile vile kwamba sheria zingine nadhani zinahitaji zifanyiwe uharaka zaidi kama alivyosema Mheshimiwa William Shellukindo. Namwomba sasa Mheshimiwa Mwanasheria Mkuu aangalie Sheria ya Madini. Rais amezungumza kwamba tuangalie sheria na mikataba. Lakini tatizo kubwa sana katika sheria, Sheria ya Madini ina tatizo kubwa sana. Naomba vipengele vianze kuangaliwa, inaleta migogoro katika nchi. Kumekuwa na matatizo mengi sana katika nchi, mfano mkubwa ni katika jimbo langu. Sheria ya Madini imempa mwekezaji mkubwa nafasi kubwa sana na anaitumia nafasi hiyo kumnyanyasa mwananchi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u156" who="MheKabuziFRwilomba">
+          <seg xml:id="seg483">Nitatoa mfano wa East African Mines ambayo sasa imebadilika kuwa Amgold hilo ni jina la tatu tangu imeingia. Imechukua karibu sehemu kubwa sana ya Wilaya ya Geita na inawazuia wachimbaji wadogo wadogo kufanya shughuli zao wakati anafanya exploration bado anafanya uchunguzi. Sasa sheria hii inawanyima nafasi ya wachimbaji wadogo kuweza kuchimba hata kama hafanyii kazi eneo hilo. Matokeo ni kwamba sasa</seg>
+          <seg xml:id="seg484">wachimbaji wadogo na wananchi wamekuwa maeneo wamekasirika kiasi ambacho sasa wanachukua sheria mkononi.</seg>
+          <seg xml:id="seg485">Tarehe 13 Oktoba, 2006 mlisikia jinsi walivyovamia maeneo kuanza kuvamia vituo vya polisi kuwashambulia wale walinzi kwa sababu kuna sehemu ya ardhi gold zilijitokeza sasa wakaona hazina kazi wakazuiliwa kuchimba. Lakini wale walinzi wa East African Mine wakaenda kuchimba usiku wakaona wao wananyimwa haki. Sasa hebu iangalieni sheria hii anachukua eneo kubwa sheria inayomhusu arudishe eneo lakini anakuwa anabadilisha majina anaendelea. Sasa hivi miaka kumi wananchi wamekaa.</seg>
+          <seg xml:id="seg486">Ningeomba Mheshimiwa Mwanasheria Mkuu hebu jaribu kuziangalia hizi sheria vile vile ni namna gani utawasaidia wachimbaji wadogo na wananchi wanaokaa pale. Kwa sababu hata kuchimba choo inabidi apimiwe kwamba umefika hapa imetosha. Kuchimba kisima ukifika mita 10 unaambiwa imetosha. Sasa naomba hii sheria iangaliwe. Sheria hii haimtaji DC mahali popote, ila anakwenda kupambana na migogoro wakati haimhusishi wala Halmashauri.</seg>
+          <seg xml:id="seg487">Juzi tarehe 30 Oktoba, 2006 kwa sababu ya hasira …</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u157" who="NaibuSpika">
+          <seg xml:id="seg488">Mheshimiwa Mbunge sasa ukisema sheria hii wakati haimo inakuwa ngumu. Nadhani ombi lako kubwa unalosema tuangalie hizi zingine zina utata bado. Kwa sababu tunayozungumzia ni ile iliyowasilishwa kwetu. Sasa nadhani hiyo coperative sentence ilikuwa inatosha. Lakini ukiendelea kwamba sheria hii haimo humu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u158" who="MheKabuziFRwilomba">
+          <seg xml:id="seg489">Sawa, Mheshimiwa Naibu Spika, nakubaliana na hilo lakini ombi limefika naomba niendelee. Ombi langu ni kwamba aiangalie Sheria ya Madini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u159" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg490">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi hii na mimi nizungumzie kidogo marekebisho ya Muswada huu ambao umeletwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u160" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg491">Mheshimiwa Naibu Spika, kwanza napenda nimshukuru Mwanasheria Mkuu wa Serikali kwa kuleta Muswada huu ambao kwa kweli lengo lake ni zuri. Katika marekebisho haya sina matatizo sana na sheria nyingine isipokuwa mazungumzo yangu mimi yatakuwa katika sheria mbili. Sheria ya kwanza ni marekebisho yale ya A Criminal Procedure Act ambayo ina matatizo. Katika marekebisho haya kuna mambo ya sexual offences pamoja na mambo ya dawa za kulevya. Mimi sina tatizo sana la sexual offences kusema kwamba zisikilizwe in camera, lakini ninachosema mimi ni kwamba katika hizi sexual offences ziko sexual offences nyingine ambazo nahisi haziwezi kusikilizwa in camera. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u161" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg492">Kwa mfano unapozungumzia sexual offences ambazo wanafanyiwa watoto hiyo nakubali kwamba zisikilizwe. Unapozungumzia na sexual offences ambazo zinahusiana na mambo ya kubaka ninakubali kwamba hizi zisikilizwe in camera. Lakini kuna sexual offences nyingine kwa mfano watu wazima wa jinsia moja wanakubaliana halafu wanakamatwa wanapelekwa Mahakamani sioni sababu zisikilizwe in camera kwa sababu</seg>
+          <seg xml:id="seg493">hawa already wameshakuwa ni wanyama na hawana tena ile mentality ya binadamu. Sasa unaposikiliza katika open court mimi nahisi hiyo itakuwa ni moja katika adhabu zao ambazo wangelipaswa wapewe. Kwa hiyo, mimi sikubaliani kwa kifungu hiki kwamba ni general kwamba sexual offences zote zisikilizwe in camera. Mimi ningemwomba Mwanasheria Mkuu, sexual offences azigawe kuna zile sexual offences ambazo zinaweza zikasikilizwa in camera lakini kuna sexual offences nyingine ambazo kwa kweli sikubaliani hata kidogo kwamba zisikilizwe in camera na mifano ambayo nimeitoa inayo involve watu wazima ambao wanajua mimi ndiyo nafanya ni kosa na bado wakaendelea kufanya makosa hayo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u162" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg494">Mimi sikubaliani na kifungu hiki cha mabadiliko hayo mpaka pale ambapo kitabadilishwa na kuweza ku-define sexual offences zipi ambazo zitasikilizwa in camera, hiyo ni ya kwanza, lakini ya pili ni suala zima la dawa za kulevya. Dawa ya kulevya nazo zina matatizo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u163" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg495">Kwa sababu unapotunga Sheria hata kama Sheria hii imeanzishwa na Serikali ikapitia katika mikondo yake lakini finally Sheria zote zinazotungwa ni Bunge ndiLo ambalo linabeba lawama au jukumu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u164" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg496">Siku zote tunatizama intention ya Parliament ni nini. Sasa je, intention ya Bunge letu hili Tukufu ni kuwahifadhi hawa watu ambao wanahusiana na madawa ya kulevya. Kwa sababu unapofanya au unapozishughulikia kesi hizi in camera ina maana kwamba wale watu ambao wanahusiana na madawa ya kulevya basi unawaambia kwamba wanaweza wakafanya na kwa sababu kesi zao zote zitakwenda in camera basi wanaweza wakapata ahuane ambayo nahisi ina matatizo.</seg>
+          <seg xml:id="seg497">Mheshimiwa Naibu Spika, siku zote tujue kwamba katika camera basi lazima kuna tundu ambalo light itapita na light ikipita basi picha hupati sahihi, na ndiyo maana kesi nyingi in camera husikii matokeo yake. Mara utasikia kwamba kesi imeahirishwa au imefutwa hujui sababu zake. Sasa hii nahisi ni kuhalalisha kwa maksudi watu kufanya au kuendelea na madawa ya kulevya kwa kisingizio kidogo cha kusema kwamba kesi zao zisilikilizwe in camera. Mimi sikubaliani na wazo hili madawa ya kulevya kesi zisikilizwe in camera.</seg>
+          <seg xml:id="seg498">Mheshimiwa Naibu Spika, suala langu la pili ni katika Sheria hii ya The Commission for Human Rights and Good Governance Act. Lengo la kuundwa Commission hii ni kuwasaidia wananchi wetu katika shughuli zao za kawaida. Sasa mimi nitazungumzia kidogo suala hili la tume hii kwa haya mambo ambayo yanahusiana na Zanzibar. Unaposema kwamba unapeleka matokeo ya uchunguzi kwa Appropriate Authority in Zanzibar na halafu Appropriate Authority hii in Zanzibar wakae waijadili na baadaye wairudishe tena katika Commission hii mimi nafikiri hapo hutendi haki. Kwa sababu kwanza, katika kifungu cha pili ukurasa wa 72, kuna matatizo. Naomba niyasome.</seg>
+          <seg xml:id="seg499">Anasema: „The Minister responsible for Human Rights and Good Governance of the Revolutionary Government of Zanzibar shall soon after receiving the report as provided for,” halafu anaendelea hapo. Lakini katika ripoti hii katika kifungu cha tatu</seg>
+          <seg xml:id="seg500">anasema kwamba „The Appropriate Authority concerned in Zanzibar shall with in such time not exceeding three months from the date of report or as the Minister responsible for Human Rights and Good Governance of the Revolutionary of Zanzibar may prescribe.” Sasa hapa ndiyo kuna tatizo maana umeweka miezi mitatu lakini halafu unampa uwezo Waziri anayehusiana na good governance kwa kutizama wakati ambao anaweza yeye mwenyewe akasema. Kwa hivyo wakati huu unaweza ukawa mwaka mmoja au miezi sita, au unaweza ukawa kipindi chochote ambacho hakikuzungumzwa humu. Sasa wewe unapodhalilishwa ukapeleka maombi yako katika Tume ya Haki za Binadamu baadaye ikaenda katika Appropriate Authority in Zanzibar. Appropriate Authority in Zanzibar wakakaa miezi mitatu ikapita, lakini Waziri anayehusika aka-extend time ya kupeleka ripoti hiyo. Kwa hiyo huyu mtu unamnyanyasa zaidi katika matendo ambayo ameshafanyiwa na Serikali. hilo la kwanza.</seg>
+          <seg xml:id="seg501">Mheshimiwa Naibu Spika, la pili ni kwamba ikiwa hapa complainant anazungumzia udhalilishaji ambao amefanyiwa na Authority yoyote vyombo vya Serikali halafu uchunguzi au matokeo ya uchunguzi hayo unayapeleka tena kwa chombo kile kile ili wa-comment katika uchunguzi huo ambao umefanywa na Commission ya Human Rights. Mimi nafikiri hapa kuna matatizo. Wazo langu mimi ni kwamba kwanini hatufuati mkondo ule ule wa Commission inavyofanyakazi Tanzania Bara?</seg>
+          <seg xml:id="seg502">Kwa sababu unapopeleka malalamiko halafu wao wanaendelea na uchunguzi wao na halafu wana-recommend hatua za kufanywa na kum-address na mtu ambaye amepata matatizo hayo. Lakini unapopeleka mkondo mwingine kabisa kwa Serikali ya Mapinduzi ya Zanzibar (a) inachukua muda mkubwa na (b) hujui watasema nini katika ripoti ambayo imepelekwa. Unaweza ukapeleka ripoti ikawa kwamba mwananchi yule ameonewa kweli lakini wanapoirejesha kwa Commission ya Human Rights na wakatoa mapendekezo mengine kwa hiyo hiyo haitamsaidia mwananchi ambaye amepeleka ripoti ile.</seg>
+          <seg xml:id="seg503">Mheshimiwa Naibu Spika, ninachokisema ni kwamba kifungu hiki kwa kweli hakimsaidii mwananchi hasa wa Zanzibar katika kupeleka malalamiko yake kwa hii Commission ya Human Rights. Kwa kweli kinachofanywa ni kutaka kuisafisha Serikali au vyombo vinavyohusika kwa kuwapa wao ripoti kuisoma na kuirudisha tena katika Commission ya Human Rights ambapo inaweza ikawa ni matatizo kwa mwananchi yule. Kwa hiyo ninachosema ni kwamba mimi nahisi kuna marekebisho ambayo ni lazima yafanywe katika vifungu hivi ili kuwaisaidia wananchi katika ripoti zao au katika udhalilishaji wao unaofanywa na wananchi.</seg>
+          <seg xml:id="seg504">Mheshimiwa Naibu Spika, baada ya hayo mimi nasema kwamba muswada huu sioni haja ya kuunga mkono ikiwa mambo haya mawili hayakurekebishwa kwa mujibu wa haya marekebisho ambayo nimeyapendekeza. Nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u165" who="MheGeorgeBSimbachawene">
+          <seg xml:id="seg505">Mheshimiwa Naibu Spika, nikushukuru kwa kunipa nafasi hii ili na mimi niweze mchango wangu kidogo juu ya Muswada huu wa marekebisho na Sheria mbalimbali kama ulivyoletwa na Mwanasheria Mkuu. Mimi langu ni dogo tu juu ya ile Sheria ya The Criminal Procedure Act namna ya</seg>
+          <seg xml:id="seg506">kuendesha kesi za jinai ile Cap. 20. Nimesikia michango ya wenzangu na ninazingatia michango hiyo. Lakini labda tujiulize kwanini Sheria hii inakuja?</seg>
+          <seg xml:id="seg507">Mheshimiwa Naibu Spika, Sheria hii inakuja, marekebisho haya yanahitajika sasa baada ya Serikali kuona namna ya ugumu inaoupata katika kuendesha kesi hizi za makosa ya madawa ya kulevya na makosa ya sexual offences. Ugumu huu unapatikana hasa katika namna ya ushahidi na ndiyo maana Sheria hii inatakiwa kufanyiwa marekebisho na ndiyo maana Mwanasheria Mkuu analeta kifungu hiki kwamba angalau isikilizwe in camera.</seg>
+          <seg xml:id="seg508">Lakini ni vizuri tungefahamu tuna maana gani tunaposema kesi isikilizwe in camera, lakini marekebisho haya pia yanazingatia uwepo wa Sheria nyingine unaompa Mamlaka Jaji au Hakimu kuamua kwamba kesi hii inafaa isikilizwe kwenye camera yaani kwenye usiri au hadharani. Najua hilo Mwanasheria Mkuu analifahamu. Ameleta Sheria hii ili tuweze kumsaidia kumtengenezea Sheria nyingine itakayofanya irahisishe kazi yake ili tuweze kupambana vizuri na makosa haya. Sasa isitafsiriwe kwamba anaileta ili kwa ajili ya kusaidia kuficha au kuharibu mapambano mazima ya makosa haya. Hiyo ndiyo nimeona angalau kama inatizamwa zaidi lakini hatutizami ugumu anaoupata katika kuendesha kesi za namna hii.</seg>
+          <seg xml:id="seg509">Mheshimiwa Naibu Spika, ukikisoma vizuri hiki kifungu ambacho kinahitajika kufanyiwa marekebisho na ukakipa tafsiri za kisheria maana kisheria tuna tafsiri mbalimbali, tuna kanuni za kutafsiri Sheria tunaziita principles of statutory interpretation. Ukiweka hapa ile the strict rule of statutory interpretation unaona nia ya hapa ni nzuri kabisa na inasema kabisa kwamba naomba ninukuu: „Notwithstanding the provisions of any other written law. The evidence of all persons in all trials involving sexual offences narcotic drugs or psychotropic substances shall be conducted in camera and the evidence and the witness involved in this proceeding shall not be published in any newspaper or other media.”</seg>
+          <seg xml:id="seg510">Nia hapa ni nzuri na mimi nilipenda nishawishi tukubaliane kwamba ni vizuri kesi hii ikaendeshwa in camera kwa sababu nia hapa si kuitangaza kesi, kesi itakuwepo na itasemwa kuna kesi baina ya fulani na Jamhuri lakini tunaposikiliza ushaidi kwa ajili ya maslahi ya kupata ushahidi mzuri ili tuweze kumtia hatiani huyu mtu anayehusika baadhi ya ushahidi unaharibika kwa sababu ya kusikiliza hadharani.</seg>
+          <seg xml:id="seg511">Kweli ipo Sheria ya kulazimisha mtu kutoa ushahidi lakini kama unamlazimisha mtu kutoa ushahidi wakati hayuko tayari kutoa ushahidi nina hakika hawezi kutoa ushahidi mzuri. Limit yako itakuwa ni kumlazimisha atoe ushahidi lakini hawezi kutoa ushirikiano mzuri kwa sababu kesi hizi hasa hii ya madawa ya kulevya inahusisha zaidi na kundi kubwa na ni kundi ambalo liko so strategic; mtandao huu ni mtandao ambao kwa kweli ukifanya masihara hata uhai wako unakuwa mashakani, na mimi nadhani ndiyo hasa Serikali imeona hapa ilete Sheria hii ili angalau kuwe kuna sababu ya kusikiliza kesi hizi kwa usiri na ninaamini imesema bila kujali Sheria zilizopo kwa maana ya kwamba si lazima zote zikasikilizwa hivyo itakuwa hivyo pale ambapo itakuwa inapaswa kesi hiyo iwe hivyo.</seg>
+          <seg xml:id="seg512">Lakini tuangalie zaidi hasa katika kesi za makosa ya kujamiiana. Nia ya kusema kesi isikilizwe kwa usiri kwanza ni ili kutokuharibu heshima ya mtu. Unapomchukua binti mdogo leo hii ukamweka hadharani ukasema huyu. Ni kweli una nia ya kumtia hatiani aliyefanya kosa hilo. Lakini je, ile the personal of huyo mtoto ambaye amebakwa lazima itakuwa harmed na hivyo heshima yake kwa jamii itapungua. Lakini unapochukulia kwa makosa ya madawa ya kulevya hapa tunachokihitaji ni ushahidi uweze kuwa na value.</seg>
+          <seg xml:id="seg513">Ushahidi unaosaidia ili tuweze kumtia hatiani muhusika. Tutaupataje, ni pale ambapo hawa wanaotakiwa kutoa huu ushahidi watakuwa wako guaranteed na usalama wao. Sheria hii inashawishi hao watoa ushahidi waweze kuwa na uhakika kwa sababu watatoa in camera na hii ndiyo incense ya Sheria hii.</seg>
+          <seg xml:id="seg514">Mheshimiwa Naibu Spika, binafsi mchango wangu napenda kuutoa katika eneo hili nikiona nia nzuri kabisa ya Sheria hii na isichukuliwe na wenzetu kwamba ni kwa sababu ya kutaka kuwaficha hapana ni kwa sababu ya nia nzuri ya kutaka kuwaumbua ili tuweze kupata ushahidi wenye value ushahidi ambao utasababisha waweze kutiwa hatiani. Kwa sababu in camera yenyewe siyo maana yake watu wengine wanakuwa hawapo, si maana yake anabakia hakimu na anayetoa ushahidi tu.</seg>
+          <seg xml:id="seg515">Kwa hiyo mimi nasema kwamba ni vizuri tukaikubali hii Sheria ikaenda kama ilivyo kwa madhumuni ya kupata ushahidi mzuri na siyo kwa madhumuni ya Hakimu kupata mamlaka na madaraka ya kuamua atakavyo kwa sababu amepewa kesi hiyo isikilizwe kwa usiri.</seg>
+          <seg xml:id="seg516">Mheshimiwa Naibu Spika, baada ya kusema hayo napenda kuunga mkono mabadiliko ya Sheria hii yaende kama yalivyoandikwa hapa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u166" who="NaibuSpika">
+          <seg xml:id="seg517">Kama nilivyosema wachangiaji walikuwa wachache lakini bado muswada huu ni wa siku nzima ya leo kwa hiyo kama wengine watajitokeza mchana tutaendelea. Vinginevyo tutamtaka Mwanasheria Mkuu kuanza kujibu hoja zilizotolewa. Wakati wa majadiliano wanasema hawakubaliani na kifungu hiki ama vinginevyo. Sasa tuko kazini sasa tunatunga sheria si suala la kwamba unakubaliana ama hukubaliani. Soma kifungu cha 72 cha Kanuni zetu kifungu kidogo cha (iii) na (iv) ambavyo vinasema:</seg>
+          <seg xml:id="seg518">(iii) Kamati ya Bunge zima itajadili na kupitisha au kufanya mabadiliko na kupitisha Muswada ibara moja baada ya nyingine isipokuwa kwamba Mwenyekiti, akiona inafaa aweze kuihoji Kamati itoe uamuzi wake kwa kundi moja lenye ibara kadhaa au ibara zote zilizomo katika sehemu moja ya Muswada.</seg>
+          <seg xml:id="seg519">(iv) Mabadiliko yote yaliyopendekezwa na Waziri ili yafanywe katika muswada wakati unaposomwa mara ya pili pamoja na mabadiliko yoyote yaliyopendekezwa na Waziri na Mjumbe yoyote wakati wa majadiliano ya hoja yatajadiliwa na kupitishwa au</seg>
+          <seg xml:id="seg520">kukataliwa au yatajadiliwa, yatabadilishwa na kupitishwa na Kamati ya Bunge Zima. Katika hatua kwa kufuata utaratibu uliowekwa na Kanuni hizi kwa ajili ya shughuli hii.</seg>
+          <seg xml:id="seg521">Sasa ninachosema ni kwamba kama wewe hukubali, hivi ndivyo vifungu viwili vya kufanya. Tukipitisha sisi hapa wote hakuna mtu anayesema mimi sikukubali mswada huu tutakuwa tumekubali wote. Hivyo hivyo hata mabadiliko yaliyoletwa na Waziri haya tunapopitisha tunasema tunapitisha kifungu fulani pamoja na mabadiliko yaliyoletwa na Serikali. Kwa hiyo, tukiyapitisha hapa huwezi kusema hukubaliani na kifungu kile haita kusaidia.</seg>
+          <seg xml:id="seg522">Kwa hiyo, tufanye kazi ya kutunga Sheria na ndiyo kazi ilivyopo hapa. Kwa hiyo kama hukubaliani leta hoja hapa wote tutajadili tukikubaliana na wewe tutakubali, tukikataa basi tunakataa wote. Kwa hiyo, nilifikiri tusione kama ni hoja ya Bajeti hii ni hoja ya kutunga Sheria.</seg>
+          <seg xml:id="seg523">Kwa hiyo, kama yule anayefikiri seriously suala hili ni gumu basi anatumia kifungu hiki na tutajadili hoja yake na tutapitisha au tutakataa kutegemea wengi wanasemaje. Tukikubali maana yake tumepitisha Sheria hiyo. Kwa hiyo, naomba sana wakati wa kipindi hiki ni mambo ya kuzingatia hayo.</seg>
+          <seg xml:id="seg524">Kwa hiyo, naamini wale ambao wanafikiria hivyo watachukua hatua zinazostahili vinginevyo mchana tutamwomba Mheshimiwa Mwanasheria Mkuu aweze kujibu hoja kama hakutakuwa na wengine wanaotaka kujadili.</seg>
+          <seg xml:id="seg525">Baada ya kusema hayo nasitisha shughuli za Bunge hadi saa 11.00 jioni.</seg>
+        </u>
+        <note>(Saa.06.15 Mchana Bunge lilifungwa mpaka saa 11.00 jioni)</note>
+        <note>(Saa 11.00 jioni Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u167" who="NaibuSpika">
+          <seg xml:id="seg526">Waheshimiwa Wabunge, asubuhi orodha yangu tayari ilikuwa imetimia na sijapata maombi ya mtu mwingine mpaka sasa. Kwa hiyo, nitamwita Mtoa Hoja aweze kuhitimisha au kutoa ufafanuzi kwa maswali ya Wabunge waliyouliza. Mwanasheria Mkuu!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u168" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg527">Mheshimiwa Naibu Spika, kwanza kabisa, naomba nichukue fursa hii kukushukuru wewe kwa dhati kwa kunipa fursa ya kufanya majumuisho kwa michango mbali mbali ambayo Waheshimiwa Wabunge wameitoa wakati wa kujadili Muswada wa Marekebisho ya Sheria mbali mbali.</seg>
+          <seg xml:id="seg528">Mheshimiwa Naibu Spika, nawashukuru Waheshimiwa Wabunge kwa usikivu wao pamoja na wale waliochangia na naomba kwa ruhusa yako sasa niwataje wale Waheshimiwa waliochangia hoja hii kwa majina ni: Mheshimiwa John P. Lwanji, Mbunge wa Manyoni Magharibi, Mheshimiwa Dr. Wilbroad P. Slaa, Mbunge wa Karatu, Mheshimiwa Kabuzi F. Rwilomba, Mbunge wa Busanda, Mheshimiwa Aboubakar</seg>
+          <seg xml:id="seg529">Khamis Bakary, Mbunge wa Baraza la Wawakilishi Zanzibar, Mheshimiwa John B. Simbachawene, Mbunge wa Kibakwe, Mheshimiwa William H. Shellukindo, Mbunge wa Bumbuli, Mheshimiwa Fatma Mussa Maghimbi, Mbunge wa Chake Chake na Mheshimiwa Dr. Lucy S. Nkya, Mbunge wa Viti Maalum.</seg>
+          <seg xml:id="seg530">Mheshimiwa Naibu Spika, nawashukuru sana wote kwa hekima na busara kubwa waliyoonyesha katika michango yao yote waliyoitoa. Kusema kweli nimejifunza mengi kutoka kwao. Yapo mambo ambayo wameyazungumzia ambayo nilifikiri ni vyema niyatolee ufafanuzi, nayo ni haya yafuatayo:-</seg>
+          <seg xml:id="seg531">Jambo la kwanza linahusu mchango wa Kamati ya Katiba, Sheria na Utawala. Naomba nichukue fursa hii kumshukuru Mwenyekiti wa Kamati ya Sheria na Utawala, Mheshimiwa George M. Lubeleje kwa mwongozo wake mzuri na kwa ushauri walionipatia ambao umetuwezesha kukamilisha mchakato wa kuwasilisha hoja hii Bungeni.</seg>
+          <seg xml:id="seg532">Mheshimiwa Naibu Spika, tunaamini kwamba ni wajibu wetu wote kuhakikisha kwamba tunakuwa na sheria, kanuni ambazo zinakubalika. Mashauriano wakati wa kutunga au kufanyia marekebisho sheria za nchi ni ya muhimu. Ni muhimu wakati wa majadiliano tujiridhishe kwamba sheria hizo zitatuwezesha kudumisha amani na mshikamano ambao ni muhimu katika kuleta maendeleo katika nchi. Tunapofikia muafaka, basi kila mmoja wetu mahali popote alipo aone kwamba anao wajibu wa kuhakikisha kwamba sheria za nchi zinaheshimika.</seg>
+          <seg xml:id="seg533">Mheshimiwa Naibu Spika, katiba yetu ya nchi inatutaka kila mmoja wetu atambue kwamba ana wajibu wa kufuata na kutii katiba na sheria za nchi. Aidha ni wajibu wetu kuchukua hatua zinazoruhusiwa kisheria ili kuhakikisha sheria za nchi zinahifadhiwa.</seg>
+          <seg xml:id="seg534">Mheshimiwa Naibu Spika, sasa nianze kujibu hoja mbali mbali zilizotolewa na Waheshimiwa Wabunge kwa kuanza na Mheshimiwa John P. Lwanji aliyetoa maoni kwa niaba ya Kamati. Katika maelezo yake alizungumzia sheria ya kanuni za adhabu sura ya 16, hususan makosa yanayohusu michezo ya karata tatu, kupeana fedha na Upatu. Amebaini kwamba michezo ya aina hiyo ni ya ulaghai na kuishauri Serikali idhibiti michezo hiyo.</seg>
+          <seg xml:id="seg535">Mheshimiwa Naibu Spika, Serikali imepokea ushauri huo na itaufanyia kazi. Kwa kutambua ukweli huo, ndio maana mapendekezo yaliyomo katika Muswada kuhusu eneo hili yanakusudia kuharamisha michezo yote ya aina hiyo.</seg>
+          <seg xml:id="seg536">Mheshimiwa Naibu Spika, kuhusu sheria ya mwenedo ya makosa ya jinai sura ya 20, Wabunge wengi wamezungumzia masuala yanayohusu kesi za dawa za kulevya, kesi zinazohusu ubakaji kutosikilizwa kwa faragha (In Camera). Mapendekezo hayo yameondolewa kama ilivyoainishwa katika jedwali la marekebisho ambao Waheshimiwa Wabunge wamegawiwa. Jedwali hilo limeandaliwa kwa kuzingatia maoni ya Kamati.</seg>
+          <seg xml:id="seg537">Mheshimiwa Naibu Spika, Mheshimiwa Dr. Lucy S. Nkya, amezungumzia kuhusu kuwalinda wale mashahidi kwenye kesi za makosa ya kujamiiana. Naomba nimhakikishie kwamba sheria ilivyo hivi sasa inawapa mashahidi kinga inayostahili. Fungu hilo linazungumzia kama ifuatavyo; Kwa ruhusa yako naomba ninukuu:-</seg>
+          <seg xml:id="seg538">„The place in which any court is held for the purpose of inquiring or trying any offence shall unless the contrary is expressly provided in any written law, be deemed an open court to which the public generally may have access so far as the same can conveniently contain them, save that the presiding judge or magistrate may, if he considers it necessary or expedient:-</seg>
+          <seg xml:id="seg539">(a) in interlocutory proceedings; or</seg>
+          <seg xml:id="seg540">(b) in circumstances when publicity, prejudicial to the interest of:-</seg>
+          <seg xml:id="seg541">(i) Justice, defense, public safety, public order or public morality; or</seg>
+          <seg xml:id="seg542">(ii) the welfare of persons under the age of eighteen years or the</seg>
+          <seg xml:id="seg543">protection of private lives of persons concerned in the proceedings</seg>
+          <seg xml:id="seg544">order at any stage of the inquiry or trial of any particular case that</seg>
+          <seg xml:id="seg545">persons generally or any particular person other than the parties</seg>
+          <seg xml:id="seg546">thereto or their legal representative shall not have access to or be</seg>
+          <seg xml:id="seg547">or remain in the room or building used by the court.</seg>
+          <seg xml:id="seg548">(2) Notwithstanding the provision of any other law, the evidence of all persons in</seg>
+          <seg xml:id="seg549">all trials including sexual offences shall be received in the court in camera,</seg>
+          <seg xml:id="seg550">and the evidence and witnesses involved in these proceedings shall not be</seg>
+          <seg xml:id="seg551">published by or in any newspapers or other media ……………………………”.</seg>
+          <seg xml:id="seg552">Mwisho wa kunukuu.</seg>
+          <seg xml:id="seg553">Kwa hiyo sheria ilivyo hivi sasa, inawakinga mashahidi pamoja na wale wote walioathirika na vitendo vilivyofanywa na wale walioko mbele ya mahakama. Kuhusu yale mengine yote aliyoyazungumza kuhusu sheria zingine, nadhani wahusika waliopo kwenye taasisi zinazohusiaka, wamemsikia na nina hakika watayafanyia kazi.</seg>
+          <seg xml:id="seg554">Mheshimiwa Naibu Spika, kuhusu sheria ya Vyama vya Siasa, sura ya 258, Waheshimiwa Wabunge wengi wameshauri kwamba ni vizuri Vyama vya Siasa vishirikishwe katika mchakato wa kutengeneza kanuni za maadili ya Vyama vya Siasa. Ushauri huo umezingatiwa kwa vile Waziri atatengeneza tu kanuni hizo baada ya kushauriana na Vyama vya Siasa.</seg>
+          <seg xml:id="seg555">Hata wakati wa kutengeneza kanuni za maadili ya vyama vya siasa utakapofika, maoni yaliyokwishakutolewa kwa Msajili vya Vyama vya Siasa kama yalivyobainishwa na Mheshimiwa Dr. Wilbroad P. Slaa, yatazingatiwa.</seg>
+          <seg xml:id="seg556">Mheshimiwa Naibu Spika, kuhusu Sheria ya Haki za Binadamu na Utawala Bora, sura ya 391; mapendekezo ya Tume kuhusiana na suala lililolalamikiwa kuwasilishwa kwa mamlaka husika na Waziri mwenye dhamana ya masuala ya Haki na Utawala Bora katika Serikali ya Mapinduzi Zanzibar katika muda usiozidi miezi mitatu au muda mwingine utakaoamuriwa na Waziri, Serikali imepokea ushauri wa Wabunge. Hata hivyo, hilo ni suala linalohusu Serikali nyingine ambalo linahitaji mashauriano zaidi ili kuondoa dosari hiyo.</seg>
+          <seg xml:id="seg557">Mheshimiwa Naibu Spika, kuhusu sheria ya uchaguzi sura ya 343. Serikali inapokea pongezi kuhusu uamuzi wa kurudia uchaguzi mdogo kwa kipindi cha muda mfupi usiopungua siku 20 na usiozidi siku 50.</seg>
+          <seg xml:id="seg558">Mheshimiwa Naibu Spika, Waheshimiwa Wabunge walishauri kwamba sheria nyingi zinahitaji marekebisho makubwa ya mara kwa mara ili kuondoa tatizo la wananchi kucheleweshwa haki zao. Ilipendekezwa kuwa pawe na mkakati maalum wa Legislative programme itakayopitia na kuchambua sheria mbali mbali ili kuweza kufanya marekebisho yanayohitajika. Serikali inapokea ushauri huo na itaufanyia kazi.</seg>
+          <seg xml:id="seg559">Mheshimiwa Naibu Spika, baada ya maelezo hayo, nakushukuru tena na ninaomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u169" who="WaziriWaFedha">
+          <seg xml:id="seg560">Mheshimiwa Mwenyekiti, naafiki!</seg>
+        </u>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <note>(Muswada wa Sheria ya Serikali Ulisomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u170" who="WaziriWaFedha">
+          <seg xml:id="seg561">KAMATI YA BUNGE ZIMA</seg>
+          <seg xml:id="seg562">Muswada wa Sheria ya Kufanya Marekebisho Kwenye Sheria Mbali mbali wa</seg>
+          <seg xml:id="seg563">Mwaka 2006 (The Written Laws (Miscellaneous Amendments) Bill, 2006)</seg>
+          <seg xml:id="seg564">Ibara ya 1</seg>
+          <seg xml:id="seg565">(Ibara iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge Zima bila</seg>
+          <seg xml:id="seg566">Mabadiliko yoyote)</seg>
+          <seg xml:id="seg567">Ibara ya 2</seg>
+          <seg xml:id="seg568">(Ibara iliyotajwa hapo juu Ilipitishwa na Kamati ya Bunge Zima pamoja na</seg>
+          <seg xml:id="seg569">Mabadiliko yake)</seg>
+        </u>
+        <note>(Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u171" who="WaziriWaFedha">
+          <seg xml:id="seg570">Muswada wa Sheria ya Kufanya Marekebisho Kwenye Sheria Mbali mbali wa</seg>
+          <seg xml:id="seg571">Mwaka 2006 (The Written Laws (Miscellaneous Amendments) Bill, 2006)</seg>
+        </u>
+        <note>(Kusomwa mara ya Tatu)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u172" who="MwanasheriaMkuu">
+          <seg xml:id="seg572">Mheshimiwa Naibu Spika, naomba kutoa taarifa kwamba Kamati ya Bunge Zima imefikiria Muswada huu na kuukubali pamoja na mabadiliko yaliyofanywa. Hivyo, natoa hoja kwamba Muswada wa Written Laws (Miscellaneous Amendments) Act, 2006, sasa ukubaliwe. Natoa hoja!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u173" who="WaziriWaFedha">
+          <seg xml:id="seg573">Mheshimiwa Naibu Spika, naafiki!</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u174" who="WaziriWaFedha">
+          <seg xml:id="seg574">(Muswada wa Sheria ya Serikali Ulisomwa Mara ya Tatu na</seg>
+          <seg xml:id="seg575">Kupitishwa na Bunge)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2006-11-01-bunge-05-02.u175" who="NaibuSpika">
+          <seg xml:id="seg576">Waheshimiwa Wabunge, kufuatana na Order Paper yetu, kazi ya kupitia Muswada imemalizika.</seg>
+          <seg xml:id="seg577">Kwa hiyo, tangazo ni kwamba wale Wabunge wanachama wa Chama cha Mapinduzi (CCM), tangazo la asubuhi lilikuwa wakutane baada ya kuahirisha kikao. Sijui kama bado tangazo ni lile lile au wamebadilisha! Ni vile vile. Kwa hiyo basi kama ni vile mlivyotangaziwa, mtakutana kwenye Ukumbi wa zamani wa Bunge au Ukumbi wa Pius Msekwa. Kwa hiyo, Waheshimiwa Wabunge, ninaahirisha kikao hiki cha Bunge mpaka kesho siku ya Alhamisi saa tatu asubuhi.</seg>
+          <seg xml:id="seg578">(Saa 11.17 jioni Bunge liliahirishwa Mpaka Siku ya Alhamisi,</seg>
+          <seg xml:id="seg579">Tarehe 2 Novemba, 2006 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

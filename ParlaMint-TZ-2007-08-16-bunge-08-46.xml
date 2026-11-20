@@ -1,0 +1,648 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2007-08-16) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2007-08-16) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="46">46. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="8">8. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1695300253-16 Agosti, 2007.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2007-08-16">16.08.2007</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 421. Ushirikiano wa Miji au Halmashauri zetu na za nje ya nchi</note>
+        <note>(K.n.y. MHE. DEVOTA M. LIKOKOLA)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u1" who="MheJenistaJMhagama">
+          <seg xml:id="seg1">Kwa kuwa ushirikiano kati ya Miji au Halmashauri za Tanzania na Miji au Halmashauri nje ya nchi ni jambo zuri na huharakisha maendeleo; na kwa kuwa wananchi hususan wanawake katika Halmashauri za Tunduru, Mbinga, Namtumbo, Songea Mjini na Vijijini kwa muda mrefu wanajitahidi kuanzisha ushirika huo bila mafanikio:-</seg>
+          <seg xml:id="seg2">(a) Je, Serikali ipo tayari kuzisaidia Halmashauri hizo ziweze kupata miji rafiki ndani ya miezi sita ili wananchi waweze kushirikiana nao kwa lengo la kuharakisha maendeleo ya Halmashauri zao?</seg>
+          <seg xml:id="seg3">(b) Je, ipo Miji au Halmashauri zozote za nje zilizowahi kuleta maombi ya kutaka urafiki na Miji au Halmashauri zetu nchini?</seg>
+          <seg xml:id="seg4">swali la Mheshimiwa Devota Mkuwa Likokola Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">(a) Mheshimiwa Spika, napenda kukubaliana na Mheshimiwa Mbunge kwamba ushirikiano kati ya Miji au Halmashauri ya nchi ni jambo zuri katika kudumisha uhusiano. Utaratibu unaotumika kupata miji rafiki si wa kisheria wala kimwongozo bali ni wa kimahusiano kati ya Miji na Halmashauri zetu na Miji ya nchi za nje. Serikali imekuwa ikisaidia miji yetu kwa kufanya mawasiliano na nchi au miji ya nje ili kuipatia miji rafiki ya hapa Tanzania. Kwa kuzingatia uhusiano wa Kidiplomasia, mawasiliano yote hufuata itifaki kwa kushirikisha Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa. Serikali itaendelea kuisaidia Miji yetu inayopata Miji rafiki, hata hivyo, suala la muda wa miezi sita au vinginevyo inategemea mwitiko (response) ya Miji inayohusika.</seg>
+          <seg xml:id="seg6">Mheshimiwa Spika, kuhusu Halmashauri alizozitaja Mheshimiwa Mbunge ambazo ni Songea, Tunduru pamoja na Namtumbo, mnamo tarehe 30 Oktoba, 2006 Mkoa wa Ruvuma ulituma barua ya mwaliko yenye Kumb. Na. RUV/T.10/21/34 kwenda China kuwapa mwaliko viongozi wa Jimbo la Yushu kuja Songea, Tanzania. Mapendekezo ya awali ilikuwa mamlaka ya Jimbo la Yushu kuja nchini tarehe 8 hadi 15 Januari, 2007. Ziara hiyo pamoja na mambo mengine ingekuwa fursa nzuri ya kujadili mpango na maeneo ya ushirikiano (modalities of establishing sister relationship). Hadi sasa mkoa haujapata majibu toka mamlaka ya Jimbo la Yushu na Ubalozi wetu ulioko Beijing bado unaendelea kufuatilia majibu ya mwaliko huo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u2" who="MheJenistaJMhagama">
+          <seg xml:id="seg7">(b) Mheshimiwa Spika, pamoja na Jimbo la Yushu Country la China nililotaja katika sehemu (a), ipo miji ambayo imetuma maombi ya kutaka urafiki na Miji na Halmashauri zetu pia Halmashauri au Miji yetu imetuma maombi kwenda nchi mbalimbali ili kupata Miji dada, orodha hiyo ni ndefu hivyo nitampatia Mheshimiwa Mbunge kwa kumbukumbu na rejea zaidi. Kwa kuitaja miji michache, ni Jiji la Miruwaki, lililoko USA linashirikiana na Manispaa ya Morogoro, Jiji la Kandem, USA linataka ushirikiano na Mtwara Mikindani, Jiji la Nanjim, China linataka ushirikiano na mji wa Tanga na Miji mingineyo nchini Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u3" who="MheJenistaJMhagama">
+          <seg xml:id="seg8">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kuweza kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg9">Kwa kuwa sasa hivi tumekuwa tukijitahidi sana kutengeneza sera mbalimbali ambazo zitazisaidia Balozi zetu kufanya mahusiano ya nchi za nje na nchi yetu Tanzania katika maswali mbalimbali yakiwemo ya kiuchumi katika nyanja za uwekezaji maendeleo na kadhalika.</seg>
+          <seg xml:id="seg10">Mheshimiwa Spika, kwa nini sasa Serikali isione kwamba ni muda muafaka kabisa madiliko haya ya kisera yanayoendelea ya kuzifanya Balozi hizo zisaidie nchi yetu. Suala la kushughulikia mahusiano ya kiurafiki kati ya Halmashauri zetu na Halmashauri za Miji katika nchi za nje ikawa ndani ya mipango hiyo ili kurahisisha</seg>
+          <seg xml:id="seg11">shughuli hiyo ambayo mara nyingi Halmashauri zetu imekuwa ikijitahidi kufanya hivyo na bila kufanikiwa na Balozi zetu wakati mwingine kutokutoa msaada wa karibu katika kutekeleza azma hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u4" who="MheJenistaJMhagama">
+          <seg xml:id="seg12">Mheshimiwa Spika, la pili kwa kuwa tayari Halmashauri hizi za Mkoa wa Ruvuma kwa maana ya Tunduru, Halmashauri ya Mbinga, Namtumbo, Songea Mjini, Songea Vijijini na Manispaa ya Songea Mjini imeshafanya juhudi za kutosha kabisa katika suala hilo. Je, Serikali sasa iko tayari kushirikiana na sisi bega kwa bega kusimamia maombi ambayo tumekwisha kuyapeleka ili kuweza kufikia muafaka wa kupata hao marafiki katika kujiletea maendeleo yetu huko Kusini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u5" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg13">Mheshimiwa Spika, kama nilivyosema kwenye jibu langu la msingi kwamba suala la kutafuta miji dada sio suala kisheria na wala sio suala la kimuongozo ni suala la kimahusiano kati ya Halmashauri husika na miji inayohusika nje ya nchi zetu. Balozi zetu zinasaidia ku-facilitate ili hayo mahusiano yawe mazuri.</seg>
+          <seg xml:id="seg14">Sasa katika sera zetu tunasisitiza hivyo kwamba Balozi zetu ziangalie nyanja za uchumi na kiuwekezaji. Lakini hatuwezi tukalazimisha miji kuwa na mahusiano na miji ambayo hawana uhusiano wowote, kwa hiyo, hilo suala ni la kimahusiano zaidi kuliko la kisera zaidi au sio la kimuongozo zaidi.</seg>
+          <seg xml:id="seg15">Mheshimiwa Spika, suala la pili kuhusu Serikali kusaidia mpaka sasa hivi ni Serikali ambayo inasaidia mji fulani ukitaka kuwa na mahusiano kuwa na mji wa nje, ni Serikali ambayo ina facilitate, inaunganisha, ina coordinate ili waweze kuwa na mahusiano. Kwa hiyo, Serikali inasaidia sana kwa njia moja au nyingine na inaingilia kati ili mahusiano hayo yawe mazuri, vibali vyote vinatolewa na Serikali, pia Balozi zetu zinahusika moja kwa moja katika ku-facilitate hayo mahusiano. Kwa hiyo, suala hili ni la Kidiplomasia zaidi kuliko kisheria zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u6" who="NaibuWaziriMamboYaNjeNaUshirikianoWaKimataifaMheBaloziSeifAliIddi">
+          <seg xml:id="seg16">Mheshimiwa Spika, ahsante sana, kwanza nampongeza sana kwa majibu mazuri aliyotoa Naibu Waziri, TAMISEMI kuhusiana na miji mbalimbali ya Tanzania kuwa na uhusiano wa kirafiki au tunaita sister ship relations na baadhi ya miji ya nchi za nje. Wizara yangu imekuwa ikifanya juhudi ya kujaribu kuhamasisha miji mbalimbali ya nje kuwa na uhusiano na miji ya Tanzania na ni mpango ambao sisi tumeuanzisha kuhamasisha huu uhusiano sio baina ya nchi na nchi au watu na watu hata baina ya miji na miji.</seg>
+          <seg xml:id="seg17">Mheshimiwa Spika, kwa hivyo, kama kuna mji wowote ule ambao ukipenda kuanzisha uhusiano na mji wowote wa nchi za nje tuko tayari sisi kupokea maombi yao na ninawahakikishia kwamba tutashughulikia ili kuweza kuimarisha uhusiano kwa sababu uhusiano baina ya nchi na nchi sio katika ngazi hii ya juu zaidi lakini katika ngazi ya miji na miji hii inasaidia kuimarisha uhusiano wetu katika nchi yetu, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u7" who="NaibuWaziriMamboYaNjeNaUshirikianoWaKimataifaMheBaloziSeifAliIddi">
+          <seg xml:id="seg18">Ujenzi Holela wa Mitaa</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u8" who="MheMwinchoumAMsomi">
+          <seg xml:id="seg19">Kwa kuwa maeneo ya mitaa ya kata za Charambe, Mbagala na Mbagala Kuu yamejengwa kiholela:-</seg>
+          <seg xml:id="seg20">Je, Serikali ina mpango gani wa kurekebisha ujenzi ambao umesababisha hali ngumu ya kuwapeleka wananchi huduma muhimu za kijamii kama vile barabara, maji, (kuchimba visima virefu ili kupata maji safi na salama na kadhalika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u9" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg21">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Mwinchoum Msomi, Mbunge wa Kigamboni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg22">Mheshimiwa Spika, Serikali katika Jiji la Dar es Salaam inatekeleza Programu ya Miji bila ya Makazi Holela (Cities without Slams/Cities Alliance) unaofadhiliwa na UN– HABITAT. Mpango huu ni wa Kitaifa hivyo siyo kwa Kata za Mheshimiwa Mbunge tu bali hata kwa maeneo mengine nchini. Katika Jiji la Dar es Salaam mpango huu umezinduliwa rasmi na Mheshimiwa Waziri Mkuu tarehe 17 Mei, 2007 na umeanza kutekelezwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u10" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg23">Mheshimiwa Spika, kwa awamu ya kwanza ya utekelezaji wa mradi huo, Serikali imefanikiwa kuboresha jumla ya maeneo 16 katika Kata za Manispaa za Ilala, Temeke na Kinondoni. Katika awamu hiyo Serikali imeboresha barabara za maeneo husika kwa kiwango cha lami na changarawe, imejenga vizimba vya taka, vyoo pamoja na mifereji. Katika awamu ya pili Serikali itaboresha jumla ya maeneo 14 katika Manispaa hizo tatu. Kata anazozizungumzia Mheshimiwa Mbunge ambazo ni Kata ya Charambe, Mbagala na Mbagala Kuu pia zimejumuishwa katika mradi huo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u11" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg24">Mheshimiwa Spika, Halmashauri za Jiji la Dar es Salaam kwa kushirikiana na wadau mbalimbali inatekeleza mipango ya kuboresha mazingira kwenye maeneo yaliyojengwa bila mpango maalumu unaolenga kupunguza na kuondoa adha na kero kwa wananchi. Miradi na mipango hiyo ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg25">(i) Mradi wa kuboresha Miundombinu kwa kushirikisha wananchi yaani Community Infrastructure Upgrading Programme - (CIUP) uliopo chini ya Halmashauri ya Jiji Dar es Salaam na unafadhiliwa na Benki ya Dunia. Kata za Charambe, Mbagala na Mbagala Kuu zitaingizwa katika awamu ya nne ya mradi huu;</seg>
+          <seg xml:id="seg26">(ii) Mradi wa kurasimisha rasilimali za wanyonge (utoaji leseni za nyumba zilizojengwa maeneo yasiyopimwa);</seg>
+          <seg xml:id="seg27">(iii) Mradi wa Upimaji wa Viwanja 20,000 unaotekelezwa na Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi umepima viwanja zaidi ya 30,000 ili watu wanaohitaji kujenga wavipate kwa urahisi na kuondoa uwezekano wa ujenzi holela Jijini.</seg>
+          <seg xml:id="seg28">(iv) Mtandao wa Miji Tanzania (Tanzania Cities Network) upo katika hatua za maandalizi unalenga kuwashirikisha wadau katika kutatua matatizo yao pamoja, yakiwemo maeneo ambayo yamejengwa kiholela kama vile Charambe, Mbagala na Mbagala Kuu.</seg>
+          <seg xml:id="seg29">Mheshimiwa Spika, Jiji la Dar es Salaam kwa kushirikiana na Manispaa za Kinondoni, Ilala na Temeke limeandaa mpango mkakati wa kuboresha makazi holela na miundombinu ambao ulijadiliwa na kupitishwa na wadau wake wakuu. Katika kutekeleza mpango huu tayari ramani za matumizi ya ardhi kwa Jiji la Dar es Salaam zinaandaliwa na zitakamilika mwezi Septemba, 2007. Mpango huu ni wa Jiji la Dar es Salaam ambao utazihusisha pia kata za Charambe, Mbagala na Mbagala Kuu.</seg>
+        </u>
+        <note>Na. 423. Maendeleo ya Mradi wa Umwagiliaji - Misungwi</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u12" who="MheJacobDShibiliti">
+          <seg xml:id="seg30">Kwa kuwa Wilaya ya Misungwi ni eneo lenye ukame mkubwa licha ya kuwa liko kando ya Ziwa Victoria:-</seg>
+          <seg xml:id="seg31">(a) Je, mradi wa umwagiliaji wa Mbarika ulioanzishwa, umefikia wapi?</seg>
+          <seg xml:id="seg32">(b) Je, scheme za Nyashidala (Kasololo) zilizoanza kujengwa zimefikia hatua gani?</seg>
+          <seg xml:id="seg33">(c) Je, kuna mkakati gani wa kuongeza scheme nyingine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u13" who="NaibuWaziriWaKilimoNaChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg34">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Jacob Dalali Shibiliti, Mbunge wa Misungwi, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg35">(a) Mradi wa Mbarika uliopo Wilaya ya Misungwi una eneo la hekta 32 zinazoweza kulimwa vizuri kwa kutumia kilimo cha umwagiliaji. Mradi huu ulifanyiwa ukarabati katika mwaka wa fedha wa 2003/2004 ambapo kazi zifuatazo zilitekelezwa:-</seg>
+          <seg xml:id="seg36">(i) Ukarabati wa miundombinu ya mabomba, ikijumuisha bomba kuu na mabomba mengine kusambaza maji shambani;</seg>
+          <seg xml:id="seg37">(ii) Uchimbaji wa mtaro mkuu toka Ziwani hadi kwenye mashine ya kuvuta maji; na</seg>
+          <seg xml:id="seg38">(iii) Kufunga pampu ya kuvuta maji toka Ziwani hadi shambani.</seg>
+          <seg xml:id="seg39">Mheshimiwa Spika, tatizo kubwa lililoukumba mradi huu ni kushuka kwa kina cha maji ya Ziwa Victoria kulikosababisha bomba lisifikie maji kipindi cha mwaka 2005 na 2006. Hata hivyo, mvua nyingi zilizonyesha mwaka 2007 ziliongeza kina cha maji ya Ziwa na kuwezesha bomba liyafikie maji ambapo kwa sasa pampu inaweza kusukuma maji vizuri hadi shambani na kumwagilia hekta 10. Hata hivyo, wakulima wanasisitiza mahitaji yao ya shamba lote kupewa maji ili wote wanufaike. Wizara yangu imekubali ombi hili na katika mwaka 2007/2008, ukarabati wa kuliwezesha shamba lote kupata maji utafanywa.</seg>
+          <seg xml:id="seg40">(b) Mheshimiwa Spika, Skimu ya Nyashidala (Kasololo) ina eneo la hekta 325 zinazoweza kulimwa kwa njia ya umwagiliaji. Mkataba wa ujenzi wa miundombinu ya umwagiliaji ulifanywa kati ya Serikali na Mkandarasi tarehe 25 Agosti, 2006 ambapo ujenzi ungekamilika tarehe 20 Februari, 2007. Hata hivyo, kusuasua kwa mkandarasi Sandhu Construction Limited kumechangia kwa kiasi kikubwa kuchelewesha kukamilisha kwa mradi. Aidha, kutokana na kunyesha mvua nyingi kupita kiasi kati ya 17 Novemba, 2006 na 20 Februari, 2007 kazi ya ujenzi ilisimama, kwa kuwa eneo la mradi lilijaa maji na barabara haikuweza kupitika, kutokana na hali hiyo mkandarasi aliomba aongezewe muda wa kukamilisha ujenzi hadi Oktoba, 2007.</seg>
+          <seg xml:id="seg41">(c) Mheshimiwa Spika, Halmashauri ya Wilaya ya Misungwi kwa kushirikiana na Wizara yangu kupitia Ofisi ya Umwagiliaji Kanda ya Mwanza imetembelea na kubaini maeneo saba yenye ukubwa wa hekta 4,490 yanayofaa kwa kilimo cha umwagiliaji. Kazi inayofanywa kwa sasa ili kuendeleza maeneo hayo ni kutafuta fedha za utekelezaji kutoka vyanzo mbalimbali ambavyo ni pamoja na ASDP, FACF na wahisani mbalimbali. Mikakati mingine ni uendelezaji wa miradi midogo ya umwagiliaji kupitia Mipango ya Maendeleo ya Kilimo ya Wilaya (DADPS) kwa mwaka 2007/2008 ambapo skimu tano zenye ukubwa wa hekta 380 zitaendelezwa kwenye vijiji vya Kijima (hekta 75), Mwagiligili (hekta 90), Bukumbi (hekta 80), Koromjia (hekta 75) na Buhunda (hekta 60). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u14" who="MheJacobDShibiliti">
+          <seg xml:id="seg42">Mheshimiwa Spika, ahsante sana kwa kunipa nafasi ili niweze kuuliza maswali mawili ya nyongeza, kabla ya hayo nimpongeze sana Naibu Waziri kwa majibu mazuri aliyoweza kuyatoa.</seg>
+          <seg xml:id="seg43">La kwanza kwa kuwa scheme nyingi ambazo zimejengwa nchini zimekuwa na upungufu wa kutokuwa na mabwawa kwa ajili kuhifadhi maji ambayo yangeweza kutumika wakati wa kiangazi. Je, Waziri anakubaliana nami sasa kuna umuhimu wa kujenga mabwawa kwenye scheme hizo ili yawe angalau endelevu wakati wa kiangazi?</seg>
+          <seg xml:id="seg44">La pili, kwa kuwa mradi wa Mbarika ulikumbwa na tatizo kubwa hasa la mashine iliyonunuliwa ni ndogo na haina uwezo, Waziri anakubalina nami kwamba kuna umuhimu wa kununua mashine kubwa ili iweze kukidhi haja ya eneo kubwa ambalo amesema kwamba litalimwa kwa pamoja na maeneo mengine? Lakini pia niongeze hapo</seg>
+          <seg xml:id="seg45">hapo kwamba kwa vile kuna hili suala la ukanda wa kijani, je, miji iliyoko kando kando ya Ziwa Victoria itafaidika vipi na ukanda wa kijani ambao unazungumzwa sasa hivi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u15" who="NaibuWaziriWaKilimoNaChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg46">Mheshimiwa Spika, katika hotuba ya Makadirio ya Mapato na Matumizi na Mipango ya mwaka 2007/2008 ya Waziri wa Kilimo, Chakula na Ushirika tunaeleza kwamba maeneo hasa yale ya mikoa ambayo ninaambiwa haba au kame tutayapa kipaumbele kwa kujenga mabwawa na katika miradi ile ambayo tumekuwa tukijenga kwa utaratibu wa kuvuna maji ya mito ya Maska tu ambayo inatiririsha maji wakati wa masika na hasa hii iliyojengwa na PIDP, lengo letu ni kuhakikisha kwamba kila panapowezekana kuna site nzuri basi tutajitahidi kujenga mabwawa kwa ajili ya kuongeza maji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u16" who="NaibuWaziriWaKilimoNaChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg47">Mheshimiwa Spika, kuhusu kuongeza mashine kubwa katika jibu langu la msingi nimekiri kwamba Wizara yangu imekubali ombi hili katika mwaka 2007/2008 ukarabati wa kuwezesha shamba lote utafanyika kwa maana ya kununua mashine kubwa, pampu kubwa kwa ajili ya mradi ule. Kuhusu suala la kutengeneza ukanda wa kijani, napenda nimshukuru Mheshimiwa Jacob Shibiliti, kwa sababu anazungumza wazo ambalo tayari tumekwishaanza kulitekeleza na tuna lengo nalo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u17" who="NaibuWaziriWaKilimoNaChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg48">Mheshimiwa Spika, lengo la kutengeneza au dhana ya kutengeza ukanda wa kijani kuzunguka Ziwa Victoria ni kutaka wananchi wayatumie maji yale ya Ziwa Victoria kwa kutumia teknolojia nyepesi sana kama vile kutumia wind mills inapowezekana kutumia solar powered pumps lakini wazitumie hizo wananchi ili waweze kuvuta maji ya Ziwa Victoria na kutengeneza ukanda wa kijani kuzunguka Ziwa Victoria na lengo kubwa ni kwamba wananchi wanaozunguka Ziwa Victoria waweze kutumia fursa zilizopo kwa ajili ya masoko kwa sababu kuna reli nzuri hata kama bado inahitaji marekebisho lakini zipo barabara zinazounganisha miji ile na Tanzania nzima, halafu pia kuna Ziwa lenyewe ambalo linatuunganisha na nchi jirani. Kwa hiyo, lengo ni kujenga ukanda huo kwa ajili ya kutumia fursa hizi zilizopo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u18" who="MheLucaLSelelii">
+          <seg xml:id="seg49">Mheshimiwa Spika, nashukuru kwa maelekezo mazuri ya Mheshimiwa Naibu Waziri, lakini bado nina swali dogo la nyongeza, kwa kuwa katika mpango wa SDP unaelekeza na kusisitiza kilimo cha umwagiliaji ambacho na mimi nakubaliana nacho ndiyo mkombozi wa wakulima lakini katika maeneo kame mikoa ya Magharibi na Mikoa ya Kanda ya Ziwa naamini hata Dodoma mikoa ya kati yapo malambo ambayo yalichimbwa zamani sana enzi ya wakoloni na yalisaidia sana katika kunywesha mifugo lakini katika kilimo cha umwagiliaji mdogo mdogo.</seg>
+          <seg xml:id="seg50">Mheshimiwa Spika, je, Wizara ina utaratibu gani wa kufufua malambo hayo ya zamani ambayo mengi yao yamefukiwa na wananchi wako tayari kuchangia na kusaidia katika kilimo hiki cha umwagiliaji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u19" who="NaibuWaziriWaKilimoNaChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg51">Mheshimiwa Spika, yako mabwawa mengi siwezi kumtajia sasa kwa sababu orodha ni ndefu sana ambayo yalijengwa mengine kabla ya</seg>
+          <seg xml:id="seg52">Uhuru, lakini bado yanauwezekano mkubwa tu wa kukarabatiwa na wakiangalia katika orodha tuliyotoa kwenye hotuba ya Bajeti ya mwaka huu yapo mabwawa ambayo tumesema yatakarabatiwa pamoja na mengine ambayo yatafanyiwa utafiti kwa ajili ya miaka mingine. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u20" who="NaibuWaziriWaKilimoNaChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg53">Mheshimiwa Spika, lakini mfano mzuri wa utekelezaji wa suala hili ni kile tulichofanya katika jimbo la Mheshimiwa Lucas Selelii mwenyewe kwa sababu bwawa la Nkiniziwa ni mojawapo ya mabwawa ya zamani. Tulichofanya sasa tumelikarabati na hivi sasa linawahudumia wananchi kwa kilimo cha umwagiliaji. Kwa hiyo, tunaendelea na hayo mabwawa mengine katika mikoa yoyote ile ambayo ina mabwawa kama hayo ambayo nadhani sina haja ya kuitaja lakini Mheshimiwa Lucas Selelii naweza nikampatia orodha ya mabwawa yote hayo na utaratibu utakaofuatwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 424. Hifadhi ya Chakula cha Taifa</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u21" who="MheProfRaphaelBMwalyosi">
+          <seg xml:id="seg54">Kwa kuwa uzoefu umeonesha kuwa Hifadhi ya Chakula cha Taifa ni suala muhimu sana na linalohitaji kupewa kipaumbele katika mipango yetu ili kukidhi mahitaji ya chakula wakati kunapotokea upungufu wa uzalishaji au maafa:-</seg>
+          <seg xml:id="seg55">(a) Je, makadirio ya Hifadhi ya Chakula Kitaifa kwa mwaka ni kiasi gani?</seg>
+          <seg xml:id="seg56">(b) Je, katika kipindi cha miaka mitatu iliyopita, makadirio hayo yamefikiwa kwa kiwango gani na kwa gharama gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u22" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheDrDavidMDavid">
+          <seg xml:id="seg57">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Prof. Raphael B. Mwalyosi, Mbunge wa Ludewa, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg58">Mheshimiwa Spika, makadirio ya ununuzi wa chakula wa kila mwaka kwa ajili ya Hifadhi ya Chakula ya Taifa huandaliwa na Serikali kwa kuzingatia hali ya jumla ya uzalishaji na upatikanaji wa chakula Kitaifa katika mwaka unaohusika. Kama mwaka unaohusika uzalishaji wa chakula ni mzuri hapa nchini, Serikali kwa kuzingatia Bajeti yake hununua chakula cha kutosha kutoka hapa nchini na kukihifadhi ili baadaye kitumike kwa kuwasambazia wananchi ambao watakuwa na upungufu wa chakula. Katika miaka ambayo nchi inatabiriwa kuwa na upungufu wa chakula Serikali huchukua hatua za kuagiza chakula kutoka nje ya nchi kwa lengo hilo hilo la kuwasambazia chakula wananchi dhidi ya njaa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u23" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheDrDavidMDavid">
+          <seg xml:id="seg59">Mheshimiwa Spika, kwa kuzingatia hali hiyo ya kubadilika badilika kwa uzalishaji wa chakula hapa nchini, Serikali nayo hupanga makadirio ya ununuzi wa chakula cha hifadhi ya chakula kwa kuzingatia hali hiyo ya upatikanaji wake kila mwaka.</seg>
+          <seg xml:id="seg60">(a) Mheshimiwa Spika, katika kipindi cha miaka mitatu iliyopita (2004/2005) hadi 2006/2007) makadirio na utekelezaji wa ununuzi wa chakula cha Hifadhi ya Chakula ya Taifa yamefikiwa kwa viwango vifuatavyo:-</seg>
+          <seg xml:id="seg61">(i) Mwaka 2004/2005 lengo la ununuzi wa mahindi lilikuwa tani 100,000 kwa makadirio ya shilingi milioni 13,270. Utekelezaji wa lengo hilo ulifikiwa kwa 97.84% ambapo tani 97,842 zilinunuliwa kwa shilingi milioni 12,612;</seg>
+          <seg xml:id="seg62">(ii) Mwaka 2005/2006 lengo la ununuzi wa mahindi lilikuwa kununua tani 44,000 kwa makadirio ya shilingi milioni 5,805. Utekelezaji wa ununuzi wa mahindi katika mwaka huo ulifikiwa kwa asilimia 4.03 ya lengo ambapo tani 1,774 za mahindi zilinunuliwa kwa shilingi milioni 316.7; na</seg>
+          <seg xml:id="seg63">(iii) Mwaka 2006/2007 lengo la ununuzi wa mahindi lilikuwa kununua tani 80,000, kwa makadirio ya shilingi milioni 15,444. Utekelezaji wa ununuzi wa mahindi katika mwaka huo ulifikiwa kwa kiwango cha asilimia 115.12 ya lengo ambapo tani 92,098 za mahindi zilinunuliwa kwa shilingi milioni 18,419.50.</seg>
+          <seg xml:id="seg64">Aidha kuhusu mtama, mwaka 2004/2005 hakukuwa na mpango wa kununua mtama hivyo haukununuliwa na SGR; mwaka 2005/2006 lengo lilikuwa kununua tani 1,000 za mtama kwa makadirio ya shilingi milioni 123.3. Utekelezaji wa lengo hilo la kununua mtama ulifikiwa kwa asilimia 4.7 tu ambapo tani 47 za mtama zilinunuliwa kwa thamani ya shilingi milioni 5.8; na mwaka 2006/2007 lengo lilikuwa kununua tani 1,500 za mtama kwa makadirio ya shilingi milioni 379.95. Utekelezaji wake ulifikiwa kwa kiwngo cha asilimia 188.73 ambapo tani 2,831 za mtama zilinunuliwa kwa thamani ya shilingi milioni 575.54. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u24" who="MheProfRaphaelBMwalyosi">
+          <seg xml:id="seg65">Mheshimiwa Spika, kwanza naomba kutoa shukrani za dhati kabisa hasa kwa niaba ya wananchi na wakulima wa Ludewa kwa taratibu na juhudi za makusudi na nzuri sana zilizofanywa mwaka jana na Wizara hii na hususan Waziri anayehusika na Wizara hii kuwezesha kununua mahindi yaliyotapaa, yalikuwa mengi sana yalizalishwa kwa wingi sana hasa katika Wilaya ya Ludewa na wananchi waliomba nifikishe shukrani hizo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u25" who="MheProfRaphaelBMwalyosi">
+          <seg xml:id="seg66">Mheshimiwa Spika, baada ya kusema hivyo sasa nina maswali mawili ya nyongeza. Kwanza kwa kuwa maeneo mengi haya ya uzalishaji wa nafaka muhimu na hasa mahindi kwa mfano huvamiwa sana na wachuuzi au walanguzi mapema katika msingi wa ununuzi wa mahindi na kwa hiyo SGR wanapokuja wanakuta mahindi yameisha na wanunuzi au walanguzi hawa hununua kwa bei ya chini sana na kuwaumiza wananchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u26" who="Spika">
+          <seg xml:id="seg67">Mheshimiwa nenda kwenye swali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u27" who="MheProfRaphaelBMwalyosi">
+          <seg xml:id="seg68">Mheshimiwa Spika, kwa nini Serikali au Wizara haitangazi bei mapema ili bei zile zishindane na wanunuzi wanaoenda mapema kwenye majimbo yetu na kununua mahindi?</seg>
+          <seg xml:id="seg69">Mheshimiwa Spika, swali pili, kwa vile wananchi hasa wa Ludewa wanategemea sana SGR kununua mahindi yao, je, Wizara itaanza lini kununua mahindi na kwa bei gani hasa katika Wilaya ya Ludewa? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u28" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheDrDavidMDavid">
+          <seg xml:id="seg70">Mheshimiwa Spika, kwanza nimpongeze Mheshimiwa Profesa Raphael Mwalyosi, kwa kufuatilia sana ununuzi wa mahindi kwa Wilaya yake ya Ludewa amekuwa anafuatilia sana katika Wizara yetu na tuliweza kumsaidia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u29" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheDrDavidMDavid">
+          <seg xml:id="seg71">Mheshimiwa Spika, baada ya kusema hayo sasa ningependa nimjibu Mheshimiwa Profesa Raphael Mwalyosi kama ifuatavyo:-</seg>
+          <seg xml:id="seg72">Kwanza SGR msimu unapoanza huwa inatangaza bei za mahindi ila niseme tu kwamba pamoja na kwamba inatangaza bei za mahindi, mahindi yanayolimwa Ludewa ni mengi kuliko uwezo wa SGR kununua, kama nilivyosema katika majibu yangu ya mwanzoni kwa maswali ya nyuma nilisema kwamba kwa mujibu wa Sheria Namba 10 ya mwaka 1991 SGR inanunua mahindi yanafikia tani 150,000 kwa mwaka. Kwa hiyo, kwa nchi nzima mahindi yanayozalishwa ni zaidi ya tani milioni 10 kwa hiyo, siyo rahisi sana kila eneo SGR ikaweza kununua kwa kiwango ambacho wananchi wale wanazalisha, kwa hiyo, niseme tu kwamba tunatangaza mapema bei hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u30" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheDrDavidMDavid">
+          <seg xml:id="seg73">Mheshimiwa Spika, lakini pili, SGR itaanza kununua mahindi msimu wa mavuno unapoanza na mwaka huu Serikali imetenga shilingi bilioni tano kwa ajili ya kununua mahindi ya SGR ambapo tunategemea kununua tani 27,500. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u31" who="MheDrJohnSMalecela">
+          <seg xml:id="seg74">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza baada ya majibu mazuri ya Naibu Waziri na kuishukuru Serikali sana mwaka jana kwa jinsi ilivyowaomba wananchi wale katika sehemu za ukame na kuwapa mbegu kwa hiyo, wakalima mtama kwa wingi sana, sasa hivi SGR inakataa kununua mtama huo. Je, Serikali haioni umuhimu wa kuiagiza SGR inunue mtama ili kuwapa moyo wale wanaoishi katika sehemu kame wajue kwamba wakilima mtama ni zao la biashara na la chakula ambacho wataweza kuuza SGR?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u32" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg75">Mheshimiwa Spika, kwanza ninampongeza Naibu Waziri kwa majibu ya ufasaha aliyoyatoa kuhusu swali la msingi. Lakini vile vile napenda kutumia nafasi hii kujibu swali la Mheshimiwa John Malecela, kama ifuatavyo:-</seg>
+          <seg xml:id="seg76">Mheshimiwa Spika, Serikali hatujakataa kununua mtama na tuna mpango wa kununua mtama kiasi katika Mkoa wa Dodoma ambako uzalishaji umekuwa mwingi katika msimu huu. Lakini ninachotaka kusema ni kwamba tatizo tulilonalo ni upungufu wa fedha, SGR inategemea fedha kutoka katika Bajeti ya Serikali ndio maana katika mwaka huu tuna uwezo wa fedha wa kiasi cha shilingi bilioni 5.6 kwa ajili ya SGR, hicho ni kiwango kidogo ukilinganisha na wingi wa mazao ambayo yanahitaji kununuliwa.</seg>
+          <seg xml:id="seg77">Mheshimiwa Spika, lakini tunachojaribu kufikiria sasa hivi kwa kushirikiana na Wizara ya Viwanda, Biashara na Masoko ni kutazama upya kwa sababu tatizo lililopo ni kwamba soko la ndani la binafsi linaonekana kushinda kukidhi mahitaji na pale ambapo soko linashindwa Serikali inalazimika kufanya jambo fulani kwa kuingilia kati. Kwa hiyo, tunajaribu kutazama upya mfumo mzima wa masoko na kazi hii itakapomalizika tutaweza kupata jibu ambalo litasaidia kuondoa tatizo kubwa la ununuzi wa mazao hususan yale ya nafaka ambayo hayana mabodi yoyote kwa sasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u33" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg78">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niulize swali moja dogo la nyongeza. Aidha, niishukuru Serikali kwa jitihada zote zilizofanyika mwaka jana katika kusaidia wananchi wetu wakiwemo wa Karatu wakati wakiwa na njaa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u34" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg79">Mheshimiwa Spika, kwa kuwa Mheshimiwa Naibu Waziri katika maelezo yake takwimu walizotoa zinaonesha kwamba tumekuwa tukinunua chakula cha akiba hasa wakati tuna tatizo kama ilivyoonesha asilimia nne ya mwaka 2005/2006 na kwa kuwa uzoefu wa nchi zilizoendelea unaonyesha kwamba hata wao wenye uwezo wanaweka akiba kwa muda usiopungua miaka 10 hadi 15. Je, Serikali sasa ina mpango gani au mkakati gani mahususi wa kununua chakula kitumike kwa muda mrefu na akiba hiyo ikae muda mrefu badala ya kungojea tu wakati njaa ambapo ikitokea njaa tuna utaratibu wa kutumia fedha na hivyo kusimamisha mipango mingine ya maendeleo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u35" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg80">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Dr. Wilbrod Slaa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg81">Mheshimiwa Spika, kama tulivyosema katika jibu letu la msingi tunanunua chakula kingi wakati kipo kwa ajili ya hifadhi na kwa ajili ya kusaidia kupambana na upungufu unapotokea, hiyo ndiyo dhana ya SGR kwamba unakuwa na chakula, unakinunua wakati kipo ili kije kitumike wakati hakipo, huo ndio msingi wenyewe. Sasa mwaka 2005/2006 tulinunua asilimia nne kwa sababu hakikuwepo na kwa hiyo, tulitumia kilichokuwepo kusaidia na kuwalisha watu kwa sababu cha kununua sokoni hapa kilikuwa hakipo na badala yake SGR pamoja na wanunuzi binafsi waliagiza chakula kutoka nje, jambo ambalo tunatakiwa kukubaliana ni kwamba hifadhi ya chakula ni gharama na tunahifadhi chakula kulingana na uwezo wa Bajeti. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u36" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg82">Mheshimiwa Spika, kwa hiyo, kama Bajeti haiwezi kumudu kuhifadhi chakula kwa wingi sana hatuna namna isipokuwa kuhifadhi kile tunachokiweza ndio maana nataka kurudia tena, tunanunua wakati wa shibe ili tuhifadhi na kutumia wakati wa matatizo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 425. Watangazaji wa Vyombo vya Habari</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u37" who="MheHaroubSaidMasoud">
+          <seg xml:id="seg83">Kwa kuwa wapo watangazaji wetu ambao mara kwa mara husikika katika idhaa nyingi za redio za nje zinazotangaza Kiswahili, kama vile Tido Mhando, Juma Nkamia ambao sasa wamerejea nchini na Susan Mongi ambaye bado yupo BBC:-</seg>
+          <seg xml:id="seg84">(a) Je, ni watangazaji wangapi wa vyombo vya habari vya Serikali waliopo nje wakitangaza kwenye vyombo mbalimbali?</seg>
+          <seg xml:id="seg85">(b) Je, ni watangazaji wangapi wa vyombo vya utangazaji binafsi walioko nje ya nchi?</seg>
+          <seg xml:id="seg86">(c) Je, Serikali inasimamia vipi watangazaji wa habari wa vyombo vya Serikali wanapokwenda nje kuhakikisha kwamba hawapunjwi kimaslahi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u38" who="NaibuWaziriWaHabariUtamaduniNaMichezoMheDanielNNsanzugwanko">
+          <seg xml:id="seg87">Mheshimiwa Spika, kwa niaba ya Waziri wa Habari, Utamaduni na Michezo, naomba kujibu swali la Mheshimiwa Haroub Said Masoud, Mbunge wa Koani, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg88">Mheshimiwa Spika, ni kweli kwamba wapo watangazaji wa vyombo vya habari vya Serikali na vile vya binafsi ambao mara kwa mara husikika katika Idhaa nyingi za redio za nje zinazotangaza Kiswahili kama alivyowatolea mfano Mheshimiwa Mbunge. Kwa faida ya Waheshimiwa Wabunge na Watanzania kwa ujumla, historia ya Watanzania kutangaza katika vyombo vya habari vya nje ilianza tangu miaka ya 1960 baada ya iliyokuwa Tanganyika sasa Tanzania kujipatia Uhuru wake toka kwa utawala wa Waingereza mwaka 1961. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u39" who="NaibuWaziriWaHabariUtamaduniNaMichezoMheDanielNNsanzugwanko">
+          <seg xml:id="seg89">Mheshimiwa Spika, watangazaji wa vyombo vya habari vya Serikali waliopo nje wakitangaza kwenye vyombo mbalimbali ni kama ifuatavyo, Bi. Jane Lutaserwa anatangaza Radio China International (CRI) akitokea Redio Tanzania, Bwana Singu Luhende anatangaza NHK Radio Japan, Idara ya Kiswahili akitokea Redio Tanzania, Bwana Reginald Ndesika – NHK Radio Japan akitokea Redio Tanzania, Bibi Zawadi Machibya aliyeko nchini Kenya akitokea TVT na Bwana Fadhili Mpunji akitangaza CRI akitokea Redio Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u40" who="NaibuWaziriWaHabariUtamaduniNaMichezoMheDanielNNsanzugwanko">
+          <seg xml:id="seg90">Mheshimiwa Spika, mtangazaji Bwana Fadhili Mpungi kwa sasa ameamua kubaki Radio China International (CRI) kwa mikataba binafsi.</seg>
+          <seg xml:id="seg91">Mheshimiwa Spika, watangazaji wa vyombo binafsi vya utangazaji waliopo nje ya nchi ni wengi, baadhi yao ni Abubakar Liongo – Deutschewelle, Sekione Kitojo – Deutschewelle, Charles Hillary – BBC, Flora Nducha – BBC, Suzan Mongi – BBC, Salim Kikeke – BBC, Hadija Riyami – VOA, Mwamoyo Hamza – VOA na Emmanuel Muganda – Mkuu wa Idara ya Kiswahili, VOA. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u41" who="NaibuWaziriWaHabariUtamaduniNaMichezoMheDanielNNsanzugwanko">
+          <seg xml:id="seg92">Mheshimiwa Spika, wajibu wa Serikali kwa watangazaji wa habari wa vyombo vya Serikali wanapokwenda nje ili wasipunjwe maslahi yao ni kusimamia mikataba yao kabla hawajaondoka. Vituo vya redio vinavyoomba watangazaji wa vyombo vya Serikali, huingia mikataba na Taasisi ya Utangazaji Tanzania na siyo wafanyakazi. Wafanyakazi hao waliotajwa mikataba yao imesainiwa na TUT baada ya kuridhika na maslahi yaliyomo katika katika mikataba hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u42" who="MheHaroubSaidMasoud">
+          <seg xml:id="seg93">Mheshimiwa Spika, baada ya majibu mazuri sana ya Mheshimiwa Naibu Waziri nina swali moja tu la nyongeza. Inaonyesha nchi yetu ina hazina kubwa sana ya watangazaji wa lugha ya Kiswahili nje ya nchi na kwa kuwa kuna umuhimu mkubwa wa Serikali kuwekwa takwimu za watangazaji wa vyombo vya habari vya binafsi na vya Serikali, lakini katika majibu yake hakueleza Susan Mongi sasa yupo wapi? Ninavyoelewa mimi kwamba Susan Mongi yupo Tanzania amesharejea. Je, anaelewa hayo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u43" who="Spika">
+          <seg xml:id="seg94">Sasa hili haujataja maslahi binafsi ulilonalo hili swali maana yake, inakuwaje nyendo za mtangazaji huyu wa kike wewe unazijua? </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u44" who="Spika">
+          <seg xml:id="seg95">Waheshimiwa Wabunge tunaendelea swali linaelekezwa Wizara ya Fedha.</seg>
+        </u>
+        <note>Na. 426. Huduma ya ATM na NMB</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u45" who="MheMzeeNgwaliZubeir">
+          <seg xml:id="seg96">Kwa kuwa matarajio makubwa ya NMB ni kuweka mashine za ATM zifikazo 200 kwenye Miji Mikuu yote na maeneo yenye wateja wengi ili kupunguza usumbufu kwa wateja kupata huduma kwa urahisi:-</seg>
+          <seg xml:id="seg97">(a) Je, mpango huo utaanza lini?</seg>
+          <seg xml:id="seg98">(b) Je, kwa miji midogo haihitaji huduma hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u46" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg99">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Mzee Ngwali Zubeir, Mbunge wa Mkwajuni, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg100">(a) Mheshimiwa Spika, mpango wa NMB wa uwekaji wa mashine za ATM ulianza mwanzoni mwa mwaka huu wa 2007. Hadi sasa NMB imefanikiwa kuweka mashine za ATM zipatazo 50 na inategemea kufikia mashine 100 kabla ya mwisho wa Desemba, 2007.</seg>
+          <seg xml:id="seg101">(b) Mheshimiwa Spika, huduma ya ATM inahitajika kwenye miji mikubwa, miji midogo na hata vijijini. NMB imeshafikisha huduma za ATM katika miji midogo ya</seg>
+          <seg xml:id="seg102">Kilombero na Makambako. Aidha, benki hii ina mkakati wa kuendelea kusambaza mashine za ATM hadi kufikia maeneo mengi zaidi ya vijijini.</seg>
+          <seg xml:id="seg103">Mheshimiwa Spika, katika kufanikisha azma hii, NMB itahakiki sehemu salama za kuweka vifaa hivyo na pia itaangalia uwezo wa kifedha kwani kuweka mashine za ATM kunahitaji fedha nyingi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u47" who="MheMzeeNgwaliZubeir">
+          <seg xml:id="seg104">Mheshimiwa Spika, nashukuru kwa kunipatia nafasi hii kuuliza swali dogo la nyongeza. Kwa benki shughuli yake kubwa ni kufanya biashara, kutoa huduma na kuangalia wingi wa wateja walioko katika maeneo hayo na kwa vile shughuli kama hiyo au mpango kama huo na kule Zanzibar upo. Je, benki hii itaanza lini katika kutoa huduma zake Zanzibar na hasa Unguja kwa sababu Pemba hivi sasa benki ipo lakini Unguja haipo benki hii?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u48" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg105">Mheshimiwa Spika, kwanza napenda kujibu swali la Mheshimiwa Mzee Ngwali Zubeir, kama ifuatavyo:-</seg>
+          <seg xml:id="seg106">Mheshimiwa Spika, NMB kama inalo tawi Zanzibar tutaishauri ianze huduma za ATM haraka iwezekanavyo lakini NBC ipo Zanzibar na ina ATM kwa hiyo, ningeshauri kuwa mnaweza mkaitumia ATM za NBC wakati NMB inatafuta uwezekano wa kuanzisha ATM kule. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 427. Utafiti wa Kuelewa Maliasili Nishati na Madini yaliyopo Nchini</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u49" who="MheAmePanduAme">
+          <seg xml:id="seg107">Kwa kuwa Taifa la Tanzania limebarikiwa na wingi wa maliasili nishati na madini ambapo wananchi wanastahili kufahamu aina ya utajiri uliopo kwenye ardhi yao:-</seg>
+          <seg xml:id="seg108">(a) Je, Serikali imefanya utafiti ili kujua aina ya nishati na madini zilizopo Tanzania Bara na Visiwani na kuyatambua maeneo hayo?</seg>
+          <seg xml:id="seg109">(b) Je, kuna aina ngapi za maliasili madini na nishati kwa viwango gani na kwa manufaa na matumizi ya wananchi wa pande zote mbili za Muungano?</seg>
+          <seg xml:id="seg110">(c) Je, ni nini mustakabali wa nishati (Petroli) ndani ya Tanzania kwa kuzingatia wananchi wa pande zote mbili za Muungano?</seg>
+          <seg xml:id="seg111">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Ame Pandu Ame, Mbunge wa Nungwi, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">(a) Mheshimiwa Spika, Serikali ya Jamhuri ya Muungano wa Tanzania kwa nyakati tofauti imekuwa ikifanya tafiti katika maeneo mbalimbali nchini. Aidha, tafiti hizo zimebaini aina mbalimbali za maliasili nishati na madini katika sehemu mbalimbali za nchi yetu.</seg>
+          <seg xml:id="seg113">(b) Mheshimiwa Spika, hadi sasa hapa nchini kuna kampuni 20 ambazo zinafanya utafiti wa mafuta na gesi kwenye vilindi vya bahari, ukanda wa mwambao wa bahari, mabonde ya ufa na mabonde yenye miamba tabaka katika nchi kavu. Kufuatia tafiti hizo, gesi imegunduliwa huko Songo Songo, Mnazi Bay na Mkuranga. Japo mafuta hayajagunduliwa lakini taarifa za kijiolojia zinaashiria uwezekano wa kuwepo kwa mfumo hai wa petroli (active petroleum system).</seg>
+          <seg xml:id="seg114">Mheshimiwa Spika, maliasili nishati zingine hapa nchini ni pamoja na makaa ya mawe, nguvu za maji, umeme jua, joto ardhi, tungamotaka na biogesi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u50" who="MheAmePanduAme">
+          <seg xml:id="seg115">Mheshimiwa Spika, utafutaji wa maliasili madini kwa upande wa Tanzania Bara na Visiwani unafanywa na Wizara zinazohusika na madini za Tanzania Bara na Visiwani. Serikali peke yake au kwa kushirikiana na taasisi mbalimbali kutoka nchi mbalimbali duniani imefanya kazi ya utafutaji wa madini katika maeneo mbalimbali ya nchi ili kubaini maeneo yenye madini. Matokeo ya kazi hiyo ni ramani na ripoti zinazoonyesha jiolojia ya maeneo husika na madini yaliyoonekana kwenye miamba au udongo wa maeneo hayo. Aidha, kampuni mbalimbali zimeendelea kufanya utafutaji wa madini uliowezesha kufunguliwa migodi.</seg>
+          <seg xml:id="seg116">Mheshimiwa Spika, mwaka 1976 hadi 1979 Serikali iligharamia upimaji wa kijiofizikia nchi nzima kwa kutumia ndege (airborne geophaysical survey). Wakala wa Serikali (Geological Survey of Tanzania), inaendelea kufanya utafiti wa madini tangu taasisi hiyo ilipoanzishwa mwaka 1952.</seg>
+          <seg xml:id="seg117">(c) Mheshimiwa Spika, maliasili madini si za Muungano. Utafiti wa madini umeonesha kuwa nchi yetu ina madini ya thamani kama dhahabu na fedha hususan katika mikoa inayozunguka Ziwa Victoria, Wilaya ya Chunya mkoani Mbeya na Wilayani Mpanda katika Mkoa wa Rukwa. Vile vile, dhahabu inapatikana katika mikoa ya Tanga, Morogoro, Ruvuma, Kigoma, Dodoma. Madini ya basements ya shaba, risasi za zinki hupatikana katika Mkoa wa Rukwa.</seg>
+          <seg xml:id="seg118">Mheshimiwa Spika, vito hupatikana katika maeneo yaliyo Mashariki na Kusini mwa nchi yetu. Madini ya vito pia hupatikana maeneo ya Kati na Kusini Magharibi mwa nchi yetu. Almasi hupatikana kwenye maeneo yaliyo Kusini mwa Ziwa Victoria hadi Mkoa wa Singida. Aidha, maeneo ya Kusini mwa nchi nayo yanafahamika kuwa na miamba ya Kimberlite inayoambatana na almasi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u51" who="MheAmePanduAme">
+          <seg xml:id="seg119">Mheshimiwa Spika, madini ya viwandani kama vile Kaolin yanapatikana Dar es Salaam na madini ya Ulanga yanapatikana katika Mikoa ya Maorogoro, Tanga na Kilimanjaro. Madini ya ujenzi ambayo hujumuisha mchanga, mawe, kokoto, kifusi na</seg>
+          <seg xml:id="seg120">udongo hupatikana karibu kila sehemu ya nchi yetu. Vile vile, kuna madini ya uranium ambayo yanapatikana katika mikoa ya Kati, Kusini na Kusini Magharibi mwa nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u52" who="MheAmePanduAme">
+          <seg xml:id="seg121">Mheshimiwa Spika, maliasili nishati ambazo zinahusisha mafuta na gesi ni za Muungano. Gesi imegunduliwa Songo Songo, Mnazi Bay na Mkuranga. Songo Songo kuna gesi yenye mita za ujazo bilioni 30, Mnazi Bay kuna gesi yenye mita za ujazo bilioni 15 na utafiti unaendelea ili kubaini kiasi cha gesi kilichopo Mkuranga. Utafiti zaidi wa mafuta na gesi unaendelea katika maeneo mengine ya nchi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u53" who="MheAmePanduAme">
+          <seg xml:id="seg122">Mheshimiwa Spika, nchini kuna tani bilioni 1.2 za makaa ya mawe, vyanzo vya maji vinanvyoweza kuzalisha MW 4,700, umeme jua kiasi cha MW 187 kwa sekundi na chemchem 50 za majimoto kwa ajili ya nishati ya joto ardhi. Aidha, wastani wa uzalishaji wa tungamotaka kwa mwaka ni mita za ujazo milioni 24.5 na kuna mitambo ya biogas takriban 6,000. Utafiti uliofanyika juu ya nishati ya upepo katika maeneo mbalimbali nchini unaonyesha kwamba wastani wa kasi ya upepo nchini ni kati ya 0.9 - 4.8 mita kwa sekunde.</seg>
+          <seg xml:id="seg123">Mheshimiwa Spika, kwa mujibu wa Katiba ya Jamhuri ya Muungano wa Tanzania, utafutaji wa uzalishaji maliasili nishati ya petroli na gesi ni suala la Muungano. Shughuli za utafutaji na uzalishaji mafuta na gesi hutekelezwa chini ya Sheria ya Utafutaji na Uzalishaji Mafuta ya mwaka 1980 (Petroleum (Exploration and Production) Act, 1980). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u54" who="MheAmePanduAme">
+          <seg xml:id="seg124">Mheshimiwa Spika, chini ya sheria hii, Mikataba ya utafutaji mafuta na gesi asilia hujadiliwa na timu ya majadiliano ya Serikali ya Muungano na Serikali ya Mapinduzi. Kamati hiyo hujadili mikataba ya maeneo yote. Baada ya mikataba kutiwa saini, TPDC huomba ridhaa ya kufanya kazi ama kwa Serikali ya Muungano au ya Serikali ya Mapinduzi kutegemeana na eneo lilipo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u55" who="MheAmePanduAme">
+          <seg xml:id="seg125">Mheshimiwa Spika, ahsante sana, baada ya majibu mazuri ya Mheshimiwa Naibu Waziri naomba kuuliza swali moja dogo tu la nyongeza, je, Serikali ina mpango wowote wa kuandaa wataalamu ambao watakuja kusimamia na kuendesha shughuli hii ya madini hapa nchini kwetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u56" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg126">Mheshimiwa Spika, ninamshukuru Mheshimiwa Mbunge, naomba kujibu swali lake la nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg127">Mheshimiwa Spika, ni kweli Serikali imekuwa na mipango na inaendelea kuwa na mipango ya kuwa na wataalamu ambao watashughulikia sekta yetu ya madini, tunao wataalamu wa ndani ya nchi na tunajitahidi kuimarisha uwezo wao wa kuweza kuhudumia sekta kadri itakavyowezekana kwa maslahi ya Taifa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u57" who="MheHamadRashidMohamed">
+          <seg xml:id="seg128">Mheshimiwa Spika, kwa kuwa gesi ni suala la Muungano na gesi imeendelea kuchimbwa hivi sasa kwa muda mrefu, je, ni</seg>
+          <seg xml:id="seg129">formula gani inayotumika baina ya Serikali mbili hizi katika matumizi ya gesi formula hiyo ishindikane katika kutumika katika mafuta?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u58" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg130">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Hamad Rashid Mohamed kama ifuatavyo:-</seg>
+          <seg xml:id="seg131">Mheshimiwa Spika, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri aliyoyatoa na mimi niliongezea vile vile wakati wa mchango wa hotuba yangu tuliyoitoa mwaka huu kwamba kwa upande wa madini kwa sababu si ya Muungano, maduhuli yanayotokana na madini kiasi fulani kinatolewa ili kuendesha shughuli za Wizara kwa upande wa madini. Lakini kwa upande wa gesi maduhuli yote yanaingizwa kwenye mfuko wa Serikali kwa sababu huo mfuko ndio unaendesha Serikali ya Jamhuri ya Muungano, hakuna maduhuli yoyote yanayotoka kwenye gesi yanayoingia kwenye Idara ya Nishati moja kwa moja, yale maduhuli yanaingia kwenye mfuko wa Serikali na ile michango ambayo inaenda Zanzibar inatokana na mfuko wa Treasury ambao una-fund Serikali ya Jamhuri ya Muungano wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u59" who="WaziriWaFedha">
+          <seg xml:id="seg132">Mheshimiwa Spika, naomba kutoa nyongeza ya majibu yaliyotolewa. Kuhusiana na suala hili ni kwamba litazunguzwa katika suala zima la GFC na litapelekwa kwenye mkutano ambao utafanyika kati ya Waziri Kiongozi na Waziri Mkuu, kwa hiyo lipo katika mazungumzo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 428. Umeme Utokanao na Mnazi Bay</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u60" who="WaziriWaFedha">
+          <seg xml:id="seg133">MHE. RAYNALD A. MROPE (Kny. MHE. DUNSTAN D. MKAPA) aliuliza:-</seg>
+          <seg xml:id="seg134">Kwa kuwa mradi wa umeme wa Mnazi Bay uliopo Mtwara utanufaisha Mikoa ya Mtwara na Lindi hapo utakapokamilika:-</seg>
+          <seg xml:id="seg135">(a) Je, Wilaya ya Nanyumbu iliyopo Mkoani Mtwara itapatiwa umeme unaotokana na mradi huo?</seg>
+          <seg xml:id="seg136">(b) Je, Wilaya hiyo ambayo haina nishati hiyo ya umeme itapatiwa umeme huo?</seg>
+          <seg xml:id="seg137">(c) Je, ni vijiji gani vya Wilaya hiyo ya Nanyumbu vitapatiwa umeme?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u61" who="Spika">
+          <seg xml:id="seg138">Waheshimiwa Wabunge, niwakumbushe tu mnachoruhusiwa ni kunong’ona kwa sauti ya chini kabisa lakini naona leo baadhi ya vikundi wanaathiri mambo mengi siyo tu wanang’ona, wanatangatanga, hii ni kinyume kabisa cha Kanuni, unatoka hapa unaenda hapa, tunaomba tutulie wakati wa kipindi cha Maswali na Majibu haipendezi kutembea tembea ovyo tu ndani ya Ukumbi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u62" who="Spika">
+          <seg xml:id="seg139">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Danstan Mkapa, Mbunge wa Nanyumbu, lenye sehemu (a), (b) na (c) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg140">Mheshimiwa Spika, Wilaya ya Nanyumbu pamoja na Wilaya zingine za Mkoa wa Mtwara na Lindi ukiondoa Kilwa Masoko zitapatiwa umeme utokanao na gesi ya mradi wa Mnazi Bay. Hata hivyo, kutokana na umbali kutoka katika mfumo utakaojengwa chini ya Mradi wa Umeme wa Mnazi Bay, usambazaji wa umeme utafanyika kwa awamu.</seg>
+          <seg xml:id="seg141">Mheshimiwa Spika, mwekezaji atakapokamilisha kazi ya kupanua na kukarabati njia za kusafirisha umeme, wananchi wengi katika vijiji vya Wilaya ya Mikoa ya Mtwara, Lindi ikiwa ni pamoja na Nanyumbu, vitasambaziwa umeme.</seg>
+          <seg xml:id="seg142">Mheshimiwa Spika, Wilaya ya Kilwa Masoko ambayo haitapata umeme chini ya Mradi wa Umeme wa Mnazi Bay, itapata umeme chini ya Mradi wa Way Leave Electrification katika Mradi wa Songosongo ambao hivi sasa unaendelea kutekelezwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u63" who="MheRaynaldAMrope">
+          <seg xml:id="seg143">Mheshimiwa Spika, namshukuru sana Naibu Waziri kwa kutupa majibu mazuri, lakini nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg144">La kwanza, kwa kuwa ni muda mrefu sasa umepita ambapo uunganishaji wa umeme kati ya Nyangao na Ndanda haujakamilika. Sasa namuuliza Waziri ni lini sasa atakuwa na uhakika kwamba uunganishaji huu utakamilika ili Masasi, Newala, Tandahimba, Ruangwa na Nachingwea zote ziweze kuwa na umeme wa uhakika?</seg>
+          <seg xml:id="seg145">Pili, kwa kuwa Daraja la Umoja kati ya Msumbiji na Tanzania linalojengwa Mtambaaswala linakwenda vizuri tu na kwa kasi nzuri na barabara ya lami itajengwa, sasa je, Wizara ina mpango gani wa kuunganisha umeme kati ya Tanzania na Msumbiji kama ilivyo katika hili daraja ambalo litakamilika mwakani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u64" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg146">Mheshimiwa Spika, napenda kumpongeza Mheshimiwa Raynald Mrope kwa sababu amekuwa akifuatilia kwa karibu sana suala la usambazaji wa umeme Mkoa wa Lindi na Mtwara. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u65" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg147">Mheshimiwa Spika, tunatambua kwamba kuna kipande kidogo tu alichokizungumza kati ya Nyangawa na Ndanda ambacho kikiunganishwa tu huu umeme ambao unatokana na gesi inayozalishwa pale Mtwara unaweza ukaunganisha Mtwara, Lindi pamoja na Masasi na ndio njia pekee hasa ya kuweza kufikisha umeme hata Nanyumbu kama swali la msingi lilivyokuwa linazungumza.</seg>
+          <seg xml:id="seg148">Sasa hivi majadiliano kati ya Serikali na ATMUS ambao ndio wameomba kuchukua hii miundombinu na kuiendeleza yameiva. Katika Bajeti yetu tulisema kwamba tunategemea yaishe katika kipindi cha Bajeti hii.</seg>
+          <seg xml:id="seg149">Kwa hiyo, tunaomba Mheshimiwa Raynald Mrope na wananchi wote wa Mtwara na Lindi wawe na subiri kidogo, tunategemea mwaka huu mambo yatakuwa sawa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u66" who="Spika">
+          <seg xml:id="seg150">Waheshimiwa Wabunge, naruhusu sasa swali linalofuata kwa sababu muda umefika lakini tubakize moja tu. Kwa hiyo, swali la Wizara ya Mambo ya Ndani ya Nchi linaulizwa na Mheshimiwa Juma Kilimbah, Mbunge wa Iramba Magharibi.</seg>
+        </u>
+        <note>Na. 429. Zoezi la Kuwarejesha Wakimbizi Makwao</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u67" who="MheJumaHKillimbah">
+          <seg xml:id="seg151">Kwa kuwa Serikali kupitia Wizara ya Mambo ya Ndani ya Nchi ilitangaza azma yake ya kurejesha Wakimbizi (repatriate refugees) hasa wale wa nchi za Burundi, Rwanda na DRC ambao nchi zao sasa zina utawala wa Kidemokrasia:-</seg>
+          <seg xml:id="seg152">(a) Je, zoezi hilo limepata mafanikio kwa kiwango gani na Serikali kwa kushirikiana na UNHCR ime-repatriate wakimbizi wangapi hadi hivi sasa?</seg>
+          <seg xml:id="seg153">(b) Je, ni lini Serikali itakamilisha kazi hiyo ili kuondoa hali ya wasiwasi hasa kuhusu usalama wa wananchi wa Mikoa ya Rukwa, Kigoma, Tabora na Kagera ambao wamekuwa na maisha ya hofu kwa muda mrefu?</seg>
+          <seg xml:id="seg154">WAZIRI WA KAZI, AJIRA NA MAENDELEO YA VIJANA (kny. WAZIRI WA MAMBO YA NDANI YA NCHI) alijibu:-</seg>
+          <seg xml:id="seg155">Mheshimiwa Spika, kabla ya kujibu swali la Mheshimiwa Juma Killimbah, Mbunge wa Iramba Magharibi, lenye sehemu (a) na (b), naomba kwanza nitoe maelezo ya jumla kama ifuatavyo:-</seg>
+          <seg xml:id="seg156">Mheshimiwa Spika, kwa mujibu wa Sheria ya Wakimbizi Na. 9 ya mwaka 1998 na Mikataba ya Kimataifa ya Wakimbizi, wakimbizi hawarejeshwi makwao bali wanarejea makwao kwa hiari katika hatua mbili kama zifuatazo:-</seg>
+          <seg xml:id="seg157">(i) Kurejea kwa hiari (voluntary repatriation); na</seg>
+          <seg xml:id="seg158">(ii) Wanahimizwa kurejea kwa hiari (promotion of voluntary repatriation).</seg>
+          <seg xml:id="seg159">Mheshimiwa Spika, wakimbizi wa kutoka Rwanda hivi sasa wote wamesharejea kwao kwa hiari. Wakimbizi wa Burundi na Kongo (DRC) walianza hatua ya kwanza ya kurejea kwao kwa hiari mwaka 2002 baada ya hatua hiyo kuidhinishwa na Tume ya Utatu (Tripartite Commission) kati ya Burundi/DRC, Tanzania na UNHCR. Mwezi Juni, 2007, Tume hiyo iliidhinisha kwamba sasa tuingie katika hatua ya pili kuwahimiza</seg>
+          <seg xml:id="seg160">wakimbizi wa Burundi kurejea kwao kwa hiari (promotion of voluntary repatriation) ambalo ndilo zoezi linaloendelea hivi sasa.</seg>
+          <seg xml:id="seg161">Mheshimiwa Spika, baada ya maelezo hayo, naomba sasa kujibu swali la Mheshimiwa Juma Killimbah, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg162">(a) Tangu kuanza hatua ya kurejea kwao kwa hiari mwaka 2002 hadi Mei, 2007, wakimbizi 350,000 wamerejea kwao wakiwemo wakimbizi 320,175 waliorejea kwa kusaidiwa na Serikali na UNHCR na 29,830 waliorejea kwao kwa kujitegemea wao wenyewe.</seg>
+          <seg xml:id="seg163">(b) Kama nilivyofafanua katika hotuba yangu ya Bajeti niliyoiwasilisha hapa Bungeni tarehe 31 Julai, 2007, Serikali inatarajia kukamilisha zoezi hili mwaka huu wa fedha na kuyafunga makambi na makazi yote ya wakimbizi kabla ya mwisho wa mwaka 2008. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u68" who="MheJumaHKillimbah">
+          <seg xml:id="seg164">Mheshimiwa Spika, nachukua nafasi hii kwa niaba ya Tume ya Pamoja na Nchi husika na UNHCR kuwahimiza wakimbizi wote kuwahi kurejea kwao hivi sasa wakati huu wa kiangazi ili wakawahi msimu wa kilimo kule kwao.</seg>
+          <seg xml:id="seg165">Mheshimiwa Spika, ahsante sana. Pamoja na majibu mazuri ya Mheshimiwa Waziri, nina swali dogo la nyongeza.</seg>
+          <seg xml:id="seg166">Mheshimiwa Spika, mimi ni Katibu wa Amani Forum chapter ya Tanzania na mwezi Novemba, 2006 nilikuwa kule maeneo ya Kigoma kuangalia hali ya zoezi hili la wakimbizi kurejeshwa makwao, lakini kilichojitokeza wakati tunafanya utafiti tukakuta kwamba yapo baadhi ya mashirika yanayosimamia wakimbizi kila wakimbizi wanaporejeshwa makwao wanakwenda wanashawishi wale wakimbizi warudi tena huku nchini kwa ajili ya maslahi yao, je, Wizara imechukua hatua gani kwa mashirika ya aina hiyo ambayo labda wanaweza kuyashtaki hata UN? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u69" who="MheJumaHKillimbah">
+          <seg xml:id="seg167">WAZIRI WA KAZI, AJIRA NA MAENDELEO YA VIJANA (kny. WAZIRI WA MAMBO YA NDANI YA NCHI): Mheshimiwa Spika, kama nilivyoeleza katika jibu langu la awali, urejeaji kwao wakimbizi unakwenda vizuri. Tulipoanza zoezi hili tulikuwa na wakimbizi zaidi ya 800,000 wamesharejea wote bado 300,000 na hao 300,000 tutasimamia wote warudi katika mwaka huu wa fedha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u70" who="MheJumaHKillimbah">
+          <seg xml:id="seg168">Mheshimiwa Spika, kuhusu tatizo alilolitaja kwamba baadhi ya mashirika yanashawishi wakimbizi warudi, tuko makini sana, mwaka juzi tuliwahi kupata tatizo kama hili na Serikali hii ilimfukuza nchini yule ofisa, tena alikuwa sio wa mashirika madogo madogo alikuwa ni wa UNHCR, Mkuu wa Makambi kule Ngara. Tulimtimua nchini kwa sababu ya kosa hili na wote watakaojaribu kurudia kosa kama hili tutawatimua. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u71" who="Spika">
+          <seg xml:id="seg169">Waheshimiwa Wabunge, muda wa maswali umeshapita. Limesalia swali moja, naomba radhi halikuweza kujibiwa leo lakini bado kesho linaweza kupata nafasi.</seg>
+          <seg xml:id="seg170">Matangazo, kwanza, ni wageni kama kawaida, Mheshimiwa Ezekiel Maige anao wageni wawili kutoka Uingereza, mmoja ni Bwana Robert Wilson, kutoka Shirika la Red International la Uingereza. Mr. Wilson please. Yule pale. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u72" who="Spika">
+          <seg xml:id="seg171">Mwenzake ni Bwana Christopher Noble, huyu ni Mwandishi wa Habari wa Shirika la BBC Uingereza. Yule pale. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u73" who="Spika">
+          <seg xml:id="seg172">We are happy to welcome you both to Dodoma and to Tanzania. We hope you will find time to see as much as possible, it is a large country but you can pick the places to go like Zanzibar, Arusha and I want you to have a very good time. Thank you. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u74" who="Spika">
+          <seg xml:id="seg173">Waheshimiwa Wabunge, huyu bwana Robert Wilson na Shirika lake la Red International wanatoa vitabu vya kiada kwa shule za sekondari. Nilitaka mjue hivyo ili mumbane Mheshimiwa Ezekiel Maige, vitabu hivi visiende tu Jimboni kwake na wengine muweze kupata vitabu hivyo. Kwa hiyo, mumuone Mheshimiwa Ezekiel Maige baada ya hapa ili awasaidieni kuwakutanisha na Bwana Wilson na Bwana Noble. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u75" who="Spika">
+          <seg xml:id="seg174">Mheshimiwa Ali Haji Ali ameniomba nimtambulishe mgeni wake ambaye ni Ndugu Athumani Juma Mhina ambaye amechaguliwa juzi tu kuwa Mwenyekiti wa muda wa Jumuiya ya Wazazi Tanzania. Karibu sana Athumani, nakumbuka enzi zetu tulipokuwa Wabunge pamoja ulikuwa machachari sana. Natumaini utakwenda kulinda vizuri mali za Jumuiya za Wazazi sasa. Karibu sana </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u76" who="Spika">
+          <seg xml:id="seg175">Pia tunao wanakwaya wa Kanisa la Sabato, waimbaji 35 na viongozi watatu kutoka Kanisa la Wasabato Kurasini, Dar es Salaam, wale pale, ahsante sana. Naona wako rasmi kabisa, sijui kama wamekuja na kanda zao maana yake sisi wengine ni mashabiki wa nyimbo. Kwa hiyo, kama wana kanda zao basi nitaomba msaidizi wangu mmoja aweze kuonana na viongozi ili tuweze kununua kanda hizo. Karibuni sana na mbarikiwe sana kwa kazi njema mnayoifanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u77" who="Spika">
+          <seg xml:id="seg176">Waheshimiwa Wabunge, pia wapo wanafunzi 30 wa Shule ya Sekondari Viwanda Dodoma pamoja na walimu wao. Tafadhali msimame, wale pale. Ahsanteni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u78" who="Spika">
+          <seg xml:id="seg177">Pia wapo wanafunzi wengine ambao sikuorodheshewa hapa sijui ni wa shule ipi lakini naomba msimame. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u79" who="Spika">
+          <seg xml:id="seg178">Katibu, hamkupata jina la shule hii? Inaitwaje?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u80" who="MbungeFulani">
+          <seg xml:id="seg179">Hijra.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u81" who="Spika">
+          <seg xml:id="seg180">Aah Hijra, Seminari ya Hijra karibuni sana. Nina imani wale wanaotoka Seminari wanaandaliwa kuwa raia wema sana siku zijazo. Kwa hiyo, mimi nadhani niwapongeze sana, mshike uzi, maadili yawe mema kama mnavyosomeshwa. Tanzania</seg>
+          <seg xml:id="seg181">inahitaji zaidi watu wema kuliko wale wengine wanaoshika mitutu ya bunduki na usiku wanafanya vitu vya ajabu. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u82" who="Spika">
+          <seg xml:id="seg182">Waheshimiwa Wabunge, mtakumbuka kwamba nadhani juzi nilitamka juu ya yule mtafiti wa masuala ya jamii na alifanya utafiti akagundua kwamba 54% ya wanaume wa Tanzania hupigwa na wake zao ila hawanung’uniki na wala hawaendi polisi, hawasemi chochote. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u83" who="Spika">
+          <seg xml:id="seg183">Waheshimiwa Wabunge, nafurahi sasa kwamba Ndugu Mwadawa Lugongo aliyefanya utafiti huo ambaye ni Mwanaharakati wa masuala ya familia yuko hapa kwenye gallery, yule pale. Karibu sana. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u84" who="Spika">
+          <seg xml:id="seg184">Karibu sana ndugu Mwadawa, utafiti wako unatutisha sana. Kama nilivyosema siku ile kwamba sisi hapa tunawakilisha jamii ya Tanzania kwa hiyo, inapotamkwa asilimia katika jamii maana yake na Wabunge hivyo hivyo. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u85" who="Spika">
+          <seg xml:id="seg185">Sasa sura ya Waheshimiwa Wabunge wengine wanaofoka sana hapa na makeke mengi kumbe jioni wanapata mkong’oto. Ahsante sana. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u86" who="Spika">
+          <seg xml:id="seg186">Nadhani utapata nafasi kukaa kidogo na Waheshimiwa Wabunge na kuwaonesha utafiti na pengine kwa kuwa hii ni asilimia inawezekana kabisa Wilaya nyingine zikawa labda asilimia yao ni ya juu na nyingine chini. Kwa hiyo, utafiti huu ni mzuri sana lazima Waheshimiwa Wabunge muuchangamkie. Ahsante Bi. Mwadawa. Sijui wewe mwenyewe umeolewa au? </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u87" who="Spika">
+          <seg xml:id="seg187">Matangazo mengine, Mheshimiwa Mgana Msindai, Mwenyekiti wa Kamati ya Hesabu za Serikali za Mitaa, ameniomba nitangaze kwamba wajumbe wote wa Kamati ya Hesabu za Serikali za Mitaa wakutane saa saba mchana ukumbi namba 231.</seg>
+          <seg xml:id="seg188">Mheshimiwa Job Ndugai, Mwenyekiti wa Kamati ya Maliasili na Mazingira, ameniomba nitangaze kwamba wajumbe wote wa Kamati ya Maliasili na Mazingira, wanaombwa wakutane leo, ukumbi namba 219 saa saba mchana.</seg>
+          <seg xml:id="seg189">Waheshimiwa Wabunge, kama mnavyofahamu tutakuwa na uchaguzi wa wajumbe wa Baraza la Vyuo Vikuu kadhaa. Sasa inashangaza Returning Officer ameniletea hadi tarehe ya mwisho ilipofikiwa, hakuna Mbunge yeyote aliyeomba kuingia katika Baraza la Chuo Kikuu Muhimbili na Chuo Kikuu Mzumbe. Sijui taarifa hazikukaa vizuri au nini? Hizi ni nafasi nzuri na za heshima. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u88" who="Spika">
+          <seg xml:id="seg190">Kwa hiyo, Returning Officer ameongeza muda wa kupokea maombi hadi leo saa kumi alasiri. Fomu ziko ofisini, wale wote wanaotaka kugombea kuwa wajumbe wa Bodi ya Chuo Kikuu cha Sayansi za Afya Muhimbili na Chuo Kikuu cha Mzumbe, tunawaomba mchukue fursa hiyo ili tuweze kufanya uchaguzi.</seg>
+          <seg xml:id="seg191">Kwa vyovyote vile itaonekana ni ubaguzi wa ajabu kwamba kwa Chuo Kikuu cha Dar es Salaam, Chuo Kikuu cha Dodoma Wabunge wamechangamkia lakini Mzumbe na</seg>
+          <seg xml:id="seg192">Muhimbili hapana. Mimi nadhani labda tu taarifa hazikukaa vizuri lakini nafasi ipo, fomu zipo, muda wa mwisho wa kurejesha fomu ni leo saa kumi. Ahsante, Katibu kwa shughuli inayofuata. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u89" who="Spika">
+          <seg xml:id="seg193">KAULI ZA MAWAZIRI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u90" who="MheHassanRajabKhatib">
+          <seg xml:id="seg194">Mheshimiwa Spika, taarifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u91" who="Spika">
+          <seg xml:id="seg195">Unasimama kuhusu utaratibu labda.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u92" who="MheHassanRajabKhatib">
+          <seg xml:id="seg196">Mheshimiwa Spika, utaratibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u93" who="Spika">
+          <seg xml:id="seg197">Aah, ndio nimekumbuka samahani sana. Waheshimiwa Wabunge wote wa Chama cha Mapinduzi, kutakuwa na mkutano saa saba kamili ukumbi wa Pius Msekwa. Endelea Mheshimiwa Waziri wa Fedha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u94" who="WaziriWaFedha">
+          <seg xml:id="seg198">Mheshimiwa Spika, wakati wa kujadili hotuba ya Bajeti ya Serikali kwa mwaka 2007/2008, mwezi Juni mwaka huu, Waheshimiwa Wabunge kadhaa walihoji hali isiyoridhisha la ongezeko la matumizi ya fedha za kigeni hasa dola ya Kimarekani katika biashara hapa nchini yaani dollarization. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u95" who="WaziriWaFedha">
+          <seg xml:id="seg199">Hoja hii ilijitokeza pia wakati wa kujadili mapendekezo ya Mapato na Matumizi ya Wizara ya Mipango, Uchumi na Uwezeshaji pamoja na Wizara ya Fedha. Aidha, suala hili limekuwa likijitokeza katika vyombo vya habari kutokana na wananchi kutaka kufahamu sababu za hali hii pamoja na athari zake kiuchumi.</seg>
+          <seg xml:id="seg200">Mheshimiwa Spika, dollarization katika uchumi inatafsiriwa kuonesha kiasi cha matumizi ya sarafu ya Kimarekani yaani dola kwa matumizi ya ununuzi wa vitu vya kawaida katika nchi nyingine. Kwa maana hiyo, matumizi ya sarafu ya Kimarekani katika mauziano ya bidhaa mbalimbali nchini Tanzania ni dollarization ya uchumi wa Tanzania. Hali kama hii kisoko inazikumba nchi zenye chumi dhaifu ambazo wananchi wake wanakuwa na imani hafifu katika sarafu ya nchi zao kwa sababu moja au nyingine na kutaka kujikinga kwa kupokea na kuweka akiba zao katika sarafu ya nchi nyingine kutokana na kuwa na imani na uimara wa sarafu hiyo. Chumi kadhaa za Afrika, Asia na Amerika ya Kusini zinakumbwa na hali kama hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u96" who="WaziriWaFedha">
+          <seg xml:id="seg201">Mheshimiwa Spika, sababu mojawapo inayopelekea kupotea kwa imani na sarafu ya nchi ni kushuka kwa haraka kwa thamani ya sarafu ya nchi hiyo mara kwa mara. Thamani ya shilingi ya Tanzania imekuwa ikishuka kwa muda mrefu ikilinganishwa na thamani ya sarafu ya nchi nyingi tunazofanyanazo biashara kubwa. Takwimu zilizopo zinaonyesha kuwa katika miaka mitano kabla ya kuondoa udhibiti wa fedha za kigeni yaani exchange control thamani ya shilingi ya Tanzania ilishuka toka shilingi 125 kwa dola moja ya Kimarekani mwaka 1988 hadi shilingi 335 kwa dola moja ya Kimarekani mwaka 1992. Hii ni kushuka kwa thamani kwa wastani wa asilimia 67 kwa kila moja ya miaka hiyo minne. Kushuka huku kwa thamani wakati Tanzania ilikuwa na sheria kali za kudhibiti fedha za kigeni kunaonesha kuwa nguvu za soko kutokana na udhaifu wa</seg>
+          <seg xml:id="seg202">uchumi wetu uliilazimisha Serikali yetu kupunguza thamani ya sarafu yetu kwa kiasi hicho. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u97" who="WaziriWaFedha">
+          <seg xml:id="seg203">Mheshimiwa Spika, hali ya Serikali kudhibiti sana fedha za kigeni hutafsiriwa kuashiria upungufu mkubwa wa fedha hizo na hivyo kupunguza imani katika sarafu ya nchi husika hasa miongoni mwa watu au makampuni yanayohitaji fedha za kigeni kwa shughuli za biashara. Baada ya kufungua soko la fedha za kigeni mwaka 1992, kasi ya kushuka kwa thamani ya shilingi ya Tanzania ilipungua kiasi. Kati ya mwaka 1993 na 2000, thamani ya shilingi ya Tanzania ilishuka kwa wastani wa asilimia 12.9 kwa mwaka. Kati ya mwaka 2000 hadi 2006 thamani hiyo ilishuka kwa wastani wa asilimia 5.9 kwa mwaka.</seg>
+          <seg xml:id="seg204">Mheshimiwa Spika, kwa kuzingatia takwimu hizi na tukifahamu kuwa masharti ya udhibiti wa fedha za kigeni yamelegezwa sana hivi sasa. Ni dhahiri kuwa thamani ya shilingi hivi sasa ni kielelezo halisi cha hali halisi ya uchumi wetu unavyotafsiriwa na soko la fedha za kigeni. Kwa mantiki hiyo, ni wazi kabisa kwamba imani katika sarafu ya Tanzania inaongezeka siku hadi siku ingawa bado kuna baadhi ya watu hawajawa na imani sawa sawa na shilingi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u98" who="WaziriWaFedha">
+          <seg xml:id="seg205">Mheshimiwa Spika, kuhusu sheria kuhusu umiliki na matumizi ya fedha za kigeni nchini, usimamizi wa umiliki na matumizi ya fedha za kigeni una historia ndefu hapa nchini. Awali ilikuwa ni marufuku kwa mtu yeyote kumiliki fedha za kigeni isipokuwa tu kama amepewa ruhusa na Benki Kuu kwa ajili hiyo. Katika kipindi hicho palikuwa na upungufu mkubwa wa fedha za kigeni hata nchi kushindwa kulipia mahitaji yake kutoka nje. Kama nilivyoeleza hali hiyo ilibadilika mwaka 1992 baada ya mabadiliko ya sera na sheria ambapo wananchi waliruhusiwa kupokea, kumiliki na kutumia fedha za kigeni kwa shughuli zao za kiuchumi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u99" who="WaziriWaFedha">
+          <seg xml:id="seg206">Mheshimiwa Spika, kifungu cha 4(b) cha Sheria ya Usimamizi wa Fedha za Kigeni ya mwaka 1992 yaani Foreign Exchange Aid, 1992 kinamruhusu mtu yeyote kumiliki kiasi chochote cha fedha za kigeni au dhahabu ghafi humu nchini kuuza fedha za kigeni katika maduka ya kubadilisha fedha yaani Bureau de change au wakala aliyeruhusiwa na Benki Kuu kwa ajili hiyo na kuwa na akaunti ya fedha za kigeni katika benki iliyoruhusiwa na Benki Kuu kwa ajili hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u100" who="WaziriWaFedha">
+          <seg xml:id="seg207">Mheshimiwa Spika, Kanuni zinazohusu uendeshaji wa maduka ya fedha za kigeni yaani The Foreign Exchange Regulation of 1999 zinawataka wageni wa muda mfupi hapa nchini wanaoishi katika hoteli au nyumba za kulala wageni kulipia gharama zao za malazi na huduma nyingine katika hoteli hizo ama kwa fedha za kigeni au shilingi za Kitanzania ambazo zimepatikana kutoka katika maduka rasmi za kubadilisha fedha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u101" who="WaziriWaFedha">
+          <seg xml:id="seg208">Vile vile kifungu cha 26 cha Sheria ya Benki Kuu ya Tanzania ya mwaka 2006 kinachotoa madaraka ya kuchapisha na kutoa fedha za Kitanzania kwa Benki Kuu pekee kinaelekeza kuwa shilingi ya Tanzania ndio fedha pekee ambayo hakuna mtu au kampuni yoyote nchini inayoruhusiwa kuikataa kwa malipo yoyote yaani ni legal tender. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u102" who="WaziriWaFedha">
+          <seg xml:id="seg209">Mheshimiwa Spika, vifungu vya sheria nilivyovinukuu hapa vinajumuisha mambo ya msingi yafuatayo:-</seg>
+          <seg xml:id="seg210">Mheshimiwa Spika, kwanza, hakuna kipingamizi chochote cha kisheria dhidi ya wananchi kumiliki fedha za kigeni iwe ni taslimu au akaunti katika benki.</seg>
+          <seg xml:id="seg211">Mheshimiwa Spika, pili, shilingi ya Tanzania ndio fedha pekee ambayo haiwezi kukataliwa kwa ajili ya malipo hapa nchini. Kwa hiyo, ni kosa kwa mtu yeyote kukataa malipo kwa fedha za Kitanzania au kumlazimisha mtu yeyote kufanya malipo kwa fedha tofauti na shilingi za Kitanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u103" who="WaziriWaFedha">
+          <seg xml:id="seg212">Tatu, wageni wasio wakazi hapa nchini wanaweza kufanya malipo kwa fedha za kigeni au shilingi za Kitanzania mradi shilingi hizo ziwe zimepatikana kupitia duka halali la kubadilisha fedha za kigeni au benki iliyoidhinishwa na Benki Kuu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u104" who="WaziriWaFedha">
+          <seg xml:id="seg213">Mheshimiwa Spika, kuhusu matangazo ya bei katika fedha za kigeni. Kutangaza bei ya bidhaa zetu katika fedha za kigeni hakukatazwi na sheria yoyote ya Tanzania. Mlango huu uliachwa wazi kuwasaidia wazalishaji kupata masoko ya mazao wauzayo nje ya nchi ili wanunuzi wa bidhaa hizo waelewe kirahisi bei za bidhaa au huduma hizo. Kipengele hicho kimekuwa kikitumika vile vile ndani ya Tanzania kwa kuwalenga wageni hasa watalii kwa malipo ya hoteli na huduma mbalimbali ikiwa ni pamoja na import handling fees na kadhalika.</seg>
+          <seg xml:id="seg214">Mheshimiwa Spika, dhana hii ya kurahisisha ujuzi wa thamani ya bidhaa na huduma tunazouza kwa wateja wa nje au wasio wakazi wa Tanzania inapoteza maana yake pale ambapo kila mchuuzi hapa nchini anapotoa tangazo la bei la bidhaa zake katika fedha za kigeni na pale mnunuzi au mlipaji anapolazimishwa kulipia bidhaa au huduma kwa fedha za kigeni, aidha, kwa kukataliwa kuuziwa bidhaa au kwa kupewa kiwango cha juu sana cha kubadilisha pesa za kigeni kisichoendana na hali halisi ya soko. Kama nilivyoeleza awali, kitendo cha kukataa malipo kwa shilingi ya Kitanzania ni kuvunja Sheria ya Benki Kuu ya Tanzania ya mwaka 2006. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u105" who="WaziriWaFedha">
+          <seg xml:id="seg215">Mheshimiwa Spika, aidha, ni muhimu vile vile ifahamike kuwa utekelezaji wa sera ya fedha katika uchumi huathiriwa pale ambapo sarafu inayotumika kwa mauzo nchini ni ya nchi nyingine au pale fedha za nchi nyingine zinapoweza wakati wowote zikawa mbadala wa fedha inayotolewa na Benki Kuu ya nchi husika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u106" who="WaziriWaFedha">
+          <seg xml:id="seg216">Mheshimiwa Spika, kwa kuzingatia haya na kwa kuzingatia kwamba Waheshimiwa Wabunge wamelizungumzia sana suala hili, inaonekana kuwa ni kero kubwa kwa wananchi, Serikali inaagiza kwamba bei zote nchini zitangazwe kwa fedha ya Tanzania yaani shilingi ya Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u107" who="WaziriWaFedha">
+          <seg xml:id="seg217">Mheshimiwa Spika, aidha na hasa kwa vile zile bidhaa na huduma zinazowalenga watalii au wateja wasio wakazi wa Tanzania, matangazo ya bei yanaweza yakawekwa</seg>
+          <seg xml:id="seg218">kwa sarafu mbili yaani shilingi ya Kitanzania na fedha ya nje na malipo kupokelewa kwa sarafu ambayo mlipaji atakuwa nayo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u108" who="WaziriWaFedha">
+          <seg xml:id="seg219">Pili, viwango vya kubadilishana fedha vitakavyotumika katika kuweka hizo bei katika sarafu mbili iwekwe wazi na isizidi ile ya soko. Ifahamike wazi kuwa ni mabenki na maduka ya fedha za kigeni tu yanayoruhusiwa kupanga viwango vya kubadilisha fedha kutokana na ushindani katika soko la fedha za kigeni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u109" who="WaziriWaFedha">
+          <seg xml:id="seg220">Tatu, mkazi yeyote wa Tanzania asilazimishwe kulipia bidhaa au huduma yoyote hapa nchini kwa fedha za kigeni. Mtu alipe kwa fedha za kigeni akitaka yeye mwenyewe na kwa hiari yake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u110" who="WaziriWaFedha">
+          <seg xml:id="seg221">Mheshimiwa Spika, kwa kuhitimisha, napenda kumalizia kwa kuwakumbusha wananchi kuwa suluhu ya kudumu ya kuimarisha thamani ya sarafu yetu ni kuongeza uzalishaji na kukubali kutumia zaidi bidhaa na huduma zinazozalishwa hapa nchini. Thamani ya sarafu ni kielelezo cha uwezo wa uchumi kukidhi mahitaji yake ya msingi ikiwemo kulipia mahitaji ambayo hayana budi kuagizwa kutoka katika nchi nyingine. Kwa hiyo, tutakuwa tumechangia kuimarisha sarafu yetu iwapo tutaongeza mauzo yetu nje na kupunguza matumizi ya bidhaa zinazozalishwa nje ya nchi yetu. Kila mmoja wetu ana mchango wa kutoa katika jambo hili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u111" who="WaziriWaFedha">
+          <seg xml:id="seg222">Mheshimiwa Spika, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u112" who="Spika">
+          <seg xml:id="seg223">Katibu, taarifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u113" who="NdJohnNJoelKatibuMezani">
+          <seg xml:id="seg224">Mheshimiwa Spika, shughuli zilizopangwa katika Kikao cha leo zimekamilika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u114" who="Spika">
+          <seg xml:id="seg225">Ahsante sana. Waheshimiwa Wabunge, huo ndio mwisho wa shughuli za kikao cha leo tulivyopanga. Kama tulivyotangaza tuna kazi kubwa ya kurekebisha Kanuni za Bunge. Kazi hiyo imeanza jana na inaendelea. Tutaanza tena saa tano kamili ili kutoa nafasi kwa Waheshimiwa Wabunge kunyoosha miguu na baadae kurejea. Tutagonga kengele saa tano kasoro dakika tano ili turejee ukumbini. Naomba mahudhurio yawepo, kumekuwepo na maneno mengi kuhusu Kanuni, sasa hii ndio fursa ya kukaa pamoja na kutengeneza Kanuni muafaka. Sasa inapokuwa tena hamji baadae mnalalamika kwa kweli haipendezi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u115" who="Spika">
+          <seg xml:id="seg226">Masahihisho kuhusu tangazo langu la Chuo Kikuu cha Muhimbili na Chuo Kikuu Mzumbe, nafasi zilizobaki ni za Wabunge Wanawake tu. Kumbe tulishajaza zile nafasi za wanaume. Katika Katiba za Bodi hizi uwiano wa jinsia unazingatiwa. Kwa hiyo, watakaokwenda kuchukua fomu kwa Katibu wa Bunge leo na kuzirejesha kabla ya saa kumi alasiri wanaombwa wawe ni Wabunge Wanawake. Ni Chuo Kikuu Muhimbili na Chuo Kikuu Mzumbe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-08-16-bunge-08-46.u116" who="Spika">
+          <seg xml:id="seg227">Baada ya hapo, kwa sasa naahirisha shughuli za Bunge hadi hapo kesho saa tatu asubuhi.</seg>
+          <seg xml:id="seg228">(Saa 04.32 asubuhi Bunge liliahirishwa mpaka siku ya Ijumaa,</seg>
+          <seg xml:id="seg229">Tarehe 17 Agosti, 2007 saa tatu asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

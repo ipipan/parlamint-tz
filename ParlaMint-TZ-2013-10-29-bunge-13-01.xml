@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2013-10-29) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2013-10-29) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="1">1. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="13">13. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1462360564-HS-13-1-2013.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2013-10-29">29.10.2013</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 1. Kituo cha Nindo Kupewa Kibali cha Huduma za Wilaya</note>
+        <note>(K.n.y. MHE. AZZA HILLAL HAMADI)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u1" who="MheJamesDLembeli">
+          <seg xml:id="seg1">[MHE. JAMES D. LEMBELI]</seg>
+          <seg xml:id="seg2">Hospitali ya Mkoa wa Shinyanga imekuwa na msongamano mkubwa wa wa wagonjwa.</seg>
+          <seg xml:id="seg3">Je, Serikali haioni kuwa kuna umuhimu wa kukipa kibali kituo cha Afya cha Nindo, katika Halmashauri ya Wilaya ya ya Shinyanga ili kianze kutoa huduma za Hospitali ya Wilaya kwa kuwa kuna jengo la upasuaji na vifaa vyote?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u2" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, ninaomba kujibu swali la la Mheshimiwa Azza Hillal Hamad, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, msongamano wa wagonjwa katika Hospitali ya Mkoa wa Shinyanga unatokana na hospitali hiyo kuhudumia wagonjwa wa rufaa kutoka kwenye Hospitali zote za Wilaya za Mkoa wa Shinyanga pamoja na Mikoa ya jirani.</seg>
+          <seg xml:id="seg6">Mpango wa Serikali ni kujenga Hospitali ya Rufaa ya Mkoa katika bajeti ya mwaka 2013/2014 kiasi cha shilingi bilioni 1.0 kimetengwa ili kuanza ujenzi na tayari eneo lenye ukubwa wa ekari 100 limepatikana kwa ajili hiyo.</seg>
+          <seg xml:id="seg7">Ili kusogeza huduma za Afya kwa wananchi wa Wilaya ya Shinyanga Serikali imeanza ujenzi wa Hospitali za Wilaya ya Shinyanga na hadi sasa jumla ya shilingi milioni 363.0 zimetumika katika ujenzi wa Hospitali hiyo. Aidha, katika Bajeti ya mwaka 2012/2013 Serikali iliidhinisha jumla ya shilingi milioni 200.0 kwa ajili ya ujenzi wa Hospitali na kazi hiyo inaendelea.</seg>
+          <seg xml:id="seg8">Kazi ambazo zimefanyika hadi sasa ni ujenzi wa jengo la wagonjwa wa nje(OPD) na wodi mbili za akina mama ambazo ziko katika hatua ya umalizikaji.</seg>
+          <seg xml:id="seg9">[NAIBU WAZIRI, OFISI YA WAZIRI MKUU, TAWALA ZA MIKOA NA SERIKALI ZA MITAA (ELIMU)]</seg>
+          <seg xml:id="seg10">Mheshimiwa Naibu Spika, Serikali itaendelea kuimarisha huduma za afya katika vituo vya afya vilivyopo pamoja na Zahanati thelathini (30) zilizopo kikiwemo kituo cha afya cha Nindo ili viweze kuhudumia wagonjwa kwa ufanisi zaidi na kupunguza msongamano katika Hospitali ya Wilaya na Mkoa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u3" who="MheJamesDLembeli">
+          <seg xml:id="seg11">Mheshimiwa Naibu Spika, kwa kuwa tataizo hili la Shinyanga limechukua muda mrefu takribani miaka sita, sana na majibu ya Serikali yamekuwa ni kuwa Serikali ina mpango wa kujenga Hospitali ya Mkoa wa Shinyanga.</seg>
+          <seg xml:id="seg12">Je Serikali inawaambia nini wananchi wa Shinyanga kwa uhakika kuwa mpango huu utakamilika lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u4" who="NaibuSpika">
+          <seg xml:id="seg13">Majibu ya swali hili Mheshimiwa Waziri wa Tawala za Mikoa na Serikali za Mitaa, Mheshimiwa Kassim Majaliwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u5" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg14">Mheshimiwa Naibu Spika, ninaomba kujibu swali la nyongeza la Mheshimiwa James Lembeli, kama ifauatavyo:-</seg>
+          <seg xml:id="seg15">Mkakati wa Serikali ni kuhakikisha kuwa Huduma hii ya Afya nchini kote inatolewa kwa ukaribu na mahali mwananchi alipo ili huduma hii iweze kuwa bora zaidi, na sasa tumeamua kujenga hospitali za rufaa kwenye maeneo haya ili kuondoa misongamano na kukaribisha huduma hii.</seg>
+          <seg xml:id="seg16">Mkoa wa Shinyanga mpango upo na tunaendelea na ujenzi na fedha zilishatengwa kama ambavyo nimesema katika jibu la msingi na kwa hiyo kero hiyo itakuwa imekwisha tutakapokamilisha wakati huo huo tunaendelea kuboresha hospitali ya Mkoa ambapo sasa itakuwa inapunguza zile rufaa kutoka hospitali za Wilaya, Zahananti na Vituo vya Afya ili kuweza kuleta huduma hii kuwa bora zaidi huo ndiyo mkakati wa Serikali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u6" who="NaibuSpika">
+          <seg xml:id="seg17">Nilikuona Swali la nyongeza Mheshimiwa Maryam Msabaha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u7" who="MheMaryamSalumMsabaha">
+          <seg xml:id="seg18">Mheshimiwa Naibu Spika, nilikuwa ninaomba nimwulize Mheshimiwa Waziri swali dogo la nyongeza. Kwa kuwa, Hospitali ya Muhimbili tatizo hili la msongamano wa watu Hospitali ya Muhimbili kila kukicha linazidi.</seg>
+          <seg xml:id="seg19">Je, Serikali ina mpango gani wa kutatua tatizo hili na kuboresha Hospitali ya Muhimbili?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u8" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg20">Mheshimiwa Naibu Spika, kwa niaba sijui ni Waziri gani maana hilo swali hilo siyo la TAMISEMI tena kwa niaba ya Serikali nitoe majibu ya Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg21">Muhimbili kuna msongamano sawa lakini siyo swehemu zote inategemea ni eneo gani ukienda eneo la wagonjwa wa magonjwa labda ya ajali ya dharula msongamano ni mkubwa sana, na hii inatokana na wimbi kubwa la ajali zinazotokea kutokana na bodaboda eneo hilo tuna kiri na tunalitafutia wakati wa namna ya kuliboresha.</seg>
+          <seg xml:id="seg22">Mheshimiwa Naibu Spika, lakini pia eneo la magonjwa mengine kama moyo sasa hivi kuna kituo cha Kimataifa pale kimejengwa kwa ajili ya magonjwa ya moyo ni kizuri sana lakini baadaye tumekuja kugundua kumbe matataizo haya ni makubwa na tunahitaji kujenga cha pili. Kwa sasa Mheshimiwa Mbunge angekubali kuwa angalau Muhimbili sasa imeboreka sana lakini jitihada za Serikali ni kuiboresha zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u9" who="NaibuSpika">
+          <seg xml:id="seg23">Tunaendelea na swali la Mheshimiwa Dkt. Anthony Gervas Mbassa.</seg>
+        </u>
+        <note>Na. 2. Uchunguzi wa Watumishi – Karagwe</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u10" who="MheDktAnthonyGMbassa">
+          <seg xml:id="seg24">Je, ni lini suala la Watumishi wa Wilaya ya Karagwe akiwemo Mkurugenzi na baadhi ya Wakuu wa Idara waliosimamishwa kupisha uchunguzi wa takribani mwaka mmoja na nusu sasa huku wakilipwa mishahara bila kazi litakamilika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u11" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg25">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu ninaomba kujibu swali la Mheshimiwa Dkt. Annthony Gervas Mbassa, Mbunge wa Biharamulo Mgaharibi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg26">Ofisi ya Waziri Mkuu TAMISEMI ilipokea malalamiko ya matumizi mabaya ya madaraka na ubadhilifu katika Halmashauri ya Wilaya ya Karagwe. Uchunguzi wa awali ulifanyika mwezi Agosti 2009, ambapo matokeo ya awali yalionyesha kuwa kuna ukweli kuhusiana na malalamiko hayo.</seg>
+          <seg xml:id="seg27">Mheshimiwa Naibu Spika, Serikali ilichukua hatua ya kumpumzisha kutekeleza majukumu Mkurugenzi pamoja na watumishi tisa kwa mujibu wa kanuni ya 37 ya Kanuni za Utumishi wa Umma za mwaka 2003, ili kupisha uchunguzi zaidi. Kamanda wa polisi wa Mkoa wa Kagera aliagizwa kufanya uchunguzi zaidi ambapo katika uchunguzi huo ulibaini watumishi watano wanazo tuhuma za kutenda makosa ya jinai na hivyo wafikishwe Mahakamani.</seg>
+          <seg xml:id="seg28">[NAIBU WAZIRI, OFISI YA WAZIRI MKUU, TAWALA ZA MIKOA NA SERIKALI ZA MITAA (ELIMU)]</seg>
+          <seg xml:id="seg29">Mheshimiwa Naibu Spika, majalada hayo yalipelekwa kwa Mwanasheria Mkuu wa Serikali Kanda ya Bukoba na ilibainika kuwa tuhuma hizo hazina ushahidi madhubuti wa kuweza kutumika Mahakamani. Hivyo basi ilishauriwa zichukuliwe hatua za kinidhamu na Kiutawala.</seg>
+          <seg xml:id="seg30">Kutokana na ushauri wa Ofisi ya Mwanasheria wa Serikali Ofisi ya Waziri Mkuu – TAMISEMI ilichukua hatua zifuatazo:-</seg>
+          <seg xml:id="seg31">(a)Mkurugenzi Mtendaji wa Halmashauri ya Karagwe alivuliwa madaraka na kupangiwa kazi katika sekretarieti ya Mkoa kwa cheo chake cha muundo mwezi Machi, 2013.</seg>
+          <seg xml:id="seg32">(b)Halmashauri ya Wilaya ya Karagwe kupitia kikao chake cha Baraza la Madiwani la tarehe 31/7/2012 na 31/1/ 2013 ilitoa maamuzi ya kuwapa onyo watumishi tisa.</seg>
+          <seg xml:id="seg33">Mheshimiwa Naibu Spika, Serikali ina wahakikishia Waheshimiwa Wabunge kuwa itaendelea kuchukua hatua kwa Watumishi watakaobainika kujihusisha na vitendo vya ubadhilifu wa mali ya Umma kwa kuzingatia Sheria, Kanuni na Taratibu za Utumishi wa Umma.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u12" who="MheDktAnthonyGMbassa">
+          <seg xml:id="seg34">Mheshimiwa Naibu Spika, ninakushukuru kwa kuwa katika majibu ya msingi japo swali hili lilishapitwa na wakati Serikali imetamka bayana kuwa hawa Watumishi walionekana wanayo hatia ya kujibu na hatimaye Mwanasheria Mkuu wa Serikali akasema hawana hatia ya kujibu.</seg>
+          <seg xml:id="seg35">Je, haioni kuwa Serikali hapa minajikanganya na kuharibu nia njema Watumishi hawa waliokuwa nayo ya kuendelea kufnya kazi?</seg>
+          <seg xml:id="seg36">Swali la pili, Watumishi hawa wamekaa nje ya Utumishi wao zaidi ya mwaka mmoja wakilipwa mshahara ambayo ni kodi ya Watanzania wakati hawafanyi kazi.</seg>
+          <seg xml:id="seg37">[MHE. DKT. ANTHONY G. MBASSA]</seg>
+          <seg xml:id="seg38">Je, Serikali haioni kuwa inasababisha hasara zingine ambazo haiwezi kutoa maelezo ya kutosha hapa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u13" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg39">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu ninaomba kujibu swali la nyongeza la Mheshimiwa Mbassa kama ifuatavyo:-</seg>
+          <seg xml:id="seg40">Swali lake la kwanza ni kweli kwamba uchunguzi uliofanywa tulikiri kuwa zipo tuhuma lakini pamoja na kukiri ni lazima upeleke kwa Mwanasheri Mkuu ili aweze kuthibitisha na kuweza kuchukua hatua na hatua ilishaelekezwa kwa Mkuu wa Polisi wa Mkoa wa Kagera ili aweze kuwafikisha Mahakamani, ngazi ya Mahakama iliweza kutoa maelekezo ambayo tumeweza kuyatekeleza ikiwemo ushauri ambao ulikuwa umetolewa wa kuwa sasa turudishiwe.</seg>
+          <seg xml:id="seg41">TAMISEMI na sisi tuchukue hatua na tulichukua hatua kwa Mkurugenzi Mtendaji kwa kumvua madaraka ya Ukurugenzi na kurudi kwenye cheo chake cha muundo wake kama alikuwa ni Afisa Kilimo basi aapishwe kuwa Mkuu wa Idara ya Kilimo na wala siyo Ukurugenzi tena ambao unamuwezesha kufanya majukumu makubwa.</seg>
+          <seg xml:id="seg42">Mheshimiwa Naibu Spika, hao wengine baada ya uchunguzi ilibainika kuwa wanayo matatizo na ngazi ambayo inaweza kutoa maelekezo ni Baraza la Madiwani ambalo lilikaa na lilishatoa maamuzi yake kwa kuwapa onyo watumishi wote tisa.</seg>
+          <seg xml:id="seg43">Lakini la pili, watumishi hawa kukaa nje wakiwa wanalipwa mshahara kwa mujibu wa Kanuni za Mtumishi yoyote anayesimamishwa kazi huwa analipwa nusu mshahara mpaka hapo itakapo amriwa sasa kama jambo hili lipo tutafanya mawasiliano kuona hali hiyo inaendelea vipi na tuweze kuchukua hatua zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u14" who="NaibuSpika">
+          <seg xml:id="seg44">Waheshimiwa Wabunge, tunaendelea na Wizara ya Mambo ya ndani ya nchi ambayo tutapata maswali mawili, swali la kwanza linaloulizwa na Mheshimiwa Mbunge wa Bumbwini, Mheshimiwa Ramadhani Haji Saleh.</seg>
+        </u>
+        <note>Na. 3. Agizo la Kuwaondoa Wahamiaji Haramu</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u15" who="MheRamadhaniHSaleh">
+          <seg xml:id="seg45">Kutokana na agizo la Mheshimiwa Rais la kuwaondoa wahamiaji haramu nchini warudi kwenye nchi zao, kuna baadhi ya wahamiaji hao badala ya kuondoka nchini wamekimbilia kwenye Mikoa mingine nchini.</seg>
+          <seg xml:id="seg46">Je, ni hatua gani za ziada zimechukuliwa kuwatoa wahamiaji haramu nchini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u16" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg47">Mheshimiwa Spika, Kwa niaba ya Waziri wa mambo ya Nchi napenda kujibu swali la Mheshimiwa Ramadhani Haji Salehe, Mbunge wa Bumbwini kama ifuatavyo:-</seg>
+          <seg xml:id="seg48">Mheshimiwa Spika, kabla ya kufanyika kwa Operesheni Maalum ya kuwaondosha wahamiaji haramu (Operesheni Kimbunga) katika Mikoa ya Geita, Kagera na Kigoma, Wizara yangu kupitia Idara ya Uhamiaji na Vyombo vya Ulinzi na Usalama ilitambua changamoto hiyo kwamba baadhi ya wahamiaji haramu wangeweza kujaribu kukimbilia Mikoa ya jirani. Katika kupambana na changamoto hiyo hatua zifuatazo zilichukuliwa:-</seg>
+          <seg xml:id="seg49">• Kuagiza Mikoa ya jirani kuanzisha vizuizi vya njiani (Road Blocks) katika katika Mikoa iliyo jirani.</seg>
+          <seg xml:id="seg50">[NAIBU WAZIRI WA MAMBO YA NDANI YA NCHI]</seg>
+          <seg xml:id="seg51">• Kuimarisha, kuongeza doria na misako katika mahoteli, nyumba za kulala wageni na katika fukwe za maziwa na bahari.</seg>
+          <seg xml:id="seg52">• Kuendesha Operesheni za kuwasaka wahamiaji haramu katika Mikoa ya jirani, Mji na Majiji mengine mfano Dar es Salaam.</seg>
+          <seg xml:id="seg53">Mheshimiwa Spika, Pamoja na jitihada hizo, kulifanywa ukaguzi Katika magari ya abiria na mizigo ili kubaini wahamiaji haramu wa aina hiyo. Aidha, elimu kwa raia juu ya madhara ya uhamiaji haramu ilitolewa na kusisitiza umuhimu wa wananchi kushiriki kuwafichua wahamiaji haramu wanaoishi miongoni mwao.</seg>
+          <seg xml:id="seg54">Mheshimiwa Spika, Hatua nyingine za makusudi zinazoendelea kuchukuliwa ni pamoja na kufanya Operesheni za kushtukiza katika Mikoa mbali mbali yenye lengo la kuwabaini wahamiaji haramu na kuwachukulia hatua stahili.</seg>
+          <seg xml:id="seg55">Pia kuwahamasisha viongozi wa Serikali katika ngazi ya Kata na Vijiji ili waweze kutoa taarifa za wageni wanaoingia katika maeneo yao kwa Watendaji wa Idara ya Uhamiaji na vyombo vingine vya Ulinzi na Usalama.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u17" who="MheRamadhaniHSaleh">
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, ninaomba kumwuliza Naibu Waziri swali moja la nyongeza. Kwa kuwa operasheni hiyo ilifanyika zaidi pembezoni mwa Tanzania.</seg>
+          <seg xml:id="seg57">Je, ni lini operasheni kama ile itafanyika ndani ya nchi ya Tanzania?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u18" who="NaibuSipka">
+          <seg xml:id="seg58">Majibu ya swali hilo Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya nchi, Mheshimiwa Pereira Ame Silima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u19" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg59">Mheshimiwa Naibu Spika, Kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Ramadhani Haji Salehe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg60">Mheshimiwa Naibu Spika, Operesheni iliyofanywa ilifanywa ndani ya Tanzania lakini kwa mikoa michache ambayo, Mheshimiwa Rais alielekeza. Mikoa hii ndiyo ambayo ilikuwa imefikia hatua ambayo kuvumilia kama Watanzania ni tabu sana.</seg>
+          <seg xml:id="seg61">Pamoja na hiyo operesheni hii, pia iliingia kwenye baadhi ya mikoa, kwa namna tofauti. Imefikia kwenye awamu ya tatu ambayo kimsingi inafanyika katika kila Wilaya, kila Sheia na kila Kijiji. Ni operesheni endelevu na kuhakikisha kwamba sasa wahamiaji haramu waondoke wenyewe au waondoshwe kwa mujibu wa sheria za nchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u20" who="NaibuSpika">
+          <seg xml:id="seg62">Mheshimiwa Selasine nilikuona swali la nyongeza. Oh Mheshimiwa Kiongozi wa Upinzani Bungeni samahani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u21" who="MheFreemanAMbowe">
+          <seg xml:id="seg63">Mheshimiwa Naibu Spika, nakushukuru. Swali langu kwa Mheshimiwa Waziri ni kwamba pamoja na nia njema ya Serikali kuwaondoa wahamiaji haramu. Zoezi hili limefanyika katika mazingira ambayo hayakuwa na maandalizi ya kutosha na kutokana na sababu hizo, yako maeneo ambayo yalionekana kabisa chuki na uonevu vimetumika, wako watu ambao wameondolewa kinyume na haki za binadamu. Wako watu ambao wameondolewa bila kujali mali zao ama mazingira yaliowaleta wakawa ndani ya nchi yetu ya Tanzania.</seg>
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, Je, kwasababu ya uonevu mkubwa ambao umejitokeza au uendeana na zoezi hili. Pale itakapogundulika kwamba vyombo vyetu vilitumia utaratibu ambao ni kinyume cha sheria na uvunjaji wa haki za binadamu.</seg>
+          <seg xml:id="seg65">Je, Serikali itakuwa tayari kulipa fidia kwa wale ambao watabainika kwamba wameonewa katika zoezi hili?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u22" who="NaibuSpika">
+          <seg xml:id="seg66">Majibu ya swali hilo Mheshimiwa Waziri wa Ulinzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u23" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg67">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu naomba kutoa maelezo yafuatayo:-</seg>
+          <seg xml:id="seg68">Mheshimiwa Naibu Spika, nimemsikiliza kwa makini sana Kiongozi wa Kambi ya Upinzani, Mheshimiwa Mbowe. Ni kweli kwanza nakiri kwamba zoezi na operesheni iliyofanywa na Serikali, katika kuwashughulikiwa wahamiaji haramu, na wahalifu mbali mbali wanaotoka nje ya nchi yetu, yalikuwa na nia njema. Na hiyo ndiyo ilikuwa dhamira na nia ya Serikali.</seg>
+          <seg xml:id="seg69">Lakini nakubaliana nae pia kwamba yapo malalamiko kwamba, wako baadhi ya watu wameondolewa kinyume na misingi ya kibinadamu na haki za kibinadamu kwa ujumla. Na anasema kwamba, Je ikibainika Serikali iko teari kulipa fidia.</seg>
+          <seg xml:id="seg70">Naomba nimhakikishie, Mheshimiwa Kiongozi wa Upinzani kwamba, Serikali itafanya kila linalowezekana kulichunguza jambo hilo. Pale litakapobaini basi sitoi ahadi moja kwa moja lakini itachukua hatua zinazo stahiki kwa mujibu wa Katiba na Sheria ya nchi yetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u24" who="NaibuSpika">
+          <seg xml:id="seg71">Tunaendelea na swali linalofuata Waheshimiwa Wabunge kwa sababu ya muda. Linaulizwa na Mheshimiwa Grace Sindato Kiwelu. Mbunge wa viti maalum.</seg>
+          <seg xml:id="seg72">Posho ya Chakula kwa Askari</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u25" who="MheGraceSKiwelu">
+          <seg xml:id="seg73">Bunge lilidhihirisha Posho ya Chakula (Ratio Allowance) ya shilingi 150,000/= kwa ajili ya Askari Polisi kwa kila mwezi.</seg>
+          <seg xml:id="seg74">Je, ni lini posho hii itaanza kulipwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u26" who="NaibuSpika">
+          <seg xml:id="seg75">Majibu ya swali hilo, Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya Nchi, Mheshimiwa Silima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u27" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg76">Mheshimiwa Naibu Spika, Kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Grace Sindato Kiwelu, Mbunge wa Viti Maalumu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg77">Mheshimiwa Naibu Spika, Maombi ya Posho ya Chakula (Ratio Allowance) ya Shilingi 150,000 kwa kila Askari Polisi, Askari Magereza, Idara ya Uhamiaji na Askari wa Jeshi la Zimamoto na Uokoaji, kwa mwezi yalipendekezwa na Tume ya Polisi na Magereza Mwaka 2011, na kuridhiwa na Wizara ya Fedha Mwaka 2012. Na kisha kupitishwa na Bunge kwenye Bajeti ya Mwaka 2012/2013. Malipo ya Posho hiyo yalianza kutekelezwa kuanzia mwezi Julai, 2012 na yanaendelea hadi leo.</seg>
+          <seg xml:id="seg78">Mheshimiwa Naibu Spika, Serikali itaendelea kutekeleza azma yake ya kuboresha maslahi ya watumishi wake, kwa kadiri hali ya uchumi wanchi itakavyo ruhusu.</seg>
+          <seg xml:id="seg79">Mheshimiwa Naibu Spika, Kupitia Bunge lako tukufu, naomba kuwashukuru Maafisa na Wapiganaji wote wa Jeshi la Polisi, Magereza, Jeshi la Zimamoto na Uokoaji.</seg>
+          <seg xml:id="seg80">[NAIBU WAZIRI WA MAMBO YA NDANI YA NCHI]</seg>
+          <seg xml:id="seg81">Pamoja na Watumishi wa Idara ya Uhamiaji kwa uelewa na uvumilivu wao. Wakati wa kipindi chote cha mchakato wa maombi ya Posho hiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u28" who="NaibuSpika">
+          <seg xml:id="seg82">Swali la nyongezaMheshimiwa Grace Sindato Kiwelu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u29" who="MheGraceSKiwelu">
+          <seg xml:id="seg83">Mheshimiwa Naibu Spika, nashukuru ninayo maswali madogo mawili ya nyongeza:-</seg>
+          <seg xml:id="seg84">1. Kwakuwa kuna baadhi ya askari ambao wanadai hawajapata posho hizi, Je Wizara itakuwa teyari sasa kufuatilia na kuhakikisha askari wote wanapata?</seg>
+          <seg xml:id="seg85">2. Swali la pili, Wako baadhi ya askari waliopandishwa vyeo, lakini mpaka sasa hawajapata mishahara inayolingana na vyeo vyao. Je Wizara ipo teyari kuwalipa sasa mishahara yao pamoja na malimbukizo ya mishahara hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u30" who="NaibuSpika">
+          <seg xml:id="seg86">Majibu ya maswali hayo kutoka kwa Waziri wa mambo ya nje Mheshimiwa Pereira Ame Silima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u31" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg87">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa mambo ya ndani ya Nchi napenda kujibu maswala ya nyiongeza ya Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg88">Mheshimiwa Naibu Spika, je mpo teyari kuwalipa posho hilo wale ambao hawajapata? Hili bila shaka tupo teyari na kama kuna orodha ambao hawajapata itatusaidia, kufanya kazi haraka kuliko kuanza kutafuta sisi wenyewe. Ntashukuru Mheshimiwa Mbunge, kama wewe au Wabunge wengine, wanao watu ambao wanahisi posho hii hawajapatiwa.</seg>
+          <seg xml:id="seg89">[NAIBU WAZIRI WA MAMBO YA NDANI YA NCHI]</seg>
+          <seg xml:id="seg90">Mheshimiwa Naibu Spika, nakuhusu mishahara Serikali inaporidhia kupandisha cheo. Maana yake imeridhia pia maslahi mengine yanayohusiana na cheo hicho. Inawezekana kuna mchakato ambao haujakamilika lakini pia kama kuna majina ya watu wa namna hiii, nipo tayari niyapokee ili niyasukume niweze kupewa staili zao kama inavyotakiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u32" who="NaibuSpika">
+          <seg xml:id="seg91">Swali linalofuata Wizara ya Nishati na Madini, linaulizwa na Mheshimiwa David Kafulila. Mheshimiwa Mbatia kwa niaba yake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u33" who="MheJamesFMbatia">
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, swali namba tano Wizara ya Ulinzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u34" who="NaibuSpika">
+          <seg xml:id="seg93">Ooh samahani sana Mheshimiwa Nyambari Chacha Mariba Nyangwine, aliingia hapa, Mheshimiwa Ester Bulaya kwa niaba yake.</seg>
+        </u>
+        <note>Na. 5. Tanzania kuwa Mstari wa Mbele Kutetea Ukombozi</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u35" who="NaibuSpika">
+          <seg xml:id="seg94">wa Bara la Africa</seg>
+        </u>
+        <note>(K.n.y. NYAMBARI C. M. NYANGWINE)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u36" who="MheEsterABulaya">
+          <seg xml:id="seg95">Nchi ya Tanzania imekuwa katika mstari wa mbele kutetea Ukombozi wa Bara la Afrika zikiwemo nchi kama Afrika Kusini, Zimbabwe, Namibia, Angola, Msumbiji na Uganda ambayo ilikombolewa toka mikononi mwa Nduli Idd Amini Dada:-</seg>
+          <seg xml:id="seg96">(a) Je, ni fedha kiasi gani zilitumika kwa kila nchi ili kufanikisha zoezi hilo?</seg>
+          <seg xml:id="seg97">(b) Je, ni Watanzania wangapi walipoteza maisha na wengine kubaki na ulemavu wa kudumu katika zoezi hilo?</seg>
+          <seg xml:id="seg98">[MHE. ESTER A. BULAYA]</seg>
+          <seg xml:id="seg99">(c) Je, Serikali ya Tanzania ina mpango gani wa kudai rasilimali hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u37" who="NaibuSpika">
+          <seg xml:id="seg100">Majibu ya swali hilo, Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa, Mheshimiwa Nahodha, naomba majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u38" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg101">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Nyambari Chacha Mariba Nyangwin, Mbunge wa Tarime, kama ifuatavyo:-</seg>
+          <seg xml:id="seg102">(a) Naibu Spika, ni kweli Tanzania iliwasaidia wapigania Uhuru Kusini mwa Afrika, na wananchi wa Uganda kuutokomeza utawala wa Marehemu Nduli Iddi Amini. Lakini kutokana na usiri wa matumizi ya operesheni za kijeshi, sitaweza kutaja hadharani kiasi cha fedha zilizotumika kugharamia vita hivyo.</seg>
+          <seg xml:id="seg103">(b) Naibu Spika, vile vile si jambo la busara hata kidogo kutaja hadharani idadi ya askari waliopoteza maisha na waliopata ulemavu wa kudumu. Hata hivyo naweza kusema kuwa askari kadhaa walipoteza maisha na wengine kupata ulemavu wa kudumu katika vita hivyo.</seg>
+          <seg xml:id="seg104">(c) Naibu Spika, Serikali ya Tanzania haina mpango wa kuzidai fidia Nchi za Kusini mwa bara la Afrika. Ambazo tulizisaidia katika kutokomeza Ukoloni kwa sababu hatukuwa na makubaliano hayo hapo mwanzoni. Tulifanya hivyo kwa kuongozwa na falsafa ya kujenga Umoja wa Bara la Afrika.</seg>
+          <seg xml:id="seg105">Marehemu Baba wa Taifa Mwalimu Julius Kambarage Nyerere, aliamini kwamba bara la Afrika ni moja na Waafrika wote ni ndugu zangu. Kwa msingi huo Tanzania haikuwa na sababu wakati ule na wala hawapaswi kuwadai fidia ndugu zetu tuliowasaidia katika harakati za ukombozi wao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u39" who="NaibuSpika">
+          <seg xml:id="seg106">Mheshimiwa Ester Bulaya, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u40" who="MheEsterABulaya">
+          <seg xml:id="seg107">Mheshimiwa Naibu Spika, nashukuru kwa majibu ya Mheshimiwa Waziri. Natambua mchango na hali ngumu ya wanajeshi wetu wanayoipata wanapokuwa katika kupigania huru, au kwenda kulinda amani katika nchi zingine.</seg>
+          <seg xml:id="seg108">Lakini Mheshimiwa Waziri kumekuwa na malalamiko, kwa baadhi ya wanajeshi wetu ambao kuwa na malamiko. Kwa baadhi ya wanajeshi wetu ambao wanaenda kulinda amani katika nchi za wenzetu, ikiwepo Darfur kwamba,hawapati zile stahiki ambazo wanapaswa kupata. Sasa malalamiko kama haya halileti picha nzuri, kwa jeshi letu ambalo linaheshimika Afrika na dunia nzima. Je jambo hili lina ukweli kiasi gani? Na mmejipanga vipi?</seg>
+          <seg xml:id="seg109">Mheshimiwa Naibu Spika,swali la pili tunajua wanajeshi wetu wako nchini Congo, kwa ajili ya kulinda amani nchini kule. Lakini kumekuwa na hofu kwa familia zao na Watanzania kwa ujumla nilikuwa naitaji kupata status ya hali halisi ya huko. Ili kutoa hofu kwa Watanzania na familia zao. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u41" who="NaibuSpika">
+          <seg xml:id="seg110">Majibu ya swali hilo Mheshimiwa Waziri wa Ulinzi la Jeshi la Kujenga Taifa, Mheshimiwa Vuai Nahodha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u42" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg111">Mheshimiwa Naibu Spika, naomba nijibu maswali mawili ya nyongeza yaliyoulizwa na Mheshimiwa Ester Bulaya kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">Kuanza la kwanza, staili za Wanajeshi wanaoshiriki katika operesheni kama ifuatavyo:-</seg>
+          <seg xml:id="seg113">Kwanza, staili za Wanajeshi wanaoshiriki katika operesheni za Kimataifa katika kulinda amani. Na akatoa mfano wa askari wetu ambao wako Darfur Sudan.</seg>
+          <seg xml:id="seg114">[WAZIRI WA ULINZI NA JESHI LA KUJENGA TAIFA]</seg>
+          <seg xml:id="seg115">Kwa bahati nzuri sana mwezi uliopita nikifuatana na Wajumbe wawili wa Kamati ya kudumu ya Bunge ya Ulinzi na Usalama akiwemo Mheshimiwa Chiligati na Mheshimiwa Ngwilizi. Sisi tulifika Darfur na hili dai analosema Mheshimiwa Mbunge kwamba Wanajeshi wetu hawapati staili wanavyostahiki.</seg>
+          <seg xml:id="seg116">Nilipata kuzungumza na Wanajeshi wetu wenyewe, nilipata nafasi yakuzungumza na Makamanda wao dai hilo halipo sijui Mheshimiwa Mbunge amelipata wapi. Lakini bado nakiri kutokana na uzito wa jukumu ambalo Wanajeshi wetu wanalifanya na kutokana na mchango wa Jeshi la Wananchi wa Jeshi la Tanzania ndani na nje ya nchi yetu.</seg>
+          <seg xml:id="seg117">Mheshimiwa Naibu Spika, nakiri kwamba iko haja yakuangalia maslahi makubwa zaidi kuliko wanayopata sasa. Kwa maana hiyo basi Serikali itakusanya uwezo na kuangalia na kufanya kila linalowezekana kuhakikisha kwamba Wanajeshi wetu wanaangaliwa vizuri kama inavyostahiki.</seg>
+          <seg xml:id="seg118">Mheshimiwa Naibu Spika, swali la pili, anataka nimweleze hali ilivyo Congo, kama alivyosikia hivi sasa kuna mapigano ambayo yanaendelea kati ya kikundi cha M23 na jeshi la Congo. Narudia tena tumesema si mara moja si mara mbili, Jeshi la Wananchi Watanzania lipo pale kwa ajili ya kulinda amani. Na wala si kwa ajili ya mapigano lakini labda niseme tu kazi ya ulinzi ni kazi ambayo ina changamoto zake.</seg>
+          <seg xml:id="seg119">Mheshimiwa Naibu Spika, kwa hiyo kuna wakai mtaifanya kazi hiyo kwa ufanisi mkubwa lakini upo wakati mnaweza kupoteza askari mmoja au wawili hizo ndiyo changamoto za askari jeshi.</seg>
+          <seg xml:id="seg120">Kwa hiyo nawaomba watanzania wasivunjike moyo kwa mambo haya tunayosababu yakuendelea kushiriki kikamilifu katika kuhakikisha kwamba Congo inapata amani kwanini Tanzania ipo pale naomba nirudie kwa kusema hivi kuna njia mbili zakupambana na jambazi, unaweza kumsubiri</seg>
+          <seg xml:id="seg121">[WAZIRI WA ULINZI NA JESHI LA KUJENGA TAIFA] jambazi aingie kwenye nyumba yako na amchukue mke wako na watoto ndio upambane naye au upambano naye akiwa nje ya geti kwa jirani yako. Tunachokifanya ni kupambana nao katika nchi ya Congo kwasababu wakishaimaliza Congo M23 kitawazuia nini kuingia hapa Tanzania?</seg>
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, Sasa njia rahisi basi kuanza kuhakikisha Tanzania inalinda amani kwa kadiri inavyowezekana tukiwa Congo, ikipata amani Tanzania itakuwa salama na hii ndio falsafa ya baba wa taifa siku zote hizo. Hatuwezi kuona watu wengine wanyonge wakiteseka halafu Tanzania ikawa ina funga mikono.</seg>
+          <seg xml:id="seg123">Kwa hiyo, Mheshimiwa Naibu Spika naomba niwahakikishie Tanzania tunayo sababu yakuwepo na tutafanya kila lilo uwezo wetu na tunajua kwamba zipo changamoto lakini Tanzania itahakikisha tunapatiwa vifaa vya kileo vijana wetu ili kupunguza madhara kadiri inavyowezekana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u43" who="NaibuSpika">
+          <seg xml:id="seg124">Mheshimiwa Joseph Selasin, nilikuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u44" who="MheJosephRSelasini">
+          <seg xml:id="seg125">Mheshimiwa Naibu Spika, nakushukuru sana kunipa nafasi hii. Kuna askari wengi sana walioshiriki vita ya kumwondoa Nduli Amini katika nchi yetu. Hadi sasa wana malalamiko yakutolipwa stahiki zao.</seg>
+          <seg xml:id="seg126">Je, Waziri yuko tayari nimletee orodha ya askari kutoka jimbo la Rombo. Labda na pengine baadhi ya Wabunge wamletee ili aweze kuiangalia na kuondoa kero hii ya wazee hawa ambayo wanaona kwamba waliifanyia kazi nchi lakini nchi haikuwapa shukurani wanazostahili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u45" who="NaibuSpika">
+          <seg xml:id="seg127">Majibu ya swali hilo Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa. Mheshimia Vuai Nahodha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u46" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg128">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Selasini kama ifuatavyo:-</seg>
+          <seg xml:id="seg129">[WAZIRI WA ULINZI NA JESHI LA KUJENGA TAIFA]</seg>
+          <seg xml:id="seg130">Ni kweli nakiri, yapo malalamiko kutoka kwenye familia na Wanajeshi ambao wameshiriki kwenye vita mbali mbali hasa vya Kagera. Malalamiko haya hata Amir Jeshi Mkuu wa Majeshi ya Ulinzi na Usalama ya Mheshimiwa Jakaya Mrisho Kikwete, ameyapata malalamiko hayo. Na wakati tulipokuwa kwenye sherehe za siku ya mashujaa, pale Kagera mwaka huu, tarehe 25 mwezi wa Julai mwaka 2013.</seg>
+          <seg xml:id="seg131">Amiri Jeshi Mkuu ametoa agizo kwa Wizara ya Ulinzi kuhakikisha kwamba inalifanyia kazi, malalamiko yote yanayotolewa wanajeshi ambao walishiriki katika vita vya Kagera.</seg>
+          <seg xml:id="seg132">Sasa kama Mheshimiwa Mbunge anasema anayo orodha hiyo na Waheshimiwa Wabunge wengine wanayo orodha hiyo. Naomba waniletee orodha hiyo na naomba niwahakikishie kwamba tutafanya kila liwezekana na kulifanyia kazi kama inavyopasa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u47" who="NaibuSpika">
+          <seg xml:id="seg133">Mheshimiwa Masoud, swali la mwisho la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u48" who="MheMasoudAbdallahSalim">
+          <seg xml:id="seg134">Mheshimiwa Naibu Spika, nakushukuru. Na swali moja dogo la nyongeza kwa Mheshimiwa Waziri. Mheshimiwa Waziri katika majibu yake alisema kwamba si vizuri kutaja idadi ya waliofariki katika vita.</seg>
+          <seg xml:id="seg135">Lakini watanzania waliokwenda Msumbiji na wakapoteza maisha yao yaani wanachi wa jeshi la Tanzania serikali iliweza kuchimba mifupa na kuthubutu kuja kuizika Naliendere, Mtwara eti ndio kuwaenzi. Lakini hali ya watoto wao na wajane na baadhi ya askari walioshiriki vita vile ambao walipata ulemavu. Kwa kweli malalamiko hayo yaliyosemwa na Waheshimiwa Waziri lakini kwamba wanamatatizo makubwa hasa ya kiafya.</seg>
+          <seg xml:id="seg136">Mheshimiwa Naibu Spika, Je, Serikali kwa kuwa ilithubutu kuchimba mifupa na kuweza kuizika kule Naliendele kule Mtwara inamkakati gani wa kuwatunza kuwaenzi wale</seg>
+          <seg xml:id="seg137">[MHE. MASOUD A. SALIM]</seg>
+          <seg xml:id="seg138">wajane wa marehemu waliofariki pamoja na watoto wao ambao wamekuwa omba omba kwa muda wote hivi sasa? Nashukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u49" who="NaibuSpika">
+          <seg xml:id="seg139">Majibu ya swali hilo Mheshimiwa Waziri wa Ulinzi na Jeshi la Kujenga Taifa. Mheshimia Vuai Nahodha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u50" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg140">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Masood Abdallah Salim, kama ifuatavyo:-</seg>
+          <seg xml:id="seg141">Nakubaliana nae kwamba Serikali jukumu lake lisiwe tu kuchimba makaburi na kuzika mifupa ya mashujaa. Bali liwe na jukumu pana zaidi la kuwashughulikia watoto na wajane. Labda nimwambie tu mheshimiwa mbunge jambo hili ni kubwa na linahitaji rasilimali za kutosha.</seg>
+          <seg xml:id="seg142">Lakini naomba nimhakikishie kwamba kwa dhamira ile ile ya kuenzi na kuwatendea haki mashujaa wetu ambao walioshiriki kwenye vita vya ukombozi. Serikali inapaswa na itabidi ilifanyie utafiti jambo hili na kutoa msaada kwa kadiri ya hali ya uwezo wa serikali utakavyoruhusu. Nadhani ni jambo jema katika kuenzi mashujaa wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u51" who="NaibuSpika">
+          <seg xml:id="seg143">Tuendelee Waheshimiwa Wabunge na Wizara ya Nishati na Madini, kama nilivyosema mwanzo sasa Mheshimiwa Mbatia unaweza kuuliza swali.</seg>
+        </u>
+        <note>Na. 6. Akiba ya Madini ya Saruji eneo la Uvinza</note>
+        <note>(K.n.y. MHE. DAVID Z. KAFULILA)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u52" who="MheJamesFMbatia">
+          <seg xml:id="seg144">Eneo la Uvinza Mkoani Kigoma lina akiba ya madini ya saruji ya kiwango cha juu na wawekezaji wamefanya tafiti za awali zilizoonesha kuwa kiasi cha saruji kinachoweza kuzalishwa pale kinaweza kutosha soko la ndani, Burundi, Rwanda, Zambia na Kongo:-</seg>
+          <seg xml:id="seg145">[MHE. JAMES F. MBATIA]</seg>
+          <seg xml:id="seg146">Je, Serikali imechukua hatua gani kujua kiasi gani cha saruji kinaweza kuzalishwa katika eneo hilo na kuweka mpango wa kuhakikisha uwekezaji huo unafanyika kuzingatia ukuaji wa uchumi wa nchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u53" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa David Zacharia Kafulila kama ifuatavyo:-</seg>
+          <seg xml:id="seg148">Mheshimiwa Naibu Spika, utafiti uliofanywa na Wakala wa Jiolojia Tanzania (GST), umeonesha kwamba maeneo mengi ya Mkoa wa Kigoma yana miamba ya aina ya limestone inayojulikana kitaalamu kama miamba ya Ilagala Dolomitic Limestone. Uchunguzi wa mimaabara wa miamba hiyo unaonesha kuwa limestone hiyo ina kiasi kikubwa cha madini aina ya dolomite kutokana na kuwa na kiwango kikubwa cha magnesium Oxide (MgO). Kemikali ya MgO inayopatikana katika madini ya dolomite haitakiwi kuwepo kwenye mchanganyiko wa kutengenezea saruji kwa kiwango kinachozidi asilimia 5 ya uzito wa mchanganyiko unaotakiwa. Kwa kuzingatia hali hiyo, miamba ya limestone iliyoko mkoani Kigoma haifai katika uzalishaji wa saruji.</seg>
+          <seg xml:id="seg149">Mheshimiwa Naibu Spika, maeneo mbalimbali ya Wilaya ya Uvinza yana madini hayo ya limestone ambayo haifai kwa utengenezaji wa saruji. Madini mengine yanayopatikana Wilayani Uvinza ni pamoja na jasi ambayo ni malighafi ya saruji. Pamoja na kuwa limestone hiyo haifai katika uzalishaji wa saruji, inaweza kutumika katika uzalishaji wa chokaa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u54" who="MheJamesFMbatia">
+          <seg xml:id="seg150">Mheshimiwa Naibu Spika ahsante sana.</seg>
+          <seg xml:id="seg151">(a) Kwa kuwa, swali la msingi linazungumzia saruji Mkoani Kigoma, Serikali imetoa majibu ya chemistry ya saruji amezungumzia magnesium, oxide na limestone na jasi. Lakini</seg>
+          <seg xml:id="seg152">[MHE. JAMES F. MBATIA]</seg>
+          <seg xml:id="seg153">Serikali imekiri kwamba jasi inazalisha malighafi ya saruji pamoja na limestone (chokaa) na swali la msingi linazungumzia kukuza uchumi wa Taifa.</seg>
+          <seg xml:id="seg154">Je, Serikali ina majibu gani namna ya kutumia madini haya ya chokaa ambayo yanapatikana maeneo mengi ya Mkoa wa Kigoma, Kibondo, maeneo ya Mwambu Makere kule Kasulu na Uvinza kwa ujumla na miamba yote ili yaweze kukuza pato la mwana Kigoma na Taifa kwa ujumla?</seg>
+          <seg xml:id="seg155">(b) Kwa kuwa, ukanda wote kuanzia Ngara kule Lulenge, Rusambanga, Wilaya ya Biharamulo maeneo Kalenge mpaka Kigoma yote ina madini aina ya dhahabu, vito na mengineyo. Serikali ina mkakati gani maalum wa kuwawezesha hawa Wazawa Wadogo Wadogo wa Mikoa hii na maeneo mengine ili waweze kuwekeza kwenye sekta hii ya madini ili kuwezesha pato lao likue kwa kuwa ukanda wote huu una madini aina nyingi kama nilivyoeleza hapo awali?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u55" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg156">Mheshimiwa Naibu Spika, kama nilivyosema katika jibu langu la msingi kwamba madini haya ambayo ni sehemu tu ya ule mchanganyiko unaoweza kutengeneza simenti, ifahamike kwamba hii limestone anayoizunguzia ni sehemu tu ya mchanganyiko ule unaotakiwa, yanaonekana kuwa na magnesium oxide nyingi ambayo kwa teknolojia za sasa bado hatuna uwezo na hakuna sehemu nyingine ambayo tumeona wakiweza kutumia kama malighafi.</seg>
+          <seg xml:id="seg157">Kwa hivyo, msimamo wa Serikali ni kwamba bado limestone hii haina uwezo wa kuanzisha kiwanda labda mpaka teknolojia zitakapobadilika.</seg>
+          <seg xml:id="seg158">Kwa hiyo, nichukue nafasi hii kuwaomba sana wananchi waendelee kuitumia limestone ile kwa sababu inafaa kutengeneza chokaa na chokaa inatoka Kigoma. Tulikuwa na ziara na Waziri Mkuu tumeona ambavyo wananchi wanazalisha chokaa nyingi. Nichukue nafasi hii</seg>
+          <seg xml:id="seg159">[NAIBU WAZIRI WA NISHATI NA MADINI (MHE. G. B. SIMBACHAWENE]</seg>
+          <seg xml:id="seg160">kuwaomba Watanzania kwamba chokaa inayotoka Kigoma ni nzuri sana ya asili na inatengenezwa na vijana waliojiajiri na tumeona inapakiwa kwenye malori na inaenda masokoni. Kwa hiyo tuitumie chokaa hii badala ya kutumia chokaa inayotoka nje.</seg>
+          <seg xml:id="seg161">Mheshimiwa Naibu Spika, lakini la pili kwamba Ngara, Lulenge, Msabanga na maeneo mengine yanayo dhahabu na nini Serikali inafanya katika kuwawezesha wazawa wachimbaji wadogo ili kuweza kujiajiri. Serikali imefanya mambo mengi sana katika eneo hili. Kwanza tunaendelea kutenga maeneo kwa ajili ya wachimbaji wadogo na kadiri tunavyofanikiwa tunawapatia yale maeneo.</seg>
+          <seg xml:id="seg162">Lakini pia tuna mpango wa kuwawezesha zana na vifaa ili kuweza kuchimba dhahabu hii kwa teknolojia ya kawaida ambayo gharama kubwa na hili limekuwa linaonesha mafanikio makubwa na ndiyo maana vyama vya wachimbaji wa madini katika mikoa yote viko karibu sana na Serikali na tunaendelea na mchakato wa mahitaji mengine kwa kadiri wanavyohitaji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u56" who="MheJohnPLwanji">
+          <seg xml:id="seg163">Mheshimiwa Naibu Spika ahsante. Pamoja na majibu mazuri ya Naibu Waziri, napenda kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg164">Mheshimiwa Naibu Spika, kuna madini ya gypsum mengi tu pale Itigi, pamoja na maeneo ya Wilaya ya Manyoni kwa ujumla, lakini malighafi hii hutumika kwa ajili ya viwanda vya hapa nchini pamoja na nje. Tumeambiwa kwamba kiwanda kuwekwa Itigi kwa ajili ya kutengeneza saruji haiwezekani kwa sababu ya upungufu wa chokaa (limestone).</seg>
+          <seg xml:id="seg165">Watalaam wanasema kwamba ili uweze kupata POP inawezekana malighafi ya gypsum tu peke yake ikatosha kutengeneza. Sijui kama Serikali inajua hili au ina mpango gani wa kuweza kuweka kiwanda cha kuzalisha POP badala ya kuagiza kutoka nje na hasa kwa wakati huu ambapo ajali nyingi sana zinatokea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u57" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg166">Mheshimiwa Naibu Spika, Itigi kuna limestone ambayo anashauri Mbunge kwamba kwanini Serikali isifungue kiwanda. Nafikiri iko wazi kwamba Serikali haifungui viwanda kwa sera yetu ya sasa ila inashiriki katika kuvutia wawekezaji ili waweze kufungua viwanda mbalimbali nchini.</seg>
+          <seg xml:id="seg167">Nichukue nafasi hii kumwomba Mbunge, pamoja na kwamba na sisi tutaendelea kufanya kazi hiyo, lakini na yeye pia anao uwezo wa kutafuta kama kuna mwekezaji ambaye anaweza akafanya utafiti na kuona kama malighafi hii ina uwezo wa kuanzisha kiwanda na kikajiendesha kiuchumi.</seg>
+          <seg xml:id="seg168">Hili ni jukumu la watu wote na sisi Viongozi tuna wajibu katika jambo hili, ni vizuri tukashirikiana ingawa wajibu wa Serikali utabakia wa kujenga mazingira mazuri kwa ajili ya uwekezaji lakini pia kusaidia uwekezaji kunapotokeza fursa kama hizi.</seg>
+        </u>
+        <note>Na. 7. Kusuasua kwa Mradi wa Umeme wa</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u58" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg169">Kihansi hadi Itete</seg>
+        </u>
+        <note>(K.n.y. MHE. DKT. HAJI H. MPONDA)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u59" who="MheMagarethAMkanga">
+          <seg xml:id="seg170">Mradi wa usambazaji umeme kutoka mtambo wa kuzalisha umeme Kihansi hadi Kijiji cha Itete umekuwa ukisuasua kwa kipindi kirefu tangu mwaka 2011 na mradi huu utakapokamilika utavipatia umeme vijiji ishirini vilivyoko katika Tarafa ya Ngoheranga, Malinyi na Mtimbira:-</seg>
+          <seg xml:id="seg171">Je, ni lini Serikali itakamilisha mradi huu ili kuwawezesha walengwa kupata nishati ya umeme utakaochochea kasi ya ukuaji uchumi katika maeneo husika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u60" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg172">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nishati na Madini, napenda kujibu swali la Mheshimiwa Dkt. Haji Hussein Mponda, kama ifuatavyo:-</seg>
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, Serikali kupitia Wakala wa Nishati Vijijini (REA) inatekeleza mradi wa kusambaza umeme Wilayani Kilombero kutoka kituo cha kuzalisha umeme cha Kihansi chini ya mpango kabambe wa umeme vijijini awamu ya kwanza. Mradi huu unahusisha Vijiji vya Malinyi, Sofi Majiji, Sofi Misheni, Sofi, Manda Juu, Mtimbila, Mtimbila 1&amp;2, Kipenyo, Itele, Njiwa na Itete.</seg>
+          <seg xml:id="seg174">Mheshimiwa Naibu Spika, mradi huo unatekelezwa na kampuni ya Marekani ya Symbion Power LLC na unahusisha kazi zifuatazo:-</seg>
+          <seg xml:id="seg175">(i) Ujenzi wa njia ya umeme wa Msongo wa</seg>
+          <seg xml:id="seg176">Kilovoti 33 zenye urefu wa kilomita 131.5;</seg>
+          <seg xml:id="seg177">(ii) Ujenzi wa njia ya umeme ya msongo wa</seg>
+          <seg xml:id="seg178">kilovoti 0.4 zenye jumla ya urefu wa kilomita</seg>
+          <seg xml:id="seg179">40;</seg>
+          <seg xml:id="seg180">(iii) Ufungaji wa transfoma 23; na</seg>
+          <seg xml:id="seg181">(iv) Kuunganisha wateja wa awali wapatao 1050.</seg>
+          <seg xml:id="seg182">Mheshimiwa Naibu Spika, mradi huu unatarajiwa kukamilika mwezi Disemba mwaka huu 2013 kwa gharama ya shilingi bilioni 11.67.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u61" who="MheMagarethAMkanga">
+          <seg xml:id="seg183">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi. Naishukuru Serikali kwamba Kilombero kama Wilaya imeshafikiriwa na kazi imeanza ya kuleta umeme na kusambaza katika maeneo hayo yaliyotajwa na Serikali. Swali langu ni kwamba Disemba siyo mbali.</seg>
+          <seg xml:id="seg184">[MHE. MAGRETH A. MKANGA]</seg>
+          <seg xml:id="seg185">Je, mpaka sasa hivi mradi huu umekamilika kwa asilimia ngapi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u62" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg186">Mheshimiwa Naibu Spika, miradi hii ya umeme ya REA Phase One imeanza muda mrefu, lakini nichukue nafasi hii kutoa taarifa kwamba kwa hakika tulitegemea kwamba mwezi Julai mwaka huu miradi hii yote ya REA Phase One ingekuwa imekamilika, lakini kwa bahati mbaya na kwa sababu mbalimbali basi miradi hii haijakamilika.</seg>
+          <seg xml:id="seg187">Miradi ya umeme mobilization inachukua sehemu kubwa sana ya utekelezaji wa miradi ya umeme kwa sababu vifaa vingi ni vya kununua. Kwa hiyo unaweza ukaona kwenye ground pale huoni kitu lakini kumbe kazi kubwa ni ya kuweka tu. Kwa sababu unapojenga mradi wa umeme siyo kujenga nyumba au barabara.</seg>
+          <seg xml:id="seg188">Kwa hiyo nichukue nafasi kuomba kwamba mobilization ipo asilimia mia na kwenye ground kuna kazi kidogo ambazo zimeanza, nimhakikishie tu Mbunge kwamba kazi hii kama ninavyosema itakamilika mwezi Disemba mwaka huu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u63" who="NaibuSpika">
+          <seg xml:id="seg189">Mheshimiwa Kiongozi wa Upinzani Bungeni swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u64" who="MheFreemanAMbowe">
+          <seg xml:id="seg190">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa nafasi.</seg>
+          <seg xml:id="seg191">Kwa sababu suala hili la umeme vijijini na Kihansi linafanana sana na suala la Kikuletwa ambako ni chanzo kizuri cha kuweza kuzalisha umeme vijijini katika Wilaya ya Hai, Kata ya Masama Rundugai, naomba kumwuliza Naibu Waziri. Kwa sababu Halmashauri ya Wilaya ya Hai iliomba Serikalini iruhusiwe kuendeleza kituo cha kuzalisha umeme cha Kikuletwa, na kwa sababu Serikali iliamua kutoa kituo kile kwa Chuo cha Ufundi Arusha.</seg>
+          <seg xml:id="seg192">Je, ni lini kimefanyika hadi sasa kuweza kukiendeleza kituo kile?</seg>
+          <seg xml:id="seg193">Je ni lini Serikali itakaridhika kwamba pengine waliopewa hawajaweza kukiendeleza itaona umuhimu wa kuwapa wananchi kupitia Halmashauri ya Wilaya ya Hai kukiendeleza kituo kile kwa sababu tayari ina uwekezaji na uwezo wa kupata mtaji wa kuwekeza ulikuwa umeshapatikana?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u65" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg194">Mheshimiwa Naibu Spika, ni kweli kwamba Serikali iliombwa na Chuo cha Ufundi cha Arusha eneo la Kikuletwa lililopo Wilaya ya Hai Kata ya Masama na Serikali ikakubali kuwapatia kwa sababu kubwa mbili.</seg>
+          <seg xml:id="seg195">Moja waliomba eneo lile kwa nia ya kuendeshea mafunzo kwa wanafunzi wanaosoma kozi za Diploma ya Ufundi wa Umeme. Tutambue kwamba Chuo cha Ufundi Arusha kipo katikati pale Mjini kwa sasa. Kwa hiyo, eneo la kuendeshea mafunzo ya vitendo inakuwa ngumu kwao.</seg>
+          <seg xml:id="seg196">Mimi ni-declare interest tu kwamba nimesoma katika chuo kile. Serikali ikaona pia sababu nyingine waliyoisema ni kwamba siyo tu watatumia katika kufundishia, tumeona kwenye maonesho mbalimbali ya Chuo cha Ufundi Arusha wakiwa wanaendesha small hydros kwa kutumia mapipa na wamekuja kuonesha mpaka kwenye Nanenane hapa wanaweza kuzalisha umeme. Wakasema sisi mkitupa kile kituo tutaweza kuzalisha pia umeme. Kwa hiyo, kwanza wanaendeshea mafunzo kitu ambacho ni kizuri na kina maslahi mapana, lakini pili wanataka kuzalisha pia umeme na kuwagawia wananchi wa maeneo yale.</seg>
+          <seg xml:id="seg197">Mheshimiwa Naibu Spika, kwa sababu hizi mbili Serikali iliona ni busara kuwapatia hao ingawa haikuona kwamba wengine hawakustahili, lakini kwa sababu ya haya maslahi mapana ndiyo ikaona uamuzi huo ni bora ukafikiwa hivyo.</seg>
+          <seg xml:id="seg198">[NAIBU WAZIRI WA NISHATI NA MADINI (MHE. G. B. SIMBACHAWENE]</seg>
+          <seg xml:id="seg199">Mheshimiwa Naibu Spika, nichukue nafasi hii kumwomba sana Mheshimiwa Mbowe, kwa kuwa yeye ni Mbunge na eneo hili lipo katika Jimbo lake na Chuo hiki kipo katika ukanda huo huo, waone namna kama wao wanasema wana rasilimali na wale wanasema wana ujuzi, tuone tu namna ambavyo kwa nia njema tunaweza tukashirikiana lakini ni mpaka pale tutakapojiridhisha kwamba wameshindwa kabisa na pengine tunaweza tukachuku hatua mbadala.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u66" who="NaibuSpika">
+          <seg xml:id="seg200">Swali fupi la mwisho la nyongeza Mheshimiwa Mwigulu Nchemba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u67" who="MheMwiguluLNMadelu">
+          <seg xml:id="seg201">Mheshimiwa Naibu Spika ahsante sana. Ahadi kama hii iliyotolewa na Serikali kwenye swali hili ipo katika maeneo mengi hapa nchini ikiwepo Kata ya Mgongo, Mtekente, Mbelekese na Kaselya ambazo ziliahidiwa tangu wakati wa Kampeni za Rais, pamoja na tangu William Ngeleja akiwa Waziri wa Nishati.</seg>
+          <seg xml:id="seg202">Je, Naibu Waziri anatoa kauli gani kwa sababu na yeye alishafika kule na akawaahidi wananchi na kuwahakikishia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u68" who="NaibuSpika">
+          <seg xml:id="seg203">Majibu ya ahadi zako Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u69" who="NaibuWaziriWaNishatiNaMadiniMheGeorgeBSimbachawene">
+          <seg xml:id="seg204">Mheshimiwa Naibu Spika, ni kweli nilifika katika eneo hili na ni kweli kwamba zipo ahadi za Rais katika eneo hili na kwa kutekeleza ahadi hii, Vijiji vya Kata za Mgongo, Mbelekese na Kaselya na hasa kwa sababu nilifika pale Kaselya na Mbelekese. Nimhakikishie Mbunge kwamba vipo katika miradi ya REA awamu ya pili ambayo kwa sasa imeshapata Mkandarasi na mchakato wa Mkandarasi kufika site kuanza kazi hii unaendelea. Miradi hii itatekelezwa kati ya sasa na mwakani mwezi Oktoba, 2014.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u70" who="NaibuSpika">
+          <seg xml:id="seg205">Swali linalofuata tunaelekea Wizara ya Ujenzi sasa, linaulizwa na Mheshimiwa Ezekiel Maige.</seg>
+          <seg xml:id="seg206">Barabara ya Kahama-Bulyanhulu-Buyange-Geita</seg>
+          <seg xml:id="seg207">Kujengwa</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u71" who="MheEzekielMMaige">
+          <seg xml:id="seg208">Mwaka 2010 Serikali iliahidi kuifanyia upembuzi yakinifu na kujenga kwa kiwango cha lami barabara ya Kahama- Bulyanhulu-Buyange hadi Geita.</seg>
+          <seg xml:id="seg209">(a) Je, utekelezaji wa ahadi hiyo umefikia wapi?</seg>
+          <seg xml:id="seg210">(b) Je, kiasi gani cha fedha kimetengwa mwaka 2013/2014 kwa kazi hiyo?</seg>
+          <seg xml:id="seg211">(c) Je, ujenzi wa barabara hii kwa kiwango cha lami utaanza lini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u72" who="NaibuSpika">
+          <seg xml:id="seg212">Majibu ya swali hilo Waziri wa Ujenzi Mheshimiwa Dkt. John Magufuli, na kabla hajajibu swali hilo Waheshimiwa Wabunge, kumbukumbu zangu hapa zinaniambia kwamba leo tarehe 29 mwezi Oktoba ni siku ya kuzaliwa kwa Mheshimiwa Waziri Magufuli, ana miaka mingapi atatuambia yeye mwenyewe. Mheshimiwa Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u73" who="WaziriWaUjenzi">
+          <seg xml:id="seg213">Mheshimiwa Naibu Spika, kwanza nashukuru kwa kunikumbusha mimi nilikuwa sikumbuki kama nilizaliwa tarehe ya leo.</seg>
+          <seg xml:id="seg214">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Ezekiel Magolyo Maige, Mbunge wa Msalala, lenye sehemu (a), (b) na (c) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg215">[WAZIRI WA UJENZI]</seg>
+          <seg xml:id="seg216">Mheshimiwa Naibu Spika, barabara ya Kahama Bulyanhulu, Buyange hadi Geita inajulikana rasmi kuwa ni barabara ya Geita- Bukoli- Kahama (Busoka) yenye urefu wa kilomita 120. Ni kweli kuwa hii ni mojawapo ya barabara ambazo zimo kwenye ilani ya Chama cha Mapinduzi ya mwaka 2010, kama ahadi ya kufanyiwa upembuzi yakinifu na usanifu wa kina. Katika kutekeleza ahadi hii, wakala wa barabara TANROADS Mkoa wa Geita umeingia mkataba na Mhandisi mshauri M/S Env. Consult (T) Ltd. wa Dar es Salaam kwa ajili ya kuifanyia upembuzi yakinifu na usanifu wa kina barabara hii kwa gharama ya shilingi milioni 403.9 katika kipindi cha miezi 13 kuanzia tarehe 3 Aprili, 2013.</seg>
+          <seg xml:id="seg217">Mheshimiwa Naibu Spika, Mhandisi Mshauri anaendelea na kazi ambapo fedha zote kwa ajili ya kazi hii zimetengwa katika bajeti ya mwaka wa fedha wa 2013/2014. Aidha, ujenzi wa barabara hii kwa kiwango cha lami utaanza baada ya kukamilika kwa upembuzi yakinifu na usanifu wa kina na kupatikana kwa fedha za ujenzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u74" who="MheEzekielMMaige">
+          <seg xml:id="seg218">Mheshimiwa Naibu Spika, naomba nimshukuru sana Waziri kwa majibu yake. Naomba kuuliza maswali mawili ya nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg219">Mheshimiwa Naibu Spika, mwaka 2008 Serikali iteua Tume ya Bomani kuzungumza na wenye Migodi kuhusu namna ya kuboresha huduma kwa wananchi wanaozunguka migodi na Tume ile ilikutana na uongozi wa Mgodi wa Buzwagi Bulyanhulu na Geita.</seg>
+          <seg xml:id="seg220">Katika kuzungumzia maslahi mapana ya wananchi wanaozunguka migodi suala la barabara hii lilizungumzwa, na wenye migodi wakasema kimsingi wako tayari sana kushiriki katika ujenzi wa barabara hii kwa kiwango cha lami ili mradi tu wazungumze na Serikali ili Serikali iangalie namna ya kufanya punguzo la kodi za sasa na za baadaye kwa sababu kodi hizo zitakuwa zinalipwa Serikalini.</seg>
+          <seg xml:id="seg221">[MHE. E. M. MAIGE]</seg>
+          <seg xml:id="seg222">Ninataka kujua Serikali kwa kiasi gani imefanyia kazi ushauri huo na utayari huo wa migodi ambayo kimsingi wanapenda kutatua tatizo hili?</seg>
+          <seg xml:id="seg223">Swali la pili Barabara ya Kahama – Bulyanhulu imekuwa ikilalamikiwa sana na Wananchi kwamba, wanapata matatizo ya kiafya hasa vumbi linalotimuliwa na malori yanayosafirisha mchanga wa dhahabu pamoja na malori yenye mafuta yanayopeleka Mgodi wa Geita. Mwaka 2008, Mheshimiwa Rais alipokuja Kahama alizungumza na Uongozi wa Mgodi walisema wako tayari kufanya utaratibu wa kuwa wanamwaga juice ya miwa kwenye maeneo ya makazi ya watu, lakini ahadi hiyo haitekelezwi na sidhani kama ufuatiliaji unafanyika …</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u75" who="NaibuSpika">
+          <seg xml:id="seg224">Sasa swali Mheshimiwa!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u76" who="MheEzekielMMaige">
+          <seg xml:id="seg225">Mheshimiwa Naibu Spika, nataka kujua ni hatua gani sasa zimefanyika za kuondoa tatizo la vumbi kwenye barabara hii kwa kumwaga juice ya miwa kama Mgodi ulivyokuwa umeahidi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u77" who="NaibuSpika">
+          <seg xml:id="seg226">Majibu Waziri wa Ujenzi, Mheshimiwa Dkt. John Magufuli; Barabara za Usukumani za kumwaga juice za miwa. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u78" who="WaziriWaUjenzi">
+          <seg xml:id="seg227">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Ezekiel Maige, Mbunge wa Msalala, kama ifuatavyo:-</seg>
+          <seg xml:id="seg228">Mheshimiwa Naibu Spika, awali ya yote, napenda nimpongeze Mheshimiwa Maige, kwa juhudi zake kubwa katika Jimbo lake na Mkoa kwa ujumla katika kufuatilia masuala ya Wananchi. Katika jibu langu la msingi nimeeleza kwamba, Barabara hii yenye urefu wa kilometa 120, kwa hivi sasa kuna Consultant ambaye anafanya kazi ya feasibility study pamoja na detailed design na fedha zote zipo shilingi milioni 403.9 ambazo zitatumika kwa ajili ya kufanya feasibility study na detailed design na baada ya</seg>
+          <seg xml:id="seg229">hapo ndipo ujenzi wa barabara ya kiwango cha lami uweze kutekelezwa.</seg>
+          <seg xml:id="seg230">Mheshimiwa Naibu Spika, ni ukweli usiopingika kwamba, barabara ya changarawe au barabara ya udongo ni lazima itoe vumbi na ndiyo maana tumeanza kufanya feasibility study ili kwa siku za usoni kama fedha zitapatikana, hili vumbi lisitokee. Pia katika mipango ambayo imewekwa na Wizara yangu, katika Bajeti ya mwaka huu, zimetengwa jumla ya shilingi milioni elfu moja na mia tatu sitini na tano kwa ajili ya kuendelea kuifanyia ukarabati barabara hii, ambapo milioni 206.5 ni kwa ajili ya matengenezo ya kawaida, milioni 597.7 ni kwa ajili ya matengenezo maalum na matengenezo ya sehemu korofi zimetengwa shilingi milioni 145.5.</seg>
+          <seg xml:id="seg231">Kuhusu taarifa kwamba wenye migodi wangependa kushiriki katika ujenzi wa barabara, tutashukuru sana. Kama kuna barua yoyote Mheshimiwa Mbunge anaweza akatuletea ya commitment ya watu wenye migodi wanataka kujenga barabara washirikiane na sisi, tutashukuru na wailete hiyo barua na commitment ya watu wa migodi ili tuweze kushirikiana nao katika kutengeneza barabara. Kwa sababu hawa watu wenye migodi ni miongoni mwa watumiaji wakubwa wa barabara hiyo na actually nao ni miongoni mwa waharibifu wa barabara hiyo ambayo tunajipanga kwa ajili ya kuijenga kwa kiwango cha lami.</seg>
+          <seg xml:id="seg232">Kuhusu hiyo juice ya miwa ambayo itamwagwa kwenye barabara, kwanza, nina uhakika Geita hawana miwa, sasa sifahamu hiyo juice wataitoa wapi. Kama upo huo utaalam wa kuleta juice na kumwaga kwenye barabara, naukaribisha pia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u79" who="NaibuSpika">
+          <seg xml:id="seg233">Mheshimiwa Hamad Rashid, swali la</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u80" who="MheHamadRashidMohamed">
+          <seg xml:id="seg234">Ahsante sana Mheshimiwa Naibu Spika.</seg>
+          <seg xml:id="seg235">Miradi ya Maendeleo hasa ya barabara inagharimu fedha nyingi sana na Serikali imefanya juhudi kubwa sana ya kujenga barabara nchi nzima, lakini nimwulize Mheshimiwa Waziri; pamoja na utaalam huo wa upembuzi yakinifu ni kwa nini muda mfupi baada ya barabara kujengwa zinavimba na zinasababisha ajali, kitu ambacho hatuelewi utaalam gani unatumika kwenye kupanga upembuzi yakinifu pamoja na usanifu na kadhalika; ni kitu gani kinachosababisha barabara zetu ambazo zinagharimu fedha nyingi sana baada ya muda mfupi tu zinaharibika na zinavimba?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u81" who="NaibuSpika">
+          <seg xml:id="seg236">Majibu ya swali hilo; Mheshimiwa Waziri wa Ujenzi kwa nini barabara zinaharibika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u82" who="WaziriWaUjenzi">
+          <seg xml:id="seg237">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Hamad Rashid, kama ifuatavyo:-</seg>
+          <seg xml:id="seg238">Mheshimiwa Naibu Spika, ujenzi wa barabara yoyote katika dunia huwa unaanza na kufanya feasibility study, inakuja detailed design na baadaye ndipo itangazwa tender kwa ajili ya construction. Feasibility study na detailed design huwa ni muhimu katika ujenzi wa barabara kwa sababu zinasaidia kujua specification za barabara hiyo inayojengwa; itakuwa na madaraja mangapi, itakuwa na upana gani, watatumia surface dressing au asphalt concrete na kadhalika na kadhalika.</seg>
+          <seg xml:id="seg239">Kuhusu suala la baadhi ya maeneo kuanza kuvimba kama anavyojaribu kuzungumza au kuharibika, kuna sababu nyingi; Kandarasi anapofanya kazi ya barabara, huwa anapewa time ya kukaa kwenye site na kama maeneo hayo ya uharibifu mdogo mdogo yanapojitokeza, kwa mujibu wa Sheria huwa anawajibika kuirudia sehemu hiyo kwa gharama zake. Kuna sababu nyingine kubwa ambayo inasababisha uharibifu mkubwa katika barabara</seg>
+          <seg xml:id="seg240">zetu na hii ni kwa sababu ya kuvunja Sheria na hasa katika uzidishaji wa mizigo kwa magari yanayopita kwenye barabara zetu.</seg>
+          <seg xml:id="seg241">Mheshimiwa Naibu Spika, kama utakavyoona, ukiangalia sasa hivi barabara ya kutoka Dar es Salaam kuja Dodoma, kwa upande wa kushoto barabara zimebonyea kwa sababu ya uzidishaji wa uzito. Kwa mujibu wa Sheria, katika nchi yetu maximum weight ni tani 56, Marekani maximum weight kwenye barabara zao ni tani 36.2, Uingereza ni tani 44, Ufaransa tani 40, Ujerumani tani 40, Uingereza tani 36, sisi tani 56, lakini yapo magari mengine yanazidisha mpaka tani 90 hadi 95.</seg>
+          <seg xml:id="seg242">Pale Mzani wa Ubungo tulishika magari ya kwenda nchi fulani moja lilikuwa na tani 98, lingine lilikuwa na tani 94 na lingine lilikuwa na tani 92.Kwa hiyo, wito wangu kwa Watanzania na wasafirishaji, tuzingatie sheria ili barabara zetu ziweze kudumu, otherwise, zitaendelea kuvimba na hazitavimba tu zitapasuka na baadaye hatutakuwa na barabara kabisa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u83" who="NaibuSpika">
+          <seg xml:id="seg243">Nilikuona Mheshimiwa Susan Kiwanga, Kilombero kuna juice nyingi sana ya miwa; swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u84" who="MheSusanLAKiwanga">
+          <seg xml:id="seg244">Mheshimiwa Naibu Spika, ahsante. Kweli Kilombero kuna juice ya miwa na huwa inamwagiwa sehemu ya Kidatu tu pale na imesaidia kupunguza vumbi ingawa wanaibania bania. Sasa swali langu la nyongeza ni kwamba; na Waziri anajua, kwenye bajeti ya mwaka huu wameahidiwa Wananchi wa Kilombero kwamba watajengewa barabara ya lami kuanzia Kidatu mpaka Mngeta kule kwenye uzalishaji mkubwa wa mchele kwa wingi, KPL, ikiunganishwa na ile ya Mlimba na kutoka Mlimba mpaka Madeke kule Njombe kiwango cha changarawe. Wananchi wa Kilombero bado wanajiuliza ni lini Serikali itaanza ujenzi wa barabara hiyo ili wafaidi matunda ya Uhuru? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u85" who="NaibuSpika">
+          <seg xml:id="seg245">Mheshimiwa Waziri wa Ujenzi, majibu!</seg>
+          <seg xml:id="seg246">napenda kujibu swali la Mheshimiwa Kiwanga, kama ifuatavyo:-</seg>
+          <seg xml:id="seg247">Kwanza, swali la msingi lilikuwa linazungumzia Barabara ya Bulyanhulu kwenda Geita, yenye urefu wa kilometa 120, swali la Mbunge linaulizia kuhusu Kilombero. Kwa kuwa umetoa upendeleo maalum, yale yote tuliyoyaahidi kwenye bajeti yetu tulipokuwa tukiwasilisha na ambayo kwa bahari nzuri Mheshimiwa Mbunge alitoa mchango mzuri, tutayazingatia. Kwa hivi sasa tumeanza na ujenzi wa Daraja la Kilombero ili urahisishe katika ujenzi wa barabara hiyo ambayo ameizungumzia Mheshimiwa. Mkandarasi ameshaanza kufanya mobilization na yuko kwenye site kwa gharama ya shilingi bilioni 53 pamoja na hiyo barabara nyingine ambayo ameizungumzia nayo tutaiweka kwenye consideration kama ilivyopitishwa kwenye bajeti yetu.</seg>
+        </u>
+        <note>Na. 9. Kusuasua kwa Ujenzi wa Barabara ya</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u86" who="NaibuSpika">
+          <seg xml:id="seg248">Tabora – Ipole – Koga – Mpanda</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u87" who="MheDktPudencianaWKikwembe">
+          <seg xml:id="seg249">Serikali imekuwa ikitoa fedha kidogo kidogo mwaka hadi mwaka kwa ujenzi wa Barabara ya Tabora – Ipole – Koga – Mpanda, jambo ambalo limekuwa halina tija katika kupunguza umaskini na kukuza uchumi; mfano mwaka 2013/ 2014 Barabara hii ilitengewa shilingi bilioni mbili tu:-</seg>
+          <seg xml:id="seg250">Je, Serikali ina mpango gani wa kuipatia fedha za kutosha barabara hii ili iweze kujengwa haraka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u88" who="WaziriWaUjenzi">
+          <seg xml:id="seg251">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Dkt. Pudensiana Wilfred Kikwembe, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg252">Mheshimiwa Naibu Spika, Serikali imekamilisha upembuzi yakinifu na usanifu wa kina kwa ajili ya ujenzi kwa kiwango cha lami wa Barabara ya Tabora – Ipole – Koga – Mpanda, yenye jumla ya kilomita 359. Serikali pia imetangaza zabuni kwa ajili ya ujenzi wa sehemu ya Tabora – Sikonge (Uselula), yenye urefu wa kilometa 30 kwa kiwango cha lami, ambapo katika Mwaka wa Fedha wa 2013/2014, shilingi bilioni 6.7, fedha za ndani, zimetengwa kwa ajili ya kuanza ujenzi. Aidha, jumla ya shilingi 1,157 milioni zimetengwa katika bajeti ya 2013/2014 kwa ajili ya matengenezo maalum ya sehemu ya Uselula – Mpanda ili iendelee kupitika katika kipindi chote.</seg>
+          <seg xml:id="seg253">Mheshimiwa Naibu Spika, Serikali imefanya mazungumzo na Benki ya Maendeleo ya Afrika (ADB), kuiomba kugharamia ujenzi wa sehemu zilizobaki za Barabara ya Uselula – Ipole – Koga – Mpanda kwa kiwango cha lami. Benki ya Maendeleo ya Afrika imeonesha nia yake ya kutoa fedha kwa ajili ya kugharamia ujenzi kwa kiwango cha lami sehemu ya barabara kutoka Uselula – Ipole – Koga hadi Mpanda, yenye jumla ya kilomita 329.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u89" who="NaibuSpika">
+          <seg xml:id="seg254">Mheshimiwa Kikwembe, swali la nyongeza!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u90" who="MheDktPudencianaWKikwembe">
+          <seg xml:id="seg255">Ahsante Mheshimiwa Naibu Spika. Kwanza kabisa, napenda niipongeze Serikali kwa kuonesha nia ya kuleta maendeleo katika Mkoa wa Katavi, Rukwa, Kigoma na Tabora kwa ujumla. Hofu yangu hapa nikimwuliza Mheshimiwa Waziri kwamba ni lini ujenzi wa barabara utaanza, najua jibu litakuwa lilelile mpaka tutakapopata pesa.</seg>
+          <seg xml:id="seg256">Nikiangalia katika jibu la msingi naona kuna maongezi kati ya Benki ya Maendeleo na Serikali kwa ajili ya kuipatia pesa kukamilisha Mradi huu. Hofu yangu hapa ni kwamba, haya ni maongezi tu, sidhani kama kuna mkataba wowote kati ya Serikali pamoja na Benki. Swali langu hapa ni kwamba, iwapo Benki hii labda itasitisha nia yake ya kutaka kuendelea kuisaidia Serikali katika kujenga</seg>
+          <seg xml:id="seg257">[MHE. DKT. P. W. KIKWEMBE]</seg>
+          <seg xml:id="seg258">hii barabara; je, Serikali ina mpango gani mbadala wa kuweza kuhakikisha kwamba barabara hii inatengenezwa kwa kiwango cha lami na kwa haraka iwezekanavyo kwa sababu toka Uhuru hatujaona lami kule na Mheshimiwa Waziri ni shahidi na Mheshimiwa Chenge kasema ni shahidi, alipokuwa Waziri kipindi kile alipotembelea? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u91" who="MheDktPudencianaWKikwembe">
+          <seg xml:id="seg259">Swali langu la pili, pamoja na kwamba kuna hizi kilometa 30 ambazo zitaanzia Tabora mpaka Uselula; hizo tayari zimekwishaanza. Je, Mheshimiwa Waziri haoni sasa kuna umuhimu wa hizi pesa zitakazotolewa kama zitatolewa na Benki ujenzi uanzie Mpanda kuelekea Tabora; na pili, naomba ombi kama Mheshimiwa Waziri yuko tayari ili aweze kutembelea miradi yake ya barabara katika Mkoa wa Katavi na Rukwa? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u92" who="NaibuSpika">
+          <seg xml:id="seg260">Mheshimiwa Waziri wa Ujenzi, majibu!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u93" who="WaziriWaUjenzi">
+          <seg xml:id="seg261">Mheshimiwa Naibu Spika, katika jibu langu la msingi nimesema kwamba, katika bajeti ya mwaka huu kuna bilioni 6.7 ambazo zimetengwa kwa ajili ya kuanza kujenga kwa kiwango cha lami kutoka Tabora kwenda Uselula. Kwa hiyo, tayari tumeanza. Katika upande mwingine napo ukianzia Tunduma hadi Sumbawanga, jumla ya kilometa 231, kuna Makandarasi watatu pale wanafanya kazi. Kutoka Sumbawanga kwenda Kibaoni kilometa 75 kuna Kandarasi wanafanya kazi. Kutoka Kibaoni kuja Mpanda penyewe pale Makao Makuu, napo tumeshatangaza tender na kuna Makandarasi wanafanya mobilization. Kwa hiyo, imebaki section ya kutoka Mpanda kuja Sikonge hadi Tabora, ambayo ina jumla ya kilometa 359 na ndiyo maana nimeeleza katika jibu la msingi kwamba, tumeanza mazungumzo na African Development Bank.</seg>
+          <seg xml:id="seg262">Kitu chochote unapokitaka lazima uanze na mazungumzo, hata ukitaka mchumba lazima utazungumza naye kwanza. Ukitaka kwenda Bungeni lazima utazungumza kwanza. Kwa hiyo, mazungumzo ndiyo kitu cha maana na kwa bahati nzuri katika mazungumzo haya tulipokuwa tukizungumza na African Development Bank,</seg>
+          <seg xml:id="seg263">wameonesha nia ya kufadhili katika sehemu hii. Wakishakubaliana, tutaingia sasa kwenye Memorandum of Understanding na commitment ya wao kuja kujenga.</seg>
+          <seg xml:id="seg264">Katika kipindi hiki ambapo bado tunasubiri hayo matokeo ya African Development Bank, Serikali itaendelea kutenga fedha kulingana na bajeti yake katika kujenga sehemu hii ili nayo iweze kukamilika kwa kujengwa kwa kiwango cha lami na ndiyo maana kwa mwaka huu tumeweka bilioni 6.7. Vilevile kuna milioni zingine bilioni 1.157 ambazo zimewekwa pale kwa ajili ya kufanya ukarabati ili barabara ile iweze kuendelea kupitika.</seg>
+          <seg xml:id="seg265">Ombi lake kwamba ujenzi sasa uanzie Mpanda kwenda Tabora, nataka kumthibitishia Mheshimiwa Mbunge, fedha zile zikishapatikana na ujenzi utakapoanza, tutaanzia katika sehemu zote. Tutaanzia kutoka Mpanda kwenda Tabora na nyingine itaanzia Tabora kwenda Mpanda ili makandarasi wakutane na ile barabara iweze kukamilika mapema. Kwa sababu watu wa Tabora wanahitaji lami na watu wa Mpanda wanahitaji lami na ndiyo jukumu letu la Serikali katika kuhakikisha barabara zote zinatengenezwa kwa kiwango cha lami.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u94" who="NaibuSpika">
+          <seg xml:id="seg266">Kiongozi wa Upinzani Bungeni, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u95" who="WaziriWaUjenzi">
+          <seg xml:id="seg267">Bado moja; kuhusu suala la kutembelea, nitatembelea kule, tena nitamwomba Mheshimiwa Kikwembe twende naye pamoja. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u96" who="NaibuSpika">
+          <seg xml:id="seg268">Kwa ruhusa ya Naibu Spika. Swali la nyongeza, Mheshimiwa Kiongozi wa Upinzani Bungeni!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u97" who="MheFreemanAMbowe">
+          <seg xml:id="seg269">Nakushukuru sana Mheshimiwa Naibu Spika. Kwanza, nimpongeze Mheshimiwa Magufuli, kwa kuwa leo ni siku yake ya kuzaliwa.</seg>
+          <seg xml:id="seg270">[MHE. F. A. MBOWE]</seg>
+          <seg xml:id="seg271">Mheshimiwa Waziri, utakumbuka kwamba muda siyo mrefu wewe ukiambatana na Mheshimiwa Rais na mimi, Mheshimiwa Rais alizindua Barabara ya Kwa Sadaka – Masama. Hii ni barabara yenye urefu wa kilomita 13, ambayo ujenzi wake ulianza mwaka 2010 na huu ni mwaka wa nne tangu barabara hiyo imeanza kujengwa. Barabara ya urefu wa kilomita zisizozidi 13. Aidha, katika tukio la kufungua barabara ile, Mheshimiwa Rais, baada ya maombi maalum na wewe kuridhia, uliridhia kwamba barabara ile itapewa fursa ya kuwa kuongezwa urefu ili iweze kuunganisha barabara kutoka Kijiji cha Mashua kwenda kuunganisha Machame Barazani.</seg>
+          <seg xml:id="seg272">Baada ya Mheshimiwa Rais kuzindua barabara ile, ujenzi wa barabara ile ulisimama baada ya miezi mitatu tu na hadi leo ni karibu mwaka unakwisha hakuna ujenzi unaoendelea. Je, Mheshimiwa Waziri utatupa kauli gani ili Wananchi wa Masama na Machame wapate amani kwamba barabara ile kweli itakamilika, ukichukua kwamba, siyo barabara ndefu sana na imechukua muda mrefu; na je, utakuwa tayari mimi na wewe kwa sababu Waziri Mwakiembe alishanipa ahadi ya kwenda kutembelea kitu ambacho hakufanya; niombe sasa wewe mwenyewe tufuatane na mimi ili ukamalize moto wa Wananchi wale kule Hai?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u98" who="NaibuSpika">
+          <seg xml:id="seg273">Ni swali moja tu la nyongeza, naomba majibu Mheshimiwa Waziri wa Ujenzi!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u99" who="WaziriWaUjenzi">
+          <seg xml:id="seg274">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Freemon Mbowe, Mbunge wa Hai, kama ifuatavyo:-</seg>
+          <seg xml:id="seg275">Mheshimiwa Naibu Spika, kwanza, namshukuru kwa kunipongeza kwa kuwa leo ni siku yangu ya kuzaliwa. Niseme kwa dhati kwamba ni kweli pia aliweka jiwe la msingi Barabara ya Sadaka – Masama. Niseme kwa dhati kuwa, siku hiyo Mheshimiwa Freeman Mbowe alisimama kwa dhati kuipongeza Serikali ya Chama cha Mapinduzi, kwa kazi nzuri inazozifanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u100" who="WaziriWaUjenzi">
+          <seg xml:id="seg276">Napenda nimshukuru sana Mheshimiwa Mbowe, kwa sababu alionesha moyo wa kizalendo na nina uhakika hata wenzake anaowaongoza hata walioko chini yake, wataendelea kuipongeza Serikali ya Chama cha Mapinduzi, kwa kazi nzuri zinazofanywa katika barabara hiyo kama ambavyo alifanya yeye; na kwa sababu alishiriki kikamilifu katika uwekaji wa jiwe la msingi wa barabara hiyo, Mheshimiwa Rais, ambaye ni Mwenyekiti wa Chama cha Mapinduzi, alifurahishwa sana na uzalendo wa Mheshimiwa Mbowe na akaahidi kumwongezea kilometa tatu za kujengwa kwa kiwango cha lami. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u101" who="WaziriWaUjenzi">
+          <seg xml:id="seg277">Nataka kumthibitishia rafiki yangu Mheshimiwa Mbowe, Mkandarasi aliyekuwepo pale alifanya kazi ovyo na akafukuzwa kazi. Kwa hivi sasa tunatangaza upya ile barabara na bahati nzuri fedha zipo.</seg>
+          <seg xml:id="seg278">Ninataka pia kumthibitishia Mheshimiwa Mbowe pamoja na Wananchi wa Hai, ile ahadi iliyotolewa na Mheshimiwa Jakaya Mrisho Kikwete, ipo pale pale. Kwa hiyo, barabara hiyo baada ya kutangaza na kupatikana mkandarasi mpya, itaanza kujengwa pamoja na zile kilomita tatu zilizoahidiwa.</seg>
+          <seg xml:id="seg279">Nami nakubali kuambatana na Mheshimiwa Mbowe ili niende kuwatangazia Wananchi wa Hai, Ilani ya Chama cha Mapinduzi inavyotekelezwa katika ujenzi wa barabara. Ninamshukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u102" who="NaibuSpika">
+          <seg xml:id="seg280">Waheshimiwa Wabunge, swali la mwisho kwenye eneo hili. Mheshimiwa Vita Kawawa nilikuona, swali la mwisho kabisa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u103" who="MheVitaRKawawa">
+          <seg xml:id="seg281">Mheshimiwa Naibu Spika, ahsante sana. Nami nianze kuishukuru na kuipongeza Serikali kwa kutujengea kwa kiwango cha lami barabara yetu ya kutoka Songea mpaka Namtumbo kwa kilometa zaidi ya 72. Katika barabara hiyohiyo, kuna kipande kutoka Namtumbo – Migeregere kwenda Tunduru, kipande ambacho alipewa mkandarasi ambaye alishindwa kuifanya kazi yake na Serikali, kupitia Wizara hii ilimsimamisha mkandarasi huyo. Mheshimiwa Waziri Mkuu alipotembelea Wilaya ya Tunduru na Namtumbo, wananchi walimuuliza ni lini sasa ujenzi utaanza tena? Mheshimiwa Waziri Mkuu aliwaahidi kwamba Serikali iko katika hatua za mwisho kupata tena wakandarasi wengine na hatapatiwa mkandarasi mmoja. Je, Mheshimiwa Waziri, anaweza kuwahakikishia wananchi wa Namtumbo na Tunduru wanaoishi katika barabara hiyo, ni lini wakandarasi hao watapatikana na ujenzi utaanza? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u104" who="NaibuSpika">
+          <seg xml:id="seg282">Majibu Waziri wa Ujenzi, Mheshimiwa Dkt, John Magufuli!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u105" who="WaziriWaUjenzi">
+          <seg xml:id="seg283">Mheshimiwa Naibu Spika, ni kweli kabisa, barabara ya Songea – Namtumbo, yenye jumla ya kilometa 78 ambayo inafadhiliwa chini ya mradi wa MCC inaendelea vizuri na iko kwenye hatua nzuri tu ya kukamilika kwa ajili ya kujengwa kwa kiwango cha lami. Ni ukweli pia katika sehemu ya kutoka Namtumbo hadi Tunduru, ambapo palikuwa na package tatu, palikuwa pamepewa mkandarasi mmoja alikuwa anaitwa Progressive kutoka India, ambaye kwa kweli performance yake ya kazi ilikuwa mbaya, tuliamua kumfukuza kazi. Baada ya kumfukuza kazi, aliamua kwenda kufungua kesi Mahakamani na kwa sababu tuna wajibu wa kuheshimu sheria, tulisubiri mpaka maamuzi ya Mahakama yatolewe ambapo tulimshinda kesi; akaamua tena ku- appeal na pia huko tumemshinda. Kwa sasa hivi tumeshapata kibali kutoka African Development Bank, tutatangaza upya ile sehemu katika package tatu na nataka kuwathibitishia wananchi wa Tunduru na wananchi wa Ruvuma kwa ujumla, tutapata wakandarasi wengine katika</seg>
+          <seg xml:id="seg284">[WAZIRI WA UJENZI]</seg>
+          <seg xml:id="seg285">sehemu hizo na kwa sasa hivi zinapitiwa hizo evaluations ili mkandarasi mwingine ambaye ata-perform kazi vizuri, sio kama yule Progressive ambaye he was not progressive, aweze kufanya kazi pale.</seg>
+          <seg xml:id="seg286">Mheshimiwa Naibu Spika, hili ndio jibu la hakika na nataka kumthibitishia kwamba tenda zitatangazwa hivi karibuni kwa ajili ya kumpata mkandarasi mzuri wa kwenda kufanya kazi sehemu hizo. Sio hizo tu, pia tumetangaza tenda kwa ajili ya kwenda mpaka Lumesule na kwenda mpaka kwenye Daraja la Umoja na kuna package ya zaidi ya shilingi bilioni 135 ambazo zote zinatolewa na African Development Bank.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u106" who="NaibuSpika">
+          <seg xml:id="seg287">Sasa tumalizie maswali yaliyobaki, Wizara ya Fedha, swali la Mheshimiwa Nassib Suleiman Omar, Mbunge wa Mfenesini.</seg>
+        </u>
+        <note>Na. 10. Mikopo ya Magari kwa Maafisa wa Serikali</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u107" who="MheNassibSuleimanOmar">
+          <seg xml:id="seg288">Maofisa wa Serikali na Mashirika hutumia magari aina ya Land Cruiser ambayo yana gharama kubwa sana:-</seg>
+          <seg xml:id="seg289">(a) Je, Serikali itachukua lini hatua za kutoa mikopo ya magari kwa Maofisa hao na kuwapa posho ya mafuta ili kupunguza gharama kwa Serikali?</seg>
+          <seg xml:id="seg290">(b) Je, Serikali, haioni kwa kuchelewa kufanya uamuzi kunaligharimu Taifa fedha nyingi kuendesha magari hayo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u108" who="NaibuWaziriWaFedhaMheSaadaMkuyaSalum">
+          <seg xml:id="seg291">[NAIBU WAZIRI WA FEDHA</seg>
+          <seg xml:id="seg292">(MHE. SAADA MKUYA SALUM)]</seg>
+          <seg xml:id="seg293">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri wa Fedha, napenda kujibu swali la Mheshimiwa Nassib Suleiman Omar, Mbunge wa Mfenesini, lenye vipengele (a) na (b), kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg294">Mheshimiwa Naibu Spika, ni kweli kwamba Maafisa wa Serikali na Mashirika ya Umma hutumia magari makubwa yakiwemo ya aina ya Land Cruisers. Katika juhudi za kupunguza matumizi ya magari ya aina hii Serikali, imeelekeza kuwa Ofisi yoyote ya Serikali au Taasisi au Shirika la Umma linalotaka kununua magari yenye ukubwa wa injini wa zaidi ya cc 3000, ni lazima Ofisi husika ipate kibali cha Waziri Mkuu kabla ya kununua. Aidha, hivi sasa Serikali imeanza kununua na kutumia magari madogo ya chini ya ukubwa wa cc 3000.</seg>
+          <seg xml:id="seg295">Mheshimiwa Naibu Spika, pamoja na kuzuia ununuzi wa magari, kuna changamoto kuhusu matumizi ya magari madogo. Mazingira ya baadhi ya barabara zetu na katika baadhi ya Mikoa na Wilaya, bado hayawezeshi kutumika kwa magari madogo. Hivyo, ni busara maeneo haya kuendelea kutumia magari yenye ukubwa wa injini wa zaidi ya cc hadi hapo maeneo hayo yatakapopata barabara zinazopitika kwa urahisi.</seg>
+          <seg xml:id="seg296">Mheshimiwa Naibu Spika, gharama za Serikali haziko tu kwenye ununuzi wa magari peke yake, bali zipo katikia maeneo mengi mengineyo. Ili kubabiliana na kuongezeka kwa gharama hizo, Serikali imetoa maelekezo kwa Maafisa Masuuli wote kupitia Mwongozo wa Mpango wa Bajeti wa mwaka 2013/2014, kuchukua hatua za kupunguza matumizi katika maeneo ya semina, warsha, sherehe na maadhimisho ya Serikali, gharama katika undeshaji wa ofisi pamoja na ununuzi wa samani na magari.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u109" who="MheNassibSuleimanOmar">
+          <seg xml:id="seg297">Mheshimiwa Naibu Spika, ahsante kwa majibu mazuri lakini nina maswali mawili. Magari ya Serikali na Mashirika, yamekuwa yakitumika baada ya saa za kazi na vilevile katika siku za mapumziko na kuisababishia Serikali gharama kubwa. Je, Serikali, inachukua hatua gani kulidhibiti suala hili?</seg>
+          <seg xml:id="seg298">[MHE. N. S. OMAR]</seg>
+          <seg xml:id="seg299">Mheshimiwa Naibu Spika, swali la pili. Toka agizo la kuzuia ununuzi wa magari ya zaidi ya cc 3000 litolewe, je, ni magari mangapi yamenunuliwa? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u110" who="NaibuSpika">
+          <seg xml:id="seg300">Majibu ya maswali hayo, Mheshimiwa Naibu Waziri Fedha, sidhani kama swali la pili takwimu utakuwanayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u111" who="NaibuWaziriWaFedhaMheSaadaMkuyaSalum">
+          <seg xml:id="seg301">Mheshimiwa Naibu Spika, ni kweli kumekuwa na tatizo hili la magari ya Serikali kutumika baada ya saa za kazi na siku za mapumziko. Aidha, matamko mbalimbali yamekuwa yakitolewa kuhusiana na kuzuia magari yasitumike baada ya saa za kazi na siku za mapumziko, hususan kwa shughuli binafsi kwa sababu kwa baadhi ya Taasisi ama sisi viongozi wengi wa Serikali tunafanya kazi baada ya saa za kazi lakini vilevile tunafanya kazi siku za mapumziko.</seg>
+          <seg xml:id="seg302">Mheshimiwa Naibu Spika, kwa hivyo, naendelea kusisitiza kama lilivyotolewa Tamko la Serikali, magari yasitumike kwanza kwa shughuli binafsi, lakini yasitumike baada ya saa za kazi na siku za mapumziko, isipokuwa tu kwa zile shughuli za Serikali. Hilo tutaendelea kulisimamia na ninachukua fursa hii kuahidi kwamba tutaendelea kulisimamia tena kwa sababu imeonekana imekuwa ikichukuliwa kirahisi-rahisi tu. Kwa hiyo, Serikali inatoa msisitizo wake palepale kwamba magari yasitumike baada ya saa za kazi na siku za mapumziko kwa shughuli binafsi isipokuwa zile tu ambazo zinahusiana na kazi za Serikali.</seg>
+          <seg xml:id="seg303">Mheshimiwa Naibu Spika, lakini hili la pili ni kweli kama ulivyosema kwamba kwa sasa sitapata takwimu kwa sababu, ni taasisi mbalimbali ambazo zinatekekeleza agizo hili. Inabidi tuanze kukusanya takwimu hizi lakini nitampatia majibu Mheshimiwa Mbunge kama inavyostahiki. Ahsante.</seg>
+          <seg xml:id="seg304">Tanzania kwenda Kujifunza Riadha Kenya na Ethiopia</seg>
+        </u>
+        <note>(K.n.y. MHE. MOHAMED H. MISSANGA)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u112" who="MheIsmailARage">
+          <seg xml:id="seg305">Nchi za Kenya na Ethiopia zinafanya vizuri katika mchezo wa riadha wakati Tanzania hatufanyi vizuri:-</seg>
+          <seg xml:id="seg306">Je, Serikali imefikia wapi katika kutekeleza ushauri wangu wa mwaka 2011 wa kupeleka wataalam wa riadha nchini Kenya na Ethiopia kujifunza mbinu na mikakati wanayotumia majirani zetu na kuweza kufanya vizuri katika mashindano ya Kiamataifa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u113" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg307">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Habari, Vijana, Utamaduni na Michezo, napenda kujibu swali la Mheshimiwa Mohammed Hamis Missanga, Mbunge wa Singida Magharibi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg308">Mheshimiwa Naibu Spika, Wizara yangu inazo taarifa zinazoonesha nchi nyingi duniani, zikiwemo Kenya na Ethiopia, jinsi zinavyoweza kupata mafanikio na kufanya vizuri katika mashindano ya Kiamataifa. Kulingana na taarifa hizo, mafanikio hayo yametokana na mambo muhimu yafuatayo:</seg>
+          <seg xml:id="seg309">(i) Uhamasishaji na msingi wa kushiriki mchezo wa riadha kuanzia umri mdogo katika ngazi za shule za msingi, sekondari na elimu ya juu.</seg>
+          <seg xml:id="seg310">(ii) Uwekezaji katika mchezo wa riadha ambapo katika nchi zote za Ethiopia na Kenya, Serikali na sekta binafsi zinatoa mchango mkubwa katika maendeleo ya mchezo huo.</seg>
+          <seg xml:id="seg311">[NAIBU WAZIRI WA HABARI, VIJANA,</seg>
+          <seg xml:id="seg312">UTAMADUNI NA MICHEZO]</seg>
+          <seg xml:id="seg313">(iii) Utamaduni uliojengeka wa kupenda mchezo wa riadha miongoni mwa vijana wadogo, viongozi wa Serikali na viongozi wa kisiasa, sekta binafsi na wananchi wote kwa ujumla.</seg>
+          <seg xml:id="seg314">(iv) Uwepo wa vituo na shule maalum za kuendeleza mchezo wa riadha.</seg>
+          <seg xml:id="seg315">(v) Uongozi thabiti wa Mashirikisho ya Mchezo wa Riadha katika nchi za Kenya na Ethiopia.</seg>
+          <seg xml:id="seg316">Mheshimiwa Naibu Spika, baadhi ya yale tuliyobaini, tunaendelea kuyafanyia kazi kwa kadri ya uwezo wa Serikali na kwa kushirikiana na Washirika wetu na Chama cha Riadha Tanzania.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u114" who="MheIsmailARage">
+          <seg xml:id="seg317">Mheshimiwa Naibu Spika, nina maswali mawili ya nyongeza. Kwanza, napenda kumshukuru Mheshimiwa Waziri, kwa majibu mazuri kabisa, lakini nilitaka alifahamishe Bunge lako Tukufu, ni lini Serikali yetu ya Tanzania na yenyewe itaanza utaratibu wa kusaidia kufadhili hasa huu mchezo wa riadha?</seg>
+          <seg xml:id="seg318">Mheshimiwa Naibu Spika, la pili, moja ya sababu kubwa ya michezo kuzorota hapa nchini ikiwemo riadha, ni kodi kubwa ya vifaa vya michezo. Je, Mheshimiwa Waziri, ana mpango wowote wa kuhakikisha kwamba bidhaa hii au vifaa hivi vya michezo vinafutiwa kodi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u115" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg319">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Rage, ambaye pia ni Rais wa Simba, kama ifuatavyo:-</seg>
+          <seg xml:id="seg320">Mheshimiwa Naibu Spika, kama nilivyosema katika</seg>
+          <seg xml:id="seg321">[NAIBU WAZIRI WA HABARI,</seg>
+          <seg xml:id="seg322">VIJANA, UTAMADUNI NA MICHEZO]</seg>
+          <seg xml:id="seg323">majibu ya msingi baada ya kubaini wenzetu wamefanikiwa vipi, tayari Serikali imeanza mikakati na hasa katika suala la Walimu, inashirikiana Wizara yangu na Wizara ya Elimu, kuandaa Walimu ambao watakuwa ni Walimu wazuri katika masuala ya michezo. Pia, tunashirikiana na TAMISEMI kuelekeza Halmashauri kujenga miundombinu kwa ajili ya michezo. Vilevile tunaendelea kuhamasisha sekta binafsi kuwekeza katika miundombinu, kwa maana ya viwanja na katika ujengaji wa shule za awali. Lingine ni kwamba, Chama cha Riadha nacho kina mikakati na kinaendelea kushirikiana na Serikali, kuona kwamba tunafanikiwa katika suala hili la michezo na hasa riadha.</seg>
+          <seg xml:id="seg324">Mheshimiwa Naibu Spika, swali la pili, kuhusu kodi. Nakubaliana na yeye kwamba suala hilo ni kama changamoto. Sisi Serikali tunalipokea na hasa kabisa kama ni vifaa vya michezo, tutalifanyia kazi ndani ya Serikali kuona kwamba tunakuja na unafuu katika vifaa hivyo na hasa katika shule.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u116" who="NaibuSpika">
+          <seg xml:id="seg325">Tunaendelea Waheshimiwa Wabunge, muda ni mdogo sana, bado nina maswali matatu.</seg>
+        </u>
+        <note>Na. 12. Utamaduni wa Akinamama Kuvaa Mavazi ya Kiume</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u117" who="MheYahyaKassimIssa">
+          <seg xml:id="seg326">Hivi sasa umeingia utamaduni wa akina mama kuvaa mavazi ya kiume kama vile suruali na shati, hali inayosababisha jamii kushindwa kuwatofautisha ukiachilia mbali tofauti za maumbile zinazoonekana wazi:-</seg>
+          <seg xml:id="seg327">(a) Je, utamaduni huu umetokea wapi?</seg>
+          <seg xml:id="seg328">(b) Je, Serikali, haioni kuwa kasoro kuna zinazojitokeza katika mtazamo?</seg>
+          <seg xml:id="seg329">[MHE. Y. K. ISSA]</seg>
+          <seg xml:id="seg330">(c) Je, huu ndio utamaduni wa maendeleo ya akinamama wa Tanzania?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u118" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg331">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Habari, Vijana, Utamaduni na Michezo, napenda kujibu swali la Mheshimiwa Yahya Kassim Issa, Mbunge wa Chwaka, lenye sehemu (a), (b) na (c), kama ifuatavyo:-</seg>
+          <seg xml:id="seg332">(a) Mheshimiwa Naibu Spika, utamaduni huu wa akinamama wa kuvaa mavazi ya kiume, kama vile suruali na shati, umeongezeka kutokana na mwelekeo wa mitindo ya kisasa hasa inayotokana na tamaduni hizi za nje zinazoingizwa nchini kupitia vyombo vya habari na mawasiliano. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u119" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg333">(b) Mheshimiwa Naibu Spika, zipo kasoro mbalimbali katika uvaaji, siyo tu wa suruali pia hata magauni na nguo nyingine. Kasoro hizi ni pamoja na kuvaa suruali zinazobana sana maungo, zinazoishia chini ya kiuno na kutobolewa matundu kwa makusudi. Serikali kwa kutambua kuwepo kwa kasoro hizo zinazojitokeza katika ushonaji na uvaaji wa mavazi hayo, imekuwa ikichukua hatua mbalimbali ili kuhakikisha kwamba maadili, mila na desturi za Taifa letu zinafuatwa. Hatua hizo ni pamoja na kutoa elimu kwa jamii kupitia vyombo vya habari. Aidha Serikali imeshatoa Miongozo na Kanuni za uvaaji zinazostahiki katika mazingira mbalimbali.</seg>
+          <seg xml:id="seg334">(c) Mheshimiwa Naibu Spika, uvaaji wa nguo zisizostahiki sio utamaduni wa maendeleo ya akinamama Tanzania.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u120" who="MheYahyaKassimIssa">
+          <seg xml:id="seg335">Mheshimiwa Naibu Spika, naomba kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg336">Mheshimiwa Naibu Spika, kwa kuwa kulikuwa na kivazi</seg>
+          <seg xml:id="seg337">[MHE. Y. K. ISSA]</seg>
+          <seg xml:id="seg338">cha suruali katika ujana wetu kikiitwa „Tupendane”, mwendo wa mabega chini, ambacho kivazi kile kilikuwa kinyume na maadili yetu na Serikali ilichukua hatua kali kivazi hiki kikaondoka moja kwa moja. Je, Serikali iko tayari kuleta Sheria Bungeni kwa akina mama na akina baba ambao wanavaa nguo ambazo zinakiuka maadili yetu ya Kitanzania? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u121" who="MheYahyaKassimIssa">
+          <seg xml:id="seg339">Mheshimiwa Naibu Spika, kwa kuwa Serikali imekubali, je, Sheria hii italetwa hapa Bungeni lini? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u122" who="NaibuSpika">
+          <seg xml:id="seg340">Majibu kwa swali hilo muhimu, Naibu Waziri, Mheshimiwa Makalla.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u123" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg341">Mheshimiwa Naibu Spika, swali la awali lilikuwa kama ni sahihi wanawake kuvaa suruali na mashati? Mimi nataka niseme tu kwamba, kama nilivyosema katika jibu la msingi, mavazi yote yataendelea kuzingatia utamaduni wetu lakini Tanzania haiwezi kuwa kisiwa. Pamoja na hayo ni kwamba, kila mmoja atavaa nguo ambazo anahisi zitaendeleza ustaarabu na staha na kuona kwamba hatukiuki maadili yoyote. Kama nilivyosema, ni mambo ya utandawazi na kwenda na usasa; hata juzi nilitumiwa message inasema uzee mwisho Chalinze. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u124" who="NaibuWaziriWaHabariVijanaUtamaduniNaMichezo">
+          <seg xml:id="seg342">Mheshimiwa Naibu Spika, swali la pili, kama ipo haja ya kufanya mabadiliko ya Sheria, basi sisi tumepokea ushauri huo, lakini Sheria yenyewe itaendelea kuzingatia kwamba tunaendeleza utamaduni wetu wa Tanzania.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u125" who="NaibuSpika">
+          <seg xml:id="seg343">Kwa hiyo, Mheshimiwa Waziri, kwa hiyo, suruali kwa akinamama, ruksa, marufuku.</seg>
+          <seg xml:id="seg344">Waheshimiwa Wabunge, nawaona lakini kwa sababu ya muda, kama mnavyoona ninyi wenyewe, naomba tuendelee na Wizara ya Maliasili na Utalii, swali la Mheshimiwa Waride Bakari Jabu.</seg>
+          <seg xml:id="seg345">Wataalamu wa Kuendeleza Eneo la Ngorongoro</seg>
+        </u>
+        <note>(K.n.y. MHE. WARIDE BAKARI JABU)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u126" who="MheMuhammadAmourChomboh">
+          <seg xml:id="seg346">Nyayo za Lactoli zilizopo Ngorongoro zilionekana na watafiti mwaka 1978/1979 ukiwa ni shahidi pekee duniani unaothibitisha kuwa binadamu wa umri wa miaka milioni 3.6 iliyopita waliweza kutembea wima kwa miguu miwili:-</seg>
+          <seg xml:id="seg347">Je, tokea kuonekana nyayo hizo huko Lactoli, Ngorongoro ni wataalamu wangapi wamesomeshwa ili kuendeleza eneo hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u127" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg348">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Maliasili na Utalii, naomba kujibu swali la Mheshimiwa Waride Bakari Jabu, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg349">Mheshimiwa Naibu Spika, ni kweli kwamba nyayo za binadamu wa kale za Lactoli, Ngorongoro ni za pekee na zenye umri mkubwa zilizowahi kugundulika duniani zikiwa ndio ushahidi pekee usioweza kupingika wa binadamu huyo aliyeishi miaka zaidi ya milioni 3.6 iliyopita, akitembea kwa miguu yake yote miwili. Wizara inatambua ukweli huo na umhimu wa historia hiyo.</seg>
+          <seg xml:id="seg350">Mheshimiwa Naibu Spika, ni kwa muda mrefu sasa nyayo hizi zimewanufaisha Wasomi na Wanasayansi kwa kufanya tafiti mbalimbali za chimbuko la historia ya ukuaji wa maendeleo ya binadamu na zimekuwa zikitumika kutoa mafunzo kwa vitendo kwa wanafunzi wanaotoka katika Vyuo Vikuu mbalimbali hapa nchini na nje ya nchi. Hata hivyo, mafunzo hayo hayajatolewa kikamilifu kwa kutumia nyayo zenyewe kwa kuwa nyayo hizi haziko wazi kuweza kufikika isipokuwa ni nakala tu zimetumika na maeneo ya jirani na mwamba wenye nyayo hizi kwa ulinganifu.</seg>
+          <seg xml:id="seg351">Mheshimiwa Naibu Spika, mwaka 2007, Mheshimiwa Rais Dokta Jakaya Mrisho Kikwete, aliagiza nyayo hizi zifukuliwe na kuhifadhiwa zikiwa wazi, ili ziweze kutumika kama sehemu ya mafunzo na kivutio cha utalii. Hata hivyo, kwa kuwa uhifadhi wa mwamba wa volcano wenye nyayo hizi unakabiliwa na changamoto nyingi za kisayansi, zoezi la kufukua nyayo hizi na kuzihifadhi, sasa litakamilika ifikapo mwaka 2015. Aidha, kwa kuwa taaluma inayohitajika haijapatikana katika vyuo vya hapa nchini, Wizara imeweka mpango wa miaka mitatu wa kupeleka wanafunzi wasiopungua 10, kupata mafunzo ya uhifadhi wa miamba na uendeshaji wa makumbusho nchi za nje, kuanzia mwaka huu wa Fedha 2013/2014. Nchi ambazo zitapokea wanafunzi wetu ni pamoja na Afrika Kusini, Korea Kusini na Italia.</seg>
+          <seg xml:id="seg352">Mheshimiwa Naibu Spika, mwisho, katika mwaka huu wa fedha 2013/2014, Wizara ilipeleka maombi ya wanafunzi watano katika mafunzo yanayotolewa nchini Korea na Afrika Kusini pamoja na Hispania. Serikali imeandaa mpango utakaowawezesha wanafunzi hao watakaomaliza masomo waweze kufanya kazi katika nyayo za Lactoli.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u128" who="MheMuhammadAmourChomboh">
+          <seg xml:id="seg353">Mheshimiwa Naibu Spika, nashukuru. Kwanza mimi pia nataka ku-declare interest kwamba ni mmoja katika Wajumbe wa Kamati ya Maliasili na Mazingira. Nimefika hiyo sehemu na nimeona kilichoulizwa hapa.</seg>
+          <seg xml:id="seg354">Mheshimiwa Naibu Spika, kwanza, kwa kuwa Mheshimiwa Rais alishauri kwamba nyayo hizo zifukuliwe ziwe wazi kwa ajili ya masomo na kwa ajili ya kwenda kuangalia, lakini mpaka sasa hivi Serikali haijachukua hatua yoyote ya kuweza kujenga sehemu ile ya kuhifadhi mazingira yale ya nyayo hizo, Serikali inachukua hatua gani? Naibu Waziri amesema kwamba mpaka 2015 itakuwa iko tayari wakati sasa ni mwaka 2013, tunamaliza mwaka, ni lini wataanza ujenzi wa sehemu ile na kuweza kuhifadhi nyayo zile? Hilo la kwanza?</seg>
+          <seg xml:id="seg355">[MHE. M. A. CHOMBOH]</seg>
+          <seg xml:id="seg356">Mheshimiwa Naibu Spika, la pili, umesema kwamba, kuna maombi ya wanafunzi watano kuwapeleka nchi za Korea Kusini, Afrika Kusini na Hispania. Je, ni lini wataanza kwenda kusoma ili wakirudi iwe tayari pale pameshajengwa na waweze kufanya hiyo kazi ambayo mnakusudia ya kuajiri?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u129" who="NaibuSpika">
+          <seg xml:id="seg357">Majibu Mheshimiwa Naibu Waziri Maliasili na Utalii.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u130" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg358">Mheshimiwa Naibu Spika, kwanza, ni kweli Mheshimiwa Rais aliagiza kwamba, nyayo hizi za lactoli zifukuliwe na kama tulivyojibu kwenye jibu letu la msingi, eneo la miamba hii lina volcano na ni suala tu la kisayansi na utafiti unafanyika jinsi ambavyo volcano hiyo itafukuliwa na kama endapo miamba hii itafukuliwa ni sharti iendane na ujenzi wa jengo mahususi kwa sababu ikiachwa wazi ndiyo itapotea kabisa.</seg>
+          <seg xml:id="seg359">Mheshimiwa Naibu Spika, kwa hiyo, utaratibu huo unafanyika pamoja na wafadhili ambao tunao, ikiwa ni pamoja na Jumuiya ya Ulaya pamoja na Serikali ya Tanzania na tumeweka malengo ya muda mfupi hadi kufikia mwaka 2015, zoezi hili liwe limekamilika.</seg>
+          <seg xml:id="seg360">Mheshimiwa Naibu Spika, la pili, Mheshimiwa Mbunge ameulizia juu ya wanafunzi tunaowapeleka. Tumesema kwamba wanafunzi kumi wanakwenda Korea ya Kusini, wanakwenda Afrika Kusini na vile vile wanakwenda Italia, lakini tumekubaliana na vyuo husika wanakwenda kusoma sayansi ya miamba na sayansi ya mambo ya kale na tutawaajiri moja kwa moja katika Wizara yetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u131" who="NaibuSpika">
+          <seg xml:id="seg361">Mheshimiwa Ndugulile swali katika Wizara hii hii.</seg>
+          <seg xml:id="seg362">Ongezeko la Mauaji ya Tembo Nchini</seg>
+        </u>
+        <note>(K.n.y. MHE. DKT. FAUSTINE E. NDUGULILE)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u132" who="MheJamesDLembeli">
+          <seg xml:id="seg363">Kumekuwa na ongezeko la mauaji ya tembo nchini yanayohusisha Askari Polisi, Askari Magereza na Jeshi la Wananchi:-</seg>
+          <seg xml:id="seg364">(a) Je, ni matukio mangapi ya upatikanaji wa pembe za ndovu yanahusisha vyombo vya ulinzi na usalama?</seg>
+          <seg xml:id="seg365">(b) Je, Serikali ina mikakati gani ya kudhibiti mauaji ya tembo na kukomesha biashara haramu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u133" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg366">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Maliasili na Utalii, naomba nijibu swali la Mheshimiwa Dkt. Faustine Engelbert Ndugulile, Mbunge wa Kigamboni, lenye sehemu (a) na (b), kama ifuatavyo:-</seg>
+          <seg xml:id="seg367">Mheshimiwa Naibu Spika, katika kipindi cha kuanzia Januari hadi Oktoba, 2013 na kwa kweli kwa masikitiko makubwa kumekuwa na matukio yaliyothibitishwa saba, yaliyohusisha watumishi tisa wa vyombo vya ulinzi na usalama ambapo ni pamoja na Jeshi la Wananchi, Askari mmoja; Jeshi la Kujenga Taifa, Askari mmoja; Jeshi la Polisi, Askari sita na Jeshi la Magereza askari mmoja ambao tuliwakamata wakihusika na biashara haramu ya meno ya tembo. Katika matukio hayo jumla ya meno ya tembo 686 na vipande 447 yakiwa na uzito wa kilogramu 4,253.9 yalikamatwa.</seg>
+          <seg xml:id="seg368">Mheshimiwa Naibu Spika, mikakati ambayo imewekwa na Serikali ya kupambana na wimbi la ujangili na biashara haramu ya meno ya tembo ni pamoja na mambo yafuatayo:-</seg>
+          <seg xml:id="seg369">[NAIBU WAZIRI WA MALIASILI NA UTALII]</seg>
+          <seg xml:id="seg370">(i) Tunaimarisha na kuongeza siku za doria zinazofanyika ndani na nje ya maeneo ya hifadhi za wanyamapori sasa kuanzia doria ya wakati huu ambayo ilikuwa ni siku za doria 88,300 kwa mwaka na kuanzia sasa hivi zitakuwa ni siku za doria 470,000 kwa mwaka;</seg>
+          <seg xml:id="seg371">(ii) Tunaendelea na operation maalum ambazo zitahusisha vyombo mbalimbali vya dola ikiwemo operation tokomeza inayoendelea sasa hivi nchi nzima;</seg>
+          <seg xml:id="seg372">(iii) Tunaanzisha Mamlaka ya Wanyamapori na mchakato huu tumeshauelezea hapa Bungeni unaendelea vizuri ambayo itakuwa na uwezo mkubwa wa kupambana na changamoto zinazoikabili Sekta ya Wanyamapori ikiwa ni pamoja na changamoto ya ajira ya rasilimali watu na uwezo wa kuwa na fedha za kutosha;</seg>
+          <seg xml:id="seg373">(iv) Kuendelea na jukumu la kuhamasisha wananchi kuridhia uanzishaji wa maeneo ya Jumuiya za Hifadhi za Wanyamapori (WMA’s) katika ardhi za vijiji hususani kwenye maeneo ya ushoroba, ardhi oevu na maeneo ya mtawanyiko wa wanyamapori; na</seg>
+          <seg xml:id="seg374">(v) Kuendelea kuboresha miundombinu ndani ya hifadhi za wanyamapori ili kuongeza tija katika shughuli za hifadhi hususan doria. Miundombinu hiyo ni pamoja na barabara, viwanja vya ndege na mawasiliano.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u134" who="MheJamesDLembeli">
+          <seg xml:id="seg375">Mheshimiwa Naibu Spika, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, nina maswali mawili ya nyongeza. Kwa kuwa, taarifa za awali kuhusu Operation Tokomeza zinaonesha kuhusika kwa kiwango kikubwa watumishi waandamizi wa Serikali wakiwemo Polisi, Magereza na hata Jeshi la Wananchi, lakini pia kuhusika kwa wanasiasa wakiwemo Wabunge; na kwa kuwa kuna kitu kinachoitwa kulindana. Je, Serikali inatoa kauli gani ndani ya Bunge hili kuhusu kutumika kwa utaratibu wa kulindana katika vita hii dhidi ya majangili hatari?</seg>
+          <seg xml:id="seg376">[MHE. J. D. LEMBELI]</seg>
+          <seg xml:id="seg377">Mheshimiwa Naibu Spika, swali la pili kwa kuwa kuna tuhuma zinazosema, baadhi ya Makamanda wa Polisi wa Mikoa inayopakana na Hifadhi ya Taifa ya Serengeti na hususan Mikoa ile ya Magharibi wanahusika katika kuratibu utoroshaji wa nyara za Serikali, lakini pamoja na mauaji ya tembo. Je, Serikali inatoa kauli gani kuhusu tatizo hili? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u135" who="NaibuSpika">
+          <seg xml:id="seg378">Majibu ya maswali hayo Mheshimiwa Naibu Waziri, Maliasili na Utalii, Mheshimiwa Lazaro Nyalandu na Wabunge wamo!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u136" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg379">Mheshimiwa Naibu Spika, kwanza, nikiri kwamba, Tanzania ipo katika hali mbaya pamoja na Mataifa yanayotuzunguka kwa kiidadi na kiwango cha tembo wanaouawa hapa nchini. Pia vita hii imefikia mahali pabaya na takwimu zinaonesha kwamba, Afrika nzima Tanzania ni nchi ya pili yenye idadi ya tembo wanaokadiriwa kuwa 110,000, lakini kama watakuwa wanaendelea kuuawa tembo 30 kila siku, hali tuliyonayo na historia yetu inaweza ikabadilika sana.</seg>
+          <seg xml:id="seg380">Mheshimiwa Naibu Spika, naomba nimjibu Mheshimiwa Lembeli maswali yake mawili ya nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg381">Mheshimiwa Naibu Spika, kwanza, Wizara yetu inaendelea na Operation Tokomeza. Operation Tokomeza ni operation iliyoanza mahususi baada ya agizo la Mheshimiwa Rais na baada ya ukweli kwamba, maaskari wetu walikuwa wameelemewa sana na wimbi la majangili na niseme tu, wastani tunahitaji Askari wa Wanyamapori mmoja kwa kila kilomita za mraba 25.</seg>
+          <seg xml:id="seg382">Mheshimiwa Naibu Spika, hapa Tanzania tuna Askari mmoja wa Wanyamapori kwa kila kilomita za mraba mia moja na elfu hamsini. Kwa hiyo, kama mtu mmoja anaweza akalinda kilomita mia moja na hamsini, changamoto hiyo ni kubwa sana na rasilimali watu ni kidogo sana.</seg>
+          <seg xml:id="seg383">Mheshimiwa Naibu Spika, kwa hiyo, maagizo yaliyotolewa na Mheshimiwa Rais na tukayatekeleza ilikuwa ni kufanya operation hii maalum ili tuweze kutokomeza kabisa na mafanikio yake makubwa sana yanaendelea kuoneshwa.</seg>
+          <seg xml:id="seg384">Mheshimiwa Naibu Spika, taarifa rasmi tutaitoa baada ya kukamilisha zoezi hili, Mheshimiwa Waziri wa Maliasili na Utalii, yeye mwenyewe Mheshimiwa Kagasheki amehusika moja kwa moja katika kuiongoza na sisi wasaidizi wake tunafanya kila liwezekanalo tuhakikishe kwamba maaskari wetu wote waliojumuika na hapa niwashukuru sana maaskari ambao tumewachukua katika maeneo mbalimbali ya vyombo vya ulinzi na usalama ikiwa ni pamoja na Jeshi la Polisi, Jeshi la Magereza, Maafisa wa Usalama ambao wanashirikiana nchi nzima kama ninavyoongea na Maaskari wa Wanyamapori kukamilisha Operation hii ya Tokomeza. Tunawashukuru sana na sisi tuko nyuma yenu wote.</seg>
+          <seg xml:id="seg385">Mheshimiwa Naibu Spika, pili, kuna hili suala la taarifa kwamba kuna kulindana, kuna maaskari au wenzetu katika vyombo vya ulinzi na usalama ambao wamehusika. Naomba tu niseme yafuatayo:-</seg>
+          <seg xml:id="seg386">Mheshimiwa Naibu Spika, ni kweli kwamba, kuna maaskari ambao wamekuwa siyo waaminifu ambao tunaendelea kuwakamata, lakini isije ikatoa picha kwamba maaskari wote wa Jeshi la Polisi nchini, Maaskari wote wa Jeshi la Wananchi nchini na Maafisa wote wa usalama nchini wanahusika kwa namna yoyote na hili suala, ni kama vile ambavyo Tanzania kuna majambazi, lakini siyo kila Mtanzania ni jambazi.</seg>
+          <seg xml:id="seg387">Mheshimiwa Naibu Spika, tunachokisema sisi katika Wizara yetu ni kwamba, Afisa yeyote, Mwanasiasa yeyote, tutakayemkamata, jambo la kwanza tutakutangaza. Jambo la pili, hatutasita kabisa kukufikisha katika vyombo vya dola na nimhakikishie Mheshimiwa Lembeli hakuna Mwanasiasa yeyote ambaye tutamwangalia kwa jicho la huruma na ambaye tutamficha.</seg>
+          <seg xml:id="seg388">Mheshimiwa Naibu Spika, ningeomba ushirikiano huu ambao tunauona wa watu kutoa taarifa mbalimbali ikiwa ni pamoja na Waheshimiwa Wabunge, tuendelee kushirikiana nao na vita hii inatuhusu sisi wote.</seg>
+          <seg xml:id="seg389">Mheshimiwa Naibu Spika, mwisho, nimalizie kwa kusema amelizungumzia hili suala la baadhi ya Makamanda ambao wanasemwa. Taarifa hizi ambazo bado hazijathibitishwa nisingependa kuzitolea maelezo hapa mimi kama sehemu ya Serikali, lakini niseme taarifa hii aliyotupa Mheshimiwa Lembeli tutaichukua rasmi, tutaifanyia kazi.</seg>
+          <seg xml:id="seg390">Mheshimiwa Naibu Spika, niwaombe Waheshimiwa Wabunge kama mna taarifa zozote hata zile ambazo mnapewa na wananchi kuhusiana na mwenendo wa maafisa wa Serikali walio na majukumu kama wanajihusisha na suala la utoroshaji wa wanyamapori nje ya nchi au kuwakamata au kuwaua, tunaomba hizo taarifa tuweze kushirikiana nanyi ili tuweze kuwakamata. Ahsanteni sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u137" who="WaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg391">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, napenda kuongezea maelezo mazuri ya Mheshimiwa Naibu Waziri aliyoyatoa.</seg>
+          <seg xml:id="seg392">Mheshimiwa Naibu Spika, ni kweli zipo fununu kwamba, wako baadhi kama alivyosema yeye, Wanasiasa wanashiriki, wako baadhi ya maafisa wa Serikali wanashiriki katika ujangili. Taarifa hizo zipo, lakini naomba nimhakikishie Mheshimiwa Lembeli kwamba, Kamati hii ambayo inafanya kazi hiyo inajitahidi kuifanya kazi hii kwa uadilifu mkubwa.</seg>
+          <seg xml:id="seg393">Mheshimiwa Naibu Spika, naomba niwasihi sana wanasiasa, kama kweli tunataka kukabiliana na uovu huu, bila shaka tulifanye jambo hili kwa ukweli, kwa sababu sasa hivi nimeanza sasa kupokea visimu visimu, maana sasa kuna hofu inaanza kujengeka kwamba watu wanakamatwa.</seg>
+          <seg xml:id="seg394">Mheshimiwa Naibu Spika, sasa wanaokamatwa ni wale ambao wametajwa na bila shaka tumesema ifanyike</seg>
+          <seg xml:id="seg395">[WAZIRI WA ULINZI NA JESHI LA KUJENGA TAIFA] kazi hiyo kwa uadilifu na uaminifu wa hali ya juu sana, asionewe mtu na kazi hiyo ifanywe kwa kuzingatia misingi ya haki za kibinadamu. Kwa hiyo, hatutamwonea mtu.</seg>
+          <seg xml:id="seg396">Mheshimiwa Naibu Spika, najua inawezekana wapo baadhi ya watu inasemekana wanafanyiwa mambo ambayo hayakubaliki, nasema kwamba tutaendelea kulifanyia jambo hilo na pale ambapo itathibitika, tutachukua hatua.</seg>
+          <seg xml:id="seg397">Mheshimiwa Naibu Spika, lakini wapo kweli pia ambao wanahusika sana, lakini wanatetewa sana na nguvu za kisiasa. Nawaomba hawa nao watuachie tufanye kazi yetu, kwa sababu ombi hili nakumbuka lilitoka kwenye Bunge hili hili na mimi na Waziri wa Maliasili tukatoa ahadi kwamba operation maalum ya kupambana na majangili itaanza na baadhi ya Waheshimiwa Wabunge wakasema aah, Serikali inafanya mzaha, haitafanya.</seg>
+          <seg xml:id="seg398">Mheshimiwa Naibu Spika, nafikiri jambo hilo sasa linatekelezwa. Kweli imedhihiri, sasa tuachiwe tufanye kazi, lakini pale tunapodhani kuna malalamiko ya watu ambao hawafanyiwi haki, bila shaka tuwasilishe malalamiko hayo na tunaohusika tutachukua hatua zinazostahiki. Kwa hiyo, naomba nimhakikishie Mheshimiwa Mbunge, hapa hakuna kulindana, kweli itadhihiri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u138" who="MheGodblessJLema">
+          <seg xml:id="seg399">Mheshimiwa Naibu Spika, nakushukuru. Pamoja na ujangili unaoendelea wa mauaji ya tembo, malalamiko makubwa ya wahifadhi ni watu wa nje au watu wa ndani kupewa vitalu vya uwindaji vinavyopakana kandokando ya hifadhi na sasa ukimuua tembo ndani ya kitalu huyo tembo unakuwa umemuua kihalali na wakati huo huo kitalu hicho kipo pembezoni mwa hifadhi.</seg>
+          <seg xml:id="seg400">Mheshimiwa Naibu Spika, hivi karibuni TANAPA wamelalamika, wanasema, tembo wengi wanauawa katika vitalu ambavyo ni halali, lakini tembo hao wanatoka kwenye hifadhi kupita kwenye zile shoroba kwenda kwenye vitalu.</seg>
+          <seg xml:id="seg401">[MHE. G. J. LEMA]</seg>
+          <seg xml:id="seg402">Mheshimiwa Naibu Spika, sasa kwa sababu suala la uwindaji haramu na uwindaji halali wa tembo unaonekana kumaliza wanyama hawa ambao kwetu sisi ni uchumi endelevu. Serikali ina mpango gani juu ya vitalu ambavyo viko pembezoni mwa hifadhi ambavyo wanyama wamekuwa wakiuawa kama tembo na huku ikionekana ni halali? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u139" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg403">Mheshimiwa Naibu Spika, ni kweli kwamba, tumepokea malalamiko hayo, tembo wengi sana ambao wameuawa, wameuawa nje ya maeneo rasmi ya Hifadhi za Taifa. Imekuwa ni ama kwenye mapori tengefu, ama mapori ya akiba, ama kwenye maeneo haya yanayojulikana kama WMA’s au maeneo ya hifadhi za vijiji na ujangili mwingi sana umefanyika katika maeneo ambayo yanajulikana kama vitalu vya uwindaji.</seg>
+          <seg xml:id="seg404">Mheshimiwa Naibu Spika, mambo mawili tunaendelea kuyafanya. Moja, tunakubaliana Kiserikali kwamba tutafanya review ya hizi GMP, GMP ni General Management Plan ambazo zinaonesha ni maeneo yapi yanafaa kuwa vitalu vya uwindaji na kama imetokea kama anavyothibitisha Mheshimiwa Lema kwamba, baadhi ya vitalu vimekuwa vikitumika kama eneo la kutegea wanyama hilo suala tutaliangalia upya kwa sababu hizi GMP tunazi- review kila wakati.</seg>
+          <seg xml:id="seg405">Mheshimiwa Naibu Spika, jambo la pili, ni suala zima tu uwindaji. Nadhani umefika wakati Watanzania wote tuendelee kujihoji, tuendelee kufikiria kama uwindaji huu ni sustainable, Tanzania itaendelea kuwinda kwa miaka mingapi ijayo, je, ni miaka 100 au miaka 20 kwa sababu nchi nyingi sana zinaachana na hii biashara ya uwindaji.</seg>
+          <seg xml:id="seg406">Mheshimiwa Naibu Spika, naamini wakati umefika na siyo wa kutoa tamko, lakini tuendelee kufikiria tu sisi wote kama Wabunge na kama Watanzania, kama tunataka kweli tubakize wanyama kwa ajili ya vizazi vingi vijavyo, tuangalie</seg>
+          <seg xml:id="seg407">dhana zima hii ya uwindaji, utakuwa ni wa namna gani, utaruhusiwa kwa misingi gani na kwa miiko gani. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u140" who="NaibuSpika">
+          <seg xml:id="seg408">Waheshimiwa Wabunge muda hauko upande wetu. Nawashukuru sana kwa ushirikiano.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u141" who="MheAlphaxardKNLugola">
+          <seg xml:id="seg409">Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u142" who="NaibuSpika">
+          <seg xml:id="seg410">Baadaye kidogo. Nielekee kwenye matangazo, lakini kabla ya hapo kwenye suala la Mheshimiwa Kassim Issa la akina mama kuvaa suruali amepata tabu sana Mheshimiwa Amos Makala kulijibu. Alimalizia kwa msemo, lakini sasa ule msemo hakuumaliza vizuri. Akasema uzee mwisho Chalinze, akaishia pale. Ule msemo wake unakwenda hivi, uzee mwisho Chalinze, mjini kila mtu baby. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u143" who="NaibuSpika">
+          <seg xml:id="seg411">Kwa hiyo, nilitaka niukamilishe tu ule msemo.</seg>
+          <seg xml:id="seg412">Waheshimiwa Wabunge upande wa wageni hatunao wengi sana. Tunao wageni wa Mheshimiwa Waziri wa Ushirikiano wa Afrika Mashariki, Mheshimiwa Samuel Sitta, ambao ni Makada wa Vyuo wa Mkoa Maalum wa CCM wakiongozwa na Mjumbe wa Baraza Kuu la Umoja wa Vijana CCM Taifa, Ndugu Asenga Abubakar, karibu sana.</seg>
+          <seg xml:id="seg413">Pia ameambatana na Wajumbe wengine ambao ni James Mwakibinga na Stella Nkya, karibuni sana Bungeni, mjifunze namna mambo yanavyokwenda hapa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u144" who="NaibuSpika">
+          <seg xml:id="seg414">Waheshimiwa Wabunge, tuna matangazo mengi kidogo, kwa hiyo, naomba usikivu wenu; tuna tangazo linatoka kwa Makamu Mwenyekiti wa Kamati ya Huduma za Jamii, Mheshimiwa Steven Ngonyani, anaomba baada ya kuahirisha kikao hiki kutakuwa na kikao cha Kamati, ukumbi namba 227.</seg>
+          <seg xml:id="seg415">[NAIBU SPIKA]</seg>
+          <seg xml:id="seg416">Mheshimiwa David Silinde, Katibu wa Wabunge wa CHADEMA, anaomba Wabunge wa CHADEMA wakutane kwenye Ofisi ya Kiongozi wa Kambi ya Upinzani, saa sita kamili mchana wa leo.</seg>
+          <seg xml:id="seg417">Makamu Mwenyekiti wa Kamati ya Bunge ya Uchumi, Viwanda na Biashara, Ndugu Dunstan Kitandula anawaomba wajumbe wa Kamati ya Uchumi, Viwanda na Biashara wakutane baada ya kikao hiki Msekwa B.</seg>
+          <seg xml:id="seg418">Mheshimiwa Pindi Hazara Chana, Mwenyekiti wa Kamati ya Bunge ya Katiba, Sheria na Utawala ambayo ina shughuli nyingi sana za kushughulikia katika kipindi hiki, anawaomba wajumbe wa Kamati yake baada ya kikao hiki, mkutane Msekwa C.</seg>
+          <seg xml:id="seg419">Mheshimiwa James Lembeli, Mwenyekiti wa Kamati ya Bunge Ardhi, Maliasili na Mazingira anawaomba vile vile wajumbe wa Kamati ya Ardhi, Maliasili na Mazingira, baada ya kuahirishwa kwa kikao hiki mkutane ukumbi namba 231.</seg>
+          <seg xml:id="seg420">Mheshimiwa Idd Azzan, Mwenyekiti wa Bunge Sports Club, anaomba niwatangazieni Waheshimiwa Wabunge wote kwamba, mazoezi yanaendelea ya asubuhi katika uwanja wa Jamhuri na tarehe 2, Jumamosi kutakuwa na mechi ya mpira wa miguu kati ya Bunge Sports Club na timu ya Travel Port kutoka Dar es Salaam. Mechi hii ni muhimu kwa ajili ya maandalizi ya michezo ya Mabunge ya Afrika Mashariki yatakayofanyika mwezi Desemba nchini Uganda. Hivyo, Wabunge wote wanatakiwa kuhudhuria mazoezi uwanja wa Jamhuri kwa ajili ya maandalizi ya mchezo huu.</seg>
+          <seg xml:id="seg421">Tangazo la mwisho, naomba niwatangazie Wabunge wote kwamba, kutakuwa na kikao cha briefing leo saa kumi kamili jioni.</seg>
+          <seg xml:id="seg422">Nilisikia mwongozo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u145" who="MheAlphaxardKNLugola">
+          <seg xml:id="seg423">Mheshimiwa naibu Spika, naomba mwongozo wako chini ya kanuni ya 68(7).</seg>
+          <seg xml:id="seg424">[MHE. A. K. N. LUGOLA]</seg>
+          <seg xml:id="seg425">Mheshimiwa Naibu Spika, naomba mwongozo wako kutokana na kauli ambayo Mheshimiwa Naibu Waziri wa Maliasili na Utalii aliyoitoa hapa Bungeni kuhusiana na ujangili wa tembo.</seg>
+          <seg xml:id="seg426">Mheshimiwa Naibu Spika, kauli aliyoitoa hapa Bungeni kwamba suala hili linafanyiwa utafiti na anasema kwamba hawezi akakubali kwamba viongozi wanalindana kwa sababu bado wanalifanyia uchunguzi na hawawezi wakalaumiwa wote.</seg>
+          <seg xml:id="seg427">Mheshimiwa Naibu Spika, hivi tunavyozungumza Operation Kimbunga na hizi operation za ujangili, wako watu kwenye hifadhi wanapigwa, wanaumizwa, wakati wao si majangili wa tembo, lakini majangili wa tembo mpaka sasa hakuna aliyepigwa wala kuumizwa hata mmoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u146" who="MheAlphaxardKNLugola">
+          <seg xml:id="seg428">Mheshimiwa Naibu Spika, kwa nini vyombo vya habari vinaendelea kutoa taarifa, wananchi wanasema kwamba inawezekana Mawaziri wanahusika, Wabunge wanahusika, kwa nini Serikali isilete taarifa kamili hapa Bungeni kuhusiana na ujangili wa tembo. Toka mwezi ule wa Nne tunazungumzia bajeti, suala la tembo liliibuka, lakini tunaendelea kuambiwa tunalifanyia kazi mchakato unaendelea. Kwa nini Bunge hili kila wakati linaendelea kupata taarifa za maneno mepesi na Mheshimiwa Waziri wa Ulinzi anasema suala hili kweli si la mzaha, kwa nini majibu yao yana mzaha ndani ya Bunge hili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u147" who="MheAlphaxardKNLugola">
+          <seg xml:id="seg429">Mheshimiwa Naibu Spika, naomba mwongozo wako, Taifa hili utalii utakufa kwa sababu ya tembo, wananchi wanaumizwa wasio na hatia, tunataka wale wanaohusika hata kama ni Wabunge, hata kama ni mimi, kama ni Mawaziri hatua zichukuliwe. Tunamtaka alete taarifa kamili hapa Bungeni na tusiambiwe kwamba utafiti unaendelea, utafiti gani unaendelea wakati hawa watu wanafahamika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u148" who="MheAlphaxardKNLugola">
+          <seg xml:id="seg430">Mheshimiwa Naibu Spika, naomba mwongozo wako.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u149" who="NaibuSpika">
+          <seg xml:id="seg431">Mheshimiwa Waziri wa Nchi, Ofisi ya Waziri Mkuu!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u150" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg432">Mheshimiwa Naibu Spika, sababu iliyopelekea Serikali kukubali kufanya operation ni kuwabaini baadhi ya hao watu wanaohusika na kazi inaendelea na katika timu iliyoundwa inayofanya operation inafanya mambo yote, wale watu ambao wanabainika kwamba wanaendesha shughuli hizi wakikamatwa wanafikishwa Mahakamani.</seg>
+          <seg xml:id="seg433">Mheshimiwa Naibu Spika, kwa hiyo, nafikiri mahali pazuri pa kuingilia, Mheshimiwa Mbunge, nilifikiri pengine labda operation hii ikija, ikimaliza shughuli zake labda kupitia ile Kamati ya Maliasili na Utalii, wapelekewe taarifa ya mwenendo wa ile na haya yote yanayozungumzwa na Mheshimiwa Mbunge yajadiliwe kutokana na kufanya tathmini ya hii kazi itakapokwisha, halafu hilo lijitokeze.</seg>
+          <seg xml:id="seg434">Mheshimiwa Naibu Spika, kwa sababu kwa vyovyote vile, Wizara zinazohusika hasa Wizara ya Maliasili ambayo ndiyo inasimamia hiyo operation, lazima itatoa taarifa kwenye Kamati ya Maliasili ya Bunge hili.</seg>
+          <seg xml:id="seg435">Mheshimiwa Naibu Spika, sasa ikishatoa taarifa ile bila shaka Wabunge wote tushirikiane kuisaidia Serikali kama taarifa ile haitoshelezi na kama kuna watu wanaohusika ambao pengine kwa namna moja au nyingine hawakuhusishwa na ile operation, lakini tunajua ni majangili kweli kweli tuisaidie ile Kamati ili yenyewe ndiyo iwe mkondo wa kupitisha hapa Bungeni.</seg>
+          <seg xml:id="seg436">Mheshimiwa Naibu Spika, kwa hiyo, nasema hilo ni jambo zuri. Simkatalii kwamba pengine katika operation hii kuna mambo yanaendelea, watu wanapigwa, wanafanywa nini, nataka ku-declare interest hata mimi msaidizi wangu wa Jimbo, alikamatwa juzi, wamemrudisha jana, lakini amepigwa sana na mimi ninayo evidence hapa, amepigwa vile vile.</seg>
+          <seg xml:id="seg437">[WAZIRI WA NCHI, OFISI YA WAZIRI MKUU, (SERA, URATIBU NA BUNGE)]</seg>
+          <seg xml:id="seg438">Mheshimiwa Naibu Spika, kwa hiyo, hilo siyo kwamba, tunakataa, haya yanatokea ni kweli, amekamatwa, amehisiwa kama anavyosema, lakini wamemkuta ofisini kwangu, amerudishwa jana, wanasema hausiki kwa sababu alitajwa na mtu, mimi sielewi lakini sitaki kujitetea kwa hilo.</seg>
+          <seg xml:id="seg439">Mheshimiwa Naibu Spika, lakini ninachoomba tu ni kwamba, entry point ingekuwa kwenye Kamati ili tufanye tathmini ya taarifa ya kazi hii itakavyokuwa, halafu Kamati na Waheshimiwa Wabunge watusaidie kama operation hii imekwenda vizuri na wale wahusika wote wametajwa na wamefikishwa kwenye vyombo vya sheria au hapana, lakini leo ukitaka Serikali tutaje majina hapa na kazi inaendelea, haiwezekani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-10-29-bunge-13-01.u151" who="NaibuSpika">
+          <seg xml:id="seg440">Ahsante sana Mheshimiwa Waziri wa nchi, nami nakubaliana na ushauri huo kwamba, kwa vile operation inaendelea hivi sasa, Serikali ikileta taarifa ya operation inayoendelea hivi sasa na kuimwaga hapa, itakuwa ni kutoa mwanya sasa kwa wale ambao bado hawajafikiwa na zoezi zima kuweza kupenya na kutofikiwa na mkono wa Sheria. Kwa hiyo tuiachie operation ifanye kazi yake, wakati muafaka ukifika tutapeana hizo taarifa kupitia Kamati zetu na Bunge litachukua nafasi yake.</seg>
+          <seg xml:id="seg441">Waheshimiwa Wabunge, kama nilivyosema saa kumi jioni kutakuwa na briefing na kwa maana hiyo, naomba nichukue fursa hii sasa kuahirisha shughuli za Bunge hadi kesho saa tatu kamili asubuhi.</seg>
+          <seg xml:id="seg442">(Saa 5.05 Asubuhi Bunge liliahirishwa hadi Siku ya Jumanne,</seg>
+          <seg xml:id="seg443">Tarehe 30 Oktoba, 2013, Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

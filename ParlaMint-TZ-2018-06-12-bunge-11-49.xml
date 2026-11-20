@@ -1,0 +1,888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2018-06-12) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2018-06-12) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="49">49. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="11">11. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1538026104-12 JUNE, 2018.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2018-06-12">12.06.2018</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u1" who="Mwenyekiti">
+          <seg xml:id="seg1">Waheshimiwa Wabunge, tunaanza na Ofisi ya Rais, TAMISEMI, Mheshimiwa Deogratias Francis Ngalawa, Mbunge wa Ludewa, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 415. Hitaji la Barabara – Pembezoni mwa Ziwa Nyasa</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u2" who="MheDeogratiasFNgalawa">
+          <seg xml:id="seg2">Kumekuwa na tatizo kubwa la ukosefu wa barabara pembezoni mwa Ziwa Nyasa, hususan Wilaya ya Ludewa na Mkoa wa Njombe; eneo hilo lenye urefu wa kilomita 150 hutegemea usafiri wa meli ambao hauna tija kwa wananchi walio wengi:-</seg>
+          <seg xml:id="seg3">(a) Je, Serikali itawasaidia vipi wananchi wa maeneo hayo yenye vijiji 22 kupata barabara ya uhakika?</seg>
+          <seg xml:id="seg4">(b) Kwa kuwa wananchi wameanza kutengeneza wenyewe barabara kwa nguvu zao. Je, Serikali inatoa tamko gani la kuunga mkono juhudi hizo za wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u3" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheJosephatSKandege">
+          <seg xml:id="seg5">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, TAMISEMI, naomba kujibu swali la Mheshimiwa Deogratias Francis Ngalawa, Mbunge wa Ludewa, lenye sehemu (a) na (b) kwa pamoja, kama ifuatavyo:-</seg>
+          <seg xml:id="seg6">Mheshimiwa Mwenyekiti, katika mwaka wa fedha 2017/2018, TARURA imetoa shilingi milioni 500 kwa ajili ya kufungua kipande cha barabara ya Mwambahesa - Makonde chenye urefu wa kilomita 3.67 na ujenzi wa daraja moja na box culvert mbili katika milima ya Mwambahesa. Tayari mkandarasi G.S. Contractor ameanza kupeleka vifaa katika eneo la mradi ili kuanza ujenzi ambao utakamilika Novemba, 2018.</seg>
+          <seg xml:id="seg7">Mheshimiwa Mwenyekiti, aidha, TARURA Mkoa wa Njombe inaendelea na upembuzi yakinifu katika barabara yote yenye urefu wa jumla ya kilomita 115.51 ili kuifanyia matengenezo makubwa pamoja na ujenzi wa madaraja. Kazi hiyo ikikamilika itawezesha TARURA katika Mkoa wa Njombe kupata gharama halisi na kutenga fedha kwa ajili ya kufungua na kujenga barabara hizo pembezoni mwa Ziwa Nyasa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u4" who="Mwenyekiti">
+          <seg xml:id="seg8">Mheshimiwa Ngawala, swali la Nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u5" who="MheDeogratiasFNgalawa">
+          <seg xml:id="seg9">Mheshimiwa Mwenyekiti, ahsante kwa kunipa fursa ya kuuliza swali la nyongeza. Kwanza, napenda kutumia fursa hii kuishukuru Serikali kwa kutupatia fedha hizo shilingi milioni 500 na ni kweli Mkandarasi G.S Contractor yupo site.</seg>
+          <seg xml:id="seg10">Mheshimiwa Mwenyekiti, nilipokuwa nazungumza kwamba tuna baadhi ya vijiji wananchi wa Tanzania walioko kule hawajawahi kuona gari, baiskeli wala pikipiki, hiyo imeshuhudiwa hata na Naibu Waziri, Mheshimiwa Engineer Nditiye tulipokuwa naye kule. Je, baada ya kuwa tayari kipande hiki kidogo tumeshakipata, TARURA ina mpango gani sasa wa kuhakikisha inafanya kazi hiyo kwa haraka ili Vijiji vya Makonde, Kilondo, Nsele, Lumbila, Nkanda, Nsisi na Lifuma viweze kupata barabara?</seg>
+          <seg xml:id="seg11">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u6" who="Mwenyekiti">
+          <seg xml:id="seg12">Mheshimiwa Waziri, majibu mafupi ya swali hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u7" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheJosephatSKandege">
+          <seg xml:id="seg13">Mheshimiwa Mwenyekiti, kama nilivyojibu katika swali la msingi, kazi ambayo inaenda kufanyika ni kufanya usanifu kujua gharama ambazo zitatumika katika ujenzi wa barabara hii ni kiasi gani ili hatua ya pili iweze kufuata. Pia mimi mwenyewe nimepata fursa ya kutembelea Wilaya ya Ludewa, Jimboni kwa Mheshimiwa, kama kuna maeneo ambayo jiografia ni changamoto ni pamoja na eneo la Ludewa, ndiyo maana unaona kwamba kipande kidogo kinagharimu kiasi kikubwa cha fedha kama hivyo ambavyo nimetaja katika jibu langu.</seg>
+          <seg xml:id="seg14">Mheshimiwa Mwenyekiti, naomba nimhakikishie Mheshimiwa Mbunge, maeneo ya Lupingo ni azma ya Serikali kuhakikisha kwamba yanafikika kwa njia ya barabara. Avute subira, nia ya Serikali ni njema yeye mwenyewe anashuhudia, naomba tuvumiliane hili litakamilika kwa wakati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u8" who="Mwenyekiti">
+          <seg xml:id="seg15">Mheshimiwa Akbar, swali fupi la nyongeza</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u9" who="MheAjaliRAkbar">
+          <seg xml:id="seg16">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi ndogo ili niweze kuuliza swali ndogo la nyongeza. Matatizo ya meli pamoja na barabara yaliyopo Ludewa yanafanana sana na matatizo yaliyopo</seg>
+          <seg xml:id="seg17">Mtwara, Lindi hadi Dar es Salaam. Shehena kubwa ya saruji kutoka Dangote huwa inasafirishwa kwa barabara hadi kufika Dar es Salaam, vilevile shehena kubwa ya mawe kutoka Kilwa huwa inasafirishwa hadi kufika Dar es Salaam kwa njia ya barabara, tatizo ambalo lingeweza kutatuliwa kwa kutengeneza zile meli za MS Mtwara pamoja na MV Lindi. Ni lini sasa Serikali itatengeneza meli zile za MS Mtwara na MV Lindi ili barabara ile kati ya Dar es Salaam hadi Mtwara isiharibike na shehena hiyo kubwa iweze kusafirishwa na meli hizo mbili?</seg>
+          <seg xml:id="seg18">Mheshimiwa Mwenyekiti, ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u10" who="Mwenyekiti">
+          <seg xml:id="seg19">Mheshimiwa Nditiye, Naibu Waziri, majibu.</seg>
+          <seg xml:id="seg20">NAIBU WAZIRI WA UJENZI, UCHUKUZI NA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u11" who="MawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg21">Mheshimiwa Mwenyekiti, ni kweli kwamba zile meli alizozizungumza Mheshimiwa Mbunge zina hitilafu, lakini tayari tumeshatuma mafundi na wataalam kwa ajili ya kwenda kuangalia gharama ambazo zinahusika kwa ajili ya matengenezo ya meli hizo. Kwa hiyo, tunamwomba Mheshimiwa Mbunge awe na subira wakati muafaka ukifika zitatengenezwa ili wananchi wa eneo hilo wapate huduma.</seg>
+          <seg xml:id="seg22">Mheshimiwa Mwenyekiti, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u12" who="Mwenyekiti">
+          <seg xml:id="seg23">Ahsante. Tunaendelea na swali la Mheshimiwa Ally Seif Ungando, Mbunge wa Kibiti.</seg>
+        </u>
+        <note>Na. 416. Barabara ya Kibiti - Kikale</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u13" who="MheAllySUngando">
+          <seg xml:id="seg24">Rais wa Awamu ya Nne, Mheshimiwa Dkt. Jakaya Mrisho Kikwete katika kampeni za uchaguzi tarehe 18</seg>
+          <seg xml:id="seg25">Novemba, 2005 aliwaahidi wananchi wa Kibiti kuwa Serikali yake itajenga barabara ya Kibiti-Kikale ili kupunguza adha kubwa ya usafiri wanayopata wananchi wa Vijiji vya Mchukwi, Rungungu, Nyamatanga na Kikale ambamo barabara hiyo inapita:-</seg>
+          <seg xml:id="seg26">(a) Je, ni lini ujenzi wa barabara hiyo utaanza?</seg>
+          <seg xml:id="seg27">(b) Je, ujenzi huo unaotarajiwa utakuwa ni wa kiwango gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u14" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheJosephatSKandege">
+          <seg xml:id="seg28">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, TAMISEMI, naomba kujibu swali ya Mheshimiwa Ally Seif Ungando, Mbunge wa Kibiti, lenye sehemu (a) na (b) kwa pamoja, kama ifuatavyo:-</seg>
+          <seg xml:id="seg29">Mheshimiwa Mwenyekiti, barabara ya Kibiti - Kilale ni sehemu ya barabara ya Kingwira – Ruaruke - Mtunda – Myuyu yenye urefu wa kilometa 66.2 ambapo kipande cha Kibiti - Kikale kipo kati ya barabara ya Ruaruke - Mtunda. Tangu kutolewa kwa ahadi na Mheshimiwa Rais mwaka 2005 barabara hiyo imefanyiwa matengenezo ya kilomita 56 na ukarabati wa daraja la Ruhoi lenye urefu wa mita 24 kwa gharama ya shilingi milioni 151.6.</seg>
+          <seg xml:id="seg30">Mheshimiwa Mwenyekiti, katika mwaka wa fedha 2018/2019, barabara hiyo imetengewa shilingi milioni 185.02 kupitia TARURA kwa ajili ya matengenezo ya kilomita 65.9 kwa kiwango cha changarawe ili kuboresha huduma za usafiri na usafirishaji kwa wananchi wa eneo hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u15" who="Mwenyekiti">
+          <seg xml:id="seg31">Mheshimiwa Ungando, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u16" who="MheAllySUngando">
+          <seg xml:id="seg32">Mheshimiwa Mwenyekiti, nashukuru kwa majibu mazuri ya Mheshimiwa Naibu Waziri na nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg33">Mheshimiwa Mwenyekiti, swali la kwanza; wananchi wa Mtunda – Kikale -Myuyu bado wanapata shida kwani njia ile haipitiki kabisa kutokana na mvua nyingi zilizonyesha. Je, Serikali ina mpango gani wa kufanya ukarabati huo kwa haraka ili barabara hiyo iweze kutoa huduma?</seg>
+          <seg xml:id="seg34">Mheshimiwa Mwenyekiti, swali la pili, barabara ya kutoka Bungu - Msolo nayo haipitiki kabisa, tena hatari zaidi kuna shimo kubwa pale Bungu ambalo linaweza likakata mawasiliano baina ya wananchi wa Bungu na Msolo. Je, Serikali ina mpango gani wa kukarabati barabara hiyo ili wananchi hawa sasa wapeleke mazao yao sokoni na wapate faida haraka iwezekanavyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u17" who="Mwenyekiti">
+          <seg xml:id="seg35">Mheshimiwa, majibu ya swali hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u18" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheJosephatSKandege">
+          <seg xml:id="seg36">Mheshimiwa Mwenyekiti, nimepata fursa ya kutembelea Jimboni kwa Mheshimiwa Mbunge, nikafika mpaka Delta na changamoto anazozitaja nazifahamu. Naomba nitumie fursa hii kumwagiza Meneja wa TARURA aende site akatazame kilichopo ili aweze kutushauri nini kifanyike ili wananchi wa Jimbo analolisema Mheshimiwa Mbunge wasije wakapata adha ya kukosa usafiri ili mazao yao yaweze kufika sokoni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u19" who="Mwenyekiti">
+          <seg xml:id="seg37">Mheshimiwa Paresso na Mheshimiwa Kakoso.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u20" who="MheCeciliaDParesso">
+          <seg xml:id="seg38">Mheshimiwa Mwenyekiti, ahsante kwa kunipa nafasi niweze kuuliza swali ndogo la nyongeza. Ahadi hizi ambazo zimetolewa na Mheshimiwa Rais wa Awamu ya Nne ziko nyingi nchi nzima na kwa kweli zipo ambazo hazijatekelezwa kabisa, ikiwemo ujenzi wa kilomita mbili za lami katika Mji wa Karatu. Ahadi hiyo ilitiliwa msisitizo na Mheshimiwa Rais wa Awamu ya Tano akasema ataongeza kilomita nane jumla ziwe kilomita 10, lakini mpaka leo utekelezaji haujafanyika. Je, ni lini sasa Serikali itatekeleza ahadi hiyo?</seg>
+          <seg xml:id="seg39">Mwenyekiti, ni ukweli kwamba kuna ahadi ambazo zimetolewa na Marais waliotangulia na katika utaratibu wa kawaida ni kupokezana kijiti, pale ambapo mwenzako ametekeleza yale ambayo hakuyamaliza wewe unahakikisha unayachukua na wewe unaongeza ahadi za kwako ili kutekeleza.</seg>
+          <seg xml:id="seg40">Mheshimiwa Mwenyekiti, naomba nimhakikishie Mheshimiwa Paresso ni azma ya Serikali ndani ya kipindi cha miaka mitano ambayo ndiyo mkataba wa Mheshimiwa Rais na wapiga kura wake, barabara yake hiyo itaweza kutekelezwa kama ambavyo ahadi ya Mheshimiwa Rais ilivyoahidiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u21" who="Mwenyekiti">
+          <seg xml:id="seg41">Mheshimiwa Kakoso.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u22" who="MheMoshiSKakoso">
+          <seg xml:id="seg42">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi. Kata ya Kapalamsenga sasa hivi iko kisiwani kwa kukosa miundombinu baada ya mvua zilizonyesha kuharibu kabisa miundombinu ya barabara. Serikali ina mpango gani wa kuharakisha kuifanyia matengenezo barabara hiyo ambayo kimsingi inawasaidia kwa ajili ya shughuli za maendeleo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u23" who="Mwenyekiti">
+          <seg xml:id="seg43">Mheshimiwa Naibu Waziri, majibu ya swali hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u24" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheJosephatSKandege">
+          <seg xml:id="seg44">Mheshimiwa Mwenyekiti, ni ukweli usiopingika kwamba mvua za safari hii zimekuwa nyingi pamoja na neema ambayo inasababishwa na mvua lakini ni ukweli usiopingika kwamba barabara zetu nyingi zimeharibika. Naomba nitumie fursa hii nimuagize Meneja wa TARURA aende huko barabara ya Kapalamsenga</seg>
+          <seg xml:id="seg45">ili akatizame uhalisia na nini ambacho tunaweza tukafanya ili wananchi waendelee kupata huduma. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u25" who="Mwenyekiti">
+          <seg xml:id="seg46">Waheshimiwa Wabunge, tunaendelea na Wizara ya Maliasili na Utalii, Mheshimiwa Magdalena Hamis Sakaya, Mbunge wa Kaliua, sasa aulize lake, kwa niaba yake.</seg>
+        </u>
+        <note>Na. 417. Lengo la Kuanzisha Wakala wa Misitu Nchini</note>
+        <note>(K.n.y. MHE. MAGDALENA H. SAKAYA)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u26" who="MheJohnPKadutu">
+          <seg xml:id="seg47">Serikali ilianzisha Wakala wa Misitu (TFS) kwa lengo la kuhifadhi misitu, kulinda na kusimamia matumizi endelevu ya rasilimali ya misitu:-</seg>
+          <seg xml:id="seg48">Je, ni kwa kiasi gani Maafisa wa Misitu walioko Mikoani, Wilayani wameweza kuokoa misitu inayozidi kuteketea hapa nchini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u27" who="NaibuWaziriMaliasiliNaUtalii">
+          <seg xml:id="seg49">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Maliasili na Utalii, naomba kujibu swali la Mheshimiwa Magdalena Hamis Sakaya, Mbunge wa Kaliua, kama ifuatavyo:-</seg>
+          <seg xml:id="seg50">Mheshimiwa Mwenyekiti, Wakala wa Huduma ya Misitu Tanzania (TFS) inasimamia misitu ya hifadhi ya Serikali Kuu ipatayo 455 sawa na hekta15.48 milioni ambayo ni takriban asilimia 35 ya eneo lote la misitu nchini. Eneo hili hujumuisha misitu ya asili na ile ya kupandwa (Forest Plantations). Aidha, TAMISEMI wanasimamia hifadhi 161 sawa na hekta 3.36 milioni wakati serikali za vijiji zinasimamia hifadhi za misitu 1,200 sawa na hekta milioni 21.6. TFS ina kazi za kutafiti, kuhifadhi, kulinda na kusimamia matumizi endelevu ya misitu yote nchini. Kazi hizi zinatekelezwa na Maafisa Misitu</seg>
+          <seg xml:id="seg51">wa TFS waliopo katika Kanda Saba na Wilaya 135 za Tanzania Bara wakishirikiana na Maafisa Misitu waliopo chini ya Halmashauri za Wilaya.</seg>
+          <seg xml:id="seg52">Mheshimiwa Mwenyekiti, Maafisa Misitu walioko Mikoani na Wilayani wameweza kusimamia hifadhi za misitu hii na kuwezesha kurejea kwa uoto wa asili katika misitu 271 nchini. Kazi zilizotekelezwa na Maafisa hao ni pamoja na soroveya (Survey and Resurvey) ya misitu husika; kuimarisha mipaka ya misitu kwa kuwezesha takriban kilomita 13,100 za mipaka hii kusafishwa; Kuweka vingingi (beacons) 14,200 vyenye kuonyesha mipaka na hifadhi; Kupanda miti katika mipaka ya misitu na kuweka mabango (sign boards) 4,553 kwa ajili ya kutoa taarifa za uwepo wa misitu ya hifadhi.</seg>
+          <seg xml:id="seg53">Mheshimiwa Mwenyekiti, aidha, Maafisa Misitu wameendelea kuwaelimisha wananchi kuhusu hatari ya kuwasha moto katika misitu ya hifadhi, athari za kilimo cha kuhamahama, ufugaji ndani ya hifadhi, uchimbaji wa madini na utengenezaji wa mkaa usiozingatia weledi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u28" who="Mwenyekiti">
+          <seg xml:id="seg54">Mheshimiwa Magdalena Sakaya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u29" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg55">Mheshimiwa Mwenyekiti ahsante. Pamoja na majibu ya Mheshimiwa Naibu Waziri naomba niulize maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg56">Mheshimiwa Mwenyekiti, swali la kwanza; kwa kuwa; Serikali imetoa matangazo na kuweka vibao kuhalalisha masoko ya mazao ya misitu maeneo ambayo hakuna mashamba ya misitu, wakijua kabisa kwamba misitu inayovunwa wale wavunaji wanavuna visivyo halali. Kwa mfano, ukitoka Dodoma ukiwa unaelekea Morogoro kuna vibao kwamba kuna masoko halali, lakini wale watu kule hakuna mashamba ya misitu, wanavuna kwenye maeneo ambayo siyo halali na hawana namna nyingine, hawajaelimishwa namna gani wapande misitu ili wavune mazao ya misitu kwenye maeneo ambayo yamepandwa. Je, Serikali haioni kwamba, kuweka masoko ya mazao ya misitu maeneo ambayo hakuna mashamba ya misitu</seg>
+          <seg xml:id="seg57">ni kuhalalisha kuendelea kuhakikisha kwamba misitu iliyopo ya asili inateketea?</seg>
+          <seg xml:id="seg58">Mheshimiwa Mwenyekiti, swali la la pili; kwa kuwa kwenye majibu ya msingi Mheshimiwa Waziri anasema kwamba misitu imepandwa. Kuna baadhi ya misitu ya uoto wa asili imepandwa lakini tumeshuhudia kazi wanayofanya Maafisa Misitu maeneo yetu, ikiwepo Kaliua ni kupiga mihuri magogo, kupiga mihuri mbao na kutoa vibali kwa ajili ya uvunaji usio halali kiasi kwamba speed ya kuvuna misitu baada ya kuwepo kwa TFS imeongezeka tofauti ya ilivyokuwa mwanzoni.</seg>
+          <seg xml:id="seg59">Mheshimiwa Mwenyekiti, nauliza, je, Serikali haioni kwamba kuna sababu ya kukaa na Maafisa wao wa Misitu ili sasa waanze kazi ya uhakika ya kurejesha uoto wa asili ikiwepo maeneo mbalimbali kwa sababu Kaliua kuna misitu mingi lakini hakujapandwa mti hata mmoja kuhakikisha kwamba tunarejesha uoto wa asili maeneo ambayo yameharibika?</seg>
+          <seg xml:id="seg60">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u30" who="Mwenyekiti">
+          <seg xml:id="seg61">Mheshimiwa Naibu Waziri, Hasunga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u31" who="NaibuWaziriMaliasiliNaUtalii">
+          <seg xml:id="seg62">Mheshimiwa Mwenyekiti, kwanza, naomba nikiri kabisa kwamba kweli kumekuwa na matumizi mabaya ya misitu yetu katika maeneo mengi na vituo vingi vipo katika maeneo ambayo kwa kweli hakuna misitu.</seg>
+          <seg xml:id="seg63">Mheshimiwa Mwenyekiti, naomba nimhakikishie Mheshimiwa Mbunge kwamba kuwepo kwa sehemu ya kituo hata kama hakuna msitu siyo tatizo, tatizo ni kwamba ule mkaa unaouzwa katika lile eneo je, una kibali na umepatikana katika taratibu zilizowekwa. Kama haujapatikana kwa mujibu wa utaratibu hilo ndilo linakuwa tatizo kubwa lakini kama vibali vipo na mkaa umesafirishwa kutoka sehemu moja kwenda sehemu nyingine maadam una vibali hilo linakuwa siyo tatizo.</seg>
+          <seg xml:id="seg64">Mheshimiwa Mwenyekiti, kwa hiyo, hilo tutaendelea kulifuatilia pale ambapo watu wanafungua vituo wanaweka masoko bila vibali maalum Serikali itachukua hatua zile zinazostahili.</seg>
+          <seg xml:id="seg65">Mheshimiwa Mwenyekiti, swali la pili, kuhusu hawa Maafisa Misitu ambao wapo maeneo mengi na wamekuwa hawatekelezi labda majukumu yao sawasawa na kama ulivyosema wamekuwa labda wanagonga mihuri tu zile mbao, kwa kweli naomba nitumie nafasi hii kuwaagiza Maafisa Misitu wote kuhakikisha wanasimamia hifadhi zetu zote zilizoko katika maeneo yao, mihuri inayotakiwa kutolewa ni pale ambapo wale wavunaji wamevuna katika ile misitu wanayoisimamia, kwa mujibu wa taratibu kwa mujibu wa sheria na kanuni tulizojiwekea.</seg>
+          <seg xml:id="seg66">Mheshimiwa Mwenyekiti, hivyo wakiwa wamefuata hizo taratibu na wakigonga haina shida, shida inakuwa pale wanapopita njiani humu halafu wanagonga hiyo mihuri wakati wao wenyewe hawajui hizo mbao zimetoka sehemu gani. Kwa hiyo, Serikali itaendelea kuchukua hatua zinazostahili, kwa wale ambao watakuwa wanakiuka hizi taratibu ili kusudi hifadhi zetu ziendelee kuwepo hapa nchini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u32" who="Mwenyekiti">
+          <seg xml:id="seg67">Mheshimiwa Munde.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u33" who="MheMundeTAbdallah">
+          <seg xml:id="seg68">Mheshimiwa Mwenyekiti, ahsante kwa kunipa fursa hii na mimi niweze kuuliza swali dogo la nyongeza. Kwa kuwa, katika Mkoa wa Tabora kumekuwa na kero kubwa ya kuwapiga, kuwanyang’anya baiskeli zao, kuwajeruhi, kuwanyang’anya simu zao na pesa walizonazo mfukoni wanaobeba mkaa kutoa vijijini kuleta mjini. Je, Mheshimiwa Waziri ni haki mtu anapofanya kosa kuchukuliwa hatua kupigwa hapo hapo bila kupelekwa kwenye vyombo vya sheria? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u34" who="MheMundeTAbdallah">
+          <seg xml:id="seg69">Mwenyekiti, ni kweli kabisa kumekuwa na changamoto hizo, katika maeneo mengi nchini, watu wamekuwa wakinunua mkaa na wamekuwa wakisafirisha kwa baiskeli, wamekuwa wakisafirisha kwenye bodaboda na vyombo vingine ambavyo kwa mujibu wa sheria za usalama barabarani haviruhusiwi kufanya hivyo. Pale ambapo wanakuwa wamekiuka hizo taratibu wanatakiwa wakamatwe, wapelekwe katika vituo, wapelekwe katika mikondo ya sheria siyo kuwapiga. Wale ambao wanaowapiga wananchi bila ya kuwafikisha kwenye vyombo vya sheria, ni ukiukaji wa taratibu na ukiukaji wa sheria.</seg>
+          <seg xml:id="seg70">Mheshimiwa Mwenyekiti, naomba niwaombe watendaji wote kokote waliko nchini wahakikishe wanazingatia sheria na kanuni na miongozo iliyopo na wahakikishe wanawatendea haki wananchi ili kusudi wasinyanyaswe na kupigwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u35" who="Mwenyekiti">
+          <seg xml:id="seg71">Tunaendelea na Mheshimiwa Hasna Sudi Katunda Mwilima, Mbunge wa Kigoma Kusini, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 418. Ukosefu wa Maeneo ya Kilimo kwa Wananchi</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u36" who="Mwenyekiti">
+          <seg xml:id="seg72">wa Humule, Ubanda na Tandala</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u37" who="MheHasnaSMwilima">
+          <seg xml:id="seg73">Wananchi wa Humule, Ubanda, Tandala na maeneo mengine ya Itebula wamekuwa wakisosa maeneo ya kulima kwa madai kuwa wanaingilia maeneo ya hifadhi:-</seg>
+          <seg xml:id="seg74">(a) Je, Serikali haioni sasa ni muhimu kusogeza mipaka kwa kushirikiana na TAMISEMI ili wananchi wapate maeneo ya kulima?</seg>
+          <seg xml:id="seg75">(b) Je, ni lini Serikali itamaliza usumbufu wanaoupata Wananchi wa Kijiji cha Kalilani kwa kudaiwa</seg>
+          <seg xml:id="seg76">kuwa wamo ndani ya Hifadhi wakati Kijiji hiki kimesajiliwa kwa mujibu wa sheria?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u38" who="NaibuWaziriWaMaliasiliNaUtaliiUtalii">
+          <seg xml:id="seg77">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Maliasili na Utalii, naomba kujibu swali la Mheshimiwa Hasna Sudi Katunda Mwilima, Mbunge wa Kigoma Kusini, lenye sehemu (a) na (b), kama ifuatavyo:-</seg>
+          <seg xml:id="seg78">(a) Mheshimiwa Mwenyekiti, maeneo ya Humule, Ubande, Tandala na Itebula ni vitongoji ndani ya Kijiji kipya cha Lufubu kilichozaliwa ndani ya kijiji cha Kashagulu, Kata ya Kalya, Wilaya ya Uvinza ambacho kinatambulika kisheria. Eneo tajwa lilifanyiwa Mpango wa Matumizi Bora ya Ardhi mwaka 2006. Mchakato wa kuidhinisha mipaka ya ramani ya kijiji ulikamilika mwaka 2007 na ramani hiyo kusajiliwa kisheria.</seg>
+          <seg xml:id="seg79">Mheshimiwa Mwenyekiti, Kijiji kama Kashagulu pia kilifanya mpango wa kurasimisha msitu wao wa kijiji wenye ukubwa wa hekta 38,313 kupitia mchakato shirikishi kama ilivyoelekezwa kwenye Sheria ya Misitu Na.14 ya 2002. Eneo hili ni vyanzo vya maji na linatambuliwa kama mapito ya wanyamapori yaani (Ushoroba) hususani tembo, nyati, sokwe na wengine wahamao kutoka Hifadhi ya Taifa Mahale kwenda Hifadhi ya Taifa Katavi.</seg>
+          <seg xml:id="seg80">Mheshimiwa Mwenyekiti, suala la kuongeza maeneo ya kilimo lazima lifanyike kisheria kwa kuwa Mpango wa Matumizi Bora ya Ardhi uliidhinishwa na mkutano mkuu wakati huo. Mpango huo uliangalia matumizi ya wakati huo na ya baadaye kwa miaka 10 mpaka 15 ijayo.</seg>
+          <seg xml:id="seg81">(b) Mheshimiwa Mwenyekiti, Hifadhi ya Taifa ya Milima ya Mahale ilitangazwa rasmi katika GN Na. 262 ya tarehe 14 Juni, 1985. Maeneo ya Kalilani ni muhimu sana kwa uhifadhi wa sokwe, tembo, wanyama wengine pamoja na mazalia ya samaki. Aidha, wakati hifadhi hii</seg>
+          <seg xml:id="seg82">inatangazwa, eneo hilo lilikuwa na wananchi jamii ya Watongwe waliopisha kutangazwa Hifadhi hii.</seg>
+          <seg xml:id="seg83">Mheshimiwa Mwenyekiti, Kijiji cha Kalilani kilisajiliwa tarehe 5 Juni, 1995 ikiwa ni miaka takriban 10 baada ya Hifadhi ya Taifa kutangazwa. Wakati huo wavuvi wachache waliobakia eneo la Kaskazini Magharibi mwa hifadhi hii walianzisha kitongoji na baadaye kijiji kinachofahamika sasa kama Kalilani. Hii inadhihirisha kuwa eneo ambalo wanakijiji wanadai kuwa ni sehemu ya kijiji bado kisheria ni sehemu ya Hifadhi ya Mahale.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u39" who="Mwenyekiti">
+          <seg xml:id="seg84">Mheshimiwa Hasna Mwilima swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u40" who="MheHasnaSKMwilima">
+          <seg xml:id="seg85">Mheshimiwa Mwenyekiti, kwanza naomba nimwombe Mheshimiwa Waziri kwenye swali langu la (a) amejibu kitu tofauti kabisa na swali ambavyo nilivyoliuliza. Pamoja na hayo, nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg86">Mheshimiwa Mwenyekiti, swali la kwanza; hivi karibuni tumemwona Mheshimiwa Rais wetu akitoa maelekezo kwenye Wizara hii ya Maliasili kugawa baadhi ya maeneo ya Hifadhi kwa ajili ya wakulima na wafugaji, kwa mfano Kagera Nkanda, Mheshimiwa Rais alitoa maelekezo kwa wananchi wa Kagera Nkanda, Wilaya ya Kasulu wapewe eneo ndani ya hifadhi kwa ajili ya kulima na kufuga. Kwa nini sasa Mheshimiwa Waziri asitoe maelekezo yale yale yaliyotumika kuwagawia wananchi wa Kagera Nkanda awagawie sasa na wananchi wanaouzunguka maeneo ya Pakunda, Pachambi na maeneo ya Ipuguru?</seg>
+          <seg xml:id="seg87">Mheshimiwa Mwenyekiti, swali langu la pili; kwa kuwa tunafahamu kwamba utaratibu wa uwekaji wa vigingi unatakiwa ufuate sheria. Kijiji cha Kalilani na Kijiji cha Sigwesa kimesajiliwa kwa mujibu wa sheria. Je, Mheshimiwa Waziri akija akigundua kwamba GN hivi vigingi vilivyowekwa kwenye Kijiji cha Kalilani na Kijiji cha Sigwesa hakikufuata taratibu atakuwa yuko tayari kuondosha vile vigingi na</seg>
+          <seg xml:id="seg88">kuviweka nyuma ili kupunguza migogoro iliyopo baina ya Vijiji vya Sigwesa na kijiji cha Kalilani? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u41" who="Mwenyekiti">
+          <seg xml:id="seg89">Mheshimiwa Waziri, majibu ya maswali hayo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u42" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg90">Mheshimiwa Mwenyekiti, kwanza nampongeza kwa jinsi ambavyo ameeleza, inawezekana kweli labda maeneo mengine majibu tuliyoyatoa hayajafikia, hayajawa katika kile kiwango alichokusudia, nimuahidi tu kwamba mimi nitapata nafasi ya kwenda kutembelea katika eneo hilo, ili niende kutembelea kijiji hadi kijiji na kitongoji hadi kitongoji kusudi tuweze kubaini kama kweli kuna upungufu wa namna hiyo.</seg>
+          <seg xml:id="seg91">Mheshimiwa Mwenyekiti, kuhusu kuwagawia maeneo ya hifadhi naomba nimshauri Mheshimiwa Mbunge kwamba kwanza utaratibu wa kugawa hifadhi kwa sasa jinsi ulivyo, kwa kweli kuna kazi kubwa sana. Hata hivyo, kama pale ikionekana kweli wananchi wa Jimbo husika wana matatizo ya ardhi na hawana mahali pa kulima, hawana mahali pa kufugia mifugo yao na mambo mengine, basi namuagiza Mkurugenzi wa Halmashauri aangalie, afanye mchakato na awasiliane na Wizara ya Maliasili na Utalii ili tuangalie katika yale maeneo ambayo yanahifadhiwa chini ya Serikali za Vijiji, kama yanaweza yakamegwa na wananchi wakaweza kupatiwa hilo eneo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u43" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg92">Mheshimiwa Mwenyekiti, swali lake la pili, kuhusu kuondoa vigingi pale ambapo itaonekana kuna makosa. Tuko tayari kabisa pale ambapo itaonekana vigingi vimewekwa katika maeneo ambayo siyo sahihi, tuko tayari kabisa kwamba tutaviondoa na tutaviweka katika maeneo ambayo yanastahili pale ambapo mipaka kisheria inatakiwa kuwekwa.</seg>
+          <seg xml:id="seg93">Mheshimiwa Mwenyekiti, najua kuna matatizo hayo Nchi nzima, na ndiyo maana tuliahidi mbele ya Bunge hili tutakwenda kila eneo kuhakikisha kwamba vigingi vinawekwa katika maeneo yale yanayotakiwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u44" who="Mwenyekiti">
+          <seg xml:id="seg94">Mheshimiwa Genzabuke na Mheshimiwa Cecil Mwambe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u45" who="MheJosephineJGenzabuke">
+          <seg xml:id="seg95">Mheshimiwa Mwenyekiti, ahsante. Kwa muda mrefu sana katika Wilaya ya Kasulu, eneo la Kagera Nkanda wananchi walikuwa wakizuiliwa kulima. Mwaka jana tarehe 21 Mheshimiwa Rais alipokuja Wilaya ya Kasulu wananchi walimpokea kwa nderemo na vigelegele akawaruhusu kwenda kulima katika pori la Kagera Nkanda, lakini hivi sasa ninavyoongea tarehe 21 mwezi huu, wananchi wameambiwa waondoe mazao katika eneo hilo la Kagera Nkanda.</seg>
+          <seg xml:id="seg96">Mheshimiwa Mwenyekiti, nataka kauli ya Serikali, ni kwa nini wananchi waliruhusiwa na Mheshimiwa Rais kulima katika eneo hilo na leo wanaondolewa kwa kutaka kupigwa ndani ya wiki moja? Naomba kauli ya Serikali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u46" who="Mwenyekiti">
+          <seg xml:id="seg97">Mheshimiwa Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u47" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg98">Mheshimiwa Mwenyekiti, ni kweli kwamba Mheshimiwa Rais alitoa maagizo kwamba lile eneo ligawiwe kwa wananchi ili waweze kulitumia katika shughuli zingine za kibinadamu za uzalishaji. Naomba nimhakikishie tu kwamba agizo la Mheshimiwa Rais alilolitoa linatekelezeka na lazima liheshimike, kama kuna mtu analikiuka hilo tutashughulika nae. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u48" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg99">Mheshimiwa Mwenyekiti, kikubwa ambacho kinatakiwa sasa hivi kufanyika ni kuhakikisha kwamba baada ya Rais kutoa lile eneo, taratibu za kisheria ya kuondoa na kuweka mipaka mipya lazima zifanyike. Kwa hiyo, wale Watendaji ambacho tunakifanya sasa hivi ni kuhakikisha kwamba sasa tunarekebisha ile mipaka, ili kusudi yale maeneo yaliyogawiwa kwa wananchi yabaki kwa wananchi na yale mengine ambayo yanatakiwa kubaki kama hifadhi yaendelee kubaki kama hifadhi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u49" who="Mwenyekiti">
+          <seg xml:id="seg100">Mheshimiwa Cecil Mwambe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u50" who="MheCecilDMwambe">
+          <seg xml:id="seg101">Mheshimiwa Mwenyekiti, ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza. Tatizo lililoko Kigoma Kusini linafanana kabisa na tatizo lililoko kwenye Jimbo la Ndanda hasa maeneo ya Namajani na Mahinga ambako mipaka kati ya Jeshi la Magereza pamoja na wananchi haieleweki.</seg>
+          <seg xml:id="seg102">Mheshimiwa Mwenyekiti, pia kuna tatizo kama hilo kwenye Kata ya Chingulungulu, Kijiji cha Misenjesi kati ya Hifadhi ya Taifa pamoja na wananchi. Sasa nataka kufahamu, ni lini Serikali itakwenda kutoa ufafanuzi mzuri na kuweka mipaka hii sahihi kati ya Mbuga ya Misenjesi na wanakijiji wa Kijiji cha Chingulungulu kwa sababu pametokea matatizo makubwa ya kutoelewana maeneo hayo?</seg>
+          <seg xml:id="seg103">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u51" who="Mwenyekiti">
+          <seg xml:id="seg104">Mheshimiwa Waziri, majibu ya swali hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u52" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg105">Mheshimiwa Mwenyekiti, ni kweli kwamba kama nilivyosema kwenye nchi nzima kuna maeneo ambayo yana matatizo ya mipaka na kama alivyosema mwenyewe kwenye Jimbo lake kuna maeneo hayo. Nataka nimhakikishie tu kwamba, tuko tayari sasa hivi, tunapitia mipaka yote nchi nzima na tutakwenda huko pia kuangalia huo mpaka ili tuone kwamba ni nani ameingia nani hajaingia kusudi tuweze kurekebisha matatizo hayo na migogoro yote iweze kumalizika, hiyo tutaifanya karibu nchi nzima.</seg>
+          <seg xml:id="seg106">Mheshimiwa Mwenyekiti, naomba Mheshimiwa Mbunge awe na uvumilivu kidogo, baadaye tatizo lake hilo litamalizika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u53" who="Mwenyekiti">
+          <seg xml:id="seg107">Tunaendelea na Mheshimiwa Rhoda Edward Kunchela, Mbunge wa Viti Maalum, sasa aulize swali lake.</seg>
+          <seg xml:id="seg108">Mgogoro wa Ardhi Kati ya Hifadhi na Wananchi</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u54" who="MheRhodaEKunchela">
+          <seg xml:id="seg109">(a) Je, ni lini Serikali itatatua mgogoro wa ardhi kati ya Hifadhi na wananchi katika Kata ya Kapalamsenga, Isengule na Ikola?</seg>
+          <seg xml:id="seg110">(b) Kwa kuwa migogoro hiyo imechukua muda mrefu bila suluhu hivyo kusababisha usumbufu na hasara kwa wananchi; Je, Serikali haioni kuwa migogoro hiyo imesababisha umaskini mkubwa kwa wananchi kushindwa kuendeleza shughuli za kiuchumi kwenye maeneno yao hivyo ifanye haraka kutafuta ufumbuzi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u55" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg111">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Maliasili na Utalii, naomba kujibu swali la Mheshimiwa Rhoda Edward Kunchela, Mbunge wa Viti Maalum, lenye sehemu (a) na (b) kwa pamoja, kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">Mheshimiwa Mwenyekiti, Kata ya Kapalamsenga, Isengule na Ikola zipo katika Wilaya ya Tanganyika na zinajumuisha maeneo ya ushoroba wa wanyamapori ujulikanayo kama Katavi – Mahale. Ushoroba huu ni njia kuu ya wanyamapori kutoka Hifadhi ya Taifa Katavi kwenda Hifadhi ya Taifa Mahale. Kutokana na wanyamapori hususani tembo kupita katika maeneo hayo, wenyeji wanautambua ushoroba husika kama „Tembo na Mwana.”</seg>
+          <seg xml:id="seg113">Mheshimiwa Mwenyekiti, pamoja na ushoroba huu kufahamika kwa baadhi ya wananchi kulikuwa na mkanganyiko kuhusu eneo sahihi la (mipaka), yaani mipaka ya mapito ya wanyamapori na hii inatokana na baadhi ya wananchi na hasa wahamiaji na wafugaji kutoka</seg>
+          <seg xml:id="seg114">mikoa ya jirani, kuvamia na kuharibu maeneo ya mapito ya wanyamapori bila kufuata taratibu na kujichukulia ardhi kiholela.</seg>
+          <seg xml:id="seg115">Mheshimiwa Mwenyekiti, katika kutafuta ufumbuzi wa migongano hii iliyopo juu ya matumizi ya ardhi, Serikali kupitia Halmashauri ya Wilaya ya Tanganyika ilichukua hatua mbalimbali kama ifuatavyo:-</seg>
+          <seg xml:id="seg116">(i) Kuhakikisha kuwa mipaka ya ushoroba inajulikana kwa wananchi kwa kutenga na kuainisha maeneo kwa ajili ya uhifadhi wa wanyamapori kama vile Sokwe. Sokwe hao wanapatikana katika Kata za Kapalamsenga, Ikola, Isengule, Mwese na Kasekese hasa katika safu za milima ya Mwansisi na Mgengebe.</seg>
+          <seg xml:id="seg117">(ii) Kuandaa mipango ya matumizi bora ya ardhi ya vijiji na kutunga sheria ndogo za usimamizi wake kwa mwaka wa fedha 2015/2016 na 2016/2017.</seg>
+          <seg xml:id="seg118">Mheshimiwa Mwenyekiti, kwa sasa vijiji vyote vilivyopo katika Kata ya Kapalamsenga, Ikola na Isengule vimeshafanyiwa mpango shirikishi wa matumizi bora ya ardhi. Pia, eneo la ushoroba wa wanyamapori limebainishwa na kutengwa hivyo kuondoa mkanganyiko uliokuwepo awali. Aidha, kwa kutumia Kanuni ya usimamizi wa shoroba na maeneo ya mtawanyiko zimeshaandaliwa (GN 123 ya mwaka 2018).</seg>
+          <seg xml:id="seg119">Mheshimiwa Mwenyekiti, Serikali ina mpango wa kutafuta suluhu ya kudumu kwa wananchi katika vijiji vyote vinavyopitiwa na shoroba za wanyamapori, vinavyopakana na maeneo ya hifadhi na vyanzo vya maji ili kuondoa migongano inayohusiana na umiliki wa matumizi ya ardhi. Hivyo, tunawaomba wananchi wote kuheshimu mipaka ya matumizi bora ya ardhi pamoja na kanuni mpya za ushoroba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u56" who="Mwenyekiti">
+          <seg xml:id="seg120">Mheshimiwa Rhoda swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u57" who="MheRhodaEKunchela">
+          <seg xml:id="seg121">Mheshimiwa Mwenyekiti, ahsante. Kwa majibu haya inaonesha kabisa dhahiri kwamba Mheshimiwa Waziri amedanganywa na uhalisia wa wananchi wa Jimbo la Mpanda Vijijini, kutokana na swali hili kwa sababu imekuwa ni mara ya tatu nauliza swali hili, lakini pia Serikali imeshindwa kutatua migogoro pamoja na mauaji yanayoendelea katika kata hizi, Kata ya Kapalamsenga, Ikola, Isengule, Iteteme pamoja na Kalema.</seg>
+          <seg xml:id="seg122">Mheshimiwa Mwenyekiti, katika vijiji hivi wananchi wamekuwa wanateswa na askari wa Wanyamapori na mwaka jana wamekufa zaidi ya vijana wawili kwa kupigwa risasi na askari wa wanyamapori. Ni nini tamko la Serikali kutokana na vifo na manyanyaso yanayoendelea katika Jimbo hili la Mpanda Vijijini?</seg>
+          <seg xml:id="seg123">Mheshimiwa Mwenyekiti, swali la pili; katika majibu haya ndiyo maana nikasema kwamba Mheshimiwa Waziri, amedanganywa. Hakuna ushirikishwaji wowote kati ya Vijiji, Vitongoji pamoja na wananchi. Ni kwa nini Serikali inatumia nguvu wakati wananchi wanatakiwa wapewe elimu, washirikishwe kuliko kulazimishwa kupeleka hizo GN kwenye maeneo ambayo vijiji hawajapewa ramani husika kujua na kutambua mipaka yao? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u58" who="Mwenyekiti">
+          <seg xml:id="seg124">Mheshimiwa Waziri, majibu ya maswali haya kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u59" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg125">Mheshimiwa Mwenyekiti, kwanza niseme tu kwamba siyo azma ya Serikali kuhakikisha kwamba wananchi wake wanateswa, hiyo haturuhusu. Haturuhusu kabisa, lakini pale ambapo wananchi wale ambao wanaenda kuingia katika maeneo ya hifadhi bila kufuata taratibu, hatua za kisheria lazima zichukuliwe. Kuchukuliwa siyo kuwatesa wala kuwapiga, lazima wanakamatwa wanapelekwa katika mikondo ya sheria na hapo wanashitakiwa.</seg>
+          <seg xml:id="seg126">Mheshimiwa Mwenyekiti, kama kwenye maeneo ya Mheshimiwa kuna tatizo la namna hiyo, basi nitaomba</seg>
+          <seg xml:id="seg127">tuwasiliane baadae ili unipe baadhi ya watu ambao wamepata matatizo hayo, kusudi tuweze kuwachukulia hatua.</seg>
+          <seg xml:id="seg128">Mheshimiwa Mwenyekiti, swali la pili, wote tunafahamu tunapoenda katika mipango ya matumizi bora ya ardhi hasa katika vijiji lazima mipango iwe shirikishi kwa sababu wanaotakiwa kupanga ni wananchi wenyewe wote wanahusika, sasa akiniambia kwamba wananchi hawakushirikishwa kwa kweli nashindwa kuelewa. Huo mpango lazima upitishwe na mkutano wa Kijiji. Sasa ulipitishwaje kama wananchi hawakushirikishwa?</seg>
+          <seg xml:id="seg129">Mheshimiwa Mwenyekiti, kwa hiyo, kama kuna changamoto hizo, basi nitakapokwenda katika hilo eneo basi tukae wote kama Serikali pamoja na wananchi tuone kama kweli hawakushirikishwa au kuna tatizo lingine la mahitaji ya ardhi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u60" who="Mwenyekiti">
+          <seg xml:id="seg130">Mheshimiwa Nsanzugwanko, Mheshimiwa Selasini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u61" who="MheDanielNNsanzugwanko">
+          <seg xml:id="seg131">Mheshimiwa Mwenyekiti, nilikuwa naomba tuweke record sawa, kuhusu pori la Kagera Nkanda, alichokitoa Mheshimiwa Rais Kimeshatekelezwa na eneo lile limepimwa tayari. Kitu ambacho kinaleta shida, wale wakulima waliokwenda maeneo yaliyozuiliwa wamepewa notice ya kuondoka ya siku saba (7), tunachoomba Serikali wakazi wa Kasulu, Serikali itoe muda mrefu wananchi wale watoe mazao yao. Kipindi hiki ni cha kuvuna, siyo kwamba watu wamezuiliwa kulima, la hasha!</seg>
+          <seg xml:id="seg132">Mheshimiwa Mwenyekiti, utaratibu umekwenda vizuri na kwenye RCC tumepokewa taarifa hiyo. Kwa hiyo Mheshimiwa Waziri tunachohitaji Serikalini tunataka wananchi hawa wapewe muda wa kuondoa mazao yao na siku moja tu.</seg>
+          <seg xml:id="seg133">Mheshimiwa Mwenyekiti, tafadhali tunaomba muda zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u62" who="Mwenyekiti">
+          <seg xml:id="seg134">Mheshimiwa Waziri hilo siyo swali, ni ushauri tu huo. Tunaendelea na Mheshimiwa Selasini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u63" who="MheJosephRSelasini">
+          <seg xml:id="seg135">Mheshimiwa Mwenyekiti, nakushukuru. Migogoro kati ya hifadhi zetu na wananchi itaendelea kwa muda, kwa sababu wananchi</seg>
+          <seg xml:id="seg136">wanaongezeka, wanyama wanaongezeka, ardhi iko pale pale. Wanyama hawawezi kufanya uzazi wa mpango, lakini sisi tunaweza. Je, ni lini Serikali yetu itakuja na sera na mpango kabambe wa uzazi wa mpango kwa wanadamu ili tuweze kudhibiti ongezeko hili la watu ambalo linaweza likaathiri hata shughuli nyingine za kiuchumi kama afya, elimu na kadhalika? </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u64" who="Mwenyekiti">
+          <seg xml:id="seg137">Mheshimiwa Waziri, naona swali la Wizara ya Afya hilo jamani. Haya unaingia na ya Afya, haya twende.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u65" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg138">Mheshimiwa Mwenyekiti, ni kweli kabisa kwamba idadi ya wananchi imekuwa ikiongezeka mwaka hadi mwaka. Wakati tunapata uhuru mwaka 1961 idadi ya Watanzania walikuwa ni milioni 10.3, sasa hivi mwaka 2018 idadi ya Watanzania tunakadiriwa kufika milioni 54.2. Kwa hiyo utakuta kwamba sasa idadi imeongezeka kwa kiwango kikubwa wakati ardhi imebaki vilevile haijaongezeka. Kwa hiyo na hii ina maana gani, ina maana tuje na mipango madhubuti ya kuhakikisha moja, tunadhibiti idadi ya ongezeko la watu lakini la pili, matumizi bora ya ardhi yetu tuliyonayo, ndiyo maana tumeweka mkazo katika hilo.</seg>
+          <seg xml:id="seg139">Mheshimiwa Mwenyekiti, kuhusu hili wazo la mpango wa uzazi wa mpango, naomba nilichukue kama Serikali tutalifanyia kazi kuhakikisha kwamba tunawahimiza Watanzania wote tuwe na uzazi wa mpango ili kusudi tuzae idadi ya watoto inayolingana na ardhi ile tuliyonayo.</seg>
+          <seg xml:id="seg140">Maliasili na Utalii. Tunaendelea na Wizara ya Viwanda, Biashara na Uwekezaji, Mheshimiwa Dkt. Christine Gabriel Ishengoma, Mbunge wa Viti Maalum, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 420. Soko la Uhakika kwa Wakulima Wadogo Wadogo</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u66" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg141">Vijana na Akinamama wengi kwa sasa wamewekeza katika kilimo cha mboga mboga, lakini wanakabiliwa na changamoto kubwa ya ukosefu wa masoko ya uhakika kwa bidhaa zao:-</seg>
+          <seg xml:id="seg142">Je, Serikali ina mkakati gani wa kuwasaidia wakulima hao kupata soko la uhakika la bidhaa zao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u67" who="NaibuWaziriWaViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg143">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Viwanda, Biashara na Uwekezaji, naomba kujibu swali la Mheshimiwa Dkt. Christine Gabriel Ishengoma, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg144">Mheshimiwa Mwenyekiti, kilimo cha matunda na mboga kinakadiriwa kuajiri wananchi milioni 2.4 wengi wao wakiwa akinamama. Kutokana na umuhimu huu, Serikali imekuwa ikiweka kipaumbele katika kutambua fursa za masoko ya matunda na mbogamboga ndani na nje ya nchi.</seg>
+          <seg xml:id="seg145">Mheshimiwa Mwenyekiti, Serikali kwa kushirikiana na Tanzania Horticulture Association imewapatia wakulima wa matunda na mbogamboga kutoka Mikoa ya Arusha, Kilimanjaro, Morogoro, Iringa, Njombe, Mbeya na Zanzibar mafunzo ya kilimo bora cha matunda na mbogamboga ili kukidhi matakwa ya masoko ya ndani na nje ya nchi. Mafunzo haya yatafanyika pia katika mikoa iliyobaki ili</seg>
+          <seg xml:id="seg146">kuwasaidia wakulima wananchi nzima kupata soko la ndani na nje ya nchi.</seg>
+          <seg xml:id="seg147">Mheshimiwa Mwenyekiti, katika kutafuta ufumbuzi zaidi wa soko, Serikali kwa kushirikiana na Serikali ya Uswiss inatekeleza mradi wa kukuza soko la mboga na matunda kwa kukusanya na kusambaza kwa wadau taarifa za masoko hususani uzalishaji, bei, mahali lilipo, zao na mnunuzi anayehitaji. Mradi huu umewezesha taarifa hizo kukusanywa na kusambazwa kwa wadau kwa kutumia simu za viganjani. Lengo kuu lilikuwa kuwaunganisha wakulima na soko maalum na hoteli za kitalii.</seg>
+          <seg xml:id="seg148">Mheshimiwa Mwenyekiti, pamoja na juhudi hizi, wizara kwa kushirikiana na wadau mbalimbali kama Wizara ya Kilimo na Taasisi nyingine za Umma, inahamasisha sekta binafsi kuwekeza katika viwanda vya kusindika matunda. Uwekezaji huo umelenga katika uendelezaji wa viwanda vidogo, vya kati na vikubwa.</seg>
+          <seg xml:id="seg149">Mheshimiwa Mwenyekiti, mafanikio yaliyopatikana kutokana na uhamasishaji huo ni pamoja na ujenzi wa kiwanda cha Bakhresa Food Products kilichopo Vikindu, Wilayani Mkuranga, Mkoani Pwani; Sayona Fruits Limited kilichopo Mboga, Wilaya ya Bagamoyo, Mkoani Pwani; Dabaga kilichopo Iringa; Sayona Fruits Limited kilichopo Mwanza; Elven Agri Company Limited kilichopo Bagamoyo Mkoani Pwani; na Iringa Vegetables Oil and Related Industry Limited (IVORY). Kwa hiyo, ni matumaini yetu kuwa viwanda hivi na vingine vinavyofuatia vitakuwa soko la uhakika la mazao ya wakulima hali itakayochochea ari ya kuzalisha zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u68" who="Mwenyekiti">
+          <seg xml:id="seg150">Mheshimiwa Ishengoma swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u69" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg151">Mheshimiwa Mwenyekiti, ahsante sana, namshukuru Mheshimiwa Naibu Waziri kwa majibu mazuri, hata hivyo nina maswali mawili madogo.</seg>
+          <seg xml:id="seg152">Mheshimiwa Mwenyekiti, swali la kwanza; kwa kuwa kilimo cha bustani kinamtoa mkulima na hasa akinamama na vijana kwenye umaskini kwa uharaka na kupata ajira, lakini licha ya kuwaunganisha na pamoja na TAHA na SAGCOT kuwasaidia wakulima hawa, tatizo kubwa wanalolipata ni mitaji. Je, kuna mkakati gani wa kuwasaidia kupata mikopo nafuu ili akinamama hawa na vijana wanaoshughulika na kilimo cha bustani waweze kupata mikopo hiyo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u70" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg153">Mheshimiwa Mwenyekiti, swali la pili, licha ya kuwaunganisha na kuanzisha viwanda kwenye mikoa mbalimbali, Mkoa wa Morogoro ni Mkoa unaolima sana mbogamboga na matunda. Je, kuna mkakati gani wa kuweka wawekezaji katika Mkoa wa Morogoro kuanzisha kiwanda cha matunda na mbogamboga? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u71" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg154">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u72" who="Mwenyekiti">
+          <seg xml:id="seg155">Mheshimiwa Naibu Waziri, majibu ya maswali hayo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u73" who="NaibuWaziriWaViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg156">Mheshimiwa Mwenyekiti, ni kweli tatizo la mitaji limekuwa ni moja ya changamoto zinazowafanya wakulima hao hasa ambao wanajihusisha na shughuli za mbogamboga na bustani washindwe kufanya vizuri zaidi. Hata hivyo, kwa kuwa halmashauri zetu zinayo asilimia 10 ambayo inawasaidia akinamama, vijana na watu wenye ulemavu katika kupata mitaji, ni vema Halmashauri basi zielekeze nguvu katika maeneo hayo.</seg>
+          <seg xml:id="seg157">Mheshimiwa Mwenyekiti, vilevile Wizara ya Viwanda, Biashara na Uwekezaji kwa kupitia Mfuko wetu wa NEDF ambao uko katika Shirika la SIDO, tutahakikisha kwamba hawa wananchi wanafikiriwa zaidi katika kuhakikisha kwamba wanapata mikopo ya aina hiyo pamoja na taasisi nyingine za kifedha.</seg>
+          <seg xml:id="seg158">Mheshimiwa Mwenyekiti, katika swali lake la pili kuhusu kuhamasisha viwanda, Wizara imekuwa ikiendelea kuhamasisha viwanda mbalimbali viweze kuwekeza katika nchi yetu na Mkoa wa Morogoro ambao umeonesha kuwa na fursa kubwa za mbogamboga na matunda. Vilevile, sasa hivi nchi ipo katika majadiliano ya mkataba ambao utawezesha kuwa na soko huru la Afrika litakayowezesha mitaji ya aina mbalimbali kuweza kuingia katika nchi ikiwepo na Tanzania.</seg>
+          <seg xml:id="seg159">Mheshimiwa Mwenyekiti, kwa msingi huo tunaamini kwamba, wawekezaji wengi watakuwa na ari ya kuja hasa baada ya kuona kwamba sasa fursa hizo zinafunguliwa na baadhi ya kodi zisizo za lazima au vikwazo vinapunguzwa ili waweze kuwekeza zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u74" who="Mwenyekiti">
+          <seg xml:id="seg160">Mheshimiwa Mariam Kisangi, Mheshimiwa Alhaj Abdallah Bulembo na Mheshimiwa Willy Qambalo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u75" who="MheMariamNKisangi">
+          <seg xml:id="seg161">Mheshimiwa Mwenyekiti, ahsante sana kwa kunipa nafasi ya kuweza kuuliza swali la nyongeza. Kwa kuwa, katika maeneo ya Mkoa wa Dar es Salaam na hasa katika Bonde la Mzinga Mbagala, maeneo ya Chanika, Msongola, Kitunda, Mwanagati, Boko, Kibamba, Bunju, Yombo, Kimbiji, Pembamnazi, na Kisarawe II; akinamama na vijana wa maeneo haya wanashughulika sana na biashara ya mbogamboga na matunda. Je, Serikali ina mpango gani wa kuwasaidia akinamama wajasiriamali wa Mkoa wa Dar es Salaam waweze kupeleka bidhaa zao za mboga na matunda nje ya nchi ukizingatia tuna fursa kubwa ya uwanja wa ndege mpya mkubwa wa Kimataifa katika Mkoa wa Dar es Salaam.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u76" who="Mwenyekiti">
+          <seg xml:id="seg162">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u77" who="NaibuWaziriWaViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg163">Mheshimiwa Mwenyekiti, Serikali imeendelea kutoa mafunzo ya namna bora ya kusindika matunda hayo</seg>
+          <seg xml:id="seg164">kwa kupitia SIDO vilevile kuona kwamba hata uuzaji wa mboga hizo unakaa katika viwango na tija. Jambo ambalo linahuzunisha kidogo ni kwamba katika Halmashauri zetu au Serikali za Vijiji tumekuwa hatutengi maeneo mazuri mahsusi kwa ajili ya hawa wakulima ili sasa hizo bidhaa zao za mashambani ziweze kukaa vizuri.</seg>
+          <seg xml:id="seg165">Mheshimiwa Mwenyekiti, natoa rai kwamba, mkulima aweze kusaidiwa kuanzia shambani mpaka sokoni na pia kupewa mafunzo ya aina hiyo na hivyo kuweza kufanikisha hata inapokuja fursa ya kuweza kuuza nje ya nchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u78" who="Mwenyekiti">
+          <seg xml:id="seg166">Mheshimiwa Abdallah Bulembo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u79" who="MheAbdallahMBulembo">
+          <seg xml:id="seg167">Mheshimiwa Mwenyekiti, ahsante sana. Ukitoka Dodoma hapa kama unaelekea Dar es Salaam, ukianza Wilaya ya Gairo kabla ya kufika Jimbo Mvomero, hapa katika maeneo ya Magole wapi kila sehemu unakuta vijana wamebeba nyanya, karoti, na kadhalika huko Morogoro na ukifika pale kituo cha mizani. Ni mkakati gani Serikali wanafanya maalum kwa ajili ya Morogoro kuwasaidia hawa vijana wadogo wadogo ili kukuza uchumi wao, kwa sababu wanashinda barabarani, mwisho watagongwa na magari. Naomba Serikali iseme ni mkakati gani kuhusu Morogoro mnawasaidia hawa vijana wanaoshinda barabarani? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u80" who="Mwenyekiti">
+          <seg xml:id="seg168">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u81" who="NaibuWaziriWaViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg169">Mheshimiwa Mwenyekiti, kimsingi kama ambavyo nimesema hapo awali, jukumu letu ni kuhamasisha kwanza kuwatambua hawa wafanyabiashara wadogowadogo sana yaani (Micro Entrepreneurs). Ninalosisitaza ni kwamba mara nyingi hata tunapozungumzia maeneo ya uwekezaji au katika shughuli za kuwezesha tumekuwa tunawaangalia zaidi hawa wakubwa kuliko hawa wadogowadogo.</seg>
+          <seg xml:id="seg170">Mheshimiwa Mwenyekiti, Wizara kwa sasa imeshajipanga kuona kwamba hawa wajasiriamali wadogo wadogo wawe wa matunda, wawe wa biashara nyingine, wanasaidiwa ili kuweza kupata maeneo ambayo yatawawezesha kufanya shughuli zao vizuri na tunasema kwamba uchumi uanzie shambani hadi sokoni na maeneo mengine kama viwandani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u82" who="Mwenyekiti">
+          <seg xml:id="seg171">Mheshimiwa Qambalo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u83" who="MheQambaloWQulwi">
+          <seg xml:id="seg172">Mheshimiwa Mwenyekiti, nakushukuru. Katika msimu wa kilimo wa mwaka jana na hata mwaka juzi, mazao ya mbaazi na kilimo yalipata anguko kubwa kwenye masoko. Hivi sasa msimu wa mavuno wa mazao hayo umeanza katika maeneo mbalimbali ya nchi yetu. Je, Serikali ina habari yoyote njema kwa wakulima kuhusu masoko ya mazao ya mbaazi na mahindi?</seg>
+          <seg xml:id="seg173">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u84" who="Mwenyekiti">
+          <seg xml:id="seg174">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u85" who="NaibuWaziriWaViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg175">Mheshimiwa Mwenyekiti, kama ambavyo mara ya mwisho nilijibu suala la soko la mbaazi, kwanza tumekuwa tukitegemea sana soko hilo kutoka nchi za nje hasa India lakini nao wakawa wamelima kiasi kwamba hawakuweza kununua mbaazi kutoka kwetu. Kupitia TanTrade tumewaagiza kuendelea kufuatilia masoko kwa ajili ya mbaazi.</seg>
+          <seg xml:id="seg176">Mheshimiwa Mwenyekiti, wakati huu kwa kutambua umuhimu wa zao hili la mbaazi na umuhimu wake katika afya naendelea kusisitiza kwamba Watanzania tupende pia kutumia mbaazi kwa sababu ni chakula bora na kina lishe nzuri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u86" who="Mwenyekiti">
+          <seg xml:id="seg177">Ahsante. Maswali mafupi kabisa ya nyongeza Mheshimiwa Khadija Nassir na Mheshimiwa Lyimo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u87" who="MheKhadijaNassirAli">
+          <seg xml:id="seg178">Mheshimiwa Mwenyekiti, nashukuru kwa kuniona. Vijana wote nchini wameamka na kuungana na Serikali yao katika kutekeleza kwa vitendo Sera ya Uchumi wa Viwanda, japokuwa katika majibu ya Serikali, Serikali imeshindwa ku-acknowledge jitihada za vijana katika kukuza uchumi wa nchi. Sasa Serikali ni lini itatambua na kuthamini jitihada za vijana katika kukuza uchumi wa nchi?</seg>
+          <seg xml:id="seg179">Mheshimiwa Mwenyekiti, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u88" who="Mwenyekiti">
+          <seg xml:id="seg180">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u89" who="NaibuWaziriWaViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg181">Mheshimiwa Mwenyekiti, kwanza, naomba tu tufahamu kwamba, suala la kuwezesha vijana kiuchumi ni suala mtambuka. Sekta zote inabidi tushirikiane kwa pamoja ikiwemo Waheshimiwa Wabunge. Wizara kama ambavyo nimesema awali tumeshajipanga kuhakikisha kwamba tunakuwa na mkakati maalum wa kuwezesha makundi hayo ya kibiashara kuanzia katika maeneo yao ya kufanyia biashara na tunazidi kuhamasisha Halmashauri zetu, kwa mfano zitenge maeneo ambayo vijana wanaweza kufanyia kazi.</seg>
+          <seg xml:id="seg182">Mheshimiwa Mwenyekiti, si jambo jema kuwaona vijana wakiwa wanazunguka zunguka tu mitaani, halafu yanajengwa majengo makubwa yanaachwa vijana hawaingii humo kufanyia kazi. Kwa misingi hiyo, tumejipanga na tunataka kuona kwamba vijana wanasaidiwa ili iwe ni rahisi kuwatambua na vilevile kuweza kupata huduma zote za msingi zinazohusiana na uwezeshaji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u90" who="Mwenyekiti">
+          <seg xml:id="seg183">Mheshimiwa Waziri wa Nchi, Ofisi ya Waziri Mkuu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u91" who="WaziriWaNchiOfisiYaWaziriMkuuSeraBungeKaziAjiraVijanaNaWenyeUlemavu">
+          <seg xml:id="seg184">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kwanza nimpongeze Mheshimiwa Naibu Waziri na Wizara ya</seg>
+          <seg xml:id="seg185">Viwanda na Biashara kwa kazi nzuri wanayoifanya katika kuwatambua vijana na kuwasaidia ili waweze kuingia kwenye sekta ya viwanda.</seg>
+          <seg xml:id="seg186">Mheshimiwa Mwenyekiti, naomba kulithibitishia Bunge lako Tukufu kwamba, Serikali imekuwa ikiwasaidia sana vijana na kuwawezesha katika sekta mbalimbali. Wizara ya Habari ya Michezo na Utamaduni wameshafanya kazi kubwa sana katika kutambua vipaji vya vijana na kuwajengea uwezo. Ofisi ya Waziri Mkuu tumeshasema tumetambua vijana waliokwishafanya vizuri kwa mfano, wale vijana wa kutoka Chuo cha SUA, wamefanya vizuri sana kwenye sekta ya kilimo, sasa tunawatumia hao kuendesha mafunzo ya kilimo cha kitalu nyumba katika nchi nzima ya Tanzania, huko ni kutambua juhudi zao na kuwawezesha zaidi.</seg>
+          <seg xml:id="seg187">Mheshimiwa Mwenyekiti, pia tunaendelea kutoa mafunzo yenye ujuzi wa namna mbalimbali ili vijana wajiajiri na waajiriwe katika maeneo mbalimbali ya sekta za viwanda na sekta za biashara. Serikali inatambua sana na tutaendelea kutambua juhudi hizo kila siku na kuwawezesha vijana wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u92" who="Mwenyekiti">
+          <seg xml:id="seg188">Ahsante sana kwa majibu hayo ya ziada. Mheshimiwa Lyimo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u93" who="MheSusanAJLyimo">
+          <seg xml:id="seg189">Mheshimiwa Mwenyekiti, ahsante kwa fursa. Moja ya jukumu kubwa walilopewa Benki ya Maendeleo ya Kilimo ni pamoja na kuhakikisha usalama wa chakula lakini kubwa zaidi ni kuchangamkia fursa za upatikanaji wa masoko ya bidhaa za kilimo nje ya nchi. Nataka kujua benki hii imeshafanya juhudi hizo kwa kiasi gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u94" who="Mwenyekiti">
+          <seg xml:id="seg190">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa kifupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u95" who="NaibuWaziriViwandaBiasharaNaUwekezaji">
+          <seg xml:id="seg191">Mheshimiwa Mwenyekiti, nadhani anaendelea kumuunga mkono Mheshimiwa Rais katika hotuba yake ya hivi karibuni</seg>
+          <seg xml:id="seg192">siku anazindua mradi wa ASDP kwamba benki hii imefanya kazi lakini ifanye kazi zaidi. Kwa sasa tunachosema ni kwamba isaidie zaidi katika suala la kuhakikisha kwamba pembejeo na nyenzo za kilimo zinawafikia wakulima wengi zaidi.</seg>
+          <seg xml:id="seg193">Mheshimiwa Mwenyekiti, kwa msingi huo Wizara yetu tayari katika tractors ambazo tayari tumeshaziunganisha zaidi ya 148, Benki ya Kilimo (TAB) tayari tupo nao pamoja katika kuhakikisha kwamba tunawawezesha wakulima na wale ambao watahitaji kukopa trekta hizo. Kwa hiyo, niseme tu kwamba Mheshimiwa Mbunge ameunga mkono kwa kuuliza swali lakini tunataka Benki hiyo ifanye zaidi na zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u96" who="Mwenyekiti">
+          <seg xml:id="seg194">Ahsante sana Mheshimiwa Naibu Waziri, Viwanda, Biashara na Uwekezaji. Tunaendelea na Wizara ya Mambo ya Ndani ya Nchi, Mheshimiwa Susanne Peter Masele, Mbunge wa Viti Maalum, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 421. Wananchi Kuondolewa kwa Nguvu katika Maeneo</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u97" who="Mwenyekiti">
+          <seg xml:id="seg195">yao – Mwanza</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u98" who="MheSusannePMasele">
+          <seg xml:id="seg196">Wananchi wakazi wa Kijiji cha Ishokelahela, Misungwi, Mwanza, wamekuwa wakifanyiwa vitendo vya kihalifu, kinyama na kikatili na Vyombo vya Dola kuwaondoa katika makazi yao na kuacha kuchimba dhahabu ili eneo hilo libaki kwa Mwekezaji anayetaka kuwaondoa kwa nguvu kinyume cha sheria:-</seg>
+          <seg xml:id="seg197">(a) Je, Serikali inatoa kauli gani kuhusu vitendo hivyo wanavyofanyiwa wananchi hao?</seg>
+          <seg xml:id="seg198">(b) Je, Serikali iko tayari kuunda timu kwa ajili ya kufanya uchunguzi wa mgogoro huo na kuchukua hatua stahiki ambazo zitamaliza kabisa mgogoro na kuwawajibisha wote ambao wamesababisha hali iliyopo sasa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u99" who="WaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg199">Mheshimiwa Mwenyekiti, naomba kujibu swali la Mheshimiwa Susanne Maselle, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg200">Mheshimiwa Mwenyekiti, wananchi wa Kijiji cha Ishokelahela ambao ni wachimbaji wadogo wadogo wa dhahabu wamekuwa na mvutano na Mwekezaji Isinka Federation 2014 Mining Cooperative and Society Limited anayefanya shughuli za uchimbaji wa dhahabu katika eneo hilo kihalali. Mvutano huo umepelekea wananchi hao kutaka kuvamia eneo la Mwekezaji huyo bila kufuata sheria kitendo ambacho kinaweza kusababisha uvunjifu wa amani katika eneo husika.</seg>
+          <seg xml:id="seg201">Mheshimiwa Mwenyekiti, Jeshi la Polisi linao wajibu wa kuhakikisha hali ya ulinzi na usalama inaimarishwa katika eneo hilo kwa mujibu wa sheria, hivyo haliwezi kuruhusu wananchi kuchukua sheria mkononi na kuvamia eneo hilo ambalo linamilikiwa kihalali.</seg>
+          <seg xml:id="seg202">Mheshimiwa Mwenyekiti, si kweli kwamba vyombo vya dola vimekuwa vikiwanyanyasa na kuwafanyia unyama wa kikatili wananchi katika makazi yao bali katika eneo husika Jeshi la Polisi limekuwa likiwazuia kuingia katika eneo ambalo sio mali yao kisheria.</seg>
+          <seg xml:id="seg203">Mheshimiwa Mwenyekiti, kwa kuwa suala hili ni suala muhimu, hata hivyo, Serikali inaendelea kulifuatialia kwa karibu na kutafuta suluhisho la kudumu ili kuondoa migongano ambayo inaweza kuhatarisha amani.</seg>
+          <seg xml:id="seg204">Mheshimiwa Mwenyekiti, aidha, nitumie fursa hii kumwomba Mheshimiwa Mbunge awahamasishe na kuwashauri wananchi wa Kijiji hicho ambao ni wachimbaji wadogo wadogo kuungana katika vikundi na kuomba leseni za uchimbaji ili wafanye shughuli zao kihalali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u100" who="Mwenyekiti">
+          <seg xml:id="seg205">Mheshimiwa Susanne, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u101" who="MheSusannePMaselle">
+          <seg xml:id="seg206">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa nafasi niweze kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg207">Mheshimiwa Mwenyekiti, swali la kwanza, mwezi wa Kwanza mwaka huu wakati Serikali ikijibu swali langu kuhusu wachimbaji hawa wadogo ilisema kwamba inatambua vikundi ambavyo nilikuwa nimewahamasisha wachimbaji hawa kuviunda na itawapatia maeneo ya kuchimba. Hata hivyo, baada ya mwezi mmoja Serikali hii hii ilienda kuwazuia wasichimbe na sasa Waziri ananiambia kwamba tena nihamasishe kwamba waunde vikundi vingine, ni vikundi gani tena hivyo? Je, Serikali ina mkakati gani wa kuweza kutatua hii migogoro kwa sababu naona kama wanakwepa kwepa na wamekuwa na ndimi mbili mbili kuhusu huu mgogoro?</seg>
+          <seg xml:id="seg208">Mheshimiwa Mwenyekiti, swali la pili, malalamiko ya wananchi ni kuhusu huyu mwekezaji ambaye anamiliki eneo kubwa ambalo lina ukubwa wa ekari 2,250, lakini ameshindwa kuliendeleza na wananchi hawa wana nia njema kabisa ya kuliendeleza na Serikali ilikiri mbele ya wananchi kwamba mwekezaji huyu ameshindwa kuliendeleza eneo hili. Je, Serikali itatekeleza lini hii ahadi yake ambapo ilisema kwamba ingemnyang’anya huyu mwekezaji hiyo leseni na kuwapatia wananchi na si kutumia nguvu kwa ajili ya kutatua migogoro? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u102" who="Mwenyekiti">
+          <seg xml:id="seg209">Mheshimiwa Waziri wa Mambo ya Ndani, majibu ya maswali hayo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u103" who="WaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg210">Mheshimiwa Mwenyekiti, kwanza nikiri kwamba maswali ya Mheshimiwa Mbunge yana logic, lakini niseme tu kitu kimoja kwamba kuunda kikundi ni hatua moja lakini kumiliki kihalali ni hatua nyingine. Kwa hiyo kile ambacho Mheshimiwa Mbunge alishauriwa na ambacho ndicho msimamo wa Serikali ni</seg>
+          <seg xml:id="seg211">kwamba hao vijana wakishakaa kwenye vikundi wanatakiwa pia wafanye zile taratibu za kuweza kumilikishwa kihalali na wakishamilikishwa ndio watakuwa wamekamilisha utaratibu wa kuweza kuchimba kihalali.</seg>
+          <seg xml:id="seg212">Mheshimiwa Mwenyekiti, la pili kuhusu mwekezaji anayesema anamiliki eneo kubwa, nalo hilo lina taratibu zake naamini Wizara husika watakapokuwa wamejiridhisha na taratibu zile kukamilika kwenye maelekezo waliyokuwa wameyatoa basi wanaweza wakachukua hizo hatua.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u104" who="Mwenyekiti">
+          <seg xml:id="seg213">Mheshimiwa Maftaha; subiri kwanza. Mheshimiwa Waziri nyongeza ya majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u105" who="WaziriWaMadini">
+          <seg xml:id="seg214">Mheshimiwa Mwenyekiti, nikushukuru. Nimshukuru Mheshimiwa Waziri wa Mambo ya Ndani ya Nchi kwa majibu mazuri. Nimwombe tu ndugu yangu Mheshimiwa Susanne Maselle tuweze kuonana ili kuweza kulipata suala hili kwa kina na kuona namna gani tunaweza tukalitatua. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u106" who="Mwenyekiti">
+          <seg xml:id="seg215">Ahsante sana, Waheshimiwa Tunaendelea na Wizara ya Ujenzi, Uchukuzi na Mawasiliano, Mheshimiwa Omary Mgumba, Mbunge wa Morogoro Kusini Mashariki, sasa aulize swali lake.</seg>
+        </u>
+        <note>Na. 422. Ujenzi wa Barabara ya Ubena Zomozi – Ngerengere</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u107" who="Mwenyekiti">
+          <seg xml:id="seg216">hadi Mvuha</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u108" who="MheOmaryTMgumba">
+          <seg xml:id="seg217">Barabara ya Ubena, Ngerengere hadi Mvuha ina urefu wa zaidi ya kilometa 70 na inaunganisha Wilaya ya Bagamoyo na Halmashauri ya Morogoro ambako Makao Makuu ya Wilaya mpya ya Mvuha yanatarajiwa kujengwa. Aidha, barabara hii inaunganisha Mkoa wa Pwani na Morogoro. Halmashauri ya Wilaya ya Morogoro haina uwezo wa kuhudumia barabara hiyo:-</seg>
+          <seg xml:id="seg218">(a) Je, ni lini Serikali itakubali ombi la kupandisha barabara hiyo kuwa ya Mkoa?</seg>
+          <seg xml:id="seg219">(b) Je, ni lini Serikali itatengeneza barabara hiyo ya Ubena – Mvuha kwa kiwango cha changarawe ili ipitike mwaka mzima?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u109" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg220">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Ujenzi, Uchukuzi na Mawasiliano, naomba kujibu swali la Mheshimiwa Omary Tebweta Mgumba, lenye sehemu (a) na (b) kwa pamoja, kama ifuatavyo:-</seg>
+          <seg xml:id="seg221">Mheshimiwa Mwenyekiti, barabara ya Ubena Zomozi kwenda Ngerengere hadi Mvuha yenye urefu wa kilomita 105.4 ilipandishwa hadhi na Mheshimiwa Waziri wa Ujenzi, Uchukuzi na Mawasiliano tangu Januari, mwaka 2017 kutoka barabara ya Wilaya na kuwa barabara ya Mkoa baada ya kukidhi vigezo vya Sheria ya Barabara ya mwaka 2007 na Kanuni zake za mwaka 2009. Kwa sasa barabara hii inahudumiwa na Wakala wa Barabara (TANROADS) Mkoa wa Morogoro.</seg>
+          <seg xml:id="seg222">Mheshimiwa Mwenyekiti, sehemu kubwa ya barabara hii inapitika kwa shida hasa wakati wa masika hususani kati ya kipande cha Ngerengere na Mvuha ambacho kina urefu wa kilomita 95.4. Sehemu iliyobaki kati ya Ubena Zomozi na Ngerengere inapitika vizuri.</seg>
+          <seg xml:id="seg223">Mheshimiwa Mwenyekiti, Wizara yangu kupitia Wakala wa Barabara (TANROADS), Mkoa wa Morogoro, inaendelea kuifanyia matengenezo mbalimbali katika maeneo korofi ili iweze kupitika majira yote ya mwaka. Aidha, kutokana na umuhimu wa barabara hii ya Ubena Zomozi – Ngerengere – Mvuha – Kisaki – Stiegler’s Gorge inayoelekea katika mradi wa kufua umeme kwa kutumia maporomoko ya Mto Rufiji katika mwaka wa fedha 2018/2019 wizara yangu imetenga jumla ya shilingi bilioni tano kwa ajili ya ukarabati mkubwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u110" who="Mwenyekiti">
+          <seg xml:id="seg224">Mheshimiwa Omary Mgumba swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u111" who="MheOmaryTMgumba">
+          <seg xml:id="seg225">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi ya kuuliza maswali mawili ya nyongeza. Swali la kwanza, kwa kuwa umbali wa kutokea Ubena Zomozi mpaka Ngerengere ni kilomita 18 na kati ya hizo kilomita 11 zimetengewa kujengwa kwa kiwango cha lami katika Bajeti ya 2018/2019 na zimebaki kilomita saba tu; na kwa kuwa barabara hiyo inaunganisha majeshi yetu mawili kati ya Kizuka mpaka Sangasanga. Je, Serikali haioni umuhimu wa kumalizia hizo kilomita saba kwa kiwango cha lami ili barabara hii ifike Ngerengere Mjini na kule kwenye Kambi yetu ya Jeshi ya Sangasanga?</seg>
+          <seg xml:id="seg226">Mheshimiwa Mwenyekiti, swali la pili; ahadi kama hii ilitolewa na Rais wa Awamu ya Nne tangu 2010 na Rais wa Awamu ya Tano 2015 katika barabara ya Bigwa – Mvuha kujengwa kwa kiwango cha lami; na kwa kuwa barabara hii iko kwenye ilani ya Chama cha Mapinduzi na upembuzi yakinifu na usanifu wa kina ulishamalizika muda mrefu. Ni lini Serikali itaanza kujenga barabara hii kwa kiwango cha lami ukizingatia tumebakiza miaka miwili kwenda kwenye uchaguzi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u112" who="Mwenyekiti">
+          <seg xml:id="seg227">Mheshimiwa Waziri, majibu ya maswali hayo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u113" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg228">Mheshimiwa Mwenyekiti, ni kweli kwamba kipande cha barabara kati ya Ubena hadi Kizuka chenye urefu wa kilometa 11 kimewekewa lami na kipande cha kilometa saba kati ya Kizuka mpaka Ngerengere bado ni cha vumbi. Naomba nimhakikishie Mheshimiwa Mgumba ambaye kwa kweli Mheshimiwa Mwenyekiti nikiri kwamba ni Mbunge ambaye anafuatilia sana suala la barabara hii kwamba tunafahamu umuhimu na unyeti wa kipande cha barabara kutoka Kizuka kwenda Ngerengere cha kilometa saba, lakini vilevile kutoka Ngerengere kwenda Sangasanga cha kilometa sita na kipande cha kutoka Sangasanga</seg>
+          <seg xml:id="seg229">kwenda Mdaula, tunajua umuhimu wa eneo hilo na unyeti wa eneo hilo. Namuomba Mheshimiwa Mbunge tutakapotoka hapa twende Wizarani tukamwoneshe taratibu na hatua ambazo tumekwishafikia kuhakikisha kipande hicho chote ambacho kina mzunguko kinawekewa lami.</seg>
+          <seg xml:id="seg230">Mheshimiwa Mwenyekiti, kuhusu swali lake la pili; ni kweli kwamba kuna ahadi mbalimbali zilishatolewa na viongozi wetu wakuu kuweka barabara kwa kiwango cha lami kutoka Bigwa kuja Mvuha mpaka Kisaki. Nimuahidi Mheshimiwa Mbunge kwamba mipango ipo, bahati nzuri upembuzi yakinifu ulishafanyika na usanifu wa kina tayari, kinachosubiriwa sasa ni upatikanaji wa pesa ili tuweze kutangaza tender, kumpata mkandarasi wa kujenga kwa kiwango cha lami.</seg>
+          <seg xml:id="seg231">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u114" who="Mwenyekiti">
+          <seg xml:id="seg232">Mheshimiwa Halima Bulembo, Mheshimiwa Kigola, Mheshimiwa Maftaha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u115" who="MheHalimaABulembo">
+          <seg xml:id="seg233">Mheshimiwa Mwenyekiti, nakushukuru. Kuna utaratibu wa kuunganisha wilaya kwa wilaya. Wilaya ya Bukoba Vijijini inapakana na Wilaya ya Misenyi kutoka katika Kijiji cha Msira kwenda katika Kijiji cha Bulembo, pale katikati kuna mto na watu wanaoishi pale wengi ni wakulima wa zao la kahawa. Je, ni lini Serikali itaamua kuunganisha vijiji hivi kwa kujenga barabara ili kuwarahisishia wakulima hawa wa zao la kahawa usafiri wa uhakika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u116" who="Mwenyekiti">
+          <seg xml:id="seg234">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u117" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg235">Mheshimiwa Mwenyekiti, ni kweli tunafahamu umuhimu wa kuunganisha wilaya kwa wilaya kwa kiwango cha lami na nimhakikishie tu Mheshimiwa Mbunge kwamba mipango ipo kwa ajili ya kuunganisha</seg>
+          <seg xml:id="seg236">Wilaya ya Bukoba Vijijini na Misenyi na taratibu mbalimbali za kiuhandisi zimeshaanza kuhakikisha kwamba kiwango hicho kinawekwa hivi karibuni pesa zitakapopatikana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u118" who="Mwenyekiti">
+          <seg xml:id="seg237">Mheshimiwa Kigola.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u119" who="MheMendradLKigola">
+          <seg xml:id="seg238">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi niulize swali la nyongeza. Kuna barabara ya kutoka Nyororo mpaka Mtwango kilimeta 40, barabara ya kutoka Mafinga mpaka Mgololo kilometa 84 na upembuzi yakinifu Serikali ilishafanya miaka miwili iliyopita. Sasa ni lini itaanza kujenga ile barabara kwa kiwango cha lami?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u120" who="Mwenyekiti">
+          <seg xml:id="seg239">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u121" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg240">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Kigola kama ifuatavyo:-</seg>
+          <seg xml:id="seg241">Mheshimiwa Mwenyekiti, Serikali ina nia na lengo la kuunganisha kwanza mikoa kwa kiwango cha lami. Hatua zitakazofuata baada ya kuunganisha mikoa yote kwa kiwango cha lami, tutaunganisha wilaya zote kwa kiwango cha lami. Namwomba sana Mheshimiwa Mbunge awe na subira, tunafahamu suala lake na siyo la kwake peke yake, wilaya nyingi sana Tanzania hazijaunganishwa kwa kiwango cha lami. Tutakapofikia mahali pa kuunganisha kwa kiwango cha lami wilaya zote tutafahamishana na tutaanza taratibu hizo mara moja.</seg>
+          <seg xml:id="seg242">Mheshimiwa Mwenyekiti, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u122" who="Mwenyekiti">
+          <seg xml:id="seg243">Mheshimiwa Maftaha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u123" who="MheMaftahaANachuma">
+          <seg xml:id="seg244">Mheshimiwa</seg>
+          <seg xml:id="seg245">Mwenyekiti, ahsante. Naomba kuuliza swali la nyongeza. Kwa kuwa Serikali ina wajibu wa kulinda mipaka yake yote ya nchi hii kwa ajili ya kujilinda na maadui mbalimbali</seg>
+          <seg xml:id="seg246">wanaovamia ndani ya nchi yetu na ili uweze kulinda mipaka ni lazima kuwe na barabara kwenye mipaka yote, barabara ambazo zinapitika kwa muda wote.</seg>
+          <seg xml:id="seg247">Mheshimiwa Mwenyekiti, mpaka wa kusini unaoanzia Mtwara Mjini kupita Mahurunga – Kitaya – Tandahimba – Newala mpaka Ruvuma, hii barabara ilipandishwa hadhi kwa muda mrefu sasa na inaitwa Barabara ya Ulinzi. Mpaka leo Serikali inasuasua kujenga. Naomba kujua ni lini barabara hii ya ulinzi ambayo nimeitaja itajengwa kwa kiwango cha lami ili kulinda mpaka wa kusini sawasawa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u124" who="Mwenyekiti">
+          <seg xml:id="seg248">Mheshimiwa Naibu Waziri, majibu ya swali hilo kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u125" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg249">Mheshimiwa Mwenyekiti, ni kweli kwamba barabara zote za mipakani ndani ya nchi yetu ziko kwenye mpango wa kutengenezwa kwa kiwango cha lami na barabara hiyo aliyoitaja Mheshimiwa Maftaha ikiwemo. Nimhakikishie Mheshimiwa Maftaha kwamba upembuzi yakinifu umeshafanyika na usanifu wa kina tayari umekwishafanyika. Sasa hivi tuko kwenye taratibu za kutafuta fedha kwa ajili ya kuanza ujenzi wa kiwango cha lami kwa barabara husika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u126" who="Mwenyekiti">
+          <seg xml:id="seg250">Mheshimiwa Zaynab Vullu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u127" who="MheZaynabMVullu">
+          <seg xml:id="seg251">Mheshimiwa Mwenyekiti, ahsante sana kwa kuniona. Kwa kuwa swali la msingi linafanana na hoja nitakayoitoa na kwa kuwa ujenzi wa barabara ni kiungo muhimu kwa ajili ya maendeleo na pia kuboresha hali halisi ya mwananchi; na kwa kuwa Serikali iliahidi kutoka kwenye Ilani yake ya 2005, 2010 na 2015 ujenzi wa barabara kutoka Makofia kwenda Mlandizi, kutoka Mlandizi kwenda Mzenga, kutoka Mzenga kwenda Vikumburu na Manerumango; na kwa kuwa hadi leo barabara hiyo haijajengwa kwa kiwango cha lami. Je, Serikali itaanza lini ujenzi angalau, narudia tena angalau kwa kiwango cha changarawe ili kuwasaidia wananchi wa</seg>
+          <seg xml:id="seg252">maeneo hayo kupata usafiri mzuri na hali kadhalika ukizingatia Mkoa wa Pwani tunaongoza kwa viwanda vya uchumi? Naomba kauli ya Serikali tumesubiri mpaka leo haijajengwa, ni lini Serikali italisimamia jambo hilo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u128" who="Mwenyekiti">
+          <seg xml:id="seg253">Mheshimiwa Naibu Waziri, kauli ya Serikali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u129" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg254">Mheshimiwa Mwenyekiti, nakiri kwamba Mheshimiwa Zaynab Vullu ni Mbunge ambaye amekuwa akifuatilia sana barabara nyingi sana za Mkoa wa Pwani ambazo ziko kwenye ahadi ya Serikali ya kujengwa kwa kiwango cha lami. Nampongeza sana kwa jitihada zake hizo, naamini kwamba Serikali tumeshasikia na nimhakikishie Mheshimiwa Vullu kwamba mpaka sasa hivi kuna pesa imekwishapitishwa kwenye bajeti hii ya Wizara yetu kutengeneza barabara husika kwa kiwango cha changarawe. Taratibu zinaendelea kufanyika ili pesa itakapopatikana wakati mwingine ujao tujenge kwa kiwango cha lami.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u130" who="Mwenyekiti">
+          <seg xml:id="seg255">Mheshimiwa Ndassa, wa mwisho.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u131" who="MheRichardMNdassa">
+          <seg xml:id="seg256">Mheshimiwa Mwenyekiti, ahsante. Naomba nimuulize swali Mheshimiwa Waziri; barabara ya kutoka Mwanza kwenda Shinyanga Boarder yenye urefu wa kilometa 102 iliyojengwa mwaka 1994 -1998 ni mbaya sana kwa sasa, ina zaidi ya mashimo 3,032 na imekuwa ikifanyiwa utengenezwaji wa mara kwa mara. Je, Serikali inaweza sasa kusema ni lini barabara hii itajengwa upya?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u132" who="Mwenyekiti">
+          <seg xml:id="seg257">Mheshimiwa Naibu Waziri, majibu kwa ufupi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u133" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg258">Mheshimiwa Mwenyekiti, nakiri Serikali tunafahamu ubovu wa barabara aliyoitaja</seg>
+          <seg xml:id="seg259">Mheshimiwa na kwa kweli ina mashimo mengi na ni kero sana kwa wapitaji na watumiaji wa barabara ile. Nimhakikishie Mheshimiwa Ndassa kwamba Serikali iko kwenye mpango wa kufanya ukarabati mkubwa kwenye barabara ile na hali ya kifedha itakapoimarika Mheshimiwa Ndassa atatuona tukiwa maeneo yale na wataalam kwa ajili ya kurekebisha kipande hicho cha barabara.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u134" who="Mwenyekiti">
+          <seg xml:id="seg260">Waheshimiwa Wabunge swali letu la mwisho litaulizwa na Mheshimiwa Engineer Ramo Matala Makani, Mbunge wa Tunduru Kaskazini.</seg>
+        </u>
+        <note>Na. 423. Kujenga Kiwanja cha Ndege cha Tunduru</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u135" who="MheEngRamoMMakani">
+          <seg xml:id="seg261">Je, ni lini Serikali itatekeleza ahadi ya kujenga uwanja wa ndege mbadala katika Mji wa Tunduru baada ya uwanja uliokuwepo awali kuhamishwa kutoka katikati ya mji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u136" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg262">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Ujenzi, Uchukuzi na Mawasiliano, naomba kujibu swali la Mheshimiwa Engineer Ramo Matala Makani, Mbunge wa Tunduru Kaskazini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg263">Mheshimiwa Mwenyekiti, kwanza kabisa napenda kulijulisha Bunge lako Tukufu kuwa mpaka sasa hivi Kiwanja cha Ndege cha Tunduru hakijahamishiwa rasmi kutoka katikati ya Mji wa Tunduru.</seg>
+          <seg xml:id="seg264">Mheshimiwa Mwenyekiti, Wizara yangu ilituma timu ya wataalam wake kutembelea viwanja vya ndege vya mikoa ya kusini ili kujionea na kutathmini hali halisi ilivyo katika viwanja hivyo ikiwa ni pamoja na changamoto za kuzungukwa na makazi ya watu.</seg>
+          <seg xml:id="seg265">Mheshimiwa Mwenyekiti, Kiwanja cha Ndege cha Tunduru ni miongoni mwa viwanja sita vya ndege vilivyotembelewa na timu hii mnamo mwezi Aprili, 2017. Viwanja vingine vilikuwa ni Kiwanja cha Newala, Masasi, Songea na Iringa.</seg>
+          <seg xml:id="seg266">Mheshimiwa Mwenyekiti, Halmashauri ya Wilaya ya Tunduru imetenga eneo mbadala kwa ajili ya ujenzi wa kiwanja kipya cha Ndege cha Tunduru katika eno la Chingulungulu, Kata ya Muhesi, Tarafa ya Nakapanya, takriban umbali wa kilometa 17 kutoka Mjini Tunduru. Aidha, kiwanja cha sasa cha ndege cha Tunduru bado kinafaa kwa matumizi ya ndege na abiria isipokuwa kinahitaji kujengewa uzio ili kuimarisha usalama kiwanjani hapo wakati taratibu za kuhamia eneo jipya zikiwa zinaendelea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u137" who="Mwenyekiti">
+          <seg xml:id="seg267">Mheshimiwa Engineer Makani, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u138" who="MheEngRamoMMakani">
+          <seg xml:id="seg268">Mheshimiwa Mwenyekiti, nianze kwa kuipongeza Serikali kwa majibu yake mazuri na yenye kuleta matumaini. Pia niipongeze Serikali bila hata kumung’unya maneno kwa namna ambayo kutokana na ujenzi wa barabara ya lami iliyounganisha Wilaya ya Tunduru na wilaya zingine na kuufanya Mkoa wa Ruvuma vilevile uweze kuungana na mikoa mingine kwa barabara ya lami. Wananchi wa Wilaya ya Tunduru kwa ujumla wanaipongeza na kuishukuru sana Serikali.</seg>
+          <seg xml:id="seg269">Mheshimiwa Mwenyekiti, hata hivyo, kwa kuwa miundombinu ya usafirishaji inafanya kazi kwa kutegemeana, kusaidiana na kwa kushirikiana; baada ya kukamilika kwa ujenzi wa barabara tumepanua fursa na kuweka mazingira ya kiuchumi na kijamii kuwa bora zaidi kwa maana ya kuvutia wawekezaji, lakini pia kuwahamasisha wananchi katika eneo hili. Sasa Uwanja wa Ndege wa Tunduru unauona umuhimu wake sasa zaidi kuliko hata ilivyokuwa hapo kabla. Je, Serikali itaingiza lini kwenye mipango ya ujenzi wa viwanja vya ndege, Uwanja wa Tunduru ukawa ni mmojawapo? Swali la kwanza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u139" who="MheEngRamoMMakani">
+          <seg xml:id="seg270">Mheshimiwa Mwenyekiti, swali la pili, lakini kwa kuwa Serikali pia imekiri kwamba uwanja uliopo haujafungwa rasmi na unaweza ukaendelea kutumika na sisi tunahitaji utumike kwa kuwa mahitaji ni makubwa, wawekezaji wanashindwa kusafiri umbali mrefu sana kwa kutumia njia ya usafiri wa barabara. Je, uboreshaji wa kiwanja kilichopo ambacho kwa sasa hivi hali yake ni mbaya hakiwezi kutumika utafanyika lini kwa maana ya kwamba si uzio tu peke yake, runway na taxiway zinatakiwa kufanyiwa marekebisho lakini pia hata kibanda kwa ajili ya kupokea na kuruhusu abiria kuondoka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u140" who="Mwenyekiti">
+          <seg xml:id="seg271">Mheshimiwa Naibu Waziri, majibu ya maswali hayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u141" who="NaibuWaziriWaUchukuziNaMawasilianoMheEngAtashastaJNditiye">
+          <seg xml:id="seg272">Mheshimiwa Mwenyekiti, kwanza nimpongeze sana Mheshimiwa Engineer Ramo Makani kwa jinsi ambavyo mara nyingi sana anafuatilia masuala mbalimbali yanayohusu ujenzi, uchukuzi na mawasiliano kwa Jimbo lake la Tunduru Kaskazini.</seg>
+          <seg xml:id="seg273">Mheshimiwa Mwenyekiti, ni kweli kwamba kuna mradi wa ujenzi wa uwanja mpya kwa eneo ambalo tumeoneshwa na watu wa Halmashauri ya Mji wa Tunduru, lakini bado kuna masuala ya fidia ndogo ndogo kwa wananchi. TAA ambao ni Wakala wa Viwanja vya Ndege wanaendelea kufanya tathmini ya malipo kwa wananchi ambao wanadai fidia zao kwa maeneo ambayo tutayachukua kwenye huu uwanja mpya ambao tunategemea kuujenga.</seg>
+          <seg xml:id="seg274">Mheshimiwa Mwenyekiti, vile vile nimhakikishie Mheshimiwa Ramo Makani kwamba taratibu za ulipaji wa fidia kwa wananchi hao zitakapokamilika tutahitaji sasa tupate hati ya kumiliki uwanja huo kabla ya kuanza mradi wa ujenzi wa uwanja huo. Taratibu nyingine zote zitafuata baada ya kupata taratibu muhimu kutoka Halmashauri ya Mji wa Tunduru.</seg>
+          <seg xml:id="seg275">Mheshimiwa Mwenyekiti, swali lake la pili, anauliza lini uboreshaji wa uwanja utaanza. Nimhakikishie Mheshimiwa</seg>
+          <seg xml:id="seg276">Ramo Makani kwamba tayari timu ya wataalam kutoka TAA imekwishatembelea pale kama nilivyoeleza kwenye swali la msingi tangu mwaka jana mwezi wa Nne na</seg>
+          <seg xml:id="seg277">wameshaona eneo la uwanja huo. Mahitaji muhimu kwa ajili ya kuboresha uwanja huo yameshaainishwa sasa hivi tupo kwenye taratibu za manunuzi kwa ajili ya kwenda kuuboresha uwanja huo.</seg>
+          <seg xml:id="seg278">Mheshimiwa Mwenyekiti, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u142" who="Mwenyekiti">
+          <seg xml:id="seg279">Ahsante sana Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg280">Waheshimiwa Wabunge, muda wetu wa maswali kwa sasa umemalizika. Sasa nitaanza kutangaza wageni wa Waheshimiwa Wabunge ambao wapo Bungeni asubuhi hii ya leo.</seg>
+          <seg xml:id="seg281">Kuna wageni wawili wa Mheshimiwa Rashid Shangazi ambao ni ndugu Abdallah Hodgson, Raia wa Uingereza mwenye ulemavu wa macho, lakini amehifadhi Quran Juzuu 21, karibu sana Mwenyezi Mungu akubariki sana. Ndugu Abdallah amefuatana na ndugu Rajab Salum kutoka Jijini Dar es salaam, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u143" who="Mwenyekiti">
+          <seg xml:id="seg282">Wengine ni wageni 22 wa Mheshimiwa Esther Mmasi ambao ni wanafunzi na Walimu kutoka Chuo Kikuu cha Mzumbe kilichopo Mkoani Morogoro, karibuni sana wanafunzi na Walimu katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u144" who="Mwenyekiti">
+          <seg xml:id="seg283">Pia kuna wageni wawili wa Mheshimiwa Japhet Hasunga, Naibu Waziri wa Maliasili na Utalii ambao ni walimu wa Shule ya Msingi Toplayer iliyopo Jijini Dar es Salaam, karibuni sana katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u145" who="Mwenyekiti">
+          <seg xml:id="seg284">Wageni 28 wa Mheshimiwa Bonnah Kaluwa ambao ni viongozi wanane wa CCM kutoka Jimbo la Segerea na wameambata na wachezaji 20 wa Timu ya Mpira wa Miguu ya Bodaboda ya Segerea, Jijini Dar es Salaam. Karibuni sana katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u146" who="Mwenyekiti">
+          <seg xml:id="seg285">Pia wapo wageni tisa wa Mheshimiwa Willy Qambalo ambao ni wanafunzi wa Chuo Kikuu cha Dodoma wanaotokea Karatu Mkoa wa Manyara. Karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u147" who="Mwenyekiti">
+          <seg xml:id="seg286">Wageni wengine ni wageni watano wa Mheshimiwa Jesca Kishoa ambao ni viongozi wa Mabaraza ya CHADEMA BAVICHA na BAWACHA kutoka Mkoani Singida. Karibuni sana katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u148" who="Mwenyekiti">
+          <seg xml:id="seg287">Pia wao wageni wanne ni wa Mheshimiwa Nassir Omar ambao ni familia yake kutoka Kusini Pemba. Karibuni sana wanafamilia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u149" who="Mwenyekiti">
+          <seg xml:id="seg288">Vile vile tunao wageni wanne wa Mheshimiwa Tunza Malapo ambao ni familia yake kutoka Mkoani Mtwara wakiongozwa na mama yake mzazi Bi. Sofia Mkumba. Karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u150" who="Mwenyekiti">
+          <seg xml:id="seg289">Tunao pia wageni 22 wa Mheshimiwa Flatey Massay ambao ni wanafunzi kutoka Chuo Kikuu cha Dodoma wanaotokea Mbulu, Mkoa wa Manyara. Karibuni sana katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u151" who="Mwenyekiti">
+          <seg xml:id="seg290">Wapo vile vile wageni wawili ni wa Mheshimiwa Frank Mwakajoka ambao ambao ni Waandishi wa Habari kutoka Mkoa wa Mwanza. Karibuni waandishi wetu wa habari. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u152" who="Mwenyekiti">
+          <seg xml:id="seg291">Pia kuna wageni 54 wa Mheshimiwa Lolesia Bukwimba ambao ni Wanakwaya kutoka Kanisa la Africa Inland lililopo eneo la Kizota, Jijini Dodoma. Karibuni Wanakwaya wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u153" who="Mwenyekiti">
+          <seg xml:id="seg292">Kuna wageni 94 wa Mheshimiwa Stanslaus Nyongo, Naibu Waziri wa Madini; Mheshimiwa Richard Mbogo na Mheshimiwa Catherine Ruge ambao ni wanafunzi 85 na Walimu tisa kutoka Shule ya Msingi Royal Elite ya Mbezi Beach Jijini Dar es Salaam. Karibuni sana wanafunzi wetu katika</seg>
+          <seg xml:id="seg293">Vile vile tunao wageni 36 wa Mheshimiwa Anna Lupembe ambao ni wanamaombi na Wachungaji wa Kanisa la Moroviani lililopo eneo la Iringa Road Jijini Dodoma. Karibuni sana katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u154" who="Mwenyekiti">
+          <seg xml:id="seg294">Wapo pia wageni watatu wa Mheshimiwa Ally Ungando ambao ni viongozi wa Chama cha Mapinduzi kutoka Mkoa wa Pwani wakiongozwa na Mwenyekiti wa CCM Wilaya ya Rufiji, Mheshimiwa Rajabu Mbonde. Karibuni sana katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u155" who="Mwenyekiti">
+          <seg xml:id="seg295">Wageni wengine ni wageni waliotembelea Bunge kwa ajili ya mafunzo, ni wanafunzi 96 na Walimu wanne kutoka Shule ya Msingi Martin Luther ya Jijini Dodoma. Karibuni sana watoto wetu kutoka Martin Luther ya Mjini Dodoma. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u156" who="Mwenyekiti">
+          <seg xml:id="seg296">Wanafunzi wengine 100 na Walimu watatu kutoka Chuo cha Maendeleo Dodoma (TRACDI), karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u157" who="Mwenyekiti">
+          <seg xml:id="seg297">Matangazo mengine ni kwa ajili ya Waheshimiwa Wabunge na wananchi kwa ujumla, kwamba leo tarehe 12 Juni, 2018, kwenye Uwanja wa Jamhuri Dodoma saa 10 jioni kutakuwa na mechi ya mpira wa miguu kati ya Bunge Sports Club (Ndugai Boys) pamoja na combine ya vijana ya Bodaboda Football Club kutoka Jimbo la Segerea Dar es salaam chini ya Mheshimiwa Bonna Kaluwa. Waheshimiwa Wabunge wote mnakaribishwa katika mechi hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u158" who="Mwenyekiti">
+          <seg xml:id="seg298">Tangazo lingine ni; Mheshimiwa Gaudensia Kabaka, Mwenyekiti wa Umoja wa Wanawake Tanzania (UWT) anapenda kuwaalika Wabunge Wanawake wote kwenye futari tarehe 13 mwezi wa Sita 2018 kuanzia saa 12 jioni kwenye viwanja eneo la Utawala Bungeni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u159" who="Mwenyekiti">
+          <seg xml:id="seg299">Tangazo la mwisho ni Waheshimiwa Wabunge wote wanatangaziwa kuhudhuria ibada itakayofanyika leo siku ya Jumanne tarehe 12 Juni, 2018 katika eneo la wazi (basement)</seg>
+          <seg xml:id="seg300">mara baada ya kuahirisha shughuli za Bunge saa tano asubuhi hii. Katika ibada hiyo tutakuwa na mtumishi wa Mungu Mchungaji Everlyne Elisha Kiandiko wa Kanisa la Moroviani Iringa Road Dodoma na kwaya ya Inland Church Tanzania kutoa Kizota Dodoma itahudumia pia. Waheshimiwa Wabunge wote mnakaribishwa.</seg>
+          <seg xml:id="seg301">Waheshimiwa Wabunge matangazo yamemalizika, kuna miongozo yeyote?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u160" who="MheGoodluckAMlinga">
+          <seg xml:id="seg302">Mheshimiwa Mwenyekiti, mwongozo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u161" who="MheSaedAKubenea">
+          <seg xml:id="seg303">Mheshimiwa Mwenyekiti, mwongozo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u162" who="Mwenyekiti">
+          <seg xml:id="seg304">Tumemaliza watu watano. Tuanze na Mheshimiwa Aidha Khenan.</seg>
+          <seg xml:id="seg305">MWONGOZO WA SPIKA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u163" who="MheAidaJKhenan">
+          <seg xml:id="seg306">Mheshimiwa Mwenyekiti, nakushukuru. Nasimama kwa Kanuni ya 68(7), kulingana na muda sitoweza kuisoma.</seg>
+          <seg xml:id="seg307">Mheshimiwa Mwenyekiti, kipindi cha maswali, swali namba 420 lililokuwa linazungumzia changamoto ya soko la mbogamboga pamoja na matunda. Suala la soko la uhakika ndani ya Bunge imekuwa ni wimbo kwa Wabunge wote. Leo imezungumzwa changamoto ya soko la matunda pamoja na mbogamboga lakini suala la mahindi na mbaazi tumezungumza na Serikali haijaonesha kabisa kwamba kuna umuhimu kwa sasa kutuambia soko la uhakika lipo ndani au nje ya nchi. Mpaka sasa wakulima wamekuwa wanalima kilimo cha kubahatisha, hawajui leo ni zao gani wanaweza wakalima likawaletea tija.</seg>
+          <seg xml:id="seg308">Mheshimiwa Mwenyekiti, naomba mwongozo wako, kwa kuwa Serikali inasikia siku zote tunapozunguza ndani ya Bunge, ni kwa nini Wizara ya Viwanda, Biashara na Uwekezaji</seg>
+          <seg xml:id="seg309">inashindwa kuchukulia jambo hili kwa uzito kulingana na wakulima wanavyopata shida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u164" who="Mwenyekiti">
+          <seg xml:id="seg310">Mheshimiwa Kubenea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u165" who="MheSaedAKubenea">
+          <seg xml:id="seg311">Mheshimiwa Mwenyekiti, nakushukuru. Nimesimama kwa Kanuni ya 47(1), (2) na (3) ambayo naomba idhini yako Bunge lako Tukufu liahirishe shughuli zake kwa muda huu ili lijadili jambo muhimu ambalo limetokea kwenye nchi.</seg>
+          <seg xml:id="seg312">Mheshimiwa Mwenyekiti, kuanzia jana Mamlaka ya Mawasiliano imesitisha usambazaji wa taarifa katika social media; na kwa tangazo hilo YouTube zote, Blogu zote, website na radio zote ambazo ziko online haziruhusiwi kufanya kazi kuanzia jana na kwa hiyo Mamlaka ya Mawasiliano inasema kwamba mpaka tarehe 14 mwezi huu wale ambao watakuwa hawajalipia ada zao watasimamishwa.</seg>
+          <seg xml:id="seg313">Mheshimiwa Mwenyekiti, umuhimu wa jambo hili unatokana na kwamba Mahakama Kuu Kanda ya Mtwara ilitoa amri ya kusitisha ada hizo, kwa hiyo wamiliki wa hizi blogs walisitisha mchakato wa kwenda kujisajili kwa sababu kulikuwa na zuio la mahakama. Sasa leo immediately jana asubuhi tangazo linatoka na watu hawajajiandaa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u166" who="MheSaedAKubenea">
+          <seg xml:id="seg314">Mheshimiwa Mwenyekiti, kwa hiyo, naomba idhini yako kwamba Bunge liahirishe shughuli zake kwa muda ili mjadala huu uweze kujadiliwa na Serikali iweze kujibu jambo hili ndani ya Bunge kwa maslahi mapana ya nchi kwa sababu dunia leo imesimama Tanzania, hakuna taarifa zozote ambazo zinatoka Tanzania kwenda nje. Kwa kanuni ile pengine hata website za Serikali zinalazimika kusimama. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u167" who="MheSaedAKubenea">
+          <seg xml:id="seg315">Mheshimiwa Mwenyekiti, kwa busara yako ya Bunge naomba Bunge lisimame ili liweze kujadili jambo hili. Nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u168" who="Mwenyekiti">
+          <seg xml:id="seg316">Mheshimiwa Hasna.</seg>
+          <seg xml:id="seg317">naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u169" who="MheHasnaSKMwilima">
+          <seg xml:id="seg318">Mheshimiwa Mwenyekiti, nasimama kwa Kanuni ya 68(7). Leo kwenye swali langu la msingi, swali namba 418. Mheshimiwa Naibu Waziri wakati anajibu alijibu tofauti kabisa, kwa kumbukumbu za Hansard niombe tu swali hili lilikuwa linaelekeza ukanda wa reli lakini yeye akajibu kwamba Humule, Ubanda, Tandala na Itebula ni Vitongoji ambavyo vimo ndani ya Kijiji cha Lufubu kwenye Kata ya Kashagulu, wakati Humule ni Kitongoji ambacho kimo ndani ya Kijiji cha Nyangabo na Ubanda ni Kijiji kamili na si Kitongoji lakini Tandala ni Kitongoji ambacho ambacho kimo ndani ya Kijiji cha Chakulu na Itebula ni Kijiji ambacho kimesajiliwa kwa mujibu wa sheria.</seg>
+          <seg xml:id="seg319">Mheshimiwa Mwenyekiti, kwa hiyo, naomba tu hii sintofahamu Hansard iweze kukaa vizuri kwamba hivi ni vijiji na si vitongoji kama ambavyo yeye alivyojibu kwamba vimo ndani ya Kata ya Kashagulu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u170" who="Mwenyekiti">
+          <seg xml:id="seg320">Mheshimiwa Bobali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u171" who="MheHamiduHBobali">
+          <seg xml:id="seg321">Mheshimiwa Mwenyekiti, nakushukuru. Nasimama kwa Kanuni ya 49, naomba tu Serikali itoe maelezo juu ya jambo ambalo lilizungumzwa humu Bungeni na Mheshimiwa Spika akasema anaendelea kulifuatilia, ni suala la fedha za Bodi ya Korosho kutopelekwa mpaka sasa. Madhara yake hapa ninapoongea sasa hivi, wafanyabiashara wanaouza pembejeo za korosho wapo Jimboni kwangu na maeneo mengine ya Lindi na Mtwara wanauza pembejeo kwa fedha nyingi sana (bei ghali sana) mara mbili ya bei ya kawaida. Dawa ambayo ilikuwa inauzwa Sh.15,000 mwaka jana, mwaka huu inauzwa Sh.40,000 mpaka Sh.60,000 tena wanakopeshwa.</seg>
+          <seg xml:id="seg322">Mheshimiwa Mwenyekiti, watu wamekwenda mbali zaidi, kuna kikundi cha watu wamekwenda wanawachukulia watu shilingi elfu kumi kumi wanawaambia kwamba wametumwa watawapatia mkopo wa shilingi milioni mbili,</seg>
+          <seg xml:id="seg323">milioni moja. Kwa kuwa watu wana shida ya pembejeo, wameingia kwenye huo mtego na nina orodha ya watu zaidi ya 300 wamekubali wamerubuniwa.</seg>
+          <seg xml:id="seg324">Mheshimiwa Mwenyekiti, naomba kauli ya Serikali hizi fedha bilioni 81 ambazo ilikuwa ziende Bodi ya Korosho zikaweze ku-subsidize pembejeo, wakulima wanunue kwa bei ya nafuu ni lini zitakwenda? Tunaomba tamko la Serikali, kama limeshindikana tuelezwe kwamba limeshindikana, halitawezekana, tuendelee kwenda kukopa kwenye mabenki, tupigwe hela nyingi maana ndiyo itakuwa ndiyo style yenyewe tunavyokwenda. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u172" who="Mwenyekiti">
+          <seg xml:id="seg325">Mheshimiwa Hamida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u173" who="MheHamidaMAbdallah">
+          <seg xml:id="seg326">Mheshimiwa Mwenyekiti, ahsante sana. Nasimama kwa Kanuni ya 68(7), lakini nina- refer kwenye swali namba 421 ambalo Mheshimiwa Waziri wa Mambo ya Ndani amelitolea maelezo.</seg>
+          <seg xml:id="seg327">Mheshimiwa Mwenyekiti, masuala kama haya ya kunyanyasa wananchi yanaendelea katika maeneo ya Ng’apa, Rutamba, Milola na kuendelea hiyo barabara. Wananchi nyumba zao ziliwekewa X kipindi cha miaka mingi, lakini walipewa notisi ya siku 14 waweze kuhama na kupisha mradi wa ujenzi wa barabara. Wananchi wale hawakupewa fidia na wala hawakuoneshwa maeneo mbadala ya kuhamia baada ya kutoka katika eneo la mradi ule.</seg>
+          <seg xml:id="seg328">Mheshimiwa Mwenyekiti, vitendo hivi si vitendo vyema, wananchi leo wanahangaika na leo tingatinga linakwenda kwa ajili ya kwenda kubomoa nyumba za wananchi, wananchi wale hawakupata fidia.</seg>
+          <seg xml:id="seg329">Mheshimiwa Mwenyekiti, naomba majibu ya Serikali kwa nini Serikali imeshindwa kusimamia sheria na kuwafanya wananchi hao waweze kupata fidia zao na kuwapa maeneo mbadala ya kuhamia ili kupisha mradi wa ujenzi wa barabara ambao unaendelea kule Kijiji cha Ng’apa.</seg>
+          <seg xml:id="seg330">Mheshimiwa Mwenyekiti, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u174" who="Mwenyekiti">
+          <seg xml:id="seg331">Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u175" who="MheGoodluckAMlinga">
+          <seg xml:id="seg332">Mheshimiwa Mwenyekiti, bado Mlinga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u176" who="Mwenyekiti">
+          <seg xml:id="seg333">Bado Mlinga, haya Mheshimiwa Mlinga karibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u177" who="MheGoodluckAMlinga">
+          <seg xml:id="seg334">Mheshimiwa Mwenyekiti, ahsante sana. Naomba mwongozo wako nielekezwe utaratibu.</seg>
+          <seg xml:id="seg335">Mheshimiwa Mwenyekiti, kamati zetu zinapoagizwa na Mheshimiwa Spika zifanye hatimaye zile Kamati zinatakiwa zipeleke ile ripoti kwa Mheshimiwa Spika na Mheshimiwa Spika ndiye ataitolea majibu, huo ndiyo utaratibu ambao naufahamu mimi, bado sijapata utaratibu mwingine.</seg>
+          <seg xml:id="seg336">Mheshimiwa Mwenyekiti, kama unakumbuka wiki iliyopita niliongea kuhusu BOT kutumia fedha nyingi kwenye huduma za matibabu kuliko taasisi zote za Serikali ambazo zinafanya kazi ngumu sana na zina wafanyakazi wengi sana na zinatumia fedha kidogo kwa ajili ya matibabu tofauti na BOT. Mheshimiwa Spika aliielekeza Kamati ya PAC, Kamati ya PAC ikakaa na mimi, NHIF na BOT.</seg>
+          <seg xml:id="seg337">Mheshimiwa Mwenyekiti, mpaka sasa hivi taarifa niliyonayo kuwa Mheshimiwa Spika bado hajalitolea majibu suala hilo, lakini jana nimeona kwenye taarifa ya habari, Mwenyekiti wa Kamati ya PAC akitoa taarifa ya Kamati ambayo ni siri mpaka Mheshimiwa Spika atakapoitolea majibu akisema kuwa BOT tuhuma walizopewa si za kweli.</seg>
+          <seg xml:id="seg338">Mheshimiwa Mwenyekiti, kwa hiyo, nataka nielekezwe kuhusu utaratibu kwa sababu hata mimi nina mengi ya kuongea kuhusu hilo, lakini nimeheshimu kiti nimenyamaza</seg>
+          <seg xml:id="seg339">kimya mpaka pale Mheshimiwa Spika atakapolitolea majibu. Hata kwenye kamati yenyewe na nje nilizongwa zongwa kwa sababu ya kugusa maslahi ya watu.</seg>
+          <seg xml:id="seg340">Mheshimiwa Mwenyekiti, kwa hiyo, naomba nielekezwe kuhusu utaratibu na kama inaruhusiwa na mimi niende nikaongee na vyombo vya habari sasa hivi na nitakapoongea navyombo vya habari kuna watu watakimbia ofisi zao. Naomba kuhusu utaratibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u178" who="Mwenyekiti">
+          <seg xml:id="seg341">Ahsante sana Mheshimiwa Mlinga, hapa nimepata miongozo sita; miongozo mitatu itaweza kutolewa ufafanuzi na Serikali kama watakuwa tayari ama kama wataweza kuandaa na kuleta baadaye tutawasikiliza. Kuhusu Mheshimiwa Kubenea, jambo hili ambalo anataka tujadili hapa Bungeni kuhusu social media kufungiwa sisi haituhusu hapa Bungeni na hatuwezi kuahirisha waliofunga wana sababu zao, watakapokuwa tayari watafungua na itaendelea kama kawaida. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u179" who="Mwenyekiti">
+          <seg xml:id="seg342">Mheshimiwa Hasna, kuhusu swali lake la kanda ya reli jinsi ambavyo amejibu Mheshimiwa Waziri, litafuatiliwa na kuangaliwa na baadaye litatolewa ufafanuzi.</seg>
+          <seg xml:id="seg343">Pia Mheshimiwa Bobali ni suala la Serikali, kama watakuwa tayari watatujibu na kama bado wataweza kutuletea majibu baadaye. Mheshimiwa Hamida hali kadhalika.</seg>
+          <seg xml:id="seg344">Mheshimiwa Mlinga, hili suala ambalo limezungumzwa ni kinyume cha utaratibu, huwezi kutoa taarifa bila ya kupeleka kwanza kwa Mheshimiwa Spika. Kwa hiyo hilo litashughulikiwa na mwenyewe Mheshimiwa Spika na wewe usije ukatoa taarifa kabla ya hapo utachukuliwa hatua. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u180" who="Mwenyekiti">
+          <seg xml:id="seg345">Naomba Serikali kama wana majibu kuhusiana na ile miongozo mingine watoe, kama hawana basi tulete baadaye baada ya maandalizi; Mheshimiwa Stella Manyanya.</seg>
+          <seg xml:id="seg346">UWEKEZAJI: Mheshimiwa Mwenyekiti, kwanza nakushukuru sana kwa kunipa nafasi hii ili niweze kujibu mwongozo ambao ulikuwa umeombwa na Mheshimiwa Aida kuhusu swali namba 420.</seg>
+          <seg xml:id="seg347">Mheshimiwa Mwenyekiti, kwanza niseme tu kwamba nadhani kiti tunaomba utusaidie pande zote mbili; kwa upande wa Serikali na upande wa Waheshimiwa Wabunge, kwamba unakuta mtu anasema hajaridhika na swali wakati yeye hakuuliza swali la msingi, hiyo nadhani hatutendewi haki. Pili, unapotaka kupewa jibu unalolitaka wewe tofauti na lile ambalo Serikali imelifanyia kazi na ikaona ndiyo jibu sahihi, nadhani ni kulazimisha Serikali ifanye isivyostahili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u181" who="Mwenyekiti">
+          <seg xml:id="seg348">Mheshimiwa Mwenyekiti, kwa hiyo, niseme tu kwamba tupo hapa siyo kwa ajili ya kuwadanganya watu, tupo kwa ajili ya kusema yale ambayo ni ukweli tumeyafanyia kazi. Kwa mfano katika soko la mbaazi, soko la mbaazi tumelizungumza leo si mara ya kwanza; ni kwamba nchi imejitahidi sana kufuatilia soko la mbaazi katika nchi mbalimbali za Asia na Tanzania.</seg>
+          <seg xml:id="seg349">Mheshimiwa Mwenyekiti, katika soko la mbaazi wenzetu siku za nyuma walikuwa wana upungufu wa mbaazi kwa hiyo wakawa wanaagiza kutoka kwetu, baadaye hata Bunge lao lilikuwa limekuja juu linawaambia kwa nini mnaagiza mbaazi kutoka Tanzania wakati wananchi wetu wanakosa soko, wakaamua kwamba waanze kutumia mbaazi zako.</seg>
+          <seg xml:id="seg350">Mheshimiwa Mwenyekiti, kwa hiyo, sisi tunasema kwamba tusitumie mbaazi ambazo sisi wenyewe Watanzania tuna idadi ya watu takribani milioni 54, tunaona kwamba tukijibu hivyo ni kama tunajidhalilisha. Kwa nini hatuoni kwamba kuwa na idadi ya watu wengi hivi ni fursa kwetu?</seg>
+          <seg xml:id="seg351">Mheshimiwa Mwenyekiti, kwa hiyo, mimi ninachosema ni kwamba sisi tupo serious, tunatafuta masoko</seg>
+          <seg xml:id="seg352">ya nje lakini wakati huo huo lazima sisi wenyewe tuwe ni wanufaika wa kwanza kwa kutumia wingi wetu kufaidika na mazao yanayotoka katika nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u182" who="Mwenyekiti">
+          <seg xml:id="seg353">Mheshimiwa Mwenyekiti, naomba nikae, lakini hilo ndilo ambalo nilitaka angalau niwaambie upande wa pili.</seg>
+          <seg xml:id="seg354">Ahsante sana Mheshimiwa Stella Manyanya, Mheshimiwa Mary Mwanjelwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u183" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg355">Mheshimiwa Mwenyekiti, nakushukuru. Naomba nitoe ufafanuzi wa mwongozo ambao umetolewa na Mheshimiwa Bobali juu ya suala zima la Bodi ya Korosho katika suala la export levy pamoja na pembejeo upande ule wa sulphur. Naomba tu nilitaarifu Bunge lako Tukufu kwamba hili suala Serikali tumelichukua, linafanyiwa kazi na tutalitolea majibu kwenye ofisi yako. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2018-06-12-bunge-11-49.u184" who="Mwenyekiti">
+          <seg xml:id="seg356">Ahsante sana Waheshimiwa Mawaziri kwa majibu ya miongozo hiyo. Waheshimiwa Wabunge tumemaliza shughuli zetu za leo, nawatakia kila la kheri wote wanaomalizia mfungo mtukufu wa Mwezi wa Ramadhan na sikukuu njema ya Eid.</seg>
+          <seg xml:id="seg357">Baada ya kusema hayo, naahirisha shughuli za Bunge hadi kesho saa tatu asubuhi.</seg>
+          <seg xml:id="seg358">(Saa 4.47 Asubuhi Bunge liliahirishwa mpaka Siku ya</seg>
+          <seg xml:id="seg359">Jumatano, Tarehe 13 Juni, 2018, Saa 3.00 Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

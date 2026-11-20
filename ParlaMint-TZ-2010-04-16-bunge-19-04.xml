@@ -1,0 +1,999 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2010-04-16) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2010-04-16) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="4">4. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="19">19. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1463719733-HS-19-4-2010.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2010-04-16">16.04.2010</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u1">
+          <seg xml:id="seg1">Hitaji la Posho ya Ufundishaji kwa Walimu</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u2" who="MheEmmanuelJLuhahula">
+          <seg xml:id="seg2">Kwa kuwa Serikali imefanikiwa sana kuongeza uandikishaji wa wanafunzi wa darasa la kwanza, hali iliyosababisha wimbi kubwa la upungufu wa walimu.</seg>
+          <seg xml:id="seg3">Je, Serikali itakubaliana nami kuwa muda huu ni muda muafaka wa kutoa posho ya ufundishaji (Teaching Allowance) ili kuwapatia motisha walimu ambao ni wachache kila shule?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u3" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg4">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri Mkuu naomba kujibu swali la Mheshimiwa Emmanuel Jumanne Luhahula, Mbunge wa Bukombe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">Mheshimiwa Spika, nakubaliana na usemi wa Mheshimiwa Mbunge kwamba Serikali imefanikiwa katika uandikishaji wa wanafunzi wa darasa la kwanza.</seg>
+          <seg xml:id="seg6">Aidha, naomba nieleze kwamba mafanikio haya yamepatikana katika utekelezaji wa Mpango wa Maendeleo ya Elimu ya Msingi (MMEM) ambao ulianza kutekelezwa mwaka 2001. Katika mpango huo kwa kila mwaka tumefanikiwa kuandikisha takriban idadi ya wanafunzi 1,000,000 wenye umri wa kwenda shule.</seg>
+          <seg xml:id="seg7">Mheshimiwa Spika, katika mpango huo vilevile, shule nyingi za msingi na sekondari zimejengwa na zinahitaji idadi kubwa ya walimu. Serikali inaendelea na juhudi za kuhakikisha kuwa udahili wa kutosha unafanyika katika vyuo vya ualimu na vyuo vikuu ili tupate idadi ya kutosha ya walimu katika elimu ya msingi na sekondari, jambo ambalo tunaamini litapunguza mzigo wa kazi kwa mwalimu (work load) na hivyo kuleta ufanisi.</seg>
+          <seg xml:id="seg8">Mheshimiwa Spika, kuhusu posho ya ufundishaji wa walimu, wote tunakumbuka kwamba Serikali iliwahi kutekeleza utaratibu huo kwa walimu kupatiwa posho ya ufundishaji.</seg>
+          <seg xml:id="seg9">Hata hivyo, kupitia Ofisi ya Rais, Menejimenti ya Utumishi wa Umma Serikali iliona kuwa ni busara posho ya aina hiyo pamoja na posho zingine kama posho ya usafiri watumishi ziingizwe katika mshahara wa mtumishi ili kiwango cha mshahara kiongezeke</seg>
+          <seg xml:id="seg10">ili pia mafao ya watumishi baada ya kustaafu yaweze kuwa mazuri kwani mafao hayo yanategemea mshahara wa mwisho wa mtumishi baada ya kustaafu.</seg>
+          <seg xml:id="seg11">Mheshimiwa Spika, Serikali hivi sasa inaongeza juhudi za kuboresha mazingira ya kazi kwa walimu na watumishi wengine ili kuongeza motisha katika kazi. Aidha, Serikali inaendelea kuboresha mishahara ya watumishi kwa kutegemea kiwango cha ukuaji wa uchumi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u4" who="MheEmmanuelJLuhahula">
+          <seg xml:id="seg12">Mheshimiwa Spika, nimpongeze Mheshimiwa Naibu Waziri na Serikali kwa majibu waliyonipa lakini naomba niulize maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg13">Kutokana na takwimu za Serikali hali ya ukuaji wa uchumi wa Taifa umeongezeka na kwa sababu katika swali jibu lake la msingi amesema wataboresha maslahi haya mara tu uchumi wa taifa utakapoongeza. Sasa nasema ni lini sasa maslahi mishahara itaboreshwa ili walimu hawa na watumishi wengine wafanye kazi kwa motisha zaidi?</seg>
+          <seg xml:id="seg14">Kwa kuwa uwiano wa walimu wilaya Bukombe kwa wanafunzi ni moja kwa sabini na mbili wakati huo uwiano katika mikoa mingine uwiano ni moja kwa sabini na mbili wakati huo katika mikoa mingine ni moja kwa thelathini na nane, tuliwahi kupata takwimu hapa moja kwa arobaini. Kutokana na hali hii walimu katika wilaya ya Bukombe na mkoa mzima wa Shinyanga wanapata shida sana ya kufundisha. Serikali inaahidi ni lini sasa kwa sababu imeongeza sana idadi ya walimu na nini ni lini sasa itamaliza tatizo hili ili uwiano wa walimu kwa walimu katika wilaya ya Bukombe na mkoa wa Shinyanga uwe moja kwa arobaini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u5" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg15">Mheshimiwa Spika, hizi takwimu na haya maelezo anayoyatoa Mbunge ninayaelewa, wenzetu wa Uganda wametumia huu utaratibu huu ambao Mheshimiwa Luhahula anauzungumzia kwamba uchumi unapopanda wakati huo huo na mafao pamoja na marupurupu ya wafanyakazi unapanda accordingly kwa hiyo, anachosema hapa ni kwamba ukiangalia statistics zinaonyesha kwamba uchumi wa nchi umekuwa kwa hiyo automatically inamaana kwamba watumishi wote wanaweza wakaongezewa. Sasa ninachoweza kusema hapa hapa ukizungumza habari ya walimu unazungumza sekta moja tu hapa unazungumza habari ya watumishi katika nchi nzima.</seg>
+          <seg xml:id="seg16">Kwa hiyo, unaposema sasa kuna haja ya kuliangalia hili na najua kwamba kuna Wizara ambazo zinashughulikia jambo hili ambalo analizungumza hapa utumishi wanaliangalia, Wizara ya Fedha wanaliangalia wote kwa pamoja. Ni kweli kabisa ni ukweli usiopingika uchumi unapopanda basi maana yake uwezo wako umeongezeka.</seg>
+          <seg xml:id="seg17">Lakini niseme tu kwamba hapa hili si jambo ambalo unaweza ukaliangalia tu hapa ni suala pia ambalo Bajeti implication yake tunachojua ni kwamba 40% ya pesa inayotumika katika nchi hii katika bajeti inatoka nje na 60% ndiyo ambayo tuna-generate sisi wenyewe pamoja na kwamba uchumi unaonyesha kwamba umekuwa.</seg>
+          <seg xml:id="seg18">Mheshimiwa Spika, hili analolizungumza hapa anazungumza habari ya economic growth, lakini sisi tunataka pia tuione pia economic development yake ndicho anachokizungumza hapa huu ni mjadala mpana sana. Nataka niseme kwamba tunaiona na mimi ninahakika kwamba utaratibu wa kiserikali ni huo kwamba tutaangalia sasa ni kwa kiasi gani tunaweza tukabeba hilo jukumu ili tuweze kuingia siwezi kujibu hapa nikasema kwamba kutoka sasa natangaza kwamba tutaongeza mishahara ya walimu na posho zao, siwezi kufanya hivyo kwa ni jambo ambalo litakuja sasa kibajeti.</seg>
+          <seg xml:id="seg19">La pili, amezungumza habari la uwiano hili nakiri kabisa mimi nimekwenda mpaka Bukombe, nimekwenda mpaka Ushirombo, liko tatizo kubwa la walimu katika eneo lile, na nakubaliana naye kwamba kuna tatizo hilo hapo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u6" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg20">Lakini tatizo hili linatokea katika nchi nzima, ninachoweza kuahidi hapa ni kwamba sisi tutaenda kuangalia pale tutakapoona kwamba tunaweza tukapata walimu kwa ajili ya kusaidia kwa sababu kwa kweli hili tatizo la Bukombe analozungumza hapa ni kubwa, tutasaidia kuondoa hilo tatizo la walimu ili tuweze kwenda kwenye hiyo ratio ambayo inazungumziwa hapa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u7" who="MheLucasLSelelii">
+          <seg xml:id="seg21">Mheshimiwa Spika, nashukuru kwa kuniona, kwa kuwa walimu wanaolalamikiwa kwa posho ya ufundishaji ni sehemu tu ya watumishi wengi walioko kwenye nchi nzima ambao wamefikia hata kutishia kufanya mgomo nchi nzima kwa kulalamikia mafao madogo ikiwepo posho na mishahara yao mbali mbali.</seg>
+          <seg xml:id="seg22">Je, katika hili Serikali inasemaje au inasikiaje kilio cha watumishi hawa ambao ni muhimi sana kwa nchi yetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u8" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg23">Mheshimiwa Spika, mimi ninachojua ni kwamba hata Rais mwenyewe amezungumza habari ya kukaa kwa pamoja Serikali izungumze na Wafanyakazi. Kwa kukaa mezani kwa kuzungumza kwa pamoja Serikali imesema itakuwa tayari kusikiliza. Mimi ninayejibu hapa swali hili nakuwa mwangalifu kwa sababu Wafanyakazi wananisikiliza na Serikali inanisikiliza. Maombi yangu mimi ni kwamba watumishi wakubali kukaa na Serikali na kuzungumzia suala la mafao yao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u9" who="MheDianaMChilolo">
+          <seg xml:id="seg24">Mheshimiwa Spika, ahsante kwa kuniona. Kwa kuwa walimu zamani walikuwa wanapewa posho za kufundishia ambazo zilikuwa</seg>
+          <seg xml:id="seg25">zinawaongezea moyo sana katika ufundishaji wao, na kwa kuwa siku moja nimeshawahi kujibiwa hapa kwamba posho za walimu zilishaunganishwa kwenye mishahara yao. Je, Serikali itakuwa tayari kuainisha ni asilimia ngapi ya posho ambayo imeunganishwa kwenye mishahara yao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u10" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg26">Mheshimiwa Spika, kwanza kabisa mimi nimshukuru kwamba anakubali kwamba ni kweli kwamba hizi posho zilishatumbukizwa katika mishahara. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u11" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg27">Ninachoweza kusema hapa kama sasa anataka apate mchanganuo tutakwenda kumtafutia kwa sababu walimu wanaozungumzwa hapa ni walimu wale ambao wanaingia. Walimu wa Grade A, ambao wanapoingia Basic Salary yao ni Shilingi 174,000/= makato yakishafanyika mle ndani yale ya kodi na vile vitu vingine vidogo vidogo ambavyo Serikali inawawekea na bima. Take home ya huyu Mwalimu wa Grade A ni shilingi 147,300 ndizo wanazopata. Sasa anataka mimi nikamtafutie pale kwamba ni kiasi gani ambacho kimeingia kama posho, nitakwenda kufanya hivyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 40. Uharibifu wa Mazingira Katika Fukwe za Kigamboni</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u12" who="MheDrHajiMwitaHaji">
+          <seg xml:id="seg28">Kwa kuwa, kumekuwa na mmonomyoko mkubwa sana katika fukwe za Pwani ya Kigamboni (Kivukoni) kati ya maeneo ya Chuo cha Kumbukumbu ya Mwalimu Nyerere hadi Pwani ya majengo ya TIPPER na kuathiri majengo ya sehemu hizo.</seg>
+          <seg xml:id="seg29">Je, Serikali inafahamu hali hiyo na inasema nini?</seg>
+          <seg xml:id="seg30">Je, Serikali haioni kuwa, kuachiwa kuendelea kwa hali hyo ya uharibifu wa mazingira bila ya kuchukuliwa hatua za dharura kutaleta hasara kubwa baadaye?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u13" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg31">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Haji Mwita Haji, Mbunge wa Muyuni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg32">Serikali inafahamu kuwepo kwa mmomonyoko katika ufukwe wa Pwani ya Kigamboni (Kivukoni) katika maeneo ya Chuo cha Kumbukumbu ya Mwalimu Nyerere hadi pwani ya maeneo ya majengo ya TIPPER. Uharibifu wa mazingira ya pwani hasa ufukwe umekuwa ukichangiwa kwa sehemu nyingi ikiwepo ni matumizi yasiyo endelevu ya raslimali za pwani kama vile upasuaji wa matumbawe kwa ajili ya kutengeneza chokaa, uvuvi haramu wa kutumia baruti pamoja na ukataji wa miti aina ya Mikoko.</seg>
+          <seg xml:id="seg33">Miti hii aina ya Mikoko ina kazi kubwa ya kuzuia mmomonyoko wa fukwe kwa kuthibiti au kupunguza kasi ya mawimbi ya bahari. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u14" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg34">Mheshimiwa Spika, hivi karibuni wanasayansi wamethibitisha kuwa mabadiliko ya tabia nchi yanasababisha kuongezeka kwa kina cha bahari na hivyo basi kuchangia kwa kiasi kikubwa katika kuongezeka kwa tatizo hili la uharibifu wa fukwe (Beach Erosion).</seg>
+          <seg xml:id="seg35">Mheshimiwa Spika, ni kweli Serikali inatambua kuwa kuachwa bila kuchukua hatua za kudhibiti tatizo hili kutaleta madhara zaidi katika nyanja mbalimbali, kwani hadi sasa nyumba moja ya TAFICO imebomoka kutokana na mmomonyoko huo. Lakini pia nyumba mbili za Mwalimu Nyerere Memorial Academy zimepata nyufa kutokana na mmomonyoko huo, ndiyo maana Serikali imechukua hatua mbalimblai hasa kufuatia ziara ya Waziri wa Nchi, Ofisi ya Makamu wa Rais, Mazingira kutembelea maeneo haya akiwepo na wataalam na kufanya ukaguzi.</seg>
+          <seg xml:id="seg36">Mheshimiwa Spika, hatua iliyofuata ni kuitishwa kwa kikao cha pamoja chini ya uratibu wa Baraza la Hifadhi na Usimamizi wa Mazingira (NEMC) kilichowahusisha Mkurugenzi wa Jiji la Dar es Salaam, Manispaa ya Temeke, Manispaa ya Ilala, Mwalimu Nyerere Memorial Academy, Tnzania Fisheries Corporation (TAFICO), Mamlaka ya Bandari Tanzania (Tanzania Ports Authority), SUMATRA na Wizara ya Ardhi na Maendeleo ya Makazi. Moja ya maamuzi yaliyofikiwa ni kuandaa tathmini ya gharama na kila sekta kupanga fungu la kuchangia.</seg>
+          <seg xml:id="seg37">Mheshimiwa Spika, Serikali inaandaa mkakati wa muda mrefu wa jinsi ya kudhibiti suala hili kwa kutenga fedfha kutoka katika vyanzo vyetu vya ndani na kutafuta fedha kutoka kwa wafadhili ili kuweka miundombinu mbalimbali ikiwa ni pamoja na ujenzi wa ukuta kwa maeneo ambayo yameathirika zaidi. Aidha, Serikali imeandaa mkakati wa kuhifadhi mazingira ya Pwani, bahari, maziwa, mabwawa na mito ambao unatoa mchango mkubwa katika suala zima la hifadhi ya mazingira ya Pwani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u15" who="MheDrHajiMwitaHaji">
+          <seg xml:id="seg38">Mheshimiwa Spika, ahsante kwa kunipa nafasi kuwa na maswali mawili madogo ya nyongeza. Ikiwa kama Serikali inaelewa wazi hali hii na mikakati ambayo tayari walishawasiliana katika au sekta mbali mbali kwa nini suala hili lisichukuliwe kama ni la dharura badala ya kwamba inaandaa mkakati wa muda mrefu, muda mrefu huu hata ukifika chuo hicho si kishaanguka kabisa, kwanini lisichukuliwe suala hili kama ni la dharura na likachukuliwa kama ni maafa wakishirikiana na sekta zote hizo zilivyo?</seg>
+          <seg xml:id="seg39">Swali la pili, ni kuhusu hiki chuo cha Taasisi ya Mwalimu Nyerere, kwa vile majengo haya yanaambatana na chuo majengo ya TIPPER, vipi Serikali haiwezi ikafanya utaratibu wakati inaposanya tathimini ikachukua haya majengo ya TIPPER ikapeleka katika chuo cha Mwalimu Nyerere ili kuongezea kuliko kungojea majengo haya yakamalizika kabisa bila ya kazi yoyote?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u16" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg40">Mheshimiwa Spika, kwa ridhaa yako naomba kujibu maswali mawili ya Nyongeza ya Mheshimiwa Dr. Haji Mwita Haji, Mbunge wa Mbuyuni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg41">Kwanza Serikali inachukulia suala hili ni dharura, na ndiyo maana katika hatua za muda mfupi tumeona kwamba tufanye tathimini ya gharama halisi itakayoweza kuhitajika. Lakini vilevile tuangalie ukarabati wa aina gani utafanyika. Kwa watu ambao wamefika katika eneo lile, eneo lile ni bonde kubwa na kiasi cha ukarabati ama ujenzi utakaohitajika kufanyika ni ujenzi ambao utahitajika ufanywe kwa kuweza kudhibiti kuanguka kwa kuta ambayo imebaki kidogo sana kumeguka.</seg>
+          <seg xml:id="seg42">Kwa hiyo, tulichokifanya ni kupata gharama na katika kipindi hiki cha Bajeti ambayo tumebakiza miezi miwili, fedha hizo zitaanza kupatikana na sisi tunategemea kupata fedha za ufadhili kutoka UNDP na katika fedha hizo tutatenga fedha kiasi kwa ajili ya kushughulikia suala hili. Ama kuhusu kuchukua maeneo ya TPPER suala hili tunaomba tulichukue na tuweze kuangalia kama kuna uwezekano huo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u17" who="MheMwinchoumAMsomi">
+          <seg xml:id="seg43">Mheshimiwa Spika, pamoja na hatua za makusudi zilizochukuliwa na Serikali kwa ajili ya eneo hilo maalum, lakini tatizo hili sugu kwa ukanda huu wa bahari ya kutoka eneo la Ferry hadi Pemba Mnazi, kuna maeneo ambayo tayari hivi sasa yamemezwa na bahari nyumba, misikiti na magofu mengi yameshaliwa na bahari.</seg>
+          <seg xml:id="seg44">Je, Serikali kupitia ofisi ya Makamu wa Rais ina mkakati gani maalum ukiacha huo wa eneo la Chuo cha Kivukoni pale kwa kuanzia eneo la Gezaulole, Mjimwema na kwingineko kuchukua hatua kama hizo ambazo zimeandaliwa kwa ajili ya eneo cha chuo cha Mwalimu Nyerere pale, tatizo ni sugu na kuna hatari kubwa inayokuja mbele yetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u18" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg45">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mwinchumu, Mbunge wa Kigamboni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg46">Ni kweli tatizo hilo ni sugu na katika maeneo mengi ya fukwe za Bahari yetu na ndiyo maana Ofisi ya Makamu wa Rais inayoshughulikia mazingira wamefanya tathmini kwa kushirikiana na Wataalamu kutoka Chuo Kikuu ili kuona madhara ya tabianchi katika fukwe zetu.</seg>
+          <seg xml:id="seg47">Athari iliyopatikana kutokana na tafiti hiyo ni kubwa na inaenea katika maeneo mengi ya fukwe za nchi yetu na ndiyo maana tumeona kwamba sasa hivi katika fedha ambazo tumepata kutoka katika mfuko wa dunia wa mazingira takribani dola milioni 3.5 kiasi kitakwenda katika ujenzi wa Pangani ambapo tunategemea mtaalamu aliyechaguliwa kutoka Canada atafika mwezi ujao na kuanza utaratibu mzima wa kujenga ukuta katika eneo la Pangani na gharama itakuwa takribani dola milioni moja lakini tutabakiwa na dola milioni 2.5 ambazo katika utekelezaji wa mradi huo kupitia mkutano wa pamoja wa awali utakaoanzisha tutaangalia pia utaratibu wa kusaidia</seg>
+          <seg xml:id="seg48">maeneo mengine ambayo Mheshimiwa Mbunge ameyataja ikiwa ni pamoja na Kigamboni na maeneo mengine ya nchi yetu.</seg>
+        </u>
+        <note>Na. 41. Ukuaji wa Kina cha Bahari na Maeneo</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u19" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg49">Kumegwa na Bahari</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u20" who="MheParmukhSinghHoogan">
+          <seg xml:id="seg50">Kwa kuwa, mabadiliko ya hali ya hewa ulimwenguni yamesababisha ukuaji wa kina cha bahari na baadhi ya sehemu za nchi kavu kumegwa na bahari na kwa kuwa, hali hii ikiendelea kutakuwa na athari kubwa ikiwa ni pamoja na kutoweka kwa visiwa vyetu:-</seg>
+          <seg xml:id="seg51">(a) Je, Serikali inatambua kuwepo kwa hali hiyo?</seg>
+          <seg xml:id="seg52">(b) Je, Serikali inachukua hatua gani za makusudi za kuokoa hali hiyo ambayo</seg>
+          <seg xml:id="seg53">inaonekana sana katika maeneo ya Maisara, Kiungani, Kilimani na maeneo</seg>
+          <seg xml:id="seg54">mengineyo katika jimbo la Kikwajuni?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u21" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg55">Mheshimiwa Spika, kwa ridhaa yako naomba kujibu swali la Mheshimiwa Parmukh Singh Hoogan, Mbunge wa Kikwajuni, lenye sehemu (a) na (b) kwa pamoja, kama yafuatavyo:-</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u22" who="Spika">
+          <seg xml:id="seg56">Mheshimiwa Waziri haya majina ya shemeji zako lazima uanze kuyazoea. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u23" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg57">Ni kweli!</seg>
+          <seg xml:id="seg58">Mheshimiwa Spika, Serikali inatambua kuwepo kwa athari za mabadiliko ya tabianchi katika maeneo haya ya Maisara, Kiungani na Kilimani na maeneo mengine ya kisiwa cha Unguja kama vile Jambiani, Nungwi na Kizingo na maeneo mengine ya Pemba.</seg>
+          <seg xml:id="seg59">Kwa sasa, hii imekuwa ni changamto kubwa inayoikabili dunia. Tatizo hili limesababishwa na kuongezeka kwa uzalishaji wa gesijoto (Greenhouse Gases (GHG)</seg>
+          <seg xml:id="seg60">kutokana na shughuli za viwanda katika nchi zilizoendelea. Uzalishaji huu wa gesijoto unasababisha mrundikano wa gesijoto katika anga la dunia na hivyo kuleta ongezeko la joto ambalo ndilo chanzo kubadilika kwa mfumo wa tabianchi wa dunia.</seg>
+          <seg xml:id="seg61">Mheshimiwa Spika, baadhi ya athari za mabadiliko ya tabianchi tunazozishuhudia sasa hivi ni pamoja na kuongezeka kwa matukio ya mafuriko na ukame katika maeneo mbalimbali ambayo yanaathiri upatikanaji wa chakula na maji safi kwa binadamu na wanyama; kuongezeka kwa kina cha maji baharini; kumezwa kwa baadhi ya visiwa vidogo; kuharibiwa kwa ukanda wa pwani. Mfano mwambao wa Unguja, Pemba, Pangani na delta ya Rufiji; na kuenea kwa magonjwa na kuambukiza na yale ya mlipuko kama vile Malaria, Homa ya Bonde la Ufa na kadhalika. Ni kutokana na ukweli huu, Serikali imekuwa ikichukua hatua mbalimbali katika kukabiliana na tatizo hili.</seg>
+          <seg xml:id="seg62">Mheshimiwa Spika, ama kuhusu hatua za makusudi ambazo Serikali kupitia Wizara ya Kilimo, Mifugo, Maliasili na Mazingira ya Serikali ya Mapinduzi ya Zanzibar, imeanza kuchukua hatua kufuatia madhara yaliyojitokeza katika maeneo ya Maisara, Kiungani, Kilimani na maeneo mengineyo ya Unguja na Pemba na kwa ujumla tathimini ya ujumla ya maeneo haya na mengine ya fukwe za Zanzibar. Utafiti huu ulifanyika kwa kushirikisha Kitivo cha Sayansi ya Bahari na Idara ya Mazingira Zanzibar ili kuandaa mpango wa kudhibiti tatizo hili.</seg>
+          <seg xml:id="seg63">Hivi sasa utaratibu unaokusudiwa kufanyika katika maeneo hayo anapotoka Mheshimiwa Mbunge ni pamoja na kuweka mkakati wa kujenga ukuta kwa kushirikiana na mradi wa Marine Costal and Environmental Management Programme (MACEP).</seg>
+          <seg xml:id="seg64">Mheshimiwa Spika, Serikali ya Jamhuri ya Muungano kwa upande wake imefanya tathimini mbalimbali kuhusu mabadiliko ya tabianchi na athari zake kisekta ikiwepo mazingira ya ukanda pwani, ili kubaini ukubwa wa tatizo pamoja na kupendekeza hatua za kisera na kiutendaji kukabiliana na tatizo hili.</seg>
+          <seg xml:id="seg65">Mheshimiwa Spika, maandalizi ya mpango kazi wa kitaifa wa mabadiliko ya tabianchi ambazo utazingatia athari zilizobainzishwa katika tathimini pamoja na taarifa za kitaalam yameanza kufanyika.</seg>
+          <seg xml:id="seg66">Aidha fedha zimetengwa kwa ajili ya utekelezaji wa mradi wa kusaidia ukanda wa pwani kuhimili athari za mabadiliko ya tabianchi utakaotekelezwa huko Zanzibar, Pangani, Rufiji pamoja na Bagamoyo kutoka mfuko wa Mazingira wa Dunia (Global Environmental Fund), kwa sasa maandalizi ya mwisho ya mradi yanaendelea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u24" who="MheMudhihirMMudhihir">
+          <seg xml:id="seg67">Mheshimiwa Spika, nakushukuru kwa kuniona.</seg>
+          <seg xml:id="seg68">Kwa kuwa, kumomonyoka kwa fukwe za Bahari kumeenea katika nchi nzima kuanzia kule Moa Tanga mpaka Msimbati Mtwara zikiwemo na fukwe za Mchinga ambapo vijana wameamua kupanda mikoko na kujizuia kuchimba Matumbawe.</seg>
+          <seg xml:id="seg69">Na kwa kuwa, vijana wa Mchinga 400 wamesalimisha nyavu ndogo zinazoharibu mazalia ya Samaki na kuharibu fukwe, Je, isingekuwa vizuri sasa pesa za MACEP zilizotajwa na Mheshimiwa Waziri zikaenda kufanya kazi haraka kununua nyavu zinazotakiwa kwa vijana hawa 400 wa Mchinga ili kuwa njia mojawapo ya kuzuia kumomonyoka kwa fukwe za Bahari.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u25" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg70">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mudhihir Mudhihir, Mbunge wa Mchinga, kama ifuatavyo:-</seg>
+          <seg xml:id="seg71">Kwanza nianze kwa kumpongeza Mheshimiwa Mbunge kwa jitihada zake za kuhamasisha vijana kuweza kuzuia uharibifu wa mazingira katika maeneo ya Pwani kwa kupanda mikoko. Niseme tu kwamba Ofisi yetu itashirikiana naye kupitia mkakati wetu wa kutunza mazingira ya Pwani ya Bahari, fukwe na maeneo ya maziwa na mabwawa kwa kuweza kuwasaidia katika jitihada hizi za kupanda mikoko.</seg>
+          <seg xml:id="seg72">Aidha, pendekezo lake na wazo lake la kuomba mradi wa MACEP kuweza kutoa nyavu na ufadhili zaidi katika maeneo ya uvuvi. Naomba niseme kwamba suala hili tutaongea na Waziri anayehusika ambaye ni wa Wizara inayoshughulika na masuala ya uvuvi ili tuweze kuona jinsi gani tunaweza kuwasaidia vijana wa Mchinga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u26" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg73">Mheshimiwa Spika, kwanza namshukuru sana Mheshimiwa Waziri kwa majibu yake mazuri lakini napenda tu niongeze katika jibu katika swali lililoulizwa na Mheshimiwa Mudhihir Mudhihir kwamba hadi sasa hivi kupitia mradi wa MACEP zimeshatolewa bilioni 5 ambazo zimehusisha Halmashauri 16 kuanzia Moa hadi Msimbati ambapo kuna kumla ya kilomita 1422 na katika Wilaya ya Mchinga inahusika.</seg>
+          <seg xml:id="seg74">Lakini nataka kusema tu kwamba katika mradi wa MACEP II tungemwomba Mheshimiwa Mudhihir awahamasishe wananchi katika jimbo lake ili waweze kuibua miradi mingi zaidi na ninataka kumdhibitishia kwamba miradi itakayoibuliwa katika jimbo lake la Mchinga na wananchi wake tutaishughulikia katika mradi wa MACEP na hasa kwa kuzingatia anafanya kazi nzuri sana katika Jimbo lake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u27" who="MheRitaLMlaki">
+          <seg xml:id="seg75">Mheshimiwa Spika, nashukuru kwa kunipatia nafasi hii. Nimefurahishwa sana na jibu la Mheshimiwa Waziri kuwa Serikali kwa kupitia mpango wa Global Environmental Fund ina mpango wa kuhifadhi fukwe mbalimbali zikiwemo Pangani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u28" who="MheRitaLMlaki">
+          <seg xml:id="seg76">Je, Mheshimiwa Waziri anaweza akatuambia kama fukwe nzuri kuliko zote Tanzania zilizopo Jimbo la Kawe hususani Mbweni, Ununio, Bahari Beach, Kunduchi, Mbezi Beach na Msasani ziko katika mpango huo wa kuhifadhiwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u29" who="WaziriWaNchiOfisiYaMakamuWaRaisMazingira">
+          <seg xml:id="seg77">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Rita Mlaki, Mbunge wa Kawe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg78">Kwanza nimshukuru na kumpongeza kwa jitihada kubwa anazozifanya katika jimbo lake, lakini pia nimweleze tu kwamba ni kweli katika mpango wetu na katika fedha hizo zilizotengwa ni kusaidia maeneo ya fukwe za Bahari ya nchi yetu lakini kipaumbele cha kwanza kilikuwa ni kujenga ukuta ule wa Pangani na kama tulivyosema katika mkutano wa awali wa mradi Inception Project, Seminar au Consultation tutawaita wadau mbalimbali na katika mkutano huo ndiyo tutaweza kuingiza maeneo ambayo pia tutayaona ni maeneo ya umuhimu.</seg>
+          <seg xml:id="seg79">Mimi napenda tu kumwomba Mheshimiwa Mbunge tushirikiane kwa sababu katika maeneo mengine matatizo makubwa tunayapata sisi kutokana na shughuli mbalimbali za binadamu hasa ukataji wa mikoko.</seg>
+          <seg xml:id="seg80">Kwa hiyo, tushirikiane katika maeneo ambayo mikoko ipo au iliyokatwa iweze kupandwa lakini na sisi kwa upande wetu tutahakikisha kwamba maeneo ya fukwe zetu ambazo zimeharibika zinaweza kuhifadhiwa na kuzuia maeneo yale ambayo maji ya Chumvi ya Bahari yanaingia katika visima vya wananchi na kusababisha wananchi wakose maji safi na salama. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 42. Hali ya Kilimo Jimbo la Iramba Magharibi</note>
+        <note>(K.n.y. MHE. JUMA H. KILIMBAH</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u30" who="MheMarthaMMlata">
+          <seg xml:id="seg81">Kwa kuwa, kilimo ni uti wa mgongo na tegemo kubwa kwa uchumi wa Taifa na wananchi wa jimbo la Iramba Magharibi na Mkoa wa Singida wanategemea kilimo cha mvua ambazo ni za kubahatisha; na kwa kuwa, wakulima kwenye Jimbo la Iramba wanategemea kilimo cha jembe la mkono na lile la kukokotwa na wanyama:-</seg>
+          <seg xml:id="seg82">(a) Je, Serikali inaweza kueleza katika mikakati yake ya kuendeleza kilimo</seg>
+          <seg xml:id="seg83">cha kisasa jimbo la Iramba Magharibi linazo trekta ngapi zinazofanya</seg>
+          <seg xml:id="seg84">kazi, na Serikali imepokea maombi mangapi ya wakulima wakiomba</seg>
+          <seg xml:id="seg85">mikopo ya trekta kuptia mfuko wa pembejeo?</seg>
+          <seg xml:id="seg86">(b) Je, ni ukubwa wa ekari ngapi hulimwa na hizo trekta zilizopo na ngapi</seg>
+          <seg xml:id="seg87">zinalimwa kwa jembe la mkono na lile la kukokotwa na wanyama,</seg>
+          <seg xml:id="seg88">tofauti yake ni ekari ngapi?</seg>
+          <seg xml:id="seg89">(c) Je, Serikali inatoa ushauri gani kwa wakulima wa jimbo la Iramba</seg>
+          <seg xml:id="seg90">Magharibi katika kufanya mapinduzi ya kilimo kitakacholeta tija na</seg>
+          <seg xml:id="seg91">mazao yenye ubora?</seg>
+          <seg xml:id="seg92">SPIKA : Kabla sijamwita Mheshimiwa Naibu Waziri wa Kilimo Chakula na Ushirika kujibu swali, naomba niwakumbushe tu Wabunge Wanawake, mnajua mna mitindo mingi na siku nyingine siyo rahisi moja kwa moja kuwatambua. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u31" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg93">Mheshimiwa Spika, kwa niaba ya Waziri wa Kilimo, Chakula na Ushirika napenda kujibu swali la Mheshimiwa Juma Hassan Kilimbah, Mbunge wa Iramba Magharibi, lenye vipengele (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg94">(a) Mheshimiwa Spika, hadi Mwezi Machi, Mwaka 2010, takwimu zinaonyesha kuwa Wilaya ya Iramba ina jumla ya matrekta makubwa 24 na matrekta madogo ya mkono (Power Tillers) 25 yanyofanya kazi kwa uhakika. Aidha, mfuko wa Taifa wa Pembejeo umepokea jumla ya maombi manne (4) kwa ajili ya kununua matrekta mapya na ombi moja ni kwa ajili ya kukarabati trekta. Waombaji watatu wa mikopo ya matrekta mapya tayari wamepatiwa mikopo yao. Mfuko wa Taifa wa pembejeo umepokea maombi mengine mapya ya wakulima 5 na unaendelea na mchakato wa kukopesha wakulima hao kufuatana na taratibu za mkopo zilizopo.</seg>
+          <seg xml:id="seg95">(b) Mheshimiwa Spika, Wilaya ya Iramba ina ukubwa wa eneo la hekta 790,000. Eneo linalofaa kwa kilimo ni hekta 350,000, sawa na asilimia 44 ya eneo lote.</seg>
+          <seg xml:id="seg96">Kati ya eneo hilo linalofaa kwa kilimo, eneo linalotumika ni hekta 100,320 sawa na 29%. Eneo linalolimwa kwa jembe la mkono ni hekta 15,048 sawa na 15%; eneo linalolimwa kwa kutumia wanyama kazi ni hekta 79,253 sawa na 79% na linalotumia matrekta ni hekta 6,019 sawa na 6%.</seg>
+          <seg xml:id="seg97">(c) Mheshimiwa Spika, ili kuleta mapinduzi ya kilimo yenye tija na mazao yenye ubora kwa kasi kubwa, viongozi wa Wilaya ya Iramba ikiwa ni pamoja na Mheshimiwa Mbunge, wanashauriwa kuhakikisha kuwa, Halmashauri ya Wilaya inaandaa na kusimamia kikamilifu utekelezaji wa mpango wa Wilaya wa kuendeleza kilimo (DADPs).</seg>
+          <seg xml:id="seg98">Pamoja na masuala mengine mpango huo uhakikishe unalenga katika kilimo cha umwagiliaji maji kuimarisha huduma za ugani, matumizi ya wanyamakazi, upatikanaji na matumizi sahihi ya pembejeo, usindikaji na masoko vinapewa kipaumbele.</seg>
+          <seg xml:id="seg99">Mheshimiwa Spika, napenda kukumbusha Mheshimiwa Kilimbah kwamba kati ya mwaka 2000 na 2004, Mkoa wa Singida ulitekeleza dhana ya mbinu shirikishi jamii kwa mafanikio makubwa. Natoa wito kwamba, chini ya DADPs mbinu hiyo iimarishwe na kutekelezwa, kwa kiwango na kasi kubwa zaidi, ili kuleta mapinduzi ya kilimo endelevu Wilayani Iramba na mkoa wa Singida kwa ujumla. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u32" who="MheMarthaMMlata">
+          <seg xml:id="seg100">Mheshimiwa Spika, namshukuru Mheshimiwa Naibu Waziri kwa majibu yake mazuri lakini ninapenda kuuliza maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg101">Swali la kwanza, kutokana na ukubwa wa eneo la kilimo katika Wilaya ya Iramba alilotaja na inaonesha kwamba ni 6% tu ya eneo lote linalofaa kwa kilimo linalimwa kwa kutumia trekta. Sasa Mheshimiwa Naibu Waziri atakubaliana na mimi kwamba Elimu ya kilimo cha matrekta pamoja na uhamasishwaji wa kukopa matrekta bado haijatolewa vya kutosha katika Wilaya ya Iramba hususani katika jimbo la Iramba Magharibi na hivyo atoe maelekezo ili wakulima wapatiwe Elimu ya kutosha.</seg>
+          <seg xml:id="seg102">Swali la pili, amegusia kuhusu kilimo cha umwagiliaji. Je, Naibu Waziri anafahamu kwamba hakuna miundombinu ya kutosha kwa kutumia kilimo cha umwagiliaji katika jimbo la Iramba Magharibi hivyo atume Wataalamu wake na aishawishi Serikali iweke miundimbinu ya kilimo cha umwagiliaji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u33" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg103">Mheshimiwa Spika, napenda kujibu maswali mawili ya Mheshimiwa Martha M. Mlata, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg104">Mheshimiwa Spika, kuhusiana na suala la Elimu ya Utumiaji wa matrekta inatolewa kila siku na kila mara kwa njia mbalimbali zikiwemo vijarida, TV na Radio. Kwa hiyo, nina uhakika kabisa wananchi wale kwa sasa ni kuwakumbushia tu lakini wanajua umuhimu wa matrekta na ndiyo maana wengi wao tayari wameshachukua mikopo ile ya matrekta.</seg>
+          <seg xml:id="seg105">Lakini namwomba Mheshimiwa Mbunge kwa kushirikiana na Halmashauri za Mkoa wa Singida basi tuendelee kuwahamasisha wananchi ili waone umuhimu wa kutumia matrekta ili waweze kuzalisha zaidi.</seg>
+          <seg xml:id="seg106">Lakini hasa hasa ni taratibu za kukopa kwamba wananchi wajitahidi kuwa na Hati Miliki ili waweze kukopa kwa sababu matrekta ya kukopa yapo hata wafanyabiashara binafsi pia wanakopesha matrekta. Pia kama tulivyosema katika maelezo yetu ya nyuma ni kwamba Benki ya TIB yaani Tanzania Investment Bank sasa hivi inatoa mikopo na tulishatenga bilioni 22 kwa ajili ya masuala kama hayo ya mikopo ya matrekta na zana nyingine za kilimo.</seg>
+          <seg xml:id="seg107">Kuhusu miundombinu nakubaliana na yeye kabisa kwamba Wataalamu watatumwa kwa sababu hata hivyo kanda ya Tabora na Mikoa inayoizunguka Wataalam wanafanya kazi nzuri sana ya kuchimba malambo na miundombinu ya umwagiliaji. Kwa hiyo suala hili linakubalika kabisa kwamba Wataalam watatumwa. Lakini nisisitize kwamba ufinyu wa Bajeti ndiyo hasa una determine ni kiasi gani cha miundombinu ya umwagiliaji ambayo inawekwa kila Mkoa na kila mwaka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u34" who="Spika">
+          <seg xml:id="seg108">Sasa mliosimama upande huu wote ni vingunge katika CHADEMA lakini kwa itifaki namchukua Makamu Mwenyekiti na kumwacha Katibu Mkuu. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u35" who="MheSaidAmourArfi">
+          <seg xml:id="seg109">Mheshimiwa Spika, nakushukuru kwa kuzingatia itifaki. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u36" who="MheSaidAmourArfi">
+          <seg xml:id="seg110">Mheshimiwa Spika, nina swali dogo la nyongeza. Kwa kuwa, wakulima wa Rukwa wameitikia sana katika kuleta Mapinduzi katika kilimo. Lakini Mapinduzi haya hayawezi kufikiwa kama hatua kadhaa hazitachukuliwa na hususani katika Wilaya ya Mpanda kumetokea makundi makubwa ya Nzige ambayo sasa yanaelekea katika Mji wa Mpanda. Je, ni hatua gani ambayo sasa Wizara imechukua katika kukabiliana na tatizo ambalo linawakabili wakulima hususani wa Wilaya ya Mpanda?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u37" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg111">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Said Amour Arfi, Mbunge wa Mpanda, ambaye pia ni Makamu Mwenyekiti wa CHADEMA kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">Mheshimiwa Spika, kwanza napenda kuwapongeza sana wakulima wa Mkoa wa Rukwa na Mikoa mingine ya Mbeya, Iringa na Ruvuma kwa kuzalisha kwa wingi chakula ambapo tunategemea sana kwamba chakula kinachozalishwa kule mara nyingi kinasaidia sana kulisha maeneo ambayo yana ukame ama upungufu wa chakula. Kwa hiyo, nawapongeza sana.</seg>
+          <seg xml:id="seg113">Pili, suala la nzige ni la dharura na Wizara yangu kwa sasa imechukua hatua za dharura na imeshaagiza ndege kutoka kwenye Shirika la Kupambana na Nzige ili tuweze kupunguza matatizo haya. Hili ni suala ambalo linahitaji dharura kubwa na tunalichukulia kwa dharura kubwa ikiwa ni pamoja na kwelea kwelea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u38" who="WaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg114">Mheshimiwa Spika, pamoja na majibu mazuri sana ambayo yametolewa na Naibu Waziri, nataka kutoa maelezo ya nyongeza kuhusu swali la pili la nzige. Kwa sababu nzige ni dharura ya hatari na lazima wananchi wajue hatua ambazo Serikali tayari tumechukua, mara baada ya kupata habari juu ya kuanza kuondoka kwa nzige katika eneo la Katavi katika Mkoa wa Rukwa, tuliwasiliana na Shirika linaloshughulika na nzige wekundu (Red Locust), kwa bahati mbaya wakati ndege ya kuja kudhibiti hali ile inaondoka kule Ndola Zambia, ilipata ajali na marubani wawili walikufa. Kwa hiyo, tukapata dharura nyingine iliyokuwa inashughulikia dharura.</seg>
+          <seg xml:id="seg115">Baada ya kuchukua hatua hiyo tuliyoizungumza na wenzetu ambao wanatusaidia katika kupata ndege ambayo huwa inashughulika na kwelea kwelea, tulipata hiyo ndege kutoka Nairobi, isipokuwa kabla haijaanza kufanya kazi kwanza tumepata helikopta ya kwenda kufanya mapping ili tuweze kujua namna ya kulikabili tatizo la nzige. Kwa hiyo, tumechukua hatua na tunataka kuwahakikishia Wananchi wa Rukwa na Watanzania wote kwamba, hatua zitachukuliwa kuhakikisha kwamba, wale nzige hawafanyi madhara makubwa zaidi hapa nchini.</seg>
+        </u>
+        <note>Na. 43. Kilimo cha Umwagiliaji – Songwe</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u39" who="MheDrGuidoGSigonda">
+          <seg xml:id="seg116">Kwa kuwa katika Bonde la Ziwa Rukwa upande wa Jimbo la Songwe Wilayani Chunya kuna maji ya kutosha kwa Kilimo cha Kiangazi; na kwa kuwa Ilani ya Uchaguzi ya CCM inasisitiza kilimo cha aina hiyo kwa maeneo yenye mabonde yenye maji kama Jimbo la Songwe; na kwa kuwa wananchi wa maeneo hayo hawana uwezo wa kuanzisha Kilimo cha Umwagiliaji cha aina yoyote ile:-</seg>
+          <seg xml:id="seg117">(a) Je, Serikali haioni ni wakati muafaka sasa kuanzisha Mradi wa Kilimo cha Umwagiliaji katika bonde hilo hasa wakati wa kiangazi?</seg>
+          <seg xml:id="seg118">(b) Kwa kuwa wakati wa kiangazi wananchi wa maeneo hayo hupata shida ya maji yaliyo bora jirani na maeneo wanayoishi; je, Serikali inaweza kuwapunguzia wananchi hao kero ya maji kwa kuwawekea miradi ya maji kwa kuchimba hata visima vifupi?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAJI NA UMWAGILIAJI)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u40" who="NaibuWaziriOfisiYaWaziriMkuuTamisemi">
+          <seg xml:id="seg119">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Maji na Umwagiliaji, napenda kujibu swali la Mheshimiwa Dr. Guido G. Sigonda, Mbunge wa Songwe, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg120">(a) Mheshimiwa Spika, napenda kuliarifu Bunge lako Tukufu kuwa, tayari Wananchi wa Bonde la Songwe, wameibua mradi wa umwagiliaji kwenye maeneo ya Bonde la Nanjembo hadi Mwambani na kujumuishwa katika Mipango ya Maendeleo ya</seg>
+          <seg xml:id="seg121">Kilimo ya Wilaya ya Chunya (District Agricultural Development Plans – DADPs) ya Mwaka 2010/2011. Halmashauri ya Wilaya ya Chunya imeutengea kiasi cha shilingi milioni 40 katika bajeti yake ya mwaka 2010/2011 kupitia DADPs Mradi huo utakaovinufaisha Vijiji vya Mwambani, Mbala na Iseche. Aidha, kwa kushirikiana na Ofisi ya Kanda ya Umwagiliaji Mbeya, Halmashauri ya Wilaya imetayarisha andiko kwa ajili ya kuomba fedha za nyongeza kiasi cha shilingi milioni 609.272 kutoka kwenye Mfuko wa Maendeleo ya Umwagiliaji wa Wilaya (District Irrigation Development Fund – DIDF).</seg>
+          <seg xml:id="seg122">Kwa kuzingatia ukubwa wa eneo linalofaa kwa umwagiliaji linalofikia hekta 1,500, Wizara itaweka pia uendelezaji wa eneo hili katika bajeti yake ya 2010/2011 ili itengewe fedha zaidi kutoka Mfuko wa Maendeleo ya Umwagiliaji Ngazi ya Taifa (National Irrigation Development Fund – NIDF).</seg>
+          <seg xml:id="seg123">(b) Mheshimiwa Spika, Serikali inatambua tatizo la maji katika Jimbo la Songwe. Katika mwaka wa fedha wa 2008/2009, Serikali ilitenga kiasi cha shilingi milioni 36 kwa ajili ya ukarabati wa Mradi wa Maji kwa ajili ya Kijiji cha Mbuyuni. Kisima kirefu cha maji kimesafishwa, ukarabati wa nyumba ya mashine unafanyika na mashine ya maji iko katika hatua za manunuzi ili kuchukua nafasi ya ile iliyoibiwa na mradi umepangwa kukamilika mwezi Mei, 2010. Katika mwaka huu wa fedha 2009/2010, kiasi cha shilingi milioni 20 kimetengwa kwa ajili ya kukarabati Mradi wa Maji katika Kijiji cha Malesa. Mradi huu utahudumia kijiji kimoja cha Malesa na ukarabati umepangwa kukamilika mwezi Mei 2010.</seg>
+          <seg xml:id="seg124">Mheshimiwa Spika, katika kuimarisha upatikanaji wa huduma ya maji katika Jimbo la Songwe, Halmashauri ya Wilaya ya Chunya ilichagua vijiji sita vinavyotekeleza Programu ya Maendeleo ya Sekta ya Maji. Vijiji hivyo ni Mkwajuni, Mwambani, Kapalala, Udinde, Mbuyuni na Namkukwe. Tarehe 13 Januari, 2010, Mtaalam Mshauri (CoWI Consult Ltd), alisaini mkataba kati yake na Halmashauri ya Wilaya ya Chunya kwa ajili ya miradi katika vijiji hivyo.</seg>
+          <seg xml:id="seg125">Mtalaam huyo amekwishakamilisha taarifa ya awali (Inception Report) na mpango ni kuwa baada ya kukamilisha hatua za usanifu, utayarishaji wa makabrasha ya zabuni na taratibu za manunuzi ya wakandarasi ujenzi wa miundombinu utafanyika kuanzia mwaka wa fedha wa 2010/2011. Wakazi katika vijiji sita vilivyotajwa, watapata huduma ya maji baada ya ujenzi wa miundombinu kukamilika. Serikali itaendelea kutekeleza miradi zaidi kulingana na upatikanaji wa fedha.</seg>
+        </u>
+        <note>Na. 44. Tatizo la Maji - Mji wa Geita</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u41" who="MheErnestGMabina">
+          <seg xml:id="seg126">Kwa kuwa Mji wa Geita ni miongoni mwa Miji iliyoko kando mwa Ziwa Victoria lakini hauna maji ya kuridhisha licha ya ahadi za viongozi wengi pindi wanapofika Geita:-</seg>
+          <seg xml:id="seg127">Je, ni lini Mji wa Geita na Vitongoji vyake vitapewa maji ya uhakika?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAJI NA UMWAGILIAJI)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u42" who="NaibuWaziriOfisiYaWaziriMkuuTamisemi">
+          <seg xml:id="seg128">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Maji na Umwagiliaji, kabla ya kujibu swali la Mheshimiwa Ernest Gakeya Mabina, Mbunge wa Geita, napenda kutoa maelezo mafupi yafuatayo:-</seg>
+          <seg xml:id="seg129">Geita ni Makao Makuu ya Wilaya ya Geita. Mji huu una wakazi 80,610. Vyanzo vya maji kwa Mji wa Geita ni visima virefu 35 na visima vifupi vinne, vyenye uwezo wa kuzalisha maji mita za ujazo 2,935 kwa siku. Uzalishaji wa maji kwa sasa ni mita za ujazo 1,952 kwa siku, hii ni kutokana na kuwa visima vingine vimefungwa pampu zenye uwezo mdogo kuliko uzalishaji wa visima. Mahitaji ya maji kwa siku ni mita za ujazo 3,200. Idadi ya wakazi wanaohudumiwa na Mamlaka ya Maji kwa wastani wa saa sita kwa siku ni 49,170, ambayo ni sawa na 61% ya wakazi wa Mji wa Geita.</seg>
+          <seg xml:id="seg130">Mheshimiwa Spika, katika kutatua tatizo la upungufu wa maji katika Mji wa Geita, Serikali katika mwaka wa fedha 2007/2008, ilituma shilingi 368,000,000 kwa Mamlaka ya Majisafi na Majitaka Geita. Fedha hizo zilitumika kwa kufanya kazi zifuatazo: Upanuzi wa Kambarage Water Supply; Ujenzi wa Lwenge Spring Water Supply; Upanuzi wa Kagera Gravity Water Supply; na kuboresha mtandao wa usambazaji wa Bomani.</seg>
+          <seg xml:id="seg131">Kutokana na utekelezaji wa kazi zilizokamilika, upatikanaji wa maji katika Mji wa Geita umeongezeka kutoka 57% hadi kufikia 61%.</seg>
+          <seg xml:id="seg132">Mheshimiwa Spika, Serikali pia kupitia Lake Victoria Basin Commission, imeanza kutekeleza toka 2009/2010 Mradi wa Lake Victoria Water and Sanitation Initiative (SVWATSAN). Mradi huu unalenga kusaidia miji 15 iliyo katika Bonde la Ziwa Victoria kwa nchi tano za Jumuiya ya Afrika Mashariki ambazo ni Tanzania, Burundi, Rwanda, Uganda na Kenya ili iweze kufikia malengo ya Millenia ya upatikanaji wa maji na usafi wa mazingira. Kwa upande wa Tanzania, miji iliyomo katika mpango huu ni Sengerema, Nansio na Geita. Mhandisi Mshauri amewasilisha mapendekezo ya mipango ya muda mfupi ya uboreshaji wa huduma ya majisafi na usafi wa mazingira katika miji 15 ikiwemo Mji wa Geita.</seg>
+          <seg xml:id="seg133">Katika mpango wa muda mfupi ambapo lengo ni kuongeza upatikanaji wa maji Mjini Geita, zitafanyika kazi zifuatazo: Kufunga pampu kwa kisima cha Tambukareli na kujenga mfumo wa usambazaji wa maji kutoka katika tanki la Kambarage na Tambukareli; kufunga dira kuu za maji katika matanki ya Kagera A &amp; B, Kasco,</seg>
+          <seg xml:id="seg134">Kambarage na Tambukareli. Pia kununua dira za wateja na viungio vyake; na kununua vitendea kazi kwa ajili ya matengenezo na vifaa vya kupimia ubora wa maji.</seg>
+          <seg xml:id="seg135">Kazi ya ujenzi inatarajia kuanza kabla ya mwezi Desemba 2010, pia kupitia LVWATSAN inaandaa mpango wa muda mrefu wa hadi 2025, ambapo ni pamoja na kuongeza chanzo cha maji, ulazaji wa mabomba, usafi wa mazingira, pamoja na kununua gari la kuondoa maji taka.</seg>
+          <seg xml:id="seg136">Mheshimiwa Spika, vilevile Serikali inaendelea na mipango ya muda mrefu ya kuboresha upatikanaji wa maji katika Mji wa Geita kwa kuoanisha Programu ya LVWATSAN ambapo Mji huo utafanyiwa usanifu na uandaaji wa makabrasha ya zabuni na Mhandisi Mshauri kupitia Mamlaka ya Majisafi na Majitaka ya Mwanza. Hatua iliyofikiwa ni kuwa Mhandisi Mshauri amepatikana na Mkataba umetumwa Benki ya Dunia kwa ajili ya kuombea kibali cha kusaini. Baada ya usanifu, gharama za mradi zitajulikana na ujenzi utafanywa kupitia Programu ya Maendeleo ya Sekta ya Maji (Water Sector Development Programme – WSDP).</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u43" who="MheErnestGMabina">
+          <seg xml:id="seg137">Mheshimiwa Spika, nashukuru sana kwa majibu yaliyotolewa na Naibu Waziri. Katika majibu yake amesema kwamba, Mji wa Geita una mpango mfupi na ndiyo maana ameorodhesha visima hivi kwamba vitatengewa fedha. Kwa muda mrefu tunahitaji maji kutoka Ziwa Victoria. Kampuni ya Uchimbaji wa Madini (Geita Gold Mine), imeonesha nia ya kuusaidia Mji wa Geita na imetenga dola milioni tano kwa ajili ya kutoa maji kutoka Ziwa Victoria mpaka Geita ambapo watajenga matanki. Tatizo linalokuja ni usambazaji wa maji katika Mji wa Geita, ambapo Halmashauri haina uwezo wa kupata fedha hizo. Je, Serikali itauchukua Mradi wa Kusambaza Maji katika Mji wa Geita ili kuweza kunusuru maisha ya Watu wa Geita ambao wanategemea sana maji kutoka Ziwa Victoria?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAJI NA UMWAGILIAJI)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u44" who="NaibuWaziriOfisiYaWaziriMkuuTamisemi">
+          <seg xml:id="seg138">Mheshimiwa Spika, hapa nimeeleza mambo mengi sana yanayokusudiwa kufanyika katika Mji wa Geita na tumefika kule tunajua kabisa kuwa tuna tatizo kubwa la maji na siwezi kumpinga Mheshimiwa Mabina hapa nikasema kwamba, anachosema hapa hakina maana; anasema jambo la msingi sana.</seg>
+          <seg xml:id="seg139">Sasa kama wenzetu hawa wa Geita Gold Mine wameonesha nia kwamba, wana fedha kwa ajili ya kupata hayo maji na kwamba sasa tunatakiwa tuchukue jukumu la kuhakikisha kwamba, tunasambaza yale maji.</seg>
+          <seg xml:id="seg140">Ninachoweza kuahidi hapa kwa niaba ya Waziri wa Maji na Umwagiliaji, nitamfikishia huo ujumbe kwamba kuna watu hapa wamesema wapo tayari kutusaidia unaonaje kama tukichukua jukumu la kusambaza maji na mambo yatakuwa yamekwisha; ninafikiri sitakuwa na matatizo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u45" who="MheKabweZZitto">
+          <seg xml:id="seg141">Mheshimiwa Spika, kama ambavyo Mbunge wa Geita anayemaliza muda wake amezungumza kwamba; Mgodi wa GGM una mradi wa maji pale kwa ajili ya usambazaji wa maji pale Geita na tatizo kubwa limekuwa ni</seg>
+          <seg xml:id="seg142">Halmashauri ya Wilaya ya Geita imekuwa ikilegalega kukubaliana na Mgodi jinsi gani ya kufanya procurement za usambazaji wa mabomba katika Mji wa Geita; kwa sababu Waziri ni Waziri mhusika wa Wizara ya TAMISEMI anawaambia nini Wananchi wa Geita; je, anaweza kuzungumza na Halmashauri ihakikishe kwamba inafikia makubaliano na Mgodi ili kuhakikisha kwamba Wananchi wa Geita wanapata maji haraka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u46" who="Spika">
+          <seg xml:id="seg143">Kabla sijakuruhusu Mheshimiwa Naibu Waziri, bado ningemshauri Mheshimiwa Zitto, akagombee kule kwenye Jimbo lake. Haya mambo ya Geita awaachie wenyewe tu. Hata hivyo, nakuomba Mheshimiwa Naibu Waziri uweze kujibu swali hilo. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <note>(K.n.y. WAZIRI WA MAJI NA UMWAGILIAJI)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u47" who="NaibuWaziriOfisiYaWaziriMkuuTamisemi">
+          <seg xml:id="seg144">Mheshimiwa Spika, hili analolisema sasa amelielekeza moja kwa moja kwetu sisi, kwa maana ya Mheshimiwa Waziri Mkuu, kwa sababu Halmashauri iko chini yetu.</seg>
+          <seg xml:id="seg145">Mheshimiwa Spika, labda niombe kitu kimoja, tunaomba hili kwa sababu tunayajua haya yote, tunajua kwamba Geita ina matatizo makubwa ya maji na kwa vile pia inaonyesha Halmashauri inaweza ikasaidia, tutawasiliana na Halmashauri ili tuone ni kwa namna gani sasa tunaweza tukabeba hiyo gharama nyingine inayozungumzwa ya usambazaji halafu tutalifanyia kazi.</seg>
+        </u>
+        <note>Na. 45. Kuongezeka kwa Maharamia wa Kisomali</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u48" who="MheColFetehSaadMgeni">
+          <seg xml:id="seg146">Kwa kuwa Maharamia (Pirates) wa Kisomali wameongezeka kwa kasi kubwa na kuteka meli mbalimbali huko baharini na hivyo kuleta hofu kubwa kwa mabaharia pamoja na usalama wa abiria na mali zao licha ya nchi za Marekani, Uchina na kadhalika kutoa meli zao za kivita (Warships) ili kusaidia ulinzi:-</seg>
+          <seg xml:id="seg147">Je, Serikali haioni umuhimu wa kupata angalau manoari (Warships) mbili aina ya Frigate au Distroyers ili kupunguza au kukomesha kabisa uharamia huo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u49" who="NaibuWaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg148">Mheshimiwa Spika, kwa niaba ya Waziri wa Ulinzi na Jeshi la Kujenga Taifa, kabla ya kujibu swali la Mheshimiwa Col. Feteh Said Mgeni, Mbunge wa Bumbwini, kwanza, napenda kutoa maelezo yafuatayo:-</seg>
+          <seg xml:id="seg149">Mheshimiwa Spika, suala la Maharamia (Pirates) wa Kisomali ni suala ambalo kwa sasa limechukua sura ya Kimataifa zaidi. Jitihada zilizochukuliwa na Jumuiya ya Kimataifa kuweka meli katika Ghuba ya Aden zimesababisha Maharamia hao kwenda</seg>
+          <seg xml:id="seg150">mbali zaidi karibu na Ushelisheli. Kwa sasa Jumuiya ya Kimataifa imechukua hatua za kuimarisha utawala wa Sheria Nchini Somalia kwa kutoa mafunzo ya Jeshi na Polisi ili kudhibiti hali hiyo katika kuimarisha utawala wa ndani.</seg>
+          <seg xml:id="seg151">Mheshimiwa Spika, baada ya maelezo haya mafupi sasa napenda kujibu swali la Mheshimiwa Col. Feteh Mgeni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg152">Mheshimiwa Spika, umuhimu wa kupata meli zenye uwezo wa kulinda maji yetu (Territorial Water) na Exclusive Economic Zone (EEZ) upo na Serikali inaangalia uwezekano wa kuliwezesha Jeshi la Wananchi wa Tanzania kutekeleza jukumu hilo kwa kuzingatia hali ya uchumi itakavyoruhusu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u50" who="MheColFetehSaadMgeni">
+          <seg xml:id="seg153">Mheshimiwa Spika, namshukuru sana Mheshimiwa Naibu Waziri, kwa majibu mazuri ambayo yamenipa moyo. Nina suala dogo sana la nyongeza.</seg>
+          <seg xml:id="seg154">Mheshimiwa Spika, hivi karibuni meli moja kutoka katika Falme za Kiarabu imetekwa ikiwa karibu na maeneo yetu kwa sababu iko katika zone ya Indian Ocean. Kwa hali hiyo, inaonesha bado hali mbaya na ndani ya meli hiyo wamo Watanzania 20 na hali hiyo inaendelea kuwa tishio katika nchi yetu hata katika nchi za jirani.</seg>
+          <seg xml:id="seg155">Mheshimiwa Spika, Mheshimiwa Waziri haoni hivi sasa ni wakati muafaka wa kulichukulia juhudi suala hili na kufanywa kama dharura maalum ili kukomesha hali hii ambayo inaendelea na inakuwa tishio? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u51" who="NaibuWaziriWaUlinziNaJeshiLaKujengaTaifa">
+          <seg xml:id="seg156">Mheshimiwa Spika, naomba kulihakikishia Bunge lako kwamba, tunatambua uzito wa hali ulivyo katika eneo hilo. Utaratibu wa kulishughulikia unaendelea na hauwezi kuwa na kasi ambayo anaweza akaitegemea Mheshimiwa Col. Feteh Mgeni. Kwa mfano, unapotaka kuchukua meli ya kivita, utaratibu wake toka unatoa order mpaka unaipata unachukua miaka mitatu mpaka minne, kwa hiyo, wakati mwingine dharura nayo inaweza ikadharurika.</seg>
+        </u>
+        <note>Na. 46. Mpango wa Uwezeshaji Wananchi Kiuchumi</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u52" who="MheGeorgeBSimbachawene">
+          <seg xml:id="seg157">Kwa kuwa mpango wa uwezeshaji wananchi kiuchumi ulikusudia kutoa kwa kila Mkoa kiasi cha shilingi bilioni moja kwa nia ya kuwakopesha wananchi ili waweze kupambana na kujitoa katika dimbwi la umaskini kwa mitaji watakayopata kutokana na mpango huo:-</seg>
+          <seg xml:id="seg158">(a) Je, ni wananchi wangapi wamepata mikopo hiyo katika Jimbo la Kibakwe?</seg>
+          <seg xml:id="seg159">(b) Je, ni wananchi wangapi wanaofanya shughuli za kilimo wamepata mikopo hiyo katika Jimbo la Kibakwe?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u53" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg160">Mheshimiwa Spika, kabla ya kujibu swali la Mheshimiwa George Simbachawene, Mbunge wa Kibakwe, naomba kutoa maelezo ya utangulizi kama ifuatavyo:-</seg>
+          <seg xml:id="seg161">Katika jitihada za kuondoa umaskini hapa nchini, Serikali ya Awamu ya Nne ilitoa kiasi cha shilingi bilioni 21, ikiwa ni wastani wa shilingi bilioni moja kwa kila Mkoa Tanzania Bara. Utaratibu wa utoaji wa fedha hizi ulizingatia makubaliano yaliyofanyika kati ya Serikali na Benki za CRDB na NMB. Benki ya NMB ina uzoefu wa kukopesha mjasiriamali mmoja mmoja na ile ya CRDB ina uzoefu wa kukopesha vikundi vya wananchi waliojiunga pamoja (SACCOS).</seg>
+          <seg xml:id="seg162">Tathmini ya awamu ya kwanza ya utoaji wa mikopo hii ulionesha matatizo makubwa hasa kwa Benki ya NMB, ambayo masharti ya utoaji mikopo ulizingatia kuhudumia wananchi katika eneo lisilozidi km 20 za mzunguko tofauti na CRDB.</seg>
+          <seg xml:id="seg163">Mheshimiwa Spika, kutokana na matatizo hayo, utoaji wa mikopo kwa awamu ya pili ulizingatia zaidi katika kuhusisha asasi za fedha ambazo zina uzoefu wa kufika vijijini na kuhudumia wananchi vizuri zaidi. Kila Mkoa ulitoa mapendekezo ya asasi zipi zinaweza kuhudumia Mkoani kwao hadi kuwafikia wananchi vijijini. Mapendekezo ya Mikoa yalizingatiwa na Serikali katika kutoa na kupeleka fedha hizo Mikoani katika awamu hii ya pili.</seg>
+          <seg xml:id="seg164">Mheshimiwa Spika, baada ya maelezo hayo, napenda kujibu swali la Mheshimiwa George Simbachawene, Mbunge wa Kibakwe, lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg165">Katika awamu ya kwanza ya utoaji mikopo, Mkoa wa Dodoma ulikopesha shilingi 756,320,593 kwa Wilaya zake saba kwa mgao ufuatao: Dodoma Mjini shilingi 151,500,000; Mpwapwa shilingi 58,200,000; Kondoa shilingi 41,641,900; Kongwa shilingi 348,456,693; Chamwino na Bahi hazikupata mikopo katika awamu ya kwanza ya Mpango huu. Hata hivyo, katika awamu ya pili ya mpango huu, Wilaya hizi zilitengewa jumla ya shilingi 154,000,000; Bahi shilingi 66,000,000 na Chamwino shilingi 88,000,000.</seg>
+          <seg xml:id="seg166">Mheshimiwa Spika, katika awamu ya kwanza, Wilaya ya Mpwapwa ambayo inajumuisha Jimbo la Kibakwe, ilihudumiwa na Benki ya NMB pekee iliyotoa jumla ya shilingi 68,200,000 zilizokopeshwa kwa wajasiriamali wapatao 135 wakiwemo wanawake 60 na wanaume 75. Katika awamu ya pili ya mpango huu, Wilaya ya Mpwapwa inahudumiwa na Benki ya CRDB, ambapo jumla ya shilingi milioni 25 zilitengwa kwa wajasiriamali waliopo Wilayani humo.</seg>
+          <seg xml:id="seg167">Kwa kuwa utaratibu wa utoaji wa mikopo hiyo umeandaliwa na Serikali kwa kuzingatia mgao kiwilaya, napenda kumshauri Mheshimiwa Mbunge awasiliane na Benki ya NMB kupitia Wilayani Mpwapwa ili kupata taarifa za wajasiriamali waliofaidika na mikopo hii chini ya mpango huu walioko Jimboni kwake. Aidha, taarifa hizo pia zilitoa idadi ya wajasiriamali waliotumia mikopo hiyo kwa shughuli za kilimo wanaopatikana katika Jimbo lake.</seg>
+          <seg xml:id="seg168">Mheshimiwa Spika, naomba kulifahamisha Bunge lako Tukufu kuwa, wakati mgao wa fedha wa awamu ya pili unakaribia kumalizika, hivi sasa Serikali imeanza tathmini kamili juu ya utekelezaji wa mpango huu mzima kwa nchi nzima ili kubainisha yafuatayo: Idadi ya wajasiriamali walionufaika na mpango huu; idadi ya SACCOS zilizosajiliwa na kufanikiwa kupata mikopo; matatizo gani yaliyojitokeza katika utekelezaji wa mpango huu hasa yakiainisha matumizi ya Mabenki na Asasi za Kifedha katika utoaji wa mikopo; na Sekta gani katika Uchumi wa Taifa, wajasiriamali wananchi wamewekeza zaidi katika sekta nyingine.</seg>
+          <seg xml:id="seg169">Mheshimiwa Spika, matokeo ya awali yameonesha kuwa, sekta iliyonufaika zaidi ni Sekta ya Biashara; ili kusahihisha hilo katika awamu itakayofuata ya mpango huu, msisitizo mkubwa utaelekezwa katika sekta ya uzalishaji mali. Hii ni kuipa nguvu dhana nzima ya Kilimo Kwanza, ambapo pamoja na utaratibu mzuri ulioainishwa katika Kilimo Kwanza, wajasiliamali na wananchi kwa ujumla wao, wataweza kukopeshwa fedha katika ununuzi wa pembejeo za kilimo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u54" who="MheGeorgeBSimbachawene">
+          <seg xml:id="seg170">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi.</seg>
+          <seg xml:id="seg171">(i) Kwa kuwa Waziri anakiri kwamba walitambua matatizo ya NMB kwamba hawawezi kwenda zaidi ya kilomita 20 kutoka kwenye Benki zao; na kwa kuwa Serikali kwa maana ya Wizara imekosa takwimu za watu wa Kibakwe waliokopeshwa na wakulima ni wangapi; je, Serikali ipo tayari kukubaliana na takwimu zangu kwamba hakuna hata mmoja aliyekopeshwa na kwa maana hiyo Serikali inawaambia nini Wananchi wa Jimbo la Kibakwe ambao pia Mheshimiwa Rais mwenye Mfuko huu ni Rais wao pia?</seg>
+          <seg xml:id="seg172">(ii) Kwa kuwa awamu ya pili imekaribia kwisha na kwamba inawezekana pengine kuna mabaki yaliyobakia; Mheshimiwa Waziri yupo tayari kunisaidia angalau hizo zilizobakia basi ziwekwe kwa ajili ya kuwakopesha Wananchi wa Jimbo la Kibakwe ili na wao wanapoelekea Oktoba mwaka huu kwenye uchaguzi wamkumbuke Rais wao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u55" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg173">Mheshimiwa Spika, kuhusu Wananchi wa Kibakwe, hawakupata mkopo kama alivyotathmini kutokana na utafiti ambao kaufanya yeye. Inawezekana ikawa ni kweli, kama nilivyosema, maombi yaliyokuwa yakipelekwa katika Taasisi hii ya kukopeshwa mwaka huu ilikuwa ni NMB na walikuwa hawajielezi kwamba wanatoka Jimbo la Kibakwe au Mpwapwa. Sasa</seg>
+          <seg xml:id="seg174">inawezekana kweli hawakupata ili ukopeshwe kulikuwa na vigezo ambavyo NMB walikuwa wameweka.</seg>
+          <seg xml:id="seg175">Ninachoweza kusema ni kwamba ni kweli kabisa Wananchi wa Kibakwe wanayo haki ya kupewa mikopo kama wananchi wa sehemu nyingine ya Wilaya ile ya Mpwapwa. Kinachohitajika sasa ni namna ya kuwawezesha wananchi hawa kutimiza masharti ya taasisi ambazo zitakuwa zimeteuliwa katika kukopesha katika eneo hilo. Niseme tu kwamba, kwa kugundua kwamba NMB inayo matatizo maalum, ndiyo maana katika awamu zinazofuata sasa tunajaribu kuongeza asasi nyingine ambazo zitawafikia wananchi moja kwa moja.</seg>
+          <seg xml:id="seg176">Taasisi kama SCCULT yenyewe inakwenda moja kwa moja kwa wanakijiji, wanakaa nao na hata kuwasaidia namna ya kuandika miradi yenyewe na kupambanua vizuri zaidi. Kwa hiyo, nimhakikishie Mheshimiwa Mbunge kwamba, kwa sababu mpango huu ni endelevu, katika awamu zijazo Serikali tunajipanga vizuri kuhakikisha kwamba, Wananchi wa Kibakwe wanapata haki yao kama wananchi wengine wa Tanzania.</seg>
+          <seg xml:id="seg177">Kwa fedha zilizobaki kwamba tutoe agizo; niseme kwamba ni vigumu sana kwa Serikali kutoa agizo moja kwamba, mkopeshe huyu ila tunachoweza kusema; tunaiomba Benki ya NMB iangalie kwa huruma kwa yale maombi yaliyoko mbele yao. Kama Wananchi wa Kibakwe watakuwa wametimiza masharti na vigezo na kama ikiwezekana basi wawasaidie kuweza kufikia vigezo vile haraka ili nao angalau waweze kupata.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u56" who="MheLucyTMayenga">
+          <seg xml:id="seg178">Mheshimiwa Spika, ahsante sana kwa kunipatia nafasi ya kuuliza swali dogo la nyongeza. Kwa kuwa wapo vijana wengi ambao wamekuwa wakijishughulisha na shughuli mbalimbali za ujasiriamali kwa kupata mikopo na njia nyingine lakini wamekuwa wakikatishwa sana tamaa na tatizo kubwa la ukosefu wa uaminifu kwa wafanyakazi wao vijana na watu wengine wenye rika mbalimbali; je, Serikali inafahamu vipi uzito wa tatizo la uaminifu wa vijana hapa Tanzania na ina mkakati gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u57" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg179">Mheshimiwa Spika, naomba nikiri kama alivyoelezea Mheshimiwa Mayenga kwamba, tunalo tatizo la uaminifu na tatizo hili limeanza kuwa kama ni tatizo la kitaifa na ukitaka ulijue ukubwa wake hasa uzungumze na wawekezaji hawa wakubwa wanaokuja kuwekeza katika nchi yetu, unakuta katika hoteli tunalo tatizo, kwenye migodi tunalo tatizo na hata katika ujenzi tunalo tatizo. Hapa Chuo Kikuu cha Dodoma kuna wakati Makamu Mkuu wa Chuo alikwenda hata katika vyombo vya habari kuwasihi wafanyakazi wa pale wajaribu kushirikiana na wenzao, Makampuni mbalimbali kutoka nchi za nje yanayojenga pale, kujaribu kulinda heshima ya nchi kwa kuonesha uadilifu na uaminifu. Kwa hiyo, nataka niseme tu hapa kwamba, namshukuru Mheshimiwa Mbunge kwa kutambua kwamba ni tatizo ila katika shule zetu na katika vyuo vyetu, wanaofundisha, wafanyakazi, Taasisi kama VETA, nina hakika somo hili tayari limeshaanza kutiliwa mkazo na kufundishwa maadili na uaminifu mahala pa kazi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u58" who="MheMhongaSRuhwanya">
+          <seg xml:id="seg180">Mheshimiwa Spika, ahsante kwa kunipa nafasi ya kuuliza swali moja la nyongeza. Katika Mkutano wa Kumi na Nane, niliuliza swali kuhusiana na Mabilioni ya JK na imeonekana kwamba wananchi wengi hawajapata kufaidika na mabilioni hayo. Mheshimiwa Naibu Waziri kwa niaba ya Serikali alitoa ahadi kwamba wataleta taarifa kamili ya mgawanyo wa mabilioni hayo kwa taasisi na mtu mmoja mmoja. Je, ni lini taarifa hiyo italetwa ndani ya Bunge?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u59" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg181">Mheshimiwa Spika, nilipokuwa nikijibu swali la msingi nimesema tathmini ya awamu ya kwanza imekamilika. Hivi sasa tunakaribia kukamilisha tathmini ya awamu ya pili. Takwimu tulizonazo sisi ni mpaka za tarehe 28 Februari, 2010, lakini si tathmini iliyokamilika na nimeeleza jinsi ambavyo sasa tunavyokusudia kufanya tathmini kamili ili tuweze kujibu na kutoa hiyo orodha iliyo sahihi zaidi. Namwomba Mheshimiwa Mbunge awe na subira, tutaweza kuwasilisha baada ya kupata taarifa iliyo sahihi na iliyokamilika.</seg>
+        </u>
+        <note>Na. 47. Mikopo ya Wajasiriamali</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u60" who="MheMbaroukKMwandoroMkinga">
+          <seg xml:id="seg182">Kwa kuwa vikundi vingi vya maendeleo Wilayani Mkinga hasa SACCOS vimeendelea kukosa mikopo kutoka kwenye Benki za Biashara kama NBC, NMB, CRDB na SCCULT licha ya vikundi hivyo kufuata masharti yake ikiwa ni pamoja na kujisajili, kuwa na akaunti, mchanganuo wa miradi inayostahili na wengi wao wamekata tamaa:-</seg>
+          <seg xml:id="seg183">(a) Je, Serikali inaipa uzito gani kero hiyo kubwa inayowakabili wananchi na ina mikakati gani mipya ya kuwaondolea wananchi kero hiyo?</seg>
+          <seg xml:id="seg184">(b) Je, Serikali inaweza ikaielekeza SCCULT kutoa mikopo kwa wana vikundi wengine kama vile SACCOS badala ya mikopo yote ya JK kupitia SACCOS?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u61" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg185">Mheshimiwa Spika, kabla ya kujibu swali la Mheshimiwa Mbarouk Kassim Mwandoro, Mbunge wa Mkinga, napenda kutoa maelezo mafupi kama ifuatavyo:-</seg>
+          <seg xml:id="seg186">Serikali iliandaa utaratibu wa utoaji mikopo ya fedha za Mpango wa Uwezeshaji kwa kushirikisha Serikali za Mitaa, Kata, pamoja na Matawi ya Benki na Asasi za Kifedha ambazo zinashiriki katika kutoa Mikopo katika kila Wilaya nchini. Aidha, sifa za mwombaji ziliainishwa katika utaratibu huo huo kuwa mwombaji anaweza kuwa mtu mmoja, kikundi au SACCOS zinazotambulika na kusajiliwa katika misingi ya ushirikia. Baada ya maelezo hayo mafupi, sasa napenda kujibu swali la Mheshimiwa Mbarouk Kassim Mwandoro, Mbunge wa Mkinga, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg187">(a) Wilaya ya Mkinga ni mojawapo ya Wilaya zilizokosa mikopo kabisa katika mgao wa awamu ya kwanza na hivyo kutengewa kiasi cha shilingi milioni 100 katika awamu ya pili zinazotolewa na SCCULT. Makubaliano ya SCCULT na Serikali ni kutoa fedha za mikopo ya uwezeshaji kupitia SACCOS ambazo ziko chini ya mtandao unaoratibiwa na SCCULT. Katika awamu hii, Benki ya NMB imejitoa katika utekelezaji wa zoezi hili baada ya kuona kuwa gharama za utoaji mkopo ni kubwa kuliko faida wanayoipata. Aidha, Benki ya NBC haikuwemo kabisa katika makubaliano ya awali yaliyofanyika baina ya Serikali na Mabenki kama vile NMB na CRDB. Serikali imekuwa ikifuatilia kwa ukaribu, utekelezaji wa mpango kila mara ili kujua kasoro zinazojitokeza na kuwa kero kwa wananchi na kufanya marekebisho kwa lengo la kuboresha utekelezaji wa mpango huu. Kazi hii inaenda sambamba na kufanya tathmini ya utekelezaji wa zoezi la utoaji mikopo linalofanywa na Benki na Asasi zinazoshiriki. Napenda kumhakikishia Mbunge kuwa, kwa kuwa mpango huu ni endelevu, Serikali ipo tayari kufanya marekebisho katika awamu zinazofuata kwa lengo la kuwafikia wananchi wengi zaidi huko vijijini.</seg>
+          <seg xml:id="seg188">(b) Mheshimiwa Spika, kama nilivyoeleza awali, makubaliano ya Serikali na SCCULT ni kutoa huduma kupitia SACCOS ambazo zinaratibiwa na SCCULT na si vinginevyo. Kwa maelezo haya, namwomba Mheshimiwa Mwandoro, kwa hivi sasa na kwa kushirikiana na viongozi wengine Wilayani, wavihamasishe vikundi vya SACCOS vilivyopo katika Jimbo lake ili viweze kutimiza masharti muhimu na viweze kusajiliwa kama SACCOS na kupewa mikopo inayotolewa na SCCULT.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u62" who="MheMbaroukKMwandoro">
+          <seg xml:id="seg189">Mheshimiwa Spika, kiufasaha kwa nini vikundi vingi vya Wilaya Mkinga havikupata mkopo? Nina maswali mawili ya nyongeza:-</seg>
+          <seg xml:id="seg190">(i) Kwa kuwa NMB ndiyo Benki ya Wananchi ambayo ina mtandao mkubwa katika sehemu zote za nchi; ni vipi Serikali iliweza kuiachia NMB itoke katika mtandao huu kwa kusema kwamba haipati faida; je, Serikali haioni kwamba huku ni kushindwa kutekeleza kazi hii inavyopasa?</seg>
+          <seg xml:id="seg191">(ii) Viongozi katika Wilaya ya Mkinga na sehemu nyingine walifanya jitihada kubwa sana kuwahamasisha wananchi kuunda vikundi vya maendeleo pamoja na SACCOS; na ilifanyika hivyo ikiaminika kwamba hivi navyo vingefaidika chini ya uwezeshaji wananchi kiuchumi; sasa leo Wizara inatuambia ndiyo kwanza inaanza kufanya utafiti ambao utawezesha SACCOS na vikundi vingine kufaidika na mpango huu; je, utafiti huo utamalizika lini ili vikundi vingine viweze kufaidika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u63" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg192">Mheshimiwa Spika, Serikali baada ya kuona kwamba kuingilia ingilia mashirika na makapuni kuyapa maagizo ya kisiasa hatimaye kunaleta kuzorota na mwisho kufa kabisa kwa mashirika yale na makampuni yale; kwa hiyo, katika masuala hasa ya kifedha Serikali imeona kwamba ni vyema Taasisi inapofanya tathmini ikaona kwamba zoezi hili</seg>
+          <seg xml:id="seg193">kwa upande wake hailipi na takwimu na hesabu zinazokuja katika vikao ni vyema wakaiachia wakaendelea wanavyotaka.</seg>
+          <seg xml:id="seg194">Kwa hiyo, si kweli kwamba sisi tumeona Benki ya NMB tuiachie hivyo hivyo; hapana. Vilevile kuna vikundi vingine ambavyo nimesema Mheshimiwa Mbunge ashirikiane na viongozi wengine wa kisiasa na wa Serikali na Wilayani kujaribu kuvishawishi kama vile FINCA na PRIDE, wanaweza wakazishawishi. Hizi zinapokuja tofauti yake ni kwamba, zitakuwa hazijawezeshwa na Serikali na riba yake itakuwa ni kubwa zaidi.</seg>
+          <seg xml:id="seg195">Kuhusu utafiti, sijasema tunaanza utafiti. Nimesema vikundi hivi tunavitambua ila kwa masharti ambayo tutakuwa tumekubaliana na SCCULT walisema kama wanataka kufanya kazi hii watakwenda kwenye SACCOS tu maana na wao vilevile wana hofu. Ukianza kuwakopesha watu ambao wakati mwingine anuani zao hazijulikani sawasawa wanapoteza na wakipoteza inakuwa ni hasara kwao. Ndiyo nikasema, tushauriane tuwaombe viongozi wa kiwilaya ama vikundi hivi wajaribu kuvipa ushauri wa kujibadili vifikie kusajiliwa kama SACCOS ama ikiwezekana Uongozi wa Wilaya na Mheshimiwa Mbunge, wazishawishi asasi nyingine za kifedha ambazo zina utaratibu wa karibu sana katika kufuatilia mikopo yao kama PRIDE na FINCA waweze kuingia katika Wilaya hii ya Mkinga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u64" who="Spika">
+          <seg xml:id="seg196">Ahsante sana Mheshimiwa Waziri, kwa majibu yenye ufasaha mkubwa. Tunaendelea na ni zamu ya Wizara ya Biashara na Masoko, swali linaulizwa na Mheshimiwa Ruth Blasio Msafiri, Mbunge wa Mleba Kaskazini.</seg>
+        </u>
+        <note>Na. 48. Soko la Samani Nchini</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u65" who="MheRuthBMsafiri">
+          <seg xml:id="seg197">Kwa kuwa katika Maonesho ya Biashara ya Kimataifa ambayo hufanyika kila mwaka nchini, JKT, Magereza na SIDO huongoza kwa kupata ushiriki katika kutengeneza samani bora lakini bado hawana soko la uhakika:-</seg>
+          <seg xml:id="seg198">(a) Je, ni lini Serikali itawalinda wazalishaji hao pamoja na wengine wa hapa nchini?</seg>
+          <seg xml:id="seg199">(b) Je, kwa nini Serikali isitumie samani zinazozalishwa nchini kutoka SIDO, JKT na Magereza?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u66" who="NaibuWaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg200">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Ruth Blasio Msafiri, Mbunge wa Muleba Kaskazini, lenye sehemu (a) na (b) kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg201">Mheshimiwa Spika, ni kweli wajasiriamali kupitia SIDO pamoja na Jeshi la Kujenga Taifa na Magereza wamekuwa wakizalisha samani zenye ubora wa hali ya juu. Aidha, ni kweli kuwa kufuatia kufunguliwa kwa milango ya biashara Kimataifa, kumekuwa na ushindani mkubwa wa bidhaa za samani kutokana na kuingizwa kwa samani zenye bei ya chini. Hata hivyo, utafiti uliofanywa na Wizara yangu umebaini kuwa samani kutoka nje ya nchi, japo hupendeza machoni, hazina ubora wa kuhimili matumizi ya muda mrefu kwani samani hizo huharibika haraka inapotokea kuwa mtumiaji anazihamisha eneo moja kwenda lingine.</seg>
+          <seg xml:id="seg202">Mheshimiwa Spika, kutokana na changamoto ya kuwepo kwa ushindani wa soko la samani usio na manufaa kwa wajasiriamali wa ndani ambao bidhaa zao zinakidhi viwango vya ubora, Serikali imeanza kuchukua hatua za makusudi za kuwalinda wazalishaji wa samani wa ndani ili kuwajengea uwezo wa kushindana na pia kuongeza ajira kwa vijana pamoja na kukuza teknolojia za kutengeneza samani nchini. Hatua zilizochukuliwa ni pamoja na hizi zifuatazo:-</seg>
+          <seg xml:id="seg203">(i) Kutungwa kwa Sheria ya Kuanzishwa kwa Mamlaka ya Maendeleo ya Biashara Nchini (Tanzania Trade Development Authority (TANTRADE) ambayo itajihusisha na utekelezaji wa mikakati mbalimbali ya kuwalinda wajasiriamali wa ndani pamoja na kutoa elimu kwa umma kuhusu umuhimu wa kuthamini na kutumia bidhaa zinazozalishwa nchini. Taratibu za kuanzishwa kwa Mamlaka hii ziko katika hatua za mwisho.</seg>
+          <seg xml:id="seg204">(ii) Kuimarisha udhibiti na ukaguzi kupitia Shirika la Viwango Tanzania (TBS) wa bidhaa ambazo hazikidhi viwango vya ubora kuingizwa nchini kwa kufungua Vituo vipya vya Ukaguzi katika mipaka yetu na nchi jirani. TBS wamefungua vituo katika Bandari ya Tanga, Horohoro, Holili na Sirari.</seg>
+          <seg xml:id="seg205">Mheshimiwa Spika, Wizara yangu imeanza kutekeleza kwa vitendo azma ya Serikali ya kununua samani toka kwa wazalishaji wa ndani. Napenda kutoa wito kwa taasisi zote za Serikali kuiga mfano huu na kununua samani kutoka kwa wajasiriamali wetu. Ningependa pia kuwahakikishia kuwa bidhaa zinazozalishwa hapa nchini zinakidhi mahitaji ya ubora.</seg>
+          <seg xml:id="seg206">Mheshimiwa Spika, aidha, napenda kutoa wito kwa wazalishaji wa ndani kuomba zabuni za kuziuzia samani taasisi za Serikali kama inavyoelekezwa katika Sheria ya Manunuzi ya Umma ya mwaka 2004. Katika sheria hii, kifungu cha 50 kimeweka bayana nafasi walizonazo wafanyabiashara wa ndani katika kujipatia zabuni zinazotangazwa na taasisi za Serikali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u67" who="MheRuthBMsafiri">
+          <seg xml:id="seg207">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi hii. Nashukuru pia Serikali kwa majibu mazuri. Lakini, katika sentensi ya kwanza kabisa ya majibu, Serikali imekiri kwamba samani za ndani ya Tanzania zina ubora wa hali ya juu sana na pia ikakiri kwamba samani za nje ni nzuri kwa uonekano wa macho lakini ni dhaifu kabisa hazifai, ni hafifu. Je, Serikali ina utaratibu gani sasa wa kuhakikisha kwamba samani zote katika Ofisi za Serikali, Mashirika ya Umma na hamasa ya kutosha inafanyika ili kusudi samani zinazozalishwa Tanzania na hasa zenye viwango vya ubora kama za JKT, Magereza na SIDO ndizo zinazotumika katika ofisi zetu?</seg>
+          <seg xml:id="seg208">Mheshimiwa Spika, swali la pili, Serikali inakusudia kuhamasisha Watanzania kwamba waweze kuwa ni wamoja wanaoweza kupeleka maombi yao ya zabuni. Lakini, hakuna mtu anayeweza kuchukua zabuni bila kuwa amesajiliwa, hivi Serikali inafahamu kwamba kuna utaratibu wa urasimu mkali sana kwa Mtanzania kujisajili kuwa mzabuni na inamsaidiaje?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u68" who="NaibuWaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg209">Mheshimiwa Spika, ni kweli nimekiri hapa kwamba samani za Tanzania kwa kiwango kikubwa zina ubora wa hali ya juu zaidi kuliko samani kutoka nje na Mheshimiwa Msafiri hapa anapenda kujua tunafanya utaratibu gani sasa ili samani hizi za Tanzania zinunuliwe kuliko zile za nje.</seg>
+          <seg xml:id="seg210">Mheshimiwa Spika, jana hapa Mheshimiwa Waziri Mkuu alipokuwa anajibu maswali ya papo kwa papo, alielezea azma ya Serikali kukamilisha marekebisho ya Sheria ya Manunuzi. Marekebisho yale ni pamoja na kuhakikisha kwamba vile vipengele ambavyo vinasaidia wajasiriamali wa ndani kuweza kuuza kwa taasisi za Serikali na katika nchi yetu wanapata kipaumbele. Lakini pili, katika jibu langu nimetoa wito kwa taasisi za Serikali na Wizara kuiga mfano wa Wizara yangu wa kununua samani kutoka kwa wajasiriamali hapa Tanzania.</seg>
+          <seg xml:id="seg211">Mheshimiwa Spika, ukizingatia kwamba hili ni soko la Kimataifa, ni soko huria, bado sheria iliyokuwepo haijaweza kupiga marufuku kununua samani kutoka nje. Lakini tunachofanya hapa ni kujaribu kuweka vile vipengele vya upendeleo katika ile sheria yetu ya manunuzi ili wajasiriamali wa Tanzania waweze kuuza zaidi kuliko zile zinazotoka nje.</seg>
+          <seg xml:id="seg212">Mheshimiwa Spika, la pili ni hili la maombi kwamba pengine wajasiriamali Watanzania watapata shida katika kujisajili kwa ajili ya kushiriki katika mambo haya ya kuomba kandarasi za kuuza samani kwa taasisi za Serikali. Nataka nimhakikishie Mheshimiwa Mbunge kwamba, tunapoendelea katika marekebisho ya sheria hii ya manunuzi tutazingatia na hilo kuhakikisha kwamba kama kuna upungufu kama anavyosema, kama kuna shida anazozisema, basi zinaangaliwa ili wajasiriamali Watanzania nao waweze kupata unafuu katika kujisajili, waweze kushiriki katika kandarasi za hapa nchini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u69" who="NaibuWaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg213">Kutokuwa na Kiwanda cha Nyama – Longido/Ngorongoro</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u70" who="MheMichaelLLaizer">
+          <seg xml:id="seg214">Kwa kuwa, wafugaji wa Wilaya ya Longido na Ngorongoro wanategemea zaidi Kiwanda cha Nyama cha Kenya (Kenya Meat Company (KMC) kwa muda mrefu na kwa kuwa, mifugo mingi imekufa wakati wa kiangazi mwaka 2009/2010, hasa upande wa Kenya:-</seg>
+          <seg xml:id="seg215">Je, Serikali inatambua kwamba, kutokuwa na Kiwanda maeneo haya, Tanzania itaendelea kuwa shamba la Kenya na hivyo Kenya kufaidika na Mifugo ya Tanzania?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u71" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg216">Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Michael Lekule Laizer, Mbunge wa Longido kama ifuatavyo:-</seg>
+          <seg xml:id="seg217">Mheshimiwa Spika, Mkoa wa Arusha ni kati ya mikoa yenye mifugo mingi nchini. Takwimu za mwaka 2009 zinaonyesha kuwa Mkoa wa Arusha una jumla ya ng’ombe 1,531,118, mbuzi 1,286,574 na kondoo 971,130, kati ya mifugo hiyo Wilaya za Ngorongoro na Longido zinazopakana na nchi ya Kenya zina ng’ombe wapatao 736,664, mbuzi 629,673 na kondoo 442,970.</seg>
+          <seg xml:id="seg218">Mheshimiwa Spika, Wizara inatambua kwamba maisha ya maendeleo ya wananchi wengi katika Wilaya za Ngorongoro na Longido yanategemea sana ufugaji kama ilivyo kwa maeneo mengine yenye mifugo mingi. Mifugo ikiboreshwa na kuongezewa thamani ina uwezo mkubwa wa kuwaondolea wafugaji umaskini na kuongeza pato la Taifa. Hata hivyo, mifugo mingi katika Wilaya za Ngorongoro na Longido imekuwa ikipelekwa nchini Kenya kwa njia isiyo rasmi na kulikosesha Taifa mapato. Kwa kutambua hili Wizara ilijenga minada ya mpakani ya Longido na Waso ili kurasimisha biashara ya mifugo. Aidha, Machinjio ya Sakina yaliyopo Manispaa ya Arusha yanafanya kazi na yana uwezo wa kuchinja ng’ombe 300 kwa siku.</seg>
+          <seg xml:id="seg219">Mheshimiwa Spika, pamoja na juhudi za kurasimisha biashara ya mifugo na uwepo wa machinjio ya Sakina, Wizara tayari imeainisha maeneo ya kujenga Viwanda vya Nyama nchini, ikiwa ni pamoja na eneo la Themi katika Wilaya ya Arumeru ambapo wafugaji wa Ngorongoro na Longido wanaweza kutumia. Pia zipo asasi ambazo zinaonyesha nia ya kujenga machinjio katika eneo la Manyara Ranch sehemu ya Makuyuni na Wizara inaendelea kuhamasisha wawekezaji kujenga viwanda katika Wilaya hizo.</seg>
+          <seg xml:id="seg220">Mheshimiwa Spika, ukamilikaji wa machinjio hayo mapya yanayojengwa na sekta binafsi na matumizi ya machinjio ya Sakina kikamilifu yataweza kuwanufaisha wananchi wa Mkoa wa Arusha, hususan wa Wilaya za Ngorongoro na Longido kama</seg>
+          <seg xml:id="seg221">soko la mifugo yao badala ya kutegemea soko la jirani. Nachukua nafasi hii kuwahimiza wafugaji wa Wilaya za Ngorongoro na Longido kutumia kikamilifu machinjio hayo ili waweze kupata mapato stahili pamoja na kuchangia katika kuongeza pato la Taifa kupitia sekta ya mifugo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u72" who="MheMichaelLLaizer">
+          <seg xml:id="seg222">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niulize maswali mawili ya nyongeza. Kwa kuwa ni muda mrefu tangu Serikali ya Awamu ya Tatu itoe ahadi kwamba itajenga machinjio katika Mkoa wa Arusha na mpaka sasa bado hatujaona mategemeo kwamba inajengwa. Je, ni lini Serikali itachukua jukumu hili la kuwasaidia wafugaji wa Mkoa wa Arusha wapate nao machinjio?</seg>
+          <seg xml:id="seg223">Mheshimiwa Spika, swali la pili, kwa kuwa nchi yetu inaingia kwenye biashara ya Afrika Mashariki na wananchi wa Longido wamekwishaboresha mifugo sawasawa na mifugo ya Kenya na bado tunauza mifugo kwa njia ambayo siyo halali kama alivyosema Mheshimiwa Waziri, je, Serikali itaweka utaratibu gani na sisi tuingie kwenye Jumuiya ya Afrika Mashariki tuuze mifugo katika masoko haya ya Kenya kwa njia ya halali ili Serikali ipate mapato kwa sababu mpaka sasa wananchi wanakwenda bila utaratibu wowote? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u73" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg224">Mheshimiwa Spika, ameeleza kwamba Serikali siku nyingi imekuwa ikitoa ahadi katika kujenga machinjio ya Arusha. Lakini, katika jibu langu la msingi nimeeleza kwamba kuna machinjio katika eneo la Sakina ambayo yana uwezo wa kuchinja ng’ombe 300 kwa siku.</seg>
+          <seg xml:id="seg225">Mheshimiwa Spika, hata hivyo, Serikali inaendelea kuwahamasisha wawekezaji mbalimbali ili waje kujenga viwanda katika nchi yetu. Lakini, ni ukweli usiopingika kwamba wawekezaji hawa watakuja kujenga viwanda katika maeneo yetu kama sheria zetu nazo tutazibadilisha ili ziendane na kuwavutia hao wawekezaji na ndiyo maana katika siku nyingi sekta ya mifugo na hasa sisi Tanzania mazao yetu tumekuwa tukiyauza hata Kenya kama raw material. Kwa mfano, ngozi zetu tumekuwa tukiziuza karibu asilimia 80 kama raw material na ngozi nyingi tunaziuza Kenya. Tanzania hatuwezi tukauza maziwa nje pamoja na kwamba tuna Sheria ya Maziwa Na. 8 ya mwaka 2004. Tanzania hatuwezi tukauza nyama nje pamoja na kwamba tuna Sheria Na. 10 ya mwaka 2006.</seg>
+          <seg xml:id="seg226">Mheshimiwa Spika, haya yote mtu anayaangalia ili kuweza kuja kuwekeza viwanda, kwa hiyo, kama hatutazibadilisha sheria zetu ikiwa ni pamoja na sheria ya traceability ambayo itasaidia mtu atakaponunua ile nyama, nyama ile iweze kuuzwa nje. Kwa hiyo, wito wangu ambao ningependa kuutoa kwa Mheshimiwa Laizer pamoja na</seg>
+          <seg xml:id="seg227">Waheshimiwa Wabunge, tusipobadilisha sheria zetu ili ziendane na sheria ya sasa, tutaendelea kuwa wasindikizaji katika biashara ya kisasa.</seg>
+          <seg xml:id="seg228">Mheshimiwa Spika, amezungumzia biashara ya Afrika Mashariki kwamba Longido bahati nzuri wameishaboresha mifugo yao. Nampongeza sana Mheshimiwa Laizer, ni kweli kabisa kwamba wananchi wa Longido wameendelea kuboresha mifugo yao. Sasa kilichobaki ni kubadilisha sheria zetu ili ziendane na ushindani wa kweli katika soko la Afrika Mashariki. Kwa hiyo, huo ndio wito wangu. Lakini napenda kumpongeza sana Mheshimiwa Laizer kwamba wananchi wa Longido ni kweli wameboresha mifugo yao na Serikali itaendelea kushirikiana na wananchi wa Longido katika kuhakikisha kwamba biashara ya mifugo yao inaendana na hali halisi ya kisasa ikiwa ni pamoja na kubadilisha sheria zetu ambazo zinaweza kutoa changamoto katika sekta hii ya mifugo.</seg>
+        </u>
+        <note>Na. 50. Matukio ya Hatari - Mbuga za Mikumi</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u74" who="MheEngStellaMManyanya">
+          <seg xml:id="seg229">Kwa kuwa, Mbuga za Mikumi hupitiwa na barabara kuu na hivyo kusababisha wanyama kugongwa mara wavukapo barabara na wakati mwingine wanyama hao husimama barabarani na kutishia waendao kwa miguu pamoja na abiria:-</seg>
+          <seg xml:id="seg230">(a) Je, ni lini Serikali itaweka namba za simu kwenye mabango ya mbuga hizo ili kuwawezesha watu kutoa taarifa wakati wa dharura?</seg>
+          <seg xml:id="seg231">(b) Je, ni utaratibu gani unaotumika kwa sasa katika kutoa taarifa kama hizo?</seg>
+          <seg xml:id="seg232">(c) Je, kuna matukio mangapi ya hatari kwa binadamu yametokea toka kuwepo kwa barabara katika mbuga hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u75" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg233">Mheshimiwa Spika, kabla ya kujibu swali la Mheshimiwa Mhandisi Stella Martin Manyanya, Mbunge wa Viti Maalum, napenda kutoa maelezo mafupi ya utangulizi kama</seg>
+          <seg xml:id="seg234">Mheshimiwa Spika, ni kweli kwamba Hifadhi ya Taifa Mikumi imepitiwa na Barabara Kuu inayotoka jijini Dar es Salaam kuelekea Mikoa ya Kusini na nchi jirani za Zambia na kadhalika. Barabara hiyo imepita ndani ya Hifadhi kwa umbali wa kilomita 50 kuanzia Kijiji cha Doma hadi Mji wa Mikumi. Pamoja na barabara hiyo kupita katika hifadhi, hakuna mtu anayeruhusiwa kutembea kwa miguu kwa ajili ya usalama. Sharti hilo ni kwa mujibu wa Kanuni za Hifadhi za Taifa Tanzania kwa sababu eneo hilo ni hifadhi ya wanyamapori kama yalivyo maeneo mengine ya Hifadhi.</seg>
+          <seg xml:id="seg235">Mheshimiwa Spika, baada ya maelezo hayo mafupi, naomba kujibu swali la Mheshimiwa Mhandisi Stella Martin Manyanya, Mbunge Viti Maalum lenye vipengele (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg236">(a) Kutokana na maoni ya wadau mbalimbali ambayo tumeyapokea akiwepo Mheshimiwa Mbunge, Mhandisi Stella Martin Manyanya, Uongozi wa Shirika la Hifadhi za Taifa kuanzia mwezi Machi 2010, umeanzisha utaratibu utakaowawezesha watu kutoa taarifa mbalimbali wakati wa dharura kwa kuweka mabango katika malango ya kuingilia katika Hifadhi ya Taifa Mikumi. Mabango hayo yameandikwa namba za simu, fax na barua pepe. Aidha, wageni wanapoingia katika hifadhi hupewa kadi zilizochapishwa namba za simu za Mkuu wa Hifadhi. Namba hizo ni pamoja na 023 2620498 pamoja na barua pepe ambayo kwa ajili ya muda naomba nisiitaje, lakini namba ziko kwenye mabango kwenye lango la kuingilia.</seg>
+          <seg xml:id="seg237">(b) Mheshimiwa Spika, utaratibu wa kutoa taarifa uliopo kwa sasa ni pamoja na huo ambao nimeueleza katika kipengele (a) cha swali hili. Sambamba na utaratibu huo, pia hifadhi ya Taifa Mikumi imeweka mabango yanayoonyesha sehemu ilipo ofisi ya lango la kuingilia watalii ambapo huduma hutolewa saa 24. Utaratibu mwingine unaotumika ni wa kufanya doria kila siku katika barabara hiyo kwa ajili ya kuangalia iwapo kumetokea matukio ya ajali au wanyamapori kugongwa na magari yanayopita katika barabara hiyo. Hifadhi imeweka vituo vya Askari wa Wanyamapori katika maeneo ya barabara inapoingilia na kutokea yaani maeneo ya Doma na Kikwaraza kwa ajili ya kupokea matukio ya ajali ndani ya Hifadhi na kuyafuatilia. Pia kuna vituo vya Polisi katika Vijiji vya Doma na Mji wa Mikumi ambapo taarifa ya matukio ya ajali huripotiwa katika vituo hivyo kwa hatua zaidi.</seg>
+          <seg xml:id="seg238">(c) Mheshimiwa Spika, hakuna matukio ya hatari ya watu kushambuliwa na wanyama kwa kuwa hakuna mtu anayeruhusiwa kutembea hifadhini kwa miguu kwenye barabara. Aidha, yapo matukio ya ajali za barabarani yanayotokea kwa magari kugonga wanyama kutokana na mwendo kasi. Takwimu zinaonyesha kuwa kuanzia mwaka 2000 hadi 2009, idadi ya wanyamapori waliogongwa na magari ni 920 wakiwemo Tembo 21,</seg>
+          <seg xml:id="seg239">Twiga 11, Simba 9, Chui 5, Nyati 52, Pundamilia 17, Swala para 219, Nyani 49 na wanyama wa aina zingine 537.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u76" who="MheEngStellaMManyanya">
+          <seg xml:id="seg240">Mheshimiwa Spika, ahsante sana. Kwanza, namshukuru sana Mheshimiwa Naibu Waziri kwa majibu yake mazuri na vile vile natarajia kwamba atatembea juu ya maneno yake kwa jinsi ambavyo ametueleza. Naomba nisisitize kwamba, mimi binafsi pamoja na uwepo wa sheria hiyo, nimeshuhudia kuona mama akiwa na mtoto saa mbili za usiku akipita katika mbuga hizo na vile vile nimewahi kushuhudia wanyama wakiwa wamekinga barabara wakati huo tukashindwa kupita.</seg>
+          <seg xml:id="seg241">Mheshimiwa Spika, lakini jambo lingine nililosikia ni mtu kuliwa na simba na mtu mwingine kujeruhiwa na majambazi kwa kuwa kuna msitu mkubwa katika hizo mbuga. Kwa hiyo, niseme tu kwamba, naipongeza sana Wizara kwa hatua ambazo zimechukuliwa ambazo zitasaidia kufanya watu waweze kutoa taarifa zinazostahili. Baada ya hapo, nami natoa shukrani hizo kwa hiyo, sitauliza swali lingine la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u77" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg242">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali dogo la nyongeza. Kwa kuwa wanyama wengi sana wanauawa kwenye mbuga hii ya wanyama kutokana na madereva kutofuata alama zilizowekwa kwenye vibao, maeneo ya mapito ya wanyama wanapita speed ya 100/120. Wanyama kila siku wanauawa kama taarifa zilivyosema na Naibu Waziri kathibitisha na kwa kuwa Serikali iliwahi kuahidi kwamba itahamisha barabara hii ili kuipitisha pembeni na hivyo kuweza kuokoa kivutio hiki kizuri kwa watalii. Je, Serikali imefikia wapi na taratibu za kuweza kuhamisha barabara hii kuipeleka pembeni ili kunusuru kivutio hiki kizuri kwa ajili ya watalii wetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u78" who="NaibuWaziriMaliasiliNaUtalii">
+          <seg xml:id="seg243">Mheshimiwa Spika, naomba kwanza nimshukuru sana Mheshimiwa Engineer Stella Manyanya kwa pongezi alizotupa na kama ambavyo ametoa tahadhari nimhakikishie tu kwamba niliyoyasema ni mambo ambayo yanatendeka hivi sasa. Hata katika jibu la maandishi tumempatia linaonyesha namba za simu barua pepe pamoja na fax ambazo watu wenye mapenzi mema wanaweza wakazitumia kutupa taarifa.</seg>
+          <seg xml:id="seg244">Mheshimiwa Spika, naomba kumjibu Mheshimiwa Magdalena Sakaya swali lake la nyongeza kama ifuatavyo. Suala la kuhamisha barabara kuitengeneza au kutengeneza eneo lingine ni suala ambalo lina gharama kubwa lakini linasimamiwa na Wizara nyingine kwa upande wetu sisi kama Wizara ya Maliasili ya Maliasili na Utalii, tulichokifanya ni kuzungumza na wenzetu wa TANROADS kuweka matuta katika</seg>
+          <seg xml:id="seg245">barabara hiyo, kuna sehemu 12 ambazo tumeweka matuta ya kupunguza kasi lakini pia katika hizi doria ambazo wamekuwa wakifanya tumekuwa tukiwakamata wahalifu wanaofanya vitendo vya namna hiyo yakiwemo kugonga wanyama na katika kipindi cha miaka mitano iliyopita kuanzia mwaka 2005 tumekusanya zaidi ya shilingi milioni 109 kama fine kwa watu wanaofanya makosa mbalimbali kwenye Hifadhi.</seg>
+          <seg xml:id="seg246">Mheshimiwa Spika, kwa hiyo, tunaendelea na patrols ndani ya Hifadhi na utaratibu wa kuhamisha barabara unaendelea kusimamiwa na Wizara ya Miundombinu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u79" who="Spika">
+          <seg xml:id="seg247">Swali la mwisho Waheshimiwa ni la Wizara ya Nishati na Madini linaulizwa na Mheshimiwa Yono Stanley Kevela wa Njombe Magharibi.</seg>
+        </u>
+        <note>Na. 51. Kuagiza Nguzo Nje ya Nchi</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u80" who="MheYonoSKevela">
+          <seg xml:id="seg248">Kwa kuwa, hadi sasa malighafi nyingi zinatoka nje ya nchi kama vile nguzo za umeme – kutoka Afrika ya Kusini:-</seg>
+          <seg xml:id="seg249">(a) Je, ni kwa nini Serikali isitumie nguzo za SAO HILL Mufindi – Iringa?</seg>
+          <seg xml:id="seg250">(b) Kama tatizo ni bei kubwa kwa nguzo za ndani ya nchi. Je, Serikali ina mkakati gani wa kupunguza bei hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u81" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg251">Mheshimiwa Spika, ununuzi wa nguzo pamoja na vifaa vingine vya ujenzi wa Miundombinu ya umeme nchini hufanywa kwa njia ya ushindani kwa mujibu wa Sheria ya Manunuzi ya mwaka 2004. Zabuni hutangazwa na kushindaniwa na mshindi wa zabuni hupewa kazi kulingana na taratibu za manunuzi, vigezo vya ununuzi wa nguzo vinalingana kwa zabuni za Kitaifa na za Kimataifa.</seg>
+          <seg xml:id="seg252">Mheshimiwa Spika, Serikali haiamui mahali pa kununua nguzo isipokuwa Sheria ya Manunuzi ya mwaka 2004 inaelekeza kununua nguzo kwa njia ya ushindani ambapo zabuni hutangazwa kwa ajili ya wauzaji wa nguzo hapa nchini na nje ya nchi. Baada ya Kampuni kutimiza vigezo vya ubora wa nguzo, kigezo cha bei hutumika kuchagua kampuni ya kusambaza nguzo za umeme kwa mfano mwaka 2007, Kampuni ya SAO</seg>
+          <seg xml:id="seg253">HILL Mufindi ya hapa nchini iliomba kusambaza nguzo nchi nzima kwa bei ya shilingi laki mbili na elfu kumi kwa nguzo za mita kumi na shilingi laki tatu na elfu hamsini na tano kwa nguzo za mita kumi na tatu.</seg>
+          <seg xml:id="seg254">Mheshimiwa Spika, na Kampuni ya TRITEL TIMBER LIMITED ya Afrika ya Kusini iliomba kusambaza nguzo Mikoa ya Tanga, Lindi na Dar es salaam kwa bei ya shilingi laki moja na sabini na mbili elfu kwa nguzo za mita kumi na shilingi laki mbili na sitini na nane elfu kwa nguzo za mita kumi na tatu. Hivyo basi Kampuni ya SAO HILL Mufindi ilipata tender ya kusambaza nguzo nchi nzima isipokuwa Mikoa hiyo ya Tanga, Lindi na Dar es salaam wakati Kampuni ya TRITEL TIMBER LIMITED ilipata tender kusambaza nguzo katika Mikoa hiyo ya Tanga, Lindi na Dar es Salaam.</seg>
+          <seg xml:id="seg255">Mheshimiwa Spika, kutokana na kigezo cha gharama na Sheria ya Manunuzi ya mwaka 2004 nguzo za gharama ndogo ndizo hupewa kipaumbele. Nguzo huzalishwa na kuuzwa na Kampuni Binafsi za ndani na nje ya nchi yetu, hivyo suala la bei ya nguzo hupangwa na Kampuni husika kulingana na gharama za uzalishaji au manunuzi katika mfumo wa uchumi tulio nao hivi sasa, soko ndilo huathiri bei za bidhaa na huduma zikiwemo bei za nguzo.</seg>
+          <seg xml:id="seg256">Mheshimiwa Spika, manunuzi ya nguzo kwa njia ya ushindani ndiyo njia muafaka ya kupunguza bei kama inavyoelekezwa na Sheria ya Manunuzi ya mwaka 2004. Hii ni kwa sababu katika hali ya ushindani mpana ambapo kuna wafanyabiashara wengi wa bidhaa husika, mkono wa soko usionekane kurekebisha bei za bidhaa na huduma na hivyo bidhaa bora hununuliwa kwa bei ndogo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u82" who="MheYonoSKevela">
+          <seg xml:id="seg257">Mheshimiwa Spika, nashukuru kwa majibu mazuri ya Mheshimiwa Naibu Waziri na pia nipongeze kuwa tumepata umeme hivi karibuni katika Vijiji vya Mhaji, Igima, Mdandu, Wang’ing’ombe na Utiga nakupongeza sana kwa niaba ya Wanachi wa Njombe Magharibi. Lakini pamoja na pongezi hizi nilikuwa nina maswali madogo ya nyongeza ambayo niliona ni vizuri niyaweke wazi.</seg>
+          <seg xml:id="seg258">Mheshimiwa Spika, swali la kwanza kwa kuwa, vigezo vya gharama na Sheria ya Manunuzi ya mwaka 2004 inachangia sana kuua viwanda vyetu vya ndani na kuua Uzalendo hivyo kupelekea wananchi wengi kukosa ajira. Pia Sheria hii vilevile inasaidia sana kwa kiasi kikubwa kukuza viwanda vya nje na kukuza ajira ya wageni sasa je, Serikali haioni sasa kuna umuhimu wa kuirekebisha Sheria hii au kuifuta kabisa kwa sababu inagandamiza viwanda vya ndani na kukosesha ajira kwa wananchi wetu?</seg>
+          <seg xml:id="seg259">Mheshimiwa Spika, swali la pili, kwa kuwa jibu la msingi lilikuwa linahusu bei ya nguzo na usambazaji wa umeme vijijini. Je, Serikali ina mpango gani katika kuweka umeme kwenye vijiji ambavyo tayari kuna nguzo ambazo Serikali imegharamia gharama</seg>
+          <seg xml:id="seg260">kubwa kwa mfano, katika Wilaya ya Njombe katika Vijiji vya Korinto, Parangawanu na vijiji vingi ambavyo vipo hapa nchini na sekondari zingine ziko jirani na nguzo hapo hapo lakini zile sekondari hazina umeme mfano Ilembulla, Kijombe, Sovi, na Maguvwani….</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u83" who="Spika">
+          <seg xml:id="seg261">Rejea kwenye swali Mheshimiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u84" who="MheYonoSKevela">
+          <seg xml:id="seg262">Mheshimiwa Spika, kwa hiyo, naomba nipate majibu Serikali ina mpango gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u85" who="NaibuWaziriNishatiNaMadini">
+          <seg xml:id="seg263">Mheshimiwa Spika, hili la kwamba Sheria ya Manunuzi inaua Uzalendo na inakuza viwanda vya nje dhidi ya jitihada za viwanda vya ndani. Nadhani sina Mamlaka ya kulisemea hili nadhani jana Waziri Mkuu alilizungumzia lakini Mheshimiwa Spika na wewe uliwahi kulizungumzia hili, nadhani ilikuwa Jumanne na ulisema kwamba katika utekelezaji na utendaji wa Sheria ya Manunuzi, kuna kitu kinaitwa Regulatory Impact Assessment. Naamini kwamba sisi wote hapa tunawajibu wa kufanya tathmini kuhusu utekelezaji wa hii Sheria na kuangalia kama yale malengo yaliyowekewa hii Sheria kama yanatusaidia au inahitaji marekebisho. Kama marekebisho haya yakifanywa naamini yatafanywa ndani ya Bunge lako Tukufu. Kwa hiyo, hayo ni masuala ambayo kwa kuwa Sheria yenyewe inakuja kufanyiwa marekebisho basi yote ni mambo ambayo nadhani yatapata nafasi ya kuzungumziwa kwa wakati huo.</seg>
+          <seg xml:id="seg264">Mheshimiwa Spika, hili suala la pili ni la bei za nguzo, na Wilaya ya Njombe nguzo ziko jirani na kuna maeneo hayana umeme. Sijui kama nguzo ziko jirani katika hali gani, kama tayari zimeshakatwa ziko pale Kijijini zinasubiri kusimikwa au vipi, maana bado kuna masuala ya kuwa na nyaya na transfoma na kadhalika au sijui labda ziko jirani kwa sababu zinaota palepale karibu, lakini kwa hali yoyote ile naomba nimhakikishie tu Mheshimiwa Yono kwamba kama tulivyofanya kwa kuweka umeme kwenye Vijiji vingine kama alivyovitaja, naamini Vijiji ulivyovitaja kwa sababu ulishaviombea basi vitafanyiwa kazi na TANESCO ama na REA kwa mujibu kama vilivyopangwa. Naamini kwamba, kulingana na kasi ya utekelezaji na uwezo pamoja na upatikanaji wa fedha, miradi hii pia itapata ufumbuzi wa kupata umeme kulingana na hali halisi ya fedha itakavyokuwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u86" who="Spika">
+          <seg xml:id="seg265">Waheshimiwa Wabunge, maswali yamekwisha na pia muda wa maswali umepita. Kuna matangazo na kama kawaida tunaanza na wageni, nafurahi sana kuwatambulisha kwenu Mheshimiwa Balozi wa Rwanda nchini Mheshimiwa Fatma Ndangiza, naomba asimame pale alipo, ameambatana na mumewe Ndugu Ismail Nyawawa ambaye ni Mkurugenzi wa Masoko katika Kampuni ya Magnya Farms ya Jijini Dar es salaam. Karibuni sana hususan Mheshimiwa Balozi, tunajua wewe unajua sana Kiswahili, kwa hiyo sina haja ya kutafasiri kitu chochote, tunafurahi sana kukuona hapa na nimefurahia sana mwaliko wa kutembelea Rwanda nikaone ule utaratibu ambao Mheshimiwa Rais Kagame anafanya kuhusu uwajibikaji katika utendaji ndani ya Serikali, tunawapongeza sana kwa maendeleo makubwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u87" who="Spika">
+          <seg xml:id="seg266">.</seg>
+          <seg xml:id="seg267">Wapo wageni kumi wa Mheshimiwa Ezekiel Maige, Naibu Waziri wa Wizara ya Maliasili na Utalii ambao ni Wanafunzi wa Chuo Kikuu Dodoma wakiongozwa na Ndugu Nestori Samsoni naomba wasimame tuweze kuwatambua, wapo pale mkono wa kulia. Ahsanteni sana tunawatakia mafanikio katika masomo msome kwa bidii.</seg>
+          <seg xml:id="seg268">Wapo pia wageni 11 wa Mheshimiwa Dr. Wilibroad Slaa ambao ni wanafunzi kutoka Chuo Kikuu cha Dodoma wamekuja kutembelea Bunge na wanaongozwa na Ndugu Theodor Hango, Katibu Mstaafu wa CHADEMA Ruvu. Naomba wasimame, wale pale wamekaa vizuri tu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u88" who="Spika">
+          <seg xml:id="seg269">Wanachuo wa Maige ni wana CCM wale wa Dr. Slaa ni CHADEMA lakini wamekaa pamoja na haya ndiyo mambo ambayo yanapendeza sana katika nchi yetu. Sisi hapa yanaonekana mepesi lakini nchi nyingine watu wa vyama tofauti hawakai karibu hata kidogo. Ahsante sana vijana.</seg>
+          <seg xml:id="seg270">Vile vile kuna wageni wa Mheshimiwa Dr. Binilith Mahenge ambao ni Ndugu Augustino Mbogella. Rais wa Taasisi ya Ukaguzi wa ndani Tanzania. yule pale upande wa kushoto. mtu mzito sana huyu Rais wa Taasisi ya Ukaguzi wa Ndani ni mkubwa wa Internal Auditors wote hapa Tanzania pia na Ndugu Richard Magongo, Mtunza Fedha wa Taasisi ya Ukaguzi wa Ndani (Institute of Internal Auditors of Tanzania), yule pale, ahsante sana, karibuni sana.</seg>
+          <seg xml:id="seg271">Waheshimiwa Wabunge, nafurahi pia kumtambulisha kwenu au kuwatambulisha kwenu Wahariri wa Gazeti la Citizen wakiongozwa na Mhariri mtendaji Ndugu Bakari Machumu naomba wasimame wale ndiyo team ya Citizen. Karibuni sana, Gazeti lenu lina taarifa nyingi na mnaliandika kwa umahiri, tunawapongeza sana.</seg>
+          <seg xml:id="seg272">Pia wapo washiriki 30 wa shindano la urembo kutoka Vyuo vya vya Elimu ya juu Dodoma, naomba wasimame, naona wamenyakuliwa kabla ya kuingia humu katika ukumbi. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u89" who="Spika">
+          <seg xml:id="seg273">Wapo wanafunzi 30 kutoka Chuo cha Biashara Dodoma CBE. Wale pale adsanteni sana wataalam wetu, tunawatakia mema katika mafunzo yenu ili muweze kufanya vyema.</seg>
+          <seg xml:id="seg274">Wapo wageni wa Spika ambao ni wanachuo kutoka asili yao Urambo wanasoma katika Chuo cha Ualimu Capital hapa Dodoma kwa ajili ya Diploma ni Isack Manoja, Joseph Juma na Manyama Nzilayape, karibuni sana nanyi pia nawatakia mafanikio mazuri.</seg>
+          <seg xml:id="seg275">Mwisho, lakini siyo mwisho kwa umuhimu kwa wageni, pale kwenye Speakers Gallery, nashukuru na nafurahi kuwatangazia Waheshimiwa Wabunge nina wageni maalum ambao ni wanakwaya 40 wa kwaya ya Mtakatifu Secilia Parokia ya Urambo Naomba tafadhali msimame wageni wangu. Ahsante sana wana kwaya hawa</seg>
+          <seg xml:id="seg276">wanaongozwa na Brother Silasi au huwa wanaitwa ma- Bruder, Brother Silasi ambaye ni Kiongozi wa msafara naomba asimame, yeye ni mwalimu ambaye ni raia wa Kenya anafundisha katika shule yetu ya Sekondari ya Kimataifa ya Saint Vicent De Paul, mimi najua nyinyi ni wazazi siyo mnapeleka tu watoto sekondari Mijini, kuna shule zenye nidhamu, shule yetu ya Saint Vicent De Paul pale Urambo mjini, ina walimu kutoka Mataifa mbalimbali Srilanka, India, Kenya, Uganda na kadhalika.</seg>
+          <seg xml:id="seg277">Kwa hiyo, ni vizuri mkapata hewa ya Urambo, mkawapeleka kule watoto ili waweze kupata elimu bora. Ila namwomba Mheshimiwa Waziri wa Maji aharakishe sana maji pale tuna tatizo la maji. Ahsante Brother Silas.</seg>
+          <seg xml:id="seg278">Yupo mlezi Mama Hilda Chafila mlezi wa kwaya amefuatana na hao vijana, pia tunaye Mwenyekiti wa kwaya hii ambaye ni Ndugu Cyprian Hiza, tuna Makamu Mwenyekiti Ndugu Efrasia Medani, tuna Katibu wa kwaya Ndugu Chrispine Majige na tuna Katibu Msaidizi Mama Muhoza, labda ana udhuru kidogo basi wageni wangu nawashukuru sana na tunawatakia mema huko mnakokwenda Dar es salaam kwa ajili ya kurekodi kanda ya video na CD na kanda za kawaida za tape.</seg>
+          <seg xml:id="seg279">Tunawatakia mafanikio na safari njema na mkirejea Urambo msalimie Baba Paroko Monela, ni mtu mwema. Mzidi kutuombea sana kwa sababu mnajua mwaka huu ni mgumu kidogo. Kwa hiyo, mkiwa mnafunga na kuomba ili aliye bora apite Urambo Mashariki siyo lazima iwe mimi lakini aliye bora tu asanteni sana </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u90" who="Spika">
+          <seg xml:id="seg280">.</seg>
+          <seg xml:id="seg281">Matangazo ya kazi, Mheshimiwa William Shellukindo, Mwenyekiti wa Kamati ya Nishati na Madini anaomba Waheshimiwa Wabunge wote wa Kamati hii ya Nishati na Madini mkutane leo kikao muhimu sana na nimekiruhusu saa tano asubuhi ili mjaribu kuzingatia ile Sheria ya Madini 2010. Sheria ya Madini 2010 ni muhimu kwa nchi yetu kwa hiyo, Wajumbe wote wa Kamati leo 16 April saa tano asubuhi katika Ukumbi wa Msekwa watakuwepo pia wadau, wamekuja kutoka maeneo mbalimbali Mwanza, Geita, Dar es slaam na kadhalika mkutane pale Pius Msekwa, saa tano asubuhi hii mara baada ya matangazo.</seg>
+          <seg xml:id="seg282">Mheshimiwa Dr Wilbroad Slaa, Mwenyekiti wa Kamati ya Hesabu za Serikali za Mitaa, anaomba Wajumbe wote wa Kamati hiyo ya LAAC mkutane katika ukumbi namba 219 saa saba mchana leo. Kwa hiyo, Kamati ya Hesabu za Serikali za Mitaa saa saba mchana, ukumbi namba 219 jengo la Utawala.</seg>
+          <seg xml:id="seg283">Mheshimiwa George Malima Lubeleje, Mwenyekiti wa Kamati ya Katiba, Sheria na Utawala ameniomba nitangaze kwamba, kutakuwa na kikao cha dharura na muhimu cha Kamati ya Katiba, Sheria na Utawala ambao watakutana kwa pamoja na Kamati ya Sheria ndogo. Hiki ni kikao cha pamoja a joint Committee Katiba, Sheria na Utawala pamoja na Kamati ya Sheria Ndogo watakutana katika ukumbi namba 231 mara baada ya matangazo haya. Kikao hiki ni muhimu sana kinazingatia Muswada wa Marekebisho ya Sheria Mbalimbali, tafadhali Wajumbe hao wa Kamati hizo mbili Katiba, Sheria na Utawala na ile ya Sheria Ndogo mkutane kwa pamoja hapo ukumbi 231, mara baada ya matangazo haya.</seg>
+          <seg xml:id="seg284">Mheshimiwa Waziri wa Maendeleo ya Jamii, Jinsia na Watoto, ametualika Wabunge wote siku ya kesho, ambako kutakuwa na tamasha maalum uwanja wa Jamhuri, saa tatu asubuhi tuwe tumeketi, mgeni rasmi ni Mheshimiwa Waziri Mkuu. Watoto wa Mkoa wa Dodoma kutoka Wilaya zote, waliamua toka Mkutano wa Kumi na Nane, waipongeze Serikali na Bunge hili kwa kupitisha Sheria ya Mtoto ya mwaka 2009. Wamesafiri kutoka sehemu mbalimbali, wana mambo ya kutuonesha, tuwe tayari tumeketi saa tatu asubuhi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u91" who="Spika">
+          <seg xml:id="seg285">Waheshimiwa Wabunge, kesho hakuna Bunge badala yake saa tano tutaingia katika semina ya Soko la Afrika Mashariki, kwanza twende Jamhuri Stadium, tuwapokee hawa watoto wetu, tuone watakayotuonesha, kwa sisi wengine ni wajukuu zetu, watuoneshe furaha zao pale, ni jambo zuri sana kwa wananchi hasa kwa mila na desturi kushukuru na wakianza wakiwa watoto basi tuwape moyo, hatutaki tuonekane wachache pale, siyo vizuri. Baada ya hapo, tunakuja moja kwa moja kwa semina ya Soko la Afrika Mashariki ambayo itaanza saa tano asubuhi, wale waliotangaziwa kwamba ingekuwa Jumapili sivyo, itakuwa kesho saa tano asubuhi na itifaki zake zote zimeandaliwa.</seg>
+          <seg xml:id="seg286">Waheshimiwa Wabunge, tangazo la mwisho, katika harakati zetu zile za kulijenga Bunge letu liwe moja katika moja ya Mabunge madhubuti hapa Afrika, tunaanzisha leo utaratibu ambao umepitishwa na Kamati ya Uongozi, kuwapa kila asubuhi waraka huu ambao ni Daily Summary Record of Proceedings. Kila siku Makatibu Mezani, watatoa muhtasari wa mambo yote yaliyotokea ukumbini kuanzia maswali hadi jioni, mnapofika asubuhi mnapata summary hii, kwa hiyo, hata kama Mheshimiwa Mbunge hakuhudhuria jana yake badala ya kuhangaika kwenda maktaba atafute Hansard, hapa kuna muhtsari. Kwa mfano, juzi Mheshimiwa Spika, alisoma Dua saa tatu, maswali yaliyoulizwa, Ofisi ya Waziri Mkuu maswali manne na kadhalika, matangazo, Miswada ya Sheria ya Serikali iliyoshughulikiwa, Kamati za Bunge zilizokutana, Bunge kurejea, Bunge kusitishwa, Bunge kurejea saa kumi na moja, Mwongozo wa Spika, Naibu Spika alitoa Mwongozo na akatoa uamuzi, wachangiaji walioendelea kuchangia, taarifa na matangazo na mwisho Mheshimiwa Naibu Spika, aliahirisha kikao saa moja na dakika arobaini na tano jioni. Kwa hiyo, hata kama mtu alikuwa Dar es Salaam akija badala ya kuhangaika kujua nini kilitokea jana yake basi anakuwa na hii. Tumeuiga mfano huu kutoka kwenye Mabunge ambayo yamepiga hatua zaidi yenye lengo lile lile la kuimarisha Bunge letu, liwe moja ya Mabunge bora kufikia mwaka 2013.</seg>
+          <seg xml:id="seg287">Waheshimiwa Wabunge, nina wageni, ninaomba Mwenyekiti, Mheshimiwa Jenista Mhagama, aje ili aongoze kwa shughuli zinazofuata.</seg>
+          <seg xml:id="seg288">Hapa Mwenyekiti (Mhe. Jenista J. Mhagama) Alikalia Kiti</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u92" who="Mwenyekiti">
+          <seg xml:id="seg289">Waheshimiwa Wabunge, tunaendelea, nitamwita Katibu kwa shughuli inayofuata.</seg>
+          <seg xml:id="seg290">MISWADA YA SHERIA YA SERIKALI</seg>
+          <seg xml:id="seg291">Muswada wa Sheria ya Marekebisho ya Sheria ya Masoko ya Mitaji na Dhamana</seg>
+          <seg xml:id="seg292">wa Mwaka 2010 [The Capital Markets and Securities (Amendment) Bill, 2010]</seg>
+        </u>
+        <note>(Kusomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u93" who="Mwenyekiti">
+          <seg xml:id="seg293">Waheshimiwa Wabunge, tunaendelea sasa na Muswada ambao umepangwa kwenye Order Paper ya leo, sasa nitaomba nimwite mtoa hoja ambaye ni Naibu Waziri wa Fedha na Uchumi ili aweze kutuwasilishia Muswada wake, karibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u94" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg294">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Fedha na Uchumi, naomba kutoa hoja kwamba, Muswada wa Sheria wenye Mapendekezo ya Marekebisho ya Sheria ya Masoko ya Mitaji na Dhamana, Sura ya 79 (The Capital Markets and Securities (Amendments) Act 2010) pamoja na marekebisho yake, sasa Usomwe kwa Mara ya Pili.</seg>
+          <seg xml:id="seg295">Mheshimiwa Mwenyekiti, awali ya yote, napenda kutoa shukrani zangu za dhati kwa Kamati ya Bunge ya Fedha na Uchumi, chini ya Makamu Mwenyekiti wake, Mheshimiwa Hamza Mwenegoha, kwa kuujadili kwa kina Muswada huu na kutoa ushauri. Vile vile nawashukuru wadau na washauri mbalimbali katika sekta ya fedha ambao kwa nyakati tofauti, wametoa ushauri na mapendekezo yao, kwa lengo la kuuboresha Muswada huu. Aidha, namshukuru sana Mwanasheria Mkuu wa Serikali na Wataalam wake, kwa ushirikiano wao mkubwa walioonesha wakati wa maandalizi na kuwasilisha Muswada huu mbele ya Kamati ya Fedha na Uchumi. Napenda nilihakikishie Bunge lako Tukufu kwamba, Muswada huu umezingatia ushauri na mapendekezo ya Kamati ya Fedha na Uchumi pamoja na wadau wengine.</seg>
+          <seg xml:id="seg296">Mheshimiwa Mwenyekiti, Muswada wa Sheria wenye Mapendekezo ya Marekebisho ya Sheria ya Masoko ya Mitaji na Dhamana, unalenga kuongeza ufanisi wa utendaji kazi wa Mamlaka ya Masoko ya Mitaji na Dhamana, The Capital Markets and Securities Authorities ili pamoja na Masoko ya Mitaji nchini kuchochea kasi ya kukuza uchumi na kupunguza umaskini.</seg>
+          <seg xml:id="seg297">Mheshimiwa Mwenyekiti, Sheria ya Masoko ya Mitaji na Dhamana, ilipitishwa na Bunge la Jamhuri ya Muungano wa Tanzania mnamo mwaka 1994, kwa lengo la kuanzisha Mamlaka ya Masoko ya Mitaji na Dhamana kama Mratibu wa Soko la Mitaji nchini, tangu kutungwa kwa Sheria hii takribani zaidi ya mwongo mmoja, mageuzi</seg>
+          <seg xml:id="seg298">mengi ya kiuchumi yametokea duniani ambapo Mamlaka inapaswa kuyazingatia katika usimamizi wa Masoko ya Mitaji nchini.</seg>
+          <seg xml:id="seg299">Mheshimiwa Mwenyekiti, jukumu la Mamlaka ni pamoja na kuratibu na kusimamia waratibu, watendaji katika Soko la Mitaji nchini, kuwezesha sekta binafsi kupata mitaji ya kuendesha shughuli za kiuchumi, kuratibu na kuendesha shughuli zinazofanywa na taasisi mbalimbali zikiwa ni pamoja na Soko la Hisa, Madalali, Washauri wa Uwekezaji na mipango ya uwekezaji wa pamoja na kutoa ushauri kwa Serikali katika masuala ya kisera yanayohusu Masoko ya Mitaji na Dhamana.</seg>
+          <seg xml:id="seg300">Mheshimiwa Mwenyekiti, madhumuni ya Muswada huu, ni kuboresha ufanisi wa utendaji kazi wa Mamlaka ili kuweza kusimamia na kuratibu ipasavyo masoko ya mitaji.</seg>
+          <seg xml:id="seg301">Mheshimiwa Mwenyekiti, tafiti zilizofanyika kuhusu Sheria ya sasa imebainisha upungufu katika Sheria hii ikiwa ni pamoja na:-</seg>
+          <seg xml:id="seg302">(1) Kuwepo kwa masharti magumu yanayowezesha kampuni kubwa na zenye uzoefu pekee kupata mitaji kupitia soko la mitaji;</seg>
+          <seg xml:id="seg303">(2) Wigo finyu kwa taasisi zinazoweza kujishughulisha katika sekta ya masoko ya mitaji;</seg>
+          <seg xml:id="seg304">(3) Ukosefu wa chombo maalum cha kushughulikia malalamiko na migogoro katika sekta ya masoko ya mitaji na kusababisha umma kukosa imani kwa masoko ya aina hii;</seg>
+          <seg xml:id="seg305">(4) Ukosefu wa matakwa ya Sheria yanayoiwezesha Mamlaka kufanya kazi kwa ufanisi ikiwa ni pamoja na uwezo wa kushirikiana katika masuala ya uchunguzi na kupeana taarifa na taasisi nyingine za usimamizi ndani na nje ya nchi;</seg>
+          <seg xml:id="seg306">(5) Mamlaka kutokuwa na uwezo wa kuteua msimamizi wa shughuli za taasisi ambayo iko kwenye mgogoro; na</seg>
+          <seg xml:id="seg307">(6) Ukosefu wa masharti yaliyo wazi kuhusu uwezo wa Mamlaka, kwanza kukagua watendaji, pili, kutoa miongozo mbalimbali, tatu, kufanya uchunguzi endapo kutakuwepo na ukiukwaji wa Sheria kwa nia ya kulinda maslahi ya wawekezaji na nne, kupata taarifa na nyaraka kutoka taasisi za watu mbalimbali kwa lengo la kufanikisha uchunguzi au kupeana taarifa na taasisi za ndani na nje ya nchi.</seg>
+          <seg xml:id="seg308">Mheshimiwa Mwenyekiti, mambo muhimu yaliyozingatiwa katika Muswada huu ni kama yafuatavyo:-</seg>
+          <seg xml:id="seg309">changa na ndogo kupata mitaji kwa masharti nafuu;</seg>
+          <seg xml:id="seg310">(ii) Kuanzishwa kwa Baraza la Kushughulikia Migogoro ili kuharakisha utatuzi wa malalamiko na migogoro katika soko la mitaji;</seg>
+          <seg xml:id="seg311">(iii) Kuwezesha Mamlaka kubadilishana habari na Mamlaka nyingine za ndani na nje ya nchi;</seg>
+          <seg xml:id="seg312">(iv) Kuimarisha uwezo kiutendaji wa Mamlaka kwa lengo la kuongeza ufanisi; na</seg>
+          <seg xml:id="seg313">(v) Kuongeza viwango vya faini ili kuendana na wakati kwa lengo la kuzuia ukiukwaji wa matakwa ya Sheria.</seg>
+          <seg xml:id="seg314">Mheshimiwa Mwenyekiti, Muswada huu umegawanyika katika sehemu mbili, sehemu ya kwanza yenye Ibara ya 1, inahusu masuala ya utangulizi kama vile jina la sheria, sehemu ya pili yenye Ibara ya 2 – 10, inapendekeza kufanyia marekebisho vifungu mbalimbali vya Sheria pamoja na kuongeza sehemu nyingine mpya ya 13.</seg>
+          <seg xml:id="seg315">Mheshimiwa Mwenyekiti, Ibara ya 2, inapendekeza kurekebisha Kifungu cha 2 cha Sheria ili kuongeza tafsiri ya baadhi ya maneno yatakayotumika kwenye Sheria, maneno hayo ni pamoja na watendaji katika soko, Baraza la Usuluhishi wa Migogoro, Dhamana, Mshauri Mtuele na Mwakilishi wa Mshauri Mteule.</seg>
+          <seg xml:id="seg316">Mheshimiwa Mwenyekiti, Ibara ya 3, inapendekeza kufuta Kifungu cha 10 cha Sheria na kuweka Kifungu kipya cha 10 ili kuongeza wigo wa majukumu na uwezo wa Mamlaka. Baadhi ya majukumu hayo ni Mamlaka kupewa uwezo wa kiutendaji wa kukagua shughuli za watendaji katika soko la mitaji, kutoa maelekezo na miongozo kwa soko na watendaji na kufanya uchunguzi wa kina wa kulinda maslahi ya wawekezaji. Aidha, Mamlaka inapewa uwezo wa kupata taarifa au nyaraka kutoka kwa mtu au taasisi yoyote ikiwa taarifa husika itasaidia katika ushahidi au uchunguzi wa mgogoro unaohusiana na biashara ya dhamana.</seg>
+          <seg xml:id="seg317">Mheshimiwa Mwenyekiti, Ibara ya 4 hadi 6, 9,10,16,20 hadi 29, Ibara za 36 hadi 38 na Ibara ya 40, 46, zinapendekeza kufanyiwa marekebisho vifungu mbalimbali vya Sheria ili kuongeza adhabu kwa makosa mbalimbali yatakayofanyika chini ya Sheria hii. Adhabu zilizopo chini ya Sheria ya sasa ni ndogo sana na haziendani na wakati na hivyo kushindwa kuzuia vitendo vya ukiukwaji wa matakwa ya Sheria hii.</seg>
+          <seg xml:id="seg318">Mheshimiwa Mwenyekiti, Ibara ya 5, inapendekeza kufanyika marekebisho Kifungu cha 18(1), ili kuruhusu taarifa kutolewa kwa wasimamizi wa masoko ya nje ya nchi pindi zinapofanya uchunguzi bila kuwepo kwa masharti ya usiri wa taarifa hizo.</seg>
+          <seg xml:id="seg319">Sheria na kuweka Kifungu kipya ili kufafanua uwezo wa Mamlaka wakati wa kufanya uchunguzi kwa lengo la kulinda maslahi ya wawekezaji. Uwezo huo ni pamoja na kukagua nyaraka na kubakia na nakala za nyaraka hizo, kuweka sharti kwa anayechunguzwa kutoa ushirikiano na Mamlaka wakati wa uchunguzi na kuweka adhabu kwa mtu au taasisi ambayo haitatoa ushirikiano.</seg>
+          <seg xml:id="seg320">Mheshimiwa Mwenyekiti, Ibara ya 8 ya Muswada inapendekeza kufuta Kifungu cha 22 cha Sheria na kuweka Kifungu kipya ili kubainisha hatua ambazo Mamlaka inaweza kuchukua wakati na baada ya uchunguzi. Hatua hizo ni pamoja na kusimamisha biashara ya dhamana yoyote kwenye soko la hisa, kumzuia mtu yeyote kuendelea kuuza au kununua dhamana yoyote, kumsimamisha kazi Afisa yeyote wa Soko la Hisa au wa Taasisi yoyote inayosimamiwa na Mamlaka, kuzuia mapato yoyote yanayochunguzwa na yaliyopatikana kwa kupitia biashara ya dhamana hadi uchunguzi utakapokamilika, kuzuia akaunti yoyote katika benki ya mtu yeyote ili mradi tu akaunti hiyo inahusiana na jambo linalochunguzwa na kutoa mwongozo kwa mtendaji yeyote wa soko kama Mamlaka itakavyoona inafaa.</seg>
+          <seg xml:id="seg321">Mheshimiwa Mwenyekiti, Ibara ya 11, inapendekeza kurekebisha Kifungu cha 28 cha Sheria ili kumwezesha mwanachama yeyote wa soko la hisa asiyeridhika na uamuzi wa Soko la Hisa wa kufukuzwa uanachama, kutozwa faini na kadhalika, kukata rufaa Mamlaka ndani ya siku thelathini tangu uamuzi kutolewa.</seg>
+          <seg xml:id="seg322">Mheshimiwa Mwenyekiti, Ibara ya 12, 13 na 17, inapendekeza kufanya marekebisho katika Vifungu vya 30, 31(4) na (5) na Kifungu cha 48 ili kumwezesha mtu yeyote asiyeridhika na uamuzi wa Mamlaka wa kunyimwa leseni, kufutiwa leseni na kadhalika, kukata rufaa katika Baraza la Usuluhishi wa Migogoro ya Masoko ya Mitaji na Dhamana ndani ya siku thelathini tangu uamuzi kutolewa.</seg>
+          <seg xml:id="seg323">Mheshimiwa Mwenyekiti, Ibara ya 14, inapendekeza kufanya marekebisho katika Kifungu cha 32 cha Sheria kwa kuweka masharti kwa watendaji wote waliotajwa katika Sheria na wale watakaojitokeza kadri soko linavyoruhusu kuwa na leseni itakavyotolewa na Mamlaka.</seg>
+          <seg xml:id="seg324">Mheshimiwa Mwenyekiti, Ibara ya 15, inapendekeza kufuta Vifungu vya 33, 34 na 35 vya Sheria ili kuoanisha Sheria na mapendekezo yaliyomo kwenye Ibara ya 14 ya Muswada kuhusu matakwa ya watendaji waliotajwa katika Sheria kuwa na leseni zinazotolewa na Mamlaka.</seg>
+          <seg xml:id="seg325">Mheshimiwa Mwenyekiti, aidha, Ibara ya 18, inapendekeza kufuta Kifungu cha 49 cha Sheria kilichokuwa kinatoa msamaha wa sharti la kuwa na leseni ya biashara ya dhamana kwa baadhi ya taasisi.</seg>
+          <seg xml:id="seg326">Mheshimiwa Mwenyekiti, Ibara ya 19, inapendekeza kufanya marekebisho katika Kifungu cha 50 cha Sheria ili kumpa Waziri mwenye dhamana ya masuala ya fedha uwezo wa kutunga Kanuni zitakazosimamia shughuli zinazohusiana na dhamana zinazofanywa na mtu au taasisi ambayo haijatajwa kwenye Sheria kwa sasa.</seg>
+          <seg xml:id="seg327">Mheshimiwa Mwenyekiti, Ibara ya 30 hadi 33, 39, 47 na 48, zinapendekeza kufanya marekebisho katika Vifungu mbalimbali vya Sheria ili kubainisha kwamba Baraza la Usuluhishi wa Migogoro wa Soko la Mitaji na Dhamana ndilo litakuwa na jukumu la kushughulikia migogoro itokanayo na utendaji wa Sheria hii badala ya Mahakama.</seg>
+          <seg xml:id="seg328">Mheshimiwa Mwenyekiti, Ibara ya 34 na 35, zinapendekeza kufanya marekebisho katika Vifungu 106 na 107 vya Sheria ili kubainisha kwamba itakuwa ni makosa endapo mtu au kampuni itafanya udanganyifu kuhusu utendaji wa soko la hisa ndani au nje ya Tanzania, hivi sasa kisheria ni makosa endapo udanganyifu huu utafanyika ndani ya Tanzania tu.</seg>
+          <seg xml:id="seg329">Mheshimiwa Mwenyekiti, Ibara ya 41, inapendekeza kufuta Kifungu cha 131 cha Sheria na kuweka Kifungu kipya kwa madhumuni ya kuweka masharti ambayo yanapaswa kufuatwa na mtu yeyote ambaye anakusudia kupata mtaji kwa umma kwa nia ya kutoa dhamana. Masharti hayo ni pamoja na kuwa na washauri au watalaam.</seg>
+          <seg xml:id="seg330">Mheshimiwa Mwenyekiti, Ibara ya 45 inapendekeza kufanya marekebisho katika Sheria kwa kuongeza Sehemu mpya ya Kumi na Tatu ambapo Kifungu kipya cha 136A kinapendekeza kuanzishwa kwa Baraza la Usuluhishi wa Migogoro la Soko la Mitaji na Dhamana, lenye jukumu la kushughulikia migogoro itokanayo na utekelezaji wa Sheria hii. Aidha, kupitia jedwali la marekebisho, inapendekezwa kuongeza idadi ya Wajumbe wa Baraza kutoka Wajumbe wawili kuwa Wajumbe wanne kama ilivyoshauriwa na Kamati ya Fedha na Uchumi wakati ikijadili Muswada huu.</seg>
+          <seg xml:id="seg331">Mheshimiwa Mwenyekiti, Kifungu kipya cha 136B, kinapendekeza muundo wa Baraza la Usuluhishi wa Migogoro la Soko la Mitaji na Dhamana litakalojumuisha Mwenyekiti ambaye atakuwa Jaji wa Mahakama Kuu na atateuliwa na Mheshimiwa Rais baada ya kushauriana na Jaji Mkuu. Aidha, Mwenyekiti atafanya kazi kwa muda (on part time basis). Wajumbe wengine wanne watateuliwa na Waziri mwenye dhamana ya masuala ya Fedha na wajumbe hawa pia watafanya kazi kwa muda maalum.</seg>
+          <seg xml:id="seg332">Mheshimiwa Mwenyekiti, Kifungu kipya cha 136C, kinapendekeza sifa na masharti ya Wajumbe wa Baraza la Usuluhishi wa Migogoro la Soko la Mitaji na Dhamana, sifa hizo ni pamoja na ujuzi na uzoefu katika masuala ya Sheria na shughuli ya Masoko ya Mitaji.</seg>
+          <seg xml:id="seg333">Mheshimiwa Mwenyekiti, Kifungu kipya cha 136D, kinapendekeza muda wa Wajumbe wa Baraza ambapo Wajumbe watatumikia Baraza kwa muda usiozidi miaka mitatu na pia wanaweza kuteuliwa tena kwa kipindi kingine cha miaka mitatu.</seg>
+          <seg xml:id="seg334">Mheshimiwa Mwenyekiti, Vifungu vipya vya 136E-J, vinapendekeza kuwepo utaratibu za kuendesha vikao vya Baraza ikiwa ni pamoja na akidi ya mikutano na posho za Wajumbe wa Baraza, utaratibu wa kukata rufani kwa maamuzi na Mamlaka ya Baraza kuandaa Kanuni kwa ajili ya kuendesha shughuli zake.</seg>
+          <seg xml:id="seg335">Mheshimiwa Mwenyekiti, Ibara ya 49, inapendekeza kufanya marekebisho katika Sheria kwa kuongeza Kifungu kipya cha 147A ili kuipa Mamlaka uwezo wa kutoa msaada wa upelelezi, uchunguzi kwa Mamlaka za usimamizi za nje ya nchi panapotokea madai ya ukiukwaji wa Sheria inayosimamiwa na Mamlaka husika.</seg>
+          <seg xml:id="seg336">Mheshimiwa Mwenyekiti, baada ya kusema hayo, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u95" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg337">Mheshimiwa Mwenyekiti, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u96" who="Mwenyekiti">
+          <seg xml:id="seg338">Nakushukuru sana Mheshimiwa Naibu Waziri kwa kuweka Muswada mbele yetu na kutoa hoja ili Muswada huu sasa uendelee na hatua inayofuata.</seg>
+          <seg xml:id="seg339">Waheshimiwa Wabunge, kwa mujibu wa taratibu, sasa nitamwita Mwenyekiti wa Kamati iliyochambua Muswada huu ama mwakilishi. Naona Mwenyekiti yuko hapa ndani, Mheshimiwa Dr. Abdallah Kigoda na maoni ya Kamati yatatolewa na Mwenyekiti.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u97" who="MheDrAbdallahOKigodaMwenyekitiWaKamatiYaFedhaNaUchumi">
+          <seg xml:id="seg340">Mheshimiwa Mwenyekiti, naomba kukushukuru kwa kunipa nafasi hii kwa mujibu wa Kanuni ya 86(5) ya Kanuni za Bunge la Jamhuri ya Muungano wa Tanzania, Toleo la 2007 niweze kutoa maoni na ushauri kwa niaba ya Wajumbe wa Kamati ya Fedha na Uchumi, kuhusu Muswada wa Marekebisho ya Sheria ya Masoko ya</seg>
+          <seg xml:id="seg341">Mitaji na Dhamana (The Capital Markets and Securities (Amendments) Act, 2010) ili kuchochea kasi ya kukuza uchumi na kupunguza umaskini.</seg>
+          <seg xml:id="seg342">Mheshimiwa Mwenyekiti, madhumuni ya Muswada huu ni kuboresha ufanisi wa utendaji kazi wa CMSA (Capital Markets and Securities Authority) ili kuweza kusimamia na kuratibu ipasavyo Masoko ya Mitaji.</seg>
+          <seg xml:id="seg343">Mheshimiwa Mwenyekiti, tafiti zilizofanyika kuhusu Sheria ya sasa ya CMSA zimebainisha upungufu mbalimbali ambao Mheshimiwa Waziri ameutaja ikiwa ni pamoja na:-</seg>
+          <seg xml:id="seg344">(cid:31) Kuwepo kwa masharti magumu yanayowezesha kampuni kubwa zenye uzoefu pekee kupata mitaji kupitia soko la mitaji; na</seg>
+          <seg xml:id="seg345">(cid:31) Wigo finyu wa ushiriki katika soko kwa taasisi zinazojishughulisha katika sekta ya masoko ya mitaji.</seg>
+          <seg xml:id="seg346">Kwa mantiki hiyo, marekebisho ya sheria hii yatasaidia kuondoa upungufu huo wote ambao umeorodheshwa katika mada iliyosomwa na Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg347">Mheshimiwa Mwenyekiti, Muswada huu umezingatia mambo muhimu yafutayo kama alivyoeleza Mheshimiwa Waziri pamoja na:-</seg>
+          <seg xml:id="seg348">(i) Kuanzishwa kwa safu ya pili katika Soko la Hisa ili kuwezesha kampuni changa na ndogo kupata mitaji kwa masharti nafuu; na</seg>
+          <seg xml:id="seg349">(ii) Kuanzishwa kwa Baraza la Kushughulikia Migogoro ili kuharakisha utatuzi wa malalamiko na migogoro katika soko la mitaji.</seg>
+          <seg xml:id="seg350">Mheshimiwa Mwenyekiti, Kamati yangu ilikutana tarehe 31/03/2010 Dar es Salaam na Mheshimiwa Waziri mwenye dhamana, kujadili kwa kina Muswada huu kwa lengo la kuuboresha. Majadiliano hayo yalisaidia sana kuibua mawazo mapya, maoni na hoja za kujenga Muswada huu. Maoni na Ushauri wa Kamati ni matokeo ya mchakato huo wa kubadilishana mawazo.</seg>
+          <seg xml:id="seg351">Mheshimiwa Mwenyekiti, Kamati inakubaliana na marekebisho haya ya Sheria hii ukizingatia kwamba, tangu Bunge lako Tukufu lilipopitisha Sheria ya Masoko ya Mitaji na Dhamana mwaka 1994 ambayo ilianzisha Mamlaka ya Masoko ya Mitaji na Dhamana kama mratibu wa Soko la Mitaji nchini, Sheria hiyo imeshindwa kukidhi mabadiliko mbalimbali yanayotokea kwenye Masoko ya Mitaji na Dhamana. Hivyo, kuwepo kwa Sheria ya awali bila marekebisho kwenye baadhi ya vipengele vyake, itashindwa kusimamia ipasavyo Masoko ya Mitaji na Dhamana ya hapa nchini pamoja na</seg>
+          <seg xml:id="seg352">kushindwa kutimiza masharti ya kujiunga na Mkataba wa Ushirikiano wa Jumuiya ya Taasisi za Usimamizi wa Masoko ya Mitaji Duniani.</seg>
+          <seg xml:id="seg353">Mheshimiwa Spika, Kamati inapenda kuishauri Serikali kwamba mikataba mikubwa ya uwekezaji itakayoingia na kampuni za kigeni, ihakikishe inaweka kipengele kwenye mikataba hiyo, kwa kampuni hizo kusajiliwa hapa nchini na kuuza hisa katika soko la mitaji lililopo hapa Tanzania. Hii itasaidia wananchi kumiliki rasilimali zao na kusaidia kukuza uchumi kupitia masoko haya. Imeshatokea kwa baadhi ya kampuni kubwa kujiorodhesha katika masoko ya nje, bila ya kuihusisha kikamilifu Soko letu la Mitaji na Dhamana. Kwa hali hii,ufaidi wa uchumi wa Tanzania unakuwa ni mdogo.</seg>
+          <seg xml:id="seg354">Mheshimiwa Mwenyekiti, bado wananchi wetu wanauelewa mdogo sana kuhusu sekta hii nzima ya Masoko ya Mitaji na Dhamana. Kamati inaishauri Serikali kufanya jitihada za kuelimisha wananchi umuhimu wa kujiorodhesha katika Masoko ya Mitaji na Dhamana ikiwa ni pamoja na kukidhi masharti yake. Hali hii itasaidia kukuza uchumi kupitia upatikanaji wa mitaji na uuzaji wa hisa kupitia kampuni zinazomilikiwa na wananchi wenyewe.</seg>
+          <seg xml:id="seg355">Mheshimiwa Mwenyekiti, Kwa sasa tuna soko moja tu la Mitaji yaani la Dar es Salaam Stock Exchange (DSE), Serikali bado inachangamoto ya kuongeza huduma ya Masoko ya Mitaji zaidi ya hili la DSE. Kuwepo kwa masoko mengine kutasaidia kusogeza huduma ya masoko ya mitaji na dhamana hadi Mikoani na kuongeza mzunguko wa fedha na uelewa wa sekta yenyewe.</seg>
+          <seg xml:id="seg356">Mheshimiwa Mwenyekiti, hivi sasa tuna makampuni machache yaliyoorodheshwa CMSA hapa nchini, kwa maana ya Stock Exchange. Maeneo ya mitaji ni machache (Limited Debt Instruments) kwa maana ya Bonds na Treasury Bills pekee. Kamati imetaka kujua kwa nini hali iko hivi au ni kwa sababu ya ukosefu wa motisha na vivutio (incentives). CMSA imekiri kuwapo na vivutio vya kodi (tax incentives) lakini bado havitoshi. Kamati inaendelea kuishauri Serikali kuanzisha aina nyingine za Hati Fungani za muda mrefu kwa mfano Municipal Bonds na Corporate Bonds, Serikali imeeleza inaendelea kufanyia kazi zoezi hili na uzinduzi wake utafanywa hivi karibuni. Hali hii itasaidia kukuza sekta ya Mitaji na Hisa katika Uchumi wetu.</seg>
+          <seg xml:id="seg357">Mheshimiwa Mwenyekiti, Kamati imeulizia pia suala la Cross Listing ambapo hisa zinazoorodheshwa Nairobi vile vile zinaorodheshwa Dar es Salaam na Kampala. Hata hivyo, utaratibu huu haukuiruhusu Tanzania kushiriki kikamilifu sababu kubwa ni Tanzania kutokuweka huria Akaunti ya Mitaji yaani CAPITAL ACCOUNT. Jitihada zinafanyika ku-liberalize eneo hili lakini kwa tahadhari kubwa. Tahadhari hii imesaidia uchumi wetu katika kipindi kigumu cha misukosuko wa uchumi Duniani uliopita. Kamati inaelewa kuwa tatizo hili la Cross Listings litaisha baada ya kuanzishwa kwa Soko la Pamoja la Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg358">Mheshimiwa Mwenyekiti, marekebisho ya Sheria hii yatasaidia kuhakikisha adhabu kali zinatolewa kwa baadhi ya Kampuni zilizojiorodhesha kwenye soko ambazo zinakiuka Kanuni na Sheria za Soko la Mitaji na Dhamana au zinakiuka maagizo ya</seg>
+          <seg xml:id="seg359">Mamlaka na kutoa taarifa potofu kwa wanahisa. Hii itasaidia kupunguza migogoro na kuongeza ufanisi katika makampuni hayo na kulinda uwekezaji wa wanahisa.</seg>
+          <seg xml:id="seg360">Mheshimiwa Mwenyekiti, marekebisho ya Sheria hii yatawezesha kumpa Waziri mwenye dhamana na masuala ya fedha, uwezo wa kutunga Kanuni zitakazosimamia shughuli zinazohusiana na dhamana zinazofanywa na mtu au taasisi ambayo haijatajwa kwenye Sheria kwa sasa. Aidha, uanzishaji wa Baraza la Usuluhishi wa Migogoro la Soko la Mitaji na Dhamana (Securities Market Tribunal), litasaidia kushughulikia migogoro yote itokanayo na utekelezaji wa Sheria hii badala ya Mahakama.</seg>
+          <seg xml:id="seg361">Mheshimiwa Mwenyekiti, Kamati ilifanya marekebisho mbalimbali katika baadhi ya vifungu vya Muswada wa Marekebisho ya Sheria hii ikiwa pamoja na kuongeza idadi ya wajumbe watano (5) badala ya watatu (3) watakaounda Baraza la Usuluhishi wa Migogoro ili kukidhi akidi ya wajumbe wakati wa vikao vyake.</seg>
+          <seg xml:id="seg362">Mheshimiwa Mwenyekiti, baada ya kuwasilisha maoni na ushauri, sasa napenda kuwatambua kwa majina wajumbe wa Kamati hii kama ifuatavyo:-</seg>
+          <seg xml:id="seg363">Mheshimiwa Hamza A. Mwenegoha, Makamu Mwenyekiti, Mheshimiwa Elizabeth N. Batenga, Mheshimiwa Dr. Anthony M. Diallo, Mheshimiwa Fatma Abdulhabib Fereji, Mheshimiwa Josephine J. Genzabuke, Mheshimiwa Athumani Said Janguo, Mheshimiwa Siraju Juma Kaboyonga, Mheshimiwa Eustace Osler Katagira, Mheshimiwa Anna Maulidah Komu, Mheshimiwa Clemence Beatus Lyamba, Mheshimiwa Dr. Binilith S. Mahenge, Mheshimiwa Monica Ngenzi Mbega, Mheshimiwa Hamad Rashid Mohammed, Mheshimiwa Felix C. Mrema, Mheshimiwa Mossy S. Mussa, Mheshimiwa Damas Pachal Nakei, Mheshimiwa Richard Mganga Ndassa, Mheshimiwa Dr. Omar Mzeru Nibuka, Mheshimiwa Sijapata Fadhili Nkayamba, Mheshimiwa Suleiman Ahmed Saddiq, Mheshimiwa Mzee Ngwali Zuberi, Mheshimiwa Devota Mkuwa Likokola, Mheshimiwa Martha Jachi Umbulla, Mheshimiwa Charles Kajege, Mheshimiwa Andrew Chenge na mimi mwenyewe Mheshimiwa Dr. Abdallah O. Kigoda, Mwenyekiti. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u98" who="MheDrAbdallahOKigodaMwenyekitiWaKamatiYaFedhaNaUchumi">
+          <seg xml:id="seg364">Mheshimiwa Mwenyekiti, napenda kutumia fursa hii kumshukuru, Mheshimiwa Mustafa Mkullo, Waziri wa Fedha na Uchumi, Mheshimiwa Jeremiah Solomon Sumari, Mheshimiwa Omar Yussuf Mzee, Manaibu Waziri, Wizara ya Fedha na Uchumi pamoja na watalaam wao wote na Katibu Mkuu kwa utendaji wao mzuri wa kazi.</seg>
+          <seg xml:id="seg365">Mheshimiwa Mwenyekiti, naomba nikushukuru sana wewe mwenyewe binafsi, Spika na Mheshimiwa Naibu Spika, kwa kutupatia miongozo na maelekezo mbalimbali kwa Kamati yetu ambayo wakati wote yamefanikisha kazi za Kamati. Aidha, napenda pia kumshukuru Katibu wa Bunge Dkt. Thomas D. Kashililah, Makatibu wa Kamati, Ndugu Lawrence Makigi na Ndugu Michael Kadebe, kwa kuratibu shughuli za Kamati.</seg>
+          <seg xml:id="seg366">Mheshimiwa Mwenyekiti, naomba kuwasilisha na naunga mkono Muswada huu. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u99" who="Mwenyekiti">
+          <seg xml:id="seg367">Nakushuru sana Mheshimiwa Dr. Abdallah O. Kigoda, kwa kuwasilisha maoni ya Kamati. Waheshimiwa Wabunge, tunaendelea utaratibu wa kikanuni. Sasa tutapokea maoni kutoka kwa Msemaji wa Kambi ya Upinzani kuhusiana na Wizara hiyo, namwona Mheshimiwa Zitto Kabwe, kwa niaba ya Mheshimiwa Hamad Rashid Mohamed, Kiongozi wa Kambi ya Upinzani Bungeni.</seg>
+          <seg xml:id="seg368">MHE. KABWE Z. ZITTO (K.n.y HAMAD RASHID MOHAMED - MSEMAJI MKUU WA KAMBI YA UPINZANI, WIZARA YA FEDHA NA UCHUMI): Mheshimiwa Mwenyekiti, awali ya yote, ningependa kutumia fursa hii, kukushukuru kwa kunipatia nafasi hii ya kutoa maoni ya Kambi ya Upinzani, kuhusu Muswada wa Mabadiliko ya Sheria ya Masoko ya Mitaji na Dhamana ya mwaka 2010 (The Capital Markets and Securities (Amendments) Act, 2010, natoa maoni haya kwa niaba ya Msemaji Mkuu wa Kambi ya Upinzani, Wizara ya Fedha na Uchumi ambaye pia ni Kiongozi wa Kambi ya Upinzani Bungeni, Mheshimiwa Hamad Rashid Mohamed.</seg>
+          <seg xml:id="seg369">Mheshimiwa Mwenyekiti, awali ya yote, napenda kuchukua fursa hii kukushukuru lakini pili Muswada huu umekuja wakati muafaka kwa sababu ya mabadiliko kadhaa ambayo yamekuwa yakifanyika katika maeneo ya Masoko ya Mitaji na tunatarajia kwamba Bunge lako Tukufu litakuwa linapata Miswada ya mabadiliko ya namna hii kutokana na mabadiliko ya hali ya uchumi duniani inavyokwenda.</seg>
+          <seg xml:id="seg370">Mheshimiwa Mwenyekiti, natoa shukrani za dhati kwa Mheshimiwa Dr. Willibrod Slaa (Mb), Naibu Kiongozi wa Kambi ya Upinzani, kwa ushirikiano mkubwa katika kuanda hotuba hii.</seg>
+          <seg xml:id="seg371">Mheshimiwa Mwenyekiti, kwa mujibu wa Taarifa ya Economic Intelligency Unit ya mwezi Machi mwaka 2010, inaonyesha kwamba uchumi wa Tanzania kati ya mwaka 2005 na mwaka 2011 utaongezeka mara mbili yaani una-double dola bilioni 14 ya GDP mwaka 2005 mpaka dola bilioni 28. Kwa hiyo, maana yake hii ni kwamba mazingira ya kiuchumi yanabadilika na kwa vyovyote vile ni lazima tasnia ya Soko la Mitaji iweze kubadilika vilevile.</seg>
+          <seg xml:id="seg372">Mheshimiwa Mwenyekiti, napenda kutoa shukrani na pongezi za dhati kabisa kwa Benki Kuu ya Tanzania kwa kutoa waiver katika Capital Account wakati wa dharura wa uuzaji wa hisa za kampuni ya African Barrick Gold. Pamoja na kwamba Watanzania wachache sana walioweza kununua hisa hizo bado tunashauri Serikali iweze kuangalia uwezekano wa kuiwezesha Unit Trust of Tanzania kuweza kufikia masoko ya kigeni na kununua hisa kwa niaba ya Watanzania na kuja kuziuza vipande vidogo ili Watanzania wengi zaidi waweze kufanikiwa.</seg>
+          <seg xml:id="seg373">Mheshimiwa Mwenyekiti, Municipal Bonds, Mheshimiwa Mwenyekiti wa Kamati ya Fedha na Uchumi ameligusia na nisingependa kulirejea, tunaomba tu Wizara ya Fedha na Uchumi pamoja na CMA, waweze kuangalia kwa sababu kuna Halmashauri ambazo zinaweza kabisa zikajenga barabara zake za ndani kwa ku-issue Municipal Bonds</seg>
+          <seg xml:id="seg374">na kulipa kutokana na malipo ambayo yanatokana na matumizi ya zile barabara. Halmashauri za Majiji ya Mbeya, Arusha, Tanga, Dar es Salaam na hata Manispaa kadhaa ambazo zina mapato makubwa, zinaweza zikafaidika sana na kutoa Municipal Bonds. Kwa hiyo, katika tafsiri ya zile securities, Kifungu Namba 2B, nawashauri waongeze Municipal Bonds kwa sababu haipo katika kile Kifungu.</seg>
+          <seg xml:id="seg375">Mheshimiwa Mwenyekiti, vile vile suala la Cooperate Bonds, Kamati ya Fedha na Uchumi pia imeligusia, naomba pia niweke msisitizo mkubwa sana hapa kwa sababu hili ni eneo ambalo miundombinu mikubwa inaweza ikajengwa kwa kutumia fedha za watu ambazo wanazo. Tunaona mifano, kwa mfano KENGEN kampuni ya uzalishaji wa umeme ya Kenya mwaka 2008 ilitoa Cooperate Bond ya zaidi dola milioni 300 kwa ajili ya kuongeza uzalishaji wa umeme Kenya. Hali kama hiyo inaweza ikafanyika kwa TANESCO hasa kipindi kama hiki ambapo wanahitaji kujenga transmission line kutoka Mtwara mpaka Kibaha kwa ajili ya kusafirisha MW 300 za umeme kutoka Mnazi Bay, kwa hiyo, CMA,Serikali na TANESCO inaweza ikaangalia uwezekano wa kuiruhusu TANESCO kutoa Cooperate Bond waweze kupata fedha za ujenzi wa transmission line kama hiyo na kuweza kufaidika kwa sababu fedha katika masoko ya mitaji ni gharama nafuu.</seg>
+          <seg xml:id="seg376">Mheshimiwa Mwenyekiti, pia kwa muda mrefu sana tumekuwa tukizungumzia Serikali kuwezesha makampuni mengi zaidi kuorodheshwa katika Soko la Hisa Dar es Salaam na Serikali ina hisa kwenye makampuni mengi yanayopata faida. Tulikuwa tunadhani kwamba kuna umuhimu mkubwa sana Serikali kuwa mstari wa mbele kuweza kuhakikisha kwamba baadhi ya hisa ambazo inazishika kwenye makampuni ziweze kuwa listed kwenye Soko la Hisa la Dar es Salaam. Tulitoa mifano mbalimbali kwa mfano kampuni ya Zain, Serikali ina hisa wala hakuna sababu kwa nini Serikali iendelee kuzishika, inaweza ikazipeleka kwenye soko ili soko letu liweze kuwa pana zaidi.</seg>
+          <seg xml:id="seg377">Mheshimiwa Mwenyekiti, muhimu zaidi Wizara ya Fedha iweze kuelimisha siyo tu Watanzania hata ndani ya Serikali kufahamu kwamba Soko la Hisa siyo eneo la kwenda kugawana mali, siyo distributive market, Soko la Hisa ni eneo la makampuni kwenda kutafuta mitaji. Kwa sababu tunaanza kuona kuna dhana ambayo inaingia hapa nchini hivi sasa kana kwamba Soko la Hisa ni eneo la kwenda kugawana kila mtu amiliki sehemu fulani, hapana. Soko la Hisa, ni eneo la watu kwenda kutafuta mitaji ili waweze kuwekeza, kuzalisha na kupanua uchumi. Kwa hiyo, hii mentality iweze kuangalia upya ili kuhakikisha kwamba hatutungi Sheria ambazo zitakuja kuathiri uwekezaji katika Taifa letu hapo baadaye.</seg>
+          <seg xml:id="seg378">Mheshimiwa Mwenyekiti, Sheria hii inaruhusu sasa biashara ya derivatives katika soko letu lakini hakuna angalau tafsiri ya jumla (general definition) ya derivatives, hizo options na kadhalika. Kwa hiyo, ilikuwa ni vizuri kwamba Sheria hii Waziri angeangalia ili angalau katika eneo la definition kuweza kuweka hii definition hata kama ni general kwa sababu from time to time watakuwa wanaelezea zaidi kutokana na directives mbalimbali watakazokuwa wanazitoa.</seg>
+          <seg xml:id="seg379">Mheshimiwa Mwenyekiti, eneo lingine ambalo ninapenda Serikali iliangalie ni kwamba sasa hivi, actually Jumatatu tunaweza tukaridhia East African Common Market kwa hiyo, hii inaruhusu free movement of capital. Kwa vyovyote vile, masoko ya soko ya Afrika Mashariki yataanza kufanya kazi kwa pamoja na huko tunakokwenda hata taratibu na Sheria na Miongozo mbalimbali ya Soko la Mitaji haitafanyikia tena Dodoma, itafanyikia Arusha kufuatia kuanzishwa kwa Common Market na Free Movement of Capital. Kwa hiyo, nilikuwa nashauri Serikali iweze kujiandaa na tuweze kujiandaa kama tunaweza tuka-relax sheria zetu ili watu wengi wanaopenda kuuza hisa katika Masoko ya Afrika Mashariki wauze Dar es Salaam, tuifanye Dar es Salaam iwe ni financial hub ya eneo la Afrika Mashariki. Kwa hiyo, ni kiasi cha kuangalia jinsi gani Sheria zetu zinaweza zikawa relax kwa ajili hiyo.</seg>
+          <seg xml:id="seg380">Mheshimiwa Mwenyekiti, vilevile Wizara na Capital Market, wafikirie sijui utaratibu upo sasa hivi kama haupo wajaribu kuangalia kwamba si lazima kila kitu ambacho tunataka, Capital Market wa-regulate kije kwenye Sheria yaani kwenye Principal Act. Tunaweza tukaweka mazingira ambayo wakawa wanatoa directive kutokana na mazingira ya kiuchumi kubadilika. Tuna mifano, kwa mfano European Union wana prospectors directive, market manipulation directive, inside trading directive ambazo siyo lazima ziende kwenye Mabunge ya nchi husika ili kuhakikisha kwamba hatuchelewi ku-regulate soko letu.</seg>
+          <seg xml:id="seg381">Mheshimiwa Mwenyekiti, la mwisho ambalo Kambi ya Upinzani ingependa ilizungumzie ni kwamba Sheria zetu nyingi ambazo tumezitunga na mifano ya Sheria hizo tunazo hapa na tutawagawia Waheshimiwa Wabunge, zimeruhusu Mamlaka kuwa na uwezo wake yenyewe ya kuhakikisha kwamba hakuna Sheria nyingine ambayo inaweza ikaingilia registration retaining powers within the sector that they regulate.</seg>
+          <seg xml:id="seg382">Tunaona mifano ya nguvu hizi katika sheria mbalimbali hapa nchini kwa mfano Sheria ya Benki Kuu ya mwaka 2006, section 68 inasema „In the event of conflict arising from the provisions of this Act, yaani BOT Act and any other Act relating to the exercise of power and performance of functions of the Bank, the provisions of this Act prevail. Unakuta hiyo sheria ya Benki Kuu, unakuta hiyo Sheria ya SUMATRA, Sheria ya Ardhi (Land Act) ya mwaka 1999 ya SUMATRA ya mwaka 2004 kifungu cha 35, Sheria ya Environmental Management Act ya mwaka 2004 kifungu cha 232, Sheria ya Fair Competition Act ya mwaka 2003 kifungu cha 96 unakuta wana hiyo provision. Sheria ya Capital Markets ambayo ni very sensitive sector kwa maana ya kukuza mitaji na kadhalika haina hicho kipengele.</seg>
+          <seg xml:id="seg383">Mheshimiwa Mwenyekiti, Kambi ya Upinzani inaishauri Serikali iweze kuangalia katika schedule of amendement kuweza kuweka hicho kipengele ili kuweza kuhakikisha kwamba CMSA wanakuwa na mamlaka yao, wao wenyewe wanaweza wakadhibiti sekta yao wao wenyewe na pia inapotokea kwamba kuna conflict kati ya sheria ya CMSA na sheria nyingine yoyote, Sheria ya CMSA ina prevail. Kama jinsi ambavyo ipo kwenye sheria nyingine zozote zile.</seg>
+          <seg xml:id="seg384">Mheshimiwa Mwenyekiti, Kambi ya Upinzani kwa ajili tu ya mchakato wa utungaji wa sheria imeleta mapendekezo hayo kwa Serikali ili iweze kuyaangalia na ni mapendekezo ambayo hayana controversy yoyote kwa hiyo, ni kiasi tu cha Serikali kuweza kuyachukua na kuyaingiza katika sheria hii. Naamini kabisa kwamba ilikuwa imesahaulika tu kwa sababu ni kitu cha kawaida kabisa ni logic ya kawaida kabisa kwamba kitu kama hicho lazima kiwepo kwenye sheria muhimu kama hii.</seg>
+          <seg xml:id="seg385">Mheshimiwa Mwenyekiti, baada ya maelezo hayo Kambi ya Upinzani Bungeni pamoja na marekebisho ambayo imeyapendekeza inaunga mkono Muswada huu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u100" who="Mwenyekiti">
+          <seg xml:id="seg386">Nakushukuru sana Mheshimiwa Kabwe Zitto kwa kuwasilisha maoni ya Kambi ya Upinzani kwa niaba ya Msemaji Mkuu wa Kambi ya Upinzani ambaye pia ni Kiongozi wa Kambi ya Upinzani Bungeni.</seg>
+          <seg xml:id="seg387">Waheshimiwa Wabunge hapa kwenye orodha ya wachangiaji mpaka sasa ninalo jina moja tu. Kwa hiyo, naomba tu niwaambie nafasi bado ipo kwa hiyo, kama kuna mchangiaji mwingine anaweza akawasilisha jina lake mezani na kwa hali hiyo naomba nimuite Mheshimiwa Devota Likokola, Mbunge wa Viti Maalum kutoka Mkoa wa Ruvuma, yeye ndiye mchangiaji ambaye aliwasilisha jina lake hapa mezani. Mheshimiwa Devota Likokola.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u101" who="MheDevotaMLikokola">
+          <seg xml:id="seg388">Mheshimiwa Mwenyekiti, ahsante na nakushukuru kwa kunipa nafasi. Nampongeza sana Mheshimiwa Waziri kwa kuleta marekebisho ya sheria hii na napongeza utendaji mzima wa taasisi yetu ya mitaji. Ukiangalia sheria hii ni muhimu sana na muhimu kwa sababu suala la mitaji katika nchi yetu ni suala nyeti. Watanzania wengi sana wamejifunza kufanya mambo mengi mazuri na makubwa, lakini ukiwauliza watakuambia wanashindwa kuendelea na uzalishaji, wanashindwa kuendelea na shughuli zao kwa sababu ya suala zima la kukosa mitaji.</seg>
+          <seg xml:id="seg389">Mheshimiwa Mwenyekiti, naendelea kupongeza sana wajumbe mbalimbali na wadau ambao wamesaidia kutoa maoni yao katika kurekebisha Sheria hii. Ninaipongeza Wizara kwa sababu vifungu maalamu ambavyo vilikuwa vinaleta ukiritimba mkubwa katika sheria hii vimepewa kipaumbele, kifungu cha kwanza na ndio hasa tatizo kwa Watanzania wengi ni kwamba sheria hii ilikuwa inaruhusu makampuni makubwa tu na yenye mitaji mikubwa kuweza kushiriki katika soko la mitaji. Lakini kwa marekebisho ya sheria hii, sasa hivi makampuni madogo, makampuni machanga yataweza kushiriki katika soko la mitaji na hivi wananchi wengi wataweza kupata mitaji na kuweza kufanya uzalishaji na kuongeza tija na kuweza kuweza kuleta kukuwa kwa uchumi katika nchi yetu.Nimefurahi pia katika sheria hii kuona kwamba katika utendaji wowote ule wa makampuni au masuala mazima ya kushughulikia mitaji lazima patakuwa pametokea aidha, matatizo au migogoro mbalimbali lakini sheria hii pia imeangalia kwamba pakitokea tatizo au migogoro yoyote, basi kutakua na chombo cha kushughulikia migogoro mbalimbali.</seg>
+          <seg xml:id="seg390">Mheshimiwa Mwenyekiti, nazidi kupongeza sana na ninashukuru sana tukiangalia pia katika marekebisho ya sheria hii suala la uwazi limepewa kipaumbele. Makampuni mengi sana yamekuwa yakifanya biashara bila kuwa na uwazi mkubwa na hivi inakuwa ni tatizo kubwa sana kupata taarifa. Lakini sheria hii sasa inawataka watu wote watakaoshiriki katika soko la mitaji kuwa na uwazi mpana sana ili kuweza kuweka vitu vyote katika hali ya uwazi na hali ya ukweli ili kuangalia hakuna mtu ambaye anaweza kuonewa au kupata tatizo lolote. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u102" who="MheDevotaMLikokola">
+          <seg xml:id="seg391">Mheshimiwa Mwenyekiti, suala la mitaji inabidi elimu kubwa. Watanzania wengi sana bado hawajaelewa masuala mazima ya mitaji na soko la mitaji. Hapa ni mahali ambapo ni ukombozi mkubwa sana kwa Watanzania na ukiangalia kile kipengele ambacho kinaruhusu hata makampuni madogo kwa hivi tunahitaji Mheshimiwa Waziri pawepo na mpango maalamu wa kuelimisha Watanzania, elimu itasaidia sana sheria hii iweze kufanya kazi vizuri. Tumeirekebisha vizuri lakini haitaweza kufanya kazi kama hapatatolewa elimu ya kutosha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u103" who="MheDevotaMLikokola">
+          <seg xml:id="seg392">Kwa hiyo, nakushauri Mheshimiwa Waziri watu wa Capital Market waweze kutoa elimu ya kutosha sana pamoja na jitihada zote ambazo mmezifanya, bado elimu inahitajika sana na kama unavyoona katika sheria ya mwanzo ni makampuni machache sana yaliweza kushiriki katika soko la mitaji, lakini tunataka sasa kwa kupanua wigo huu uliopo, makampuni mengi yaweze kushiriki na hivyo yataweza kushiriki tu endapo elimu itatolewa kwa ukubwa zaidi na kwa watu wengi zaidi kufikiwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u104" who="MheDevotaMLikokola">
+          <seg xml:id="seg393">Mheshimiwa Mwenyekiti, marekebisho ambayo yameelezwa na Kambi zote, ukiangalia Kambi ya Upinzani na vile vile Kamati ya Fedha na Uchumi yamekuwa ya kina sana na ndio maana hata wewe umeona wachangiaji leo ni wachache kwa sababu maelezo ya kina yametolewa na Waheshimiwa Wabunge wameyaelewa kwa hiyo na mimi niungane na wao katika kuunga mkono marekebisho ya sheria hii. Nakushukuru kwa kunipa nafasi, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u105" who="Mwenyekiti">
+          <seg xml:id="seg394">Waheshimiwa Wabunge, mpaka anapomaliza Mheshimiwa Devota Likokola bado sijapokea jina la mchangiaji mwingine, kwa hali hiyo tuendelee na hatua inayofuata. Basi kwa heshima yote naomba nimwite Mheshimiwa Naibu Waziri kwa muda mfupi aweze kutoa maelezo ya yale ambayo yamejitokeza hasa katika ushauri wa Kamati na ushauri wa Kambi ya Upinzani na yale aliyoeleza Mheshimiwa Devota Likokola na baadaye nadhani muda wetu utaturuhusu tu tutaimaliza hii sheria asubuhi hii hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u106" who="Mwenyekiti">
+          <seg xml:id="seg395">Mheshimiwa Naibu Waziri, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u107" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg396">Mheshimiwa Mwenyekiti, kwanza kabisa kwa niaba ya Mheshimiwa Waziri wa Fedha na Uchumi nataka nitoe shukrani zangu kwa wale wote ambao wamechangia, wale waliochangia kwa kuongea na wale waliochangia kwa kuniandikia, nataka niseme tu ni kwamba tumekuwa wachangiaji wachache nadhani kwa sababu tu Muswada huu tumeu- simplify, tumeueleza kwa lugha nyepesi ili Waheshimiwa Wabunge waweze kuufahamu vizuri na hii imenidhihirishia kwamba Waheshimiwa Wabunge wengi wameufahamu.</seg>
+          <seg xml:id="seg397">Lakini kwa sababu sio Wabunge pekee ambao wanaotaka kufahamu suala zima la mitaji na dhamana ni kama ambavyo wengi wameeleza kwamba kuna haja ya kutolewa elimu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u108" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg398">Mheshimiwa Mwenyekiti, kabla sijatoa ufafanuzi nataka kwanza niwatambue Waheshimiwa Wabunge ambao wamechangia kwa kuniandikia. Kwanza Mheshimiwa Mgana Msindai wa Jimbo la Iramba Mashariki, wa pili ni Mheshimiwa Mwadini Abbas Jecha wa Jimbo la Wete, Pemba na wa tatu Mheshimiwa Mkiwa Kimwanga wa Viti Maalam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u109" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg399">Mheshimiwa Mwenyekiti, nawashukuru wote hawa walioniandikia nataka niwaambie tu kwamba michango yao nimeipitia na wenzangu tutaipitia ili hatimaye tuweze kuifanyia kazi kwa ufanisi zaidi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u110" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg400">Mheshimiwa Mwenyekiti, naomba vilevile niwataje wale ambao waliochangia kwa kuongea. Kwanza Mheshimiwa Dr. Abdallah Kigoda, Mwenyekiti wa Kamati ya Fedha na Uchumi, wa pili ni Mheshimiwa Zitto Kabwe ndugu yangu, mdogo wangu kwa niaba ya Kambi ya Upinzani na wa tatu dada yangu Mheshimiwa Devota Likokola wa Viti Maalum, nasema michango yao tumeisikia na tutaifanyia kazi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u111" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg401">Mheshimiwa Mwenyekiti, nataka nisema kama ifutavyo; tumekuwa tukipiga kelele sana Bunge letu Tukufu kwa nia safi tu kwamba uchumi wetu licha ya kukuwa lakini kwa kiwango kikubwa umaskini wetu haukui kama uchumi unavyokuwa. Na hii inatokana na Watanzania wachache ndio wanaochangia kukuwa kwa uchumi wetu, tukilinganisha na umaskini wa Watanzania wengi. Sheria hii tuliiona kama tutaifanyia marekebisho itatoa fursa ya Watanzania wengi zaidi kuondokana na umaskini.</seg>
+          <seg xml:id="seg402">Mheshimiwa Mwenyekiti wa Kamati amesema, Mheshimiwa Zitto Kabwe amesema, Mheshimiwa Devota Lokokola amesema na mimi nimeeleza katika hotuba yangu kwamba sheria hii awali ilikuwa inawaondoa kuingia katika soko la mitaji wenzetu ambao ni wafanyabiashara wa kati na wale wadogo.</seg>
+          <seg xml:id="seg403">Mheshimiwa Mwenyekiti, Sheria hii ilikuwa inawaondoa wale ambao hawajaanza, sheria hii ilikuwa inataka makampuni makubwa tu ambayo yana record na yana faida. Sasa ukishawaacha hawa ambao ni wengi, tusitarajie uchumi kufika huko chini na kuondoa au kupunguza umaskini. Tuliona sheria hii tukiifanyia marekebisho na ikishirikiana vizuri na kilimo kwanza, tutafikia lengo tunalolihitaji. Kwa maana hiyo suala ambalo limezungumzwa hapa na Mwenyekiti wa Kamati ya Fedha na Uchumi, ndugu yangu Mheshimiwa Kabwe Zitto na Mheshimiwa Devota Likokola, kwamba elimu ya mitaji, elimu ya hisa na elimu ya thamani itolewe kwa wananchi tumelichukua sisi Wizara ya Fedha na Uchumi kama ndio wadhamini na wataalamu wetu wa mamlaka inayohusika tutalifanyia kazi ili wananchi waweze kufahamu sasa sheria imetoa fursa. Kwa hiyo, hakuna haja tena ya kusema sasa hivi kwamba mimi ni mdogo siwezi kuingia kwenye soko, sheria hii imetoa fursa lakini kuna taratibu ambazo tutazieleza ili mdogo na yule wa kati waweze kuingia katika soko la mitaji, ni matarajio yangu kwamba tukienda vizuri katika kilimo kwanza, tukapata production kutokana na mazao ya kilimo, tukawa</seg>
+          <seg xml:id="seg404">na uanzishwaji wa viwanda vyetu vidogo vidogo, sheria hii sasa imeshatoa provision hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u112" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg405">Mheshimiwa Mwenyekiti, nataka nikubaliane nao tu wenzangu hawa wote ambao wameniletea, wamesisitiza kuwepo na elimu kwa ajili ya watu wetu kufahamu elimu hii ya mitaji na hisa na soko la hisa. Hilo tutalifanya. Nikianza basi na Mwenyekiti wa Kamati, Mheshimiwa Dr. Abdallah Kigoda amesema sasa kupitia sheria hii, Serikali ianze kutafakari kwa makampuni mapya tutakayoingia nayo mikataba kuweka kipengele cha kuuza hisa nchini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u113" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg406">Mheshimiwa Mwenyekiti, nasema kwamba hilo halijazuiwa, tunalichukua, tutalifanyia kazi na utakuja kuona hatima kwa sababu tunaamini kwamba makampuni haya yatakapouza hisa ndani ya nchi, wananchi watafaidika na kinachozalishwa ndani ya kampuni hizo. Kwa hiyo, hili tumelipokea na tutalifanyia kazi kwa nguvu zetu zote. Mheshimiwa Dr. Kigoda amezungumzia vilevile pamoja na Mheshimiwa Kabwe Zitto suala zima la Municipality Bonds nataka niseme tu kwamba Serikali imeshaliangalia suala hili na tuko katika hatua za mwisho ili kuona kwamba utekelezaji wake utakwenda vipi.</seg>
+          <seg xml:id="seg407">Mheshimiwa Zitto alisema kuwepo na hili katika tafsiri za security katika sheria, sisi tuliziweka katika mabano pale tukaweka kwamba bonds in totality including hizi municipality bonds. Lakini tutaongea na wanasheria kwamba hiyo haitoshi basi tutaona kwamba jinsi ya kuweza kuifungua, lakini bonds in totality pamoja na hizi ambazo tunazozitegemea kuzifanyia kazi hivi karibuni.</seg>
+          <seg xml:id="seg408">Mheshimiwa Mwenyekiti, Mheshimiwa Kabwe Zitto vilevile amezungumzia kwamba Serikali kuwa mstari wa mbele kuorodhesha baadhi ya hisa alizonazo katika makampuni yake au mashirika yake, Mhehsimiwa Kabwe Zitto nataka nikutoe tu wasiwasi kwamba wala usiwe na wasiwasi katika hii, hili sisi kama Serikali kila wakati utakapofika Serikali sasa hivi tumejitoa katika kufanya biashara, kila wakati utakapofika tutahakikisha kwamba tunapeleka hisa za Serikali ziweze kumilikiwa na wananchi. Tumefanya hivyo katika makampuni mbalimbali na tutaendelea kufanya hivyo. Lengo letu ni kumsaidia mwananchi kuondokana na umaskini alionao. Sisi kama Serikali tunajua source zetu za mapato, lakini Mtanzania wa kawaida nasi basi tunataka tumuongezee eneo la kupata mapato, nataka nikutoe wasiwasi Mheshimiwa Kabwe Zitto kwamba kila itakapofikia Serikali ikishafanya maamuzi tutazipeleka kuuza hisa katika soko ili wananchi wetu waweze kununua. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u114" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg409">Mheshimiwa Mwenyekiti, nakubalina na Mheshimiwa Kabwe Zitto kabisa pale unaposema kwamba eneo la hisa ni eneo la watu kwenda kutafuta mitaji, nakubaliana na wewe kabisa na hii ndio taaluma ambayo tunatakiwa sisi kuitoa kwa ajili ya watu wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u115" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg410">Mheshimiwa Mwenyekiti, unapozungumzia soko la hisa, soko la mitaji kuna mtu anatafuta mtaji na kuna mtu ana mtaji, hawa wanakutana pale. Wewe unatafuta mtaji na mimi ninao mtaji, je, unataka kuuza hisa zao? Ndio, naleta pale, huyu huku anakutafutia</seg>
+          <seg xml:id="seg411">wa kununua, hapo ndio tunapokutana. Kwa hivyo, hii elimu unayozungumzia Mheshimiwa Kabwe Zitto nakubaliana na wewe kabisa na kuna haja kubwa ya kuifanyia kazi.</seg>
+          <seg xml:id="seg412">Mheshimiwa Mwenyekiti, umezungumzia kwamba kuwepo na provision kwamba inapotokea utata baina ya sheria mbili, sheria hii iweze ku-pertain, iweze kuwa ndio mhimili nataka nikuambie kwamba hoja yako ni nzuri, lakini hebu acha tujaribu kwanza tuone kama kutatokea na utata wa sheria kwa sababu hii sheria ukiitazama ina uso au ina element ya uniqueness, kwa hiyo, sio kwamba ni sheria za kawaida kama sheria nyingine kwamba unatarajia kwamba labda kutakuwa na uwezekano upo wa kuweza kugongana na sheria nyingine. Lakini tunasema hebu kwanza tuangalie ikiwezekana kama hili basi ni muhimu basi tutakuja vilevile na amendment tuweze kuifanyia marekebisho katika sheria hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u116" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg413">Mheshimiwa Devota Likokola umezungumzia vizuri sana kwamba Watanzania wengi wanashindwa kuendeleza biashara zao kwa sababu hawana mitaji, sasa tunasema tutatengeneza utaratibu hata kama unataka kuanzisha mradi tutakupatia mtu ambaye atakuandalia ule mradi na baadaye tutaupeleka sasa kwenye soko tuweze kuona kwamba jinsi gani utakavyoweza kupata mtaji na jinsi gani utakavyoangaliwa unavyokuwa mpaka utakapofika pahala pa kuweza kuingiza katika soko la hisa. Utaratibu huo sasa hivi tunachokitaka sisi sasa hivi ni Watanzania wenyewe sasa tuchangamkie fursa. Tukishakutoa elimu Watanzania tuchangamkie fursa. Tukizichangamkia hizi fursa mimi nakuambieni ndugu zangu tutakuwa mstari wa mbele katika kuendesha shughuli zetu kwa kutumia mitaji yetu wenyewe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u117" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg414">Mheshimiwa Mwadini Abbas Jecha amesema kwamba Sheria hii inaonekana kana kwamba inawajali zaidi wageni kuliko wenyeji. Nataka niseme Sheria hii na marekebisho haya yanatoa fursa zaidi kwa wenyeji kuliko hata wageni. Kwa sababu mgeni haji hapa akaanzisha biashara ndogo ndogo, ni sisi ndiyo ambao tunaanzisha hizo biashara ndogo ndogo. Mgeni akija hapa mara nyingi anakuwa tayari ana mtaji wake kashauchukua kutoka nje, anakuja kutumia fursa zetu tu. Ni sisi ambao hatuna mitaji. Kwa hivyo Sheria hii inatujali zaidi sisi kuliko wageni. Nataka niseme tu kwamba Waheshimiwa Wabunge sisi kama ni wawakilishi wa wananchi tutumie fursa hii kuwaelimisha zaidi wananchi wetu. Tutumie fursa hii kuwahamasisha wananchi wetu ili hatimaye mtaona tutaondokana na ile kero ya umaskini Tanzania. Fursa tunazo, hatuna mitaji, lakini sasa tuna fursa na tuna mitaji. Tuichangamkieni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u118" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg415">La mwisho suala ambalo Mheshimiwa Devota Likokola amelisisitiza na mimi nataka nikubaliane kwamba sisi Wizara ya Fedha tukishirikiana na Mamlaka tuhakikishe kwamba Watanzania basi sasa wanapata elimu hii. Tuhakikishe kwamba Watanzania tunawaonyesha njia za kupita bila ya sisi wenye utaalam huo, Watanzania bado watakuwa kwenye giza.</seg>
+          <seg xml:id="seg416">Mheshimiwa Mmwenyekiti, nataka nikubaliane naye na mimi nitaka niseme tu kwa kumalizia kwamba leo Mheshimiwa Waziri Mkuu muda mwingi yeye anasema ni mtoto wa mkulima, na mimi leo nasema kwa Sheria hii mimi ni mtoto wa</seg>
+          <seg xml:id="seg417">mfanyabiashara. Sasa tukishirikiana kwa Sheria hii na kilimo kwanza mimi nina uhakika tutafika mbali. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u119" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg418">Mheshimiwa Mwenyekiti, baada ya maelezo hayo naomba sasa kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u120" who="Mwenyekiti">
+          <seg xml:id="seg419">Nashukuru Waheshimiwa Wabunge hoja imetolewa na imeungwa mkono na kwa mujibu wa taratibu naona na Wabunge wengine wamesimama kuunga mkono hoja hiyo. Kwa hiyo, naomba nimwite Katibu kwa hatua inaofuata.</seg>
+        </u>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u121" who="Mwenyekiti">
+          <seg xml:id="seg420">KAMATI YA BUNGE ZIMA</seg>
+          <seg xml:id="seg421">Muswada wa Sheria ya Marekebisho ya Sheria ya Masoko ya Mtaji na Dhamana</seg>
+          <seg xml:id="seg422">wa Mwaka 2010 (The Capital Markets and Securities (Amendment) Bill, 2010) Ibara ya 1</seg>
+          <seg xml:id="seg423">Ibara ya 2</seg>
+          <seg xml:id="seg424">(Ibara zilizotajwa hapo juu zilipitishwa na Kamati ya Bunge Zima bila ya marekebisho</seg>
+          <seg xml:id="seg425">yoyote)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u122" who="MheKabweZZitto">
+          <seg xml:id="seg426">Mheshimiwa Mwenyekiti, nimeshaelezea maelezo ya Ibara hii, marekebisho haya ni kwa ajili tu ya kuboresha Muswada na Mheshimiwa Waziri amesema kwamba hakuna tatizo na hili, isipokuwa amesema kwamba tungeangalia muda lakini nilikuwa nadhani tu kwamba haina controverse yoyote.</seg>
+          <seg xml:id="seg427">Mheshimiwa Mwenyekiti, nimeonyesha katika baadhi ya Miswada mbalimbali na Sheria mbalimbali ambazo tumezipitisha ambazo zina provision kama hii. Ndiyo maana nikasema kwamba inawezekana tu labda ilisahaulika tu.</seg>
+          <seg xml:id="seg428">Kwa hiyo, nilikuwa naomba Mheshimiwa Waziri akubaliane tu na marekebisho haya na baadaye Bunge liweze kuridhia tuweze kukamilisha kutunga sheria hii.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u123" who="Mwenyekiti">
+          <seg xml:id="seg429">Mheshimiwa Naibu Waziri, labda ungekuja huku mbele, sijui kumetokea nini tena.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u124" who="NaibuWaziriWaFedhaNaUchumiMheOmarYusufMzee">
+          <seg xml:id="seg430">Mheshimiwa Mwenyekiti, wazo alilotoa Mheshimiwa Kabwe Zitto, hatuna matatizo na amendment hiyo tutaifanyia marekebisho.</seg>
+          <seg xml:id="seg431">(Ibara iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge Zima</seg>
+          <seg xml:id="seg432">pamoja na marekebisho yake)</seg>
+        </u>
+        <note>(Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u125" who="NaibuWaziriWaFedhaNaUchumiMheOmarYusufMzee">
+          <seg xml:id="seg433">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Fedha na Uchumi, naomba kutoa taarifa kwamba Kamati ya Bunge Zima imepitia Muswada wa Sheria wenye mapendekezo ya marekebisho ya Sheria ama Soko ya Mitaji ya Dhamana Sura Namba 79 yaani The Capital Markets and Securities (Amendment) Bill ya mwaka 2010, kifungu kwa kifungu na kuukubali pamoja na marekebisho yake. Kwa hiyo, naomba kutoa hoja kwamba taarifa hiyo sasa ikubaliwe rasmi. Mheshimiwa Mwenyekiti, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u126" who="NaibuWaziriWaFedhaNaUchumiMheOmarYusufMzee">
+          <seg xml:id="seg434">Muswada wa Sheria ya Marekebisho ya Sheria ya Masoko ya</seg>
+          <seg xml:id="seg435">Mtaji na Dhamana wa Mwaka 2010 (The Capital Markets</seg>
+          <seg xml:id="seg436">and Securities (Amendment) Bill, 2010)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Tatu)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u127" who="WaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg437">Mheshimiwa Mwenyekiti, naafiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja Iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u128" who="Mwenyekiti">
+          <seg xml:id="seg438">Ahsante sana Mheshimiwa Naibu Waziri kwa kazi yako nzuri ya leo. Waheshimiwa Wabunge hoja imetolewa. Kwa hiyo, sasa nitawahoji kuhusiana na Muswada huu.</seg>
+          <seg xml:id="seg439">Waheshimiwa Wabunge, Bunge Zima limeafiki kwa pamoja na kwa nguvu kabisa.</seg>
+          <seg xml:id="seg440">Muswada wa Sheria ya Serikali Ulisomwa Mara ya</seg>
+          <seg xml:id="seg441">Tatu na Kupitishwa)</seg>
+          <seg xml:id="seg442">Waheshimiwa Wabunge nafikiri kazi hii sasa tumeikamilisha na ninaomba pia nichukue nafasi hii kwa niaba yenu nimshukuru sana Waziri mwenye dhamana. Lakini nimshukuru sana Mheshimiwa Naibu Waziri kwa kazi yake nzuri aliyoifanya leo hapa ndani na kwa kweli ameonyesha uadilifu mkubwa na ushirikiano mkubwa sana na Waheshimiwa Wabunge pamoja na Kamati husika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u129" who="Mwenyekiti">
+          <seg xml:id="seg443">Kwa hiyo, kwa niaba ya Serikali kwa kweli naomba nikupongeze sana sana Mheshimiwa Naibu Waziri na nichukue nafasi hii kukutakia kila la kheri katika kazi zako na Inshallah mambo yako mwaka huu pia yaweze kuwa mazuri na mema. Basi Mwenyezi Mungu akuone kwa jicho la amani na siyo kwa jicho la husuda. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u130" who="Mwenyekiti">
+          <seg xml:id="seg444">Waheshimiwa Wabunge, baada ya hatua hii sasa tunachosubiri tu ni Mamlaka ya Mheshimiwa Rais ya Kikatiba ya kumalizia kuweka saini katika Muswada ili sasa uanze kutumika kama Sheria na kama mlivyosema nadhani Sheria hii ni muhimu sana kwa wakati huu wa sasa kwa maendeleo ya Watanzania wote lakini kwa maendeleo pia ya nchi yetu na tunaamini kabisa kwa nia njema ya Mheshimiwa Rais atakapomaliza kazi hiyo basi Wizara mtusaidie tu lile suala sasa la kutoa elimu kwa Watanzania wote ili kweli waweze kufaidika sana kwa hali halisi jinsi ilivyo.</seg>
+          <seg xml:id="seg445">Waheshimiwa Wabunge, kwa kazi za asubuhi nafikiri sasa tumezimaliza. Tutakaporudi jioni tutaingia jioni tutaingia kwenye Azimio. Lakini naomba tu nitoe tangazo moja kwa niaba ya Kamati ya Wabunge wa Chama cha Mapinduzi nimeombwa niwatangazie Wabunge wa Chama cha Mapinduzi wakumbuke uwepo wa kikao cha</seg>
+          <seg xml:id="seg446">Kamati ya Wabunge wa Chama cha Mapinduzi leo baada ya kuahirisha shughuli za Bunge jioni.</seg>
+          <seg xml:id="seg447">Kwa hiyo, kama shughuli zitaahirishwa mapema basi muda huo huo kikao kitaanza, zikiahirishwa saa 2.00 usiku basi saa 2.00 usiku hiyo kikao kitaanza. Kwa hiyo, nimeombwa niwakumbushe hilo.</seg>
+          <seg xml:id="seg448">Baada ya kusema hayo niwashukuru sana Waheshimiwa Wabunge kwa ushirikiano na sasa nasitisha shughuli hizi za Bunge mpaka saa 11 jioni. Ahsanteni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Saa 7.00 mchana Bunge lilisitishwa mpaka saa 11.00 jioni)</note>
+        <note>(Saa 11.00 Jioni, Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u131" who="Mwenyekiti">
+          <seg xml:id="seg449">Hapa Mwenyekiti (Mheshimiwa Jenista J. Mhagama) Alikalia Kiti</seg>
+          <seg xml:id="seg450">Waheshimiwa Wabunge, karibuni tena katika shughuli ya jioni.</seg>
+          <seg xml:id="seg451">HOJA ZA SERIKALI</seg>
+          <seg xml:id="seg452">AZIMIO</seg>
+          <seg xml:id="seg453">Azimio la Kuongeza Mtaji wa Mfuko wa Dhamana</seg>
+          <seg xml:id="seg454">(Advances Fund)</seg>
+          <seg xml:id="seg455">Waheshimiwa Wabunge, tunaingia kwenye ajenda yetu ya mwisho kwa siku hii ya leo, nayo ni kupitia Azimio la Kuongeza Mtaji wa Mfuko wa Dhamana (Advance Fund) ambalo litawasilishwa na Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg456">Mheshimiwa Naibu Waziri, tafadhali karibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u132" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg457">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Fedha na Uchumi, naomba kutoa hoja kwamba Bunge lako Tukufu, likubali kuridhia Azimio la kumwezesha Waziri wa Fedha na Uchumi kuongeza mtaji wa mfuko ujulikanao kama Advances Fund, kutoka shilingi bilioni 18 hadi kufikia shilingi bilioni 43.</seg>
+          <seg xml:id="seg458">Awali ya yote napenda kuishukuru Kamati ya Fedha na Uchumi, chini ya Mwenyekiti wake Mheshimiwa Dr. Abdallah Omar Kigoda, Mbunge wa Handeni, kwa michango yao waliyoitoa wakati wa kujadili azimio hili. Napenda kuwahakikishia Waheshimiwa Wajumbe wa Kamati kwamba michango yao tunaithamini na tutaendelea kuifanyia kazi ipasavyo katika kuuboresha Mfuko huu.</seg>
+          <seg xml:id="seg459">Mheshimiwa Mwenyekiti, mfuko huu wa Advances Funds ni Revolving Fund chini ya iliyokuwa Sheria ya Exchequer and Audit Ordinance ya mwaka 1961, ambayo</seg>
+          <seg xml:id="seg460">ilifutwa na sheria ya usimamizi wa fedha za umma, Sura Na. 348 - The Public Finance Act ya mwaka 2001, kwa madhumuni ya kuwakopesha Waheshimiwa Wabunge na watumishi wa Serikali vyombo vya usafiri pamoja na vyombo vya nyumbani ili kuleta ufanisi katika utendaji wao wa kazi.</seg>
+          <seg xml:id="seg461">Waheshimiwa Wabunge watakumbuka kwamba kwa mara ya mwisho mtaji wa mfuko huu uliongezwa kwa Azimio la Bunge, mnamo mwaka 2005 hadi kufikia shilingi bilioni 18. Hata hivyo, Serikali inatambua kwamba kutokana na uwezekano wa kuongezeka kwa idadi ya Waheshimiwa Wabunge katika Bunge jipya la mwaka 2010 pamoja na ongezeko la watumishi wa Serikali watakaokopeshwa, mtaji wa sasa wa shilingi bilioni 18 hautatosha kukidhi mahitaji ya Mfuko huu.</seg>
+          <seg xml:id="seg462">Mheshimiwa Mwenyekiti, baada ya kusema hayo, naomba sasa kuwasilisha Azimio lenyewe kama ifuatavyo:-</seg>
+          <seg xml:id="seg463">Kwa kuwa, Serikali inazingatia umuhimu wa kuleta mazingira bora ya kazi kwa Waheshimiwa Wabunge pamoja na watumishi wa Serikali ili kuongeza ufanisi na tija;</seg>
+          <seg xml:id="seg464">Na kwa kuwa, Serikali inatambua umuhimu wa kuwapatia Waheshimiwa Wabunge pamoja na watumishi wa Serikali, vyombo vya usafiri pamoja na vyombo vya nyumbani;</seg>
+          <seg xml:id="seg465">Na kwa kuwa, umekuwepo mfuko uitwao Advances Fund, chini ya kifungu cha 12 cha Sheria ya Usimamizi wa Fedha za Umma, Sura Na. 348, wenye mtaji wa kiasi cha shilingi bilioni 18 ambao uliongezwa kwa mara ya mwisho mwaka 2005 kupitia Azimio la Bunge Na.10 la mwaka 2005 kutoka shilingi bilioni 10 zilizoongezwa mwaka 2000;</seg>
+          <seg xml:id="seg466">Na kwa kuwa, Serikali inatambua kwamba kutokana na uwezekano wa kuongezeka kwa idadi ya Waheshimiwa Wabunge katika Bunge jipya la mwaka 2010 pamoja na ongezeko la Watumishi wa Serikali watakaokopeshwa. Mtaji wa sasa wa shilingi bilioni 18 hautatosha kukidhi mahitaji ya mfuko huo;</seg>
+          <seg xml:id="seg467">Hivyo basi, kwa madhumuni hayo maalum, Bunge hili katika Mkutano wa Kumi na Tisa linaazimia kwamba:-</seg>
+          <seg xml:id="seg468">Mtaji wa Advances Fund, uongezwe kutoka shilingi bilioni 18 hadi kufikia shilingi bilioni 43 ambao unaweza kurekebishwa na Waziri mwenye dhamana ya masuala ya fedha kulingana na idadi ya watakaokopeshwa na mabadiliko ya bei za bidhaa hizo katika soko.</seg>
+          <seg xml:id="seg469">Mheshimiwa Mwenyekiti, naomba kulitaarifu Bunge lako Tukufu kwamba Waziri mwenye dhamana ya Fedha, atakuwa akirekebisha Mtaji wa Mfuko huu baada ya kupata ridhaa ya Bunge. Mtaji wa Advances Fund, kuongezwa na kufikia kiwango hicho, inaazimiwa kuwa matumizi yake yawe kama ifuatavyo:-</seg>
+          <seg xml:id="seg470">(a) Kukopesha Waheshimiwa Wabunge na watumishi wa Serikali, fedha kwa ajili ya kununulia vyombo vya usafiri.</seg>
+          <seg xml:id="seg471">(b) Kukopesha watumishi wa Serikali fedha kwa ajili ya kununulia vifaa vya nyumbani kama vile friji, majiko, samani, redio, baiskeli, feni na cherehani.</seg>
+          <seg xml:id="seg472">(c) Kati ya fedha hizo kiasi cha Sh. 14,800,000,000/= zitatumika kwa ajili ya mikopo ya vyombo vya usafiri kwa Waheshimiwa Wabunge.</seg>
+          <seg xml:id="seg473">(d) Kiasi cha Sh. 9,640,000,000/= zitatumika kwa ajili ya mikopo ya ununuzi wa magari kwa watumishi wa Serikali.</seg>
+          <seg xml:id="seg474">(e) Kiasi cha Sh. 1,200,000,000/= zitatumika kwa ajili ya mikopo ya ununuzi wa pikipiki kwa watumishi wa Serikali.</seg>
+          <seg xml:id="seg475">(f) Kiasi cha Sh. 3,000,000,000/= zitatumika kwa ajili ya mikopo ya matengenezo ya magari na pikipiki kwa watumishi wa Serikali tu.</seg>
+          <seg xml:id="seg476">(g) Mheshimiwa Mwenyekiti, naomba kufafanua kwamba mikopo ya fedha za matengenezo ya magari na pikipiki, itatolewa kwa watumishi wa Serikali pekee na haitahusisha Waheshimiwa Wabunge. Kwa kuwa, Waheshimiwa Wabunge wanapata unafuu wa kutolipia 50% ya mikopo wanayopewa ili kuwawezesha kutumia unafuu huo kwa ajili ya matengenezo ya magari yao.</seg>
+          <seg xml:id="seg477">(h) Kiasi cha Sh. 14,000,000,000/= zitatumika kwa ajili ya mikopo ya vifaa vya nyumbani kwa watumishi wa Serikali.</seg>
+          <seg xml:id="seg478">(i) Kiasi cha Sh. 360,000,000/= ambayo ni 0.84% ya gharama zote, zitatumika kwa ajili ya kugharamia uendeshaji wa mfuko.</seg>
+          <seg xml:id="seg479">Mheshimiwa Mwenyekiti, fedha zitokanazo na mauzo ya vyombo vya usafiri na vifaa chakavu, ziingizwe kwenye mfuko huu ili kutunisha mtaji wake.</seg>
+          <seg xml:id="seg480">Mheshimiwa Mwenyekiti, marejesho ya fedha yanayokatwa kwenye mishahara ya Waheshimiwa Wabunge, yatumike kuwekezwa kwenye dhamana za muda mfupi, kwa lengo la kupata faida. Faida itakayopatikana itasaidia kupunguza pengo la kiasi ambacho hakitarejeshwa na Waheshimiwa Wabunge, kutokana na msamaha uliotolewa na Serikali wa 50%.</seg>
+          <seg xml:id="seg481">Mheshimiwa Mwenyekiti, baada ya maelezo hayo sasa naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u133" who="WaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg482">Mheshimiwa Mwenyekiti, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u134" who="Mwenyekiti">
+          <seg xml:id="seg483">Waheshimiwa Wabunge, hoja imetolewa na imeshaungwa mkono. Sasa naomba nimwite Msemaji wa Kamati iliyohusika kuchambua Muswada huu. Mheshimiwa Mwenegoha, Makamu Mwenyekiti wa Kamati, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u135" who="YaBungeYaFedhaNaUchumi">
+          <seg xml:id="seg484">Mheshimiwa Mwenyekiti, kwa niaba ya Mwenyekiti wa Kamati ya Fedha na Uchumi, naomba kukushukuru kwa kunipa nafasi hii. Kwa mujibu wa Kanuni ya 86(5), ya Kanuni za Bunge la Jamhuri ya Muungano wa Tanzania, toleo la 2007, niweze kutoa maoni na ushauri kwa niaba ya Wajumbe wa Kamati ya Fedha na Uchumi, kuhusu Azimio la Kuongeza Mtaji wa Mfuko wa Kutoa Mikopo, Advances Fund, kwa Wabunge na Watumishi wa Serikali.</seg>
+          <seg xml:id="seg485">Mheshimiwa Mwenyekiti, mfuko huu wa Advances Fund, ulianzishwa kama Revolving Fund chini ya iliyokuwa Sheria ya Exchequer and Ordinance ya Mwaka 1961, ambayo ilifutwa na Sheria ya Usimamizi wa Fedha za Umma, sura ya 348 kwa madhumuni ya kuwakopesha Waheshimiwa Wabunge na Watumishi wa Serikali vyombo vya usafiri pamoja na vyombo vya nyumbani ili kuleta ufanisi katika utendaji wao wa kazi.</seg>
+          <seg xml:id="seg486">Mheshimiwa Mwenyekiti, Serikali inatambua kwamba kutokana na uwezekano wa kuongezeka kwa idadi hiyo ya Waheshimiwa Wabunge katika Bunge jipya la 2010 pamoja na ongezeko la Watumishi wa Serikali watakaokopeshwa, mtaji wa sasa wa Sh. 18,000,000,000/= hautoshi kukidhi mahitaji ya mfuko huu kama alivyosema Mheshimiwa Waziri. Kamati yangu inakubaliana na Azimio hili la kuongeza Mtaji wa Mfuko wa Kutoa Mikopo (Advances Fund) kwa Wabunge na Watumishi wa Serikali, kutoka kiasi cha Sh. 18,000,000,000/= hadi kufikia Sh. 43,000,000,000/=. Kamati imeridhika na mchanganuo wa matumizi ya fedha hizi, kama alivyoeleza Waziri mwenye dhamana.</seg>
+          <seg xml:id="seg487">Mheshimiwa Mwenyekiti, yafuatayo ni maoni na ushauri wa Kamati:-</seg>
+          <seg xml:id="seg488">Mheshimiwa Mwenyekiti, Kamati yangu inaipongeza Wizara kwa kuweza kuwasilisha Azimio hili lenye lengo la kuongeza ufanisi na tija katika utendaji kazi wa Wabunge pamoja na watumishi wa Serikali. Hii itasaidia kuleta mazingira bora ya utendaji kazi.</seg>
+          <seg xml:id="seg489">Mheshimiwa Mwenyekiti, Kamati inaishauri Serikali kuhakikisha fedha hizi zinatumika kama zilivyopangwa. Aidha, wafanyakazi wenye kipato cha chini au ngazi ya chini, wapewe kipaumbele cha kukopeshwa fedha hizi ili kuboresha hali yao ya maisha na kuongeza ufanisi katika utendaji wao wa kazi.</seg>
+          <seg xml:id="seg490">Mheshimiwa Mwenyekiti, Kamati inaisisitiza Serikali ihakikishe marejesho ya fedha yanayokatwa kwenye mishahara ya Waheshimiwa Wabunge, yanatumika kuwekezwa kwenye dhamana za muda mfupi kwa lengo la kupata faida. Hii itasaidia kupunguza pengo la kiasi ambacho hakitarejeshwa na Waheshimiwa Wabunge, kutokana na msamaha uliotolewa na Serikali wa 50%.</seg>
+          <seg xml:id="seg491">Mheshimiwa Mwenyekiti, kwa kuwa Serikali ndiye mkopeshaji, fedha hizi hazina riba. Hivyo, Kamati yangu inatoa wito kwa wafanyakazi wa Serikali kukopa fedha hizi kwa ajili ya vifaa vya nyumbani pamoja na matengenezo ya magari na pikipiki.</seg>
+          <seg xml:id="seg492">Mheshimiwa Mwenyekiti, baada ya kuwasilisha maoni na ushauri wa Kamati, sasa napenda kuwatambua kwa majina Wajumbe wa Kamati hii kama ifuatavyo:-</seg>
+          <seg xml:id="seg493">Mheshimiwa Abdallah Kigoda - Mwenyekiti wa Kamati, Mheshimiwa Mwenegoha - Makamu wa Mwenyekiti na ndiye anayesoma hii hotuba, Mheshimiwa Elizabeth Batenga, Mheshimiwa Anthony Diallo, Mheshimiwa Fatma Sereweji, Mheshimiwa Josephine Ngenzabuke, Mheshimiwa Athumani Janguo, Mheshimiwa Siraju Kaboyonga, Mheshimiwa Eustace Katagira, Mjumbe, Mheshimiwa Anna Komu, Mjumbe, Mheshimiwa Clemence Lyamba, Mheshimiwa Dr. Binilith Mahenge, Mheshimiwa Monica Ngezi Mbega, Mheshimiwa Hammad Rashid Mohammed, Mheshimiwa Felix Mrema, Mheshimiwa Mosi Mussa, Mheshimiwa Damas Pascal Nakei, Mheshimiwa Richard Mganga Ndassa, Mheshimiwa Dr. Omari Mzeru Nibuka, Mheshimiwa Sijapata Fadhili Nkayamba na Mheshimiwa Suleiman Ahmed Saddiq.</seg>
+          <seg xml:id="seg494">Wengine ni Mheshimiwa Mzee Ngwali Zubeir, Mheshimiwa Devota Likokola, Mheshimiwa Martha Jecha Umbula na Mheshimiwa Charles Kajege.</seg>
+          <seg xml:id="seg495">Mheshimiwa Mwenyekiti, hapa mmoja hayupo kwenye majina, lakini naomba nimtamke rasmi, ni Mheshimiwa Artoney General wa zamani na yeye ni Mjumbe, jina limeachwa hapa.</seg>
+          <seg xml:id="seg496">WABUNGE: Nani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u136" who="MheHamzaAMwenegohaKNYMwenyekitiWaKamatiYaBungeYaFedhaNaUchumi">
+          <seg xml:id="seg497">Mnamjua. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u137" who="MheHamzaAMwenegohaKNYMwenyekitiWaKamatiYaBungeYaFedhaNaUchumi">
+          <seg xml:id="seg498">Mheshimiwa Mwenyekiti, napenda kutumia fursa hii kumshukuru Mheshimiwa Mustapha Mkullo - Waziri wa Fedha na Uchumi, Mheshimiwa Jeremiah Solomon Sumari na Mheshimiwa Omar Yussuf Mzee. Hawa ni Manaibu Waziri wa Wizara ya Fedha na Uchumi, kwa utendaji wao mzuri wa kazi na kushirikiana na Kamati.</seg>
+          <seg xml:id="seg499">Mheshimiwa Mwenyekiti, naomba nikushukuru sana wewe mwenyewe binafsi kwa kutupatia miongozo na maendeleo mbalimbali kwa Kamati yetu ambayo wakati wote yamefanikisha kazi za Kamati. Aidha, napenda pia kumshukuru Katibu wa Bunge, Dr. Thomas Kashilillah, Katibu wa Kamati - Ndugu Lawrance Makigi na Ndugu Michael Kadebe, kwa kuratibu shughuli za Kamati.</seg>
+          <seg xml:id="seg500">Mheshimiwa Mwenyekiti, naomba kuwasilisha na ninaunga mkono hoja kwa niaba ya Mwenyekiti wa Kamati - Mheshimiwa Abdallah Kigoda. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u138" who="Mwenyekiti">
+          <seg xml:id="seg501">Nakushukuru sana Mheshimiwa Mwenegoha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u139" who="MheHamzaAMwenegohaMakamuMwenyekitiWaKamatiYaBungeYaFedhaNaUchumi">
+          <seg xml:id="seg502">Mheshimiwa Mwenyekiti, ninaomba nisahihishe kwamba, Mheshimiwa aliyekosekana ni Mheshimiwa Andrew John Chenge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u140" who="Mwenyekiti">
+          <seg xml:id="seg503">Mheshimiwa Andrew John Chenge. Ninakushukuru sana, ahsante sana.</seg>
+          <seg xml:id="seg504">Waheshimiwa Wabunge, tunaendelea na sasa nitamwita Msemaji wa Kambi ya Upinzani kwenye hoja hii. Naona leo toka asubuhi yupo Mheshimiwa Kabwe Zitto, kwa hiyo, nimwite aweze kuleta maoni ya Kambi ya Upinzani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u141" who="MheKabweZZittoKNYMsemajiMkuuWaUpinzaniKwaWizaraYaFedhaNaUchumi">
+          <seg xml:id="seg505">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi hii kwa niaba ya Msemaji Mkuu wa Kambi ya Upinzani kwa Wizara ya Fedha na Uchumi - Mheshimiwa Hamad Rashid Mohammed na kiongozi wa Upinzani Bungeni. Kwa mujibu wa Kanuni za Bunge, Kanuni ya 86 (6), Toleo la Mwaka 2007, kutoa maoni ya Kambi ua Upinzani kuhusiana na Azimio la Bunge la Kuongeza Mtaji wa Mfuko wa kutoa mikopo (Advances Fund), kwa Wabunge na watumishi wa Serikali.</seg>
+          <seg xml:id="seg506">Mheshimiwa mwenyekiti, kwa kuwa Kambi ya Upinzani ilipata Azimio hili jana na hatukuweza kupata muda wa kutosha wa kuweza kulifanyia kazi, Kambi ya Upinzani haina maoni yoyote kutokana na Azimio hili. Asante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u142" who="Mwenyekiti">
+          <seg xml:id="seg507">Waheshimiwa Wabunge, tunaendelea na hatua inayofuata. Nilikuwa nawasililiana na Meza ya Katibu hapa kuona kama kuna mchangiaji yeyote ambaye ameshaomba kuchangia hoja hii. Naona hoja hii haina mchangiaji. Basi namwita Mheshimiwa Naibu Waziri ahitimishe hoja yake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u143" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg508">Mheshimiwa Mwenyekiti, kwanza kabisa nataka niwashukuru Waheshimiwa Wabunge wote kwa kuona kwamba leo hii nimekuwa nikiongea kwa lugha nyepesi kiasi ambacho inafahamika zaidi. Nataka niwashukuru sana, na hii ndio inayonipa matumaini kwamba hakukuwa na mijadala mingi kwa sababu nimeeleweka. Nawaomba Waheshimiwa Wabunge tuendelee kushirikiana ili tuweze kufanikisha zile shughuli zetu muhimu za Kitaifa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u144" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg509">Mheshimiwa Mwenyekiti, nataka ninukuu tu kidogo, wale ambao wamechangia kwa kuongea. Kwanza Mheshimiwa Makamu Mwenyekiti - Mheshimiwa Mwenegoha, lakini wa pili vile vile ni Mheshimiwa Zitto Kabwe, kutoka Kambi ya Upinzani. Lakini nimepokea michango ya maandishi kutoka kwa Waheshimiwa Wabunge wawili, nao ni Mheshimiwa Mwadini Abbas Jecha - Mbunge wa Wete na Mheshimiwa Bakari Shamis - Mbunge wa Ole. Nataka niwashukuru sana. Lakini nataka tu kidogo kwa sababu hakukuwa na michango mingi na mimi sitaki niseme sana, lakini nataka niseme yale ambayo yamezungumzwa na Mheshimiwa Makamu Mwenyekiti, pamoja na ndugu zangu ambao wameniandikia.</seg>
+          <seg xml:id="seg510">Mheshimiwa Mwenyekiti, moja ya ushauri wa Mheshimiwa Makamu Mwenyekiti ambao ameipa Wizara, ni kuhakikisha kwamba fedha hizi tunazokopesha Wabunge na watendaji wa Serikali, zinarudishwa ili kukidhi lile lengo la revolving fund. Nataka</seg>
+          <seg xml:id="seg511">nimhakikishie Mheshimiwa Mbunge pamoja na Waheshimiwa Wabunge wote kwamba lengo la mfuko huu, uwe ni endelevu, na hautaweza kuwa endelevu kama hakutakuwa na rejesho. Kwa hiyo, nawahakikishieni kwamba tuhakikishe wale tunaowakopesha, basi na wao wanachukua jukumu la kurudisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u145" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg512">Mheshimiwa Mwenyekiti, la pili ambalo ameliongelea Makamu Mwenyekiti, ni suala la hii mikopo, tuwaelimishe wanaokopa ili itumike kwa mujibu wa malengo. Nataka nianze na Waheshimiwa Wabunge wenzangu; sisi katika mkopo huu, ni kwa ajili ya kununua magari. Magari hayo yatatuwezesha kufanya kazi ndani ya Majimbo yetu. Tunaelewa majukumu ya Wabunge ni kusaidiana na Serikali katika kuwasaidia wananchi wetu kuwatafutia maendeleo ndani ya Majimbo yetu. Tunaelewa Majimbo yetu ni makubwa, huwezi ukafika Majimboni bila kuwa na chombo. Ndio maana Serikali imeona kuwa kuna haja ya kuwa na huu mkopo ili kuwawezesha Waheshimiwa Wabunge kununulia magari na kuwafikia wananchi na kusaidiana na Serikali yao katika maendeleo.</seg>
+          <seg xml:id="seg513">Mheshimiwa Mwenyekiti, katika hili nataka nioanishe na lile suala ambalo Mheshimiwa Bakari amelisema kwamba ni vyema kama tukawaelimisha wananchi wetu, kwa maana kwamba wananchi wakisikia tu kuna kitu chochote kwa Wabunge, wanaona kama huo ni ubadhirifu. Katika hili, sio ubadhirifu. Wananchi watashindwa kutufikia Wabunge wao kama hawana vyombo vya usafiri na ndio maana sisi Serikali tumeona kwamba kwa sababu hatuwezi kumpa kila Mbunge gari, tumpe mkopo ajinunulie mwenyewe. Ndio maana tunasema kwamba, tutahakikisha kila Mbunge anapata mkopo huu, anautumia kwa mujibu wa ilivyokusudiwa.</seg>
+          <seg xml:id="seg514">Mheshimiwa Mwenyekiti, Mheshimiwa ndugu yangu Mheshimiwa Jecha, nataka kukubaliana naye. Bunge ni chombo kikubwa sana na Wabunge wana nafasi kubwa sana katika maendeleo ya nchi yetu, nakubaliana na yeye. Kila Serikali itakapopata fursa, tutakuwa tunawaangalia Wabunge kwa maslahi na wao waweze kuwatumikia vyema wananchi wao. Nakubaliana na Mheshimiwa Jecha na hili ndio lengo la Serikali pamoja na Watendaji Wakuu, waweze kufanikisha majukumu yao.</seg>
+          <seg xml:id="seg515">Mheshimiwa Mwenyekiti, ndugu yangu Mheshimiwa Kabwe Zitto, kwanza nakushukuru kwamba umekubali hili Azimio licha ya kwamba umelipata very late. Lakini naamini kwamba umeliona na umelisoma ndio maana ukakubali kwamba twende nalo, huna matatizo nalo. Mimi ninakushukuru sana na ninakuomba sana ndugu yangu Mheshimiwa Zitto, tuendelee kushirikiana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u146" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg516">Mheshimiwa Mwenyekiti, baada ya maelezo hayo, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u147" who="WaziriWaMaendeoYaJamiiJinsiaNaWatoto">
+          <seg xml:id="seg517">Mheshimiwa</seg>
+          <seg xml:id="seg518">(Azimio la Bunge la Kuongeza Mtaji wa Mfuko wa Dhamana</seg>
+          <seg xml:id="seg519">[Advances Fund], liliridhiwa na Bunge)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2010-04-16-bunge-19-04.u148" who="Mwenyekiti">
+          <seg xml:id="seg520">Waheshimiwa Wabunge, kazi ambazo zilipangwa kwenye ratiba yetu ya leo zimekamilika. Hapa Mezani kwangu, nina matangazo kadhaa ningeomba niwatangazie.</seg>
+          <seg xml:id="seg521">La kwanza, nimeombwa tena na Mheshimiwa Magreth Sitta - Waziri wa Maendeleo ya Jamii, Jinsia na Watoto, niendelee kukumbusha sana heshima tuliyopewa Waheshimiwa Wabunge na Bunge lote kwa ujumla wetu, la kupitisha ile Sheria ya Watoto. Kwa hiyo, ameomba niwakumbushe yale maandamano ambayo yatafanyika kesho hapa Dodoma, Uwanja wa Jamhuri. Pia ameendelea kutuomba itakapofika saa 3.00 tuwe tumeshaingia katika uwanja ule na Mgeni Rasmi atakuwa ni Mheshimiwa Waziri Mkuu. Kwa hiyo, ameomba niwakumbushe hilo na ninadhani Waheshimiwa Wabunge tumelisikia tangazo hili tangu jana. Kwa hiyo, tutashirikiana kwa pamoja kukamilisha shughuli hiyo ambayo ni heshima kwetu kwa kweli na kwa nchi yetu kwa ujumla wake.</seg>
+          <seg xml:id="seg522">Lakini pia nimepokea tangazo lingine kutoka kwa Mheshimiwa Gideon Cheyo, Mwenyekiti wa Kamati ya Bunge ya Kilimo, Mifugo na Maji, yeye ameniambia naomba niwatangazie Waheshimiwa Wajumbe wa Kamati ya Bunge ya Kilimo, Mifugo na Maji kwamba kutakuwa na kikao cha Kamati hiyo siku ya Jumapili, tarehe 18 Aprili, 2010 saa 5.00 asubuhi katika Ukumbi wa Pius Msekwa. Lengo la kikao hicho ni kuendelea kujadili Muswada wa Sheria wa Utambuzi, Usajili na Ufuatiliaji wa Mifugo wa Mwaka 2010. Ninaomba niseme tu kwamba wadau wote na hata wale ambao wanatusikia watakaoweza kushiriki itakuwa vizuri sana. Kwa hiyo, wadau wote wa masuala ya mifugo pamoja na Waheshimiwa Wabunge, wote ambao wana interest na Miswada hii miwili, wanakaribishwa sana ili washiriki kuboresha Muswada huo kabla haujarudishwa tena hapa Bungeni.</seg>
+          <seg xml:id="seg523">Lakini tangazo lingine la tatu, niendelee kukumbusha semina kwa Wabunge wote, itakayofanyika kesho saa 5.00 kwenye Ukumbi wa Pius Msekwa, kwa maelezo kadiri yalivyotolewa na Mheshimiwa Spika leo asubuhi saa 5.00 asubuhi baada ya kipindi cha Maswali na Majibu.</seg>
+          <seg xml:id="seg524">Tangazo la mwisho, Waheshimiwa Wabunge wa Chama cha Mapinduzi, mnaombwa kuhudhuria Kikao mliochotaarifiwa sasa, mara baada tu ya kuahirishwa shughuli hii saa hizi na sio saa 2.00 usiku tena.</seg>
+          <seg xml:id="seg525">Waheshimiwa Wabunge, kama nilivyosema, shughuli zetu za leo zote zimekamilika, na sina shughuli nyingine hapa Mezani. Niendelee tu kuwashukuru kwa shughuli za leo, nawatakia week-end njema ili tumalize shughuli za week-end na tukutane tena hapa, siku ya Jumatatu, saa 3.00 asubuhi.</seg>
+          <seg xml:id="seg526">(Saa 11.25 jioni, Bunge liliahirishwa, mpaka siku ya Jumatatu,</seg>
+          <seg xml:id="seg527">Tarehe 19 Aprili, 2010, Saa 3.00 Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

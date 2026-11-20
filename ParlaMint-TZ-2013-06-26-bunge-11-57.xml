@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2013-06-26) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2013-06-26) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="57">57. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="11">11. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1462351608-HS-11-57-2013.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2013-06-26">26.06.2013</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 467. Upimaji Ardhi Maeneo Yanayokuwa Kwa Haraka</note>
+        <note>(K. n. y. MHE. DKT. ANTONY G. MBASSA)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u1" who="MheJamesFMbatia">
+          <seg xml:id="seg1">Maeneo mengi yanayokuwa kwa haraka yanapata changamoto ya kutopimwa kwa ajili ya wananchi kupatiwa Hati ambazo zingewasaidia kupata mikopo kwenye mabenki:-</seg>
+          <seg xml:id="seg2">(a) Je, ni lini Serikali itapeleka Mpima Ardhi kwenye Halmashauri ya Wilaya ya Biharamulo?</seg>
+          <seg xml:id="seg3">(b) Je, ni lini Serikali itakamilisha zoezi la kuzigawa Tarafa mbili zilizopo na kuwa nne ili kurahisisha usimamizi wa shughuli za maendeleo Jimboni humo?</seg>
+          <seg xml:id="seg4">(c) Je, ni lini Seikali itakamilisha zoezi la kutoa Hati Miliki Vijijini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u2" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg5">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Dkt. Anthony G. Mbassa, Mbunge wa Biharamulo Magharibi, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg6">(a) Mheshimiwa Mwenyekiti, ni kweli Halmashauri ya Wilaya ya Biharamulo haina mpima Ardhi kwa sasa baada ya aliyekuwepo kuhamishiwa katika Halmashauri ya Manispaa ya Temeke na aliyehamishiwa hapo amekuwa ni mgonjwa kwa muda mrefu.</seg>
+          <seg xml:id="seg7">Aidha, Halmashauri imepata kibali kutoka Ofisi ya Rais, Menejimenti ya Utumishi wa Umma cha kuajiri mtaalam huyo tangu mwezi Februari, 2013. Hivyo, wakati wowote Sekretarieti ya Ajira ikikamilisha mchakato wake, mtaalam huyo atapelekwa katika Halmashauri ya Wilaya ya Biharamulo ili kukabiliana na changamoto za upimaji Ardhi katika Wilaya hiyo.</seg>
+          <seg xml:id="seg8">(b) Mheshimiwa Mwenyekiti, Halmashauri ya Wilaya ya Biharamulo ilianza mchakato wa kuomba kuongeza idadi ya Tarafa mwaka 2008, ambapo iliomba kuongezwa Tarafa tatu (3) ili kuzifanya zifike Tarafa tano (5). Tarafa 3 zilizopendekezwa ni Biharamulo, Kalenge na Runazi.</seg>
+          <seg xml:id="seg9">Aidha, taratibu za kisheria zimekamilika, ikiwemo maombi hayo kupitishwa katika vikao vya kisheria, ambavyo ni baraza la Madiwani, Kamati za Ushauri za Wilaya na Mikoa. Hivyo, taratibu za kisheria zinaendelea kukamilishwa na Wizara ili Tarafa hizo ziweze kuanzishwa.</seg>
+          <seg xml:id="seg10">Aidha, kwa mujibu wa Sheria zilizopo, mwenye Mamlaka na Madaraka ya kugawa maeneo ya nchi katika Tarafa ni Mheshimiwa Rais pekee. Hivyo, taratibu za kisheria zikikamilika, ofisi hii itamshauri Mheshimiwa Rais ili kupata ridhaa yake kuhusu pendekezo hili.</seg>
+          <seg xml:id="seg11">(c) Mheshimiwa Mwenyekiti, mchakato wa utoaji Hati ya Hakimiliki ya Kimila hufanyika kwa Vijiji ambavyo tayari vimesajiliwa kwa mujibu wa Sheria za Serikali za Mitaa, ambapo hupatiwa Hati za Uandikishwaji. Kwa Halmashauri ya Wilaya ya Biharamulo vijiji 384 tayari vimeshapatiwa haki ya uandikishwaji.</seg>
+          <seg xml:id="seg12">Aidha, kwa mujibu wa Sheria ya Ardhi ya Vijiji Sura 114 kifungu 22, kinachotolewa na Serikali ya Kijiji husika ni Hati ya Haki Miliki ya Kimila na siyo Hati Miliki. Hati Miliki hizo hutolewa kwa mtu binafsi, familia au kundi la watu wanaotambuliwa kwa maana ya haki ya kumiliki ardhi.</seg>
+          <seg xml:id="seg13">Hata hivyo, kwa mwaka wa fedha wa 2013/2014 Halmashauri kupitia Concern Worldwide, imepanga kupima vijiji 27, ambapo vimetenga shilingi miloni 184.4. Aidha, kupitia Mpango wa usalama wa chakula unaoendeshwa na Jimbo Katoliki la Rulenge – Ngara, zimetengwa shilingi milioni 430 kwa ajili ya upimaji wa vijiji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u3" who="MheJamesFMbatia">
+          <seg xml:id="seg14">Mheshimiwa Mwenyekiti, nashukuru sana. kwa kuwa, majibu ya Mheshimiwa Waziri yanaonyesha kwamba, kuna urasimu mkubwa sana katika kupima Ardhi. Pia, katika kugawa maeneo haya ya Tarafa za Biharamulo, kuweza kuwa Tarafa nne, tofauti na mbili zilizopo sasa mpaka kupata kibali cha Mheshimiwa Rais.</seg>
+          <seg xml:id="seg15">Je, Serikali haioni kwamba, ni utaratibu ulio mzuri kuondoa urasimu, ili kufanikisha ufanisi na uaminikaji, ukizingatia tuko kwenye wakati wa Big Result Now, kupunguza urasimu huu, tukapunguza muda uweze ufanisi ukazingatiwa?</seg>
+          <seg xml:id="seg16">Pili, inaonekana kule Biharamulo kibali kimeshatolewa tangu mwezi wa pili mwaka 2013, ni zaidi ya miezi minne iliyopita, mara Ofisi ya Waziri Mkuu, mara Ofisi ya Utumishi. Urasimu nao ni mkubwa sana na ukizingatia hili limekuwa ni tatizo la kimfumo. Serikali inatamka vip kuondoa au kusema mtumishi huyu wa Ardhi ya Wilaya ya Biharamulo, ni lini atafika Biharamulo badala ya kuendelea kusubiri tu mambo ya urasimu na hatujui lini; kazi ya Biharamulo inazidi kuwa katika hali ya kutokupata ufanisi unaotakiwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u4" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg17">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu maswali mawili ya nyongeza, kama ifuatavyo:-</seg>
+          <seg xml:id="seg18">Mheshimiwa Mwenyekiti, mimi nataka nieleze Bunge hili, kwamba, kama kuna wakati tuliwahi kufanya kazi democratically vizuri kuliko wakati mwingine wowote, ni wakati tulipounda Kata na Tarafa pamoja na Wilaya na Mikoa hapa kabla ya Bunge hili.</seg>
+          <seg xml:id="seg19">Mheshimiwa Waziri Mkuu alitugiza kama Wizara kwamba, yale mapendekezo yote yaliyoletwa hapa, tu- print na tumpatie kila Mbunge apewe, aangalie kama hicho anachoomba kimepita humu ndani. Tukarudishiwa, karibu niote kibiyongo kwa kazi hiyo. Ikafanyika vizuri kabisa, wakati tunaiangalia Biharamulo ambayo tunazungumzia hapa, ikaonekana kwamba, Biharamuro yote, halafu hizo Tarafa zinazosemwa kuna mambo ambayo yalikosewa.</seg>
+          <seg xml:id="seg20">Mheshimwia Mwenyekiti, siyo maombi yote yanayokuja hapa tunakwenda wholesale tunatoa tu hivi hivi, yakija maombi hapa tunamtuma mtu anakwenda mpaka Tarafani kule kwenda kuangalia hiyo Tarafa ni kweli, na tunawauliza wenyewe wenye Tarafa na Mkoa na Wilaya kama wanakubali.</seg>
+          <seg xml:id="seg21">Mheshimiwa Mwenyekiti, hii sauti yangu ni msisitizo tu! </seg>
+        </u>
+        <note>(Makofi/ Vicheko)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u5" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg22">Mheshimwia Mwenyekiti, nakuomba hii ya Tarafa ya Biharamulo anayoisema Mheshimiwa James Mbatia. Ikaonekana ina mushikeri, wakarudisha na tukawarudishia mpaka kule, wakatengeneza wakaleta. Miezi minne iliyopita ndiyo ikafika kwetu hapa tukapokea. Sasa hivi nataka nikuambie tumemaliza jambo hili, sasa hatutoi Tarafa moja moja, Tarafa ya Rulenge chukueni, haya chukeni, tunakusanya zote, zoezi hili linapelekwa kwa Mheshimiwa Waziri Mkuu.</seg>
+          <seg xml:id="seg23">Hizi Tarafa haundi Waziri Mkuu mwenye ridhaa ya kuunda Tarafa ni Mkuu wa Nchi kwa maana ya Rais wa Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg24">Kwa hiyo, tunazipeleka zote kwa pamoja pale, hivyo, nataka nimthibitishie Mheshimiwa James Mbatia asiwe na wasiwasi katika jambo hili. Hili la mtumishi ambalo ni jambo la pili alilouliza. Mtumishi alipelekwa pale akaugua, kwa huyo mtumishi kazi tunayoifanya hapa ni kumwombea kwa Mwenyezi Mungu apone.</seg>
+          <seg xml:id="seg25">Hata hivyo, kwa kuona hilo tatizo la kuugua, tume- realize kwamba ni tatizo ndiyo maana tumeomba Wizara ya Utumishi Ofisi ya Rais (TAMISEMI) watupatie kibali cha kuajiri mtu mwingine. Kwa maana hii anayozungumza Mheshimiwa Mbunge, nikitoka hapa nitahakikisha kwamba, nawasiliana na mama Kombani na watu wake pale wakina George Yambesi, ili watupatie hicho kibali, halafu aajiriwe mara moja, ili kazi iweze kuendelea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u6" who="MheLaizerMLekule">
+          <seg xml:id="seg26">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa nafasi niulize swali dogo la nyongeza. Ni kweli mwaka 2010, Serikali iligawa Vijiji, Kata na Tarafa, na ni kweli ilipitishwa hapa Bungeni na tumethibitisha.</seg>
+          <seg xml:id="seg27">Je, ni lini Serikali itawapa vijiji Hati pamoja na Namba za Vijiji? Kwa sababu mpaka sasa vijiji vyote havina vyeti pamoja na namba za vijiji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u7" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg28">Mheshimiwa Mwenyekiti, naomba kujibu swali la nyongeza la kaka yangu Lekule M. Laizer na jirani yangu kama ifuatavyo:-</seg>
+          <seg xml:id="seg29">Mheshimiwa Mwenyekiti, hapa napo kinachohitajika ni concept yenyewe kuielewa au kuelewa dhana yenyewe. Viko vitu vingi vinasemwa humu. Ukisema Haki Miliki, unamaanisha kama vile mtu anapiga muziki wa Ndombolo halafu unasema mziki huu hauwezi kupigwa na mtu mwingine. Kwa hiyo, hii inaitwa prohibited, inaitwa Hatimiliki.</seg>
+          <seg xml:id="seg30">Hii ya ardhi inayosemwa hapa, inaitwa Hati Miliki ya Kimila, ndivyo Sheria inavyosema na AG ananisikia hapa, na ndiyo iliyoko kule vijijini. Hii inatolewa kwa mtu ambaye ni mkazi wa pale kijijini. Hati Miliki ni ile inayotolewa mjini au kwenye kijiji kwa maana ya sheria kwamba, kijiji kimekuwa registered. Ninavyomwelewa Mheshimiwa Lekule Laizer hapa, anachozungumzia hapa, anazungumzia ile registration number, na ndicho anachokisema hapa.</seg>
+          <seg xml:id="seg31">Nataka niweke hivi ili tuweze kuelewana hapa, tutajichanganya changanya. Huwezi kwenda kwenye Hati ya Kimila halafu unasema humo humo unaomba Hati. Sana sana kitakacho na hati ya kumiliki pale ni Kijiji chenyewe. Au kama wamempata mwekezaji ambaye ataungana na mwananchi wa hapa ambaye kwa pamoja watapata Hati ya Kumiliki ardhi not more than 50 heka.</seg>
+          <seg xml:id="seg32">Niseme zoezi hili analolisema Mheshimiwa hapa, na hili naeleza hivyo, unaweza ukajiuliza ni kwa nini hili nalisema hapa, nataka kueleza ili wengine wanaotaka kuuliza tena nataka wasiulize. Tunafanya hilo zoezi, ni kweli hicho anachokisema Mheshimiwa Lekule Laizer lakini ni vingi. Kwa hiyo tunavichukiua tuna program, lakini tumeanza kuvitoa kidogo kidogo, na kama kuna wapo ambao wana matatizo juu ya hilo tuwasiliane ili tuweze kuona jinsi tutakavyolisukuma. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u8" who="MheDktAnthonyGMbassa">
+          <seg xml:id="seg33">Mheshimiwa Mwenyekiti, nakushukuru na kwanza nimshukuru Mheshimiwa James F. Mbatia kwa kunitendea haki na kuwatendea haki wananchi wa Biharamulo.</seg>
+          <seg xml:id="seg34">Mheshimiwa Mwenyekiti, kwa kuwa swali la msingi linahusu mpima ardhi, na Wilaya ya Biharamulo imekuwa haina mpima Ardhi kwa muda mrefu sana, na kilichoelezwa hapa kwamba ni mgonjwa hili siyo kweli, ila ilikuwa ni kumnusuru katika mazingira yalitokea Temeke na kuja Biharamulo na Matokeo yake ni kumpeleka sehemu nyingine wanakojua. Swali la msingi.</seg>
+          <seg xml:id="seg35">Kwa kuwa, maeneo mengi yanakuwa kwa mfano, centre ya Nyakanazi Centre ya Kabindi na hao watu tunapoelekea ni haya haya mambo tunayoanza</seg>
+          <seg xml:id="seg36">kuyaangalia kwamba, watu wanafukuzwa kwenye maeneo yao na watu wamejenga wameondolewa.</seg>
+          <seg xml:id="seg37">Ni lini Serikali itatuletea mtu huyu ili suala hili limazilike?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u9" who="MikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg38">Mheshimiwa Mwenyekiti, ninaomba kujibu swali la nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg39">Mheshimiwa Mwenyekiti, mimi siwezi kubishana na Mbunge hapa, kwanza mtu kama ameshapona si ni jambo jema hilo. Juzi hapa tuliambiwa Mheshimiwa Moses J. Machali amepata matatizo na leo tunamwona ameketi hapa ameshapona. Halafu mimi hapa nianze kubishana na Mbunge nimwambie hivi anaumwa. Yeye ananiambia siyo kweli, ripoti niliyopata ya mwisho, niliambiwa kwamba, alikuwa anaumwa kwa muda mrefu.</seg>
+          <seg xml:id="seg40">Well, mimi ninamshukuru Mungu tunaambiwa sasa mtu huyu amepona na kama amepona basi aendelee na kazi halafu mimi niendelee kumtafuta huyu mwingine anayezungumza. Ninachotaka kusema hapa, ni kwamba nilishamjibu Mheshimiwa James F. Mbatia, nikitoka hapa nitawasiliana na Wizara, na nikataja jina la Katibu Mkuu nikataja na jina la Waziri. I am trying to be concrete.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u10" who="Mwenyekiti">
+          <seg xml:id="seg41">Tunaendelea Waheshimiwa Wabunge, swali hili limeshajibiwa na Mheshimiwa Waziri na wale wote wenye query hilo linafanyiwa kazi na Serikali. Tuendelee na swali letu lingine.</seg>
+        </u>
+        <note>Na. 468. Maafisa Ardhi wa Wilaya Kusimamiwa na Wizara</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u11" who="MheRukiaKAhmed">
+          <seg xml:id="seg42">Utaratibu wa watumishi wa sekta ya Ardhi kuwekwa chini ya Serikali za Mitaa unaathiri utekelezajhi wa Sera na Sheria za Ardhi kwa kuwa Maafisa Ardhi wa Halmashauri hutekeleza maagizo ya Madiwani badala ya kufuata Sera iliyopo.</seg>
+          <seg xml:id="seg43">Je, Serikali itarudisha lini usimamizi wa Maafisa hao chini ya Wizara husika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u12" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg44">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimwia Waziri Mkuu, naomba kujibu swali la Mheshimiwa Rukia K. Ahmed, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg45">Mheshimiwa Mwenyekiti, Chimbuko la upelekaji madaraka ya umma ni Katiba ya Jamhuri ya Muungano wa Tanzania ya mwaka 1977, katika Ibara ya 8(1), 145 na 146. Aidha, Sheria namba 7 ya mwaka 1982, Mamlaka za Wilaya na Sheria namba 8 ya Mwaka 1982 (Mamlaka za Miji) ambazo zinatambua uwepo wa Mamlaka za Serikali za Mitaa katika vyombo huru vya kuwahudumia wananchi. Ugatuaji wa madaraka kwa umma unazingatia misingi mikuu minne ambayo ni kupeleka madaraka ya kisiasa, rasilimali fedha na majukumu mengine na rasilimali watu kwenda kwenye Mamlaka za Serikali za Mitaa ambako ndiko utekelezaji wa sera na mipango ya kitaifa unakofanyika.</seg>
+          <seg xml:id="seg46">Mheshimiwa Mwenyekiti, kwa mujibu wa kifungu cha 6(6) cha Sheria ya Utumishi wa Umma namba 8 ya mwaka 2002, Mamlaka za Serikali za Mitaa ni Mamlaka za Ajira kwa Watumishi wote wa Halmashauri. Isipokuwa kwa Wakurugenzi ambao huteuliwa na Waziri mwenye dhamana ya Serikali za mitaa na Mheshimiwa Rais.</seg>
+          <seg xml:id="seg47">Hivyo, kurudisha Maafisa Ardhi ambao ni waajiriwa wa Halmashauri wawe chini ya usimamizi wa Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi ni kupingana na dhana ya Ugatuaji wa Madaraka kwenda kwenye Mamlaka za Serikali za Mitaa. Lengo la sera hii ni kusogeza huduma za jamii karibu na wananchi.</seg>
+          <seg xml:id="seg48">Mheshimiwa Mwenyekiti, kazi za Madiwani ni kusimamia watendaji wa Halmashauri kutekeleza sera mbalimbali, ili kuharakisha maendeleo katika maeneo yao ya utawala yanayotekelezwa na kuwa endelevu. Hivyo, Maafisa Ardhi wanatakiwa kutekeleza maagizo halali ya Baraza la Madiwani kwa kuzingatia sheria, kanuni na taratibu.</seg>
+          <seg xml:id="seg49">Aidha, kutokana na dhana ya Ugatuaji wa Madaraka ya Umma. Serikali Kuu imebaki na jukumu la kutunga na kusimamia utekelezaji wa sera, sheria, miongozo mbalimbali na kusimamia ubora wa huduma zinazotolewa kwa wananchi.</seg>
+          <seg xml:id="seg50">Mheshimiwa Mwenyekiti, kwa kuzingatia sera hiyo ya Ugatuaji wa Madaraka kwa Umma, kupitia misingi ya upelekaji wa rasilimali watu katika Mamlaka za Serikali za Mitaa, Maafisa Ardhi wataendelea kuwa chini ya Halmashauri ili waweze kusimamia kwa karibu utoaji wa huduma kwa jamii katika sekta ya ardhi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u13" who="MheRukiaKAhmed">
+          <seg xml:id="seg51">Mheshimiwa Mwenyekiti, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, lakini bado nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg52">Kwa kuwa, migogoro mingi ya Ardhi inasababishwa na Maafisa Ardhi na Madiwani kutokufanya kazi kwa pamoja. Je, Serikali ina mpango gani wa kutatua tatizo hili sugu lilliloikumba nchi yetu?</seg>
+          <seg xml:id="seg53">Pili, kwa kuwa Halmashauri nyingi, hazina wataalam wa Upimaji wa Ardhi. Je, ni lini Serikali itaajiri wataalam hao na kuwapeleka katika Halmashauri zetu, hususan zile za pembezoni mwa nchi yetu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u14" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaTamisemi">
+          <seg xml:id="seg54">Mheshimiwa Mwenyekiti, naomba kujibu kama ifuatavyo:-</seg>
+          <seg xml:id="seg55">Mheshimiwa Baraza la Madiwani, sisi sote tunaingia katika Mabaraza ya Madiwani. Kama hakuna ushirikiano wa Mabaraza ya Madiwani na Watendaji walioko kule, ni bahati mbaya sana hilo lipo. Najua kabisa kwamba, kuna matatizo mengi yanazungumzwa kule na hata ambalo linaletwa hapa, kwamba sasa turudi tena na twende Wizarani kule ni kwa maana uchungu walionao Wabunge ni kutokana na hali inayojitokeza kule. Mimi naelewa kabisa, kwa sababu na mimi natoka katika Halmashauri hizo hizo.</seg>
+          <seg xml:id="seg56">Hata hivyo, katika hili niseme nini? Madiwani ndiyo wanaofanya maamuzi.</seg>
+        </u>
+        <note>Na. 469. Ujenzi wa Barabara ya Lami Kuelekea Mbuga za Ruaha</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u15" who="MheRittaEKabati">
+          <seg xml:id="seg57">Je, Serikali imefikia wapi na mpango wa ujenzi wa barabra ya lami kuelekea katika Hifadhi ya Wanyama ya Ruaha ambayo ni ya pili kwa ukubwa nchini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u16" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg58">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimiwa Waziri wa Ujenzi, naomba kujibu swali la Mheshimiwa Ritta Kabati, Mbunge Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg59">Mheshimiwa Mwenyekiti, barabara ya Iringa – Kalenga – Msembe yenye urefu wa kilomita 104 inaunganisha Makao Makuu ya Mkoa wa Iringa na Hifadhi ya Taifa ya Ruaha na inahudumiwa na Wizara yangu kupitia Wakala wa Barabara TANROADS.</seg>
+          <seg xml:id="seg60">Mheshimiwa Mwenyekiti, katika mwaka wa fedha wa 2011/2012 Serikali ilitenga kiasi cha shilingi milioni 496.450 kwa ajili ya upembuzi yakinifu, tathimini ya athari za kimazingira, usanifu wa kina na maandalizi ya makabrasha ya zabuni.</seg>
+          <seg xml:id="seg61">Wizara kupitia TANROADS ilimteua Mhandisi Mshauri (Consultant) ENV Consultant na kwa sasa yupo eneo la kazi kwa ajili ya kufanya kazi ya upembuzi yakinifu, uchambuzi wa athari za kimazingira, usanifu wa kina na maandalizi ya nyaraka za zabuni.</seg>
+          <seg xml:id="seg62">Kazi hizi zote zinatarajiwa kukamilika mwishoni mwa Juni, 2013, mara baada ya kukamilika kazi hizo na gharama za ujenzi kujulikana, Serikali itatafuta fedha za ujenzi wa barabara hiyo kwa kiwango cha lami.</seg>
+          <seg xml:id="seg63">Aidha, Serikali itaendelea kuifanyia matengenezo ili kuhakikisha kuwa barabara hii inapitika muda wote wa mwaka. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u17" who="MheRittaEKabati">
+          <seg xml:id="seg64">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa majibu, naombaniulize maswali mawili tu ya nyongeza kwa Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg65">Kwa kuwa barabara hii itakapokamilika itasaidia sana kukuza utalii na pato la Mkoa wetu wa Iringa na wananchi wake, na kiu ya wananchi wa Iringa ni kutaka kujua lini hasa itajengwa kwa kiwango cha lami. Kwa sababu katika jibu lako la msingi, umeelezea tu kwamba kuna upembuzi yakinifu, na fedha yenyewe bado haijapatikana, na ninaomba kabisa uifafanue kwa sababu hii barabara, kwanza katika Jimbo la Mheshimiwa Waziri wa Fedha ambaye amekuwa akitutolea fedha zote kuidhinisha Bajeti ya nchi hii?</seg>
+          <seg xml:id="seg66">Swali langu la pili, katika uzoefu tumeona kwamba wananchi wengi wanapopitiwa na miradi hii ya barabara huwa wanawekewa zile alama za x, kufanyiwa tathmini, lakini inapokuja wakati wa kulipwa, malipo yao huwa yanachukua muda mrefu sana, kiasi kwamba hata thamani ya kile kitu ambacho kiko pale inakuwa haisaidii kitu chochote.</seg>
+          <seg xml:id="seg67">Sasa ningemwomba Mheshimiwa Waziri, aseme hapa kwamba, je, katika mradi huu wa barabara hii ya lami inayokwenda kwenye hifadhi za Ruaha, wamejipangaje ili tatizo hili lisiweze kuwalenga wananchi wa Iringa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u18" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg68">Mheshimiwa Mwenyekiti, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Ritta Kabati, kama ifuatavyo:-</seg>
+          <seg xml:id="seg69">Kwanza kabisa naomba nikuhakikishie mama maendeleo Ritta Kabati kwamba barabara hii tunaitambua kabisa ni ya uchumi kwa taifa letu, na sasa katika kusema ni lini, barabara zote tunaziweka kwenye mipango. Kwa hiyo, mpango ambao tunao mwaka huu ni wa kufanya usanifu.</seg>
+          <seg xml:id="seg70">Sasa mpango utakaofuata tumesema tutaangalia kuanza kujenga kwa kiwango cha lami. Kwa hiyo, tutakapoingia kwennye mpango wa mwaka utaofuata sasa tutakapotaka kuomba fedha, basi naomba Mheshimiwa Ritta Kabati na Waheshimiwa Wabunge waunge mkono tupate fedha za kuweza kujenga barabara hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u19" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg71">Kuhusu suala la pili, kwamba fidia mara nyingi tukifanya tathmini zinachukua muda mrefu, naomba niseme sababu moja ambayo huwa inachukua muda mrefu, ni wananchi wenyewe kutokutoa ushirikiano unaotakiwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u20" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg72">Kwa hiyo, naomba sana uwahamasishe wananchi kwamba wasijenge kwenye hifadhi ya barabara ili kusudi barabara hii iweze kujengwa haraka iwezekanavyo. Tutajitahidi kufanya tathmini na wananchi wakitoa ushirikiano, basi malipo yatafanywa haraka, na barabara ili kuanza kujengwa mapema iwezekenavyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u21" who="MheModestusDKilufi">
+          <seg xml:id="seg73">Mheshimiwa Mwenyekiti, ahsante kwa kunipa nafasi. Tatizo la barabara kujengwa kwa kiwango cha lami ni tatizpo kubwa katika Wilaya ya Mbarali, nilitaka kujua Mheshimiwa Waziri yuko tayari kuja kutembelea Mbarali ili aone hali halisi ya mambo ambayo nimekuwa nikiyasema hapa Bungeni kila siku?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u22" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg74">Mheshimiwa Mwenyekiti, naomba kujibu swali la nyongeza la Mheshimiwa Modestus Kilufi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg75">Niwajibu wetu huwa tunazitembelea barabara hizi kuweza kuona namna zinavyoendelea kutengenezwa na nashukuru kwa mwaliko wako Mheshimiwa Kilufi, tutapangana ili tuweze kutembelea Wilaya ya Mbarali.</seg>
+        </u>
+        <note>Na. 470. Ujenzi wa Barabara za Bugene-Kasulo na</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u23" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg76">Omugakorongo-Murongo</seg>
+        </u>
+        <note>(K.n.y. MHE. GOSBERT B. BLANDES)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u24" who="MheDeogratiasANtukamazina">
+          <seg xml:id="seg77">Serikali iliahidi kujenga barabara za Bugene-Kasulo na Omugakorongo –Murongo kwa kiwango cha lami na imetenga fedha za upembuzi yakinifu kwa barabara hizo katika mwaka wa fedha 2011/2012.</seg>
+          <seg xml:id="seg78">Je, ni lini ujenzi wa barabara hizo kwa kiwango cha lami utaanza?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u25" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg79">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimiwa Waziri wa Ujenzi naomba kujibu swali la Mheshimiwa Gosbert Blandes, Mbunge wa Karagwe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg80">Mheshimiwa Mwenyekiti, katika kipindi cha mwaka wa fedha 2011/12, Wizara ya Ujenzi ilitenga fedha kiasi cha shilingi milioni 96.4 kwa barabara ya Bugene-Kasulo yenye urefu wa kilomita 118.9 na shilingi milioni 144.688 kwa barabara ya Omugakorongo- Murongo yenye urefu wa kilomita 105 kwa ajili ya upembuzi yakinifu na usanifu wa kina kwa ajili ya ujenzi kwa kiwango cha lami.</seg>
+          <seg xml:id="seg81">Aidha, kwa kuwa ilionekana fedha zaidi zinahitajika, katika mwaka wa fedha 2012/2013 Wizara imetenga kiasi cha shilingi milioni 250 kwa barabara ya Bugene-Kasulo na shilingi milioni 250 kwa barabara ya Omugakorongo –Murongo ili kuwezesha kazi hiyo kufanyika.</seg>
+          <seg xml:id="seg82">Taratibu za kumpata Mhandisi Mshauri wa kufanya upembuzi yakinifu na usanifu wa kina zimekwishaanza ambapo zabuni za kuwapata Wahandisi Washauri watakaoshiriki kwenye zabuni ya kufanya upembuzi yakinifu na usanifu wa kina zilifunguliwa tarehe 16 Februari, 2013 kwa barabara ya Omugakorongo –Murongo na tarehe 29 Aprili, 2013 kwa barabara ya Bugene-Kasulo. Kwa sasa uchambuzi wa zabuni hizi unaendelea.</seg>
+          <seg xml:id="seg83">Mheshimiwa Mwenyekiti, kazi za ujenzi kwa kiwango cha lami katika barabara hizi zitaanza baada ya kukamilika kwa usanifu na pia kutegemea na upatikanaji wa fedha. Aidha kwa sehemu ya Kyaka- Bugene (km 59.1) Mkandarasa anaendelea na ujenzi kwa kiwango cha lami kwa gharama ya bilioni 64.96.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u26" who="MheDeogratiusANtukamazina">
+          <seg xml:id="seg84">Mheshimiwa Mwenyekiti, ahsante sana, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, nina swali moja la nyongeza. Lini Serikali itachangamkia msaada ya Benki ya Afrika (ADB) ya kujenga barabara kwa kiwango cha lami barabara ya Nyakahula, Rulenge, Murugalama Wilayani Ngara na ambayo ni ahadi ya Rais. Ni lini Serikali itaandika barua rasmi kwenda ADB kuomba msaada huo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u27" who="WaziriWaUjenziBarabaraNaViwanjaVyaNdege">
+          <seg xml:id="seg85">Mheshimiwa Mwennyekiti, napenda kujibu swali la Mheshimiwa Ntukamazina Mbunge wa Ngara, kama ifuatavyo:-</seg>
+          <seg xml:id="seg86">Mheshimiwa Mwenyekiti, tunatambua maombi ambayo ameyaleta Wizarani kuhusu barabara hiyo ambayo inakwenda mpaka Rulenge, na tunatambua umuhimu wa barabara hii kwa sababu inapita kwenye maeneo ambayo siyo ya milima, ambayo inaweza ikarahisisha zaidi usafiri. Kwa hiyo, ombi lake tutaendelea kulichukua ili tuangalie ni namna gani wafadhili wa nje wakiwemo ADB na wengine ambao wataojitokeza wataoweza kuifadhiri barabara hii kwa kuijenga katika kiwango kinachotakiwa, kwa hiyo, napenda kumwahidi Mheshimiwa Mbunge kwamba tutalifuatilia suala hili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u28" who="MheMwiguluLNMadelu">
+          <seg xml:id="seg87">Mheshimiwa Mwenyekiti, ahsante sana, Serikali iliwahi kuahidi pia kwamba itatengeneza kwa kiwango cha lami barabara ya kutokea Singida- Sepuka- Ndago na kuunganishia Kizaga kwa sababu imekuwa ikitumika sana hasa hasa inapotokea matatizo kwenye barabara kuu. Ni lini sasa Serikali itakeleza ahadi yake kuitengeneza barabraa hiyo kwa kiwango cha lami?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u29" who="NaibuWaziriWaUjenzi">
+          <seg xml:id="seg88">Mheshimiwa Mwenyekiti, naomba kujibu swali la nyongeza la Mheshimiwa Mwigulu Nchemba kama ifuatavyo:-</seg>
+          <seg xml:id="seg89">Kama ni ahadi ya Serikali, naomba niseme tu kwamba tutaifuatilia ili tuweze kuona kama imeingizwa kwenye Mipango yetu ya utekelezaji ili tuweze kutimiza ahadi hiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u30" who="MheGosbertBBlandes">
+          <seg xml:id="seg90">Mheshimiwa Mwenyekiti, nakushukuru kunipa nafasi, kwanza nishukuru sana kwa majibu wa Mheshimiwa Naibu Waziri na Waziri mwenyewe, lakini nilitaka kujua kwamba kuna huu ujenzi wa barabara</seg>
+          <seg xml:id="seg91">ya Kyaka hadi Bugene ambao unaendelea, kuna wananchi ambao wanalalamikia fidia ya nyumba zao na mali zao, akiwemo Mzee Nsherenguzi na Bwana Jumbe Tinuka, malalamiko haya yamewasilishwa kwenye Wizara. Je, ni lini Serikali itayafanyia kazi haraka ili wananchi hawa ambao wamepunjwa mafao yao waweze kupewa fidia sahihi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u31" who="WaziriWaUjenziBarabaraNaViwanjaVyaNdege">
+          <seg xml:id="seg92">Mheshimiwa Mwenyekiti, napenda kujibu swali la nyongeza la Mheshimiwa Blandes kama ifuatavyo:-</seg>
+          <seg xml:id="seg93">Barabara ya kutoka Kyaka hadi Bugene inayojengwa kwa kiwango cha lami, yenye jumla ya kilomita 59.1, Mkandarasi kwa sasa yuko kwenye site na anaendelea na ujenzi kwa kiwango cha lami. Tulikwisha tamka hapa Bungeni na tumekuwa tukisisitiza kwamba wale wote ambao wanastahili kulipwa fidia, watalipwa kwa mujibu wa Sheria Na. 13 ya Mwaka 2007 na wale amabo hawastahili kulipwa fidia, hawawezi kulipwa, na hii ni kwa kuzingatia Sheria.</seg>
+          <seg xml:id="seg94">Kwa hiyo, napenda kutoa wito kwa wananchi walio katika maeneo ya barabara ile kutoka Kyaka hadi Bugene, na eneo lingine ambalo tutaanza kulitayarisha kwenda mpaka Kasulu, wale ambao wako nje ya mita 22.5 ambazo zinaendana na Sheria Cap. 167 ya mwaka 1976, wale ambao nje ya mita 22.5 ndiyo wale watakaoweza kulipwa fidia, wale ambao wako ndani ya mita 22.5 kila upande, wale hawatalipwa fidia.</seg>
+          <seg xml:id="seg95">Kuhusu kulalamika kwamba wamepewa fidia kidogo, au wamepewa nyingi, hilo ni suala la ardhi, kwa sababu wanaohusika kufanya tathmini, wanaofanya tathmini kwa kuzingatia Sheria Na. 4 na 5 ya mwaka 1999, katika kifungu Na. 3 (g), kitafuata sheria hicho hicho katika kusisitiza katika kulipwa fidia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u32" who="Mwenyekiti">
+          <seg xml:id="seg96">Tunaendelea na Wizara ya Kilimo, Chakula na Ushirika.</seg>
+          <seg xml:id="seg97">Ununuzi wa Mahindi</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u33" who="MheJenistaJMhagama">
+          <seg xml:id="seg98">Tarehe 23/4/2012 wakati Waziri wa Kilimo, Chakula na Ushirika akijibu hoja za taarifa za Kamati Bungeni aliliambia Taifa kuwa msimu huu wa kilimo, Serikali itanunua Mahindi kupitia Shirika la Chakula Duniani (WFP).</seg>
+          <seg xml:id="seg99">Je, ni utaratibu gani uliopangwa katika ununuzi wa Mahindi hayo?</seg>
+          <seg xml:id="seg100">Je, ni kiasi gani cha fedha kilichotengwa kwa ajili ya ununuzi wa Mahindi katika Jimbo la Peramiho, Wilaya ya Songea?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u34" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg101">Mheshimiwa Mwenyekiti, kwa niaba ya Mheshimiwa Waziri wa Kilimo, Chakula na Ushirika, napenda kujibu swali la Mheshimiwa Jenista Mhagama, Mbunge wa Peramiho lenye sehemu (a) na (b) kwa pamoja, kama ifuatavyo:-</seg>
+          <seg xml:id="seg102">Mheshimiwa Mwenyekiti, utaratibu uliopo ni Serikali kununua Mahindi kupitia Wakala wa Taifa wa Hifadhi ya Chakula (NFRA) na Shirika la Mpango wa Chakula Duniani (WFP) pamoja na wadau wengine kununua Mahindi Serikalini kupitia Wakala wa Taifa wa Hifadhi ya Chakula (NFRA).</seg>
+          <seg xml:id="seg103">Mheshimiwa Mwenyekiti, katika msimu wa 2011/2012 Shirika la Mpango wa Chakula Duniani (WFP) walinunua jumla ya tani 80,000 za Mahindi kutoka NFRA kwa ajili ya kuwasaidia waathirika wa njaa katika maeneo mbalimbali ikiwa ni pamoja na utekelezaji wa mpango wa upatikanaji wa chakula cha mchana kwa wanafunzi katika baadhi ya shule nchini.</seg>
+          <seg xml:id="seg104">Mheshimiwa Mwenyekiti, Wakala wa Taifa wa Hifadhi ya Chakula (NFRA) na Shirika la Mpango wa Chakula Duniani (WFP) unasaini makubaliano Memorandum of Understanding (MoU) kwa lengo la kuiwezesha Wakala kuiuzia WFP kiasi cha tani 200,000 za Mahindi. Msimu wa mwaka 2012/2013 WFP ilipanga kununua tani 100,000 za Mahindi na kuongeza kiasi cha kununua kwa asilimia 20 hadi kufikia lengo la tani 200,000.</seg>
+          <seg xml:id="seg105">Hata hivyo, lengo hilo halikufikiwa kwa kuwa Wakala wenyewe haukuweza kununua Mahindi ya kutosha kutokana na upungufu wa Mahindi Nchini. Aidha, Wakala umejipanga kutekeleza makubaliano hayo katika msimu wa 2013/2014.</seg>
+          <seg xml:id="seg106">Mheshimiwa Mwenyekiti, katika mwaka wa fedha 2013/2014 Wakala umetengewa kiasi cha shilingi bilioni 110.4 kwa ajili ya kununua tani 235,000 za Mahindi na tani 15,000 za Mtama kutoka kwa wakulima. Wakala unategemea pia kununua takribani tani 50,000 za Mahindi kutoka Mkoa wa Ruvuma ikiwemo Jimbo la Peramiho. Aidha, kutokana na mabadiliko ya mfumo na utaratibu wa Bajeti ya Serikali, ni matarajio ya Wizara yangu msimu wa mavuno katika maeneo mbalimbali nchini ni matarajio yangu kuwa mazao ya wakulima yataweza kununuliwa kwa wakati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u35" who="MheJenistaJMhagama">
+          <seg xml:id="seg107">Mheshimiwa Mwenyekiti, ahsante sana, kwa sababu katika swali la msingi nilitaka kujua ni kiasi gani cha Mahindi kitakachonunuliwa kwenye Jimbo la Peramiho Wilaya ya Songea Mjini na Wilaya ya Songea Vijijini.</seg>
+          <seg xml:id="seg108">Kwa kuwa Kata ya Bumbiro, Mpitimbi, Kilagano, Zomba, Matimila, Mataba, Mahanje, Wino, Peramiho, Itisha, Magagula, Kizuka na eneo la Mbiga Mhalule, tayari walishaingia makubalianao ya kimkataba baina ya wananchi hao niliowasema kupitia Kata hizo, NFRA na WFP, ya kuanza kununua Mahindi kwenye maeneo hayo kwa msimu huu wa mwaka 2013/2014.</seg>
+          <seg xml:id="seg109">Je, Mheshimiwa Naibu Waziri atanihakikishia kwamba mikataba ile iliyoingiwa, sasa mwaka huu vituo hivi vitatumika kununulia mahindi na kwa bei ambayo itakuwa ni ya kuwasaidia wakulima wangu hawa wa Mahindi?</seg>
+          <seg xml:id="seg110">Mheshimiwa Mwenyekiti, swali la pili, kwa kuwa tayari hapa Mheshimiwa Naibu Waziri ametuambia, World Food Program wamekubali kuongeza tani 100,000 za ununuzi wa Mahindi kwa musimu huu, na kwa kuwa tayari wameshatoa fedha kupitia NFRA Kununua Mahindi hayo.</seg>
+          <seg xml:id="seg111">Je, Serikali iko tayari sasa kutangaza bei sasa ili wananchi wasianze kuhangaika na masoko ya Mahindi, wawe na uhakika wa Mahindi hayo kununuliwa na Serikali kupitia Shirika hilo la Chakula la Kiulimwengu (WFP). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u36" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg112">Mheshimiwa Mwenyekiti, naomba nijibu maswali ya nyongeza ya Mheshimiwa Jenista Mhagama kama ifuatavyo:-</seg>
+          <seg xml:id="seg113">Mheshimiwa Menyekiti, kama nilivyosema kwenye majibu yangu ya msingi, kwa Mkoa wa Ruvuma, katika zile tani 230,000 za Mahindi peke yake zinazokusudiwa kununuliwa, tani 50,000 zitatoka Mkoa wa Ruvuma.</seg>
+          <seg xml:id="seg114">Kwa hiyo, kulingana na kiasi cha uzalishaji utakaokuwa Mkoa wa Ruvuma, ndiyo NFRA itakavyojielekeza, lakini naomba nimhakikishie tu, kwamba, makubaliano yaliyokuwepo ya kuweka vituo, kwa ajili ya kurahisha manunuzi ili wakulima wasipate tabu katika kuleta mazao yao pale, yale makubalianao yanabaki palepale kwa Mkoa wa Ruvuma.</seg>
+          <seg xml:id="seg115">Mheshimiwa Mwenyekiti, naomba nisisitize tu kwamba Ruvuma ni katika wazalishaji wetu wakubwa pamoja na Mkoa wa Mbeya, Rukwa na Iringa.</seg>
+          <seg xml:id="seg116">Kwa hiyo, tumeweka mkakati maalum ili kuanzia tarehe 1 Julai, 2013 kwenda mbele, kutegemea na upatikanaji wa fedha kulingana na fedha zitakazotoka Hazina, tunatarajia mpaka kufika mwisho wa Julai hapo, tutakuwa tumeshaanza manunuzi ya namna fulani kwenye maeneo yote haya, tofauti na miaka iliyopita ambapo tumekuwa tunaanza manunuzi mwezi wa tisa kwa sababu ya mabadiliko ya mfumo huu wa Bajeti tutaanza manunuzi mapema.</seg>
+          <seg xml:id="seg117">Mheshimiwa Mwenyekiti, naomba niseme tu kwamba, kwa sasa hivi NFRA tunafanya utafiti wa bei ambayo inabidi tuingie nayo sokoni kuanzia tarehe moja.</seg>
+          <seg xml:id="seg118">Mheshimiwa Mwenyekiti, naomba niseme tu kwamba, tumejifunza kutokana na miaka iliyopita ambapo, ukiweka bei ndogo ya shilingi 300, wanunuzi binafsi wanaingia mle ndani wananunua mazao shambani, jambo ambalo tunalipinga sana.</seg>
+          <seg xml:id="seg119">Kwa hiyo, wanaathiri upatikanaji wa mazao. Kwa hiyo, mwaka huu tutaangalia bei halisi ya soko, na upatikanaji wa mahidndi yenyewe, tunaifanyia tathmini na Waziri wa Kilimo, Chakula na Ushirika atatangaza hiyo bei ambayo tutaanzia nayo NFRA nadhani ndani ya muda mfupi ujao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u37" who="MheVitaRKawawa">
+          <seg xml:id="seg120">Mheshimiwa Mwenyekiti, ahsante sana.</seg>
+          <seg xml:id="seg121">Kwa kuwa Serikali, huwa wakiona upungufu wa chakula, huwa wanaagiza mchele kutoka nje. Kwa nini NFRA, isiwe pia inanunua Mipunga kwa wakulima wetu wawe wanahifadhi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u38" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg122">Mheshimiwa Mwenyekiti, naomba nijibu Swali la Mheshimiwa Vita Rashid Kawawa, kama hivi ifuatavyo:-</seg>
+          <seg xml:id="seg123">Mheshimiwa Mwenyekiti, alichosema Mheshimiwa Vita Kawawa, ni sahihi, ni kweli. Tunaanza utaratibu wa kupanua ule wigo wa mazao tuliyokuwa nayo. Badala kuwa na mahindi tu, tumeanza kwenda na Mtama. Lakini tunahisi kwamba ni vema vile vile tukaingia kwenye Mpunga.</seg>
+          <seg xml:id="seg124">Mheshimiwa Mwenyekiti, sasa hili la Mpunga litashuhgulikiwa na Bodi ya mazao mchanganyiko. Hili, pamoja na lile la kuwa na Maharage kwa sababu ya uzito wake kwenye mfumuko wa bei.</seg>
+          <seg xml:id="seg125">Kwa hiyo, tunakadiria kwamba tukiwa na upana zaidi katika mazao yale ambayo Watanzania wanayatumia kwa kila siku iendayo kwa Mungu.</seg>
+          <seg xml:id="seg126">Kwa maana vyakula kama vile mpunga, maharage na kadhalika, tutaweza kuhimili zaidi mfumuko wa bei. Lakini pia itakuwa ni namna nzuri zaidi ya kujikinga dhidi ya masuala ya njaa. Pamoja na kuwa na mazao pia kama Muhogo.</seg>
+        </u>
+        <note>Na. 472. Fursa ya Wakulima Kuuza Mazao Nchi Jirani</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u39" who="MheSarahMAlly">
+          <seg xml:id="seg127">Wakulima wameona faida ya kilimo cha kisasa kwa kuzalisha chakula cha kutosha na ziada kwa ajili ya kuuza:-</seg>
+          <seg xml:id="seg128">(a) Je, Serikali haioni kuwa inawanyima fursa wakulima kutafuta masoko katika nchi jirani ili kuuza mazao yao kwa faida?</seg>
+          <seg xml:id="seg129">(b) Je, mpango huo wa kudhibiti soko kwa wakulima wadogo unafanyika hata kwa wawekezaji wakubwa wa kilimo cha mazao ya chakula?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u40" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg130">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Sarah M. Ally, Mbunge Viti Maalum, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg131">(a) Mheshimiwa Mwenyekiti, upatikanaji wa masoko ya mazao ya kilimo ni kivutio kikubwa kwa wakulima katika kuongeza na kuchochea uzalishaji na tija wa mazao. Serikali imekuwa ikifanya jitihada mbalimbali za kutafuta na kuhamasisha upatoikanaji wa masoko ya mazao ya kilimo ndani na nje ya nchi ili kutoa fursa pana kwa wakulima wa mazao nchini.</seg>
+          <seg xml:id="seg132">Mheshimiwa Mwenyekiti, mazao mengi yanayozalishwa nchini huuzwa katika masoko ya ndani na katika masoko ya nchi za nje kama nchi za Jumuia ya Afrika Mashariki (EAC) na Jumuiya ya Maendeleo ya Nchi za Kusini mwa Afrika (SADC).</seg>
+          <seg xml:id="seg133">Serikali kuanzia mwaka 2012/2013, imeondoa vikwazo vya kuuza nafaka nje ya nchi kwa maana ya (Export Ban) ili kutoa fursa kwa wakulima kuuza mazao yao ndani na nje ya nchi ili kuongeza kipato cha wakulima.</seg>
+          <seg xml:id="seg134">Aidha, Wizara yangu pia imewezesha baadhi ya wafanyabishara, viongozi na wakulima kushiriki katika maonyesho ya kilimo nchini Sudan Kusini ili kujionea fursa za masoko ya mazao ya kilimo, pamoja na kuwa na mawasiliano ya moja kwa moja na wanunuzi wa nchi hiyo.</seg>
+          <seg xml:id="seg135">(b) Mheshimiwa Mwenyekiti, Mkakati wa Serikali ni kuhakikisha upatikanaji wa masoko ya uhakika na endelevu kwa mazao ya wakulima wakubwa na wadogo nchini.</seg>
+          <seg xml:id="seg136">Aidha, Serikali imekuwa ikitekeleza mipango na mikakati mbalimbali ili kuhakikisha kuwa wakulima wadogo wanapata fursa kubwa zaidi ya kuuza mazao yao kwa bei</seg>
+          <seg xml:id="seg137">nzuri ikiwa ni pamoja na kukamilisha mpango wa ufikishaji wa taarifa za masoko, bei za mazao, pembejeo, mbegu na mawasiliano kupitia mtandao na simu, ambayo yataongeza uwezo wa mkulima mdogo kupata taarifa za soko. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u41" who="MheSarahMAlly">
+          <seg xml:id="seg138">Mheshimiwa Mwenyekiti, ahsante sana.</seg>
+          <seg xml:id="seg139">Kwanza ninapenda kuipongeza Serikali, kwa kuondoa vikwazo vya kuuza Mazao nje ya nchi, jambo ambalo litawasaidia Wakulima kutafuta masoko ya uhakika kwa bei nzuri. Lakini pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri ninaomba nimwulize maswali mawili. (a) Pamoja na juhudi za Serikali za kuwasaidia Wakulima, lakini bado hakuna mfumo unaoeleweka wa kutafuta Masoko kwa Wakulima, na hii inasababisha kupanda kwa bei na kushuka kila wakati.</seg>
+          <seg xml:id="seg140">Je, Serikali haioni sasa kuna haja ya kuanzisha utaratibu wa kutoa fidia kwa wakulima pale wanapouza mazao yao kwa bei ya chini ili kuwapunguzia makali ya kupata hasara?</seg>
+          <seg xml:id="seg141">(b) Serikali ilitamka kuanzisha Bodi ya Mazao Mchanganyiko. Lakini mpaka sasa hakuna juhudi za dhati zinazoonyesha uanzishwaji wa Bodi hiyo ili Wakulima waweze kufaidika nayo.</seg>
+          <seg xml:id="seg142">Je, nini Kauli ya Serikali katika uanzishwaji wa Bodi ya Mazao Mchanganyiko, ili iwanufaishe Wakulima? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u42" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg143">Mheshimiwa Mwenyekiti, naomba kujibu maswali ya nyongeza ya Mheshimiwa Sarah M. Ally, kama hivi ifuatavyo:-</seg>
+          <seg xml:id="seg144">(a) Mheshimiwa Mwenyekiti, hili tatizo la mfumo usioeleweka wa Masoko, ni tatizo la Market Equilibrium. Kwa</seg>
+          <seg xml:id="seg145">maana ya kwamba mfumo wetu wa namna ya watu wanavyokwenda kule kununua Mazao kwa Wakulima umekuwa kwa wakati fulani unatoa fursa ambayo Walanguzi wamekuwa wanatumia hiyo kama njia ya kujipatia mazao haya kwa bei nafuu na kuja kuyauza sokoni kwa bei kubwa.</seg>
+          <seg xml:id="seg146">Mheshimiwa Mwenyekiti, kuanzia mwaka 2012, Waziri wa Kilimo, Chakula na Ushirika, ameelekeza na tumeanza kuingia wenyewe katikati ili kujua ni namna gani ambavyo Serikali inaweza ikaingia na kumsaidia mkulima kupata bei ambayo inamlinda.</seg>
+          <seg xml:id="seg147">Mheshimiwa Mwenyekiti, namna mojawapo ya kufanya hivyo, ni kwamba tunajenga Mawasiliano na Wakuu wa Wilaya na Wakuu wa Mikoa, ili kwa yale maeneo ambayo yanazalisha Chakula tuwe tunapta taarifa za uhakika pale ambapo Walanguzi wanaingia na kununua Mazao Mashambani, au kununua mazao kwa bei inayo mdhulumu Mkulima na Serikali tutachukua hatua stahiki.</seg>
+          <seg xml:id="seg148">Haitusaidii kama tunapiga tu kelele lakini sisi wenyewe hatuwezi kuingia ndani na kumpa mkulima ile bei anayostahil. Ndiyo maana tukasema kwenye swali lililotangulia, kwamba Wizara ya Fedha itatoa pesa mwaka huu 2013/2014 mapema ili kuiwezesha Serikali, NFRA na vyombo vingine kuingia na kuwapa kinga Wakulima dhidi ya mbinu hizi za walanguzi.</seg>
+          <seg xml:id="seg149">(b) Mheshimiwa Mwenyekiti, hii Bodi ya Mazao Mchanganyiko, kwa muda wa mwaka mmoja, miwili ilikuwa katika Structuralizaton, kwa maana ya muundo wake, kupatiwa muundo wa uongozi na kadhalika.</seg>
+          <seg xml:id="seg150">Lakini pia kujengewa Miundombinu. Kwa hiyo, kwa sasa hivi kuna pesa imeishapatikana na matarajio yetu ni kwamba zitatoka pesa kwenye Bajeti mapema, ili kuiwezesha Bodi. Kwa sasa hivi Bodi imeishaundwa na Uongozi unaundwa kuweza kununua Mazao haya at least baadhi ya Mazao kuanza kuyanunua mapema mwaka huu ili kumpa kinga mkulima kwa dhuluma hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u43" who="MheAssumpterNMshama">
+          <seg xml:id="seg151">Mheshimiwa Mwenyekiti, ahsante sana kunipatia nafasi niulize swali la nyongeza.</seg>
+          <seg xml:id="seg152">Mheshimiwa Mwenyekiti, tatizo hili liko mahali pote hata katika Mkoa wetu wa Kagera. Hata katika Jimbo la Nkenge. Wanamisenyi wameweza kuwa wanapata fursa kwa njia zao wao wenyewe kuweza kuuza Kahawa yao Uganda. Ambapo Uganda bei iko juu, lakini Tanzania bei iko chini. Lakini walipokuwa wanataka kufanya hivyo wanakamatwa kama Walanguzi, na wakati huo hii ni biashara huria. Je, Serikali iko tayari kuwaongezea bei, au kuwaruhusu wao waende wauze mahali ambapo wanaona wanapata faida? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u44" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg153">Mheshimiwa Mwenyekiti,naomba kujibu swali la Mheshimiwa Assumpter Mshama, kama ifuatavyo:-</seg>
+          <seg xml:id="seg154">Mheshimiwa Mwenyekiti, hata huko ambako, kwa mfano kwenye Mikoa ya Rukwa, na Ruvuma ambako tumekubali kwamba Wakulima waweze kuuza mazao yao, kuna utaratibu. Utaratibu ule bado unabakia pale pale. Kwa hiyo, tulichokubaliana pia ni kwamba kwenye hili suala lillopo katika Jimbo la Nkenge, tumesikia kwamba upande ule wa Uganda, bei ya Kahawa iko juu kidogo zaidi kuliko upande wa Tanzania na wanapojaribu wakulima kusafirisha kwenda huko wanakumbana na matatizo mbali mbali, hilo pia limezungumzwa kwenye mpaka wa Sirari.</seg>
+          <seg xml:id="seg155">Mheshimiwa Mwenyekiti, naomba nimhakikishie Mheshimiwa Assumpter, kwamba kwa kuwa tumefungua milango. Taratibu bado ziko pale pale.</seg>
+          <seg xml:id="seg156">Lakini tuangalie kwa kushirikiana na Viongozi wa Mikoa hiyo ya Mipakani na maeneo husika. Ili biashara hii iwe na utaratibu, iwe inalipiwa kodi, lakini pia na mkulima bado apate kinga ya bei nzuri.</seg>
+          <seg xml:id="seg157">Mheshimiwa Mwenyekiti, kwa hiyo hili tumelipokea na ninaomba nimwahidi Mheshimiwa Assumpter Mshama, kwamba tutalifanyia kazi katika maeneo yote pamoja na la kwake.</seg>
+        </u>
+        <note>Na. 473. Hitaji la Mnara wa Simu- Kata za Kabila na Shishani</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u45" who="MheDktFestusBLimbu">
+          <seg xml:id="seg158">Tarafa ya Ndagalu inaongoza kwa kuipatia mapato Halmashauri ya Wilaya ya Magu, lakini ina Mnara wa Vodacom mmoja tu:-</seg>
+          <seg xml:id="seg159">Je, ni lini Serikali itawahimiza kwa dhati watoa huduma za simu za mkononi kujenga Minara kwenye maeneo ya Kata za Kabila na Shihani ili kuboresha huduma za Mawasiiano?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u46" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg160">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Dkt. Festus B. Limbu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg161">Mheshimiwa Mwenyekiti, kwanza ninaanza kumpongeza Mheshimiwa Dkt. Limbu, kwa kufuatilia suala hili tangu Bunge lililopita.</seg>
+          <seg xml:id="seg162">Mheshimiwa Mwenyekiti, Serikali imeendelea kujenga ushindani katika Sekta ya Mawasiliano ili kuhakikisha kuwa Kampuni za simu zinashindana kwa ubora wa huduma, ukubwa wa mitandao, gharama za kutumia huduma na huduma za ziada ikiwemo kutuma pesa kwa njia ya Mtandao.</seg>
+          <seg xml:id="seg163">Serikali pamoja na kuhimiza ushindani inaendelea kuhakikisha kwamba maeneo yasiyo na huduma yanafikiwa na watoa huduma kwa kutumia mbinu mbali mbali ikiwemo ushawishi wa ruzuku inayotolewa na Mfuko wa Mawasiliano kwa wote.</seg>
+          <seg xml:id="seg164">Mheshimiwa Mwenyekiti, Serikali imeweka maeneo ya Kata a Kabila na Shishani katika mipango ya kuyafikisha mawasiliano kwa kuzingatia umuhimu wa shughuli za Kimaendeleo kwenye Kata hizo, kama alivyosema Mheshimiwa Mbunnge, sambamba na kutafuta mbinu bora za kuyafikishia mawasiliano. Maeneo hayo aliyoyataja Mheshimwia Mbunge yameingizwa katika zabuni ya awamu ya pili kwa fedha za Benki ya Dunia (WB Phase 2) inayotegemewa kutangazwa mapema mwezi Septemba, 2013.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u47" who="MheDktFestusBLimbu">
+          <seg xml:id="seg165">Mheshimiwa Mwenyekiti, ninakushukuru, ninaomba niulize swali la nyongeza.</seg>
+          <seg xml:id="seg166">Mheshimiwa Mwenyekiti, kwanza nimpongeze Mheshimiwa Waziri kwa majibu ambayo yanatia matumaini. Lakini nimesikitishwa kidogo na jibu la Serikali kwamba Tarafa ya Ndagalu ambayo ina Kata nne, na ni muhimu sana katika kuchangia pato la Wilaya ya Magu, kwamba imewekwa kwenye Awamu ya Pili ya Mfuko ama Benki ya Dunia, ambayo itatangazwa mwezi Septemba, 2013.</seg>
+          <seg xml:id="seg167">Mheshimiwa Mwenyekiti, Wizara ilikuja hapa kati ya mwaka 2011 au 2012, ninafikiri. Ikatuomba Waheshimiwa Wabunge, tuorodheshe maeneo ambayo hayana Mawasiliano. Niliorodhesha Tarafa hii kwamba haina Mawasiliano. Sasa hivi inategemea Mnara mmoja tu wa Voda Com, ulioko Salama, ambao uko mpakani mwa Bariadi na inategemea hisani ya Mnara ulioko Maligisu katika Wilaya ya Kwimba na mwingine Wilaya ya jirani kutoka Zanzui.</seg>
+          <seg xml:id="seg168">Mhheshimiwa Mwenyekiti, cha kushanga juzi, Wizara ilipokuja Tarafa ya Ndagalu ikaonyeshwa kama ina Mawasilino ya kutosha, kwa hiyo nilizungumza na Wataalam, nikawaambia kwamba hili ni kosa limefanyika na inabidi lirekebishwe.</seg>
+          <seg xml:id="seg169">Mheshimiwa Mwenyekiti, je, Mheshimiwa Waziri atakubaliana na mimi sasa kwa sababu lilifanyika kosa. Tarafa hii ya Ndagalu iwekwe kwenye…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u48" who="Mwenyekiti">
+          <seg xml:id="seg170">Mheshimiwa Mbunge, twende kwenye swali. Naomba twende kwenye swali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u49" who="MheDktFestusBLimbu">
+          <seg xml:id="seg171">Eee!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u50" who="Mwenyekiti">
+          <seg xml:id="seg172">Uliza swali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u51" who="MheDktFestusBLimbu">
+          <seg xml:id="seg173">Ndiyo ninauliza swali. Ninamwuliza Mheshimiwa Waziri, kwa sababu makosa yalifanyika.</seg>
+          <seg xml:id="seg174">Je, Mheshimiwa Waziri atashirikiana na mimi il kuhakikisha kwamba tunarekebisha hilo kosa lililofanyika, ili Tarafa hii iingie kwenye awamu ya kwanza, badala ya kuingina kwenye Awamu ya Septemba? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u52" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg175">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Dkt. Festus B. Limbu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg176">Serikali iko tayari kukutana naye, ili kuangalia kosa lilipofanyika ili kuweza kurekebisha na kuhakikisha kwamba wananchi wa Kata hiyo wanapata mawasiliano mapema.</seg>
+          <seg xml:id="seg177">Hata hivyo ninapenda kumfahamisha Mheshimiwa Dkt. Limbu, kwamba, kata ya Kiloleli, katika Jimbo lake la Magu, ipo katika Awamu ya (i-a) ambayo itatangazwa mwishoni mwa mwezi Juni, 2013. Kwa hiyo siyo kwamba Magu haijapata kabisa. Bado ipo Kata ya Kiloli, ambayo itakuja mapema zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u53" who="MheStephenHNgonyani">
+          <seg xml:id="seg178">Mheshimiwa Mwenyekiti, ahsante sana.</seg>
+          <seg xml:id="seg179">Kwa kuwa tatizo la Magu linalingana kabisa na Tarafa ya Magoma katika Kata ya Kizara. Je, ni liini Serikali itawapatia huduma za Mawasiliano Kata ya Kizara, ambayo ni sehemu kubwa sana wananchi wanatafuta mazao ya chakula na biashara kule?</seg>
+          <seg xml:id="seg180">TEKNOLOJIA: Mheshimiwa Mwenyekiti, napenda kujiibu swali la Mheshimiwa Stephen Ngonyani, Mbunge wa Korogwe Vijijini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg181">Mheshimiwa Mwenyekiti, ni kweli, kwamba na mimi ninatoka maeneo hayo na Magoma ni karibu na kwetu. Na ni kweli Kata ya Kizara haina mawasiliano ila napenda kumhakikishia Mheshimiwa Mbunge, kwamba Kata hiyo tumeiweka katika Awamu ya Pili, ya Mradi wa Benki ya Dunia, ambao utatangazwa mwezi Septemba, 2013. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u54" who="MheRichardMNdassa">
+          <seg xml:id="seg182">Mheshimiwa Mwenyekiti, ahsante sana.</seg>
+          <seg xml:id="seg183">Mawasiliano ni nyenzo muhimu sana katika uchumi wa nchi yetu. Tatizo lililopo Kabila, Nhaya, pamoja Shishani, ni sawa sawa na tatizo liliko katika Kata ya Iseni, Mwabomba na Ngula ambayo ni majirani na zinapakana.</seg>
+          <seg xml:id="seg184">Mheshimiwa Mwenyekiti, Je, Mheshimiwa Waziri, ni lini sasa wananchi wa maeneo hayo ya Isenyi, Mwabomba watapata huduma hiyo ya kuwekewa Minara ili wapate usikivu mzuri kwenye simu zao? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u55" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg185">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Richard M. Ndassa, kama hivi ifuatavyo.</seg>
+          <seg xml:id="seg186">Mheshimiwa Mwenyekiti, Serikali, kwa kutumia Mfuko wa Mawasiliano kwa wote, lakini kwa kutumia vile vile ushawishi kwa Makampni ya Simu. Imeendelea na jitihada za kuhakikisha kwamba nchi yetu inapata mawasiliano katika maeneo yote kabla ya mwaka 2015, na maeneo yote ya nchi yetu hayataweza kupata mawasiliano kwa wakati mmoja. Maeneo yatapata mawasiliano kwa awamu.</seg>
+          <seg xml:id="seg187">Mheshimiwa Mwenyekiti, maeneo aliyoyataja Mheshimiwa Ndassa, napenda kumhakikishia kuwa yatapata mawasiiano ya simu na tunafanya jitihada zote ikiwemo kufikiria mbinu mpya kabla ya mwaka 2015.</seg>
+        </u>
+        <note>Na. 474. Kituo Cha Polisi Lupembe Kupatiwa Askari wa Kike</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u56" who="MheDeoKSanga">
+          <seg xml:id="seg188">Kituo cha Polisi Lupembe kina Askari wa jinsia moja wa Kiume tu na baada ya kuomba Askari wa Kike wameletwa na kuripoti Kituo cha Polisi Wilaya ya Njombe:-</seg>
+          <seg xml:id="seg189">Je, ni kwa nini Askari hao wa kike hawapelekwi Kituo cha Lupembe walikokusudiwa kwenda?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u57" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg190">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Deo Kasenyenda Sanga, kama hivi ifuatavyo:-</seg>
+          <seg xml:id="seg191">Mheshimiwa Mwenyekiti, ni kweli kwamba Kituo cha Polisi Lupembe hakikuwa na Askari wa Kike kutokana na sababu mbalimbali zikiwemo matakwa ya kikanuni ya Jeshi la Polisi kwa Askari wa Kike kupelekwa katika Vituo vidogo (Out Post).</seg>
+          <seg xml:id="seg192">Hata hivyo, kufuatia maombi ya Mheshimiwa Deo Sanga, aliyoyatoa wakati wa Bunge la Bajeti mwaka (2011/ 2012) na baada ya kutimiza matakwa ya kikanuni kwa sasa Kituo hicho kimepatiwa Askari wawili wa kike tangu mwezi Agosti, 2012.</seg>
+          <seg xml:id="seg193">Mheshimiwa Mwenyekiti, naomba nimpongeze Mheshimwia Sanga kwa jitihada zake za kutatua kero za wananchi ndani ya Jimbo lake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u58" who="MheDeoKSanga">
+          <seg xml:id="seg194">Mheshimiwa Mwenyekiti, napenda niongeze maswali mawili ya nyongeza, pamoja na majibu mazuri ya Serikali.</seg>
+          <seg xml:id="seg195">Mheshimiwa Mwenyekiti, Kituo cha Polisi cha Lupembe, ni kweli kama alivyosema Waziri nilipokuwa nimeomba kwamba Kituo kile hakikuwa na Askari wa Kike. Serikali ilitupa Askari wawili na wali ripoti katika Kituo cha Lupembe.</seg>
+          <seg xml:id="seg196">Hivi mpaka sasa Mheshimiwa Waziri, Kituo kile zaidi ya miezi mitatu, minne mpaka sasa hivi ninavyozungumza hakuna Askari hao. Waliripoti, walikaa wiki mbili tu na kuondoka. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u59" who="MheDeoKSanga">
+          <seg xml:id="seg197">Mheshimiwa Mwenyekiti, la pili, Kituo hiki cha Lupembe kinahudumia eneo kubwa sana, likiwemo eneo la Kusini, Madaba, Kaskazini na pia tunapakana na Wilaya ya Kilombero, Mkoa wa Morogoro.</seg>
+          <seg xml:id="seg198">Je, Serikali iko tayari kutusaidia vitendea kazi ikiwemo gari na kukarabati kituo chenyewe cha Polisi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u60" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg199">Mheshimiwa Mwenyekiti, napenda kujibu maswali mawili ya Mheshimiwa Sanga kama hivi ifuatavyo:-</seg>
+          <seg xml:id="seg200">Mhelshimiwa Mwenyekiti, hili la Askari wa Kike, kuripoti na baadaye wakaondoka nitalifuatilia na tutahakikisha kwamba Askari hawa kwa sababu wameishapangiwa wanarudi kwenye Kituo chao cha kazi haraka iwezekanavyo.</seg>
+          <seg xml:id="seg201">Mheshimiwa Mwenyekiti, kuhusu vitendea kazi ni tatizo kubwa kama ninavyokuwa ninasema mara nyingi. Hili ni la uwezo wa Kibajeti. Lakini tuna mipango mingi ambayo tunaendelea kuifanyia kazi ikiwemo Bajeti yenyewe basi jitihada hizi tutazifanya ili tuhakikishe kwamba kituo hiki kama vituo vingine nchini vinapata vitendea kazi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u61" who="MheRizikiJumaOmar">
+          <seg xml:id="seg202">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa fursa niulize swali moja la nyongeza.</seg>
+          <seg xml:id="seg203">Mheshimiwa Mwenyekiti, kwa kuwa, tatizo hili la ukosefu wa Askari wa kike katika vituo vingi vya Polisi limekuwa ni kubwa na ni la muda mrefu jambo linalopelekea hata kesi nyingine kama vile za ubakaji anapopelekwa mtoto wa kike pale inabidi ashughulikiwe na Askari wa kiume mpaka kumfikisha hospitalini. Ni lini Serikali itaweka mkakati madhubuti ili kuhakikisha kwamba vituo vyote vinapata Askari wa kike wa kutosha?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u62" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg204">Mheshimiwa Mwenyekiti, ni kweli kwamba kwa ujumla kuna pengo kubwa kati ya Askari tunaowahitaji na ambao tunao wa kike na wa kiume. Pengo hili ni kubwa zaidi kwa Askari wa kike, jitihada zinafanywa za kuhakikisha kwamba nafasi hii au mapengo haya yanazibwa haraka iwezekanavyo pamoja na kwamba tuna matatizo madogo madogo.</seg>
+          <seg xml:id="seg205">Lakini pamoja na kuwa Askari wanaweza wakawepo kikanuni Askari wa kike hawapelekwi popote bila ya conditions fulani kutimizwa. Na mara zote tunapozitimiza huwa tunafanya jitihada kwa pale penye mahitaji ili Askari wa kike wapelekwe. Isipokuwa niseme tu kwamba kesi ya ubakaji haina sababu hata siku moja ya kushughulikia na mwanamume kwa sababu tuna mbinu mbadala hata kama Askari kwenye kituo hicho atakuwa hayupo. Tunaendelea kuhakikisha kwamba staha inatumika na Askari wa kike ndiyo atumike katika mambo kama haya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u63" who="MheMarthaMMlata">
+          <seg xml:id="seg206">Mheshimiwa Mwenyekiti, ahsante. Kwa kuwa, Mheshimiwa Naibu Waziri amekiri kabisa kweli kuna upungufu wa Askari wa kike na amesema kwamba kuna conditions na utaratibu unafuatwa kwa ajili ya kuwapata. Sielewi ni conditions gani kwa sababu vijana wa kike wapo na wapo fit kwa nini wasiwachukue ili waweze kuingia kwenye Jeshi la Polisi? Ahsante sana.</seg>
+          <seg xml:id="seg207">Mheshimiwa Mwenyekiti, nilichosema ni kwamba jitihada za kuhakikisha kwamba ajira za Askari wa kike zinaongezwa haihusiani na conditions, wapo wanawake ambao wanaweza kutufanyia kazi za msingi za Askari ambazo zinafanywa hata kwa viongozi Jeshini.</seg>
+          <seg xml:id="seg208">Nilichosema ambacho kina conditions au masharti ni namna ya kumpeleka Askari kwenye vituo ambavyo mara nyingi vipo nje ya sehemu muhimu ni kwa sababu ya faida au usalama wa Askari wenyewe. Jitihada za ajira zinaendelea na tutawaajiri ili kuhakikisha kwamba pengo lililopo kubwa tunaliondoa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 475. Hali ya Magereza na Wafungwa Nchini</note>
+        <note>(K.n.y. MHE. DAVID E. SILINDE)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u64" who="MheMchIsraelYNatse">
+          <seg xml:id="seg209">Magereza ni sehemu ambazo wafungwa hukaa kutumikia adhabu za vifungo kutokana na hatia mbalimbali zilizotendeka:-</seg>
+          <seg xml:id="seg210">(a) Je, kwa nini Magereza mengi yamejaa watu wa vipato vya chini?</seg>
+          <seg xml:id="seg211">(b) Je, Serikali inatoa fidia gani endapo itabainika kuwa mfungwa hakuwa na hatia baada ya kutumikia kifungo chake na hatua gani zitachukuliwa kwa waliohusika kutoa hukumu hiyo kimakosa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u65" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg212">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa David Ernest Silinde, Mbunge wa Mbozi Magharibi, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg213">(a) Mheshimiwa Mwenyekiti, Jeshi la Magereza lilianzishwa kwa Mujibu wa Sheria ya Magereza Namba 34 ya mwaka 1967 likiwa na jukumu lake la msingi ambalo ni kuwahifadhi na kuwarekebisha wafungwa wa aina zote wanaowekwa chini ya ulinzi halali kisheria ndani ya magereza. Kwa mantiki hiyo, ni wazi kuwa Jeshi hili linahifadhi watu wa aina yote wanaoletwa magerezani bila kujali kipato cha mtu, kabila au cheo chake.</seg>
+          <seg xml:id="seg214">(b) Mheshimiwa Mwenyekiti, Jeshi la Magereza halihusiki na msuala yoyote yanayohusu kumlipa fidia mfungwa endapo atakuwa amefungwa gerezani kimakosa. Hukumu zote hutolewa na Mahakama na chini ya Sheria zetu haki ya rufaa ni sehemu ya Sheria hizi. Kwa hiyo, yule ambaye amefanyiwa kesi akihisi kuna makosa anaweza akakata rufaa na haki ikatendeka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u66" who="MheMchIsraelYNatse">
+          <seg xml:id="seg215">Mheshimiwa Mwenyekiti, wapo wafungwa wanaopigwa magereza na kupata ulemavu wa kudumu baada ya kifungo.</seg>
+          <seg xml:id="seg216">Je, Serikali ina mpango gani wa kuwalipa fidia wote wanaoathirika baada ya kifungo hicho? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u67" who="MheMchIsraelYNatse">
+          <seg xml:id="seg217">Mheshimiwa Mwenyekiti, swali la pili, tumekuwa tukisikia kutoka kwenye vyombo vya habari na hata kushuhudia mara nyingine kwa macho yetu Wazungu, Wahindi, Waarabu wakikamatwa na Polisi kwa makosa makubwa ambayo yanatakiwa kifungo. Je, inakuwaje gerezani watu hawa hawamo ila wamo watu maskini tu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u68" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg218">Mheshimiwa Mwenyekiti, la kwanza kuhusu kufungwa kinyume. Kama nilivyosema kwenye jibu langu la msingi ni kwamba Mahakama inatoa haki na pale ambapo haki inakuwa haikutendeka au ikionekana haikutendeka uamuzi wa rufaa ndiyo unaotumika. Kama itaonekama Mahakama final itaona kwamba haki ile inahitaji kurudishwa ni Mahakama ambayo inaweza ikatoa maelezo kwamba fidia gani ilipwe na kwa namna gani?</seg>
+          <seg xml:id="seg219">La pili, ni kwamba nchi yetu ina watu maskini wengi kuliko matajiri na kwa vyovyote vile magereza yetu kama proportionally atakuwa na watu maskini wengi zaidi kuliko wengine. Kama nilivyosema kwamba magereza hayana haki ya kutoa haki isipokuwa watu wanapewa watu ambao wameishaamuliwa na vyombo vya kutendea haki kwamba wanatakiwa wafanywe nini.</seg>
+          <seg xml:id="seg220">Kwa hiyo, nina hakika kwamba haki kwenye vyombo vyetu vya Kisheria ipo na kinachotokea ndicho ambacho kipo. Mara nyingi labda niseme kwamba kuna usemi unasema kwamba watu ambao hawana kipato ndiyo ambao wanaweza wakawa na tabia ya kufanya makosa.</seg>
+          <seg xml:id="seg221">Kwa hiyo, nafikiri cha kufanya ni kuhakikisha kwamba pamoja na elimu tunazozitoa tuimarishe uchumi ili tuweze kupata kipato cha halali tusiweze kuingia kwenye matatizo haya kwa wingi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u69" who="MheEngMuhammedHabibJMnyaa">
+          <seg xml:id="seg222">Mheshimiwa Mwenyekiti, nashukuru, kwa kunipa nafasi ya kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg223">Kwa kuwa, Magereza yetu Sheria zilizopo au vitendo vinavyofanywa ni toka enzi ya kikoloni tumevirithi; na kwa kuwa, katika jibu lake Mheshimiwa Naibu Waziri amezungumza kwamba Jeshi la Magereza limeanzishwa kwa Sheria Namba 34 ya mwaka 1967 ambayo kazi yake kubwa ni kuwahifadhi na kuwatunza wafungwa; na kwa kuwa, kuna wakati wafungwa wanapigwa na wanafanyishwa kazi nzito na Sheria haijasema hivyo.</seg>
+          <seg xml:id="seg224">Je, Mheshimiwa Naibu Waziri unatoa kauli gani pale ambapo wafungwa wanapigwa na wanafanyishwa kazi nzito na Sheria haikusema hivyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u70" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg225">Mheshimiwa Mwenyekiti, Sheria ni kweli ni ya mwaka 1967 lakini nimkumbushe Mheshimiwa Mbunge, kwamba mwaka 1967 tulikuwa hatuna ukoloni tena.</seg>
+          <seg xml:id="seg226">Lakini la pili ni kwamba Sheria yenyewe haitoi haki kwa Askari yeyote wa Magereza kumpiga mfungwa. Suala la kazi nzito wakati mwingine ni sehemu ya uamuzi wa Mahakama kuambiwa afanye kazi nzito na akitoka au akiwa anaingia apate bakora hilo pengine linatekelezwa. Lakini kwa upigaji ambao siyo wa taratibu basi tunausimamia na pale inapotokea basi adhabu stahili hutolewa kwa wale Askari ambao wamevunja maadili yale. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u71" who="Mwenyekiti">
+          <seg xml:id="seg227">Tunaendelea muda wetu umekwisha, swali linalofuata Wizara hiyo hiyo, Mheshimiwa Kigola kwa niaba yake Mheshimiwa Kabati.</seg>
+        </u>
+        <note>Na. 476. Matatizo Yaliyopo Katika Kituo cha Polisi</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u72" who="Mwenyekiti">
+          <seg xml:id="seg228">Kata ya Mtwango</seg>
+        </u>
+        <note>(K.n.y. MHE MHE. MENDRAD L. KIGOLA)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u73" who="MheRittaEKabati">
+          <seg xml:id="seg229">Kituo cha Polisi kilichopo Kata ya Mtwango kibao kinahudumia sehemu kubwa sana katika Jimbo la Mufindi Kusini, lakini kina matatizo ya uchakavu wa nyumba za Askari na pia hakina gari:-</seg>
+          <seg xml:id="seg230">(a) Je, Serikali inasema nini kwa habari ya ukarabati wa nyumba za Askari wa Kituo hicho?</seg>
+          <seg xml:id="seg231">(b) Je, ni lini Serikali itakipatia kituo hicho gari kwa ajili ya shughuli zake za kiutendaji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u74" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg232">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Mendrad Lutengano Kigola, Mbunge wa Mufindi Kusini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg233">Mheshimiwa Mwenyekiti, nakubaliana na Mheshimiwa Mbunge kuwa kituo cha Polisi Kata ya Mtwango kibao kinahudumia sehemu kubwa ya Jimbo la Mufindi Kusini na kwa sasa kituo hicho hakina gari la Polisi. Kama ambavyo nimekuwa nikiliarifu Bunge lako Tukufu mara kwa mara, ni azma ya Serikali kuboresha Ofisi na makazi ya Askari. Nia hii njema ya Serikali inakwamishwa na ufinyu wa Bajeti hasa ya Fedha ya Maendeleo ambayo imekuwa inapungua mwaka hadi mwaka.</seg>
+          <seg xml:id="seg234">Mheshimiwa Mwenyekiti, katika mwaka wa Fedha 2013/2014, Wizara yangu haijatenga fedha kwa ajili ya ujenzi au ukarabati wa nyumba za askari wa kituo cha Polisi Mtwango kibao. Serikali inategemea kutumia Mpango wa Ushirikishwaji Umma (Public Private Partnership (PPP) pamoja na kuwashirikisha Sekta Binafsi ili kutatua changamoto za ukosefu na uchakavu wa nyumba kwa Jeshi la Polisi.</seg>
+          <seg xml:id="seg235">Mheshimiwa Mwenyekiti, kwa sasa Wizara yangu haitaweza kuahidi ni lini kituo cha Polisi Kibao kitapewa gari. Hali ya kifedha itakaporuhusu maombi ya Mheshimiwa Mbunge yatafanyiwa kazi. Hata hivyo, Serikali imeishatoa pikipiki moja kwa kila Tarafa ili kurahisisha huduma za Polisi maeneo hayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u75" who="MheRittaEKabati">
+          <seg xml:id="seg236">Mheshimiwa Mwenyekiti, nakushuru kwa kunipa nafasi ya kuuliza maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg237">La, kwanza, kwa kuwa, tatizo la nyumba za Askari ni tatizo la Mkoa nzima wa Iringa ni kwa nini Serikali isitumie Taasisi ya Fedha kama NSSF ili kuweza kupunguza tatizo hili kama ilivyo katika nyumba cha Chang’ombe Dar es Salaam?</seg>
+          <seg xml:id="seg238">Swali la pili, kwa kuwa, kuna baadhi ya wanasiasa ambao wamekuwa wakiwapotosha wananchi kuvunja sheria kwa makusudi na kusababisha uharibifu mkubwa sana wa mali za umma kama vile magari ya polisi, magari ya zimamoto, kuchoma mipira kwenye barabara.</seg>
+          <seg xml:id="seg239">Je, ni hatua gani anachukuliwa mwanasiasa kama huyo ili kukomesha tabia hii mbaya?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u76" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg240">Mheshimiwa Mwenyekiti, suala la makazi kama nilivyosema ni tatizo kubwa kwa nchi nzima na ni dhahiri kwamba hakuna Bajeti ambayo tunaweza tukapanga hapa katika kipindi kifupi tatizo hili likamalizika.</seg>
+          <seg xml:id="seg241">Kama nilivyokuwa nasema mara kwa mara ni kwamba kuna njia mbili tunafikiria kuzitumia ukiongeza njia ya Bajeti. Kwanza ni kuwashirikisha Umma ambao ni sehemu ya mchango wao katika kuhakikisha kwamba wanapata huduma hizi. Lakini pia tuna mazungumzo pamoja na Sekta binafsi za nje na za ndani ya nchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u77" who="Mwenyekiti">
+          <seg xml:id="seg242">Waheshimiwa Wabunge, tunaomba utulivu kidogo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u78" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg243">Nje na za ndani kuhakikisha kwamba suala la makazi ya Askari yanaboreshwa haraka inavyowezekana.</seg>
+          <seg xml:id="seg244">Mheshimiwa Mwenyekiti, kuhusu swali la wachochezi katika masuala ya kufanya vurugu na kadhalika ni kwamba hili suala limekuwa likiendelea kutolewa ufafanuzi kwamba usalama wetu kwanza. Yeyote Yule, ukubwa wowote alionao wa Chama chochote anachojiweka, tutahakikisha kwamba mkono wa sheria unampata.</seg>
+          <seg xml:id="seg245">Wakati mwingine tunalalamika kwamba Magereza wamejaa mahabusu lakini moja katika sababu za hivi karibuni ni hizi vurugu za barabarani ambazo zinafanywa. Tutajitahidi pamoja na kutoa elimu kuwatadharisha kwamba pale ambapo mambo haya ambayo siyo ya lazima yasifanyike.</seg>
+          <seg xml:id="seg246">Lakini pale yanapofanyika, nguvu za dola na maarifa zitatumika kuhakikisha kwamba nchi inapata utulivu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u79" who="MheMchPeterSMsigwa">
+          <seg xml:id="seg247">Mheshimiwa Mwenyekiti, nakushukuru sana. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, lakini Serikali imekuwa na tabia ya kusema itatengeneza maeneo ambayo Askari wanakaa. Kwa mfano, katia Jimbo langu la Manispaa ya Iringa Mjini, Askari wa Field Force pamoja na Police Line wana maisha magumu sana. Ni lini hasa Serikali itatua tatizo hili la wale Askari ambao kwa namna moja au nyingine wanafanya kazi katika mazingira magumu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u80" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg248">Mheshimiwa Mwenyekiti, katika watu ambao pengine wangesema kwamba wameona jitihada za Serikali ilikuwa awepo yeye. Kwa sababu ninachofahamu ni kwamba kulikuwa na jitihada za kuhakikisha kwamba makazi yanaboreshwa katika Jimbo lake.</seg>
+          <seg xml:id="seg249">Lakini kwa vyovyote kama nilivyosema na ninarudia kwamba tatizo hili ni kubwa na lazima tustahimili ili tuanze pamoja na tumalize pengine. Lakini naomba nimwahidi Mheshimiwa Mbunge kama ambavyo ninatakiwa niwaahidi Waheshimiwa Wabunge wengine kwamba jitihada za kuhakikisha kwamba makazi ya Askari yanaboreshwa zipo na si muda mrefu tutaziona physically kwenye maeneo yetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u81" who="MheMurtazaAMangungu">
+          <seg xml:id="seg250">Mheshimiwa Mwenyekiti, nakushukuru sana kwa kuniona. Hivi sasa kumekuwa na matukio na mengi sana ya Askari wa Barabarani kukumbwa na ajali kwenye misafara na mara nyingine hata siyo kwenye misafara. Serikali ni lini itafikiria kuwawekea bima dhidi ya majanga ya aina hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u82" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg251">Mheshimiwa Mwenyekiti, ni kweli kwamba kuna matukio ya ajali ambayo yanawasibu Askari na jitihada za kuhakikisha kwamba Bima yao kupitia Mfuko wa Bima yanaendelea na yapo kwenye hatua za mwisho. Tunategemea kwamba yatafanikiwa na kutakuwa hakuna tatizo hili any more.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u83" who="Mwenyekiti">
+          <seg xml:id="seg252">Tunaendelea na Wizara ya Afya swali la Mheshimiwa Kombo Khamis Kombo.</seg>
+        </u>
+        <note>Na. 477. Utafiti wa Ugonjwa wa Kisukari</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u84" who="MheKomboKhamisKombo">
+          <seg xml:id="seg253">Tanzania imekumbwa na ugonjwa wa kisukari kwa muda mrefu na kusababisha kupoteza maisha ya wananchi.</seg>
+          <seg xml:id="seg254">(a) Je, Serikali imefanyia utafiti jambo hili?</seg>
+          <seg xml:id="seg255">(b) Je, Serikali imetoa elimu gani kwa wananchi ili kuepuka manyemelezi ya ugonjwa huu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u85" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg256">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Afya na Ustawi wa Jamii, naomba kujibu swali al Mheshimiwa Kombo Khamis Kombo, Mbunge wa Magogoni, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg257">(a) Mheshimiwa Mwenyekiti, tafiti zilizofanyika miaka ya 1986/1987 na baadaye mwaka 1996/1997 katika Mikoa ya Dar es Salaam, Kilimanjaro, Mara, Morogoro na Mwanza na kuhusu magonjwa yasiyoambukiza kwa watu wenye umri wa miaka 15 na kuendelea, zilionyesha kuwa ugonjwa wa kisukari ulikuwa umeenea kwa asilimia 1 vijijini na asilimia 3 Jijini Dar es Salaam. Mwaka 2005, idadi hiyo ilikuwa imefikia asilimia 5 kwa wakazi wa Dar es Salaam. Utafiti wa viashiria vya magonjwa yasiyoambukiza kwa nchi nzima (Steps Survey on Non Communicable Diseases Rist Factors, 2012), umeonyesha kuwa ugonjwa wa kisukari umeenea kati ya asilimia 0.0 hadi 20.0 katika Wilaya 50 za Tanzania Bara (sawa na wastani wa asilimia 8 kwa Wilaya zote). Matokeo ya Utafiti huu yatasaidia kubuni mbinu za kudhibiti vichochezi vinavyosababisha ongezeko la ugonjwa huu na magonjwa yasiyoambukiza nchini.</seg>
+          <seg xml:id="seg258">(b) Mheshimiwa Mwenyekiti, Serikali inafahamu kuwa elimu ni kiungo muhimu katika kuongeza uelewa wa jamii kuhusu magonjwa mbalimbali. Elimu juu ya ugonjwa wa Kisukari na elimu ya afya, hutolewa kwenye hospitali mbalimbali na vituo vya kutolea huduma hapa nchini.</seg>
+          <seg xml:id="seg259">Serikali kwa kushirikiana na wadau wa afya, hutoa elimu ya ugonjwa wa Kisukari na magonjwa yasiyo ya kuambukiza kwa njia ya Televisheni, redio, magazeti, vipeperushi, t-shirts, mabango na kadhalika. Lengo ni kuelimisha na kuiwezesha jamii kuepuka athari zitokanazo na magonjwa haya.</seg>
+          <seg xml:id="seg260">Kwa kujua umuhimu wa elimu ya afya, mnamo tarehe 16 Oktoba, 2012, kupitia Mpango wa Taifa wa Kupambana na Kisukari, elimu juu ya ugonjwa wa Kisukari na magonjwa mengine yasiyo ya kuambukiza ilitolewa kwa Timu za Afya za Wilaya na Mikoa yote hapa nchini.</seg>
+          <seg xml:id="seg261">Aidha, Siku ya Kisukari duniani inayoadhimishwa tarehe 14 Novemba ya kila mwaka, Serikali huadhimisha siku hii kwa kutoa elimu kwa jamii pamoja na huduma ya upimaji wa Kisukari na magonjwa mengine yasiyo ya kuambukiza bila malipo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u86" who="MheKomboKhamisKombo">
+          <seg xml:id="seg262">Mheshimiwa Mwenyekiti, ahsante sana. Baada ya majibu ya Mheshimiwa Waziri naomba niulize maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg263">Mheshimiwa Mwenyekiti, kwa mujibu wa utafiti uliofanywa kutoka mwaka 1986/1987, 1996/1997 mpaka kufikia mwaka 2012 ni wastani wa miaka 27 na kwa mujibu wa maelezo aliyoyatoa Mheshimiwa Waziri ni kwamba waathirika wa ugonjwa wa Kisukari wametoka asilimia 0 mpaka kufikia asilimia 20 kwa wilaya 50 tu.</seg>
+          <seg xml:id="seg264">Mheshimiwa Mwenyekiti, hii ni idadi kubwa sana na mpaka leo anatuambia kwamba matokeo ya utafiti yatasaidia kubuni mbinu.</seg>
+          <seg xml:id="seg265">Miaka 27 tunaambiwa matokeo yatasaidia kubuni mbinu, ni mbinu gani ambazo zitabuniwa ili kuondoa tatizo hili kuondoa ongezeko la ugonjwa wa Kisukari, tusiambiwe yatasaidia miaka 27 yatasaidia, yatasaidia lini?</seg>
+          <seg xml:id="seg266">Suala la pili, ni kwamba Maafisa wa Afya katika Wilaya na mikoa hawawezeshwi katika kusaidia kupunguza ugonjwa huu.</seg>
+          <seg xml:id="seg267">Je, ni lini Wizara itaweka mkakati wa kuwasaidia Maafisa wa Afya wa Wilaya na Mikoa kuwapa angalau kisaidizi usafiri na fedha za kuwasaidia wananchi ili ongezeko la magonjwa ya Kisukari yaondoke katika nchi yetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u87" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg268">Mheshimiwa Mwenyekiti, survey zilizofanyika mwaka 1986/ 1987 na kwa bahati nzuri mimi mwenyewe nilishikiri katika kufanya tafiti za mwaka 1996/1997 zote vilikuwa vinaashiria uwepo na ongezeko la kukua kwa magonjwa haya na viashiria vya magonjwa yasiyoambukiza. Lakini kwa tafiti zile za mwanzo za mwaka 1986/1987 uwepo wa ugonjwa wa Kisukari ulikuwa chini ya 0.8 na kwenye baadhi ya maeneo ilikuwa asilimia moja. Ilikuwa haitoshi kuanza kuwekeza katika eneo hilo wakati ambako nchi tulikuwa na magonjwa yanayoambukiza kwa asilimia zaidi ya 90.</seg>
+          <seg xml:id="seg269">Kibiashara unaona kwamba lazima uwekeze kwenye magonjwa ambayo yanaathiri watu wengi zaidi ili angalau uweze kutoa nafuu katika maeneo ambayo yanaathiri watu wengi zaidi.</seg>
+          <seg xml:id="seg270">Lakini baada ya tafiti ya mwaka 1996 ilionyesha wazi kwamba magonjwa na viashiria hivi au vidokezo vya hatari vya uwepo wa magonjwa haya yasiyo ya kuambukizwa ikiwemo ugonjwa huu wa Kisukari umekuwa ukiongezeka na mwaka 2005/2008 kulikuwa na makongamano mbalimbali ikiwemo na Mkutano mkubwa wa Pan African Diabetic Study Group ambayo ulifanyika Dar es Salaam na baadaye Serikali kuanzisha Kitengo Maalum kwa ajili ya kudhibiti magonjwa haya yasiyoambukizwa mwaka 2008.</seg>
+          <seg xml:id="seg271">Kwa hiyo, juhudi hizi zimekuwa zikiendelea kupitia Chama cha Wagonjwa wa Kisukari kutoa elimu na kutumia vyombo vya redio kama nilivyokwishasema katika kufahamisha watu umuhimu hasa wa kuzingatia vidokezo vile vihatarishi ili angalau ugonjwa huu usiwe unaendelea.</seg>
+          <seg xml:id="seg272">Lakini sambamba na hilo Serikali imeongeza maeneo ya kutoa huduma. Tulikuwa tuna huduma za Kisukari kwenye hospitali za mikoa sasa tunazo na tuna kliniki karibu katika mikoa yote na hivyo hivyo ndivyo zilivyo kwenye hospitali zetu za wilaya kwenye baadhi ya hospitali za Wilaya tayari zimeshaanzisha huduma maalum kwa ajili ya ugonjwa hao wa Kisukari.</seg>
+          <seg xml:id="seg273">Kuhusu kuwapa uwezo Maafisa Afya Serikali inaongeza uwezo sio tu kwa Maafisa Afya, Watendaji wote kwa ujumla katika eneo la kuelimisha na kutoa elimu kwa wananchi. Lakini pia kutumia vitu hivi vya ujumla kama matangazo, redio, televisheni na mambo kama hayo ili angalau wananchi wote wawe wanapata taarifa hizi. Mara kwa mara tumekuwa tukisema umuhimu wa kufanya mazoezi, umuhimu wa kutotumia sigara, umuhimu wa kushiriki katika kupima afya yako angalau uweze kujua Blood Pressure (BP) yako ili angalau uweze kupunguza uwezekano wa kuwa na ugonjwa huu na baadaye kupata complications za ugonjwa bila wewe mwenyewe kujijua na kuweza kupata matibabu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u88" who="Mwenyekiti">
+          <seg xml:id="seg274">Waheshimiwa Wabunge maswali yetu yamekwisha na muda umekwisha. Sasa nichukue nafasi hii kutangaza wageni ambao wapo kwenye Bunge letu leo hii asubuhi.</seg>
+          <seg xml:id="seg275">Wageni waliofika Bungeni kwa ajili ya mafunzo wanafunzi 70 wa Shule ya Msingi Amana ya Dar es Salaam, karibuni sana. Wanafunzi 40 kutoka Chuo cha Biashara (CBE) - Dodoma, ahsanteni.</seg>
+          <seg xml:id="seg276">Wageni wa Waheshimiwa Wabunge. Wageni sita (6) wa Waheshimiwa Wabunge wa Geita. Mwenyekiti wa Halmalshauri ya Wilaya ya Geita, Mheshimiwa Diwani kutoka Kata ya Bungwangoko na vijana 4 wa TLS Bendi ya Dodoma, pamoja na Mwenyekiti wa Chama cha Mapinduzi ya Wilaya ya Geita. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u89" who="Mwenyekiti">
+          <seg xml:id="seg277">Wageni wa Mheshimiwa Luhaga Joelson Mpina, ni Kelvin Nyamori Mwenyekiti wa CCM Tawi la Afrika Kusini. Karibuni sana. Jeremiah Mange Shingala, Katibu Mwenezi wa CCM, mkoa wa Simiyu na Diwani wa Halmashauri ya Maswa. Karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u90" who="Mwenyekiti">
+          <seg xml:id="seg278">Sasa nina wageni wa Mheshimiwa Prof. Jumanne Maghembe na Mheshimiwa Adam Malima ambaye ni Madam Stella Thomas, Mwanzilishi na Mkurugenzi Mtendaji wa Mfuko wa Maji wa Dunia. Welcome to the Parliament Madam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u91" who="Mwenyekiti">
+          <seg xml:id="seg279">Tangazo la Kikao cha Kamati ya Uchumi, Viwanda na Biashara. Mheshimiwa Mahmoud Mgimwa, anawatangazia Wajumbe wa Kamati ya Bunge ya Uchumi, Viwanda na Biashara kuwa leo tarehe 26 Juni, 2013 saa 7.00 mchana kutakuwa na Kikao cha Kamati hiyo. Kikao hicho kitafanyika katika Ukumbi Namba 227 ghorofa ya pili (2).</seg>
+          <seg xml:id="seg280">Mheshimiwa Victor Mwambalaswa, Mwenyekiti wa Kamati ya Bunge ya Nishati na Madini anaomba kuwatangazia Wajumbe wa Kamati ya Nishati na Madini, kuwa leo tarehe 26 saa 7.15 mchana kutakuwa na Kikao cha Kamati, Kikao hicho kitafanyika katika ukumbi wa Basement.</seg>
+          <seg xml:id="seg281">Mheshimiwa Magdalena Sakaya, Mbunge na Katibu wa Chama cha CUF anaomba kuwatangazia Waheshimiwa Wabunge wote wa CUF wanatakiwa kuhudhuria kikao kitakachofanyika leo tarehe 26 Juni, 2013 baada ya Kuahirishwa kwa Kikao cha Bunge kwenye Ukumbi wa Basement wote wafike bila kukosa.</seg>
+          <seg xml:id="seg282">Mheshimiwa Riziki Lulida, Mbunge Mwenyekiti wa TAPAMA anaomba kuwatangazia Wajumbe wote wa Kamati Tendaji wa Chama cha Wabunge Wanaopambana na Malaria, Kamati za Huduma za Jamii, Kamati za Hesabu za Serikali za Mitaa, Kamati ya Serikali za Mitaa, TAMISEMI kuwa leo saa 7.00 mchana, kutakuwa na Semina itakayohusu Malaria katika ukumbi wa Msekwa.</seg>
+          <seg xml:id="seg283">Wajumbe wote wa Kamati hizo tatu wanaalikwa ili kushiriki Semina hiyo muhimu iliyoandaliwa na TAPAMA kwa ushirikiano na John Hope Kins, University.</seg>
+          <seg xml:id="seg284">Mheshimiwa Jenista Mhagama anapenda kuwatangazia Waheshimiwa Wabunge wote wa Chama cha Mapinduzi (CCM) siku ya Jumamosi, tarehe 29 Juni, 2013 kutakuwa na Kikao muhimu sana cha chama saa 4.00 asubuhi, Ukumbi wa Pius Msekwa. Anaomba inasisitizwa Wabunge wote mhudhurie na msiondoke kwenda kwenye majimbo yenu, mpaka mhudhurie kikao hiki.</seg>
+          <seg xml:id="seg285">Uchaguzi wa Wajumbe Kwenye Baraza la Chuo</seg>
+          <seg xml:id="seg286">Kikuu cha Mzumbe</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u92" who="NduguJohnJoelKaimuKatibuWaBunge">
+          <seg xml:id="seg287">Waheshimiwa Wabunge kama nilivyowatangazia tarehe 20 Juni, 2013 leo Jumatano, tarehe 26 Juni, 2013 kama Order Paper inavyoonyesha, kutakuwa na Uchaguzi wa wawakilishi wawili katika Baraza la Chuo Kikuu cha Mzumbe, ambao ni mwanaume na mwanamke.</seg>
+          <seg xml:id="seg288">Hivyo basi hadi kufikia muda wa mwisho wa kurudisha fomu hizo siku ya Jumanne, tarehe 25 Juni, 2013 saa kumi jioni Wabunge waliokuwa wamejitokeza kuchukua fomu na kuzirejesha ni kama ifuatavyo. Kwanza ni Mheshimiwa Martha Jachu Umbulla na wa pili ni Mheshimiwa Eng. Mohamed Habib Juma Mnyaa.</seg>
+          <seg xml:id="seg289">Waheshimiwa Wabunge kwa mujibu wa utaratibu ambao Bunge hili Tukufu limejiwekea wagombea hawa wamepita bila ya kupingwa. Hivyo napenda kuwatangazia rasmi kuwa Wabunge hawa ndio wawakilishi wa Bunge letu katika Baraza la Chuo cha Mzumbe, naomba kuwasilisha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u93" who="Mwenyekiti">
+          <seg xml:id="seg290">Nakushukuru sana. Katibu hebu mliopitishwa simameni kwenye viti vyenu, Mheshimiwa Umbulla aah! Tunawapongeza kaeni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u94" who="Mwenyekiti">
+          <seg xml:id="seg291">KAULI ZA MAWAZIRI</seg>
+          <seg xml:id="seg292">Kuibuka kwa Magonjwa ya Mazao Mbali Mbali na Hasa Ugonjwa Mpya wa Mahindi Nchini Ujulikanao Maize Lethal</seg>
+          <seg xml:id="seg293">Necrosis Disease</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u95" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg294">Mheshimiwa Mwenyekiti, kwa mujibu wa Kanuni ya Bunge Na. 49 (1) - (3) ya Kanuni za Kudumu za Bunge Toleo la 2003, nakushukuru kwa kunipa nafasi ya kutoa kauli ya Serikali kuhusiana na kuibuka kwa magonjwa ya mazao mbalimbali na hasa ugonjwa mpya wa mahindi nchini unaojulikana kwa jina la „Maize Lethal Necrosis Disease”</seg>
+          <seg xml:id="seg295">Mheshimiwa Mwenyekiti, nachukua fursa hii kuliarifu Bunge lako tukufu kuwa nchi yetu imekumbwa na ugonjwa mpya unaoathiri mahindi. Ugonjwa huu unajulikana kama „Maize Lethal Necrosis Disease” (MLND). Ugonjwa huu ulionekana nchini Kenya mnamo mwezi Septemba, 2011 katika jimbo la Bomet lililopo katika bonde la Ufa. Baada ya taarifa hiyo Wizara ilianza kuchukua tahadhari na kuufuatilia kwa karibu.</seg>
+          <seg xml:id="seg296">Mwezi Agosti, 2012, watafiti wa mahindi wakiwa kwenye shughuli za kawaida za tathmini ya utafiti kwenye mashamba ya wakulima, walibaini mahindi yenye dalili za ugonjwa huu katika maeneo ya Mlangariri katika wilaya ya Arusha na Mbulumbulu Wilayani Karatu.</seg>
+          <seg xml:id="seg297">Baada ya hapo kikundi kazi kiliundwa ili kufanya tathmini (survey) kwenye maeneo ya wilaya za mikoa ya Kanda ya Kaskazini inayopakana na nchi ya Kenya.</seg>
+          <seg xml:id="seg298">Katika tathmini hiyo, sampuli za mahindi yenye dalili za ugonjwa huo zilikusanywa na kupelekwa katika maabara. Matokeo ya uchunguzi huo yalionyesha kuwepo kwa ugonjwa huo na tayari umethibitishwa kuwepo katika mikoa ya Manyara, Simiyu, Mara, Arusha na Kilimanjaro.</seg>
+          <seg xml:id="seg299">Ugonjwa huu husababishwa na uwepo wa virusi vya aina mbili kwa pamoja ndani ya mmea wa mhindi. Muungano wa Virusi hivi ndani ya mhindi unahusisha virusi vijulikanavyo kwa jina la kitaalamu „Maize Chlorotic Mottle Virus” (MCMV) vikiwa kwa pamoja na „Sugarcane Mosaic Virus” (SCMV). Hii inamaanisha kwamba, uwepo wa aina moja peke yake baina ya virusi hivi ndani ya mhindi hakusababishi kutokea kwa ugonjwa huu.</seg>
+          <seg xml:id="seg300">Mheshimiwa Mwenyekiti, Tafiti zimebainisha kwamba ugonjwa huu husambaa kwa haraka kwa kuwa virusi vinavyosababisha ugonjwa huu vinaenezwa na wadudu wasambazaji (vectors) kama vile vidukari (aphids), dudugamba (beetles) na vithiripi (thrips). Wadudu hawa wanapeperushwa kirahisi na upepo kwa umbali mrefu na hivyo hatari ya ugonjwa huu kuenea katika maeneo mengi nchini ni kubwa.</seg>
+          <seg xml:id="seg301">Mheshimiwa Mwenyekiti, dalili na athari za ugonjwa huu. Ugonjwa huu huathiri mahindi katika hatua zote za ukuaji na dalili zinaanza wakati yanapofika urefu wa sentimeta 60. Dalili hizo ni pamoja na zifuatazo:-</seg>
+          <seg xml:id="seg302">1. Mmea mchanga unaposhambuliwa, majani yaliyoko katika ncha ya mmea maarufu kama moyo wa mahindi hufa (dead heart), na hivyo kusababisha mmea mzima kufa.</seg>
+          <seg xml:id="seg303">2. Majani ya juu kugeuka manjano na hatimaye hukauka kuanzia sehemu ya kati kuelekea pembezoni na kisha kugeuka rangi ya kahawia.</seg>
+          <seg xml:id="seg304">3. Majani huendelea kukauka kuelekea kwenye shina.</seg>
+          <seg xml:id="seg305">4. Ugonjwa huu ukiendelea sana shina na vifundo hukauka na kuwa rangi ya kahawia.</seg>
+          <seg xml:id="seg306">5. Mahindi yaliyoshambuliwa huzaa machipukizi.</seg>
+          <seg xml:id="seg307">6. Mbelewele hukosa chamvuo hivyo mmea kutozaa.</seg>
+          <seg xml:id="seg308">7. Baada ya kuathirika kwa kiasi kikubwa na ugonjwa huu, mahindi hushambuliwa na ugojwa wa ukungu.</seg>
+          <seg xml:id="seg309">8. Mahindi yaliyoshambuliwa huwa na magunzi madogo yenye mbegu chache au hayaweki mbegu kabisa.</seg>
+          <seg xml:id="seg310">Kasi ya mashambulizi ya ugonjwa huu na uharibifu unaweza kuwa mkubwa kiasi cha kufikia hadi hasara ya asilimia mia (100%).</seg>
+          <seg xml:id="seg311">Mheshimiwa Mwenyekiti, hatua zinazochukuliwa na Serikali kukabiliana na ugonjwa huu. Baada ya kupata taarifa ya kuwepo kwa ugonjwa huu katika nchi jirani ya Jamhuri ya Kenya, na maeneo ya kaskazini mwa Tanzania yanayopakana na Kenya, hatua zifuatazo zimechukuliwa na zinaendelea kuchukuliwa na Wizara:-</seg>
+          <seg xml:id="seg312">(a) Kuelimisha umma namna ya kutambua na kuudhibiti ugonjwa. Hatua za awali zilizochukuliwa ni pamoja na kufanya mikutano ya hadhara na wadau mbalimbali, kusambaza vipeperushi na mabango na kutoa taarifa magazetini.</seg>
+          <seg xml:id="seg313">Aidha, wananchi wataendelea kuelimishwa kupitia vipindi vya Radio, Luninga na, kutoa mafunzo maalum kwa maafisa ugani vijijini.</seg>
+          <seg xml:id="seg314">(b) Wizara kwa kusirikiana na Ofisi ya Mwanasheria Mkuu wa Serikali imekamilisha Kanuni za kuzuia na kudhibiti ugonjwa huu (Prevention and Control Rules for Maize Lethal Necrosis Disease). Kanuni hizi zinaelekeza kutosafirisha mahindi kutoka maeneo yaliyoathirika kwenda maeneo ambayo hayakuathirika yakiwa katika hali ya punje bali yakiwa yamesagwa na kusafirishwa yakiwa katika hali ya unga.</seg>
+          <seg xml:id="seg315">Aidha, mtu yeyote atakayekiuka utekelezaji wa Kanuni hizi atachukuliwa hatua za kisheria kwa mujibu wa sheria ya Hifadhi ya Mimea ya mwaka 1997, ikiwa ni pamoja na kuteketezwa kwa mahindi yatakayokamatwa kwa gharama za muhusika.</seg>
+          <seg xml:id="seg316">(c) Kuendelea kufanya uchunguzi (survey) wa kitaifa ili kufahamu kiwango na maeneo yaliyoathirika na athari kwenye aina za mahindi yanayolimwa.</seg>
+          <seg xml:id="seg317">(d) Kutafiti ili kugundua aina za mbegu za mahindi zenye ukinzani, na kupendekeza Udhibiti Husishi wa ugonjwa huu (Integrated Pest Management).</seg>
+          <seg xml:id="seg318">(e) Wizara kupitia Kituo cha Utafiti Mikocheni imewaongezea watafiti uwezo wa kufanya uchunguzi na utambuzi wa haraka kwa kununua VIFAA VYA UTAMBUZI (Identification kit).</seg>
+          <seg xml:id="seg319">Mheshimiwa Mwenyekiti, Mbinu za Kukabiliana na ugonjwa huu. Kuna mbinu zinazoweza kutumika kama tahadhari katika kukabiliana na ugonjwa huu ingawa hazitamaliza tatizo hili kabisa nazo ni kama zifuatazo:-</seg>
+          <seg xml:id="seg320">(i) Kupanda mbegu safi zilizothibitishwa ubora wake na Taasisi ya udhibiti wa ubora wa mbegu.</seg>
+          <seg xml:id="seg321">(ii) Kudhibiti wadudu wanaosambaza ugonjwa huu kwa kupiga viuatilifu mahindi yanapokuwa shambani wakati yamefikia sentimita 60.</seg>
+          <seg xml:id="seg322">(iii) Kung‘oa mmea wowote unaoonyesha dalili za ugonjwa huu na kuuteketeza.</seg>
+          <seg xml:id="seg323">(iv) Kufanya kilimo cha mzunguko kwa kubadilisha mazao ili kuvunja uzazi mzunguko wa virusi.</seg>
+          <seg xml:id="seg324">(v) Kupanda mahindi mapema mwanzoni mwa msimu wa mahindi na kuhuisha mbinu za usafi wa shamba kwa kuondoa magugu yote.</seg>
+          <seg xml:id="seg325">(vi) Shambani na kuongeza uhimili wa mmea dhidi ya ugonjwa kwa kutumia mbolea kwa vipimo sahihi na kwa wakati.</seg>
+          <seg xml:id="seg326">(vii) Kutekeleza Sheria ya Hifadhi ya Mimea ya mwaka 1997 na kanuni zake za mwaka 1998.</seg>
+          <seg xml:id="seg327">Mheshimiwa Mwenyekiti, pamoja na hatua zilizokwishachukuliwa na Wizara ya Kilimo Chakula na Ushirika, unashauriwa kwamba suala la kutekeleza mbinu za kukabiliana na ugonjwa huu lichukuliwe kwa umuhimu unaostahili na wadau wote ili ugonjwa huu usisababishe janga la kitaifa.</seg>
+          <seg xml:id="seg328">Aidha ninapenda kuliarifu Bunge lako Tukufu kwamba, Wizara yangu imetayarisha vipeperushi vinavyoelezea ugonjwa huu ambavyo vimegawanywa kwa kila Mheshimiwa Mbunge.</seg>
+          <seg xml:id="seg329">Mheshimiwa Mwenyekiti, Nakubaliana na Mheshimiwa Athumani Rashid Mfutakamba (MB) kwamba ni kweli nchi yetu imekumbwa na kasi kubwa ya milipuko ya magonjwa ya mazao mbalimbali yakiwemo muhogo, migomba, na mahindi.</seg>
+          <seg xml:id="seg330">Magonjwa mbali mbali ya mazao yanasababishwa aidha na bakteria, virusi au ukungu. Magonjwa hayo ni pamoja na Unyanjano wa migomba (batobato kali ya muhogo michirizi kahawia ya muhogo na Maize Lethal Necrosis Disease” (MLND).</seg>
+          <seg xml:id="seg331">Mheshimiwa Mwenyekiti, Virusi na bacteria husambazwa na wadudu mbalimbali kwa mfano dudugamba (Beetles), Aphids, Thrips nk. Wadudu hawa wanaruka na wanaotambaa na hupeperushwa na upepo umbali mrefu. Hata hivyo, magonjwa haya yameingia nchini katika vipindi tofauti. Serikali inaendelea kuchukua hatua za muda mfupi na mrefu ili kudhibiti kuenea kwa magonjwa hayo ya mimea.</seg>
+          <seg xml:id="seg332">Mheshimiwa Mwenyekiti, Napenda kutoa maelezo mafupii kuhusu wadudu aina ya vidukari (aphids), (beetles) na vithiripi (thrips). Wadudu hawa hawasababishi sumu kuvu (aflatoxin) katika mazao, ila sumu Kuvu inasababishwa na vimelea vya ukungu vinavyojulikana kwa jina la kitaalamu kama Aspergillus flavus. Vimelea hivi vipo ardhini na mbegu zake (spores) zipo hewani. Mmea unapoathiriwa na virusi vinavyoenezwa na vidukari na vithiripi na kudhoofika ni rahisi vimelea vya ukungu kuingia na kuathiri mimea.</seg>
+          <seg xml:id="seg333">Mheshimiwa Mwenyekiti, Tatizo la aflatoxin siyo geni hapa nchini hususan kwenye mazao ya karanga na mahindi, hii inatokana na hali ya kuhifadhiwa katika hali isiyo bora.</seg>
+          <seg xml:id="seg334">Katika kulishughulikia suala hili Wizara ya Kilimo Chakula na Ushirika, inashirikiana na wadau wa ndani na wa Kimataifa ikiwemo Wizara ya Afya na Ustawi wa Jamii, Wizara ya Viwanda na Biashara Wizara ya mifugo na maendeleo ya Uvuvi, TAMISEMI na Shirika la viwango la Taifa (TBS) katika kuweka mkakati wa kupunguza sumu kuvu katika vyakula.</seg>
+          <seg xml:id="seg335">Kazi kubwa inayofanyika ni kuhamasisha wananchi walijue tatizo la sumu kuvu na jinsi watakavyodhibiti. Uhamasishaji unafanywa kwa kutoa vipindi kupitia luninga na radio, vipeperushi ili kueleza athari za sumu kuvu na jinsi ya kudhibiti vimelea hivi kuanzia shambani, hadi kwa mlaji.</seg>
+          <seg xml:id="seg336">Mheshimiwa Mwenyekiti, kama nilivyoeleza awali, njia za kudhibiti ni pamoja na kufuata kanuni bora za kilimo na kukausha mazao vizuri kabla ya kuyahifadhi. Kwa kuwa tatizo hili linaweza kuondolewa kwa kufuata kanuni bora za kilimo na kuhifadhi, tunaamini kwamba mkakati huu wa kuongeza uelewa utasaidia sana kupunguza tatizo hili kama tunavyofanya kwa ugonjwa wa UKIMWI.</seg>
+          <seg xml:id="seg337">Mheshimiwa Mwenyekiti, kuendelea kuibuka kwa magonjwa ya mazao mbali mbali ya chakula na biashara, husababishwa na mambo yafuatayo:-</seg>
+          <seg xml:id="seg338">(a) Mabadiliko ya tabia nchi ambayo husababisha kubadilika kwa tabia za visumbufu na hivyo kusababisha kuenea kwa visumbufu hivyo pamoja na ugumu katika kuyadhibiti.</seg>
+          <seg xml:id="seg339">(b) Kuongezeka kwa biashara za mazao/mimea kati ya nchi na nchi, ambapo mazao hayo huweza kuambatana na visumbufu visivyoonekana kwa macho na hivyo kuwa rahisi kwa ugonjwa kuweza kuingia nchini.</seg>
+          <seg xml:id="seg340">(c) Wasafiri kutozingatia sheria za uingizaji wa mimea na mazao na hivyo kubeba vitu hivyo kwa kificho.</seg>
+          <seg xml:id="seg341">Mheshimiwa Mwenyekiti, Hapo awali nimeeleza hatua zinazochukuliwa na Serikali kudhibiti ugonjwa mpya wa „Maize Lethal Necrosis“. Sasa naomba nieleze hatua zinazochukuliwa kudhibiti magonjwa mengine ambayo yamekuwepo hapa nchini.</seg>
+          <seg xml:id="seg342">Mheshimiwa Mwenyekiti, Wizara ilipata taarifa ya kuwepo ugonjwa wa mnyanjano wa migomba katika nchi jirani ya Uganda, na kuanza kuchukua hatua za kudhibiti ugonjwa huu mara moja. Njia hizo ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg343">(a) Quarantine ya kuzuia migomba kuingia kutoka Uganda iliwekwa.</seg>
+          <seg xml:id="seg344">(b) Elimu ilitolewa kwa maafisa mpakani pamoja na Halmashauri juu ya ugonjwa huu.</seg>
+          <seg xml:id="seg345">(c) Wilaya ambazo ziko mpakani na nchi ya Uganda (Wilaya za Karagwe, Misenyi na Bukoba Vijijini) ziliunda kamati za kudhibiti ugonjwa huu katika Vijiji vilivyoko mipakani.</seg>
+          <seg xml:id="seg346">(d) Vipeperushi vinavyoelimisha namna ya kutambua, kujikinga na kudhibiti ugonjwa huu na sheria ya karantini viligawiwa katika ngazi ya Mkoa na Wilaya za Bukoba Vijijini na Karagwe.</seg>
+          <seg xml:id="seg347">(e) Wataalam waliendelea kutembelea Wilaya za Bukoba Vijijini na Karagwe kuchunguza kama ugonjwa huu umeingia na kuwaelimisha wananchi.</seg>
+          <seg xml:id="seg348">Mheshimiwa Mwenyekiti, Baada ya ugonjwa huo kuingia nchini, wataalamu wa Wizara pamoja na wale waliopo katika kituo cha Utafiti Maruku- Bukoba, walichukua hatua madhubuti juu ya kuwasaidia wananchi wa Mikoa ya Kagera, Mara, Mwanza, Geita na Kigoma kuweza kukabiliana ugonjwa huu kama ifuatavyo:-</seg>
+          <seg xml:id="seg349">(i) Kutoa elimu juu ya kudhibiti ugonjwa wa unyanjano wa migomba. Elimu hiyo ilitolewa kwa wataalamu (Wagani) wote mkoani Kagera. Vilevile elimu ilitolewa kupitia mikutano ya vijiji, radio, Televisheni, magazeti na video kwa wananchi wa Mkoa wa Kagera.</seg>
+          <seg xml:id="seg350">(ii) Machapisho ya vitini, majarida na vipeperushi vyenye ujumbe wa jinsi ugonjwa unavyoenea na namna ya kudhibiti magonjwa husika vimetengenezwa na kusambazwa kwa wananchi mkoani kupitia maonyesho au sherehe za Nanenane, siku za wakulima (Farmer Field Days), Mashamba Darasa (Farmer Field Schools) na mikutano ya hadhara.</seg>
+          <seg xml:id="seg351">(iii) Kamati za kuhamasisha na kusimamia udhibiti wa ugonjwa wa unyanjano wa migomba (Mnyauko Bacteria- BXW) ziliundwa katika Wilaya za Muleba (Kata ya Ijumbi) na Bukoba (Kata ya Ruhunga) kama mfano wa namna jamii inavyoweza kupambana na ugonjwa huu. Katika Wilaya ya Muleba, kijiji cha Kabale ambako ugonjwa huu ulianzia walifanikiwa kudhibiti ugonjwa huu mwanzoni na sababu zilizopelekea mafanikio ni ushirikiano thabiti wa wahusika wote.</seg>
+          <seg xml:id="seg352">(iv) Tangu mwaka wa 2009, Kituo cha Utafiti wa Kilimo cha Maruku kilianzisha shamba la mbegu mama la migomba Mbegu hizi husambazwa kwenye hatua ya pili ya uzalishaji wa mbegu (secondary nurseries) katika Wilaya zote za Mkoa wa Kagera na Kibondo Mkoani Kigoma.</seg>
+          <seg xml:id="seg353">Pia kituo kimefundisha wakulima njia ya haraka, rahisi na nyepesi ya kuanzisha kitalu cha mgomba katika Wilaya za Missenyi, Muleba, Ngara na Bukoba. Pia katika Wilaya hizi, Mashamba ya Mfano (banana demostrations) yamepandwa katika vijiji 15 chini ya usimamizi wa watafiti wa zao hili.</seg>
+          <seg xml:id="seg354">Pamoja na juhudi zinazofanywa na Wizara ya Kilimo na Taasisi zake, Wilaya ambako ndiko Waheshimiwa Wabunge mliko, zina jukumu kubwa kuhakikisha kuwa zinasimamia mapendekezo ya kitaalamu yaliyotolewa kama nilivyoainisha hapo juu. Tuna ushahidi unaonyesha kwamba pale ambapo usimamizi umefanywa vizuri, ugonjwa huu ulipungua kwa kiwango kikubwa sana.</seg>
+          <seg xml:id="seg355">Mheshimiwa Mwenyekiti, Ugonjwa wa bato bato kali katika zao la muhogo, ulitokea nchi ya jirani. Juhudi kubwa ilifanywa na inaendelea kufanywa na Wizara katika kupata suluhisho la ugonjwa huu. Wizara kupitia vituo vyake vya utafiti inaendelea kufanya utafiti wa mbegu kinzani dhidi ya ugonjwa wa batobato kali ya muhogo na tumefanikiwa kutoa mbegu bora nane (8) kwa ajili ya Kanda ya ziwa ambazo ni kinzani dhidi ugonjwa huu. Aina ya mbegu hizi ni Mkombozi, Meremeta, Kyaka, Isanzu, Rangimbili, Nyakafuro, Belinde na Suma.</seg>
+          <seg xml:id="seg356">Pia uzalishaji wa mbegu kinzani dhidi ya ugonjwa huu unaendelea katika vituo vya utafiti vya Maruku na Ukiriguru. Pia mwaka jana mbegu nyingine 2 zinazovumilia ugonjwa huu zilitolewa kwa ajili ya Kanda ya Kati ambazo ni Dodoma na Makutopora. Mbegu hizi zinazalishwa katika kituo cha utafiti Homboro na Jitihada za kuzisambaza zinaendelea.</seg>
+          <seg xml:id="seg357">Mheshimiwa Mwenyekiti, Zao la muhogo limekuwa likikabiliwa pia na ugonjwa wa michirizi ya kikahawia yaani Cassava Brown Streak Disease. Ugonjwa huu unaathiri zao la muhogo katika ukanda wa Pwani hususani katika mikoa ya</seg>
+          <seg xml:id="seg358">Tanga, Pwani, Dar-es-Salaam, Lindi na Mtwara na umekuwa ukienea katika maeneo mbalimbali yanayolimwa muhogo kama kanda ya ziwa na nyanda za juu kusini. Wizara kupitia vituo vyake vya utafiti pamoja na mashirika ya kimataifa ya utafiti kama IITA inaendelea kufanya utafiti wa kugundua mbegu kinzani dhidi ya ugonjwa huu.</seg>
+          <seg xml:id="seg359">Kwa mfano, mwaka jana, Wizara ilifanikiwa aina mbili za mbegu ambazo ni Pwani na Mkumba zinazostahimili ugonjwa huu. Mbegu hizi kwa sasa zinazalishwa katika kituo cha utafiti cha Naliendele ili zisambazwe kwa wakulima.</seg>
+          <seg xml:id="seg360">Mheshimiwa Mwenyekiti,Katika zao la kahawa, kumekuwa na magonjwa ya chulebuni (CBD), na kutu ya majani katika kahawa aina ya Arabika. Vile vile kumekuwa na tatizo la mnyauko fuzari katika kahawa aina ya robusta.</seg>
+          <seg xml:id="seg361">Wizara kwa kushirikiana na wadau wa zao la kahawa, kupitia Taasisi ya utafiti wa kahawa (TaCRI) ilifanya utafiti na kugundua aina 15 za kahawa ya arabika zenye ukinzani na chulebuni na kutu ya majani, na aina 4 za kahawa ya robusta zenye ukinzani dhidi ya mnyauko fuzari wa kahawa. Kwa sasa Taasisi ya utafiti wa kahawa (TaCRI) kwa kushirikiana na Halmashauri za Wilaya inaendelea kuzalisha miche bora ya aina hizo na kuisambaza kwa wakulima.</seg>
+          <seg xml:id="seg362">Mheshimiwa Mwenyekiti, Hatua za kati na muda mrefu zinazochukuliwa na wizara ni pamoja na utafiti wa mbegu kinzani zinazoweza kuhimili magonjwa ikiwemo kutumia njia za bioteknologia. Jukumu la kutumia mbinu zinazoshauriwa na wataalam katika kudhibiti magonjwa haya si la Serikali tu, bali ni la wadau wote mkiwemo Waheshimiwa Wabunge, Halmashauri za Wilaya na wakulima kwa ujumla.</seg>
+          <seg xml:id="seg363">Mheshimiwa Mwenyekiti, naomba kuliarifu Bunge lako Tukufu kwamba magonjwa ya mimea niliyotaja yapo na kwamba Serikali inaendelea kuchukua hatua za kutokomeza magonjwa hayo ili kupunguza athari kwenye mazao yetu. Aidha nasisitiza kwamba hatua nyingine zinazochukuliwa ni za Utafiti wa Kisayansi na mara nyingine zinachukua muda mrefu kuliko matarajio ya watu. Nawaomba Waheshimiwa Wabunge na Wananchi kuwa watulivu na kufuata maelekezo wanayopewa na Wataalamu wa Kilimo na Wizara yangu itakuwa inatoa taarifa ya maendeleo ya utafiti wa njia za kutokomeza magonjwa ya mimea. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u96" who="WaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg364">Mheshimiwa Mwenyekiti, Naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u97" who="Mwenyekiti">
+          <seg xml:id="seg365">Nakushukuru sana Mheshimiwa Waziri. Katibu tuendelee.</seg>
+          <seg xml:id="seg366">MISWADA YA SHERIA YA SERIKALI</seg>
+          <seg xml:id="seg367">Muswada wa Sheria ya Kuidhinisha Matumizi ya Serikali Kwa Mwaka 2013 (The Appropriation Bill, 2013)</seg>
+          <seg xml:id="seg368">Waheshimiwa Wabunge, Kamati ya Bunge ya Bajeti imeupitia Muswada wa Sheria ya Kuidhinisha Matumizi ya Serikali wa Mwaka 2013 (The Appropriation Bill, 2013).</seg>
+          <seg xml:id="seg369">Kwa nia ya kujiridhisha kuhusu mgawanyo wa fedha za Bajeti ya Serikali kulingana na maafikiano Kati ya Bunge na Serikali.</seg>
+          <seg xml:id="seg370">Naomba kuwajulisha kwamba Kamati imejiridhisha kuwa fedha zote zimetengwa kama zilivyopitishwa Bunge tarehe 24 Juni, 2013. Naomba kuwasilisha. Katibu.</seg>
+        </u>
+        <note>(Kusomwa Mara ya Kwanza)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u98" who="Mwenyekiti">
+          <seg xml:id="seg371">Muswada wa Sheria ya Kuidhinisha Matumizi ya</seg>
+          <seg xml:id="seg372">Serikali Kwa Mwaka 2013 (The Appropriation</seg>
+          <seg xml:id="seg373">Bill, 2013)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u99" who="Mwenyekiti">
+          <seg xml:id="seg374">Muswada wa Sheria ya Kuidhinisha Matumizi ya</seg>
+          <seg xml:id="seg375">Serikali Kwa Mwaka 2013 (The Appropriation</seg>
+          <seg xml:id="seg376">Bill, 2013)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Tatu)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u100" who="Mwenyekiti">
+          <seg xml:id="seg377">(Muswada wa Sheria ya Serikali Ulisomwa Mara ya</seg>
+          <seg xml:id="seg378">tatu na Kupitishwa)</seg>
+          <seg xml:id="seg379">Waheshimiwa Wabunge, hatua zote za Muswada huu zimekamilika. Hivyo nasitisha shughuli za Bunge mpaka saa kumi na moja jioni.</seg>
+          <seg xml:id="seg380">(Saa 4. 52 Asubuhi Bunge lilisitishwa</seg>
+          <seg xml:id="seg381">Mpaka Saa 11.00 jioni)</seg>
+        </u>
+        <note>(Saa 11.00 jioni Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u101" who="Mwenyekiti">
+          <seg xml:id="seg382">Waheshimiwa Wabunge tukae. Leo mchana wakati nasitisha shughuli za Bunge hadi saa 11.00 jioni tulitegemea kwamba kungekuwepo na shughuli za nyongeza ambazo zimebakia kukamilisha mchakato wa Bajeti ambayo tunaendelea nayo shughuli hiyo na kutunga Sheria ya Fedha (The Finance Bill). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u102" who="Mwenyekiti">
+          <seg xml:id="seg383">Waheshimiwa Wabunge, hadi tunakuja Bungeni Kamati ya Bajeti bado inaendelea na uchambuzi wa Muswada wa Fedha uliowasilishwa Bungeni na Kusomwa kwa mara ya Kwanza.</seg>
+          <seg xml:id="seg384">Kwa kuwa Muswada huu unahusu kutunga Sheria ya kutoza kodi ni busara kuwapa muda wa kutosha Kamati ya Bajeti ambayo imetufanyia kazi nzuri tangu tuanze Mkutano huu ili wafanye kazi ya uchambuzi kwa umakini. Ili tusitunge Sheria ambazo haziwezi kutekelezeka kwa kuifanya Serikali kushindwa kukusanya mapato ambayo yatawezesha utekelezaji wa matumizi ambayo tumeidhinisha leo kwa kupitisha Muswada wa Fedha za Matumizi (Appropriation Bill).</seg>
+          <seg xml:id="seg385">Hivyo naliahirisha Bunge hadi kesho siku ya Alhamishi Saa Tatu Asubuhi. Naomba Wabunge wote wanaweza kuendelea na vikao vyao vya Kamati zao kama ilivyopangwa mchana. Kesho Maswali kwa Waziri Mkuu hayatakuwepo kutokana na Waziri Mkuu mwenyewe kutokuwepo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u103" who="Mwenyekiti">
+          <seg xml:id="seg386">Kwa hiyo, nasitisha shughuli za Bunge mpaka kesho saa tatu asubuhi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2013-06-26-bunge-11-57.u104" who="Mwenyekiti">
+          <seg xml:id="seg387">(Saa 11.03 jioni Bunge liliahirishwa Mpaka</seg>
+          <seg xml:id="seg388">Siku ya Alhamisi,tarehe 27 Juni, 2013 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

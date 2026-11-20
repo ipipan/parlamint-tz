@@ -1,0 +1,921 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2021-06-25) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2021-06-25) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="59">59. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="3">3. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1634035431-25 JUNE, 2021.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2021-06-25">25.06.2021</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u1" who="Spika">
+          <seg xml:id="seg1">Maswali, tutaanza na Mheshimiwa Askofu Josepat Mathias Gwajima, Mbunge wa Kawe.</seg>
+        </u>
+        <note>Na. 490. Kuzipandisha hadhi Barabara za Jimbo la Kawe</note>
+        <note>K.n.y. MHE. ASKOFU JOSEPHAT M. GWAJIMA</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u2" who="MheRashidAShangazi">
+          <seg xml:id="seg2">Je, Serikali haioni kuwa ni wakati muafaka wa kuzipandisha hadhi barabara za ndani za Jimbo la Kawe ili zihudumiwe na TANROADS kwa kuwa uwezo wa TARURA kuhudumia ni kilometa 120 wakati Jimbo lina barabara zenye jumla ya kilometa 1,463?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u3" who="Spika">
+          <seg xml:id="seg3">Majibu ya swali hili Mheshimiwa Naibu Waziri, TAMISEMI, Mheshimiwa David Silinde, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u4" who="NaibuWaziriOfisiYaRaisTawalaZaMitaaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg4">Mheshimiwa Spika, ahsante sana na kwa niaba ya Waziri wa Nchi, Ofisi ya Rais - TAMISEMI, naomba kujibu swali la Mheshimiwa Askofu Josephat Mathias Gwajima, Mbunge wa Jimbo la Kawe kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">Mheshimiwa Spika, suala la kupandisha hadhi barabara ni la kisheria na huzingatia vigezo vilivyowekwa kwa mujibu wa Sheria ya Barabara Namba 13 ya mwaka 2007 na Kanuni zake za mwaka 2009. Barabara ambayo inakidhi vigezo vya kupandishwa hadhi inatakiwa ijadiliwe kwenye Kikao cha Bodi ya Barabara ya Mkoa husika na ikionekana inakidhi vigezo vyote Bodi ya Barabara ya Mkoa husika itamshauri Waziri mwenye dhamana na barabara kuwa barabara husika imekidhi vigezo vya kuwa na hadhi ya barabara ya Mkoa na hivyo ipandishwe daraja na kuwa barabara ya Mkoa chini ya Wakala wa Barabara Tanzania kwa maana TANROADS. Hivyo, ni vema taratibu hizo zikafuatwa ili kupandisha hadhi barabara zilizopo katika Jimbo la Kawe.</seg>
+          <seg xml:id="seg6">Mheshimiwa Spika, Serikali imeendelea kuiongezea bajeti TARURA ili kuiwezesha kuzihudumia barabara zake ikiwemo kuongeza tozo kwenye mafuta katika bajeti ya mwaka wa fedha 2021/2022 itakayowezesha TARURA kupata fedha kwa ajili ya ujenzi na matengenezo ya miundombinu ya barabara.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u5" who="Spika">
+          <seg xml:id="seg7">Mheshimiwa Askofu Gwajima nimekuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u6" who="MheAskofuJosephatMGwajima">
+          <seg xml:id="seg8">Mheshimiwa Spika, ahsante, pamoja na majibu mazuri ya Serikali nina swali moja tu la nyongeza.</seg>
+          <seg xml:id="seg9">Kwa kuwa Jimbo la Kawe lina barabara nyingi sana ambazo zinaunganisha Wilaya na Wilaya kwa mfano, Wilaya ya Ubungo pamoja na Kindondoni huko kwa juu.</seg>
+          <seg xml:id="seg10">Ni lini sasa Waziri atakwenda pamoja nami ili ukaone hali halisi katika Jimbo hilo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u7" who="Spika">
+          <seg xml:id="seg11">Majibu ya swali hilo Mheshimiwa Naibu Waziri - TAMISEMI, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u8" who="NaibuWaziriOfisiYaRaisTawalaZaMitaaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg12">Mheshimiwa Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais - TAMISEMI Naomba kujibu swali dogo la nyongeza la Mheshimiwa Askofu Josephat Mathias Gwajima, Mbunge wa Jimbo la Kawe kama ifuatavyo:-</seg>
+          <seg xml:id="seg13">Mheshimiwa Spika, mara baada ya Bunge nitaongozana na wewe pamoja na wale Wabunge ambao niliahidi katika Mkoa wa Dar es Salaam kuzungukia barabara zote za Mkoa huo, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u9" who="Spika">
+          <seg xml:id="seg14">Tunaendelea Waheshimiwa Wabunge na swali linalofuata ambalo bado liko TAMISEMI la Mheshimiwa Joseph Michael Mkundi, Mbunge wa Ukerewe.</seg>
+        </u>
+        <note>Na. 491. Kutambuliwa kwa Mamlaka ya Mji Mdogo Nansio</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u10" who="MheJosephMMkundi">
+          <seg xml:id="seg15">Je, ni lini Mamlaka ya Mji Mdogo Nansio itatambuliwa rasmi na kuanza kuwahudumia wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u11" who="Spika">
+          <seg xml:id="seg16">Majibu ya swali hilo Mheshimiwa Naibu Waziri - TAMISEMI, Mheshimiwa Dkt. Festo Dugange, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u12" who="NaibuWaziriOfisiYaRaisTawalaZaMitaaNaSerikaliZaMitaaDktFestoJDugange">
+          <seg xml:id="seg17">Waziri wa Nchi, Ofisi ya Rais-TAMISEMI, naomba kujibu swali la Mheshimiwa Joseph Michael Mkundi, Mbunge wa Jimbo la Ukerewe kama ifuatavyo:-</seg>
+          <seg xml:id="seg18">Mheshimiwa Spika, tangazo la kuanzishwa kwa Mamlaka ya Mji Mdogo Nansio lilitolewa tarehe 1/10/2007 na Mkurugenzi Mtendaji wa Halmashauri ya Wilaya ya Ukerewe kwa mujibu wa Sheria ya Serikali za Mitaa, Mamlaka za Wilaya Sheria Na. 7 ya mwaka 1982 kifungu cha 16 na 17.</seg>
+          <seg xml:id="seg19">Mheshimiwa Spika, katika mwaka wa fedha 2012/2013 Serikali iliunda timu ya wataalam kwa ajili ya kuchukua maoni ya wananchi kuufanya Mji Mdogo wa Nansio kuwa Halmashauri ya Mji. Wananchi wa kata kumi zilizopendekezwa kuunda Halmashauri ya Mji Nansio waliridhia Mamlaka ya Mji Mdogo Nansio kupandishwa hadhi na kuwa Halmashauri ya Mji na mapendekezo hayo yaliwasilishwa Ofisi ya Rais-TAMISEMI na Halmashauri ya Wilaya ya Ukerewe mwaka 2014.</seg>
+          <seg xml:id="seg20">Mheshimiwa Spika, Ofisi ya Rais-TAMISEMI ilipokea mapendekezo hayo na kutuma timu ya wataalam kwenda katika Mamlaka ya Mji Mdogo Nansio ili kujiridhisha kama vigezo muhimu vinavyotakiwa ili kupandisha hadhi Mamlaka ya Mji Mdogo Nansio vimefikiwa. Timu ilibaini kuwa Mamlaka ya Mji Mdogo Nansio bado haikidhi vigezo vya kupandishwa hadhi na kuwa Halmashauri ya Mji.</seg>
+          <seg xml:id="seg21">Mheshimiwa Spika, vigezo zilivyokosekana ni pamoja na kutokuwa na idadi ya watu angalau 150,000, kutokuwa na eneo lenye ukubwa wa walau kilomita za mraba 300, kutokuwa na kata walau 12 na mitaa 60. Hivyo, Ofisi ya Rais- TAMISEMI iliishauri Halmashauri ya Wilaya ya Ukerewe kuendelea kuilea Mamlaka ya Mji Mdogo wa Nansio mpaka itakapokidhi vigezo. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u13" who="Spika">
+          <seg xml:id="seg22">Mheshimiwa Mkundi nimekuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u14" who="MheJosephMMkundi">
+          <seg xml:id="seg23">Mheshimiwa Spika, nashukuru na nishukuru kwa majibu ya Serikali.</seg>
+          <seg xml:id="seg24">Mheshimiwa Spika, ni kweli TAMISEMI walituma timu ikaja kufanya mapitio lakini tokea wakati ule tayari vile vigezo vyote viwili vilivyoonekana havijafikiwa kwa maana ya idadi ya kata ziko kata 12 na idadi ya watu ambacho ni kigezo namba mbili tayari mamlaka ile ina watu zaidi ya 200,000 ni zaidi ya kigezo ilichowekwa na Serikali.</seg>
+          <seg xml:id="seg25">Mheshimiwa Spika, swali langu sasa, je, Serikali kupitia Ofisi ya Rais - TAMISEMI, wako tayari sasa kuridhia kuifanya Mamlaka ya Mji Mdogo wa Nansio kuwa halmashauri ya mjini? Nashukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u15" who="Spika">
+          <seg xml:id="seg26">Majibu ya maswali hayo, Mheshimiwa Naibu Waziri huo mji unaitwa Nasho siyo Nansio.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u16" who="NaibuWaziriOfisiYaRaisTawalaZaMitaaNaSerikaliZaMitaaDktFestoJDugange">
+          <seg xml:id="seg27">Mheshimiwa Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais - TAMISEMI naomba kujibu swali la Mheshimiwa Mkundi, Mbunge wa Ukerewe kama ifutavyo:-</seg>
+          <seg xml:id="seg28">Mheshimiwa Spika, kama ambavyo nimejibu kwenye swali la msingi kwamba kwa wakati huo wakati tadhimini inafanyika Nansio ilikuwa haijafikia vigezo vilivyokuwa vinahitajika, lakini kwa taarifa ya Mheshimiwa Mbunge kwamba sasa tumeshafikia vigezo hivyo naomba tulichukue jambo hili kama Serikali tukalifanyie tathimini, lakini pia tukajiridhishe kama vigezo hivyo vimefikiwa ndipo tuweze kuona hatua zinazofuata kwa ajili ya kufanya maamuzi. Nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u17" who="Spika">
+          <seg xml:id="seg29">Ahsante sana, nimekuona Mheshimiwa Aida Khenani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u18" who="MheAidaJKhenani">
+          <seg xml:id="seg30">Mheshimiwa Spika, nakushukuru kwa kuwa Mji Mdogo wa Namanyere tulishakidhi vigezo na taarifa ziko ofisini kwenu; ni lini sasa mtachukua</seg>
+          <seg xml:id="seg31">hatua kwa mujibu wa sheria ili na sisi tuweze kupata Halmashauri ya Mji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u19" who="Spika">
+          <seg xml:id="seg32">Jamani hata Namanyere nayo iwe mji. Majibu Mheshimiwa Naibu Waziri, Namanyere nayo kule Kirando iwe mji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u20" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheFestoJDugange">
+          <seg xml:id="seg33">Mheshimiwa Spika, ahsante sana na kwa niaba ya Waziri Nchi, Ofisi ya Rais – TAMISEMI naomba kujibu swali la nyongeza la Mheshimiwa Aida Khenani, Mbunge wa Nkasi Kaskazini kama ifuatavyo:-</seg>
+          <seg xml:id="seg34">Mheshimiwa Spika, kimsingi taratibu za kupandisha Mamlaka za Miji Midogo kwenda kuwa Halmashauri za Miji zina utaratibu wake, lakini zina sheria yake na hivyo Serikali siku zote inafanya tathimini kuona kama vigezo vimefikiwa na baada ya hapo hatua stahiki zinachukuliwa.</seg>
+          <seg xml:id="seg35">Kwa hiyo, nimuahidi Mheshimiwa Mbunge kwa taarifa aliyoitoa Serikali pia tutakwenda kupitia vigezo vya Halmashauri kwa maana ya Mji Mdogo wa Namanyere na kama umekidhi vigezo Serikali itachukua hatua kwa mujibu wa taratibu. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u21" who="Spika">
+          <seg xml:id="seg36">Ahsante tuendelee sasa tuondoke TAMISEMI, twende Afya, Maendeleo ya Jamii, Jinsia Wazee na Watoto, swali la Mheshimiwa Shamsia Azizi Mtamba, Mbunge wa Mtwara Vijijini.</seg>
+        </u>
+        <note>Na. 492. Hitaji la Bima ya Afya kwa Wazee</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u22" who="MheShamsiaAMtamba">
+          <seg xml:id="seg37">Je, ni lini Serikali itawapatia wazee hasa wa vijijini bima ya afya ikiwemo ya CHF inayotolewa na Halmashauri?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u23" who="Spika">
+          <seg xml:id="seg38">Majibu ya swali hiloMheshimiwa Naibu Waziri Afya, Dkt. Godwin Oloyce Mollel, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u24" who="NaibuWaziriWaAfyaMaendeleoYaJamiiJinsiaWazeeNaWatotoMheDktGodwinOMollel">
+          <seg xml:id="seg39">Mheshimiwa Spika, kwa niaba ya Waziri wa Afya, Maendeleo ya Jamii, Jinsia, Wazee na Watoto naomba kujibu swali la Mheshimiwa Shamsia Azizi Mtamba, Mbunge wa Mtwara Vijijini kama ifuatavyo:-</seg>
+          <seg xml:id="seg40">Mheshimiwa Spika, huduma za tiba ni haki ya msingi ya wazee wote. Serikali imeendelea kuimarisha upatikanaji wa matibabu hususan kwa wazee wasiojiweza nchini kwa kuanzisha madirisha kwa ajili ya matibabu kwa wazee. Serikali imeendelea na zoezi la utambuzi wa wazee na kuwapatia vitambulisho vya matibabu. Hadi kufikia Machi, 2021 jumla ya wazee 2,344,747 wametambuliwa sawa na asilimia 87 ya makadirio ya wazee wote nchini. Kati yao wanaume ni 1,092,310 na wanawake ni 1,252,437. Aidha, wazee wasio na uwezo 1,087,008 na wamepatiwa vitambulisho vya matibabu bure na wazee 856,052 wamepatiwa kadi za matibabu za Afya ya Jamii yaani CHF.</seg>
+          <seg xml:id="seg41">Mheshimiwa Spika, Serikali inaendelea na kukamilisha rasimu ya Muswada wa Bima ya Afya kwa Wote ili kuwezesha wananchi wote wakiwemo wazee kupata huduma za matibabu bila kikwazo cha fedha kwa mfumo rasmi na ulio mzuri zaidi. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u25" who="Spika">
+          <seg xml:id="seg42">Mheshimiwa Shamsia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u26" who="MheShamsiaAMtamba">
+          <seg xml:id="seg43">Mheshimiwa Spika, ahsante, pamoja na majibu ya Mheshimiwa Naibu Waziri nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg44">Mheshimiwa Spika, Serikali inawaambia nini wananchi hasa wazee wenye kadi za Bima ya Afya pindi wanapokwenda kupata huduma na kujibiwa dawa wakanunue madukani; nini majibu ya Serikali juu ya hili?</seg>
+          <seg xml:id="seg45">Mheshimiwa Spika, swali langu la pili, kutokana na ongezeko kubwa la zahanati vijijini changamoto kubwa ni upatikanaji wa dawa, vifaa tiba kwa maana ya vipimo na waganga. Nini kauli ya Serikali katika kuhakikisha vifaa hivi vinapatikana bila usumbufu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u27" who="Spika">
+          <seg xml:id="seg46">Majibu ya swali hilo Mheshimiwa Naibu Waziri Afya, Dkt. Godwin Mollel, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u28" who="NaibuWaziriWaAfyaMaendeleoYaJamiiJinsiaWazeeNaWatotoMheDktGodwinOMollel">
+          <seg xml:id="seg47">Mheshimiwa Spika, ni kweli concern ya Mbunge anayoisema ndiyo concern kubwa ambayo imeonekana kwenye eneo la CHF ambayo wananchi wengi wamekuwa wakienda na wakifika kwenye kituo wanakutana na tatizo hilo la upatikanaji wa dawa pamoja na daktari kumwandikia na CHF ni kwamba haiwezi kumsaidia mtu huyu kupata kwenye maduka mengine dawa zaidi ya kwenye kituo husika.</seg>
+          <seg xml:id="seg48">Mheshimiwa Spika, ndiyo maana sasa hivi Serikali umesikia moja; Rais wetu Mama Samia Suluhu Hassan ametoa zaidi ya shilingi bilioni 123 kwa ajili ya kuboresha eneo la dawa, maana yake sasa wakienda vituoni watakutana na dawa. Lakini umemsikia Waziri wetu kwa sababu suala la upatikanaji wa dawa vituoni ni zaidi tu ya fedha zenyewe kupatikana ndiyo maana umemsikia Waziri wetu wa Afya pamoja na Waziri wa TAMISEMI wameanza kufanya kazi kubwa sana kwenye eneo la uadilifu kuhakikisha kuna accountability kwenye eneo zima la dawa. Kwa hiyo hilo ndilo jibu la swali lako la kwanza.</seg>
+          <seg xml:id="seg49">Mheshimiwa Spika, lakini swali la pili ni upatikanaji vilevile wa dawa na vifaa tiba vituoni; nalo linajibiwa na swali la kwanza kwa sababu tukishakuwa na shilingi bilioni 123 ambayo Rais wetu Mama Samia Suluhu Hassan ameshazitoa kimsingi tutakuwa tumetatua hilo tatizo. Lakini vilevile sasa tunapokwenda kwenye Muswada wa Bima ya Afya kwa Wote maana yake hata tukiingia watu wote wakapata bima ya afya inayofanana na hizi ambazo wafanyakazi wa Serikali wanazo hata kama watakosa dawa kwenye kituo chake,</seg>
+          <seg xml:id="seg50">kuna maduka ya dawa ambayo yanatumia Bima ya Afya ambayo ni hii kubwa ya Taifa kwa hiyo tatizo hilo la dawa litaondoka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u29" who="Spika">
+          <seg xml:id="seg51">Ahsante sana, Mheshimiwa Mtaturu nilikuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u30" who="MheMirajiJMtaturu">
+          <seg xml:id="seg52">Mheshimiwa Spika, kwa sababu Mheshimiwa Waziri katika jibu lake amesema kwamba wanaruhusu kuwahakiki wazee na kwa sababu mfumo wa kuhakiki wazee haujawa rasmi, mmewaachia Halmashauri na ndiyo unakwamisha wazee wengi kutokupata huduma hii kwa kigezo cha kutokusajiliwa.</seg>
+          <seg xml:id="seg53">Ni nini hatua ya ziada ya Serikali kuhakikisha wazee wote wanasajiliwa katika muda ambao umepangwa ili wapate haki yao ya matibabu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u31" who="Spika">
+          <seg xml:id="seg54">Waheshimiwa Wabunge tuelewane na kinachosema Serikali, siyo kusajili wazee wote, kuna wazee kama wa Kisukuma, wa Kinyamwezi ndiyo wanaoa vigoli wadogo, wale hawahusiki, ni wazee wasiojiweza. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u32" who="Spika">
+          <seg xml:id="seg55">Mheshimiwa Naibu Waziri majibu tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u33" who="NaibuWaziriWaAfyaMaendeleoYaJamiiJinsiaWazeeNaWatotoMheDktGodwinOMollel">
+          <seg xml:id="seg56">Mheshimiwa Spika, labda nijibu swali zuri la Mheshimiwa Mbunge, moja; nachukua concern yake kwa sababu ameonesha kuna tatizo kwenye eneo zima la utambuzi wa wazee. Kwa hiyo tutaenda kukaa kuona ni namna gani tunaweza kuboresha hilo eneo hasa la utambuzi wa kujua ni nani mzee na nani siyo mzee.</seg>
+          <seg xml:id="seg57">Lakini kwa sababu tunakwenda, suala hapa ni tiba ni ku-access tiba tunapokwenda kwenye Muswaada wa Bima ya Afya kwa Wote kimsingi hilo litakuwa lipo contained kwenye utaratibu mzima, kwa hiyo, halitakuwa tatizo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u34" who="Spika">
+          <seg xml:id="seg58">Ahsante sana.</seg>
+          <seg xml:id="seg59">Waheshimiwa Wabunge, tuendelee na Ujenzi na Uchukuzi swali la Mheshimiwa Engineer Mwanaisha Ng’anzi Ulenge, Mheshimiwa Mhandisi Ulenge, Mheshimiwa Cecilia Paresso kwa niaba ya Mheshimiwa Mwanaisha.</seg>
+        </u>
+        <note>Na. 493. Upanuzi wa Kiwanja cha Ndege - Tanga</note>
+        <note>K.n.y. MHE. ENG. MWANAISHA N. ULENGE</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u35" who="MheCeciliaParesso">
+          <seg xml:id="seg60">Je, ni lini ahadi ya upanuzi wa Uwanja wa Ndege Tanga aliyoitoa Mheshimiwa Rais wakati wa uzinduzi wa Bomba la Mafuta pale Chongoleni Mkoani Tanga itaanza kutekelezwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u36" who="Spika">
+          <seg xml:id="seg61">Majibu ya swali hilo Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi Mhandisi Godfrey Kasekenya Msongwe, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u37" who="WaziriWaUjenziNaUchukuziMheEngGodfreyKMsongwe">
+          <seg xml:id="seg62">Mheshimiwa Spika, kwa niaba ya Waziri wa Ujenzi na Uchukuzi, naomba kujibu swali la Mheshimiwa Engineer Mwanaisha Ng’azi Ulenge, Mbunge Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg63">Mheshimiwa Spika, Kiwanja cha Ndege cha Tanga ni miongoni mwa viwanja 11 vya ndege vinavyofanyiwa upembuzi yakinifu na usanifu wa kina kwa ufadhili wa Benki ya Dunia kupitia Transport Sector Support Project.</seg>
+          <seg xml:id="seg64">Mheshimwa Spika, Benki ya Dunia imeonesha nia ya kufadhili upanuzi wa Kiwanja cha Ndege cha Tanga kupitia programu iitwayo Development Corridor Transport Programme.</seg>
+          <seg xml:id="seg65">Mheshimwa Spika, kwa sasa majadiliano kati ya Serikali na Benki ya Dunia kuhusu malipo ya fidia kwa wananchi watakaopisha utekelezaji wa mradi wa upanuzi na ukarabati wa Kiwanja cha Ndege cha Tanga, mapitio ya awali ya ripoti ya mradi huu pamoja na maandalizi ya taarifa mbalimbali zinazohitajika kabla ya mkataba wa mkopo kusainiwa yanaendelea.</seg>
+          <seg xml:id="seg66">Mheshimwa Spika, napenda kuchukua nafasi hii kumhakikishia Mheshimiwa Engineer Mwanaisha Ng’azi Ulenge kuwa Serikali ina nia ya dhati ya kufanya upanuzi na ukarabati wa Kiwanja cha Ndege cha Tanga. Aidha, majadiliano kati ya Serikali na Benki ya Dunia yatakapokamilika utekelezaji wa mradi huu utaanza mara moja. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u38" who="Spika">
+          <seg xml:id="seg67">Mheshimiwa Cecilia Paresso swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u39" who="MheCeciliaDParesso">
+          <seg xml:id="seg68">Mheshimwa Spika, ahsante, kwa kunipa nafasi niweze kuuliza maswali madogo mawili ya nyongeza.</seg>
+          <seg xml:id="seg69">Mheshimwa Spika, kwa kuwa fursa kama hizi mfano Ujenzi wa Mradi wa Bomba la Gesi ni fursa nzuri sana kiuchumi katika nchi na kwa kuwa Serikali imesema italipa fidia kwa ajili ya upanuzi wa uwanja huo wa Tanga, lakini je, Serikali haioni ipo haja ya dharura hata kutafuta mkopo wa dharura ili fursa hii ya ujenzi wa bomba la gesi uendane na ukarabati wa uwanja huo wa Tanga?</seg>
+          <seg xml:id="seg70">Mheshimwa Spika, swali la pili, kuna mchakato pia wa upanuzi wa uwanja wa Lake Manyara, Karatu ambao ni uwanja muhimu sana kwa utalii katika Kanda ya Ngorongoro – Serengeti, wananchi wale hawajalipwa fidia muda mrefu.</seg>
+          <seg xml:id="seg71">Je, ni lini sasa Serikali italipa fidia wananchi hawa wa Lake Manyara pale Karatu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u40" who="Spika">
+          <seg xml:id="seg72">Majibu ya maswali hayo Mheshimiwa Engineer Msongwe, tafadhali.</seg>
+          <seg xml:id="seg73">maswali mawili ya nyongeza la Mheshimiwa Cecilia Paresso kama ifuatavyo:-</seg>
+          <seg xml:id="seg74">Mheshimiwa Spika, swali la kwanza naamini anakusudia kusema bomba la mafuta na si bomba la gesi; kama hivyo ndivyo Serikali inatambua umuhimu wa bomba hili na ndio maana tunapoongea hivi tayari kuna watu wanafanya tathimini kwa ajili ya watu watakaopisha upanuzi wa kiwanja hiki ili uwanja huu uendane na kasi ya utekelezaji wa mradi wa bomba la mafuta la kutoka Tanga kwenda Uganda. Kwa hiyo, nimhakikishie Mheshimiwa Mbunge Serikali inalitambua hivyo na ndio maana iko kasi kuhakikisha kwamba uwanja huu unajengwa.</seg>
+          <seg xml:id="seg75">Mheshimiwa Spika, swali lake la pili kama amesikiliza kwenye jibu langu la msingi nimetaja viwanja 11 ambavyo viko katika mpango huu na katika kitabu chetu cha bajeti ambayo imepitishwa kiwanja cha Lake Manyara ni kati ya viwanja hivyo 11 ambavyo pia vinafanyika upembuzi yakinifu na usanifu wa kina unafanyika hili kuweza kuhakikisha kwamba ndege sasa zinatua uwanja huu wa Lake Manyara kwa ajili ya kuongeza shughuli za utalii eneo hili la Mkoa wa Manyara na Karatu kwa ujumla wake, ahsante.</seg>
+          <seg xml:id="seg76">Ule uwanja wa Lake Manyara hatari sana ule, kwa sababu unakwenda ndege inaishia hapa lile korongo gema liko hapa mbele hapa, msije mkatumbukiza ndege korongoni kule Lake Manyara. Mheshimiwa Zungu tafadhali swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u41" who="MheMussaAZungu">
+          <seg xml:id="seg77">Mheshimiwa Spika, mimi nakushukuru.</seg>
+          <seg xml:id="seg78">Mheshimiwa Spika, hii barabara inayotoka Klabu ya Yanga inapita Kata ya Jangwani na Mchikichini na kuja kuunganisha kwenye barabara ya Kawawa ni barabara ambayo inachukua magari takribani 40,000 kwa siku na hali</seg>
+          <seg xml:id="seg79">ya barabara hii ni mbaya, haipitiki, inaleta msongamano na kero kubwa sana kwa watumiaji wa barabara hii.</seg>
+          <seg xml:id="seg80">Je Serikali imechukuwa hatua gani kuboresha barabara hii?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u42" who="Spika">
+          <seg xml:id="seg81">Barabara ya kwenda Yanga hiyo shida tupu, mahandaki matupu! Majibu Mheshimiwa Naibu Waziri madhira yanayowapata Yanga mengi hata barabara pia shida! Ufafanuzi.</seg>
+          <seg xml:id="seg82">NAIBU WAZIRI WA UJENZI NA UCHUKUZI (MHE. ENG. GODFREY K. MSONGWE) Mheshimiwa Spika, napenda kujibu swali la Mheshimiwa Zungu Mbunge wa Ilala kama ifuatavyo:-</seg>
+          <seg xml:id="seg83">Mheshimiwa Spika, barabara hizi alizozitaja Mheshimiwa Zungu katika moja ya vikao alitoa kama Mwenyekiti na nimempa taarifa kwamba baada ya kulisemea hilo TANROADS Mkoa wa Dar es Salaam wako site kuangalia barabara hii ili waweze kuikarabati na kuondoa mashimo yote ili changamoto ambaza zinatokea ziweze kuondolewa.</seg>
+          <seg xml:id="seg84">Kwa hiyo, ni mhakikishie Mheshimiwa Mbunge kwamba tuliahidi kwamba tutalifanyia kazi tumeshalifanyia kazi na TANROADS Dar es Salaam wako site kuhakikisha kwamba changamoto ambayo ipo kwenye hizi barabara inatatuliwa haraka, ahsante.</seg>
+          <seg xml:id="seg85">Tunashukuru sana wapenzi wa Simba ndio wanawaombea Yanga barabara mna mapenzi makubwa sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u43" who="Spika">
+          <seg xml:id="seg86">Mheshimiwa Mrisho Gambo bado tupo hapo hapo.</seg>
+        </u>
+        <note>Na. 494. Changamoto ya Mafuriko – Jimbo la Arusha</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u44" who="MheMrishoMGambo">
+          <seg xml:id="seg87">Kwa muda mrefu Jimbo la Arusha Mjini limekuwa likisumbuliwa na changamoto ya mafuriko kwenye Kata ya Sembetini, Levolosi, Osunyai, Sekei, Unga Ltd, Sakina, Baraa na Olerian yanayosababishwa na miundombinu mibovu ya barabara ya Sakina – Tengeru na Airport – Soko la Kilombero?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u45" who="Spika">
+          <seg xml:id="seg88">Bado tuko Ujenzi na Uchukuzi, Engineer Godfrey Kasekenya Msongwe, majibu tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u46" who="NaibuWaziriWaUjenziNaUchukuziMheEngGodfreyKMsongwe">
+          <seg xml:id="seg89">Mheshimiwa Spika, kwa niaba ya Waziri wa Ujenzi na Uchukuzi napenda kujibu swali la Mheshimiwa Mrisho Mashaka Gambo, Mbunge wa Arusha Mjini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg90">Mheshimiwa Spika, ujenzi wa barabara ya Sakina – Tengeru umehusisha upanuzi wa barabara iliyokuwepo kutoka njia mbili kwenda njia nne na katika mito yote yamejengwa madaraja makubwa yanayopokea maji kutoka mlima Meru na kupeleka katika makorongo makubwa ya asili. Hivyo, mafuriko yanayotokea katika maeneo husika hayasababishwi na miundombinu mibovu ya barabara ya Sakina – Tengeru.</seg>
+          <seg xml:id="seg91">Mheshimiwa Spika, tatizo la mafuriko katika maeneo yaliyotajwa na Mheshimiwa Mbunge yanasababishwa na sababu zifuatazo:-</seg>
+          <seg xml:id="seg92">(i) Mabadiliko ya kimazingira yanayohusiana na ujenzi uliofanyika katika maeneo ya juu na hivyo kuongeza maji katika maeneo ya juu kuelekea kwenye maeneo ya chini;</seg>
+          <seg xml:id="seg93">(ii) Ujenzi holela katika mikondo asili ya maji na kupunguza upana wa njia ya maji; na</seg>
+          <seg xml:id="seg94">(iii) Utupaji taka ngumu kwenye mitaro ya maji na kusababisha kuziba kwa makalvati na kupelekea maji kupita juu ya barabara na kusambaa katika maeneo ya wananchi.</seg>
+          <seg xml:id="seg95">Mheshimiwa Spika, ili kukabiliana na tatizo la mafuriko, Serikali kupitia Tanzania Strategic Cities Project unaotekelezwa na Halmashauri ya Jiji la Arusha, inafanya utafiti wa kina ili kuona ni jinsi gani mafuriko haya yanaweza kuzuiwa kwa kujenga miundombinu ya kukusanya maji yote yanayotoka Mlima Meru na kuleta madhara ya mafuriko. Mhandisi Mshauri kutoka Kampuni ya Cheil Engineering ya Korea Kusini anaendelea na utafiti huo, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u47" who="Spika">
+          <seg xml:id="seg96">Ahsante, Mbunge wa Arusha Mjini - Mheshimiwa Gambo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u48" who="MheMrishoMGambo">
+          <seg xml:id="seg97">Mheshimiwa Spika, kwanza naomba Mheshimiwa Waziri hafahamu kwamba hii ni changamoto kubwa sana kwa Jiji la Arusha na inaathiri karibuni Kata 15 Kata ya Ulolieni, Kata ya Balaha, Kata ya Sekei, Kata ya Kimandolu, Sakina, Kaloleni, Revolosi, Sombetini Osunyai, Unga Limited, Yalelai, Daraja Mbili, Mulieti, Sokonwali na Sinoni. Unaona zaidi ya nusu ya kata zote zina changamoto hii.</seg>
+          <seg xml:id="seg98">Mheshimiwa Spika, kwanza nilikuwa naomba kufahamu ni wadau gani walioshirikishwa ikiwa Ofisi ya Mbunge haijashirikishwa, nimeongea na watu wa TARURA hawajashirikishwa, lakini na madiwani pia wa kata zinazohusika pia awajashirikishwa; kwanza ningependa kufahamu ni wadau gani ambao wameshirikishwa kwenye hii study na kwenye solution ya hili jambo?</seg>
+          <seg xml:id="seg99">Mheshimiwa Spika, lakini ya pili nilikuwa naomba kwa uongozi wako kwa sababu jambo hili linahusisha Wizara mbili; Wizara ya Uchukuzi pamoja na wizara ya TAMISEMI; je, Waziri haoni haja kwamba wizara hizi mbili tukafanya kikao pale Jijini Arusha, kwa kushirikisha Mkuu wa Mkoa pamoja na Mkuu wa Wilaya ili mwisho wa siku tutafute solution ya kudumu kwa wananchi wetu wa Jimbo la Arusha Mjini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u49" who="Spika">
+          <seg xml:id="seg100">Majibu ya maswali hayo Mheshimiwa Naibu Waziri Ujenzi na Uchukuzi, tafadhali.</seg>
+          <seg xml:id="seg101">maswali mawili ya Mheshimiwa Mrisho Mashaka Gambo, Mbunge wa Arusha Mjini kama ifuatavyo:-</seg>
+          <seg xml:id="seg102">Mheshimiwa Spika, kama nilivyosema kwenye jibu langu la msingi ni kwamba baada ya kupata hii changamoto ambayo mafuriko yanasababishwa na maji kutoka mlimani na Mheshimiwa Mbunge amekuwa analifuatilia sana, Serikali imeamua kufanya study kuona namna ya kuondosha hili tatizo.</seg>
+          <seg xml:id="seg103">Mheshimiwa Spika, nimhakikishie Mheshimiwa Mbunge kwamba kwenye study hii baada ya kukamilika, itakapokuwa taarifa imepatikana hatutaanza kutekeleza mradi hapo ndipo tutakaposhirikisha wadau kulingana na taarifa za study zitakavyokuwa zimeonyesha kwamba sasa tunategemea kufanya hiki na hiki.</seg>
+          <seg xml:id="seg104">Mheshimiwa Spika, kwa hiyo nimhakikishie Mheshimiwa Mbunge kwamba baada ya tafiti hiyo kukamilika wadau hawa watashirikishwa kabla ya kuanza kutekeleza huo mpango ambao utakuwa sasa umebainika kutokana na study hiyo, lakini nikubaliane na Mheshimiwa Mbunge kwamba sisi tulipojenga barabara hii ya TANROADS barabara nyingi zinazoathirika na wananchi wanaoathirika ni wa Wizara sana wanaoshughulikiwa na TARURA na TAMISEMI.</seg>
+          <seg xml:id="seg105">Mheshimiwa Spika, kwa hiyo nimhakikishie Mheshimiwa Mbunge sisi kama Serikali tunafanya kazi kama timu tutaongea na TAMISEMI na si TAMISEMI tu tu pengine hata ofisi za mazingira na hata watu wa kilimo ambao pengine huko wanasababisha miundombinu yetu kuharibika. Kwa hiyo, nimuhakikishie Mbunge kwamba kama Serikali tunafanya pamoja kuhakikisha changamoto hii tunaiondoa, ahsante.</seg>
+          <seg xml:id="seg106">Ahsante.</seg>
+          <seg xml:id="seg107">Waheshimiwa Wabunge, tunaelekea Nishati swali litaulizwa na Mheshimiwa Aysharose Ndogholi Mattembe, uliza swali lako.</seg>
+        </u>
+        <note>Na. 495. Umeme wa REA Vijiji 14 vya Jimbo la</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u50" who="Spika">
+          <seg xml:id="seg108">Manyoni Magharibi</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u51" who="MheAysharoseNMattembe">
+          <seg xml:id="seg109">Je, Serikali ina mpango gani wa kupeleka umeme katika vijiji 14 vya Jimbo la Manyoni Magharibi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u52" who="Spika">
+          <seg xml:id="seg110">Majibu ya swali hilo Naibu Waziri Nishati - Mheshimiwa Byabato Stephen Lujwahuka, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u53" who="NaibuWaziriWaNishati">
+          <seg xml:id="seg111">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Nishati naomba kujibu swali la Mheshimiwa Aysharose Ndogholi Mattembe, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">Mheshimiwa Spika, kazi ya kupeleka umeme katika vijiji 14 pamoja na vijiji vingine vilivyobaki katika Jimbo la Manyoni Magharibi itaanza mwezi Julai, 2021 kupitia utekelezaji wa mradi wa REA Awamu ya Tatu Mzunguko wa Pili. Mradi huu unatarajiwa kukamilika ifikapo mwezi Disemba, 2022.</seg>
+          <seg xml:id="seg113">Mheshimiwa Spika, kazi ya utekelezaji wa mradi huu katika Wilaya ya Manyoni kwa ujumla inahusisha ujenzi wa njia ya umeme ya msongo wa kilovoti 33 urefu wa kilometa 383.1, njia ya umeme ya msongo wa kilovoti 0.4 urefu kilometa 31, ufungaji wa transfoma 31 zenye uwezo wa KVA 50 pamoja na kuunganisha huduma ya umeme kwa wateja wa awali 682. Gharama ya mradi ni shilingi bilioni 15.45.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u54" who="Spika">
+          <seg xml:id="seg114">Mheshimiwa Aysharose swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u55" who="MheAysharoseNMattembe">
+          <seg xml:id="seg115">Mheshimiwa Spika, nakushukuru kwa nafasi; pamoja na majibu mazuri ya Serikali nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg116">Kwa kuwa Kata za Rungwa, Ipande na Kitaraka za Jimbo la Manyoni Magharibi hazina umeme kabisa jambo ambalo linakwamisha jitihada za wanawake na vijana kujikomboa kiuchumi.</seg>
+          <seg xml:id="seg117">Je, Serikali ina mkakati gani wa haraka wa kupeleka umeme katika umeme vijiji hivyo?</seg>
+          <seg xml:id="seg118">Mheshimiwa Spika, swali la pili, kwa kuwa vijiji vya Kinyamwenda, Itaja na Ngimu vya Jimbo la Singida Kaskazini ambavyo vilikuwa katika mpango wa mradi wa backbone unaoanzia Singida, Arusha hadi Namanga havina umeme kabisa.</seg>
+          <seg xml:id="seg119">Je Serikali ina mpango gani wa kuhakikisha vijiji hivi vinakuwa na umeme? Nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u56" who="Spika">
+          <seg xml:id="seg120">Majibu ya swali hilo Mheshimiwa Naibu Waziri Nishati, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u57" who="NaibuWaziriWaNishati">
+          <seg xml:id="seg121">Mheshimiwa Spika, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Aysharose Mattembe kwa pamoja kama ifuatavyo:-</seg>
+          <seg xml:id="seg122">Mheshimiwa Spika, kwanza nimshukuru sana na kumpongeza Mheshimiwa Mbunge kwa kuwa amekuwa mstari mbele sana kufuatilia upelekaji wa umeme katika Mkoa wote wa Singida na tumekuwa mara kwa mara tukijadiliana na kuhakikishia kwamba hakika tutafikisha umeme katika maeneo yote ya Kinyamwenda kama alivyosema, Kitalaka na kata nyingine ambazo ziko katika maeneo yake.</seg>
+          <seg xml:id="seg123">Mheshimiwa Spika, kama tulivyosema mkandarasi anayetarajiwa kupeleka umeme katika Mkoa wetu wa Singida kwenye Wilaya yetu ya Manyoni ataanza kazi mwezi unaokuja na tutahakikisha kwamba vijiji hivyo vyote 14</seg>
+          <seg xml:id="seg124">ambavyo vilikuwa vimebakia bila kupelekewa umeme vinapata umeme.</seg>
+          <seg xml:id="seg125">Mheshimiwa Spika, lakini katika swali la pili hayo maeneo mengine ambaye ameyasema yamechukuliwa na mkandarasi ambaye anapeleka umeme kutoka Iringa kupita Dodoma, Singida kwenda Arusha kwenda mpaka Namanga na viko katika scope yake na kazi yake inatakiwa kukamilika mwishoni mwa mwezi wa saba.</seg>
+          <seg xml:id="seg126">Mheshimiwa Spika, tunafahamu kwamba tayari vifaa vya kufanya kazi hiyo vipo site kwa maana ya nguzo, waya na transfoma na tutahakikisha kwamba tunasimama naye ili katika muda aliopewa aweze kukamilisha kazi hiyo ili wananchi wote wa Singida waweze kupata umeme kwa ajili ya maendeleo katika maeneo yao, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u58" who="Spika">
+          <seg xml:id="seg127">Ahsante sana, nimekuona Mheshimiwa Kwagilwa Reuben uliza swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u59" who="MheKwagilwaRNhamanilo">
+          <seg xml:id="seg128">Mheshimiwa Spika, ahsante sana, naomba kuuliza swali moja la nyongeza; ni lini Serikali itapeleka umeme kwa vijiji 28 ambavyo viko katika Jimbo la Handeni Mjini havijapata umeme mpaka sasa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u60" who="Spika">
+          <seg xml:id="seg129">Majibu ya swali hilo Mheshimiwa Naibu Waziri, Handeni Mjini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u61" who="NaibuWaziriWaNishati">
+          <seg xml:id="seg130">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Kwagilwa Mbunge wa Handeni Mjini kama ifuatavyo:-</seg>
+          <seg xml:id="seg131">Mheshimiwa Spika, nimshukuru pia na yeye kwa kuendelea kufuatilia upelekaji wa umeme katika maeneo yake. Jimbo la Handeni Mjini halina tofauti na Jimbo la Bukoba Mjini ambao ni maeneo ambayo hayakuwa yananufaika na Mradi wa REA, lakini sisi tumeweka katika mradi wa peri urban ambao tunatarajia kuuanza mwezi wa tisa na hivyo maeneo yote ya mijini ambayo pengine bado yanaonekana yana nature ya vijiji; Jimbo la Bukoba Mjini,</seg>
+          <seg xml:id="seg132">Handeni Mjini na maeneo mengine yakiwepo yatapelekewa umeme kuanzia mwezi wa tisa kupitia mradi wetu wa peri urban ikiwa ni pamoja na Ilemela, Mwanza na maeneo kama ya Geita ambayo yako mjini, lakini yana hadhi ambayo ya kijijini. Nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u62" who="Spika">
+          <seg xml:id="seg133">Mheshimiwa Mama Salma Kikwetu nilikuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u63" who="MheSalmaRKikwete">
+          <seg xml:id="seg134">Mheshimiwa Spika, ahsante sana; kwanza nikupongeze wewe kwa kazi nzuri ambayo unaifanya kuelekea kuhitimisha Bunge letu la Bajeti.</seg>
+          <seg xml:id="seg135">Mheshimiwa Spika, naomba niulize swali la nyongeza, lakini kabla ya kuuliza kwanza niipongeze Serikali na Wizara ya Nishati kwa kazi nzuri na kubwa inayoifanya kwa sababu wakati Wizara ya Nishati inatoa taarifa yake ilisema itamalizia umeme REA Awamu ya Tatu vijiji vyote vya Tanzania.</seg>
+          <seg xml:id="seg136">Mheshimiwa Spika, na ninataka niwahakikishie kwamba katika Jimbo langu la Mchinga wataalam wako kazini tangu tarehe 16 mwezi huu wa Juni wakiwa na mkandarasi anayeitwa Nakuroi Investment Company Limited wanafanya kazi nzuri sana. Vijiji vyote kama Kijiji cha Kiwawa, Mputwa, Ruvu na Mtamba, Luchemi, Lihimilo Mnyangala, Namkongo, Makangala na Luhoma; hivi vijiji vyote vimeshafikiwa, isipokuwa kuna vijiji viwili tu ambavyo vimesahaulika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u64" who="MheSalmaRKikwete">
+          <seg xml:id="seg137">Nakuomba sana na ninaiomba Serikali katika awamu ile ya tatu wamalizie hivyo vijiji viwili ambavyo ni Kijiji cha Dimba na Kijiji cha Kitohave. Ahsante sana Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u65" who="Spika">
+          <seg xml:id="seg138">Ahsante sana Mheshimiwa Mama Salma Kikwete, Mheshimiwa Naibu Waziri umeshamla ng’ombe mzima imebaki mkia tu, vijiji hivyo una mpango gani wa kumalizia, majibu tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u66" who="NaibuWaziriWaNishati">
+          <seg xml:id="seg139">Mheshimiwa Spika, nipende kujibu swali moja la nyongeza la Mheshimiwa Salma Kikwete, Mbunge wa Mchinga kama ifuatavyo:-</seg>
+          <seg xml:id="seg140">Mheshimiwa Spika, kwanza nianze kwa shukrani kwa niaba ya Wizara, lakini na Serikali kwa Mheshimiwa Mbunge kuona kwamba Serikali kwa ujumla yake chini ya uongozi wa Mheshimiwa wa Mama Samia Suluhu Hassan imeamua kuhakikisha kwamba inawafikishia umeme Watanzania wote mahala walipo, na kupitia mradi wa REA Awamu ya Tatu Mzunguko wa Pili kuhakikisha vijiji vyote ambavyo amekuwa amepelekewa umeme vinapelekewa.</seg>
+          <seg xml:id="seg141">Mheshimiwa Spika, kama alivyosema Mheshimiwa Mbunge kwa niaba ya Wabunge wengine tunafurahi kwamba sasa wakandarasi katika maeneo yetu mengi tayari wako site, kazi tayari zimeanza za kufanya survey na kuhakiki vijiji ambavyo vimechukuliwa na vitapewa umeme.</seg>
+          <seg xml:id="seg142">Mheshimiwa Spika, niwaombe Waheshimiwa Wabunge wale ambao katika maeneo yao hawajawaona wakandarasi au wameendelea kupata changamoto ya mawasiliano na wakandarasi hao basi tuwasiliane ili tuweze kuhakikisha kwamba tunasimamiana ili katika muda ambao tumewahakikishia Waheshimiwa Wabunge kwamba tutapeleka umeme katika maeneo yetu, tuweze kufikisha umeme kwa wakati.</seg>
+          <seg xml:id="seg143">Mheshimiwa Spika, juzi Mheshimiwa Waziri alisema kwamba vilikuwa vimebaki vijiji kama 680 ambavyo havikuwa vimeingia kwenye ile awamu yetu, lakini tayari maelekezo yametolewa na vijiji vyote vilivyoko katika maeneo yetu vimechukuliwa na vitafanyiwa kazi katika Awamu ya Tatu Mzunguko wa Pili bila kuacha hata kijiji kimoja.</seg>
+          <seg xml:id="seg144">Mheshimiwa Spika, hii ni commitment ya Serikali kwamba ifikapo Disemba, 2022 vijiji vyote ambavyo viko katika maeneo yetu vitakuwa vimepata umeme na kuhakikisha kwamba wananchi wote wanaendelea kufarijika</seg>
+          <seg xml:id="seg145">na huduma ya umeme kwa ajili ya maendeleo katika maeneo yetu nashukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u67" who="Spika">
+          <seg xml:id="seg146">Ahsante sana Mheshimiwa Naibu Waziri. Tuendelee na Kilimo sasa Waheshimiwa Wabunge. Mheshimiwa Shally Josepha Raymond Mbunge wa Viti Maalum Kilimanjaro uliza swali lako.</seg>
+        </u>
+        <note>Na. 496. Kuzalisha Miche Bora ya Kahawa – Kilimanjaro</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u68" who="MheShallyJRaymond">
+          <seg xml:id="seg147">Je, ni lini makubaliano ya kibiashara yatafanyika baina ya taasisi za umma na makampuni binafsi yanayolima kahawa Mkoani Kilimanjaro ili kuzalisha miche bora yenye ukinzani dhidi ya magonjwa na kuigawa kwa wakulima bila malipo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u69" who="Spika">
+          <seg xml:id="seg148">Majibu ya swali hilo muhimu kwa watu wa Kilimanjaro, Naibu Waziri Kilimo Mheshimiwa Hussein Mohamed Bashe, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u70" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg149">Mheshimiwa Spika, kwa niaba ya Waziri wa Kilimo naomba kujibu swali la Mheshimiwa Shally Josephat Raymond, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg150">Mheshimiwa Spika, uzalishaji wa miche bora ya kahawa hufanyika kupitia wakulima binafsi, vikundi vya wakulima, Vyama vya Ushirika, Taasisi ya Utafiti ya TaCRI na mikataba baina ya TaCRI na kampuni binafsi au shirika.</seg>
+          <seg xml:id="seg151">Mheshimiwa Spika, kutokana na gharama kubwa ya uzalishaji wa miche hususani pale ambapo hakuna ufadhili maalum wa taasisi au shirika, kumekuwepo na utaratibu wa wakulima kuchangia gharama kidogo ili kuwa na uzalishaji endelevu na upatikanaji wa miche bora.</seg>
+          <seg xml:id="seg152">Mheshimiwa Spika, mathalani wakulima hutakiwa kuchangia kiasi cha shilingi 100 kwa kila mche sawa na asilimia 10 ya gharama halisi ya mche. Kati ya Julai, 2016 mpaka 2021 TaCRI imezalisha jumla ya miche 2,308,606 ambayo imeendelea kusambazwa Mkoani Kilimanjaro.</seg>
+          <seg xml:id="seg153">Mheshimiwa Spika, TaCRI imekuwa ikiingia mikataba ya kuzalisha miche bora yenye ukinzani dhidi ya magonjwa na kuisambaza kwa wakulima kadri ya mahitaji. Mikataba hiyo ni pamoja na uzalishaji wa miche 100,000 uliofanyika kati ya mwaka 2018 na 2019 ambapo TaCRI ilishirikiana na Ushiri AMCOS ya Wilayani Rombo kuzalisha miche hiyo.</seg>
+          <seg xml:id="seg154">Mheshimiwa Spika, TaCRI kati ya mwaka 2016 na 2019 ilishirikiana na Taasisi za Hivos na Solidaridad kutoa mafunzo kwa wazalishaji wa miche bora ya kahawa ambapo jumla ya miche 890,677 ilizalishwa na kusambazwa kwa wakulima katika Wilaya za Same, Mwanga na Moshi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u71" who="Spika">
+          <seg xml:id="seg155">Mheshimiwa Shally Raymond, nimekuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u72" who="MheShallyJRaymond">
+          <seg xml:id="seg156">Mheshimiwa Spika, nakushukuru sana na kabla sijaendelea naomba nisahihishe jina langu alivyolitamka Naibu Waziri, mimi ni Shally Josepha Raymond hakuna Josephat.</seg>
+          <seg xml:id="seg157">Mheshimiwa Spika, nishukuru kwa majibu mazuri ya Serikali, lakini niseme wazi kwamba ninapotamka zao la kahawa aina ya Arabic katika Mkoa wa Kilimanjaro ni zao dume, ni zao ambalo linawapatia wanaume kipato. Wakati zao hili linapauka, wanaume wote sasa wanakwenda kuwabana akina mama kwenye zao lao la migomba, kwenye zao lao la mbogamboga, maharage na kadhalika.</seg>
+          <seg xml:id="seg158">Mheshimiwa Spika, katika swali la msingi niliomba kuelezwa ni nini makubaliano ya kibiashara kati ya Serikali na wafanyabiashara wenye estates? Kwa sababu wale ndio wenye mashamba makubwa ya kahawa yanayozunguka wakulima wadogowadogo, estates hizo zikiwemo Tchibo, Machare, Kikafu na kadhalika.</seg>
+          <seg xml:id="seg159">Sasa ni lini Serikali itakubaliana na wakulima hao wa ma-estate wawasaidie hawa wakulima wadogo wadogo?</seg>
+          <seg xml:id="seg160">Mheshimiwa Spika, swali la pili; sina tatizo wala shida kabisa na uzalishaji wa miche kutoka TaCRI, lakini TaCRI ni kituo kimojawapo tu kinachozalisha miche pamoja na hiyo mingine aliyosema Naibu Waziri.</seg>
+          <seg xml:id="seg161">Mheshimiwa Spika, je, Naibu Waziri yuko tayari sasa kufuatana na mimi mama yake, mguu kwa mguu twende katika mashamba ya wananchi tuone ambavyo zao hilo limepauka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u73" who="Spika">
+          <seg xml:id="seg162">Majibu ya maswali hayo mawili kuhusu kahawa Mheshimiwa Naibu Waziri wa Kilimo, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u74" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg163">Mheshimiwa Spika, kwa niaba ya Waziri wa Kilimo, naomba kujibu maswali mawili ya Mheshimiwa Mama Shally Raymond kama ifuatavyo:-</seg>
+          <seg xml:id="seg164">Mheshimiwa Spika, kwanza, suala la kufuatana na Mheshimiwa Mama Shally kwenda Mkoa wa Kilimanjaro, nimhakikishie niko tayari na tutapanga mimi na yeye kwa sababu nina wajibu kwake, ni mama yangu, kanilea miaka mitano nikiwa next kwake. Kwa hiyo, nitakwenda na nitazunguka naye. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u75" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg165">Mheshimiwa Spika, kuhusu kuingia mikataba na estates, kwanza mikataba ni willingness kati ya mtoa huduma na anayeombwa kutoa huduma, kwa hiyo, sisi kama Serikali pale ambapo watu wako tayari kuingia mikataba na Taasisi yetu ya TaCRI kwa gharama nafuu ambayo siku ya mwisho haitaweza kumuumiza mkulima na conditions ambazo haziwezi kutuumiza, tuko tayari.</seg>
+          <seg xml:id="seg166">Mheshimiwa Spika, lakini sasa hivi tuna programu kubwa ya kuzalisha zaidi ya miche milioni 20 ya kahawa ambayo tutaigawa katika kipindi hiki cha miaka mitano. Kwa hiyo, kwa wafanyabiashara ambao wako tayari kuingia kwa conditions ambazo ziko wazi na TaCRI, sisi wala hatuna tatizo</seg>
+          <seg xml:id="seg167">juu ya hilo na ndiyo maana tumetaja baadhi ya taasisi ambazo tumeshaingia nazo makubaliano na baadhi ya wakulima ambao tutaingia nao makubaliano. Lakini tukienda pamoja kama tutakutana na hao wenye estates kubwa tutajadiliana namna ya kufanya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u76" who="Spika">
+          <seg xml:id="seg168">Mheshimiwa Agnes Hokororo, nimekuona; kahawa Mkoa wa Mtwara, uliza swali lako. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u77" who="MheAgnesEHokororo">
+          <seg xml:id="seg169">Mheshimiwa Spika, ahsante, lakini uzalishaji wa miche ya kahawa unafanana na uzalishaji wa miche ya mikorosho iliyopo Mkoani Mtwara. Vikundi vinavyozalisha miche ya korosho Mkoani Mtwara vinaidai Serikali tangu mwaka 2018 na hivi karibuni tulipata kauli ya Serikali kwamba hundi imeandikwa.</seg>
+          <seg xml:id="seg170">Mheshimiwa Spika, swali langu ni je, ni lini Serikali italipa vikundi hivyo vya uzalishaji wa miche ya korosho vilivyoko Mkoani Mtwara?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u78" who="Spika">
+          <seg xml:id="seg171">Mheshimiwa Naibu Waziri, majibu ya swali hilo muhimu, maana vikundi hivyo hata Kongwa vipo, wazalishaji nao wanataka kulipwa. Mnalipa lini Mheshimiwa Naibu Waziri?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u79" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg172">Mheshimiwa Spika, kwa niaba ya Waziri wa Kilimo, naomba kujibu swali la nyongeza la Mheshimiwa Hokororo kama ifuatavyo:-</seg>
+          <seg xml:id="seg173">Mheshimiwa Spika, kwanza, nitumie Bunge lako kuwaambia kwamba wakulima wadogo wote ambao walikuwa wanadai zaidi ya shilingi bilioni 1.8, tayari fedha hizi zimeshatoka na sasa tunafanya utaratibu ili Wizara ziweze kupelekwa Bodi ya Korosho na Bodi ya Korosho ianze kulipa wakulima. Anytime kuanzia sasa fedha hizo watakuwa wameanza kuzipata.</seg>
+          <seg xml:id="seg174">Mheshimiwa Spika, niwahakikishie tu kwamba kwa sababu utaratibu tuliokuwa tumejiwekea na ninashukuru Waziri wa Fedha hapa alisema kwamba taasisi yoyote ya</seg>
+          <seg xml:id="seg175">Serikali itakayopokea fedha dakika za mwisho, hakutakuwa na ule utaratibu wa kuzirudisha, tunaamini kwamba kati ya wiki ijayo mpaka mwanzoni mwa mwezi Julai fedha hizi zitanza kulipwa kwa sababu tayari utaratibu wake umeshakamilika.</seg>
+          <seg xml:id="seg176">Mheshimiwa Spika, vilevile watumishi wa umma walioingia mikataba na Bodi ya Korosho, malipo yao na yenyewe kama Wizara sisi tumesha-compile na kuzipeleka Wizara ya Fedha ili na wao waweze kupata haki yao kwa sababu kuwa watumishi wa umma hakuwaondolei haki ya kulipwa kama ambavyo walitakiwa kulipwa.</seg>
+          <seg xml:id="seg177">Mheshimiwa Spika, kwa hiyo nimuombe Mheshimiwa Mbunge, tutaendelea kuwasiliana kwa karibu kuhakikisha kwamba mpaka Julai wakulima wote fedha zao wawe wameshazipata kwa sababu fedha hizo hata zikiingia kwetu tarehe 30 hazitarudi Hazina.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u80" who="Spika">
+          <seg xml:id="seg178">Mheshimiwa Dkt. Ishengoma nilikuona, uliza swali lako tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u81" who="MheDktOscarIKikoyo">
+          <seg xml:id="seg179">Mheshimiwa Spika, nashukuru sana.</seg>
+          <seg xml:id="seg180">Mheshimiwa Spika, matatizo ya zao la kahawa ya Mkoa wa Kilimanjaro yanafanana sana na matatizo ya kahawa ya Mkoa wa Kagera. Mavuno ya kahawa katika Mkoa wa Kagera huanza mwezi Aprili hadi Mei, lakini mpaka juzi Vyama vya Msingi vilikuwa havijafungua msimu wa kahawa.</seg>
+          <seg xml:id="seg181">Mheshimiwa Spika, na tatizo kubwa lililopo hasa Wilaya ya Muleba, wananchi wanabugudhiwa na task force ambayo imeundwa ambayo inajumuisha watu wa PCCB, Usalama wa Taifa na watu wa Kilimo. Kila anayekutana naye anatoka shambani ana gunia moja anakamatwa na kupelekwa kituo cha polisi.</seg>
+          <seg xml:id="seg182">Naomba kauli ya Serikali, je, ni nini kauli ya Serikali kukomesha vitendo viovu hivi ambavyo vinawabugudhi wakulima kwa kisingizo kwamba wanalangua kahawa ilhali wako kwenye Wilaya yao, wako kwenye tarafa yao na vijiji vyao? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u82" who="Spika">
+          <seg xml:id="seg183">Majibu ya swali hilo Mheshimiwa Naibu Waziri wa Kilimo, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u83" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg184">Mheshimiwa Spika, kwa niaba ya Waziri wa Kilimo, naomba kujibu swali la nyongeza la Mheshimiwa Mbunge wa Muleba Kusini kama ifuatavyo:-</seg>
+          <seg xml:id="seg185">Mheshimiwa Spika, kwanza, niseme na nirudie tena, tumefanya vikao na viongozi wa Mkoa wa Kagera, tumefanya vikao na vyama vikuu vya ushirika vya Kagera, tumefanya vikao na wanunuzi binafsi; la kwanza, hatumzuii mkulima yeyote kupitia chama chake cha msingi kuuza mazao yake kwa mfanyabiashara katika level ya chama cha msingi. Hili ni jambo la kwanza, na tumeruhusu na tumetoa leseni. Na msimu umeshafunguliwa. Na wiki iliyopita tulikuwa na mkutano hapa Dodoma wa wadau wote wa kahawa.</seg>
+          <seg xml:id="seg186">Mheshimiwa Spika, la pili, tuwaombe viongozi katika ngazi za Halmashauri na Wilaya. Sekta ya kilimo haiwezi kusimamiwa kimabavu, sekta ya kilimo inasimamiwa kwa misingi ya win-win. Mkulima anayevuna mazao yake kutoka shambani kuyapeleka kwenye nyumba yake ama kuyapeleka kwenye chama chake cha msingi, naomba kupitia Bunge lako niwaombe viongozi walioko katika Halmashauri na Wilaya wasiwabughudhi.</seg>
+          <seg xml:id="seg187">Mheshimiwa Spika, lakini haturuhusu vilevile wafanyabiashara wanaowafuata wakulima mashambani kwenda kununua mazao chini ya bei ya soko, halafu wao kupeleka kwenye minada na Chama cha Msingi ili waweze ku-benefit na bei. Hilo hatutaruhusu na wala hatutaruhusu mfanyabiashara yeyote anayechepusha mazao kuvusha kwenye mpaka wa Tanzania na Uganda.</seg>
+          <seg xml:id="seg188">Mheshimiwa Spika, tunawataka na nitumie Bunge lako kuwaomba Waheshimiwa Wabunge, kama mna wanunuzi kutoka Uganda ambao wana uwezo wa kutupa bei nzuri, waleteni Wizarani tutawapa leseni, watakwenda kununua katika mfumo rasmi bila kubugudhiwa na mtu yeyote.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u84" who="Spika">
+          <seg xml:id="seg189">Tunaendelea na Wizara ya Mmabo ya Nje na Ushirikiano wa Afrika ya Mashariki. Swali litaulizwa na Mheshimiwa Mhandisi Stella Manyanya.</seg>
+        </u>
+        <note>Na. 497. Diplomasia ya Uchumi Kupitia Meli ya MV Mbeya II</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u85" who="MheEngStellaMManyanya">
+          <seg xml:id="seg190">Je, Serikali ina mpango gani wa kuimarisha biashara kupitia Diplomasia ya Uchumi kati ya Tanzania na Malawi kwa kutumia meli ya MV Mbeya II?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u86" who="Spika">
+          <seg xml:id="seg191">Majibu ya swali hilo, Mheshimiwa Naibu Waziri wa Mambao ya Nje na Ushirikiano wa Afrika Mashariki, Mheshimiwa Balozi Mbarouk tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u87" who="NaibuWaziriWaMamboYaNjeNaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg192">Mheshimiwa Spika, ahsante sana na kwa niaba ya Waziri wa Mambo ya Nje na Ushirikiano wa Afrika Mashariki, naomba kujibu swali la Mheshimiwa Mhandisi Stella Martin Manyanya, Mbunge wa Nyasa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg193">Mheshimiwa Spika, meli ya MV Mbeya II yenye uwezo wa kubeba abiria 200 na tani 200 za mizigo ilizinduliwa rasmi na Mheshimiwa Kassim Majaliwa Majaliwa, Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania, tarehe 5 Januari, 2021. Meli hii kwa sasa inafanya safari kati ya Bandari za Tanzania tu za Kyela na Mbambabay.</seg>
+          <seg xml:id="seg194">Mheshimiwa Spika, utekelezaji wa Sera ya Diplomasia ya Uchumi ni miongoni mwa majukumu makubwa ya Wizara yangu. Kutokana na umuhimu mkubwa wa kukuza biashara kati ya Tanzania na Malawi na katika kuhakikisha kuwa meli ya MV Mbeya II inatumika ipasavyo, Ubalozi wa Tanzania nchini Malawi, ukishirikiana na Mamlaka ya Bandari Tanzania (TPA) imeanza mawasiliano na Serikali ya Malawi na taasisi zake kupitia Wizara ya Mambo ya Nje ya Malawi ili kuweka mazingira mazuri ya kuwezesha MV Mbeya II kufanya safari zake nchini Malawi.</seg>
+          <seg xml:id="seg195">Mheshimiwa Spika, ubalozi wetu uliopo Lilongwe, Malawi pia unafuatilia kwa karibu kufikia makubaliano (MoU) baina ya Serikali ya Tanzania na Malawi kuhusiana na uanzishaji wa Ofisi za TPA mjini Lilongwe ambazi zitasimamia utekelezaji na uendeshaji wa shughuli zote za kibiashara zinazotumia huduma za bandari za Tanzania. Hii inatokana na maazimio ya Marais wa Tanzania na Malawi wakati wa ziara ya Mheshimiwa Rais wa Malawi nchini Tanzania iliyofanyika tarehe 7 - 8 Oktoba, 2020.</seg>
+          <seg xml:id="seg196">Mheshimiwa Spika, kukamilika kwa taratibu hizo na kukamilika kwa kipindi cha majaribio ya meli hiyo na hivyo kuanza safari zake nchini Malawi, ni dhahiri kuwa biashara kati ya Tanzania na Malawi kwa kutumia Ziwa Nyasa itaimarika. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u88" who="Spika">
+          <seg xml:id="seg197">Mheshimiwa Manyanya tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u89" who="MheEngStellaMManyanya">
+          <seg xml:id="seg198">Mheshimiwa Spika, ahsante sana.</seg>
+          <seg xml:id="seg199">Kwa kuwa imethibitika kwamba Wilaya ambazo ziko mpakani zinanufaika sana kupitia biashara na majirani zao wa nje, na kwa kuwa katika Wilaya ya Nyasa, kwanza kuna uasilia wa kindugu lakini vilevile kuna changamoto kubwa za kukuza biashara na Malawi ingekuwa ni mkombozi mkubwa.</seg>
+          <seg xml:id="seg200">Mheshimiwa Spika, kwa kuwa Mheshimiwa Waziri ameonesha kuwa na uwezo mkubwa wa kidiplomasia kwa jinsi ambavyo amenijibu swali langu, namshukuru sana, je, Waziri una mpango gani wa kwenda kuongeza nguvu ya kupeleka ushawishi katika nchi ya Malawi?</seg>
+          <seg xml:id="seg201">Mheshimiwa Spika, swali la pili, kwa kuwa…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u90" who="Spika">
+          <seg xml:id="seg202">Ushawishi wa nini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u91" who="MheEngStellaMManyanya">
+          <seg xml:id="seg203">Mheshimiwa Spika, ushawishi wa kuhakikisha kwamba suala hilo ambalo tumelizungumzia la kibiashara linafanyika kwa kutumia meli na nyenzo nyingine.</seg>
+          <seg xml:id="seg204">Mheshimiwa Spika, swali la pili, ninapenda pia kumualika Mheshimiwa Waziri au Naibu Waziri kuja Wilaya ya Nyasa ili kuwafahamu wananchi wa kule na shughuli wanazozifanya na kuona namna bora zaidi ya kukamilisha kushughulikia suala hili la kibiashara. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u92" who="Spika">
+          <seg xml:id="seg205">Mheshimiwa Naibu Waziri, majibu ya maswali hayo tafadhali na mwaliko huo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u93" who="NaibuWaziriWaMamboYaNjeNaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg206">Mheshimiwa Spika, kwa niaba ya Waziri wa Mambo ya Nje na Ushirikiano wa Afrika Mashariki, naomba kujibu maswali ya nyongeza ya Mheshimiwa Engineer Stella Manyanya, Mbunge wa Nyasa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg207">Mheshimiwa Spika, kwanza naomba kumhakikishia Mheshimiwa Mbunge kwamba Wizara ya Mambo ya Nje na Ushirikiano wa Afrika Mashariki itafanya kila jitihada kwa kushirikiana na mamlaka husika nchini Malawi ili kuwezesha meli ya MV Mbeya II ianze safari zake kati ya Malawi na Tanzania pale taratibu zote zitakapokamilika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u94" who="NaibuWaziriWaMamboYaNjeNaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg208">Mheshimiwa Spika, kuhusu swali la pili ambao ni mwaliko, naomba kumhakikishia Mheshimiwa Mbunge</seg>
+          <seg xml:id="seg209">kwamba nitakuwa tayari, kwa idhini yako, kufanya safari hiyo ili kuona fursa mbalimbali ambazo ziko katika Wilaya ya Nyasa. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u95" who="Spika">
+          <seg xml:id="seg210">Ahsante sana Mheshimiwa Balozi Mbarouk Nassor Mbarouk, Naibu Waziri wa Mambo ya Nje.</seg>
+          <seg xml:id="seg211">Swali la mwisho kwa siku ya leo linakwenda Wizara ya Fedha na Mipango na litaulizwa na Mheshimiwa Juliana Daniel Shonza. Mheshimiwa Shonza tafadhali.</seg>
+        </u>
+        <note>Na. 498. Changamoto ya Msongamano wa Magari</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u96" who="Spika">
+          <seg xml:id="seg212">Mpaka wa Tunduma</seg>
+        </u>
+        <note>K.n.y. MHE. JULIANA D. SHONZA</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u97" who="MheGeorgeRMwenisongole">
+          <seg xml:id="seg213">Je, Serikali imejipangaje kutatua changamoto ya msongamano wa magari yanayovuka kuelekea nchi jirani kupitia mpaka wa Tunduma?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u98" who="Spika">
+          <seg xml:id="seg214">Ahsante sana. Majibu ya swali hilo Mheshimiwa Naibu Waziri wa Fedha na Mipango, Mheshimiwa Engineer Masauni tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u99" who="NaibuWaziriWaFedhaNaMipango">
+          <seg xml:id="seg215">Mheshimiwa Spika, kwa niaba ya Waziri wa Fedha na Mipango, naomba kujibu swali la Mheshimiwa Juliana Daniel Shonza, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg216">Mheshimiwa Spika, Serikali imekuwa ikichukua hatua mbalimbali kukabiliana na changamoto ya msongamano wa magari katika Kituo cha Forodha Tunduma. Hatua hizo ni pamoja na kutekeleza mpango wa kurasimisha utaratibu wa kubadilishana taarifa za mizigo kati ya Dar es Salaam na Nakonde, Zambia; kuendelea kutoa huduma za forodha kwa muda wa saa 24; kuimarisha mifumo ya TEHAMA ya pande</seg>
+          <seg xml:id="seg217">mbili ili kuwezesha taarifa za mizigo inayotoka katika Bandari ya Dar es Salaam kwenda Zambia kusomana kwa wakati; na kufuatilia kwa karibu utekelezaji wa makubaliano baina ya pande mbili ya Januari, 2020 kuhusu mkakati wa kuboresha miundombinu ya barabara pamoja na ujenzi wa maeneo ya maegesho ya magari kwa upande wa Zambia.</seg>
+          <seg xml:id="seg218">Mheshimiwa Spika, Serikali ya Jamhuri ya Muungano wa Tanzania kwa kushirikiana na Serikali ya Jamhuri ya Zambia zitaendelea kuimarisha utendaji wa taasisi zote zinazohusika na shughuli za forodha katika Kituo cha Tunduma, pamoja na kuboresha mifumo ya TEHAMA na miundombinu ya barabara ili kukabiliana na changamoto ya msongamano wa magari.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u100" who="Spika">
+          <seg xml:id="seg219">Mheshimiwa George Mwenisongole, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u101" who="MheGeorgeRMwenisongole">
+          <seg xml:id="seg220">Mheshimiwa Spika, ahsante kwa kunipa hii nafasi.</seg>
+          <seg xml:id="seg221">Mheshimiwa Spika, msongamano huu wa magari katika Mji wa Tuduma haujaathiri tu magari yanayopita mpakani, lakini umeathiri wananchi na usafiri wa daladala, na wananchi wote hata wanaokwenda mikoa ya jirani. Lakini Mheshimiwa Rais, Marehemu Dkt. Magufuli, alipofika wakati wa kampeni aliahidi kilometa 10 za lami kwa ajili ya kupunguza huu msongamano kwa ajili ya kujenga njia za pembezoni na za mchepuko. Sasa nini kauli ya Serikali kuhusu ahadi hii ya Mheshimiwa Rais aliyoitoa ya kilometa kumi za lami ili kupunguza msongamano katika Mji wa Tunduma? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u102" who="Spika">
+          <seg xml:id="seg222">Mheshimiwa Naibu Waziri wa Ujenzi na Uchukuzi, majibu tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u103" who="NaibuWaziriWaUjenziNaUchukuziMheEngGodfreyKMsongwe">
+          <seg xml:id="seg223">Mheshimiwa Spika, kwa niaba ya Waziri wa Fedha naomba kujibu swali la nyongeza la</seg>
+          <seg xml:id="seg224">Mheshimiwa George Mwenisongole, Mbunge wa Mbozi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg225">Mheshimiwa Spika, sisi kama Wizara ya Ujenzi na Uchukuzi tunakubali kwamba ahadi hiyo ilitolewa na Mheshimiwa Rais. Lakini kwa kutambua changamoto ya msongamano ambayo ipo pale Tunduma, Wizara ya Ujenzi na Uchukuzi ina mambo yafuatayo ili kuondoa hizo changamoto za msongamano.</seg>
+          <seg xml:id="seg226">Mheshimiwa Spika, kwanza, tunategemea kubadilisha mfumo wa mizani iliyopo iwe ni weigh in motion ambayo inachukua muda mfupi sana, pale Mpemba ambayo ni jirani, kama kilometa 10 pale Tunduma, ambayo inachukua takribani dakika moja mpaka mbili gari linakuwa limeshapita. Kwa hiyo, itakuwa ni moja ya njia za kuondoa msongamano.</seg>
+          <seg xml:id="seg227">Mheshimiwa Spika, suala la pili, nitumie Bunge hili kusema kwamba Halmashauri ya Tunduma waweze kuongeza maegesho ili magari ambayo hayaendi kwenye Kituo cha Forodha yasiwe na sababu ya kukaa barabarani. Kwa hiyo, ni fursa kwa Halmashauri ya Tunduma kuongeza maegesho.</seg>
+          <seg xml:id="seg228">Mheshimiwa Spika, mkakati wa tatu, ile barabara sasa hivi tunaifanyia utaratibu tuweze kupanua njia ili kuwe na lane badala kuwa na lane mbili ziwe walau ziwe hata lane nne, lakini mkakati wa nne ni kutengeneza bypass ya barabara ili magari yote ambayo yanakwenda ama yanatoka yaani yanakwenda Mkoa wa Rukwa na Mkoa wa Katavi hadi Kigoma yasiwe na sababu ya kupita Tunduma, kwa hiyo yapite pembeni ili kuruhusu hii barabara sasa iwe huru na tunaamini tukifanya hivyo tutakuwa tumepunguza sana msongamano katika njia hii. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u104" who="Spika">
+          <seg xml:id="seg229">Naona Mheshimiwa David Silinde anatamani aulize swali la nyongeza hapa. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u105" who="Spika">
+          <seg xml:id="seg230">Msongamano kule Namanga, Mheshimiwa Dkt. Kiruswa, tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u106" who="MheDktStevenLKiruswa">
+          <seg xml:id="seg231">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi niulize swali dogo la nyongeza kwenye suala hili la msingi lililolenga Wizara ya Fedha.</seg>
+          <seg xml:id="seg232">Katika mpaka wa Namanga kuna tatizo kubwa sawa la Tunduma la msongamano wa magari ambayo wakati mwingine huchukua hata zaidi ya siku tatu yakingojea kuwa cleared yaweze kuendelea na safari na adha kubwa inayotokea ni kwamba hakuna miundombinu ya vyoo, mahali pa kuoga wale wanaokaa kwenye malori na wanachafua sana mazingira.</seg>
+          <seg xml:id="seg233">Mheshimiwa Spika, je, Serikali inampango gani wa kuhakikisha kwamba wakati mipango ya kutengeneza maeneo sahihi ya kuengesha haya malori na sisi Longido tuna sehemu TANROADS wametenga zaidi ya hekari 200 na ujenzi unaendelea, wana mpango gani wa kuhakikisha kwamba wananchi wa mipakani hawapati magonjwa ya mlipuko kwa sababu ya msongamano wa magari na hakuna miundombinu ya kijamii?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u107" who="Spika">
+          <seg xml:id="seg234">Bado tupo kwako Mheshimiwa Naibu Waziri kama ulikuwa unamsikiliza maswali yake, majibu tafadhali, msongamano wa Namanga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u108" who="NaibuWaziriWaUjenziNaUchukuziMheEngGodfreyKMsongwe">
+          <seg xml:id="seg235">Mheshimiwa Spika, kwa niaba ya Waziri wa Fedha, naomba kujibu swali la nyongeza la Mheshimiwa Dkt. Kiruswa, Mbunge wa Longido kama ifuatavyo:-</seg>
+          <seg xml:id="seg236">Mheshimiwa Spika, kama nilivyosema kwenye jibu la nyongeza la Mheshimiwa Mwenisongole, naomba nimuhakikishie Mheshimiwa wa Jimbo la Longido kwamba Serikali inazifahamu hizo changamoto na tupo kusaidiana na wenzetu, sisi ndiyo tunaojenga vile vituo tunayatambua hayo na tutahakikisha katika mpango wa karibu tunakwenda</seg>
+          <seg xml:id="seg237">kuondoa hizo changamoto ikiwa ni pamoja na kujenga hiyo miundombinu ya haraka ili wananchi wasiweze kupata adha ikiwa ni pamoja na kuangalia utaratibu wa kupunguza ile misongamano kwa kujenga barabara na maegesho makubwa ili magari yatakayokuwepo kwenye foleni ni yale tu ambayo yanatakiwa kwenda kwenye Vituo vya Forodha, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u109" who="Spika">
+          <seg xml:id="seg238">Ahsante sana, tumemaliza kipindi cha maswali, nianze na matangazo baadaye nitatambulisha wageni.</seg>
+          <seg xml:id="seg239">Waheshimiwa Wabunge Wanawake wa CCM mnaalikwa kuhudhuria ufunguzi wa kikao cha kawaida cha Baraza Kuu la UWT kitakachofanyika tarehe 26 Juni, 2021 kuanzia saa tatu asubuhi katika ukumbi wa NEC Dodoma. Mgeni Rasmi atakuwa ni Katibu Mkuu wa Chama cha Mapinduzi.</seg>
+          <seg xml:id="seg240">Kuna tangazo kwamba leo Ijumaa tarehe 25 Juni, 2021 baada ya kuahirisha Bunge kutakuwa na semina kuhusu Mfuko wa Barabara na umuhimu wa matengenezo ya barabara nchini. Semina hiyo itafanyika katika ukumbi wa Pius Msekwa, semina itaendeshwa na Wizara ya Ujenzi na Uchukuzi. Kwa hiyo Waheshimiwa tukitoka hapa tunaenda kwenye semina ambayo utaratibu wake umekaa vizuri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u110" who="Spika">
+          <seg xml:id="seg241">Waheshimiwa Wabunge, nawatangazieni kwamba kesho tarehe 26 Juni kutakuwa na mechi ya kirafiki ya mpira wa miguu na mpira wa pete kati ya Bunge Sports Club dhidi ya Chuo Kikuu cha Dodoma (UDOM) michezo yote itafanyika katika viwanja vya College ya Informatics kuanzia saa kumi alasiri kule UDOM.</seg>
+          <seg xml:id="seg242">Wageni wengine ni wageni maalum kabisa hawa ni wageni wa Mheshimiwa Waziri Mkuu ambao ni wagenu 36 hii ni timu ya Ruangwa Queens. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u111" who="Spika">
+          <seg xml:id="seg243">Naomba msimame Ruangwa Queens, hawa wapo kwenye ligi ya daraja la kwanza hapa Dodoma na jana</seg>
+          <seg xml:id="seg244">wameifunga Njombe Jiji goli moja, hongereni sana, hongereni sana na Mheshimiwa Waziri Mkuu yupo hapa mnamuona na anafanya kazi nzuri sana na ndiyo kiongozi wetu hapa Bungeni, hongereni sana Wana Ruangwa, muwapelekee salaam huko, huko Ruangwa kwa wingi. Ahsante sana, ahsante. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u112" who="Spika">
+          <seg xml:id="seg245">Golikopa wa timu hii naomba asimame huyu anaitwa Manula, huyu anadaka kweli kweli, hongera sana golikipa wetu. Haya Bunge Queens kama kweli mnajiweza hebu fanyeni utaratibu muone mtakavyopigwa magoli na Ruangwa Queens, naona mmebonyea kimya Bunge Queens, karibuni sana tumefurahi sana kuwa nanyi, karibu sana. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u113" who="Spika">
+          <seg xml:id="seg246">Wageni wa Waheshimiwa Wabunge, ni wageni 36 wa Mheshimiwa Dkt. Medard Kalemani - Waziri wa Nishati ambao ni Wanakwaya wa KKKT kutoka Chato, Mkoani Geita wakiongozwa na Ndugu Abia Gikanka. Wale Wanakwaya kutoka Chato, karibuni sana, karibuni sana, sana wanakwaya hivi Chato nao wanajua kuimba kweli ndiyo leo nasikia jamani. Hongereni sana na karibuni sana tungekuwa hapo nje tungesema m-tune kidogo tuone, ahsante sana. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u114" who="Spika">
+          <seg xml:id="seg247">Tuna wageni 21 wa Mheshimiwa George Mwenisongole ambao ni Wakuu wa Shule za Msingi kutoka Mbozi, Mkoani Songwe wakiongozwa Mwalimu Mathias Joseph. Wale walimu, karibu sana, karibuni sana, sana, karibuni sana Dodoma, karibuni sana Bungeni, tumefurahi na tunafarijika kuwa nanyi, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u115" who="Spika">
+          <seg xml:id="seg248">Kwa kweli kwa Dodoma kwa upande wa utalii wa ndani Bunge letu linaongoza kwa kuleta Watanzania Bungeni, kabisa, kabisa na tuzidi kuwaalika Watanzania wengine waendelee kujiandaa kwa Mabunge yanayokuja ni vizuri kutembelea Bunge lenu na kuweza kuona namna gani Bunge linafanyakazi siyo unapiga kura tu halafu Mbunge anaenda wapi hupajui, tunawakaribisheni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u116" who="Spika">
+          <seg xml:id="seg249">Wageni 40 wa Mheshimiwa Aloyce Kamamba ambao ni wapigakura wake kutoka Kakonko, Mkoa wa Kigoma wakiongozwa na Agnes Malinzi. Wale wa Kankoko, jamani, jamani, karibuni sana, karibuni sana, karibuni Wayungu, hawa wanaitwa Wayungu hawa maana kutoka Jimbo la Buyungu karibuni sana. Wametoka mbali kweli kweli, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u117" who="Spika">
+          <seg xml:id="seg250">Wageni watatu wa Mheshimiwa Innocent Bashungwa, Waziri wa Habari, Utamaduni, Sanaa na Michezo ambao ni Mkurugenzi wa Sera na Mipango wa Wizara na mtoto wake Ndugu Bernard Lubogo, Onesphorus Lubogo na Ndugu Cynthia Lubogo, karibuni sana, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u118" who="Spika">
+          <seg xml:id="seg251">Mgeni wa Mheshimiwa Anne Malecela, ooh huyu namruka hajaja.</seg>
+          <seg xml:id="seg252">Wageni 20 wa Mheshimiwa Priscus Tarimo, ambao ni Wanafunzi wa Chuo Kikuu cha UDOM wanaotoka Moshi Mkoani Kilimanjaro, wakiongozwa na Juma Omary. UDOM karibuni sana UDOM, karibuni simameni tuwaone, basi karibuni sana, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u119" who="Spika">
+          <seg xml:id="seg253">Wageni wanne wa Mheshimiwa Jacqueline Kainja ambao ni ndugu zake kutoka Urambo Mkoani Tabora wakiongozwa na wifi yake Ndugu Zabibu Mkamba. Karibuni sana, karibuni sana Wanyamwezi ninyi angalieni magari mengi mjini hapa, karibuni sana. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u120" who="Spika">
+          <seg xml:id="seg254">Mgeni wa Mheshimiwa Florent Kyombo ambaye ni Kada wa Chama cha Mapinduzi kutoka Misenyi, Ndugu Gisela Banyenda, ahsante sana </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u121" who="Spika">
+          <seg xml:id="seg255">Wageni 20 Mheshimiwa Jesca Msambatavangu, ambao ni walimu na wanafuzi wa shule ya sekondari ya Kwafilosa kutoka Iringa wakiongozwa na Mkuu wa shule Ndugu Dario Gakala. Karibuni sana wa Iringa, watoto wetu karibuni sana sana kutoka Iringa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u122" who="Spika">
+          <seg xml:id="seg256">Wageni 16 wa Mheshimiwa Timothy Mnzava, wanafunzi wa UDOM wanaotoka Korogwe Vijijini. Wale wa UDOM wanaotoka Korogwe, karibuni sana, wapo pale juu kabisa, karibuni sana, sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u123" who="Spika">
+          <seg xml:id="seg257">Wageni 26 wa Mheshimiwa Antipas Mgungusi ambao ni wanafunzi wa vyuo vikuu mbalimbali wakiwa hapa Dodoma wanaotoka Morogoro wakiongozwa na Reuben Kitungu, wale wa Morogoro wanaosoma Vyuo Vikuu vya Dodoma, karibuni sana pia, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u124" who="Spika">
+          <seg xml:id="seg258">Wageni watatu wa Mheshimiwa Rashid Shangazi, ambao ni Viongozi wa Dini ya Kiislamu kutoka Mkoani Tanga Hassan Shedafa, Mohamed Hamis na Hillal Yunus, karibuni sana, wale pale, karibuni sana, sana, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u125" who="Spika">
+          <seg xml:id="seg259">Wageni wawili wa Mheshimiwa Festo Sanga kutoka Dodoma, Veronica Noti na Issa Ally, karibuni wale pale. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u126" who="Spika">
+          <seg xml:id="seg260">Wageni watatu wa Mheshimiwa Shukrani Manya, ambao ni marafiki zake Martha Ngwenya, Kelvin James na Louis Sebyiga, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u127" who="Spika">
+          <seg xml:id="seg261">Mgeni wa Mheshimiwa Nicholaus Ngassa kutoka Dar es Salaam Godfrey Surera, karibu Godfrey. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u128" who="Spika">
+          <seg xml:id="seg262">Wageni 16 wa Mheshimiwa Jafari Chege, ambao ni wapigakura wake kutoka Rorya, Mkoani Mara, karibuni sana kutoka Rorya, inathibisha jinsi nilivyosema Bunge linatembelewa kutoka maeneo mbalimbali, maana tumepata toka Kankoko, kutoka Rorya, kutoka Kyela kila mahali nchini wanakuja, karibuni sana. Tunaamini Rorya kule mmetuletea kamongo. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u129" who="Spika">
+          <seg xml:id="seg263">Mgeni wa Mheshimiwa Yustina Rahhi ambaye ni mdogo wake kutoka Hanang Ndugu Daniel Tsere, karibu sana Daniel. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u130" who="Spika">
+          <seg xml:id="seg264">Wageni wawili wa Mheshimiwa Ndaisaba Ruhoro, ambao ni Wasanii kutoka Dar es Salaam, Hassan Yagga na Gladness Kifaruka, karibuni wasanii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u131" who="Spika">
+          <seg xml:id="seg265">Wageni 28 wa Mheshimiwa Jackson Kiswaga ambao ni wanakwaya wa Waadventista kutoka Nzihi, Mkoani Iringa wakiongozwa na Yolanda Kavenuke. Wale Waadventista Wasabato kutoka Iringa karibuni sana sana, karibuni sana ndugu zangu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u132" who="Spika">
+          <seg xml:id="seg266">Wageni 71 wa Waheshimiwa Rose Tweve na Cosato Chumi ambao ni wanakwaya ya Mtakatifu Cecilia kutoka Mafinga Mkoani Iringa wakiongozwa na Ndugu Dickson Mwipopo. Cecilia, hongereni sana sana, karibuni sana sana leo Iringa imetia fora, karibuni sana Mtakatifu Cecilia, tumefurahi sana kuwa nanyi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u133" who="Spika">
+          <seg xml:id="seg267">Wageni sita wa Mheshimiwa Dkt. Rita Kabati, ambao ni ambao ni wanafunzi wa UDOM wanaotoka Iringa wakiongozwa na Omary Gandaga, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u134" who="Spika">
+          <seg xml:id="seg268">Wageni sita wa Mheshimiwa Bupe Mwakang’ata ambao ni wanafunzi wa UDOM Gidius Kato, Emmanuel Mlay na Mary Hassan, karibuni sana, popote pale mlipo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u135" who="Spika">
+          <seg xml:id="seg269">Wageni wawili wa Mheshimiwa Boniphace Butondo ambao ni Madiwani kutoka Kishapu, Mkoani Shinyanga, Mheshimiwa Richard Kasanzu na Mheshimiwa Lameck Nsubata. Madiwani karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u136" who="Spika">
+          <seg xml:id="seg270">Wageni watano wa Mheshimiwa Kwagilwa Reuben ambao ni familia yake kutoka Handeni Mkoani Tanga wakiongozwa na Mke wake Odilia Kasiga, ahsante sana karibuni sana, Mama Kwagilwa hatujakuona bado, usimame tena. Anatoka Handeni Mjini huyo, haya bwana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u137" who="Spika">
+          <seg xml:id="seg271">Wageni watatu wa Mheshimiwa Stanslaus Mabula ambao ni rafiki zake kutoka Jijini Dar es Salaam; Hamisi Pele, Ahmed Ngahemela na Sabri Balagash, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u138" who="Spika">
+          <seg xml:id="seg272">Mgeni wa Mheshimiwa Mwantumu Zodo, Ndugu Mujibu Wandi, karibu Mujibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u139" who="Spika">
+          <seg xml:id="seg273">Wageni watatu wa Mheshimiwa Augustine Vuma, Ndugu Simon Malando, Martin Malando na Mathayo Nyanda, karibuni sana popote pale mlipo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u140" who="Spika">
+          <seg xml:id="seg274">Wageni wawili wa Mheshimiwa Assa Makanika ambao ni ndugu zake kutoka Marekani; Regina Helus na Olivia Kasihwaki, karibuni sana, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u141" who="Spika">
+          <seg xml:id="seg275">Kwa mafunzo; wageni 50 kutoka Kanisa la Wasabato Nyamazobe la Nyegezi, Jijini Mwanza wakiongozwa na Augustine Musalamba, wale nafikiri wataingia baadaye sababu gallery zimejaa, wapo wapi? Okay karibuni sana, karibuni sana watani zetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u142" who="Spika">
+          <seg xml:id="seg276">.</seg>
+          <seg xml:id="seg277">Wageni 30 kutoka Chuo cha Ustawi wa Jamii kilichopo Jijini Dar es Salaam, Chuo cha Ustawi wa Jamii Dar es Salaam, karibuni sana Chuo cha Ustawi wa Jamii, karibuni Dodoma, karibuni Bungeni na ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u143" who="Spika">
+          <seg xml:id="seg278">Wageni watano kutoka Dodoma hapa hapa wakiongozwa na Lucy Kamugisha, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u144" who="Spika">
+          <seg xml:id="seg279">Kuna mgeni kutoka hapa hapa Dodoma ambaye ni Ndugu Yusuph Ogutu, karibu sana Ogutu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u145" who="Spika">
+          <seg xml:id="seg280">Wageni wawili kutoka Dodoma hapa hapa Anna Mbarouk na Monica Mbarouk, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u146" who="Spika">
+          <seg xml:id="seg281">Wageni wawili kutoka Jijini Dar es Salaam ambao Ndugu Mary Massawe na Glory Monyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u147" who="Spika">
+          <seg xml:id="seg282">Huo ndiyo mwisho wa matangazo na wale wanafunzi wa UDOM wanaotoka jimbo la Mchinga naomba msimame, karibuni sana, karibuni sana sana. Karibu, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u148" who="MheAbdallahJChaurembo">
+          <seg xml:id="seg283">Mheshimiwa Spika, Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u149" who="Spika">
+          <seg xml:id="seg284">Mwongozo wa Spika, tuendelee.</seg>
+          <seg xml:id="seg285">MWONGOZO WA SPIKA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u150" who="MheAbdallahJChaurembo">
+          <seg xml:id="seg286">Mheshimiwa Spika, nasimama kwa Kanuni ya 76 kuomba mwongozo wako.</seg>
+          <seg xml:id="seg287">Mheshimiwa Spika, jana tarehe 24 Juni wakati nauliza swali la nyongeza kutokana na swali la msingi namba 488 la Mheshimiwa Zacharia Paulo Issaay, Mbunge wa Mbulu, niliuliza swali kutaka kujua mgawanyo wa zilizokuwa mali ya Jiji la Dar es Salaam. Kwa bahati mbaya sana moja ya vyombo vya habari viliripoti vibaya swali hilo na kuandika Mheshimiwa Chaurembo amehoji juu ya kuvunjwa kwa Jiji la Dar es Salaam.</seg>
+          <seg xml:id="seg288">Mheshimiwa Spika, chombo hiki kwa kweli kimenifadhaisha sana, kimeniletea magomvi na baadhi ya Wabunge wenzangu wanaotokana na Jiji la Dar es Salaam, lakini pia kimenifadhaisha nakunisababishia kujihisi kama kinataka kunichonganisha na chama changu pamoja na Serikali yangu kwa ujumla.</seg>
+          <seg xml:id="seg289">Mheshimiwa Spika, naomba mwongozo wako. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u151" who="Spika">
+          <seg xml:id="seg290">Naomba jambo hili tulichukue kama meza tutafanya ufuatiliaji wa jambo hili, lakini kwa ujumla tukupe pole sana na tuwaambie Wabunge wa Dar es Salaam kwamba ndugu yetu hakuwa na nia hiyo ambayo mnaifikiria na niviase tu vyombo vya habari, muwasikilize vizuri Wabunge, muwatendee haki badala ya kupotosha potosha taarifa kwa lengo maalum na hata tukimwambia atueleze hapa ni chombo gani utakuta ni vyombo vile ambavyo vina nia mbaya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u152" who="Spika">
+          <seg xml:id="seg291">Kwa hiyo, vyombo vya habari tuwe makini sana na hasa mitandao yetu pia. Serikali wenzetu mitandao imekuwa ni mahali ambapo watu wanafikiri wanaweza kumdhalilisha mtu yeyote, wanaweza wakafanya chochote, hili eneo lina matatizo sana. Kwa mfano pia jana kuna tangazo fulani</seg>
+          <seg xml:id="seg292">lilitoka la majina mengi kwamba limetolewa na TRA katika majina yale mengi ya Wizara mbalimbali yapo na majina ya Wabunge wa Bunge la Kumi na Moja lililomaliza muda wake, nafikiri mliliona Waheshimiwa kwenye mitandao huko.</seg>
+          <seg xml:id="seg293">Kumbe lengo lao kumfuatilia mtu mmoja tu wanayemtaka wao kuonyesha kwamba ana madai fulani Bungeni, lakini orodha imetolewa ndefu na wakaanza kumshambulia Spika mle na kuchonganisha na kadhalika.</seg>
+          <seg xml:id="seg294">Niseme tu kwa wote walioguswa tangazo hilo ni la uongo, ni tangazo lilikuwa la mwaka 2018 huko nyuma na malipo hayo yalisharekebishwa na niwaambie Wabunge ambao wamemaliza muda wao maana yake wengine hali mbaya huko. Sasa walipoona lile tangazo simu ya Spika imejaa bwana tuna madeni tunadai kwako, hakuna anayedai Bunge, hakuna, hakuna. Katika chombo ambacho kinafanya kazi vizuri kimojawapo ni Bunge jamani, kweli kabisa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u153" who="Spika">
+          <seg xml:id="seg295">Mbunge awe ni Mbunge wa Upinzani sijui wa wachache, sijui wa wengi, hakuna anayedai. Awe aliyekuwepo, aliyekuwepo kabla ya kabla, hakuna anayedai na kama mtu ameishiwa huko Ulaya au wapi si aseme tu kuliko kusingizia Bunge kila wakati kwamba kuna madai. Hakuna anayedai, hayupo na hata huyo mtu wao alilipwa kila kitu, ila malipo yake yalipokwenda Benki, Benki walichukua zote. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u154" who="Spika">
+          <seg xml:id="seg296">Unajua watu wengine wanataka kila wakati mje na vitu kumuumbua mtu, kwa nini mnaamini amini vitu ambavyo havipo! Bunge ni moja ya chombo ambacho hakimuonei mtu, kama mtu ana madai yoyote unafuatwa utaratibu, hakuna shida. Bunge haliko hivyo, hatujawahi kuwa hivyo sisi hata siku moja, hatumuonei mtu kwa sababu sijui ametoka wapi au imekuwaje hapana hatufanyi hivyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u155" who="Spika">
+          <seg xml:id="seg297">Kwa hiyo, wale wa mitandao tunaomba sana mlipe heshima Bunge na kama mtu mmoja ana mambo yake hayo ni mambo yake na anapaswa kufuata channel zilizopo ili</seg>
+          <seg xml:id="seg298">kutatua. Na upande wa Serikali haidaiwi chochote katika lile tangazo, ni tangazo la zamani na lilishakuwa sorted zamani hizo halituhusu hivi sasa wala halipo. Hata Wizara ya Fedha nadhani tangazo lao ni hivyo kwamba ni la zamani na si la sasa, maana ni la 2018. Walichofanya kwenye tangazo lile hawajaweka tarehe, halafu wanalitoa mara kwa mara.</seg>
+          <seg xml:id="seg299">Kwa hiyo shida hii sio ya kwako Chaurembo peke yako inatusumbua watu wengi sana misinformation katika nchi yetu. Halafu watu wanaondoka scot- free, anachanganya umma, hafanywi chochote, halafu siku nyingine tena hafanywi chochote. Tena wengine wanajiita Mchungaji sijui nani nani yaani unashangaa kabisa. Lakini huko mbele tunavyozidi kwenda baadhi yao tutaanza kuwaita, Kamati yetu ya Maadili iko pale pale, tumevumilia ya kutosha. (makofi)</seg>
+          <seg xml:id="seg300">Baadhi yao tutaanza nao sasa kwenda nao sambamba maana yake tunakaribia kuchoka, hii hali ya kupakana pakana matope kusikokuwa na mbele wala nyuma. Tunaomba wajue Taasisi ya Bunge ina namna ya kuji-defend wawe makini sana na taarifa zinazohusu Bunge hasa za upotoshaji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u156" who="Spika">
+          <seg xml:id="seg301">Katibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u157" who="NdgJoshuaChamwelaKatibuMezani">
+          <seg xml:id="seg302">MISWADA YA SHERIA YA SERIKALI Muswada wa Sheria kwa ajili ya kufanya marekebisho katika sheria mbalimbali zipatazo 14 kwa lengo la kuondoa mapungufu ambayo yamejitokeza katika sheria hizo wakati wa utekelezaji wa baadhi ya masharti katika sheria hizo (A Bill for An Act to Amend Certain Written Laws).</seg>
+        </u>
+        <note>(Kusomwa Mara ya Kwanza)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u158" who="Spika">
+          <seg xml:id="seg303">Ahsante. Tumepata Hati ya Dharura kutoka kwa Mheshimiwa Rais wa Jamhuri ya Muungano - Samia</seg>
+          <seg xml:id="seg304">Suluhu Hassan ya kututaka tushughulikie sheria ambazo ziko katika Muswada wa Sheria ya Marekebisho ya Sheria Mbalimbali Namba 3 wa mwaka 2021 na ni muhimu kwa sababu ni sheria zinazorekebishwa zinazoendana na uwekezaji wa bomba la mafuta la kutoka Uganda. Kwa hiyo, linagusa sekta mbalimbali ili kuwezesha uwekezaji huo kuweza kwenda vizuri bila matatizo yoyote na sisi Wabunge mnafahamu tuna-support kabisa mradi huo. Kwa hiyo, tutaushughulikia muswada huu kwa hatua zake zote katika kipindi hiki hiki cha Bunge kabla hatujaondoka hapa.</seg>
+          <seg xml:id="seg305">Kwa hiyo, Muswada huo tutaujadili siku ya Jumatano wiki ijayo, siku ambayo ndio tutaujadili Muswada huo baada ya maswali, tukimaliza Muswada huo ndio Mheshimiwa Waziri Mkuu, atasimama kusoma hotuba ya kuahirisha Bunge hadi wakati mwingine. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u159" who="Spika">
+          <seg xml:id="seg306">Sasa Muswada huo una sheria mbalimbali zinazohitaji marekebisho, utakuwa kwenye Kamati ya Katiba na Sheria. Lakini kwa sababu ni sheria mbalimbali zinagusa sekta mbalimbali za nishati, za uchukuzi, za mambo ya barabara na kadhalika, nimeteua Wabunge ambao wataungana kutoka kamati mbalimbali ambao wataungana na Kamati ya Katiba na Sheria na wataanza kuushughulikia leo leo huo muswada na siku zinazoendelea ili by Jumatano ya wiki ijayo tuweze kuuingiza humu ndani na tuweze kuusoma. Naamini Katibu mtauweka kwenye tablets za Waheshimiwa Wabunge.</seg>
+          <seg xml:id="seg307">Kutoka Kamati ya Sheria Ndogo ambao nimewateua wajiunge na Kamati hiyo ya Katiba na Sheria, ni Mheshimiwa Ridhiwani Kikwete, Mheshimiwa Judith Kapinga, Mheshimiwa Ramadhan Suleiman Ramadhan, Mheshimiwa Sylivia Francis Sigula na Mheshimiwa Priscus Jacob Tarimo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u160" who="Spika">
+          <seg xml:id="seg308">Kamati ya Miundombinu ni Mheshimiwa Moshi Selemani Kakoso, Mheshimiwa Miraji Jumanne Mtaturu, Mheshimiwa Masache Njelu Kasaka, Mheshimiwa Zuberi Mohamed Kuchauka na Mheshimiwa Ally Anyigulile Jumbe Mlaghila. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u161" who="Spika">
+          <seg xml:id="seg309">Kamati ya Nishati na Madini ni Mheshimiwa Dunstan Luka Kitandula, Mheshimiwa Seif Khamis Said Gulamali, Mheshimiwa Kenneth Ernest Nollo, Mheshimiwa Nusrat Shaaban Hanje na Mheshimiwa Stella Martin Manyanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u162" who="Spika">
+          <seg xml:id="seg310">Na Kamati ya Utawala na Serikali za Mitaa, maana yake kuna Sheria za Serikali za Mitaa ambazo nazo zitaguswa na bomba hili ni Mheshimiwa Humphrey Hesron Polepole, Mheshimiwa Abdallah Jafari Chaurembo, Mheshimiwa Tunza Issa Malapo, Mheshimiwa Dennis Lazaro Londo na Mheshimiwa Margaret Simwanza Sitta. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u163" who="Spika">
+          <seg xml:id="seg311">Hao watajiunga na Kamati ya Katiba na Sheria ili kuweza kuweka sawa mambo haya na wengine tunaruhusiwa siku moja moja kupita pita huko kuona nini kinachoendelea, ila usidai mambo mengine yanayohusu utaratibu. Ahsante.</seg>
+          <seg xml:id="seg312">Katibu.</seg>
+          <seg xml:id="seg313">NDG. NENELWA MWIHAMBI, ndc – KATIBU MEZANI: Uchaguzi wa Wajumbe kwenye Taasisi mbalimbali.</seg>
+          <seg xml:id="seg314">UCHAGUZI</seg>
+          <seg xml:id="seg315">Waheshimiwa Wabunge, kama inavyoonekana kwenye Order Paper ya leo, Ijumaa tarehe 25 Juni, 2021 kutakuwa na Uchaguzi wa Wajumbe kwenye Taasisi mbalimbali kupitia rasmi sasa hapa Bungeni. Uchaguzi huu unafanyika kwa kuwa nafasi za uwakilishi katika vyombo au taasisi mbalimbali zenye uwakilishi wa Bunge zimebaki wazi baada ya Bunge la Kumi na Moja lililokuwa mwaka 2015/ 2020 kuvunjwa mwaka jana.</seg>
+          <seg xml:id="seg316">Nafasi zilizopo ni Tume ya Utumishi wa Bunge, Bunge la Afrika, Jukwaa la Mabunge ya Jumuiya ya Maendeleo ya Afrika ya Kusini mwa Afrika kwa maana ya SADC-PF, Umoja wa Mabunge Duniani (IPU) na Umoja wa Maziwa Makuu (Great Lakes).</seg>
+          <seg xml:id="seg317">Kanuni ya 14 na Nyongeza ya Pili ya Kanuni za Kudumu za Bunge Toleo la Juni, 2020 kwa ujumla wake inaelekeza kwamba Uchaguzi wa Wabunge wanaokwenda katika vyombo vingine ambavyo kwa mujibu wa mikataba au sheria zinazounda vyombo hivyo, vinatakiwa viwe na wawakilishi wa Bunge utafanywa kwa kuzingatia kwa kadri iwezekanavyo uwiano wa idadi ya Wabunge wa vyama vya siasa vyenye uwakilishi Bungeni, uwakilishi wa jinsia na pande mbili za Muungano na kwa kuzingatia utaratibu wa Kanuni za Uchaguzi wa Wabunge hao uliowekwa katika Nyongeza ya Pili ya Kanuni za Bunge.</seg>
+          <seg xml:id="seg318">Kama nilivyowatangazia tarehe 7 Juni, 2021 kwamba Wabunge wenye nia ya kugombea nafasi za uwakilishi wapeleke majina yao kwenye ofisi za vyama, hivyo basi majina yaliyopokelewa na kupendekezwa kujaza nafasi hizo yanatoka kwenye kambi husika na caucus husika.</seg>
+          <seg xml:id="seg319">Sasa kwa kuwa idadi ya wagombea waliojitokeza kwa maana ya majina tuliyoyapokea rasmi ni sawasawa na idadi ya nafasi zilizopo, maana wangekuwa ni wengi kuliko idadi ya nafasi maana yake tungefanya chaguzi kwa kupiga kura. Lakini idadi ya majina yaliyokuja ni sawasawa na idadi inayotakiwa. Katika mazingira kama hayo wagombea hawa watapita moja kwa moja bila kupingwa, lakini kwa taratibu zetu nitalihoji Bunge ili muweze kulithibitishia, kama hawa wagombea mnawapitisha rasmi au vinginevyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u164" who="Spika">
+          <seg xml:id="seg320">Kwa hiyo, nitawataja majina halafu nitawahoji mnaoafiki na msioafiki. Majina niliyoyapata kwa upande wa Tume ya Huduma za Bunge ambayo Mwenyekiti wake ni Spika, Makamu Mwenyekiti ni Naibu Spika na Waziri wa Nchi tunaingia moja kwa moja kwa sababu ya ile sheria. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u165" who="Spika">
+          <seg xml:id="seg321">Wajumbe wanaoongezeka hapo sasa kuunda Tume ya Bunge wanaopendekezwa, ni Mheshimiwa Aeshi Khalfan Hilaly, Mheshimiwa Rashid Abdallah Shangazi, Mheshimiwa Janejelly James Ntate, Mheshimiwa Zahor Mohammed Haji,</seg>
+          <seg xml:id="seg322">Mheshimiwa Fakharia Shomar Khamis, Mheshimiwa Halima James Mdee na Mheshimiwa Khalifa Mohamed Issa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u166" who="Spika">
+          <seg xml:id="seg323">Sasa nawahoji wanaoafiki kwamba hawa wawe Wajumbe wa Tume waseme ndio, wasioafiki waseme sio.</seg>
+        </u>
+        <note>(Hoja Iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u167" who="Spika">
+          <seg xml:id="seg324">Wote wameafiki. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u168" who="Spika">
+          <seg xml:id="seg325">Tunakwenda Bunge la Afrika (PAP) wawakilishi ni watano, ninawasoma watano hao; Mheshimiwa Ng’wasi Damas Kamani, Mheshimiwa Toufiq Salim Turky, Mheshimiwa Jerry William Silaa, Mheshimiwa Nape Moses Nnauye na Mheshimiwa Anatropia Lwehikila Theonest. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u169" who="Spika">
+          <seg xml:id="seg326">Wanaoafiki waseme ndio, wasioafiki waseme sio.</seg>
+        </u>
+        <note>(Hoja Iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u170" who="Spika">
+          <seg xml:id="seg327">Wote wameafiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u171" who="Spika">
+          <seg xml:id="seg328">Kwa hiyo, watano hao ndio wawakilishi wetu kwenye chombo hicho cha PAP.</seg>
+          <seg xml:id="seg329">Kwenye SADC-PF, Wabunge wa Jumuiya ya Maendeleo ya Kusini mwa Afrika, Wajumbe wake ni wanne na watano Mheshimiwa Shally Raymond. Hawa wanne wanaoungana na Mheshimiwa Shally Raymond ni Mheshimiwa Kassim Hassan Haji, Mheshimiwa Selemani Jumanne Zedi, Mheshimiwa Dkt. Alfred James Kimea na Mheshimiwa Hawa Subira Mwaifunga. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u172" who="Spika">
+          <seg xml:id="seg330">Wanaoafiki waseme ndio, wasioafiki waseme sio.</seg>
+        </u>
+        <note>(Hoja Iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u173" who="Spika">
+          <seg xml:id="seg331">Wote wameafiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u174" who="Spika">
+          <seg xml:id="seg332">Umoja wa Mabunge Duniani (IPU), Umoja huu Wabunge wengi humu ndani hawaufahamu. Umoja wa</seg>
+          <seg xml:id="seg333">Mataifa (UN) inayo-wing Geneva ambayo wing hii ndio inashughulikia habari ya Mabunge yote duniani, actually hili ndio Bunge kubwa Duniani, maneno mengi sana humu ndani huwa PAP, PAP, PAP hakuna cha PAP wala nani, IPU ndio kiboko yao na hata mikutano yake ni mikubwa sana na inahusisha sio tu Wajumbe hawa, lakini na Maspika wote Duniani, ambao wanahudhuria na basi mengine tutazidi kuelezana. Kwa miaka ijayo mahali pa kuomba ni IPU sio huko kwingine. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u175" who="Spika">
+          <seg xml:id="seg334">Waliopita kwenye eneo hilo ambao wanapendekezwa ni Mheshimiwa Engineer Mwanaisha Ng’anzi Ulenge, Mheshimiwa Ramadhani Suleiman Ramadhani, Mheshimiwa Joseph Kizito Mhagama, Mheshimiwa Elibariki Immanuel Kingu na Mheshimiwa Esther Nicholas Matiko. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u176" who="Spika">
+          <seg xml:id="seg335">Wanaoafiki hawa wawe Wajumbe wetu waseme ndio, wasioafiki waseme sio.</seg>
+        </u>
+        <note>(Hoja Iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u177" who="Spika">
+          <seg xml:id="seg336">Wote wameafiki, nawashukuruni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u178" who="Spika">
+          <seg xml:id="seg337">Umoja wa Maziwa Makuu (Great Lakes), mapendekezo ni Mheshimiwa Dkt. Christine Gabriel Ishengoma, Mheshimiwa Najma Murtaza Giga, Mheshimiwa Engineer Ezra John Chiwelesa, Mheshimiwa Deus Clement Sangu na Mheshimiwa Shamsia Azizi Mtamba. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u179" who="Spika">
+          <seg xml:id="seg338">Wanaoafiki waseme ndio, wasioafiki waseme sio.</seg>
+        </u>
+        <note>(Hoja Iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u180" who="Spika">
+          <seg xml:id="seg339">Basi wamechaguliwa.</seg>
+          <seg xml:id="seg340">(Wabunge waliotajwa walipitishwa na Bunge Zima kuwa</seg>
+          <seg xml:id="seg341">Wajumbe katika Tasisi Mbalimbali)</seg>
+          <seg xml:id="seg342">Nawashukuruni sana Waheshimiwa Wabunge.</seg>
+          <seg xml:id="seg343">Kwa maana hiyo sasa process yetu ya Uchaguzi wa hizi nafasi zote imekamilika na hawa tuliowataja na kuwapitisha humu Bungeni ndio watakuwa wawakilishi wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u181" who="Spika">
+          <seg xml:id="seg344">Niwakumbushe kule mnakoenda hamuendi in your own individual capacity, mnaenda mkituwakilisha sisi na mkiwawakilisha Watanzania. Kwa hiyo, kabla hujasimama ukasema chochote, lazima ujiulize kwanza hiki kitu kina maslahi na nyumbani? Kama una wasiwasi una-cross check na sisi kwa sababu dunia siku hizi mawasiliano ni faster, ni dakika tu, tunakupatia kila kitu unachotaka kusema. Tunakupa hata notes, tunakuletea comments, tunaomba watu wa Wizara ya Mambo ya Nje chapuchapu wanaku- assist, kama unahitaji jambo fulani au mjadala fulani na kadhalika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u182" who="Spika">
+          <seg xml:id="seg345">Msiende huko mkaanza kusema ya kwenu, mko huru kabisa msiseme kama Spika amewafunga, mko huru kabisa, ili mradi katika ajenda zile ambazo mnaona kidogo zinahitaji kuwa na umuhimu mnafanya hivyo.</seg>
+          <seg xml:id="seg346">Lakini la pili na muhimu Kanuni zetu tumezibadilisha, mkizisoma na itakuwa ni vizuri mzisome kuhusu wawakilishi wetu katika vyombo vya nje. Tulipata taabu mtakumbuka kwenye Bunge lililopita na baadhi ya Wajumbe walituletea shida kule, tulirekebisha Kanuni. Kwa hiyo, tuna uwezo sasa Kikanuni wa kuku-recall, wa kukuita kutoka huko uliko hata katikati ya Mkutano, ukarudi hapa Maadili na hatua zikachukuliwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u183" who="Spika">
+          <seg xml:id="seg347">Mwanzoni Kanuni zetu hazikuwa na hiyo provision kwa sababu tulikuwa hatuna tatizo lolote, lakini tulipopata matatizo haya ikabidi Kanuni zikae sawasawa. Kwa hiyo, bado wewe ni mwakilishi wetu.</seg>
+          <seg xml:id="seg348">Mwisho, wawakilishi wetu ninyi hao ni Wabunge wa Bunge la Tanzania, hiyo ndio kazi yako ya kwanza na unawajibika hapa kwa kila kitu including sisi kukuwezesha kwenda kwenye mikutano yako hiyo na kurudi ni sisi hapa, kwa hiyo, unawajibika hapa. Baadhi yao hudhani sasa kwa kuwa tumewachagua hapa wana wajibika kule. Kule unakwenda sawa, lakini uwajibikaji wako ni hapa na tutataka progress reports ili baadaye ziende kwenye Kamati ya Mambo ya Nje kuona ni kitu gani kinachoendelea tuweze kwenda pamoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u184" who="Spika">
+          <seg xml:id="seg349">Kwa sababu mtakapoenda huko tutakuwa tunawapa na Makatibu wa Bunge ambao wanafuatana na nyinyi ambao watakuwa wanaandika zile ripoti mnazipitia, mna-submit kwa Spika ili tuweze kuwa na muendelezo. Kama kuna jambo la muhimu limepatikana huko tunawasambazia Waheshimiwa Wabunge wote waweze kujua nini kinachoendelea huko. Tunawapa wenzetu Serikalini na wao waweze kujua kinachoendelea huko inakuwa ni jambo jema sana.</seg>
+          <seg xml:id="seg350">Basi baada ya hilo na maelezo hayo kuna wageni wa Mheshimiwa, Mwantumu Dau Haji wa kutoka Kusini Unguja wapo sita, naomba msimame. Ahsanteni sana, wageni wetu toka Kusini Unguja, karibuni Dodoma na mimi kichama ndio mlezi wenu huko Kusini Unguja, kwa hiyo, karibuni sana karibuni sana Dodoma. Tunawashukuruni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u185" who="Spika">
+          <seg xml:id="seg351">Basi baada ya hapa kwa kuwa mambo ni mengi na Waheshimiwa naandaa andaa mambo yenu, kwa ajili ya kujiandaa kuondoka Dodoma wiki ijayo, basi natoa muda huu muweze kufanya hivyo na kesho tumetangaza kuna semina. Siku ya Jumatatu itakuwa ni ratiba ya Kamati ya Sheria Ndogo itatoa taarifa yake humu Bungeni siku ya Jumatatu tutajadili hilo.</seg>
+          <seg xml:id="seg352">Siku ya Jumanne kama ratiba haitabadilika, Serikali itakuwa inazindua Mpango wa Miaka Mitano, kwa hiyo, baada ya maswali tutaenda kwenye uzinduzi wa Mpango</seg>
+          <seg xml:id="seg353">ambao kazi itakayoongozwa na Mheshimiwa Makamu wa Rais, Dkt. Philip Mpango na siku ya Jumatano kama nilivyosema tutakuwa na hii sheria na hotuba ya Mheshimiwa Waziri Mkuu ya kuahirisha shughuli za Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2021-06-25-bunge-03-59.u186" who="Spika">
+          <seg xml:id="seg354">Basi kwa hatua hiyo na kama nilivyoeleza tukitoka hapa tunakwenda Msekwa, kuna mambo ya barabara na kadhalika ambayo nayo yameandaliwa vizuri. Kwa hiyo, mtaona tuko busy kwa kipindi hiki kilichobakia, ningeomba tuendelee kuwa pamoja mpaka siku ya Jumatano tutakapoahirisha shughuli zetu.</seg>
+          <seg xml:id="seg355">Kwa hatua hiyo basi naomba niahirishe shughuli za Bunge hadi siku ya Jumatatu ijayo saa 3:00 asubuhi. (Saa 4:40 Asubuhi Bunge Liliahirishwa hadi Siku ya Jumatatu,</seg>
+          <seg xml:id="seg356">Tarehe 28 Juni, 2021 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

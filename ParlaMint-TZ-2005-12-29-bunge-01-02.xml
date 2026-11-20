@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2005-12-29) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2005-12-29) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="2">2. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="1">1. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1465992106-H-1-2-2005.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2005-12-29">29.12.2005</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u1">
+          <seg xml:id="seg1">(Kiapo cha Uaminifu Kinaendelea) Mhe. Mohamed Aboud Mohamed</seg>
+          <seg xml:id="seg2">Mhe. Zakia Hamdani Meghji</seg>
+          <seg xml:id="seg3">Mhe. Kingunge Ngombale-Mwiru</seg>
+          <seg xml:id="seg4">Mhe. Sophia Simba</seg>
+          <seg xml:id="seg5">Mhe. Jackson Muvangila Makwetta</seg>
+          <seg xml:id="seg6">Mhe. Anne Kilango Malecela</seg>
+          <seg xml:id="seg7">Mhe. Adam Kighoma Ali Malima</seg>
+          <seg xml:id="seg8">Mhe. Halima Mohammed Mamuya</seg>
+          <seg xml:id="seg9">Mhe. Ramadhani Athumani Maneno</seg>
+          <seg xml:id="seg10">Mhe. Stella Martin Manyanya</seg>
+          <seg xml:id="seg11">Mhe. Vedastus Mathayo Manyinyi</seg>
+          <seg xml:id="seg12">Mhe. Philip Sang’ka Marmo</seg>
+          <seg xml:id="seg13">Mhe. Abdul Jabiri Marombwa</seg>
+          <seg xml:id="seg14">Mhe. Lawrence Kego Masha</seg>
+          <seg xml:id="seg15">Mhe. Wilson Mutagaywa Masilingi</seg>
+          <seg xml:id="seg16">Mhe. Haroub Said Masoud</seg>
+          <seg xml:id="seg17">Mhe. Janeth Mourice Massaburi</seg>
+          <seg xml:id="seg18">Mhe. Joyce Martin Masunga</seg>
+          <seg xml:id="seg19">Mhe. Zubeir Ali Maulid</seg>
+          <seg xml:id="seg20">Mhe. Lucy Thomas Mayenga</seg>
+          <seg xml:id="seg21">Mhe. Kiumbwa Makame Mbaraka</seg>
+          <seg xml:id="seg22">Mhe. Salome Joseph Mbatia</seg>
+          <seg xml:id="seg23">Mhe. Monica Ngezi Mbega</seg>
+          <seg xml:id="seg24">Mhe. Mwanne Ismail Mchemba</seg>
+          <seg xml:id="seg25">Mhe. Halima James Mdee</seg>
+          <seg xml:id="seg26">Mhe. Bernard Kamilius Membe</seg>
+          <seg xml:id="seg27">Mhe. Mariam Salum Mfaki Mhe. Feteh Saad Mgeni Mhe. Jenista Joachim Mhagama Mhe. Fatma Abdallah Mikidadi Mhe. Mohamed Hamisi Missanga Mhe. Margreth Agness Mkanga Mhe. Dustan Daniel Mkapa Mhe. Nimrod Elirehema Mkono Mhe. Capt. George Huruma Mkuchika Mhe. Mustapha Haidi Makunganya Mkulo Mhe. Rita Louise Mlaki Mhe. Martha Mosses Mlata Mhe. Dr. Charles Ogesa Mlingwa Mhe. Lediana Mafuru Mng’ong’o Mhe. Herbert James Mntangi Mhe. Mohamed Habib Juma Mnyaa Mhe. Ali Ameir Mohamed Mhe. Hamad Rashid Mohamed Mhe. Salim Yusuf Mohamed Mhe. Elisa David Mollel Mhe. Balozi Getrude Ibengwe Mongella Mhe. Mossy Suleiman Mussa Mhe. Benson Mwailugula Mpesya Mhe. Kilontsi Muhama Mporogomyi Mhe. Basil Pesambili Mramba Mhe. Felix Christopher Mrema Mhe. Raynald Alfons Mrope Mhe. Dr. Ibrahim Said Msabaha Mhe. Ruth Blasio Msafiri Mhe. Manju Salum Omar Msambya Mhe. Dr. James Alex Msekela Mhe. Balozi Abdi Hassan Mshangama Mhe. Mgana Izumbe Msindai Mhe. Prof. Peter Mahamudu Msolla Mhe. Masolwa Cosmas Masolwa Mhe. Mwinchumu Abdurahan Msomi Mhe. Abbas Zubeir Mtenvu Mhe. Prof. Idris Ali Mtulia Mhe. Mudhihir Mohamed Mudhihir Mhe. Zabein Muhaji Mhita Mhe. Joseph James Mungai Mhe. James Philipo Musalika Mhe. Bernadeta Kasabago Mushashu Mhe. Dorah Herial Mushi Mhe. Omar Sheha Mussa Mhe. Dr. Harisson George Mwakyembe</seg>
+          <seg xml:id="seg28">Mhe. Prof. David Homeli Mwakyusa Mhe. Prof. Raphael Benedict Mwalyosi Mhe. Victor Kilasile Mwambalaswa Mhe. Ludovick John Mwananzila Mhe. Mbaruk Kassim Mwandoro Mhe. Prof. Mark James Mwandosya Mhe. Shamsa Selengia Mwangunga Mhe. Aggrey Diasile Joshua Mwanri Mhe. Harith Bakari Mwapachu Mhe. Laus Omar Mhina</seg>
+          <seg xml:id="seg29">Mhe. Hamza Abdallah Mwenegoha Mhe. Savelina Silvanus Mwijage Mhe. Dr. Hussein Ali Mwinyi Mhe. Omar Ali Mzee</seg>
+          <seg xml:id="seg30">Mhe. Omar Yusuf Mzee</seg>
+          <seg xml:id="seg31">Mhe. Dr. Omari Nibuka Mzeru Mhe. Dr. Chrisant Majiyatanga mzindakaya Mhe. Dr. Mary Michael Nagu Mhe. Damas Pascal Nakei</seg>
+          <seg xml:id="seg32">Mhe. Dr. Emmanuel John Nchimbi Mhe. Richard Mganga Ndassa Mhe. Philemon Ndesamburo Mhe. Job Yustino Ndugai</seg>
+          <seg xml:id="seg33">Mhe. Sigifrid Seleman Ng’itu Mhe. Dr. Juma Alifa Ngasongwa Mhe. William Mganga Ngeleja Mhe. Josephine Johnson Ngenzabuke Mhe. Cynthia Hilda Ngoye Mhe. Brg. Gen. Hassan Athumani Ngwilizi Mhe. Juma Suleiman Nh’unga Mhe. Juma Abdallah Njwayo Mhe. Sijapata Fadhili Nkayamba Mhe. Juma Said Nkumba</seg>
+          <seg xml:id="seg34">Mhe. Dr. Lucy Sawere Nkya Mhe. Tatu Musa Ntimizi</seg>
+          <seg xml:id="seg35">Mhe. Lazaro Samwel Nyalandu Mhe. Ponsiano Damian Nyami Mhe. Richard Said Nyaulawa Mhe. Esther Kabadi Nyawazwa Mhe. Saidi Juma Omar</seg>
+          <seg xml:id="seg36">Mhe. Lucy Fidelis Owenya Mhe. Ussi Ame Pandu</seg>
+          <seg xml:id="seg37">Mhe. Mizengo Peter Pinda Mhe. Mwaka Abdulrahaman Ramadhan Mhe. Shally Josepha Raymond Mhe. Muhonga Said Ruhwanya</seg>
+          <seg xml:id="seg38">Mhe. Magdalena Hamisi Sakaya Mhe. Mohamed Ali Said</seg>
+          <seg xml:id="seg39">Mhe. Mwanakhamis Kassim Said Mhe. Riziki Lulinda Said Mhe. Philip Bujiku Sakila Mhe. Kidawa Hamid Salehe Mhe. Ali Said Salim</seg>
+          <seg xml:id="seg40">Mhe. Masoud Abdallah Salim Mhe. Salum Hamis Salum Mhe. Sumry Abdallah Salum Mhe. Ibrahim Mohamed Sanya Mhe. Prof. Philemon Mikol Sarungi Mhe. Ali Khamis Seif</seg>
+          <seg xml:id="seg41">Mhe. Lucas Lumambo Selelii Mhe. Christopher Olonyokie Ole-Sendeka Mhe. Haji Juma Sereweji Mhe. Peter Joseph Serukamba Mhe. Mabkhut Ahmed Shabiby Mhe. Abdulkarim Ismail Hassan Shah Mhe. Beatrice Matumbo Shellukindo Mhe. William Hezekia Shellukindo Mhe. Jacob Dalali Shibiliti Mhe. John Magale Shibuda Mhe. Dr. Luka Jelas Siyame Mhe. Dr. Guido Gorogolio Sigonda Mhe. George Boniface Simbachawene Mhe. Mohamed Said Sinani Mhe. Margareth Simwanza Sitta Mhe. Dr. Wilbrod Peter Slaa Mhe. Mohammed Rajab Soud Mhe. Ali Haroon Suleiman Mhe. Suleiman Ahmed Sadiq Mhe. Jeremiah Solomon Sumari Mhe. Eliata Ndumpe Switi Mhe. Hafidh Ali Tahir</seg>
+          <seg xml:id="seg42">Mhe. Fatma Abdulla Tamim Mhe. Kaika Saningo Telele Mhe. Fred Mpendazoe Tungu Mhe. Martha Jachi Umbulla Mhe. Zainab Matitu Vulu Mhe. Anastazia James Wambura Mhe. Chacha Zakayo Wangwe Mhe. Dr. James Mnanka Wanyancha Mhe. Stephen Masato Wasira Mhe. Godfrey Weston Zambi Mhe. Mwanawetu Said Zarafi</seg>
+          <seg xml:id="seg43">Mhe. Kabwe Zubeir Zitto</seg>
+          <seg xml:id="seg44">Mhe. Mzee Ngwali Zubeir</seg>
+          <seg xml:id="seg45">Mhe. Mussa Azan Zungu</seg>
+          <seg xml:id="seg46">Mhe. Hadija Saleh Ngozi</seg>
+          <seg xml:id="seg47">Mhe. Benito William Malangalila</seg>
+          <seg xml:id="seg48">Mhe.Thomas Abson Mwang’onda</seg>
+          <seg xml:id="seg49">Mhe. Samson Ferdinand Mpanda</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u2" who="KatibuWaBunge">
+          <seg xml:id="seg50">Mheshimiwa Spika, naomba kutoa taarifa kwamba shughuli za kula kiapo cha uaminifu zimeishia hapo ambapo umeweza kuapisha Waheshimiwa Wabunge 319. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u3" who="Spika">
+          <seg xml:id="seg51">Waheshimiwa Wabunge, baada ya taarifa ya Katibu wa Bunge na kukamilika kwa shughuli za kuapishwa, ninayo taarifa ifuatayo, nchi yetu ni mwanachama wa Bunge la Afrika, katika miezi michache iliyopita kumekuwa na utata kuhusu ushiriki wa Waheshimiwa Wabunge wetu tuliowachagua katika Bunge hili kutuwakilisha katika Bunge la Afrika. Hali hii ikiachiliwa kuendelea inaweza kuathiri maslahi ya Tanzania katika Bunge hilo hasa ukizingatia kwamba Rais wa Bunge hilo ni Mtanzania. Kwa hiyo, baada ya kupokea ushauri wa kisheria imeamuliwa kwamba tufanye uchaguzi kwa wajumbe wetu watano wa kuingia katika Bunge la Afrika. Natumaini katika uchaguzi huo hekima itatumika kulinda maslahi ya nchi. Nadhani mnanielewa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u4" who="Spika">
+          <seg xml:id="seg52">Kwa hiyo, kesho baada ya kusikiliza hotuba ya Mheshimiwa Rais wa Jamhuri ya Muungano wa Tanzania, basi tutarejea na kufanya uchaguzi. Kwa hiyo, leo ni siku ya kuchukua fomu kwa wale ambao wangependa kugombea. Nadhani shughuli hiyo mwisho wake kwa maana ya nomination ni saa kumi. Ni kipindi kifupi lakini ni jambo linaeleweka na sifa zinaeleweka. Kwa hiyo, sidhani kama itakuwa ni tatizo kubwa ili kesho tuweze kufanya uchaguzi huo na kumaliza utata huu ambao umetuzingira.</seg>
+          <seg xml:id="seg53">Baada ya taarifa hiyo nilikuwa napenda kusema tu kwamba kwa kuwa tumemaliza shughuli za kuapishwa Waheshimiwa Wabunge Kikao tutakachoanza sehemu ya pili saa 11.00 jioni, namna ya kuketi ndani ya Bunge ni huru msidhani mmefungwa kuketi kama mlivyoketi, ilipangwa kwa alphabet kwa madhumuni ya kurahisisha uapishwaji. Kwa hiyo, kuanzia saa 11.00 jioni mjisikie huru kukaa popote ambapo Mheshimiwa Mbunge atajisikia inafaa. Kabla ya kuahirisha Bunge ningeomba Katibu wa Bunge atoe matangazo ya kiutawala.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u5" who="KatibuWaBunge">
+          <seg xml:id="seg54">Mheshimiwa Spika, nina tangazo moja tu kwa Waheshimiwa Wabunge. Nalo linahusu suala la utaratibu utakaotumika kesho wakati Mheshimiwa Rais wa Jamhuri ya Muungano wa Tanzania atakapokuwa anahutubia Bunge. Chombo kinachotumika hapa kwa ajili ya kuangalia hali yetu ya usalama kitakuwa nje ya uzio huu na watakaoingia humu tutaingia Waheshimiwa Wabunge na vitambulisho vyetu na wengine watakaoingia ni wale tu ambao watakuwa na kadi. Naomba tulizingatie hilo kwa sababu ya masuala ya kiusalama. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u6" who="Spika">
+          <seg xml:id="seg55">Waheshimiwa Wabunge kwa kuwa shughuli za asubuhi hii sasa zimekamilika kabla ya wakati rasmi wa Bunge letu, sasa nasitisha shughuli za Bunge hadi hapo saa 11.00 jioni.</seg>
+        </u>
+        <note>(Saa 6.02. Bunge lilifungwa mpaka saa 11.00 Jioni)</note>
+        <note>(Saa 11.00 Jioni Bunge Lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u7" who="Spika">
+          <seg xml:id="seg56">TAARIFA YA SPIKA</seg>
+          <seg xml:id="seg57">Waheshimiwa Wabunge, ndani ya bahasha hii limo jina la aliyependekezwa na kuteuliwa na Mheshimiwa Rais kuwa Waziri Mkuu. Kabla sijafungua bahasha hii ningeomba nifanye mambo mawili madogo. Moja ni kuwatambulisha, muwatambue tu baadhi ya wageni waliofika hapa ambao ni wawakilishi wa Walimu wote Tanzania Bara Mikoa 21 ambao walikuja kushuhudia namna ambavyo uongozi ndani ya nchi unavyopatikana. Ningeomba Walimu msimame pale mlipo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hapa Ujumbe wa Wageni Uliotambulishwa Ulisimama na kuonekana)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u8" who="Spika">
+          <seg xml:id="seg58">Kushoto pale hakukuwa na nafasi kwenye Speaker’s gallery. Lakini pia naomba niwatambue watu walio muhimu sana kwangu nao ni wawakilishi kutoka Jimbo langu la Urambo Mashariki walionisaidia sana. Nisingeweza kuwa hapa bila wao kwa sababu kama ningeshindwa Ubunge kwenye Jimbo la Urambo Mashariki nisingekuwa na ujasiri wa kugombea Uspika. Kwa hiyo, nao wako pale kwenye mkono wangu wa kushoto. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u9" who="Spika">
+          <seg xml:id="seg59">Baada ya hayo Waheshimiwa Wabunge kwa mujibu wa Katiba yetu ibara ya 51 inazungumzia kama ifuatavyo. „Ibara ya 51(2) naona nisome kutoka kwenye Katiba yenyewe. „Mapema iwezekanavyo na kwa vyovyote vile ndani ya siku 14 baada ya kushika madaraka yake, Rais atamteua Mbunge wa Kuchaguliwa kutoka katika Jimbo la Uchaguzi anayetokana na Chama cha Siasa chenye Wabunge wengi zaidi Bungeni au kama hakuna Chama cha Siasa chenye Wabunge wengi zaidi anayeelekea kuungwa mkono na Wabunge walio wengi kuwa Waziri Mkuu wa Jamhuri ya Muungano naye hatashika madaraka hayo mpaka kwanza uteuzi wake uwe umethibitishwa na Bunge kwa Azimio litakalooungwa mkono na kura za Wabunge walio wengi”</seg>
+          <seg xml:id="seg60">Sasa natoa taarifa kwamba leo saa 8.30 mchana Mheshimiwa Rais aliniita Chamwino, Ikulu ndogo na akanikabidhi bahasha hii. Bahasha hii ina jina la yule ambaye Rais amemteua kuwa Waziri Mkuu na sasa naomba, natumaini nimeipatia ndiyo ile ile. Hii bahasha kuna bahasha nyingine ndani ya bahasha hiyo na kuna tena …..looh!!!! Haya mambo magumu sana. Nitaisoma hii barua ya Mheshimiwa Rais. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u10" who="Spika">
+          <seg xml:id="seg61">Ikulu</seg>
+          <seg xml:id="seg62">DAR ES SALAAM</seg>
+          <seg xml:id="seg63">29 Desemba, 2005 Mhe. Samwel John Sitta,</seg>
+          <seg xml:id="seg64">Spika,</seg>
+          <seg xml:id="seg65">Bunge la Tanzania</seg>
+          <seg xml:id="seg66">DODOMA</seg>
+          <seg xml:id="seg67">Mheshimiwa Sitta salaam,</seg>
+          <seg xml:id="seg68">Kwa mujibu wa Ibara ya 51(2) ya Katiba ya Jamhuri ya Muungano wa Tanzania ya mwaka 1977 kama ilivyorekebishwa, mimi Jakaya Mrisho Kikwete, Rais wa Jamhuri ya Muungano wa Tanzania namteua……..Nadhani niache kwanza. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u11" who="Spika">
+          <seg xml:id="seg69">Anasema nakuletea jina hilo la mteuliwa ili Bunge la Tanzania liweze kumthibitisha kwa Azimio la Bunge kama kipengele hicho cha Katiba yetu kinavyohitaji na ameweka sahihi yake „Jakaya Mrisho Kikwete”</seg>
+          <seg xml:id="seg70">Ninayo furaha Ndugu Wapendwa Wabunge kuwafahamisha kwamba Rais wa Jamhuri ya Muungano wa Tanzania Mheshimiwa Jakaya Mrisho Kikwete, amemteua Mheshimiwa Edward Ngoyai Lowassa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hapa Bunge lilizizima kwa vifijo na nderemo)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u12" who="Spika">
+          <seg xml:id="seg71">Waheshimiwa Wabunge, nilikuwa sijamaliza. Mbunge wa Jimbo la Monduli. Kwa utaratibu Waheshimiwa Wabunge uliowekwa na Kanuni zetu sasa namwita Mheshimiwa Mwanasheria Mkuu wa Serikali atoe hoja itakayozaa Azimio la Kumthibitisha Mheshimiwa Edward Ngoyai Lowassa, kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u13" who="Spika">
+          <seg xml:id="seg72">HOJA YA SERIKALI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u14" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg73">Mheshimiwa Spika, nashukuru kwa fursa hii uliyonipatia ya kuwasilisha Hoja ya Serikali kuliomba Bunge lako Tukufu limthibitishe Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania aliyeteuliwa na Mheshimiwa Rais kwa mujibu wa Ibara ya 51 ya Katiba ya Jamhuri ya Tanzania.</seg>
+          <seg xml:id="seg74">Mheshimiwa Spika, kabla sijatekeleza jukumu langu kwa ruhusa yako nichukue fursa hii kusema machache.</seg>
+          <seg xml:id="seg75">Mheshimiwa Spika, awali ya yote kwa vile hii ni mara yangu ya kwanza kusimamia katika Bunge hili Tukufu, napenda nianze kwa kukupongeza wewe</seg>
+          <seg xml:id="seg76">Mheshimiwa Spika, kwa kuchaguliwa kwako kuwa Spika wa Bunge hili baada ya uchaguzi uliokuwa na ushindani mkubwa.</seg>
+          <seg xml:id="seg77">Kwa mara ya kwanza kabisa tumeona kinyang’anyiro kikubwa katika Uchaguzi wa Spika. Huu ni ushahidi mwingine kwamba ndani ya nchi na vyama vyetu vya siasa demokrasia sasa imeota mizizi. Wanachama wa vyama vyetu vya siasa wanaonyesha dira ya kuchujana na kuchaguana kwa demokrasia ya kura. Waheshimiwa Wabunge wameuona uwezo wako, ujuzi wako, uzoefu wako na wameamua kukukabidhi kiti na majukumu ya Uspika.Vipaji hivyo ni hazina kubwa. Inshallah hazina hii bila shaka itakuwezesha kuliendesha Bunge hili katika miaka mitano ijayo kwa mafanikio makubwa. Hongera sana Mheshimiwa Spika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u15" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg78">Mheshimiwa Spika, Bunge letu lina sehemu mbili yaani sisi Wabunge ni sehemu ya kwanza na Rais wa Jamhuri ya Muungano ni sehemu ya pili. Mchakato wa demokrasia umeamua kwa dhahiri kabisa kwamba Mheshimiwa Jakaya Mrisho Kikwete ni chaguo la walio wengi katika nafasi ya Urais wa Jamhuri ya Muungano wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u16" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg79">Hivyo napenda kuchukua nafasi hii kumpongeza kwa dhati kuchaguliwa kwake kwa kura nyingi kuiongoza nchi yetu kwa miaka mitano ijayo. Pamoja na yeye nampongeza Mheshimiwa Dr. Ali Mohammed Shein, aliyechaguliwa kwa tiketi moja na Mheshimiwa Rais kuwa Makamu wa Rais. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u17" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg80">Aidha, naomba nitumie fursa hii kumpongeza Mheshimiwa Amani Abeid Karume ambaye wananchi wa Zanzibar wamemchagua kuwa Rais wa Zanzibar na Mwenyekiti wa Baraza la Mapinduzi. Wananchi wa pande zote mbili za Jamhuri ya Muungano ametamka kwa kura yao na wameonyesha imani yao kubwa kwa viongozi wao kwamba wataendeleza mafanikio ya kiuchumi na kijamii yaliyokwisha kupatikana, wataendeleza mazingira ya amani na utulivu uliopo na pia watadumisha Muungano wetu umoja wa wananchi wetu na mshikamano baina ya wananchi wote wa Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg81">Mheshimiwa Spika, napenda vile vile kuwapongeza Waheshimiwa Wabunge wote kwa kuchaguliwa kwenu na kuteuliwa kuwa wawakilishi katika Bunge hili. Demokrasia imeonyesha ukomavu wake. Huu ni Uchaguzi Mkuu wa Tatu tangu demokrasia ya vyama vingi iliporejeshwa mwaka 1992. Tumeshuhudia katika uchaguzi uliopita na nyie ni mashahidi ya ukomavu wa demokrasia hapa nchini. Mmeshuhudia jinsi wananchi walivyojitoa kwa wingi kuja katika mikutano yenu ya kampeni walivyowasilikiliza wagombea wote na mwisho walivyojitokeza kupiga kura zao kwa utulivu. Tumeona jinsi vyama vyote walivyopewa fursa ya kulinda kura zao na mwisho matokeo yakatangazwa na leo mpo hapa ndani kwa mchakato wa demokrasia pevu.</seg>
+          <seg xml:id="seg82">Napenda kuwapongeza kwa umahiri wenu mkubwa kwa ushawishi na ujuzi wenu wa demokrasia. Kutokana na hayo yote mmefanikiwa kupata ushindi na kuingia humu Bungeni. Baada ya kufanya kazi kubwa ya kuwashawishi wananchi kwa kipindi kirefu cha kampeni, kipindi kilichovunja rekodi, kukaa na wananchi, kuwasikiliza na hatimaye</seg>
+          <seg xml:id="seg83">wananchi hao wamewachagueni ninyi Waheshimiwa Wabunge kuwawakilisha. Naomba mpokee pongezi zangu za dhati kabisa. Baada ya hayo yote hivi sasa bila shaka tutakaa humu ndani na kuwatumikia wananchi na tukitoka humu ndani kila baada ya Mikutano ya Bunge letu tutaendelea kutekeleza maamuzi yetu kwa busara, uadilifu na bidii kubwa.</seg>
+          <seg xml:id="seg84">Mheshimiwa Spika, naomba pia nitumie fursa hii kumshukuru Mheshimiwa Rais kwa imani aliyokuwa nayo juu yangu kwa kuniteua kuwa Mwanasheria Mkuu wa Serikali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u18" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg85">Namshukuru Mwenyezi Mungu kwa baraka zake na namwomba anipe busara, afya njema na moyo wa hisani ili niweze kutekeleza majukumu niliyokabidhiwa. Napenda kuwaahidi Waheshimiwa Wabunge kuwa nitajitahidi kwa kadri ya uwezo wangu wote kutekeleza majukumu yote yanayokwenda sanjari na nafasi hii ndani na nje ya Bunge. Nitajitahidi kutekeleza majukumu yangu kwa makini na kwa uadilifu mkubwa. Nitajiunga nanyi Waheshimiwa Wabunge kutekeleza majukumu yote kwa ari, nguvu na kasi inayostahili. Namwomba Mwenyezi Mungu aniwezeshe kumsaidia Mheshimiwa Rais, Serikali pamoja na Bunge hili katika kutekeleza majukumu yao ya kuwatumikia wananchi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u19" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg86">Kupitia kwako Mheshimiwa Spika, naomba ushirikiano kwa Waheshimiwa Wabunge wote. Mimi kwa upande wangu naahidi kutoa kwa Waheshimiwa Wabunge ushirikiano unaohitajika katika kutekeleza majukumu yao. Tukumbuke kwamba hatimaye sisi sote tuko hapa kwa kuwatumikia wananchi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u20" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg87">Mheshimiwa Spika, baada ya maneno hayo machache ya utangulizi, napenda sasa niwarejeshe katika kutekeleza jukumu langu la Katiba la kuwasilisha hoja ya kuliomba Bunge lithibitishe uteuzi wa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania uliofanywa na Mheshimiwa Rais.</seg>
+          <seg xml:id="seg88">Mheshimiwa Spika, kama Waheshimiwa Wabunge watakavyokumbuka Ibara ya 51(2) ya Katiba ya Jamhuri ya Muungano wa Tanzania inatamka kwamba: „Mapema iwezekanavyo na kwa vyote vyote vile ndani ya siku 14 baada ya kushika madaraka yake, Rais atamteua Mbunge wa kuchaguliwa kutoka katika Jimbo la uchaguzi anayetokana na Chama cha Siasa chenye Wabunge wengi zaidi Bungeni au kama hakuna Chama cha Siasa chenye Wabunge wengi zaidi anayeelekea kuungwa mkono na Wabunge walio wengi kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania. Naye hatashika madaraka hayo mpaka kwanza uteuzi wake uwe umethibitishwa na Bunge kwa Azimio litakaloungwa mkono na kura za Wabunge walio wengi.”</seg>
+          <seg xml:id="seg89">Mheshimiwa Spika, kama ulivyoliarifu Bunge hili punde, Mheshimiwa Rais amemteua Mheshimiwa Edward Ngoyai Lowassa, kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u21" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg90">Kwanza Mheshimiwa Edward Ngoyai Lowassa, ni Mbunge wa kuchaguliwa kutoka Jimbo la Uchaguzi la Monduli. Pili, Mheshimiwa Edward Ngoyai Lowassa, anatoka Chama cha Mapinduzi ambacho kwa mujibu wa matokeo ya Uchaguzi Mkuu</seg>
+          <seg xml:id="seg91">uliofanyika tarehe 14 Desemba, 2005 yaliyotangazwa na Tume ya Uchaguzi ndicho chama chenye Wabunge wengi zaidi humu Bungeni. Tatu, kwa mujibu wa masharti ya Ibara hiyo ya 51(2) ya Katiba, Rais amelileta jina la Mheshimiwa Edward Ngoyai Lowassa katika Bunge hili Tukufu kwa ajili ya kuthibitishwa.</seg>
+          <seg xml:id="seg92">Mheshimiwa Spika, naomba kutoa rai kwamba Bunge lako Tukufu likubali kuthibitisha uteuzi huo.</seg>
+          <seg xml:id="seg93">Mheshimiwa Spika, majukumu makubwa ya Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania ambaye ninaliomba Bunge lako Tukufu liuthibitishe uteuzi wake yameainishwa katika Ibara ya 52 ya Katiba ya Jamhuri ya Muungano wa Tanzania, nayo itamka kama ifuatavyo ibara 52(1). „Waziri Mkuu atakuwa na madaraka juu ya udhibiti, usimamiaji, utekelezaji wa siku hata siku wa kazi na shughuli za Serikali ya Jamhuri ya Muungano. Pili, Waziri Mkuu atakuwa Kiongozi wa Shughuli za Serikali Bungeni. Katika utekelezaji wa madaraka yake Waziri Mkuu atatekeleza au kusababisha utekelezaji wa jambo lolote au mambo yoyote ambayo Rais ataagiza kwamba yatekelezwe”</seg>
+          <seg xml:id="seg94">Kwa kifupi Waziri Mkuu ni kiungo muhimu kati ya Bunge na Serikali. Kwa maneno mengine yeye ni daraja muhimu kati ya wananchi na Serikali na ni Msaidizi Mkuu wa Rais katika kutekeleza majukumu yake.</seg>
+          <seg xml:id="seg95">Mheshimiwa Spika, hayo ni majukumu makubwa na mazito ambayo ili kuyatekeleza yanahitaji mtu mchapakazi hodari, anayejituma, mwenye busara, mwenye upeo mpana wa uelewa wa mambo na mtu aliye na uwezo wa kubeba majukumu mengi bila ya kutetereka. Madaraka hayo yanahitaji mtu mkali na madhubuti katika kulinda na kutetea Katiba ya Nchi, Sheria, Kanuni na Taratibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u22" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg96">Mheshimiwa Spika, Rais amewasilisha jina la Mheshimiwa Edward Ngoyai Lowassa, ili mlithibitishe kwa sababu anafaa na ana sifa zote hizo nilizozitaja hapo juu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u23" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg97">Mheshimiwa Spika, nikianza na suala la uchapakazi Mheshimiwa Edward Ngoyai Lowassa, sio mgeni kwa Waheshimiwa Wabunge na wananchi kwa ujumla. Historia yake katika nyadhifa mbalimbali alizowahi kuwa nazo zinalithibitisha hili. Watu wengi ikiwa ni pamoja na Waheshimiwa Wabunge, wanaufahamu uwezo wake wa kufanya kazi kwa muda mrefu bila kujali saa za kawaida za kufanya kazi. Wanaufahamu vile vile uwezo wake wa kujituma usiku au mchana bila ya ulalamishi. Uwezo wake huo umejidhihirisha katika muda wote alioshika nyadhifa mbalimbali za uongozi wa umma ndani ya Serikali na katika Taifa kwa ujumla. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u24" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg98">Mheshimiwa Spika, Waheshimiwa Wabunge watakubaliana nami kwamba Mheshimiwa Edward Ngoyai Lowassa, ni mtu mwenye busara nyingi kama ilivyo kawaida ya watu wa aina yake. Ni msikivu wa hali ya juu. Anapokumbana na tatizo lolote anashaurika na hupokea ushauri kwa mikono miwili. Lakini vile vile ana uwezo wa kuchambua na kupima hoja mbalimbali. Upeo wake mpana na uelewa wa mambo</seg>
+          <seg xml:id="seg99">katika kufikia maamuzi umejidhihirisha katika utumishi wake wa umma ndani na nje ya Bunge hili.</seg>
+          <seg xml:id="seg100">Mheshimiwa Spika, tunaziwasilisha sifa hizi kwenu ili sote kwa pamoja tumthibitishe Mheshimiwa Edward Ngoyai Lowassa ili aweze kuyabeba majukumu yote yanayoendana na wadhifa wa Uwaziri Mkuu wa Jamhuri ya Muungano wa Tanzania kwani anaweza kuyahimili.</seg>
+          <seg xml:id="seg101">Waheshimiwa Wabunge wote niwakumbushe kauli ya kiungwana na mapendo aliyoitoa Mheshimiwa Jakaya Mrisho Kikwete, Rais wa Jamhuri ya Muungano wa Tanzania mara baada ya kutangazwa mshindi kwamba wanachama wa vyama vyote wameungana kumchagua kwa kura nyingi bila kujali itikadi au mapenzi ya vyama vyao. Sisi Wabunge tufuate matakwa ya wanachama wetu. Ninawaomba tuunganishe kauli zetu na tupitishe Azimio hili kumthibitisha Waziri Mkuu kwa kura nyingi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u25" who="MwanasheriaMkuuWaSerikaliMheJohnsonPMMwanyika">
+          <seg xml:id="seg102">Mheshimiwa Spika, baada ya kueleza hayo yote sasa kwa unyenyekevu, heshima na taadhima naliomba Bunge lako hili Tukufu lithibitishe uteuzi wa Mheshimiwa Edward Ngoyai Lowassa, Mbunge wa Monduli, uteuzi uliofanywa na Mheshimiwa Rais wa Jamhuri ya Muungano wa Tanzania ili awe Waziri Mkuu kwa kupitisha Azimio lifuatalo:-</seg>
+          <seg xml:id="seg103">AZIMIO LA BUNGE LA KUMTHIBITISHA WAZIRI MKUU CHINI YA IBARA 51(2) YA KATIBA YA JAMHURI YA MUUNGANO WA TANZANIA</seg>
+          <seg xml:id="seg104">NA KANUNI YA 19 FASILI 7 YA KANUNI ZA BUNGE ZA</seg>
+          <seg xml:id="seg105">JAMHURI YA MUUNGANO WA TANZANIA</seg>
+          <seg xml:id="seg106">KWA KUWA kwa mujibu wa Ibara ya 51(2) ya Katiba ya Jamhuri ya Muungano wa Tanzania Rais anapaswa kumteua Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania ndani ya kipindi cha siku 14 tangu kuapishwa kwake kushika madaraka yake;</seg>
+          <seg xml:id="seg107">NA KWA KUWA tarehe 20 Desemba, 2005 Tume ya Uchaguzi ilimtangaza Mheshimiwa Jakaya Mrisho Kikwete kuwa mshindi wa kiti cha Rais katika uchaguzi uliofanyika tarehe 14 Desemba, 2005;</seg>
+          <seg xml:id="seg108">NA KWA KUWA Rais Jakaya Mrisho Kikwete aliapishwa tarehe 21 Desemba, 2005 na kushika madaraka ya Urais wa Jamhuri ya Muungano wa Tanzania na leo hii tarehe 29 Desemba, 2005 ni siku ya 8 tangu Rais aapishwe kushika madaraka ya Urais hivyo muda huo ni ndani ya siku 14 zilizotakiwa na Katiba;</seg>
+          <seg xml:id="seg109">NA KWA KUWA Chama cha Mapinduzi kimepata Wabunge wengi zaidi kuliko Wabunge wa vyama vingine vinavyowakilishwa Bungeni na hivyo Rais anayo haki ya kumteua Waziri Mkuu kutoka miongoni mwa Wabunge waliochaguliwa katika Majimbo ya Uchaguzi miongoni mwa Wabunge wa Chama cha Mapinduzi;</seg>
+          <seg xml:id="seg110">NA KWA KUWA Mheshimiwa Rais amekwishamwarifu Mheshimiwa Spika kwamba amemteua Mheshimiwa Edward Ngoyai Lowassa, Mbunge wa Jimbo la</seg>
+          <seg xml:id="seg111">Monduli kupitia Chama cha Mapinduzi kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania na Mheshimiwa Spika amekwisha wasilisha jina hilo katika Bunge hili Tukufu;</seg>
+          <seg xml:id="seg112">NA KWA KUWA uteuzi wa Mheshimiwa Edward Ngoyai Lowassa, Mbunge wa Monduli kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania umezingatia masharti yote ya Ibara ya 51 ya Katiba ya Jamhuri ya Muungano wa Tanzania;</seg>
+          <seg xml:id="seg113">HIVYO BASI Bunge hili katika Mkutano wake wa Kwanza likikaa hapa Dodoma kama Bunge Jipya leo tarehe 29 Desemba, 2005 linathibitisha uteuzi uliofanywa na Mheshimiwa Rais wa Mheshimiwa Edward Ngoyai Lowassa, Mbunge wa Monduli kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg114">Mheshimiwa Spika, naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u26" who="MhePaulPKimiti">
+          <seg xml:id="seg115">Mheshimiwa Spika, naafiki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u27" who="Spika">
+          <seg xml:id="seg116">Waheshimiwa Wabunge, hoja imetolewa na imeungwa mkono na kwa mujibu wa Kanuni zetu ni sawa ila kwa umuhimu wa hoja kama hii imekuwa ni utamaduni wa Bunge letu kwa Spika kumteua Mbunge aliyekaa mfululizo katika Bunge hili kwa muda mrefu aweze kusema machache katika kuunga hoja hii mkono na mimi kwa uwezo nilionao niliokabidhiwa namteua Mheshimiwa Dr. Chrisant Majiyatanga Mzindakaya, Mbunge wa Kwela, ili aweze kutimiza hilo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u28" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg117">Mheshimiwa Spika, Waheshimiwa Wabunge, kwanza kabisa ninayo heshima kukushukuru kwa kunipa heshima hii ya kuweza kuunga mkono hoja hii ambayo imeletwa mbele ya Bunge lako Tukufu. Labda pengine kabla sijasema maneno ya kuunga mkono hoja hii na kwa kuwa ni mara yangu ya kwanza ningependa kwanza nikupongeze wewe mwenyewe kwa kuchaguliwa kwa kura nyingi za kishindo kuwa Spika wa Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u29" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg118">Pia bahati nzuri mimi nimepata bahati ya kukufahamu wewe mwenyewe unao uwezo mkubwa sana na hatuna shaka utaliongoza Bunge hili kwa hekima na uwezo mkubwa sana. Labda bila ya kuwapotezea muda Waheshimiwa Wabunge nitaje tukio moja tu kwamba Mheshimiwa Rais wa Jamhuri ya Muungano wa Tanzania wa Awamu ya Tatu alipoamua nchi yetu ianze kujitangaza duniani hasa katika uwekezaji safari zote za Kitaifa alizofanya Waziri Mkuu na Rais mwenyewe na baadhi ya hizo mimi nilishiriki wewe ndio uliokuwa unaielezea Tanzania kwa kiwango kizuri na cha juu sana. Kwa hiyo, mimi sishangai Wabunge kukupa heshima hiyo kwa sababu bado nafasi yako ni ya kuendeleza Tanzania na sifa ya nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u30" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg119">Pia nawaomba Waheshimiwa Wabunge nitumie nafasi hii kuwapongeza wote kwa kuchaguliwa na Majimbo yenu kuwa Wabunge, Mwenyezi Mungu awapeni afya njema. Mimi kama Mbunge wa siku nyingi ninawaahidi ushirikiano na upendo mkubwa.</seg>
+          <seg xml:id="seg120">Baada ya hayo ningependa sasa niunge mkono hoja iliyo mbele yetu kwamba mimi naunga mkono na naomba wote tuunge mkono uteuzi uliofanywa na Rais wa kumteua Mheshimiwa Edward Ngoyai Lowassa, kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u31" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg121">Kwa bahati nzuri pia mimi nimefanya kazi na Mheshimiwa Edward Lowassa na labda bila kupoteza historia alipoingia Bungeni kwa mara ya kwanza aliingia kupitia Umoja wa Vijana wakati ule wa Jumuiya, mimi nilikuwa Campaign Manager wake, imetokea nimechaguliwa tena kueleza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u32" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg122">Mheshimiwa Edward Lowassa, sitaki kuwapotezea muda ameshika nyadhifa nyingi katika nchi, nitataja chache. Mheshimiwa Edward Lowassa kwa mara ya kwanza alipoteuliwa kuwa Waziri alikuwa Waziri wa Nchi, Ofisi ya Waziri Mkuu awamu ya Pili na Waziri Mkuu wakati huo alikuwa Mheshimiwa John Samuel Malecela. Mimi nilishuhudia mwenyewe kwa sababu wakati ule mimi nilikuwa Mkuu wa Mkoa, nilishuhudia jinsi Mheshimiwa Edward Lowassa, alivyomsaidia kazi Waziri Mkuu kwa uaminifu mkubwa sana. Wakati ule Waheshimiwa Wabunge juzi umeahidi kushughulikia maslahi ya Wabunge, maslahi alikuwa ni Mheshimiwa Mzee John Malecela na Mheshimiwa Edward Lowassa. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u33" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg123">Mheshimiwa Spika, hawa ndiyo waliotuwezesha Wabunge kuanza kupata mikopo ya magari na nasema hivi ili Wabunge mjue kwamba mkimpigia kura Mheshimiwa Edward Lowassa kuwa Waziri Mkuu, hamtakuwa mmepoteza kura zenu. Wakati ule mlikuwa mnajua ilikuwa ni wakati wa monopoly, lakini mimi nakumbuka alimshauri Waziri Mkuu, Mheshimiwa Mzee John Malecela, kwamba Wabunge wasipewe masharti ya kununua gari kwenye kampuni moja, waachiwe kila mtu achague gari yake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u34" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg124">Vilevile ningependa kueleza kwamba Mheshimiwa Edward Lowassa alipopewa wadhifa, najua mnajua amefanya Wizara nyingi lakini nataka nitaje ambazo kwa kweli wote ni mashahidi. Sasa hivi anapoteuliwa kuwa Waziri Mkuu alikuwa Waziri wa Wizara mpya kabisa ya Maji na Maendeleo ya Mifugo. Wizara hii sasa hivi ina sifa na anajulikana utafikiri ina miaka mingi na vile vile ameipatia heshima nchi. Waingereza walipoondoka nchi hii waliacha sheria ya kwamba Misri peke yake ndiyo itamiliki Mto Nile. Waziri aliyekwenda kupigania na kusema haiwezekani, Mto Nile unatoka katika nchi za Maziwa Makuu ikiwemo Tanzania, ni Mheshimiwa Edward Lowassa na leo tunapata mradi mkubwa wa maji ambao haujapata kutokea.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u35" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg125">Waheshimiwa Wabunge, hasa mnaotoka Mwanza na Shinyanga mtaniunga mkono kwamba sisi wakati ule nikiwa Mbunge tulikuwa tunasema kama ndoto, kwa nini tunapata shida ya maji Shinyanga na baadhi ya Wilaya za Mwanza wakati Ziwa Victoria lipo. Leo Watanzania tuna mradi mkubwa sana wa heshima na historia ambao initiator ni Mheshimiwa Edward Lowassa akiwa kwenye Wizara hiyo. Kwa hiyo, kwa kifupi nataka kusema hivi mwenzetu Mheshimiwa Edward Lowassa, sifa nyingine zimeelezwa hapa, Waziri Mkuu heshima yake nyingine lazima awaheshimu na kuwapenda Wabunge.</seg>
+          <seg xml:id="seg126">Mimi nawathibitishieni, alipokuwa Chief Whip, maana wakati ule alipokuwa chini ya Ofisi ya Waziri Mkuu ndiyo alikuwa Chief Whip, alituheshimu sana Wabunge na alishirikiana sana na Wabunge na hakuna malalamiko yaliyotokea wakati wake. Kwa hiyo, kwa tabia yake na kwa kupenda wenzake na kwa kuheshimu wenzake, mimi naomba Waheshimiwa Wabunge wote tumuunge mkono kwa kauli moja na kama ni kupiga kura, tumpe kura zetu zote Mheshimiwa Edward Lowassa, kuwa Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u36" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg127">Mimi nataka kusema kwa imani kuwa sisi Waheshimiwa Wabunge tuliomo humu Bungeni bila kujali chama tulichotoka nataka nithibitishe na nasema na historia itaandika kwamba pia kwa Afrika ni Tanzania peke yake ndiyo ina Wabunge wa Vyama Vingi wanaopendana na kushirikiana ndani na nje ya Bunge.</seg>
+          <seg xml:id="seg128">Mimi nimekuwa na marafiki wengine tumekuwa pamoja kama ndugu yangu mmoja hapa kutoka CUF na rafiki yangu Mheshimiwa John Cheyo kuwa nawaomba katika jambo la nchi kama hili tuungane wote tumuunge mkono Rais wetu kwa kauli mmoja ili kujenga historia na heshima yetu tumpe Uwaziri Mkuu, Mheshimiwa Edward Lowassa.</seg>
+          <seg xml:id="seg129">Mheshimiwa Spika, baada ya maelezo hayo naomba kuunga mkono hoja na naomba Wabunge wote tumpe mwenzetu kura zote ili apate nguvu na changamoto ya kusema kuwa wananipenda, wananiheshimu atutumikie kwa upendo na kwa heshima kubwa, naunga mkono hoja </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u37" who="Spika">
+          <seg xml:id="seg130">Waheshimiwa Wabunge, sasa kwa heshima na furaha kubwa ninapenda nimwite Waziri Mkuu mteule Mheshimiwa Edward Lowassa, Mbunge wa Monduli aje ajitambulishe kwenu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u38" who="MheEdwardNLowassa">
+          <seg xml:id="seg131">Mheshimiwa Spika na Waheshimiwa Wabunge, mmeniona? </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u39" who="MheEdwardNLowassa">
+          <seg xml:id="seg132">Mheshimiwa Spika, kwanza na mimi nichukue nafasi hii kujiunga na wenzangu kukupongeza sana kwa uchaguzi wako wa kuchaguliwa kuwa Spika wa Bunge la Jamhuri ya Muungano wa Tanzania. Nyakati alizozielezea Mheshimiwa Dr. Chrisant Majiyatanga Mzindakaya, nilikuwa Chief Whip na wewe ulikuwa Waziri wa Sheria, kwa hiyo tulifanya kazi kwa pamoja na kwa vizuri sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u40" who="MheEdwardNLowassa">
+          <seg xml:id="seg133">Mheshimiwa Spika, sina mashaka hata kidogo juu ya uwezo wako na sina mashaka hata kidogo kwamba utakuwa na dharura na kushughulikia kwa haraka sana maslahi ya Wabunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u41" who="MheEdwardNLowassa">
+          <seg xml:id="seg134">Pili napenda nimshukuru sana Mheshimiwa Jakaya Mrisho Kikwete, kwa kuniteua kuwa Waziri Mkuu na kunileta mbele yenu ili mnithibitishe, sina maneno sahihi ya kumshukuru Mheshimiwa Jakaya Kikwete, wala ninyi baada ya kunipa kura zenu</seg>
+          <seg xml:id="seg135">napenda kuwahakikishieni jambo moja tu, nitawapeni utumishi wa makini na mahili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u42" who="MheEdwardNLowassa">
+          <seg xml:id="seg136">Mheshimiwa Spika, tatu napenda kuwapongeza Wabunge wote ambao mmechaguliwa na leo mmo ndani ya Bunge hili, nawapongezeni sana. Kwa kadri kazi ilivyokuwa ngumu na kwa ahadi tulizotoa najua jambo moja, tumekuja kujielekeza kusaidia maendeleo ya wananchi wetu kwa kasi mpya, nguvu mpya na ari mpya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u43" who="MheEdwardNLowassa">
+          <seg xml:id="seg137">Mheshimiwa Spika, baada ya kusema hayo nashukuru sana asante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u44" who="MheEdwardNLowassa">
+          <seg xml:id="seg138">KURA ZA KUMTHIBITISHA WAZIRI MKUU</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u45" who="Spika">
+          <seg xml:id="seg139">Waheshimiwa Wabunge, kwa kuwa hivi punde tutaingia katika zoezi la kupiga kura ningemwomba Sergeant At Arms agonge kengere ili Waheshimiwa Wabunge wote ambao pengine wako nje waweze kuingia ndani.</seg>
+          <seg xml:id="seg140">(Hapa kengere ilipigwa ili Waheshimiwa Wabunge waliokuwa nje ya ukumbi wa Bunge</seg>
+          <seg xml:id="seg141">waingie ndani ya Ukumbi wa Bunge)</seg>
+          <seg xml:id="seg142">Katibu, kwa hatua zote zinazofuata.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u46" who="KatibuWaBunge">
+          <seg xml:id="seg143">Mheshimiwa Spika utaratibu ambao tutaufuata katika kupiga kura. Kura hizi ni za siri lakini zitapigwa hapo mlipo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u47" who="KatibuWaBunge">
+          <seg xml:id="seg144">Waheshimiwa Wabunge, jambo ambalo tumelifanya, ni kwamba tumepita na kuhesabu Wabunge waliomo humu ndani, tunazo karatasi, karatasi hii kila mmoja atapata na tumeweka eneo ambapo mpiga kura ataweka alama ya vema sehemu anayotaka. Kuna sehemu mbili moja ni „Ndiyo” na ya pili ni „Hapana”. Lakini iwekwe katika eneo hili, unaweka alama ya vema. Baadaye tutapita kuzikusanya kwa kutumia masanduku ya kura, utaikunja hiyo na kuiweka kwenye sanduku la kura. Tutazihesabu kura hizi baadae, nyuma ya ukumbi huu hapo nyuma ya kiti cha Mheshimiwa Spika. Atakuwepo msimamizi ambaye atadhibitisha pamoja nami.</seg>
+          <seg xml:id="seg145">Tunao Maafisa ambao watasimamia shughuli hii watakao hesabu chini ya usimamizi wa Katibu wa Bunge na atakayeteuliwa kusimamia kuhesabu kura hizo. Baada ya hapo tutaleta matokeo, tutamjulisha Mheshimiwa Spika na baadaye Mheshimiwa Spika atayatangaza rasmi. Huo ndiyo utaratibu utakaofuata.</seg>
+          <seg xml:id="seg146">Mheshimiwa Spika, ninaomba sasa tugawe karatasi hizi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u48" who="Spika">
+          <seg xml:id="seg147">Taja idadi ya wapiga kura.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u49" who="KatibuWaBunge">
+          <seg xml:id="seg148">Mheshimiwa Spika, idadi ya wapiga kura, kwa upande wako wa kushoto wapo 162 na upande wako wa kulia wapo 149, jumla yao ni 314, kwa</seg>
+          <seg xml:id="seg149">hiyo hao ndiyo watakaopiga kura kwa sababu tayari sasa hivi milango imefungwa, kwa hiyo, wale ambao wamechelewa kura zao hazitahesabika.</seg>
+          <seg xml:id="seg150">Mheshimiwa Spika, baada ya kutoa taarifa hiyo, naomba ruhusa yako tuweze kugawa karatasi za kupigia kura.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u50" who="Spika">
+          <seg xml:id="seg151">Sawa.</seg>
+        </u>
+        <note>(Hapa karatasi za kupigia kura zilisambazwa kwa Waheshimiwa Wabunge)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u51" who="Spika">
+          <seg xml:id="seg152">Waheshimiwa Wabunge, wote tumepata karatasi za kupigia kura. Ambaye hajapata anyooshe mkono aonekane, wote tumepata. Wote tumepiga kura?</seg>
+          <seg xml:id="seg153">WABUNGE: Ndiyo</seg>
+          <seg xml:id="seg154">Sasa tutawaonyesheni masanduku, yainueni kuonyesha yapo tupu.</seg>
+        </u>
+        <note>(Hapa masanduku ya kupigia kura yalionyeshwa kwa Waheshimiwa Wabunge)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u52" who="Spika">
+          <seg xml:id="seg155">Waheshimiwa Wabunge, hiyo ni kuridhika kwamba hakuna kura zozote ambazo zimetangulizwa kinyemela. Sasa nitawaomba wahudumu wakusanye hizo kura.</seg>
+        </u>
+        <note>(Hapa kura zilianza kukusanywa)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u53" who="Spika">
+          <seg xml:id="seg156">Wakati kura zinakusanywa nimewateua wafuatao washuhudie katika kuhesabu kura, ni Mheshimiwa Kabwe Zubeir Zitto, Mbunge wa Kigoma Kaskazini kwa tiketi ya CHADEMA na Mheshimiwa Amina Chifupa Mpakanjia kutoka Viti Maalum CCM. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u54" who="Spika">
+          <seg xml:id="seg157">Waheshimiwa Wabunge, sasa kura zinakwenda kuhesabiwa na wawakilishi wetu wa kushuhudia hayo ni hawa Waheshimiwa Kabwe Ziubeir Zitto na Amina Chifupa Mpakanjia, mtafuatana na wahusika kwenda kwenye chumba cha kuhesabia kura. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u55" who="Spika">
+          <seg xml:id="seg158">Waheshimiwa Wabunge, wakati kura zinahesabiwa na hili Bunge ni la kasi mpya, hatuwezi tukakaa tumezubaa tu hakuna la kufanya, kwa hiyo namwita Katibu wa Bunge atuingize katika zoezi la kupiga kura au utaratibu wa kumthibitisha Naibu Spika.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u56" who="Spika">
+          <seg xml:id="seg159">UCHAGUZI WA NAIBU SPIKA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u57" who="KatibuWaBunge">
+          <seg xml:id="seg160">Mheshimiwa Spika, kwa mujibu wa Kanuni namba 8 ya Kanuni za Bunge, inaeleza kwamba kutakuwa na Naibu Spika wa Bunge ambaye atachaguliwa kutoka miongoni mwa Wabunge. Uchaguzi wa Naibu Spika utafanyika katika Mkutano wa Kwanza wa Bunge jipya au mapema iwezekavyo baada ya wakati huo au katika Kikao cha Kwanza cha Bunge mara baada ya nafasi ya Naibu Spika kuwa wazi au mapema iwezekanavyo baada ya Kikao hicho.</seg>
+          <seg xml:id="seg161">Uchaguzi wa Naibu Spika utaendeshwa kwa utaratibu ule ule unaotumika kumchagua Spika, isipokuwa kwamba Mbunge hawezi kushiriki katika uchaguzi wa Naibu Spika iwapo atakuwa hajaapa kiapo cha uaminifu.</seg>
+          <seg xml:id="seg162">Kwa kuwa sote tayari tumeshakula kiapo cha uaminifu na tayari tulikuwa tumeeleza utaratibu tuliokuwa tumeutumia ambao tulisema hivi; endapo hadi kufikia saa kumi jioni siku ya uteuzi kutakuwa na jina moja tu litakalowasilishwa kwa msimamizi wa uchaguzi basi mgombea huyo atatangazwa na msimamizi wa uchaguzi kuwa amechaguliwa bila kupingwa kuwa Naibu Spika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u58" who="KatibuWaBunge">
+          <seg xml:id="seg163">Taarifa niliyoitoa ni kwamba nimepokea jina moja tu hadi jana saa kumi. Jina hilo ni la Mheshimiwa Anne Makinda. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u59" who="KatibuWaBunge">
+          <seg xml:id="seg164">Kwa mujibu wa Kanuni hii niongeze kwanza sehemu ya sita ninayo heshima kutangaza kwamba Mheshimiwa Anne Makinda, amechaguliwa rasmi kuwa Naibu Spika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u60" who="KatibuWaBunge">
+          <seg xml:id="seg165">(Hapa Bunge lilizizima kwa vifijo na nderemo baada ya</seg>
+          <seg xml:id="seg166">Mheshimiwa Anne Makinda kupita bila kupingwa kuwa Naibu Spika)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u61" who="Spika">
+          <seg xml:id="seg167">Waheshimiwa Wabunge, asante sana, kama ilivyo utamaduni wa Bunge letu mara anapopitishwa Naibu Spika tumekuwa na utamaduni wa kumwita mbele hapa ili akionje kiti cha Spika.</seg>
+          <seg xml:id="seg168">Kwa hiyo, kwa heshima namkaribisha Mheshimiwa Anne Makinda, Naibu Spika aweze kusema maneno yake hapa kutokea kwenye kiti hiki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u62" who="Spika">
+          <seg xml:id="seg169">Hapa Naibu Spika (Anne S. Makinda) Alikalia Kiti cha Spika</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u63" who="NaibuSpika">
+          <seg xml:id="seg170">Mheshimiwa Spika, kwa sababu yumo ndani itabidi nimu- address hivyo tu.</seg>
+          <seg xml:id="seg171">Mheshimiwa Spika, Mheshimiwa Waziri Mkuu ingawa hajaapishwa na Waheshimiwa Wabunge kwanza kabisa ninayoheshima kubwa sana kurudia tena pongezi zangu nyinyi wote kwa kuchaguliwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u64" who="NaibuSpika">
+          <seg xml:id="seg172">Lakini ninayo heshima kubwa zaidi kuchukua nafasi hii kumpongeza Mheshimiwa Spika, Samwel Sitta kwa kuchaguliwa kwa kura zote na Bunge hili kuwa Spika wetu, naweza kusema wa awamu ya nne. Mimi binafsi namfahamu Mheshimiwa Spika, kwa muda mrefu sana toka tulivyoingia Bungeni mwaka 1975, Mheshimiwa Spika tulikuwa naye. Katika Wabunge ambao walikuwa Wabunge machachari yeye alikuwa mmoja wao. Kwa bahati nzuri sana na Mheshimiwa Waziri Mkuu mteule naye alikuwa machachari ndani ya Bunge hili. Kwa hiyo anaposema anataka efficiency katika kazi ana maana hiyo kwa sababu ndivyo alivyo. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u65" who="NaibuSpika">
+          <seg xml:id="seg173">Vazi hili alilolivaa, kama hamtafahamu ndiye aliyeli-design. Kwa hiyo alili- design hakulivaa lakini amekuja kulivaa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u66" who="NaibuSpika">
+          <seg xml:id="seg174">Kwa hiyo, naomba nimpongeze kwa uteuzi huu na Waheshimiwa Wabunge mpeni ushirikiano kwa sababu nia yake ni njema sana.</seg>
+          <seg xml:id="seg175">Pili, naomba nimpongeze Mwanasheria Mkuu wa Serikali. Mwanasheria Mkuu ameteuliwa na Mheshimiwa Rais na ni mara yake ya kwanza kuingia Bungeni kama Mbunge, lakini kama Mwanasheria Mkuu. Kazi yangu mimi na Spika itakuwa rahisi sana kupitia Mwanasheria Mkuu. Kwa hiyo, naomba nimpongeze sana kwa nafasi aliyopewa na Mheshimiwa Rais na naamini ninavyomfahamu naye pia tumepata mtu ambaye tunaweza kumtegemea katika Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u67" who="NaibuSpika">
+          <seg xml:id="seg176">Mwisho kabisa, ningependa mimi mwenyewe kuwashukuru Waheshimiwa Wabunge, kwanza Wabunge wa Chama changu, Chama Cha Mapinduzi kwa kuweza kunipa kura zote za kwamba chukua Bendera ya Chama chako kapeperushe ndani ya Bunge. Kwa hiyo, wamenipitisha, ninaweza kusema bila kunipinga wao wenyewe ndani ya Chama changu. Lakini pia nafasi ya ndugu zangu wa upande wa Upinzani wao ni marafiki zangu wa siku nyingi kabisa. Ni marafiki zangu wa siku nyingi na nawatambua hivyo kwamba katika nafasi hata ile siku ya nyuma mimi niliweza kuungwa mkono sana na Waheshimiwa wa kutoka Kambi ya Upinzani. Kwa hiyo, nina imani ndiyo sababu hata wao hawakumuweka mtu aje anipinge. Lakini kubwa zaidi, najua nashindwa kusema mengine zaidi kwa sababu kura za Mheshimiwa Waziri Mkuu hatujahesabu lakini nina imani kwamba amepata kura za kumthibitisha na waliovyosema wenzangu naye pia ni mchapa kazi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u68" who="NaibuSpika">
+          <seg xml:id="seg177">Waheshimiwa Wabunge, kwa umoja wote huu mimi naamini tunaweza kwa pamoja, mmoja mmoja tunaweza kuifanya kazi ya kutekeleza ilani ya CCM kwa makini kabisa, kubwa ni kuwawezesha wananchi wetu wote wapate maisha bora, wote kwa ujumla wao kwa kupitia sisi Wabunge na mimi mwenzenu ni Mbunge wa Njombe. Kwa hiyo, nina wajibu kwanza kwa Jimbo langu na hivyo naomba niwashukuru wananchi wa Njombe kwa kuweza kunipa kura nyingi sana kunifikisha hapa Bungeni. Naibu Spika hawezi kuwa Naibu Spika mpaka apigiwe kura na wananchi wake. Kwa hiyo, bila wao ninyi mngeshindwa kunipigia kura.</seg>
+          <seg xml:id="seg178">Naomba nichukue nafasi hii pia kuwashukuru wao kwa dhati kabisa kwa heshima kubwa ambayo walinipa bila mashaka yoyote, nilipita kwa kura nyingi sana katika Jimbo langu, nawashukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u69" who="NaibuSpika">
+          <seg xml:id="seg179">Mwisho kabisa, naomba niwashukuru kwa imani mliyonipa sasa hivi. Mimi nitamsaidia Mheshimiwa Spika kwa uwezo wangu wote na kwa akili yangu yote na huku nikimtegemea Mwenyezi Mungu kwamba atatusaidia sote tuweze kuiongoza nyumba hii kwa amani na utulivu na huku tukitenda haki kwa kila mtu. Ahsanteni sana kwa heshima mliyonipa. </seg>
+        </u>
+        <note>(Makofi/V igelegele)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u70" who="Spika">
+          <seg xml:id="seg180">Waheshimiwa Wabunge, kwa kuendelea kuonyesha baadhi ya mabadiliko muhimu ambayo yanaendelea kutokea katika Bunge hili mapema kiasi hiki, namwomba Naibu Spika akavae Joho, akavishwe Joho na kwa kuheshimu usawa na kwa kuwa Spika mliyemchagua hana ukiritimba. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u71" who="Spika">
+          <seg xml:id="seg181">Mheshimiwa Naibu Spika akishavikwa Joho atakuja kusimamia shughuli zote zilizosalia kwa jioni hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u72" who="Spika">
+          <seg xml:id="seg182">Waheshimiwa Wabunge, nitoe tu taarifa, Naibu Spika alikuwa hafahamu, anafahamu kwamba mimi nilihusika katika Kamati ya kubuni na kutengeneza Joho la Spika, lakini Joho siyo umoja (singular). Nilitumia hekima zangu, tulishona majoho matatu yaani kuzingatia kwamba Spika anaweza kuwa mkubwa kwa umbile, Spika anaweza kuwa wa katikati wastani na Spika anaweza kuwa mdogo mdogo mwembamba. Yote yapo na kwa kuwa Mheshimiwa Naibu Spika alionyesha wasi wasi, nimemthibitishia kwamba Joho la size yake lipo. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <note>(Hapa Naibu Spika alitoka nje ya ukumbi wa Bunge na kwenda kuvaa Joho)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u73" who="MheDrChrisantMMzindakaya">
+          <seg xml:id="seg183">Mheshimiwa Spika, Taarifa ya Mheshimiwa Spika.</seg>
+          <seg xml:id="seg184">Mheshimiwa Spika, chini ya Katiba na chini ya Kanuni za Bunge ninaomba jambo hili lipate uamuzi wako niseme rasmi sasa kwa sababu siku mbili zilizopita nilisema kienyeji lakini nataka niseme rasmi Bungeni, kwamba Wabunge wanapochaguliwa hupewa miezi miwili ya kujaza fomu za ku-declare mali walizonazo. Kwa kawaida tumezoea uchaguzi kufanyika kila tarehe 30 ya mwezi wa kumi na form hujazwa tarehe 30 ya mwezi Desemba maana yake ni Novemba na Desemba.</seg>
+          <seg xml:id="seg185">Sasa Wabunge tumechaguliwa Desemba 14 maana yake ni kusema hakuna mabadiliko yoyote yanayotusaidia sisi kutumia muda wa miezi miwili kujiandaa kujaza fomu. Kwa hiyo, naomba tupate maelekezo yako juu ya jambo hili. Naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(Hapa Naibu Spika aliingia Bungeni akiwa amevaa Joho na kukalia Kiti cha Spika)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u74" who="NaibuSpika">
+          <seg xml:id="seg186">Haijapata kutokea! Kumbe mambo haya yalikuwepo, mimi nilikuwa sijui nilitaka kushona la kwangu kumbe lipo. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u75" who="NaibuSpika">
+          <seg xml:id="seg187">Baada ya hapo, nashukuru sana. Waheshimiwa Wabunge, kufuatana na kazi ambazo tulipaswa kufanya leo, tunasubiri matokeo ya kura tulizopiga. Lakini wakati huo namwomba AG aweze kutoa hoja ya kuweza kuwaruhusu kesho saa kumi watu ambao Kikatiba au Kikanuni hawapaswi kuingia Bungeni mpaka tumepitisha Azimio sisi la kuruhusu kuingia. Nao hao watakuwa ni Makamu wa Rais, atakuwepo Jaji Mkuu, Rais yeye anaingia, lakini Makamu wa Rais. Kwa sababu hatuna Mawaziri, Mheshimiwa AG atasoma Azimio.</seg>
+          <seg xml:id="seg188">HOJA YA KUWARUHUSU VIONGOZI WASIOHUSIKA NA SHUGHULI</seg>
+          <seg xml:id="seg189">ZA BUNGE KUINGIA BUNGENI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u76" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg190">Mheshimiwa Naibu Spika, naomba kwa mujibu wa Kanuni ya 114 kutoa hoja kwamba Viongozi wafuatao wa nchi yetu waruhusiwe kuingia na kukaa ndani ya Ukumbi wa Bunge hili wakati Rais wa Jamhuri ya Muungano wa Tanzania atakapotoa hotuba ya kulifungua rasmi Bunge Jipya siku ya Ijumaa Tarehe 30 Desemba 2005.</seg>
+          <seg xml:id="seg191">Viongozi wahusika ni hawa wafuatao, Mheshimiwa Dr. Ali Mohamed Shein, Makamu wa Rais wa Jamhuri ya Muungano wa Tanzania, Mheshimiwa Amani Abeid Karume, Rais wa Zanzibar na Mwenyekiti wa Baraza la Mapinduzi na mwisho Mheshimiwa Barnabas Samatta, Jaji Mkuu wa Tanzania na Jaji mwingine mmoja.</seg>
+          <seg xml:id="seg192">Mheshimiwa Naibu Spika, naomba kutoa hoja.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja iliamuliwa na kuafikiwa)</note>
+        <note>(Hoja iliyotolewa na Mwanasheria Mkuu wa Serikali iliridhiwa na Bunge)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u77" who="NaibuSpika">
+          <seg xml:id="seg193">Kwa hiyo, kesho Mheshimiwa Rais atakapolihutibia Bunge, viongozi hawa watakaribishwa ndani kwa sababu tumeazimia kwamba wawe kati yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u78" who="NaibuSpika">
+          <seg xml:id="seg194">MATOKEO YA KURA ZA KUMTHIBITISHA</seg>
+          <seg xml:id="seg195">WAZIRI MKUU</seg>
+          <seg xml:id="seg196">Katibu, sasa tunasubiri matokeo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u79" who="NaibuSpika">
+          <seg xml:id="seg197">Kuna tangazo hapa la Mheshimiwa Spika linahusu Wabunge kurudisha fomu za mapendekezo yao kupangiwa Kamati za Bunge kwamba tafadhali tunaomba Spika awatangazie Wabunge kuwa wanaombwa wakamilishe na kurudisha fomu za mapendekezo ya kupangwa kwenye Kamati za Bunge kabla hawajaondoka kurudi Majimboni. Fomu zirejeshwe katika Dawati la Mapokezi. Na kwa misingi hiyo kesho Wabunge Wanawake wote baada ya sherehe za kumuapisha Waziri Mkuu Chamwino, wote warudi haraka na tukutane katika Ukumbi huu, Wanawake wote Wabunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u80" who="NaibuSpika">
+          <seg xml:id="seg198">Waheshimiwa Wabunge, naona kazi imekwisha na ningependa kutangaza matokeo kama ifuatavyo, idadi ya kura zilizopigwa ni 315, Idadi ya kura zilizoharibika ni moja, idadi ya kura halali zilizopigwa kwa hiyo ni 314. Idadi ya kura za hapana ni 2, idadi ya kura za ndiyo ni 312. Hii ni sawa sawa na asilimia 99.36. </seg>
+        </u>
+        <note>(Makofi/Vigelegele)</note>
+        <u xml:id="ParlaMint-TZ-2005-12-29-bunge-01-02.u81" who="NaibuSpika">
+          <seg xml:id="seg199">(Hapa Azimio la KumthibitishaWaziri Mkuu</seg>
+          <seg xml:id="seg200">Mheshimiwa Edward N. Lowassa liliridhiwa na Bunge)</seg>
+          <seg xml:id="seg201">Waheshimiwa Wabunge, kwa hiyo, naamini kabisa mmefanya kazi nzuri na hatuna sababu yoyote ya kutokumpongeza Mheshimiwa Edward N. Lowassa, kwa imani ambayo Wabunge mmempa. Kwa hiyo, kutokana na hali hiyo naahirisha Kikao cha Bunge mpaka kesho saa kumi tutakapomsikiliza Mheshimiwa Rais akilihutubia Bunge. Kesho saa kumi, siyo saa kumi na moja. Lakini nadhani pia wote mmepewa ratiba ya kwenda kumuapisha Waziri Mkuu. Kwa hiyo, nadhani Ofisi ya Bunge itakuwa imepanga utaratibu. Kwa hiyo, naahirisha Kikao mpaka kesho saa kumi jioni.</seg>
+          <seg xml:id="seg202">(Saa 12.15 jioni Bunge liliahirishwa mpaka siku ya Ijumaa</seg>
+          <seg xml:id="seg203">Tarehe 30 Desemba saa 10.00 jioni)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

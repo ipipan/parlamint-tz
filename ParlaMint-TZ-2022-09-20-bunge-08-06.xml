@@ -1,0 +1,1284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2022-09-20) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2022-09-20) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="6">6. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="8">8. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1664774142-20 SEPTEMBA, 2022.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2022-09-20">20.09.2022</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u1" who="Mwenyekiti">
+          <seg xml:id="seg1">Maswali tunaendelea na Ofisi ya Waziri Mkuu, namwita Mheshimiwa Rehema Juma Migilla, Mbunge wa Ulyankulu, aulize swali lake.</seg>
+        </u>
+        <note>Na. 85. Kuwapatia Warithi wa Mstaafu 67% ya Michango</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u2" who="MheRehemaJMigilla">
+          <seg xml:id="seg2">Je, kuna mpango gani wa kuwapatia warithi wa mstaafu asilimia 67 ya michango yake pindi anapofariki?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u3" who="Mwenyekiti">
+          <seg xml:id="seg3">Ahsante. Mheshimiwa Waziri, Ofisi ya Waziri Mkuu, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u4" who="WaziriWaNchiOfisiYaWaziriMkuuKaziAjiraVijanaNaWenyeUlemavu">
+          <seg xml:id="seg4">Mheshimiwa Mwenyekiti, naomba kujibu swali la Mheshimiwa Rehema Juma Migilla, Mbunge wa Ulyankulu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">Mheshimiwa Mwenyekiti, Mifuko ya Hifadhi ya Jamii hutoa mafao kwa wanachama wake kwa mujibu wa Sheria ya Hifadhi ya Jamii Sura Na. 135 kama ilivyorejewa kupitia Sheria ya Marekebisho ya Sheria Na. 6 ya Mwaka 2019 ambapo fao la warithi ni mojawapo ya mafao yanayotolewa pindi mwanachama anapofariki.</seg>
+          <seg xml:id="seg6">Mheshimiwa Mwenyekiti, kwa upande wa Mfuko wa PSSSF, kupitia Kifungu cha 39(1) cha Sheria ya Mfuko, mstaafu anapofariki Mfuko hulipa mafao ya mkupuo ambayo ni jumla pensheni ya miezi 36 (sawa na miaka mitatu) kwa wategemezi. Kwa upande wa NSSF pia, kwa mujibu wa Kifungu cha 37(1)(2)(3) cha Sheria ya Mfuko, mstaafu anapofariki Mfuko hulipa mafao ya mkupuo sawa na pensheni ya miezi 36 kwa wategemezi.</seg>
+          <seg xml:id="seg7">Mheshimiwa Mwenyekiti, ulipaji wa mafao huzingatia Sheria ya Hifadhi ya Jamii ya Mwaka 2018 na Marekebisho yake ya Mwaka 2019 na Kanuni za Mafao kama zilivyorejewa mwaka 2022. Mafao yanayolipwa hayazingatii asimilia ya michango isipokuwa wastaafu na wategemezi hulipwa mafao kwa mujibu wa kanuni zinazoongoza ulipaji wa mafao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u5" who="Mwenyekiti">
+          <seg xml:id="seg8">Mheshimiwa Rehema Migilla, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u6" who="MheRehemaJMigilla">
+          <seg xml:id="seg9">Mheshimiwa Mwenyekiti, ahsante. Pamoja na majibu hayo, nina maswali madogo mawili ya nyongeza. Kulingana na majibu ya Serikali, inaonesha kwamba mafao yanayolipwa hayazingatii asilimia ya michango isipokuwa wastaafu na wategemezi hulipwa kulingana na michango.</seg>
+          <seg xml:id="seg10">Mheshimiwa Mwenyekiti, swali langu la kwanza, je, kwa mujibu wa sheria ambayo imepitishwa hivi karibuni mwaka 2022, inasema mstaafu atalipwa asilimia 33 katika mafao yake kama pensheni yake ya mkupuo; kama analipwa asilimia 33 ina maana kwenye asilimia 100 inabaki asilimia 67 kwa ajili ya pensheni limbikizi; sasa kwa mujibu wa majibu haya, kwanini hawa wastaafu pindi anapofariki, ile asilimia 67 iliyobakia kama pensheni limbikizi wasilipwe wategemezi wake au warithi wake pindi ambapo tunajua kabisa kwamba huyu mtumishi kipindi chote cha utumishi wake ame- contribute kwenye mfuko fully? Kwanini wasilipwe?</seg>
+          <seg xml:id="seg11">Mheshimiwa Mwenyekiti, swali langu la pili; tunaona kwamba sasa hivi kuna mfumuko wa bei, maisha yamepanda sana, lakini wastaafu waliostaafu kuanzia miaka ya 2000 na kurudi nyuma pensheni yao ni ndogo sana; ile monthly pension, Serikali haioni sababu au umuhimu wa kuongeza pensheni kwa hawa watu ambao pensheni yao haikui? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u7" who="Mwenyekiti">
+          <seg xml:id="seg12">Ahsante. Mheshimiwa Waziri, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u8" who="WenyeUlemavu">
+          <seg xml:id="seg13">Mheshimiwa Mwenyekiti, ahsante sana, naomba kumjibu dada yangu, Mheshimiwa Rehema Juma Migilla, maswali yake mawili ya nyongeza, kama ifuatavyo:-</seg>
+          <seg xml:id="seg14">Mheshimiwa Mwenyekiti, kama nilivyojibu kwenye jibu la msingi, ni kwamba malipo ya mafao yanazingatia kanuni. Mstaafu anapostaafu, kama alivyoeleza, analipwa mafao ya mkupuo na kunakuwa na wastani wa umri wa kuishi. Sasa kwenye majibu ya msingi kama nilivyoeleza, anapofariki haijilishi kama alishavuka ule wastani wa umri wa kuishi au hajavuka, lakini analipwa ile miaka mitatu.</seg>
+          <seg xml:id="seg15">Mheshimiwa Mwenyekiti, kwa hiyo, kiasi ambacho anakisema cha asilimia 67 kinawekwa kama makisio, lakini mstaafu analipwa kwa kadri anavyoendelea kuishi, anaendelea kupata pensheni ya mwezi. Kwa hiyo, sasa hivi tunalipa kwa miaka mitatu anapofariki bila kujali kama alikuwa ameshazidi ule umri wa wastani wa kuishi baada ya kustaafu.</seg>
+          <seg xml:id="seg16">Mhelshimiwa Mwenyekiti, swali la pili la Mheshimiwa Migilla kwa kweli ni la msingi la kuhusu Serikali kuangalia uwezekano wa kuongeza mafao kwa wastaafu. Utaratibu wa mifuko ni kwamba inafanya tathmini (actuarial evaluation) na kulingana na ile tathmini ndivyo ambavyo inaweza ikaangalia uhimilivu na uendelevu kuwaongeza wastaafu.</seg>
+          <seg xml:id="seg17">Mheshimiwa Mwenyekiti, Serikali imepanga kufanya tathmini ya mifuko katika mwaka fedha 2022/2023 na baada ya tathmini hiyo ndiyo tutaona uwezekano wa kuongeza kulingana na uwezo wa mifuko yetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u9" who="Mwenyekiti">
+          <seg xml:id="seg18">Ahsante sana Mheshimiwa Prof. Joyce Lazaro Ndalichako, Waziri wetu. Sasa unaweza kwenda kuketi.</seg>
+          <seg xml:id="seg19">Tunaendelea na Wizara ya Ofisi ya Rais, TAMISEMI, namwita Mheshimiwa Hamida Mohamed Abdallah, Mbunge wa Lindi Mjini, aulize swali lake.</seg>
+        </u>
+        <note>Na. 86. Ujenzi wa Soko Kuu na Stendi ya Mabasi ya Lindi</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u10" who="MheHamidaMAbdallah">
+          <seg xml:id="seg20">Je, ni lini Serikali itatoa fedha kutekeleza mradi wa ujenzi wa soko kuu na stendi ya mabasi Lindi Mjini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u11" who="Mwenyekiti">
+          <seg xml:id="seg21">Mheshimiwa Naibu Waziri wa TAMISEMI, Mheshimiwa David Silinde, majibu.</seg>
+          <seg xml:id="seg22">TAMISEMI, naomba kujibu swali la Mheshimiwa Hamida Mohamed Abdallah, Mbunge wa Jimbo la Lindi Mjini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg23">Mheshimiwa Mwenyekiti, Serikali katika mwaka wa fedha 2022/2023 imejumuisha mradi wa soko kuu na stendi kwenye Mpango wa TACTIC unaojumuisha Halmashauri 45 ambapo Halmashauri ya Manispaa ya Lindi ipo katika awamu ya pili ya utekelezaji wa mradi huo inayohusisha Halmashauri 15 zinazotarajiwa kuanza Januari, 2023.</seg>
+          <seg xml:id="seg24">Ahsante. Mheshimiwa Hamida Mohamed Abdallah, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u12" who="MheHamidaMAbdallah">
+          <seg xml:id="seg25">Mheshimiwa Mwenyekiti, ahsante sana, kwanza namshukuru Mheshimiwa Naibu Waziri kwa majibu hayo ya Serikali, majibu ambayo sasa yanaleta matumaini kwa maana mradi huu umekuwa wa muda mrefu.</seg>
+          <seg xml:id="seg26">Mheshimiwa Mwenyekiti, sina swali la nyongeza, lakini nina maombi kwa Serikali. Mheshimiwa Waziri Innocent Bashungwa alikuja Lindi tarehe 29 Julai, kwenye Maadhimisho ya Sherehe ya Kumpongeza Mheshimiwa Rais. Katika mambo ambayo tulimwomba ni suala zima la utekelezaji wa mradi huu wa TACTIC.</seg>
+          <seg xml:id="seg27">Mheshimiwa Mwenyekiti, sisi Lindi tuna mapokeo ya mradi wa LNG, tunahitaji sasa kuboresha miundombinu mbalimbali. Kwa hiyo, naiomba Serikali kuhakikisha kwamba wanatuharakishia huo mwezi Januari ambao wameuahidi katika utekelezaji wa mradi huu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u13" who="Mwenyekiti">
+          <seg xml:id="seg28">Ahsante. Nimemwona Mheshimiwa Waziri mwenye dhamana, Mheshimiwa Innocent Bashungwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u14" who="WaziriWaNchiOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg29">Mheshimiwa Mwenyekiti, nakushukuru na nampongeza Naibu Waziri, Mheshimiwa Silinde kwa kujibu kwa ufasaha, pia na Mheshimiwa Hamida Abdallah kwa ufuatiliaji wa mradi huu ambao Waheshimiwa Wabunge kutoka miji 45 wamekuwa wakiufuatilia kwa umakini.</seg>
+          <seg xml:id="seg30">Mheshimiwa Mwenyekiti, ni maelekezo ya Rais wetu mpendwa Mheshimiwa Samia Suluhu Hassan kwamba baada ya Serikali kusaini na benki ya dunia Juni, 16 mwaka huu 2022, Mheshimiwa Rais wetu Samia Suluhu Hassan alituelekeza kuhakikisha utekelezaji wa miradi ya TACTIC unaanza mara moja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u15" who="WaziriWaNchiOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg31">Mheshimiwa Mwenyekiti, pamoja na Waheshimiwa Wabunge, kwenye tier one, miji 12 kwa maana ya majiji tayari kama nilivyosema, mkataba ulisainiwa na Serikali na Benki ya Dunia Juni 16 na usanifu wa miji 12 umeshakamilika. Sasa hivi kazi ya kutangaza kwa ajili ya kupata wakandarasi itafanyika muda wowote ili kazi zianze Machi, 2023 kwa ile miji 12.</seg>
+          <seg xml:id="seg32">Mheshimiwa Mwenyekiti, nini tunafanya kwenye miji 15 ambayo Mheshimiwa Naibu Waziri ameisema? Tunafanya kila aina ya jitihada kuhakikisha tier one na tier two zina-overlap katika utekelezaji.</seg>
+          <seg xml:id="seg33">Mheshimiwa Mwenyekiti, kwa hiyo, Mheshimiwa Hamida Abdallah, pamoja na Waheshimiwa Wabunge kwenye miji 45 msiwe na wasiwasi, ni maelekezo ya Mheshimiwa Rais wetu Samia Suluhu Hassan baada ya kusaini Mkataba na Benki ya Dunia mwaka huu 2022, utekelezaji wake wa tier one, tier two na tier three viweze Kwenda kwa haraka.</seg>
+          <seg xml:id="seg34">Mheshimiwa Mwenyekiti na Waheshimiwa Wabunge, kwa sababu tuna group la TACTIC na mnafuatilia kwa karibu sana, tutakuwa tunaandaa vikao ili kuwapa mrejesho wa utekelezaji wa miradi hii utakavyokuwa unaenda. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u16" who="Mwenyekiti">
+          <seg xml:id="seg35">Ahsante Mheshimiwa Waziri, kwa majibu, tunaendelea. Sasa namwita Mheshimiwa Daimu Iddi Mpakate, Mbunge wa Tunduru Kusini aulize swali lake.</seg>
+        </u>
+        <note>Na. 87. Kupandisha Hadhi Barabara ya Tunduru – Musechela Kuwa ya Mkoa</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u17" who="MheDaimuIMpakate">
+          <seg xml:id="seg36">Je, Serikali ina mpango gani wa kupandisha hadhi barabara ya Tunduru – Namasakata – Misechela kuwa ya Mkoa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u18" who="Mwenyekiti">
+          <seg xml:id="seg37">Mheshimiwa Naibu Waziri, TAMISEMI, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u19" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg38">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, TAMISEMI, naomba kujibu swali la Mheshimiwa Daimu Iddi Mpakate, kama ifuatavyo:-</seg>
+          <seg xml:id="seg39">Mheshimiwa Mwenyekiti, Sheria ya Barabara Na. 13 ya Mwaka 2007 na Kanuni zake za Mwaka 2009, imeainisha vigezo na utaratibu wa kupandisha au kuteremsha hadhi barabara toka daraja moja kwenda daraja lingine.</seg>
+          <seg xml:id="seg40">Mheshimiwa Mwenyekiti, Ofisi ya Rais, TAMISEMI inaielekeza Halmashauri ya Wilaya Tunduru kupitia TARURA kufuata utaratibu huo ili kuiweka barabara hiyo katika mpango wa kupandishwa hadhi na kuwa ya Mkoa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u20" who="Mwenyekiti">
+          <seg xml:id="seg41">Mheshimiwa Daimu Iddi Mpakate, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u21" who="MheDaimuIMpakate">
+          <seg xml:id="seg42">Mheshimiwa Mwenyekiti, ahsante, ni kweli barabara hii kwa muda mrefu imekuwa na shida na haipitiki, ni barabara ambayo ni ya ulinzi, inaunganisha kati ya Msumbiji na Tanzania. Kwa mazingira yaliyoko Msumbiji, barabara hii ni muhimu itengenezwe kwa sababu kipindi cha kifuko haiptiki kabisa:-</seg>
+          <seg xml:id="seg43">Je, ni lini sasa Waziri wa TAMISEMI, au Naibu wake wataenda katika eneo hili kuangalia hii kero ambayo inapatikana katika eneo lile? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u22" who="MheDaimuIMpakate">
+          <seg xml:id="seg44">Mheshimiwa Mwenyekiti, swali la pili: Kwa kuwa barabara hii iliweza kupitishwa kwenye michakato mbalimbali kabla TARURA haijaanzishwa; na baada ya TARURA kuanzishwa, barabara hii ikabaki kwenye TARURA peke yake; na maombi yale yalifika mpaka kwenye RCC: Je, lini Serikali itaangalia ma-file yake kuona mapendekezo yale ili yaweze kupitishwa kwa haraka kunusuru hali iliyoko pale Msumbiji? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u23" who="Mwenyekiti">
+          <seg xml:id="seg45">Mheshimiwa Naibu Waziri, Mheshimiwa David Silinde, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u24" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg46">Mheshimiwa Mwenyekiti, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Daimu Idd Mpakate, Mbunge wa Jimbo la Tunduru Kusini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg47">Mheshimiwa Mwenyekiti, nimhakikishie tu Mheshimiwa Mbunge kwamba tuko tayari Kwenda katika jimbo lake muda wowote na tuko flexible kwa sababu huo ndiyo wajibu wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u25" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg48">Mheshimiwa Mwenyekiti, la pili ni kwamba, jukumu la kupandisha hadhi hizi barabara liko chini ya TANROADS kupitia Wizara ya Ujenzi. Kwa hiyo, nafikiri kwa sababu Serikali tunafanya kazi kwa pamoja, tutaendelea kushirikiana kuhakikisha kwamba jambo hili linafanyika kwa haraka. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u26" who="Mwenyekiti">
+          <seg xml:id="seg49">Ahsante. Mheshimiwa Rashid Shangazi, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u27" who="MheRashidAShangazi">
+          <seg xml:id="seg50">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi ya kuuliza swali la nyongeza. Barabara ya kutoka Mlalo kwenye Ngwelo, Mlola, Mashewa hadi Korogwe inaunganisha wilaya mbili; na barabara hii iko chini ya wakala wa barabara vijijini kwa maana ya TARURA</seg>
+          <seg xml:id="seg51">na imeshaanza kujengwa kwa kiwango cha lami kwa kilomita 2.7: Je, Serikali haioni sasa ni wakati muafaka wa kuipandisha hadhi hii barabara na kuwa ya mkoa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u28" who="Mwenyekiti">
+          <seg xml:id="seg52">Naibu Spika, Mheshimiwa Silinde, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u29" who="NaibuWaziriWaTawalaZaMikoaNaSerikaliZaMitaaMheDavidESilinde">
+          <seg xml:id="seg53">Mheshimiwa Mwenyekiti, ahsante sana. Naomba kujibu swali dogo la nyongeza la Mheshimiwa Rashid Shangazi, Mbunge wa Mlalo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg54">Mheshimiwa Mwenyekiti, tunatambua kazi nzuri ambayo inafanyika katika Jimbo la Mlalo, hususan hii barabara ya Mlalo – Nachiwa mpaka Korogwe na ndio maana sisi Ofisi ya Rais, Tawala za Mikoa na Serikali za Mitaa, tulitenga fedha kwa ajili ya kuanza sasa kutekeleza kwa ujenzi wa lami. Sasa kwa kuwa, maombi yao ni kupandisha hadhi, nafikiri tutaiagiza Halmashauri ya Mlalo ifuate taratibu kama ambavyo tumeiagiza Halmashauri ya Tunduru, ili barabara hiyo nayo iweze kufikia hivi viwango ambavyo Mheshimiwa Mbunge anahitaji. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u30" who="Mwenyekiti">
+          <seg xml:id="seg55">Ahsante sana Mheshimiwa Naibu Waziri, Tawala za Mikoa na Serikali za Mitaa, Mheshimiwa Silinde, unaweza kwenda kuketi.</seg>
+          <seg xml:id="seg56">Tunaendelea na Wizara ya Uwekezaji, Viwanda na Biashara. Namwita Mheshimiwa Nashon William Bidyanguze, Mbunge wa Kigoma Kusini, aulize swali lake.</seg>
+        </u>
+        <note>Na. 88. Ujenzi wa Kiwanda cha Sementi – Uvinza</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u31" who="MheNashonWBidyanguze">
+          <seg xml:id="seg57">Je, ni lini Serikali italeta Mwekezaji wa Kiwanda cha Saruji katika Wilaya ya Uvinza?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u32" who="Mwenyekiti">
+          <seg xml:id="seg58">Mheshimiwa Naibu Waziri wa Uwekezaji, Viwanda na Biashara, Mheshimiwa Exhaud Kigahe, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u33" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg59">Mheshimiwa Mwenyekiti, nakushukuru. Kwa niaba ya Waziri wa Uwekezaji, Vieanda na Biashara, napenda kujibu swali la Mheshimiwa Nashon William Bidyanguze, Mbunge wa Jimbo la Kigoma Kusini, kama</seg>
+          <seg xml:id="seg60">Mheshimiwa Mwenyekiti, Serikali inatekeleza mikakati mbalimbali ili kuhamasisha na kuvutia wawekezaji ikiwemo kwenye sekta ndogo ya saruji. Kituo cha Uwekezaji Tanzania (TIC) kwa kushirikiana na Uongozi wa Mkoa wa Kigoma kimeweza kuvutia mwekezaji (Itracom Fertilizers Company Limited) kujenga kiwanda cha saruji na tayari tumeshampa ekari 47 katika Eneo la Uwekezaji la Kigoma (KiSEZ). Wilaya ya Uvinza pia itanufaika na mwekezaji huyu. Serikali inaendelea kuvutia wawekezaji zaidi ili kuwekeza katika Mkoa wa Kigoma ikiwemo Wilaya ya Uvinza. Nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u34" who="Mwenyekiti">
+          <seg xml:id="seg61">Mheshimiwa Nashon Bidyanguze, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u35" who="MheNashonWBidyanguze">
+          <seg xml:id="seg62">Mheshimiwa Mwenyekiti, naomba niishukuru Serikali kwa majibu yake mazuri, lakini pia ninalo swali moja la nyongeza; kwamba, Uvinza ndipo kunapopatikana malighafi ya kutengeneza saruji. Sasa nataka nijue Serikali imejipanga vipi kuhakikisha kwamba, kiwanda hicho kinajengwa ili wananchi waweze kupata ajira ya muda mfupi, lakini na muda mrefu na ili tuweze kukamata soko la DRC na Burundi? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u36" who="Mwenyekiti">
+          <seg xml:id="seg63">Mheshimiwa Naibu Waziri, Mheshimiwa Kigahe, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u37" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg64">Mheshimiwa Mwenyekiti, nakushukuru sana. Napenda kujibu swali la nyongeza la Mheshimiwa Nashon William, Mbunge wa Kigoma Kusini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg65">Mheshimiwa Mwenyekiti, namshukuru sana Mbunge kwa kufuatilia. Amekuwa anafuatilia sana kuhusiana na ujenzi wa kiwanda katika Wilaya ya Uvinza, lakini mkakati wa Serikali ni kuendelea kuboresha miundombinu wezeshi ili kuvutia wawekezaji zaidi katika ujenzi wa viwanda.</seg>
+          <seg xml:id="seg66">Mheshimiwa Mwenyekiti, ninyi ni mashahidi sasa hivi Kigoma itaenda kufunguka kwa sababu Mheshimiwa Rais wetu, Samia Suluhu Hassan, anaunganisha gridi ya Taifa ya umeme katika Mkoa huo. Maana yake hii ni miundombinu wezeshi ambayo ni muhimu sana kwa ajili ya ujenzi wa viwanda. Kwa hiyo, tunaamini kwa uboreshaji wa miundombinu hii wezeshi, pamoja na barabara tutavutia wawekezaji zaidi ambao watakuja kujenga pia katika Wilaya ya Uvinza.</seg>
+          <seg xml:id="seg67">Mheshimiwa Mwenyekiti, nimhakikishie Mheshimiwa Mbunge, tunaendelea kufanya juhudi za makusudi ili kuvutia wawekezaji zaidi ambao watajenga viwanda katika ukanda huo wa ziwa ili kushika soko katika nchi za jirani, kama alivyosema. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u38" who="Mwenyekiti">
+          <seg xml:id="seg68">Ahsante sana Mheshimiwa Naibu Waziri, Exhaud Kigahe, Mheshimiwa wa Uwekezaji, Viwanda na Biashara.</seg>
+          <seg xml:id="seg69">Tunaendelea na Wizara ya Maji, namwita Mheshimiwa Ghati Zephania Chomete, Mbunge wa Viti Maalum ili aulize swali lake kwa niaba yake Mheshimiwa Saashisha.</seg>
+        </u>
+        <note>Na. 89. Uchimbaji Unaoendelea Katika Mto Nyandurumo</note>
+        <note>K.n.y. MHE. GHATI Z. CHOMETE</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u39" who="MheSaashishaEMafuwe">
+          <seg xml:id="seg70">Je, ni nini tamko la Serikali kuhusu uchimbaji unaoendelea katika Mto Nyandurumo ambao ni chanzo cha maji kwa wakazi wa Tarime?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u40" who="Mwenyekiti">
+          <seg xml:id="seg71">Mheshimiwa Waziri wa Maji, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u41" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg72">Mheshimiwa Mwenyekiti, ahsante na kwa niaba ya Waziri wa Maji, naomba kujibu swali la Mheshimiwa Ghati Zephania Chomete, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg73">Mheshimiwa Mwenyekiti, chanzo cha maji cha Nyandurumo ni chanzo ambacho kinatoa huduma ya maji kwa Mji wa Tarime ambapo kina uwezo wa kuzalisha maji lita 6,000,000 kwa siku kwa kipindi cha masika na lita 1,500,000 kwa kipindi cha kiangazi.</seg>
+          <seg xml:id="seg74">Mheshimiwa Mwenyekiti, katika kukabiliana na uharibifu unaojitokeza kwenye chanzo hicho, Serikali kupitia Watalaam wa Mazingira wa Halmashauri ya Mji wa Tarime, Bonde la Ziwa Victoria na Afisa Madini Mkazi wa Mkoa wa Mara wamewaondoa wachimbaji waliokuwa wanafanya shughuli za kusafisha madini karibu na chanzo hicho cha maji na kupanda miti 205 ambayo ni rafiki kwa mazingira ikiwa na lengo la kulinda na kuhifadhi chanzo hicho. Umbali wa kutoka maeneo ya uchimbaji hadi kwenye chanzo cha maji ni takribani kilometa tatu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u42" who="Mwenyekiti">
+          <seg xml:id="seg75">Mheshimiwa Saashisha Mafuwe, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u43" who="MheSaashishaEMafuwe">
+          <seg xml:id="seg76">Mheshimiwa Mwenyekiti, ahsante kwa kuniona. Kuna mradi mpya unaojengwa wa visima kutoa maji Hai kwenda Arusha, lakini kwenye vile vyanzo ambavyo maji yanapita kama kanuni na sheria zinavyotaka kwamba, maeneo ambayo yanaptikana vyanzo vya maji watu wapate. Sasa nauliza swali langu; je, ni lini Serikali itatengeneza miundombinu maeneo ya Hai kwenye mradi mkubwa unaoenda Arusha? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u44" who="Mwenyekiti">
+          <seg xml:id="seg77">Majibu, Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg78">kujibu swali la nyongeza la Mheshimiwa Saashisha Mafuwe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg79">Mheshimiwa Mwenyekiti, ni kweli Sera ya Maji inataka maeneo yote ya vyanzo vya maji, wale wanaozunguka makazi yale wananchi wawe wanufaika namba moja. Katika visima hivi anavyoviongelea tayari sisi kama Wizara tuna utaratibu ambao tunaendelea nao, pesa itakapokamilika tutakuja kuendelea kuhakikisha wananchi wote wale wanaokaa kuzunguka vile visima wanaendelea kupatiwa huduma ya maji.</seg>
+          <seg xml:id="seg80">Tunaendelea. Namwita Mheshimiwa Judith Salvio Kapinga, aulize swali lake.</seg>
+        </u>
+        <note>Na. 90. Hitaji la Mita Janja za Maji</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u45" who="MheJudithSKapinga">
+          <seg xml:id="seg81">Je, kuna mpango gani wa kuweka mita janja za maji ili watumiaji wachague kutumia kulingana na matumizi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u46" who="Mwenyekiti">
+          <seg xml:id="seg82">Mheshimiwa Naibu Waziri wa Maji, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u47" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg83">Mheshimiwa Mwenyekiti, ahsante. Kwa niaba ya Waziri wa Maji, naomba kujibu swali la Mheshimiwa Judith Salvio Kapinga, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg84">Mheshimiwa Mwenyekiti, katika kuboresha utoaji wa huduma ya maji na watumiaji kulipa gharama kulingana na matumizi, Serikali imeshaanza kutumia mita za malipo kabla ya matumizi (water prepaid meter) katika maeneo tofauti tofauti ikiwemo katika Mamlaka ya Maji Iringa, Arusha, Tanga, Singida, Mwanza, Mbeya, Kahama na Mtwara. Aidha, mita hizo pia zimefungwa kwenye maeneo ya taasisi kama vile shule, hospitali na Majeshini wakati Serikali ikiendelea kujiridhisha na ufanisi wake.</seg>
+          <seg xml:id="seg85">Mheshimiwa Mwenyekiti, mpango wa kufunga mita za malipo kabla ya matumizi (water prepaid meter) utafanyika kwa awamu ili kuweza kufikia maeneo mbalimbali katika mikoa yote nchini. Aidha, jitihada hizi zinaenda pamoja na kuhakikisha mamlaka za maji zinatumia mfumo wa malipo kutoa ankra za maji kulingana na matumizi ya wateja (unified billing system)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u48" who="Mwenyekiti">
+          <seg xml:id="seg86">Mheshimiwa Kapinga, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u49" who="MheJudithSKapinga">
+          <seg xml:id="seg87">Mheshimiwa Mwenyekiti, ahsante. Naipongeza Wizara kwa kazi kubwa wanayoifanya kwenye sekta ya maji na nina swali moja la nyongeza, kama ifuatavyo:-</seg>
+          <seg xml:id="seg88">Mheshimiwa Mwenyekiti, kutokana na mabadiliko ya sayansi na teknolojia ambayo yanachagiza huduma za kijamii kufika viganjani mwa watumiaji. Je, Wizara haioni umuhimu wa kuweka mpango kazi mahususi, yaani ikifika 2025 mita hizi janja ziweze kutumika na watu majumbani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u50" who="Mwenyekiti">
+          <seg xml:id="seg89">Mheshimiwa Naibu Waziri wa Maji, Engineer Maryprisca Mahundi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u51" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg90">Mheshimiwa Mwenyekiti, naomba kujibu swali la nyongeza la Mheshimiwa Judith Kapinga, kama ifuatavyo:-</seg>
+          <seg xml:id="seg91">Mheshimiwa Mwenyekiti, naomba nitoe taarifa kwamba, tayari Wizara imeshakuwa na huo mpango na tayari umeshaanza kutekelezwa. Baadhi ya sisi hapa ndani pia tutakuwa mashahidi, hata mimi mwenyewe nyumbani kwangu natumia prepaid meter, kwa hiyo, sio kwamba, bado watu hawajaanza kutumia majumbani, tayari tumeanza, lakini kwa kuangalia kama modules za kufanya tu utafiti kuona kwamba, ufanisi wake umekaaje, lakini mpaka kufika hiyo 2025 anayoongelea Mheshimiwa Mbunge, nimtoe hofu jamii kubwa sana itakuwa tayari inatumia prepaid meters.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u52" who="Mwenyekiti">
+          <seg xml:id="seg92">Mheshimiwa Ester Bulaya, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u53" who="MheEsterABulaya">
+          <seg xml:id="seg93">Mheshimiwa Mwenyekiti, nakushukuru na ningependa kujua, Serikali ina bei maalum elekezi ya unit moja ya maji kwa sababu, kila halmashauri inajipangia bei na mwisho wa siku mzigo unabaki kwa mwananchi; kwa mfano Bunda, unit moja 1,800/= ukienda maeneo mengine ni 1,000/= mpaka chini ya 1,000/=. Je, hamwoni kuna haja ya kupanga bei maalum ili kuwaondolea mzigo wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u54" who="Mwenyekiti">
+          <seg xml:id="seg94">Mheshimiwa Naibu Waziri wa Maji, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u55" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg95">Mheshimiwa Mwenyekiti, ahsante, naomba kujibu swali la nyongeza la Mheshimiwa Ester Bulaya, kama ifuatavyo:-</seg>
+          <seg xml:id="seg96">Mheshimiwa Mwenyekiti, tayari Wizara ilishatangaza kupitia Waziri mwenye dhamana, bei elekezi kwenye maeneo yote ilishatangazwa. Bei hazifanani kulingana na uwekezaji wa miradi. Mradi ambao unatumia source ya kusuma maji kama ni diesel, bei yake haiwezi kufanana na inayosukuma maji kwa kutumia umeme wa TANESCO, tofauti na bei ambapo maji kutoka katika chanzo chake yatakuwa yanasukumwa na umeme wa jua, lakini vilevile ukubwa wa mradi kulingana na jiografia ya eneo ulipo huo mradi. Hivyo, bei haziwezi kufanana, lakini bei elekezi tayari zimetolewa kulingana na mradi namna ambavyo ulitengenezwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u56" who="Mwenyekiti">
+          <seg xml:id="seg97">Mheshimiwa Catherine Magige, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u57" who="MheCatherineVMagige">
+          <seg xml:id="seg98">Mheshimiwa Mwenyekiti, ahsante:-</seg>
+          <seg xml:id="seg99">Mheshimiwa, Mwenyekiti, hivi karibuni Mheshimiwa Waziri wa Maji alifanya ziara Wilayani Monduli, Mkoa wa Arusha na kuahidi mradi mkubwa wa maji utakaoanzia katika tanki ya gari popo, utakaonufaisha vijiji 12 vya Kata ya Meserani, Lepurko, Moita na kata nyingine. Je, ni lini hasa mradi huu mkubwa wa maji utaanza rasmi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u58" who="Mwenyekiti">
+          <seg xml:id="seg100">Majibu, Mheshimiwa Naibu Waziri wa Maji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u59" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg101">Mheshimiwa Mwenyekiti, ahsante. Naomba kujibu swali la nyongeza la Mheshimiwa Catherine Magige, Mbunge Viti Maalum, Arusha, kama ifuatavyo:-</seg>
+          <seg xml:id="seg102">Mheshimiwa Mwenyekiti, ni kweli mradi huu upo kwenye mpango wa Wizara, kama alivyoelekeza Mheshimiwa Waziri na wakati wowote ule mradi unaenda kuanza. Tunasubiri tu mafungu yakae vizuri, mradi unakuja kutekelezwa na tutahakikisha vijiji vyote 12 vinafikiwa na maeneo yote ya karibu ambayo bomba kuu litapita kwenye mradi huu yatakwenda kunufaika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u60" who="Mwenyekiti">
+          <seg xml:id="seg103">Ahsante sana Mheshimiwa Naibu Waziri wa Maji, Eng. Maryprisca Mahundi.</seg>
+          <seg xml:id="seg104">Tunaendelea na Wizara ya Madini; namwita Mheshimiwa Abubakari Damian Asenga, Mbunge wa Kilombero na swali lake litaulizwa na Mheshimiwa Ally Kasingi, Mbunge wa Kilwa Kusini.</seg>
+        </u>
+        <note>Na. 91. Maeneo Yenye Madini ya Dhahabu – Kilombero</note>
+        <note>K.n.y. MHE. ABUBAKARI D. ASENGA)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u61" who="MheAllyMKassinge">
+          <seg xml:id="seg105">Je, ni lini Serikali itapima upatikanaji wa madini ya dhahabu katika Jimbo la Kilombero na maeneo jirani ya Mlima Udzungwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u62" who="Mwenyekiti">
+          <seg xml:id="seg106">Narekebisha jina; jina ni Mheshimiwa Ally Kassinge, Mbunge wa Kilwa Kusini.</seg>
+          <seg xml:id="seg107">Mheshimiwa Naibu Waziri wa Madini, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u63" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg108">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Madini, napenda kujibu swali la Mheshimiwa Ally Damian Assenga, Mbunge wa Jimbo la Kilombero, kama ifuatavyo:-</seg>
+          <seg xml:id="seg109">Mheshimiwa Mwenyekiti, Wizara kupitia Taasisi yake ya Jiolojia na Utafiti wa Madini Tanzania (GST), imefanya utafiti wa awali na kuchora ramani kwenye maeneo yote yaliyoko katika Jimbo la Kilombero katika mfumo wa Quarter Degree Sheet (QDS). Tafiti hizi za awali zinaonesha kuwa kuna uwepo wa madini ya dhahabu na madini ya vito katika Kata ya Chisano.</seg>
+          <seg xml:id="seg110">Mheshimiwa Mwenyekiti, GST pia ilifanya utafiti wa awali na kuchora ramani ya eneo la Hifadhi ya Milima ya Udzungwa na maeneo jirani. Hata hivyo, utafiti umeonesha kwamba, hakuna taarifa zozote za uwepo wa madini ya thamani katika milima hiyo. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u64" who="Mwenyekiti">
+          <seg xml:id="seg111">Mheshimiwa Ally Kassinge, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u65" who="MheAllyMKassinge">
+          <seg xml:id="seg112">Mheshimiwa Mwenyekiti, ahsante. Kwa niaba ya Mheshimiwa Abubakar Assenga, Mbunge wa Kilombero, naomba kuuliza maswali mawili ya nyongeza, kama ifuatavyo:-</seg>
+          <seg xml:id="seg113">Mheshimiwa Mwenyekiti, swali la kwanza; kutokana na utafiti uliofanywa na GST na kubaini kwamba, katika maeneo husika madini yapo. Je, Serikali iko tayari sasa kuendelea na utafiti katika maeneo mengine jirani ambapo madini hayakupatikana?</seg>
+          <seg xml:id="seg114">Mheshimiwa Mwenyekiti, swali la pili; Mheshimiwa Waziri atakuwa tayari kwenda Jimboni Kilombero katika maeneo ambayo madini hayo yanapatikana au kumekuwa na dalili za uwepo wa madini ili kwenda kujenga uelewa zaidi kwa wananchi wanaozunguka maeneo hayo? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u66" who="Mwenyekiti">
+          <seg xml:id="seg115">Mheshimiwa Naibu Waziri wa Madini, majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u67" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg116">Mheshimiwa Mwenyekiti, naomba kujibu maswali madogo mawili ya nyongeza ya Mheshimiwa Ally Kassinge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg117">Mheshimiwa Mwenyekiti, kuhusu kwenda kufanya utafiti katika maeneo mengine, jibu ni ndio. Wizara inaendelea kupitia taasisi yake ya GST kufanya utafiti katika maeneo yote ya nchi yetu kubaini maeneo yenye madini ya aina mbalimbali, ili tuweze kuyafahamu na kuweza kuwagawia wachimbaji wadogo na wawekezaji kutoka sehemu mbalimbali katika dunia kwa sababu, Rais wetu naye alitusaidia sana kupitia Royal Tour kuyatangaza na wawekezaji wanazidi kumiminika nchini kwa hiyo, zoezi la utafiti linaendelea nchi nzima.</seg>
+          <seg xml:id="seg118">Mheshimiwa Mwenyekiti, kuhusu swali lake la pili la mimi kwenda Kilombero na kuendelea kuangalia maeneo yaliyopatikana kwa ajili ya wachimbaji wadogo, ndio, niko niko tayari kutembelea katika maeneo hayo. Nipende tu kumjulisha kwamba, hata sasa katika maeneo ambayo madini yameshabainika tuna zaidi ya leseni 22 za wachimbaji wadogo ambao wanaendelea na tafiti na uchimbaji wa madini ya vito pamoja na madini ya dhahabu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u68" who="Mwenyekiti">
+          <seg xml:id="seg119">Mheshimiwa Deo Mwanyika, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u69" who="MheDeodatusPMwanyika">
+          <seg xml:id="seg120">Mheshimiwa Mwenyekiti, nakushukuru sana kwa kuniona:-</seg>
+          <seg xml:id="seg121">Mheshimiwa Mwenyekiti, ukiacha eneo la Liganga na Mchuchuma, eneo la Njombe kwa ujumla mpaka maeneo ya Mufindi hayajafanyiwa utafiti kabisa. Pamoja na kueleza kwamba, nchi nzima inafanyiwa utafiti ni lini sasa Serikali itaifanya GST ianze utafiti kwenye maeneo ya Njombe ambayo hayajafanyiwa utafiti?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u70" who="Mwenyekiti">
+          <seg xml:id="seg122">Ahsante kwa swali lako Mheshimiwa Deo Mwanyika, tena amekoleza pale na Mufindi kwa hiyo, na Mufindi i-bold kabisa hapo. Majibu Mheshimiwa Naibu Waziri wa Madini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u71" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg123">Mheshimiwa Mwenyekiti, naomba kujibu swali la nyongeza la Mheshimiwa Mwanyika, kama ifuatavyo:-</seg>
+          <seg xml:id="seg124">Mheshimiwa Mwenyekiti, ni kweli katika Nyanda za Juu Kusini hasa Mikoa ya Ruvuma, Njombe na hususan kule Ludewa, kuna maeneo makubwa sana yenye madini ya chuma na madini ya makaa ya mawe. Wizara inaendelea kuchakata kwa kushirikiana na Wizara ya Viwanda na Uwekezaji utaratibu mzuri wa kuwapata wawekezaji wakubwa wa kuyachimba madini hayo, lakini pia, tuko katika hatua za mwisho kabisa za kubainisha maeneo ya kuwagawia wachimbaji wadogo ili madini hayo yaweze kuleta tija kwa Taifa letu na raia wake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u72" who="Mwenyekiti">
+          <seg xml:id="seg125">Mheshimiwa Justine Nyamoga, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u73" who="MheJustineLNyamoga">
+          <seg xml:id="seg126">Mheshimiwa Mwenyekiti, nakushukuru sana kwa kunipa nafasi. Huu ukanda wa Milima ya Udzungwa unaelekea kwa kiwango kikubwa kwenye Wilaya ya Kilolo na huu ukanda unaungana na Kata ya Udekwa na Kata ya Ukwega ambayo pia, inaaminika kuwa na madini. Je, Wizara iko tayari kutuma wataalam kufanya utafiti ili kama madini hayo ya dhahabu yapo, kama ilivyo kule Ulanga, yaweze pia kuchimbwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u74" who="Mwenyekiti">
+          <seg xml:id="seg127">Majibu Mheshimiwa Naibu Waziri wa Madini, wakati huo Waheshimiwa Wabunge tunaombwa tutulie. Waheshimiwa Wabunge, naomba mtulie.</seg>
+          <seg xml:id="seg128">Majibu, Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u75" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg129">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Nyamoga, kama ifuatavyo:-</seg>
+          <seg xml:id="seg130">Mheshimiwa Mwenyekiti, sisi kama nilivyotangulia kusema, kama Wizara ya Madini, kupitia taasisi zake GST na hata STAMICO, tuko katika mpango mahususi wa kuendelea kufanya utafiti wa kubaini maeneo yote yenye madini nchini na itahusisha pia, eneo lake na sehemu alizozitaja kwa sababu, lengo letu kama Taifa ni kuhakikisha kwamba, rasilimali madini inakwenda kuzalishwa ili iletee Taifa letu tija. Nimhakikishie kwamba na nitumie pia nafasi hii kuiagiza taasisi yetu ya GST katika mpango kazi wao wa mwaka huu waweke katika utaratibu na ratiba safari ya kuelekea kule kufanya utafiti kwenye eneo la Mheshimiwa Mbunge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u76" who="Mwenyekiti">
+          <seg xml:id="seg131">Ahsante. Nimekuona Mheshimiwa Hhayuma, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u77" who="MheEngSamweliXHhayuma">
+          <seg xml:id="seg132">Mheshimiwa Mwenyekiti, ahsante sana kwa kunipa nafasi. Wilaya ya Hanang, Kata ya Basutu, tuna mgodi wa dhahabu, lakini uzalishaji wake uko chini sana. Je, Serikali iko tayari kushirikiana na mwekezaji ili kuongeza uzalishaji wa dhahabu kwenye eneo hilo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u78" who="Mwenyekiti">
+          <seg xml:id="seg133">Majibu, Mheshimiwa Naibu Waziri, madini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u79" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg134">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Mbunge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg135">Mheshimiwa Mwenyekiti, sisi kama Wizara, tunashirikiana na wawekezaji na wachimbaji wadogo. Vilevile sisi kama Wizara lengo letu kubwa ni kusimamia upande wa sera, kanuni na sheria, lakini pia kutoa elimu na kuwasaidia wachimbaji wadogo kupata fursa za kufikia taasisi za kifedha ili waweze kukopeshwa vifaa ama fedha baada ya kukidhi vigezo ili uzalishaji uweze kuendelea na waweze kupata tija kwa juhudi ya uchimbaji wa madini.</seg>
+          <seg xml:id="seg136">Mheshimiwa Mwenyekiti, napenda kujibu swali la Mheshimiwa Mbunge kwamba Wizara tunashirikiana na wawekezaji, tunashirikiana na wachimbaji wadogo, Wizara lengo letu kubwa ni kusimamia upande wa Sera, Kanuni na Sheria, pia kutoa elimu na kuwasaidia wachimbaji wadogo kupata fursa za kufikia taasisi za kifedha waweze kukopeshwa ama vifaa, ama fedha baada ya kukidhi vigezo ili uzalishaji</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u80" who="Mwenyekiti">
+          <seg xml:id="seg137">Ahsante sana Dkt. Steven Lemomo Kiruswa, Naibu Waziri wa Madini. Tunaendelea na Wizara ya Mambo ya Ndani ya Nchi, namuita Mheshimiwa Janejelly James Ntate aulize swali lake. Swali lake litaulizwa na Mheshimiwa Prof. Manya.</seg>
+        </u>
+        <note>Na. 92. Kumalizia Ujenzi Kituo cha Polisi Mbande Chamazi</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u81" who="Mwenyekiti">
+          <seg xml:id="seg138">MHE. PROF. SHUKRANI E. MANYA K.n.y MHE. JANEJELLY J. NTATE aliuliza:-</seg>
+          <seg xml:id="seg139">Je, ni lini serikali itamaliza ujenzi wa Kituo cha Polisi Mbande Kata ya Chamazi.</seg>
+          <seg xml:id="seg140">Mheshimiwa Naibu Waziri Mambo ya Ndani ya Nchi Mheshimiwa Jumanne Sagini majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u82" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg141">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Janejelly James Ntate, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg142">Mheshimiwa Mwenyekiti, Kituo cha Polisi cha Mbande ambacho ni cha Daraja B kilianza kujengwa kwa kutumia Shilingi 16,000,000 zilizochangwa na wananchi mwezi Agosti 2016. Kwa kutumia Shilingi 38,000,000 zilizochangwa na Halmashauri ya Manispaa ya Temeke, Mradi wa SONGAS na Kampuni ya Tatu Mzuka ujenzi uliendelea hadi upauaji mwaka 2020.</seg>
+          <seg xml:id="seg143">Mheshimwa Mwenyekiti, Serikali kupitia Jeshi la Polisi, ilitoa Shilingi 30,826,500 mwezi Juni, 2022 ili kuendeleza na kukamilisha ujenzi huo. Hadi sasa milango, grills za madirisha, mfumo wa majisafi na majitaka, umeme na blundering vimekamilishwa. Ni matarajio yetu kuwa Kituo hicho kitakamilika na kuanza kutumika kabla ya mwezi Novemba, 2022. Ninakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u83" who="Mwenyekiti">
+          <seg xml:id="seg144">Mheshimiwa Profesa Manya swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u84" who="MheProfShukraniEManya">
+          <seg xml:id="seg145">Mheshimwa Mwenyekiti, kwa niaba ya Mheshimiwa Janejelly Ntate nipende kuuliza swali la nyongeza na kwanza ninashukuru kwa majibu ya Serikali kwamba sasa baada ya kukamilisha kituo hicho, ni lini sasa watumishi wataletwa ili kuimarisha hali ya usalama katika maeneo hayo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u85" who="Mwenyekiti">
+          <seg xml:id="seg146">Mheshimiwa Naibu Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u86" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg147">Mheshimiwa Mwenyekiti, nashukuru baada ya kituo hiki kukamilishwa nampa assurance</seg>
+          <seg xml:id="seg148">Mheshimiwa Mbunge kwa niaba ya Mheshimiwa Janejelly kwamba Serikali kupitia Jeshi la Polisi Kanda Maalum Mkoa wa Dar es Salaam na Mkoa wa Kipolisi wa Temeke, mara moja watapelekwa Askari kwa ajili ya kuanza kutoa huduma. Ikumbukwe kwamba sasa hivi tunao Askari mpaka ngazi ya Kata na eneo hili lipo kwenye utawala wa Kata na Inspectors wameshapangwa kule wameshapangwa kule kwa ajili ya kutoa huduma za ulinzi. Kituo kikikamilika tutapeleka askari wa kutosha ili kutekeleza majukumu ya usalama kwenye eneo hilo.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u87" who="Mwenyekiti">
+          <seg xml:id="seg149">Mheshimiwa Getere swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u88" who="MheBoniphaceMGetere">
+          <seg xml:id="seg150">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg151">Mheshimiwa Mwenyekiti, wote tunajua usalama ulivyo, Kituo cha Polisi Mgeta ni kituo kiko Makao Makuu ya Tarafa ya Chamuriho, toka mwaka jana nimeahidiwa kwamba fedha zitakwenda kumalizia boma la kituo hicho Waziri wa Mambo ya Ndani alishaahidi, wewe Naibu Waziri ulishaahidi. Je, ni lini hela zitakwenda kwenye kituo hicho?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u89" who="Mwenyekiti">
+          <seg xml:id="seg152">Majibu Mheshimiwa Naibu Waziri Mambo ya Ndani ya Nchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u90" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg153">Mheshimiwa Mwenyekiti, napenda kumjibu Mheshimiwa Getere kwamba ni kweli kwamba kwa mara kadhaa tumeahidi kwamba kituo hicho kitakamilishwa na ndiyo tumeanza tu Mheshimiwa Getere, ni mwezi wa tatu tangu tulipoanza utekelezaji wa bajeti, ninakuahidi tu katika robo inayokuja tutahakikisha kupitia Jeshi la Polisi fedha inapelekwa ili kukamilisha ujenzi wa kituo cha Mgeta ambacho ni muhimu sana kwa usalama wa wananchi wa eneo la Mgeta na Tarafa nzima ya Wilaya ya Bunda Vijijini.</seg>
+          <seg xml:id="seg154">Mheshimiwa Mwenyekiti, ninakushukuru.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u91" who="Mwenyekiti">
+          <seg xml:id="seg155">Ahsante Mheshimiwa Mwakang’ata swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u92" who="MheBupeNMwakangAta">
+          <seg xml:id="seg156">Mheshimiwa Mwenyekiti, ahsante kwa kunipa nafasi ya kuuliza swali dogo la nyongeza. Kituo cha Polisi cha Sumbawanga Mjini ni cha toka enzi za mkoloni.</seg>
+          <seg xml:id="seg157">Je, ni lini Serikali itaanza ujenzi wa kituo hicho? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u93" who="Mwenyekiti">
+          <seg xml:id="seg158">Ahsante kwa swali fupi, Mheshimiwa Naibu Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u94" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg159">Mheshimiwa Mwenyekiti, napenda kujibu swali la nyongeza Mheshimiwa Mbunge kwamba vituo vyote ambavyo ni chakavu, wakati fulani tuliwahi kusema</seg>
+          <seg xml:id="seg160">hapa Bungeni vimefanyiwa tathmini na kinachosubiriwa ni upatikanaji wa fedha tu.</seg>
+          <seg xml:id="seg161">Mheshimiwa Mwenyekiti, kipaumbele kikubwa tulikielekeza kwenye maeneo ambayo hayakuwa na vituo vya Polisi kabisa, ndiyo maana ukarabati kidogo tumekuwa tukienda taratibu ili kuhakikisha wale ambao hawana huduma za usalama wa raia kabisa angalau waweze kupata. Ninakuahidi Mheshimiwa Mbunge tunajua eneo unalolitaja linakaribia kupakana na mpakani na kuna matukio mengi ya uhalifu. Kwa hiyo tutahakikisha kwamba katika mipango yetu ya ukarabati jicho linaelekezwa kwenye kituo hicho ili kiweze kufanyiwa ukarabati.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u95" who="Mwenyekiti">
+          <seg xml:id="seg162">Mheshimiwa Sillo swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u96" who="MheDanielBSillo">
+          <seg xml:id="seg163">Mheshimiwa Mwenyekiti, ahsante kwa kunipa nafasi niweze kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg164">Kwa kuwa, Mheshimiwa Waziri wa Mambo ya Ndani aliahidi kumalizia ujenzi wa Kituo cha Polisi cha Galapo katika mwaka wa fedha 2022/2023. Je, ni lini Serikali itatoa fedha ili kazi hiyo iweze kukamilika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u97" who="Mwenyekiti">
+          <seg xml:id="seg165">Majibu Mheshimiwa Naibu Waziri Mambo ya Ndani ya Nchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u98" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg166">Mheshimiwa Mwenyekiti, naomba kumjibu Mheshimiwa Sillo kwamba mpango wa ukamilishaji wa vituo vya Polisi kwa kweli inategemea upatikanaji wa fedha. Ninafahamu wakati wa bajeti yetu iliyosomwa mwaka huu, Waziri aliainisha maeneo mbalimbali ambayo yatapelekewa fedha kwa ajili ya kukamilisha ujenzi huo. Ninamuomba tu Mheshimiwa Mbunge awe na Subira, miongoni mwa maeneo ambayo yatapewa kipaumbele ni haya ambayo yana matukio mengi ya uhalifu ikiwemo eneo la Galapo ambalo limekuwa ni kituo kikubwa cha kibiashara na tutakipa pia kipaumbele. Ninakushukuru sana.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u99" who="Mwenyekiti">
+          <seg xml:id="seg167">Mheshimiwa Husna Sekiboko.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u100" who="MheHusnaJSekiboko">
+          <seg xml:id="seg168">Mheshimiwa Mwenyekiti, ahsante sana kwa kuniona.</seg>
+          <seg xml:id="seg169">Mheshimiwa Mwenyekiti, Kata ya Lukozi Wilaya ya Lushoto ni moja ya Kata kubwa yenye idadi kubwa ya watu na mwingiliano mkubwa wa kibiashara lakini kata hiyo haijapata kabisa huduma ya Polisi.</seg>
+          <seg xml:id="seg170">Je, ni lini sasa Serikali itaanzisha Kituo cha Polisi kwenye Kata hiyo?</seg>
+          <seg xml:id="seg171">Mwenyekiti, naomba kumjibu Mheshimiwa Husna, Mbunge wa Viti Maalum Tanga, kama ifuatavyo.</seg>
+          <seg xml:id="seg172">Mheshimiwa Mwenyekiti, ni kweli kwamba kipaumbele chetu ni kuhakikisha kwamba Kata zote zinapata huduma za Polisi hususan Polisi Shirikishi. Ndiyo maana katika bajeti ya mwaka uliopita tulieleza bayana, kwamba watumishi wapya Askari, Inspectors zaidi ya 4,200 waliopatikana wamepangwa kwenye Kata zote ili kuimarisha huduma za ulinzi. Ninamuomba Mheshimiwa Mbunge kupitia Halmashauri ya Wilaya Lushoto wawahamasishe wananchi waanze angalau zile shughuli za awali za ujenzi wa kituo hicho ili Serikali ije iunge mkono nguvu zao kukamilisha ujenzi huo.</seg>
+          <seg xml:id="seg173">Mheshimiwa Mwenyekiti, wale ambao wameweka kipaumbele na wakaanza ujenzi Wizara ya Mambo ya Ndani kupitia Jeshi la Polisi inawaunga mara moja mkono, lakini wale ambao wanataka Wizara ianze moja, uwezekano huo hautakuwepo kutokana na changamoto ya kibajeti. Nimuombe tu tuvianzishe na Wizara tutaunga mkono.</seg>
+          <seg xml:id="seg174">Mheshimiwa Mwenyekiti, ninashukuru.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u101" who="Mwenyekiti">
+          <seg xml:id="seg175">Tunaendelea na Wizara ya Mambo ya Ndani ya Nchi ninamuita Mheshimiwa Daudi Protas Venant Mbunge wa Igalula aulize swali lake.</seg>
+        </u>
+        <note>Na. 93. Kurahisisha Mchakato wa Upatikanaji wa Kitambulisho cha Taifa</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u102" who="Mwenyekiti">
+          <seg xml:id="seg176">MHE. ABDUL-HAFAR IDRISSA JUMA K.n.y MHE. VENANT D. PROTAS aliuliza:-</seg>
+          <seg xml:id="seg177">Je, Serikali ina mkakati gani wa kurahisisha upatikanaji wa Vitambulisho vya Taifa kwa wananchi?</seg>
+          <seg xml:id="seg178">Mheshimiwa Naibu Waziri Mambo ya Ndani ya Nchi majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u103" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg179">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Venant Daud Protas, Mbunge wa Jimbo la Igalula kama ifuatavyo: -</seg>
+          <seg xml:id="seg180">Mheshimiwa Mwenyekiti, lengo la Serikali ni kuhakikisha watu wote wanaokidhi vigezo vya usajili na utambuzi wanasajiliwa kwa urahisi. Ili kufikia lengo hilo, Mamlaka ya Vitambulisho vya Taifa (NIDA) inatekeleza mikakati ifuatayo:-</seg>
+          <seg xml:id="seg181">(i) Kufungua ofisi za usajili na utambuzi katika Wilaya zote Tanzania Bara na Zanzibar, ambapo jumla ya ofisi 152 zimefunguliwa katika Wilaya 150;</seg>
+          <seg xml:id="seg182">(ii) Kuendelea kufanya usajili na utambuzi wa wananchi kupitia ofisi za Mamlaka za Wilaya na kuendesha mazoezi ya usajili wa watu wengi (Mass registration); na</seg>
+          <seg xml:id="seg183">(iii) Ugawaji vitambulisho kwenye ngazi za msingi yaani Kata/Shehia na vijiji ili kuwafikia wananchi wengi zaidi.</seg>
+          <seg xml:id="seg184">Mheshimiwa Mwenyekiti, mikakati hiyo husaidia kupunguza usumbufu na gharama za usajili kwa wananchi. Nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u104" who="Mwenyekiti">
+          <seg xml:id="seg185">Mheshimiwa Abdul-hafar swali la nyongeza kwa niaba ya Mheshimiwa Mbunge wa Igalula.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u105" who="MheAbdulHafarIdrissaJuma">
+          <seg xml:id="seg186">Mheshimiwa Mwenyekiti, nakushukuru. Pamoja na majibu mazuri ya Serikali lakini ni lini hasa Serikali itaanza kugawa vitambulisho vya Taifa kwa wale ambao wameshasajiliwa hasa waliosajiliwa zaidi ya miezi sita ama zaidi ya miaka miwili?</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u106" who="Mwenyekiti">
+          <seg xml:id="seg187">Majibu Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u107" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg188">Mheshimiwa Mwenyekiti, naomba kujibu swali la nyongeza la Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg189">Ninafahamu Bungeni hapa tumesema tumejadili changamoto ya Vitambulisho vya Taifa tukaeleza, lakini tukasema changamoto ile imeshakwamuliwa baada ya ku-review ule mkataba na kuuhuisha, tukasema kinachosubiriwa ni mzalishaji kuanza kutengeneza vitambulisho hivi. Kwa hiyo, nimuombe Mheshimiwa Mbunge ni kweli wananchi ambao kwa miezi Sita iliyopita wamesajiliwa na kutambuliwa na wakapewa namba baada ya Mkandarasi kuanza kuzalisha vitambulisho hivyo watapewa kipaumbele watu hawa ambao wamekaa muda mrefu bila kupewa kadi zile za vitambulisho. Ninashukuru.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u108" who="Mwenyekiti">
+          <seg xml:id="seg190">Mheshimiwa Esther Matiko swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u109" who="MheEstherNMatiko">
+          <seg xml:id="seg191">Mheshimiwa Mwenyekiti, nakushukuru. Ninataka kujua Serikali ina mkakati gani wa kuboresha vitambulisho hivi vya Taifa ili viweze kubeba taarifa muhimu zote za mhusika?</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u110" who="MheEstherNMatiko">
+          <seg xml:id="seg192">Mwenyekiti, naomba kujibu swali la nyongeza la Mheshimiwa Esther Matiko, kama ifuatavyo:-</seg>
+          <seg xml:id="seg193">Mheshimiwa Mwenyekiti, ni kweli baada ya kuanza kutumika kwa Vitambulisho vya Taifa ambavyo vimeonekana vimekuwa na matumizi mengi Zaidi, imeonekana umuhimu wa kuvihuisha vitambulisho hivyo ili vibebe taarifa nyingi na kumpunguzia Mtanzania utaratibu wa kubeba vitambulisho hiki, Leseni na nini. Tunaendelea kuzungumza na wenzetu wa mamlaka nyingine ambazo zina vitambulisho hivyo ili kuweza kuhuisha Kitambulisho hiki cha Taifa kiweze kubeba taarifa hizo kumpunguzia mwananchi kuwa na makadi au vitambulisho vingi. Kwa hiyo, mazungumzo yatakapokamilika Mheshimiwa Esther jambo hilo litafanyika. Ninakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u111" who="Mwenyekiti">
+          <seg xml:id="seg194">Ahsante Mheshimiwa Naibu Waziri Mambo ya Ndani ya Nchi, Mheshimiwa Jumanne Sagini. Tunaendelea na Wizara ya Afya namuita Mheshimiwa Mariam Nassor Kisangi Mbunge Viti Maalum, aulize swali lake. Swali lake litaulizwa na Mheshimiwa Ritta Kabati.</seg>
+        </u>
+        <note>Na. 94. Tatizo la Watoto Wachanga Kugeuka Njano</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u112" who="Mwenyekiti">
+          <seg xml:id="seg195">MHE. DKT. RITTA E. KABATI K.n.y MHE. MARIAM N. KISANGI aliuliza:-</seg>
+          <seg xml:id="seg196">Je, Serikali haioni haja ya kufanya utafiti wa chanzo cha watoto wachanga kugeuka njano baada ya kuzaliwa na Mama kuishiwa nguvu.</seg>
+          <seg xml:id="seg197">Majibu Mheshimiwa Naibu Waziri wa Afya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u113" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg198">Mheshimiwa Mwenyekiti, kwa niaba ya Waziri wa Afya, naomba kujibu swali la Mheshimiwa Mariam Nassoro Kisangi Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg199">Mheshimiwa Mwenyekiti, tafiti nyingi zimefanyika Kitaifa na Kimataifa kujua chanzo cha watoto wachanga kugeuka njano mara baada ya kuzaliwa. Tafiti hizo zimeonyesha kuwa hali ya umanjano inayotokea ndani ya masaa 24 baada ya kuzaliwa inaonyesha tatizo la kiafya (Pathological) na linahitaji kutambua sababu na kutoa tiba stahiki.</seg>
+          <seg xml:id="seg200">Mheshimiwa Mwenyekiti, tatizo likitokea baada ya masaa 24, mara nyingi linatokana na sababu za kawaida za mwili wa mtoto kupunguza chembechembe nyekundu nyingi alizokuwa nazo tumboni kwa Mama, hata hivyo hili pia uchunguzi wa kina ni muhimu ili kujihakikishia.</seg>
+          <seg xml:id="seg201">Mheshimiwa Mwenyekiti, suala la utafiti ni muhimu na ni suala endelevu katika afya. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u114" who="Mwenyekiti">
+          <seg xml:id="seg202">Ahsante. Mheshimiwa Ritta Kabati kwa niaba ya Mheshimiwa Mariam Kisangi, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u115" who="MheDktRittaEKabati">
+          <seg xml:id="seg203">Mheshimiwa Mwenyekiti, ahsante sana kwa kunipa nafasi kuuliza swali la nyongeza. Ninamshukuru kwanza majibu ya Mheshimiwa Waziri lakini changamoto kubwa kuna baadhi ya Vijiji, Kata hakuna hospitali wala vipimo, sasa sijui anawasaidiaje wazazi ambao wanazaa watoto wachanga ambao wapo katika vijiji ambavyo hakuna hata hospitali yenye vipimo kama hivyo?</seg>
+          <seg xml:id="seg204">Swali langu la pili, kuna watoto ambao wanazaliwa na sickle cell wamekuwa wakipata mateso makubwa sana, damu kupungua mwilini, lakini sasa hivi tunaona kwamba hatupatiwi dawa bure katika hospitali zetu. Nini mkakati wa Serikali kuhakikisha kwamba wanawasaidia watoto wanaozaliwa na sickle cell?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u116" who="Mwenyekiti">
+          <seg xml:id="seg205">Mheshimiwa Naibu Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u117" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg206">Mheshimiwa Mwenyekiti, naomba kujibu maswali mawili ya Mheshimiwa Mbunge kama ifuatavyo.</seg>
+          <seg xml:id="seg207">Moja ni suala la kwamba kuna watoto ambao vituo haviko kule, ndiyo maana kuna juhudi kubwa ambayo Rais wetu anafanya kwenye masuala ya kujenga vituo vya afya kila mahali katika nchi yetu na ndiyo maana pia tunasisitiza kila mama mjamzito aweze kujifungulia kwenye zahanati au kituo cha afya ili utambuzi uweze kufanyika na kumpa mtoto tiba stahiki.</seg>
+          <seg xml:id="seg208">Mheshimiwa Mwenyekiti, swali lake la pili linalohusu suala la selimundu maana yake sickle cell ni kweli kuna tatizo hilo katika nchi, lakini imeshachukuliwa hatua sasa na dawa ya kuweza kuwasaidia hawa watoto imeshawekwa package yake kwa ajili ya kununuliwa na MSD na kusambaza kwenye vituo vyetu na kuweka utaratibu maalum, kwa kushirikiana vilevile na Serikali ya Marekani tayari vilevile imetengenezwa program maalum ambayo inashughulikia watoto wenye matatizo hayo. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u118" who="Mwenyekiti">
+          <seg xml:id="seg209">Mheshimiwa Zuena Bushiri swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u119" who="MheZuenaABushiri">
+          <seg xml:id="seg210">Mheshimiwa Mwenyekiti, ahsante kunipa nafasi na mimi kuuliza swali la nyongeza. Kwa kuwa, tafiti zimefanyika Kitaifa, Je, ni</seg>
+          <seg xml:id="seg211">maeneo gani ambayo yanaonyesha baada ya kufanya tafiti kwamba zoezi hili liko kwa wingi nchini? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u120" who="Mwenyekiti">
+          <seg xml:id="seg212">Majibu Mheshimiwa Naibu Waziri wa Afya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u121" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg213">Mheshimiwa Mwenyekiti, kimsingi tunachoweza kumwambia Mheshimiwa Mbunge ni kwamba katika kila watoto 20 mmoja anakutwa na tatizo hilo, maeneo yote ya nchi wamekuwa wapatikana watoto kama hao kwa sababu matatizo mengine yanatokana na maambukizi au wakati mwingine inaweza kuwa mama ana damu aina fulani na mtoto ana damu aina fulani ambayo wakati mwingine ikichanganyikana inasababisha tatizo hilo. Wakati mwingine inatokana kwamba wakati mtoto yuko tumboni kwa mama anakuwa na damu nyingi, chembechembe nyekundu nyingi za damu, kwa sababu tumboni kwa mama anatumia hewa oxygen ambayo ni ile ya mama, kwa hiyo ni lazima awe na chembe chembe nyingi za damu.</seg>
+          <seg xml:id="seg214">Kwa hiyo, akitoka nje akizaliwa baada ya saa 24 zile chembechembe nyekundu zinaanza kuondoka kwa maana ya kupasuka zinapoanza kuondoka sasa inasababisha hilo tatizo lakini ni la kawaida kwa sababu anapofika sehemu yenye oxygen nyingi basi chembe chembe zile nyekundu hazihitajiki inabidi ziondoke. Hivyo ni kwamba, kila mahali hilo tatizo linaonekana, jambo la msingi ni kujua katika kila watoto 20 mmoja anaonekana ana hilo tatizo.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u122" who="Mwenyekiti">
+          <seg xml:id="seg215">Mheshimiwa Cecilia Paresso swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u123" who="MheCeciliaDParesso">
+          <seg xml:id="seg216">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa nafasi kuuliza swali dogo la nyongeza.</seg>
+          <seg xml:id="seg217">Mheshimiwa Mwenyekiti, tafiti mbalimbali na majarida mbalimbali yanaonyesha bado vifo vinavyotokana na uzazi vinazidi kuongezeka. Je, ni nini mkakati wa Serikali kuhakikisha kwamba inapunguza vifo hivyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u124" who="Mwenyekiti">
+          <seg xml:id="seg218">Majibu Mheshimiwa Naibu Waziri wa Afya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u125" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg219">Mheshimiwa Mwenyekiti, ni kweli kwamba vifo vinavyotokana na wazazi vipo lakini vinapungua kwa kila wakati. Suala zima la mkakati wa kuendelea kupunguza zaidi ndiyo maana umeona Rais wetu ameelekeza tutumie shilingi bilioni 23 kujenga wodi maalum kwa ajili ya watoto njiti, kwa sababu vifo vya watoto wachanga vinachangiwa asilimia 48 na watoto njiti wanaozaliwa.</seg>
+          <seg xml:id="seg220">Vilevile kwenye suala la akinamama ukiona tunasogeza vituo sana, kumekuwepo na tozo kwa ajili ya kuchangisha kuhakikisha tunajenga vituo kule sehemu ambazo hakuna vituo vya afya ni kuhakikisha wale akinamama ambao wanashindwa kujifungua, basi vituo vinavyoweza kufanya huduma</seg>
+          <seg xml:id="seg221">ya dharura na kuokoa maisha ya akinamama vinapatikana hivyo ukiona hela nyingi zinaelekezwa kwenye vituo vya afya, zahanati lakini kwenye kuboresha huduma za afya dawa, ndiyo hatua ambazo zinatumika kuhakikisha tunapunguza.</seg>
+          <seg xml:id="seg222">Mheshimiwa Mwenyekiti, nikuhakikishie kwenye nchi yetu vifo vya akinamama na watoto vinaendelea kupungua. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u126" who="Mwenyekiti">
+          <seg xml:id="seg223">Ahsante Mheshimiwa Suma Fyandomo swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u127" who="MheSumaIFyandomo">
+          <seg xml:id="seg224">Mheshimiwa Mwenyekiti, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza. Ninashukuru sana kuipongeza Serikali ya Awamu ya Sita ya Mheshimiwa Rais Samia Suluhu Hassan kwa kutujengea jengo kubwa sana la zaidi ya bilioni 11 pale Mkoani Mbeya hospitali ya Meta.</seg>
+          <seg xml:id="seg225">Mheshimiwa Rais alizindua jengo hilo pindi alipofika mkoa wa Mbeya, hali imekuwa mbaya sana wanawake bado wanatumia jengo la zamani kujifungulia. Ni lini Serikali italeta vifaa hata angalau vitanda 100 ili wakinamama wanusurike kulala wanne wanne kwenye wodi ya zamani? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u128" who="Mwenyekiti">
+          <seg xml:id="seg226">Majibu Mheshimiwa Naibu Waziri wa Afya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u129" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg227">Mheshimiwa Mwenyekiti, ni kweli Mheshimiwa Rais wetu alikwenda akafungua jengo kubwa sana la akinamama pale Mbeya Meta, nataka nimhakikishie Mheshimiwa Mbunge Mkoa wa Mbeya ni kati ya Mikoa yenye hali nzuri sana ya afya ukilinganisha na sehemu zingine. Kwa maana ya kwamba ukiangalia hospitali ya Mkoa kuna ujenzi mkubwa sana unafanyika wa zaidi ya bilioni 21 na unaujua, pia ukienda kwenye hospitali ya Rufaa pale umeona jengo lililojengwa. Rais wetu alipoondoka alielekeza kwamba shilingi bilioni 2.1 zielekezwe pale kwa ajili ya kuhakikisha jengo hilo linawekwa vifaa na tayari vifaa vimenunuliwa kwa hiyo ndani ya miezi miwili zitakuwa zimefikishwa pale na kufanyia kazi.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u130" who="Mwenyekiti">
+          <seg xml:id="seg228">Ahsante sana Naibu Waziri wa Afya, Mheshimiwa Dkt. Godwin Oloyce Mollel, kwa majibu. Katibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u131" who="NdgLawrenceMakigiKatibuMezani">
+          <seg xml:id="seg229">KAULI ZA MAWAZIRI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u132" who="Mwenyekiti">
+          <seg xml:id="seg230">Kauli za Mawaziri kwa mujibu wa kifungu 56 namwita Waziri wa Fedha na Mipango, Mheshimiwa Dkt. Mwigulu Nchemba kwa ajili ya kutoa kauli za Mawaziri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u133" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg231">Mheshimiwa Mwenyekiti, itakumbukwa kuwa, katika mwaka wa fedha 2021/2022, Sheria ya Malipo ya Taifa, Sura Na. 437 (The National Payment System Act, Cap. 437) ilifanyiwa marekebisho kupitia Sheria ya Fedha ya Mwaka 2021 na kuanzisha tozo ya miamala ya kutuma na kutoa fedha kwa njia ya simu za mikononi. Sambamba na tozo hiyo, tulipandisha tozo kwenye mafuta kwa ajili ya kutunisha mfuko wa TARURA na Mfuko wa Elimu ya Juu.</seg>
+          <seg xml:id="seg232">Mheshimiwa Mwenyekiti, lengo la kuanzisha tozo hizi ilikuwa ni kuunganisha nguvu na umoja wa Watanzania wote katika kuiwezesha Serikali kuongeza kasi ya kutekeleza miradi hasa ile iliyokosa fedha kutokana na ufinyu wa bajeti ili kuwakwamua wananchi dhidi ya ukosefu wa huduma za jamii za msingi kwa kuzingatia kuwa sura ya bajeti yetu karibu kila mahitaji ni mahitaji ya lazima.</seg>
+          <seg xml:id="seg233">Mheshimiwa Mwenyekiti, mahitaji ya lazima yanayolindwa katika mfumo wetu wa bajeti, mfano wake ni fedha zinazokwenda SGR, fedha za TANROADS, Bwawa la Umeme, fedha za REA, fedha za TARURA, Mfuko wa Maji, Elimu, Mikopo ya Elimu ya Juu, Elimu Bila Ada, Mishahara, Deni la Taifa, pamoja na Afya ambayo ni takribani Shilingi trilioni 27.9 na makusanyo ya ndani ni takribani Shilingi trilioni 28.01. Serikali haina malengo ya kuwatoza wananchi wake kodi au tozo kwa ajili tu ya kuwapa mzigo, bali inalenga kuwahusisha Watanzania wote kwa umoja wetu katika juhudi za kujiletea maendeleo.</seg>
+          <seg xml:id="seg234">Mheshimiwa Mwenyekiti, kwa mfano, tulipofanya uamuzi huu, yaani tulipoweka uamuzi wa tozo, tulikuwa na hali mbaya sana ya barabara za vijijini zilizokosa matengenezo kufuatana na ufinyu wa bajeti. Kadhalika, tulikuwa na vijiji ambavyo havikuwahi kuwa na barabara ya aina yoyote tangu nchi hii ipate uhuru. Akina mama wajawazito walikuwa wakibebwa kwa vitanda ili kuweza kupelekwa hospitali na wengine walikuwa wakipoteza maisha njiani; na watoto wa shule walikuwa wakibebwa na maji kwa vijito kutokana na kukosekana kwa madaraja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u134" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg235">Mheshimiwa Mwenyekiti, pia tulikuwa na kilio kikubwa sana cha ukosefu wa vituo vya afya vya kisasa vijijini, wagonjwa wote walikuwa wanalazimika kutegemea hospitali za wilaya pamoja na maeneno mengine ambayo hospitali za wilaya hazikuwepo, walikuwa wanategemea hospitali za mikoa ya jirani. Tulikuwa tunapoteza maisha ya Watanzania kutokana na umbali wa kufuata huduma za afya.</seg>
+          <seg xml:id="seg236">Mheshimiwa Mwenyekiti, jambo lingine tulikuwa na kilio kikubwa sana cha uwepo wa maboma ya madarasa na nyumba za walimu ambazo zimejengwa kwa nguvu za wananchi ambayo yalishakaa muda mrefu bila kukamilishwa ilhali kukiwa na uhitaji mkubwa wa madarasa kutokana na ongezeko la watoto.</seg>
+          <seg xml:id="seg237">Mheshimiwa Mwenyekiti, jambo lingine, kulikuwa na kilio kikubwa cha wanafunzi waliokosa mikopo ya elimu ya juu wapatao zaidi ya 26,000 wakijumuisha wa mwaka juzi 2020 na mwaka jana, 2021; na hawa ni watoto wa Kitanzania hasa wanaotoka katika familia masikini ambao ndoto zao za kufika Chuo Kikuu zilikuwa zinaishia hapo kutokana na kukosa mikopo.</seg>
+          <seg xml:id="seg238">Mheshimiwa Mwenyekiti, jambo lingine, tulikuwa na kilio kikubwa sana cha maji hasa vijijini. Jambo hili lilikuwa linaathiri sana shughuli za maendeleo, kwa mfano, kila mtoto alikuwa analazimika abebe galoni ya maji na aiwekee bajeti kwa siku nzima, walimu wanafuata maji maeneo ya mbali, vijana wanaotaka kujenga walikuwa wanaingia gharama kubwa kwa kununua maji yanayopimwa kwa ndoo moja moja na kukosa mahitaji ya maji katika maeneo muhimu hasa hospitalini. Makusanyo ya tozo ya miamala yameiwezesha Serikali kutoa huduma za msingi kwa wananchi katika mwaka wa fedha 2021. Mathalani, Serikali ilitumia jumla shilingi bilioni saba zilitokana na tozo ya miamala kwa ajili kujenga maboma ya madarasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u135" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg239">Mheshimiwa Mwenyekiti, vilevile, Serikali ilitumia jumla ya shilingi bilioni 143 kwa ajili ya ujenzi wa vituo vya afya ambapo kati ya fedha hizo, shilingi bilioni 117 ambayo ni sawa na asilimia 81.4 zilikuwa zinatokana na tozo ya miamala.</seg>
+          <seg xml:id="seg240">Mheshimiwa Mwenyekiti, naomba kurudia. Serikali ilitumia jumla ya shilingi bilioni 143.7 kwa ajili ya ujenzi wa vituo vya afya ambazo kati ya fedha hizo shilingi bilioni 117 ambayo ni sawa na asilimia 81.4 ilikuwa ni fedha zinazotokana na miamala. Kadhalika, Serikali ilitumia jumla ya shilingi bilioni 611.3 kwa ajili ya mikopo ya elimu ya juu na kati ya fedha hizo, shilingi bilioni 221.3 zilitokana na tozo ya miamala. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u136" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg241">Mheshimiwa Mwenyekiti, kwa upande wa TARURA, Serikali ilitumia shilingi bilioni 735.7 kwa ajili ya ujenzi wa barabara ambapo kati ya kiasi hicho shilingi bilioni 13.5 zilitokana na miamala na hizo nyingine zilitokana na ile nyongeza ya tozo kwenye mafuta.</seg>
+          <seg xml:id="seg242">Mheshimiwa Mwenyekiti, katika mwaka wa fedha 2022/2023, kulikuwa na mahitaji ya muhimu na ya lazima ambayo yangekosa fedha kutokana na ufinyu wa bajeti. Baadhi ya masuala ya muhimu ambayo yangeathiriwa kama tungefuta kabisa chanzo hiki ni kama yafuatayo:-</seg>
+          <seg xml:id="seg243">Mheshimiwa Mwenyekiti, tungeelekeza fedha za mkopo wa ECF kwenye madarasa mwaka huu, kama tulivyofanya mwaka jana 2021, tusingeweza kupeleka shilingi bilioni 954 kwenye kilimo ambazo zililenga miundombinu ya umwagiliaji, mbegu bora pamoja na block farming. Serikali ilitumia busara ya kiuchumi kupeleka fedha hizo kwenye sekta za uzalishaji ili kutengeneza ajira kwa vijana, na fedha za kutoa huduma za jamii ziweze kutafutwa kwenye vyanzo vya tozo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u137" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg244">Mheshimiwa Mwenyekiti, jambo la pili, tungepeleka fedha za ECF; fedha za mkopo kwenye ujenzi wa VETA mwaka huu, tusingeweza kupeleka shilingi bilioni 145 kwenye mifugo, uvuvi pamoja na Wamachinga zinazolenga kununua boti za uvuvi, kuchochea ukuaji wa sekta ya mifugo na kujenga miundombinu pamoja na mitaji kwa ajili ya Wamachinga. Katika suala hili pia, Serikali ilitumia busara ya kiuchumi kupeleka fedha hizo kwenye sekta za uzalishaji na fedha za kutoa huduma za jamii ziweze kutafutwa kwenye vyanzo vya tozo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u138" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg245">Mheshimiwa Mwenyekiti, pia tungepelekeza fedha zaidi kwenye ujenzi wa madarasa ya VETA mwaka huu, tusingeweza kupeleka shilingi bilioni 150 kwenye ruzuku ya mbolea ili kuweza kuwasaidia wakulima wazalishe chakula cha kutosha kwa ajili ya nchi yetu na kudhibiti mfumuko wa bei. Hapa pia, Serikali ilitumia busara ya kiuchumi kupeleka fedha hizo kwenye sekta za uzalishaji na fedha za kutoa huduma za jamii zitafutwe kwenye vyanzo vingine vya tozo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u139" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg246">Mheshimiwa Mwenyekiti, tungeamua kutotoa ruzuku ya Shilingi bilioni 100 kwenye mafuta kila mwezi, tungeweza kuelekeza fedha hizo kwenye madarasa, VETA pamoja na mambo mengine. Hivyo hivyo, tungeweza kuwa na mfumuko wa bei ambao ungeleta athari kubwa sana kutokana na kupanda kwa gharama za maisha, kupanda kwa gharama za mafuta ambazo zingepandisha gharama za maisha na suala hili lingewasumbua zaidi wananchi hususan wananchi wa kawaida. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u140" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg247">Mheshimiwa Mwenyekiti, hivyo basi, Serikali ilikuwa inatarajia kukusanya takriban shilingi bilioni 500 kutokana na tozo ya miamala ya simu pamoja na benki na lengo lake lilikuwa ni kuzielekeza katika maeneo yafuatayo:-</seg>
+          <seg xml:id="seg248">(i) Kujenga madarasa 8,000 nchi nzima ambapo mahitaji ya madarasa bado yanakadiriwa kuwa 17,000;</seg>
+          <seg xml:id="seg249">(ii) Kujenga vyuo vya VETA 72 kwenye Wilaya zote zisizo na vyuo vya ufundi hapa nchini;</seg>
+          <seg xml:id="seg250">(iii) Kutekeleza mpango wa elimu bila ada kwa kidato cha tano na sita, na</seg>
+          <seg xml:id="seg251">(iv) Kuendelea na ujenzi wa zahanati na vituo vya afya na vifaa tiba katika maeneo ambayo bado hayana huduma hizo.</seg>
+          <seg xml:id="seg252">Mheshimiwa Mwenyekiti, nawasihi Watanzania wote kuunga mkono juhudi njema za Mheshimiwa Rais wa Jamhuri ya Muungano wa Tanzania, mama yetu, Mheshimiwa Samia Suluhu Hassan ili kuweza kujiletea maendeleo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u141" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg253">Mheshimiwa Mwenyekiti, kama unavyofahamu, Serikali ya Jamhuri ya Muungano wa Tanzania kupitia Sheria ya Fedha ya Mwaka 2021 ilifanya marekebisho kwenye Sheria ya Malipo ya Taifa, Sura ya 437 na kuanzisha tozo ya miamala ya kutuma na kutoa fedha; ilianzisha pia kuainisha tozo hizo kwenye miamala ya kielektroniki ya kutuma na kutoa fedha kwa njia ya simu; na vilevile, kupitia Sheria ya Fedha ya Mwaka 2022, Kanuni za Malipo ya Taifa, ilifanya marekebisho kwa lengo la kuongeza wigo wa tozo hiyo kwa miamala yote ya kielektroniki. Marekebisho hayo yalihusisha miamala ifuatayo ya kielektroniki kama ilivyoelezewa hapa chini.</seg>
+          <seg xml:id="seg254">Mheshimiwa Mwenyekiti, eneo la kwanza ambalo lilirekebishwa ilikuwa ni kuhamisha fedha kutoka akaunti ya benki ya mtumiaji kwenda mitandao ya simu; eneo la pili ilikuwa ni kuhamisha fedha kutoka akaunti ya benki ya mtumiaji kwenda akaunti nyingine ya mtumiaji ndani ya benki husika; eneo la tatu ni kuhamisha fedha kutoka akaunti ya benki ya mtumiaji kwenda akaunti ya benki nyingine; eneo lingine ilikuwa ni uhamishaji wa fedha za Kimataifa; na eneo lingine ilikuwa ni kutoa fedha taslimu kutoka akaunti ya simu ya mtumiaji na akaunti ya benki kwa mkusanyaji, wakala ama mashine ya kuhesabu fedha za kielektroniki.</seg>
+          <seg xml:id="seg255">Mheshimiwa Mwenyekiti, kuongezwa kwa wigo wa utozaji huo kwenye tozo za miamala ulipelekea malalamiko hasi kutoka kwa wadau. Wapo waliodhania gharama hizo zote zinakwenda Serikalini au kutoa fedha hizo imejumuisha gharama za taasisi husika na nyongeza kidogo ambayo ilikuwa imekwenda Serikalini.</seg>
+          <seg xml:id="seg256">Mheshimiwa Mwenyekiti, kufuatia malalamiko hayo, Kamati Kuu ya Chama cha Mapinduzi chini ya Mwenyekiti wake Mheshimiwa Samia Suluhu Hassan, iliielekeza Serikali kupitia upya tozo za miamala na kuzingatia maoni ya wananchi. Wizara ya Fedha na Mipango kupitia wataalam wake wa Bajeti na wataalam wa Sera wakiwashirikisha wadau, wamefanyia kazi maelekezo ya Chama cha Mapinduzi pamoja na maelekezo ya Mheshimiwa Samia Suluhu Hassan Rais wa Jamhuri ya Muungano wa Tanzania kwa kupitia upya tozo hizo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u142" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg257">Mheshimiwa Mwenyekiti, naomba kusisitiza hapa, wataalam wa Wizara ya Fedha na Mipango wanaohusika na masuala ya Bajeti na Sera wamefanya mapitio haya wakiwa ofisini kwa sababu hii ni sehemu ya majukumu yao ya Kila siku tofauti na taarifa zilizokuwa zinazungushwa kuwa Wizara imeunda tume ya watu 200 na wanalipwa mabilioni ya fedha. Hakuna tume iliyoundwa, haya yamefanyika ndani ya ofisi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u143" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg258">Mheshimiwa Mwenyekiti, napenda kuwasilisha taarifa kuwa tumefanya mapitio kama ifuatavyo:-</seg>
+          <seg xml:id="seg259">Mheshimiwa Mwenyekiti, kupunguza wigo wa tozo kwa jamii, kuchochea matumizi ya miamala kwa ajili ya fedha taslimu, kurahisisha</seg>
+          <seg xml:id="seg260">utozaji, na kuzuia utozaji wa tozo husika mara mbili kwa kuwa utozaji wake kwa sasa ulikuwa unahusisha pande zote mbili, yaani kutoza mara mbili katika eneo ambalo ni transaction hiyo hiyo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u144" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg261">Mheshimiwa Mwenyekiti, marekebisho yanayotarajiwa kufanyika. Marekebisho hayo ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg262">Mheshimiwa Mwenyekiti, kufuta tozo ya kuhamisha fedha kutoka benki kwenda mitandao ya simu pande zote. Naomba kurudia hapo. Marekebisho yatakayofanyika ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg263">(a) Kufuta tozo ya kuhamisha fedha kutoka benki kwenda mitandao ya simu na pande mbili. Hicho kiingereza chake ni vice versa;</seg>
+          <seg xml:id="seg264">(b) Kufuta tozo ya kuhamisha fedha ndani ya benki moja, yaani kama NMB kwenda NMB;</seg>
+          <seg xml:id="seg265">(c) Kufuta tozo ya kuhamisha fedha kutoka benki moja kwenda benki nyingine, labda CRDB kwenda NMB;</seg>
+          <seg xml:id="seg266">(d) Kutowahusisha wafanyabiashara kama ilivyokuwa kwenye kanuni za sasa; merchants wale wadogo wadogo; </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u145" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg267">(e) Kusamehe tozo ya miamala kwenye utoaji wa fedha taslimu kupitia wakala wa benki, yaani ATM kwenye miamala yenye thamani ya chini ya shilingi 30,000; na hapa tunalenga wale wanaopokea fedha za kutoka TASAF, familia ambazo zimebainishwa kuwa ni familia za hali ya chini; </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u146" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg268">(f) Kupunguza gharama ya miamala kwa asilimia 10 hadi asilimia 50 kufuatana na kundi la miamala. Ikumbukwe kuwa tozo hii ambayo viwango vyake vinapunguzwa leo hii, tulikuwa tumepunguza kwa asilimia 30 kutoka kiwango cha juu iliyokuwa shilingi 10,000 na kiwango hicho tena ikawa shilingi 7,000 na kiwacho hicho kikapunguzwa kwa asilimia nyingine kama 60 kutoka shilingi 7,000 kwenda shilingi 4,000; na sasa tutapunguza kufuatana na makundi ya miamala kwa asilimia 10 hadi 50 ikiwepo miamala ya simu na sehemu ikiwepo miamala ya benki. Asilimia hizo zitazingatia makundi ya miamala na gharama zilizopo kwenye miamala katika makundi hayo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u147" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg269">Mheshimiwa Mwenyekiti, marekebisho haya yataanza kutumika tarehe 1/10/2022 kutoa fursa kwa mitambo kutengenezwa kwa programu hiyo mpya ambayo imetolewa.</seg>
+          <seg xml:id="seg270">Mheshimiwa Mwenyekiti, sambamba na hatua hiyo, Serikali itafuta utaratibu wa kodi ya zuio inayotokana na pango kukusanywa na mpangaji</seg>
+          <seg xml:id="seg271">badala yake jukumu hilo litarejeshwa kwa Mamlaka ya Mapato Tanzania kwa utaratibu utakaobainishwa kwenye kanuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u148" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg272">Mheshimiwa Mwenyekiti, napenda kusisitiza kuwa kodi ya zuio ya pango siyo ya mpangaji, bali inapaswa kulipwa na mpangishaji ambaye ndiye anapokea mapato kutokana na uwekezaji au biashara ya kupangisha. Utaratibu huo ulikuwa ukitumika kwa muda mrefu kwenye nyumba za biashara na nyumba zinazopangishwa kwenye makampuni au mashirika yanayofunga return zao za kodi.</seg>
+          <seg xml:id="seg273">Mheshimiwa Mwenyekiti, hitimisho, mwisho lakini sio kwa umuhimu, naomba nisisitize; ni dhahiri kwamba punguzo hili litapunguza mapato ya Serikali. Naelekeza fedha hizi zifidiwe kutoka kwenye kubana matumizi kwenye vyanzo vingine. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u149" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg274">Mheshimiwa Mwenyekiti, naomba kurudia. Naelekeza fedha hizi zifidiwe kutokana na kubana matumizi mengineyo ndani ya Serikali ambayo hayataathiri utekelezaji wa majukumu ya msingi ya mafungu husika. Namwelekeza Mlipaji Mkuu wa Serikali kukaa na Maafisa Masuuli wote kuyaangalia upya mafungu ya Matumizi Mengineyo ili miradi ya maendeleo yote isiathiriwe kwa hatua hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u150" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg275">Mheshimiwa Mwenyekiti, tutafute maeneo, tukate kwenye chai, vitafunwa, misafara, kwenye safari za ndani na nje kwenye Wizara zetu kama Mheshimiwa Rais alivyoelekeza. Tukate Mafunzo ya Semina, Matamasha, Warsha, makundi yanayokwenda kukagua mradi ule ule kwa nyakati tofauti yanaenda makundi tofauti au na wale wanaokwenda katika eneo husika kila mtu anakwenda na gari lake. Kwa mfano, katika Wilaya wanakuwa na safari, kila Afisa anakuwa na gari yake kwenye Mkoa ili fedha hizo ziweze kutumika kwenye maeneo ambayo ni mahsusi na ya maendeleo yasiye yakaathirika kwa punguzo hili tulilolisema. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u151" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg276">Mheshimiwa Mwenyekiti, baada ya kusema hayo, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u152" who="Mwenyekiti">
+          <seg xml:id="seg277">Ahsante sana Mheshimiwa Dkt. Mwigulu Nchemba, Waziri wa Fedha na Mipango kwa kauli ya Mawaziri.</seg>
+          <seg xml:id="seg278">HOJA ZA SERIKALI</seg>
+          <seg xml:id="seg279">Azimio la Bunge la Kuridhia Itifaki ya Jumuiya ya Afrika Mashariki ya</seg>
+          <seg xml:id="seg280">Kuongeza Mamlaka ya Mahakama ya Afrika Mashariki</seg>
+          <seg xml:id="seg281">Mheshimiwa Waziri wa Katiba na Sheria.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u153" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg282">Mheshimiwa Mwenyekiti, Jamhuri ya Muungano wa Tanzania ni miongoni mwa Nchi Wanachama wa Jumuiya ya Afrika Mashariki yaani East African Community kwa mujibu wa mkataba ulioianzisha Jumuiya hiyo ambao ulisainiwa na Wakuu wa Nchi Wanachama tarehe 30 Novemba, 1999 na kuanza kutumika rasmi Julai, 2001.</seg>
+          <seg xml:id="seg283">Mheshimiwa Mwenyekiti, katika Ibara ya 9(1)(e) ya Mkataba wa Jumuiya ya Afrika Mashariki unaelekeza kuanzishwa kwa taasisi na vyombo vya utawala vya jumuiya ikiwemo Mahakama ya Afrika Mashariki yaani East African Court of Justice, ambayo ilianzishwa rasmi tarehe 30 Novemba, 2001.</seg>
+          <seg xml:id="seg284">Mheshimiwa Mwenyekiti, katika kuimarisha utangamano wa Jumuiya ya Afrika Mashariki, Nchi Wanachama ziliridhia Itifaki ya uanzishwaji wa Umoja wa Forodha mwaka 2004, Soko la Pamoja mwaka 2010 na Umoja wa Sarafu mwaka 2013. Kwa utaratibu wa sasa endapo kunajitokeza mgogoro katika kutekeleza Itifaki hizo, shauri lake hutakiwa kuamuliwa na Mahakama ya Nchi Mwanachama ambako mgogoro umetokea ambayo inaweza kusababisha kuwepo kwa tafsiri tofauti za Itifaki hizo miongoni mwa Nchi Wanachama. Ili kuondokana na dosari za namna hiyo, ipo haja ya kuipa Mahakama ya Jumuiya ya Afrika Mashariki mamlaka ya kushughulikia mashauri yanayotokana na utekelezaji wa Itifaki hizo ili kutoa tafsiri za kisheria zinazotumika katika Nchi zote Wanachama wa Jumuiya inapotokea utata kuhusu tafsiri za vipengele mbalimbali vya Itifaki hizo.</seg>
+          <seg xml:id="seg285">Mheshimiwa Mwenyekiti, hivyo katika Mkutano wa kawaida wa 16 wa Wakuu wa Nchi Wanachama wa Jumuiya ya Afrika Mashariki uliofanyika tarehe 22 Februari, 2015 kwa pamoja walipitisha Azimio la Kuongezea Mahakama ya Jumuiya ya Afrika Mashariki ya kushughulikia masuala ya biashara, uwekezaji na sarafu ya pamoja. Aidha, mkutano huo ulizitaka nchi wanachama ziwe zimeridhia Itifaki ya Kuiongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki, kwa mujibu wa Ibara ya 151(3) ya Mkataba wa Jumuiya ya Afrika Mashariki, ifikapo tarehe 30 Novemba, 2015. Hadi kufikia 31 Agosti, 2022 Nchi Wanachama nne zimeridhia itifaki hiyo ambazo ni Kenya, Uganda, Rwanda na Sudani Kusini. Nchi ambazo hazijaridhia ni Burundi, Jamhuri ya Muungano wa Tanzania pamoja na Jamhuri ya Demokrasia ya Congo ambayo imejiunga mwezi Machi, 2022.</seg>
+          <seg xml:id="seg286">Mheshimiwa Mwenyekiti, lengo la kuridhia Itifaki hii ni pamoja na kuiongezea mamlaka Mahakama ya Jumuiya ya Afrika Mashariki ili iweze kutekeleza majukumu ya kutatua migogoro ya kibiashara na uwekezaji inayotokana na utekelezaji wa Itifaki ya Umoja wa Forodha, Itifaki ya Soko la Pamoja na Itifaki ya Umoja wa Fedha wa Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg287">Mheshimiwa Mwenyekiti, matokeo ya kuridhiwa kwa Itifaki hii ni pamoja na kuwapatia fursa wananchi na nchi wanachama kutumia Mahakama ya Jumuiya ya Afrika Mashariki katika kutatua migogoro inayotokana na Mtangamano wa Jumuiya ya Afrika Mashariki hususan kwa wakati huu ambapo nchi wanachama zimeridhia Itifaki za uanzishwaji wa Umoja wa Forodha, Soko la Pamoja na Umoja wa Sarafu (2013).</seg>
+          <seg xml:id="seg288">Mheshimiwa Mwenyekiti, hatua hii ni muhimu hasa kunapotokea migogoro inayohusisha raia wa nchi zaidi ya moja wanachama au mali zisizohamishika zilizo nje ya nchi kulikotokea mgogoro. Aidha, kuridhiwa kwa Itifaki hii kutasaidia nchi wanachama kuepuka uwezekano wa migongano ya kisheria kutokana na tafsiri tofauti kwa kipengele kimoja. Vilevile, kuridhiwa kwa Itifaki hii kutaongeza fursa za ajira kwa Watanzania wa kada mbalimbali wakiwemo Majaji.</seg>
+          <seg xml:id="seg289">Mheshimiwa Mwenyekiti, kutokana na umuhimu wa kuridhia Itifaki ya Jumuiya ya Afrika Mashariki ya Kuiongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki, Serikali kupitia Baraza la Mawaziri ilipitisha mapendekezo ya kuridhia Itifaki hiyo mnamo tarehe 31 Agosti, 2022. Hivyo, tunawasilisha Azimio la kuridhia Itifaki hiyo ili iweze kuridhiwa katika Mkutano wa Nane wa Bunge la 12 la Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg290">Mheshimiwa Mwenyekiti, naomba kuwasilisha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u154" who="Mwenyekiti">
+          <seg xml:id="seg291">Ahsante sana Mheshimiwa Dkt. Daniel Ndumbaro Waziri wa Katiba na Sheria.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u155" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg292">Mheshimiwa Mwenyekiti, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u156" who="Mwenyekiti">
+          <seg xml:id="seg293">Hoja imeungwa mkono. Naomba kutangaza wageni waliopo Bungeni asubuhi hii.</seg>
+          <seg xml:id="seg294">Wageni waliopo Jukwaa la Spika ni wageni saba wa Wabunge ambao ni Waheshimiwa Wabunge kutoka Bunge la Zimbambwe. Tunaye Honorable Col. (Rtd) Dkt. Joshua Murire Member of Parliament Acting Chaiperson for the portfolio Committee on Health and Child Care. MP from Zimbambwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u157" who="Mwenyekiti">
+          <seg xml:id="seg295">Tunaye Honorable Memory Munochinzwa Member of Parliament.</seg>
+          <seg xml:id="seg296">Honorable Tapera Saizi, nafikiri hawajafika bado.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u158" who="MbungeFulani">
+          <seg xml:id="seg297">Wapo</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u159" who="Mwenyekiti">
+          <seg xml:id="seg298">Wapo. Honorable Tapera Saizi, Member of Parliament from Zimbabwe Parliament, thank you. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u160" who="Mwenyekiti">
+          <seg xml:id="seg299">Tunaye pia Honorable Lwazi Sibanda who is also Member of Parliament from Zimbabwe, welcome. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u161" who="Mwenyekiti">
+          <seg xml:id="seg300">Tunaye pia Mrs. Edna Mafuruse, Principal Committee Clerk. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u162" who="Mwenyekiti">
+          <seg xml:id="seg301">Tunaye pia Dr. Rugare Abigail Kangwende who is a Director of Monitoring and Evaluation, Ministry of Health and Child Care from Zimbabwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u163" who="Mwenyekiti">
+          <seg xml:id="seg302">Tunaye pia Ms. Medeline Dube ambaye ni Director of Communication and National AIDS Council. Karibuni sana kwenye Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u164" who="Mwenyekiti">
+          <seg xml:id="seg303">Pili, tunao wageni wa Bunge ambao ni viongozi kutoka Wizara ya Katiba na Sheria wakiongozwa na Ndugu Mary Gasper Makondo, Katibu Mkuu, Wizara ya Katiba na Sheria, karibu sana Katibu Mkuu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u165" who="Mwenyekiti">
+          <seg xml:id="seg304">Pia, tunao wageni wa Waheshimiwa Wabunge; wapo wageni mbalimbali wa Waheshimiwa Wabunge waliotembelea Bunge letu naomba wasimame kwa pamoja wote. Wageni mbalimbali wa Waheshimiwa Wabunge. Tunawashukuru sana kwa kutembelea Bunge letu, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u166" who="Mwenyekiti">
+          <seg xml:id="seg305">Tunao wageni waliotembelea Bunge kwa ajili ya mafunzo ambao ni wanafunzi na Walimu 53 wa Shule ya Precious King Pre and Primary kutoka Gairo Mkoani Morogoro. Hawa wamekuja kwa ajili ya mafunzo kutoka Precious King Pre and Primary kutoka Gairo Morogoro. Karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u167" who="Mwenyekiti">
+          <seg xml:id="seg306">Sawa, tunaendelea, Mheshimiwa Waziri sasa usome na Azimio, umalizie kabisa halafu tuweze kuendelea na Kamati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u168" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg307">Azimio la Bunge la Jamhuri ya Muungano wa Tanzania kuridhia Itifaki ya Jumuiya ya Afrika Mashariki ya Kuiongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki (Protocols to Operationalize the Extended Jurisdiction of East African Court of Justice).</seg>
+          <seg xml:id="seg308">Kwa kuwa Jamhuri ya Muungano wa Tanzania ni miongoni mwa nchi wanachama wa Jumuiya ya Afrika Mashariki (East African Community) kwa mujibu wa mkataba ulioanzisha Jumuiya hiyo ambao ulisainiwa na Wakuu</seg>
+          <seg xml:id="seg309">wa Nchi Wanachama tarehe 30 Novemba, 1999 na kuanza kutumika rasmi Julai, 2001;</seg>
+          <seg xml:id="seg310">Na kwa kuwa Jamhuri ya Muungano wa Tanzania imeridhia Itifaki ya uanzishwaji wa Umoja wa Forodha, Soko la Pamoja na Umoja wa Sarafu na inatekeleza Itifaki hizo katika masuala ya Biashara na Uwekezaji nchini ambapo migogoro inaweza kutokea baina ya wanufaika wa Itifaki hizo na hivyo kuhitaji utatuzi wa tafsiri sahihi ya masharti ya Itifaki hizo. Kwa kuzingatia matakwa ya mkataba uanzishwaji wa Jumuiya ya Afrika Mashariki wa mwaka 1999 na matakwa ya Itifaki zilizotajwa;</seg>
+          <seg xml:id="seg311">Na kwa kuwa Mkataba wa Uanzishaji wa Jumuiya ya Afrika Mashariki wa mwaka 1999 umeanzisha Mahakama ya Jumuiya ya Afrika Mashariki kama chombo cha kusimamia haki na utii wa Mkataba wa Uanzishwaji wa Jumuiya ya Afrika Mashariki na kwa mujibu wa Ibara 27 (2) Nchi Wanachama wa Jumuiya ya Afrika Mashariki watakapoona inafaa wanaweza kwa Itifaki kuiongezea mamlaka Jumuiya ya Afrika Mashariki kwa masuala mengine mbalimbali;</seg>
+          <seg xml:id="seg312">Na kwa kuwa nchi wanachama kwa ridhaa ya Wakuu wa Nchi Wanachama wa Jumuiya ya Afrika Mashariki katika Mkutano wake wa Kumi na Tano uliofanyika tarehe 30 Novemba, 2013 kwa kuona umuhimu wa utekelezaji wa Itifaki za Uanzishwaji wa Umoja wa Forodha, Soko la Pamoja na Umoja wa Sarafu zimeamua kuridhia Itifaki ya Kuongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki iliyoidhinishwa na Mkutano wa kawaida wa Kumi na Sita wa Wakuu wa Nchi Wanachama wa Jumuiya Afrika Mashariki uliofanyika tarehe 20 Februari, 2015;</seg>
+          <seg xml:id="seg313">Na kwa kuwa ili Itifaki hiyo iweze kutumika ni lazima iridhiwe na nchi wanachama zote;</seg>
+          <seg xml:id="seg314">Na kwa kuwa malengo ya Itifaki hiyo ni kuongezea Mamlaka Mahakama ya Jumuiya Afrika Mashariki ya kushughulikia masuala ya Biashara, Uwekezaji na Sarafu ya Pamoja;</seg>
+          <seg xml:id="seg315">Na kwa kuwa Itifaki hiyo kwa mujibu ya Ibara ya 3(2) ikisomwa na Ibara ya 15 ya Itifaki ya Soko la Pamoja haiipi mamlaka ya Jumuiya Afrika Mashariki kushughulikia masuala ya ardhi ambayo yameachwa kwa nchi wanachama;</seg>
+          <seg xml:id="seg316">Na kwa kuwa Itifaki hiyo iwapo itaridhiwa na kuanza kutumika itawezesha utatuzi wa migogoro katika ngazi ya kikanda itokanayo na utekelezaji wa Itifaki za Umoja wa Forodha, Soko la Pamoja na Umoja wa Sarafu na hivyo kuongeza utangamano katika Jumuiya na kukuza biashara na uwekezaji baina ya Nchi Wanachama wa Jumuiya ya Afrika Mashariki na dunia kwa ujumla;.</seg>
+          <seg xml:id="seg317">Hivyo basi kwa kuzingatia umuhimu na faida za Itifaki hiyo kwa Jamhuri ya Muungano wa Tanzania, Bunge katika Mkutano wake wa Nane na kwa mujibu wa Ibara ya 63(3)(e) ya Katiba ya Jamhuri ya Muungano wa Tanzania ya mwaka 1977 linaazimia kuridhia Itifaki ya Jumuiya ya Afrika Mashariki ya Kuongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki (Protocols to Operationalize the Extended Jurisdiction of East African Court of Justice).</seg>
+          <seg xml:id="seg318">Mheshimiwa Mwenyekiti, naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u169" who="WaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg319">Mheshimiwa Mwenyekiti, naafiki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u170" who="Mwenyekiti">
+          <seg xml:id="seg320">Ahsante Mheshimiwa Waziri, hoja imetolewa na imeungwa mkono. Sasa namwita Mheshimiwa Mwenyekiti wa Kamati ya Kudumu ya Bunge ya Katiba na Sheria ambaye kwa niaba yake namwona Mheshimiwa Keisha hapa anakuja kuwasilisha.</seg>
+        </u>
+        <note>K.n.y. MWENYEKITI WA KAMATI YA KUDUMU YA BUNGE YA KATIBA NA SHERIA</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u171" who="MheKhadijaSTaya">
+          <seg xml:id="seg321">Mheshimiwa Mwenyekiti, naomba taarifa hii yote iingie kwenye Taarifa Rasmi za Bunge (Hansard) kama ilivyowasilishwa mezani.</seg>
+          <seg xml:id="seg322">Mheshimiwa Spika, kwa mujibu wa Kanuni ya 60(6)(b) ya Kanuni za Kudumu za Bunge, Toleo la Juni, 2020, kwa niaba ya Mwenyekiti wa Katiba na Sheria, naomba kuwasilisha Maoni ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria Kuhusu Azimio la Bunge la Kuridhia Itifaki ya Kuongeza Mamlaka ya Mahakama ya Itifaki ya Afrika Mashariki (The Protocol to Operationalise the Extended Jurisdiction of the East African Court of Justice).</seg>
+          <seg xml:id="seg323">Mheshimiwa Mwenyekiti, maoni yanayowasilishwa ni utekelezaji wa jukumu la Kamati la kushughulikia Mikataba inayopendekezwa kuridhiwa na Bunge iliyo chini ya Wizara ya Katiba na Sheria kwa mujibu wa Kifungu cha 7(1)(c) cha Nyongeza ya Nane ya Kanuni za Kudumu za Bunge.</seg>
+          <seg xml:id="seg324">Mheshimiwa Mwenyekiti, sambamba na jukumu hilo la Kikanuni, jukumu hilo ni sehemu ya utekelezaji wa madaraka ya Bunge ya kujadili na kuridhia mikataba yote inayohusu Jamhuri ya Muungano na ambayo kwa masharti yake inahitaji kuridhiwa kwa mujibu Ibara ya 63(3)(e) ya Katiba ya Jamhuri ya Muungano wa Tanzania, 1977.</seg>
+          <seg xml:id="seg325">Mheshimiwa Mwenyekiti, namna Kamati Ilivyofanya Kazi; kwa mamlaka iliyopewa na Kanuni ya 108(1), alileta Hoja ya Kuridhia Itifaki hiyo kwa Kamati ya Katiba na Sheria na Kamati ilikutana tarehe 14 Septemba, 2022 ili kupata maelezo ya Waziri wa Katiba na Sheria, Mheshimiwa Dkt. Damas Daniel Ndumbaro. Aidha, tarehe 19 Septemba, 2022, Wajumbe wa Kamati walipata fursa nyingine ya kujadili maudhui ya Itifaki hiyo kwa kupata maelezo ya ziada ya Serikali yaliyowasilishwa na Naibu Waziri wa Katiba na Sheria, Mheshimiwa Geophrey Mizengo Pinda.</seg>
+          <seg xml:id="seg326">Mheshimiwa Mwenyekiti, aidha, Kamati ilialika wadau kufika mbele ya Kamati ili kutoa maoni yao kwa lengo la kusaidia katika uchambuzi wa Itifaki hiyo kwa mujibu wa Kanuni ya 108(2). Wadau hao pia walipewa fursa ya kuwasilisha maoni yao kwa njia ya mtandao.</seg>
+          <seg xml:id="seg327">Mheshimiwa Mwenyekiti, Uchambuzi wa Kamati; chimbuko la Itifaki; Jamhuri ya Muungano wa Tanzania ni miongoni mwa Nchi Wanachama wa Jumuiya ya Afrika Mashariki kwa Mkataba ulioianzisha Jumuiya hiyo (The Treaty for the Establishment of the East African Community) na kusainiwa na Wakuu wa Nchi Wanachama tarehe 30 Novemba, 1999. Baada ya kusainiwa kwa Mkataba huo, Jumuiya ilianza kufanya kazi rasmi tarehe 7 Julai, 2000.</seg>
+          <seg xml:id="seg328">Mheshimiwa Mwenyekiti, Ibara ya 9(1) ya Mkataba wa Jumuiya imeanzisha taasisi na vyombo vya Utawala vya Jumuiya ikiwemo Mahakama ya Haki ya Afrika Mashariki (The East African Court of Justice). Mahakama hiyo imepewa mamlaka kwa mujibu wa Ibara ya 27(1) ya Mkataba kuwa chombo kikuu cha kutafsiri Mkataba wa Jumuiya na kusimamia utekelezaji wa masharti mbalimbali ya Mkataba huo.</seg>
+          <seg xml:id="seg329">Mheshimiwa Mwenyekiti, kwa upande mwingine, Ibara ya 27(2) inaipa mamlaka Nchi Wanachama wa Jumuiya ya Afrika Mashariki, pale watakapoona inafaa, wanaweza kuiongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki kwa masuala mengine mbalimbali kwa Itifaki. Kwa muktadha huo, Serikali imewasilisha Bungeni Azimio la Kuiongezea Mamlaka Mahakama ya Haki ya Afrika Mashariki ili Bunge lako liiridhie Itifaki hiyo.</seg>
+          <seg xml:id="seg330">Mheshimiwa Mwenyekiti, kwa mujibu wa Ibara ya 2(2) na Ibara ya 5(2) za Mkataba wa Mtangamano wa Afrika Mashariki unatekelezwa katika hatua nne ambazo ni Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha na Shirikisho la Kisiasa. Baada ya kuanza kufanya kazi, Nchi Wanachama wa Jumuiya ya Afrika Mashariki ziliridhia Itifaki zifuatazo:-</seg>
+          <seg xml:id="seg331">(a) Itifaki ya Umoja wa Forodha (2004);</seg>
+          <seg xml:id="seg332">(b) Itifaki ya Uanzishwaji wa Soko la Pamoja (2010); na</seg>
+          <seg xml:id="seg333">(c) Itifaki ya Umoja wa Sarafu (2013). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u172" who="MheKhadijaSTaya">
+          <seg xml:id="seg334">Mheshimiwa Mwenyekiti, Nchi Wanachama zinatekeleza Itifaki hizo katika masuala ya biashara na uwekezaji ambapo migogoro inaweza kutokea na hivyo kuhitaji utatuzi wa tafsiri sahihi ya masharti ya Itifaki hizo kwa kuzingatia matakwa ya Mkataba.</seg>
+          <seg xml:id="seg335">Mheshimiwa Mwenyekiti, kwa muktadha huo na kwa kuona umuhimu wa utekelezaji wa Itifaki hizo, Nchi Wanachama ziliamua kuwa na Itifaki ya</seg>
+          <seg xml:id="seg336">Kuiongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki katika Mkutano wa Kawaida Wakuu wa Nchi Wanachama uliofanyika tarehe 20 Februari, 2015. Lengo ni kuiwezesha Mahakama hiyo kuweza kushughulikia masuala ya migogoro ya kibiashara, uwekezaji na sarafu ya pamoja, pale inapotokea.</seg>
+          <seg xml:id="seg337">Mheshimiwa Mwenyekiti, katika uchambuzi wake, Kamati imebaini na kujiridhisha kwamba, Itifaki hii haitaathiri uwezo wa Mahakama zetu kushugulikia mambo yake kwa mujibu wa Ibara ya 107A ya Katiba ya Jamhuri ya Muungano wa Tanzania, 1977. Masharti haya yamewekwa bayana katika Ibara ya 3(2) ya Itifaki ambayo yanasomeka kama ifuatavyo:-</seg>
+          <seg xml:id="seg338">„3(2). The extension of jurisdiction under paragraph 1 shall not preclude the exercise of jurisdiction conferred upon other bodies by the Treaty or the relevant laws of the Partner States”.</seg>
+          <seg xml:id="seg339">Mheshimiwa Mwenyekiti, Ibara hii ikisomwa pamoja na Ibara ya 33 ya Mikataba ya Uanzishwaji wa Jumuiya ya Afrika Mashariki, inatoa mamlaka kwa vyombo vya ndani ya nchi kutekeleza majukumu yao huku ikitunza umuhimu kwa kuwa pia na tafsiri zinazogongana kwenye Ibara mbalimbali za Itifaki au Mikataba.</seg>
+          <seg xml:id="seg340">Mheshimiwa Mwenyekiti, umuhimu wa kuridhia Itifaki. Pamoja na kufanya mahojiano na wadau mbalimbali ndani na nje ya Serikali, pamoja na kuainisha Itifaki zinazopendekezwa kuridhiwa na mkataba kwa kuanzisha Jumuiya ya Afrika Mashariki, Kamati imebaini kwamba kuna umuhimu wa Tanzania kuridhia Itifaki hii kwa sababu mbalimbali ikiwemo zifuatazo:</seg>
+          <seg xml:id="seg341">a) Kuwezesha nchi wanachama kuwa na mamlaka moja yenye tafsiri moja kisheria katika Itifaki pale inapotokea utata katika tafsiri ya vipengele vya Itifaki katika mgongano wa kibiashara, uwekezaji na sarafu ya Pamoja;</seg>
+          <seg xml:id="seg342">b) Kuimarisha mahusiano ya kibiashara na uwekezaji kwa nchi wanachama ambazo zimeridhia Itifaki hii;</seg>
+          <seg xml:id="seg343">c) Kwa kuwa tayari Tanzania imesaini Itifaki hiyo na imechukua muda mrefu kuridhia, ni wakati sahihi sasa wa kufanya hivyo.</seg>
+          <seg xml:id="seg344">Mheshimiwa Mwenyekiti, maoni na ushauri wa Kamati. Baada ya Kamati kujadili kwa kina hoja ya Serikali kuhusu Azimio la kuridhia Itifaki ya Kuongeza Mamlaka ya Mahakama ya Haki ya Afrika Mashariki, Kamati ina maoni na ushauri ufuatao:</seg>
+          <seg xml:id="seg345">a) Bunge liridhie Itifaki hii kwa kuzingatia umuhimu wake katika utekelezaji mpana wa masharti ya Mkataba wa Kuanzishwa Jumuiya ya Afrika Mashariki pamoja na Itifaki ya Umoja wa Forodha, Soko la Pamoja na Umoja wa Fedha;</seg>
+          <seg xml:id="seg346">b) Serikali itoe elimu ya kutosha kwa wananchi kuhusu mamlaka ya Mahakama ya Haki ya Afrika Mashariki katika kushughulikia migogoro mbalimbali ambayo inaweza kuibuka katika kutekeleza masharti ya Itifaki mbalimbali zinazotumika katika Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg347">Mheshimiwa Mwenyekiti, hitimisho na shukrani. Naomba nichukue fursa hii kumshukuru kwa dhati Mheshimiwa Spika akisaidiwa na Naibu Spika kwa kuliongoza vema Bunge hili na kwa namna ambavyo ameipa Kamati ushirikiano, ushauri na maelekezo yake imekuwa ni vigezo muhimu katika ufanisi na utekelezaji wa majukumu ya kila siku ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u173" who="MheKhadijaSTaya">
+          <seg xml:id="seg348">Mheshimiwa Mwenyekiti, nawashukuru kwa dhati Wajumbe wa Kamati ya Kudumu ya Bunge ya Katiba na Sheria ambao katika kutekeleza majukumu yao kikatiba, walichambua, kujadili na kutoa maoni mbalimbali kwa lengo la kuboresha maudhui ya Azimio la kuridhia Itifaki hii. Kwa kutambua mchango wao, naomba majina yao yaingie katika taarifa rasmi za Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u174" who="MheKhadijaSTaya">
+          <seg xml:id="seg349">Mheshimiwa Mwenyekiti, Kamati inampongeza Waziri wa Katiba na Sheria, Mheshimiwa Dkt. Damas Daniel Ndumbaro, Mbunge, akisaidiwa na Naibu Waziri wake, Mheshimiwa Geophrey Mizengo Pinda, Mbunge kwa kuwasilisha Azimio la kuridhia Itifaki hii. Aidha, nawashukuru watendaji wote wa Wizara ya Katiba na Sheria chini ya uongozi wa Katibu Mkuu, Bibi Mary Gabriel Makondo, akisaidiwa na Naibu Katibu Mkuu ndugu Khatibu Kazungu.</seg>
+          <seg xml:id="seg350">Mheshimiwa Mwenyekiti, kipekee niwashukuru watumishi wa Ofisi ya Bunge chini ya uongozi wa Katibu wa Bunge, Ndugu Nenelwa Mwihambi, ndc kwa uratibu wa shughuli za Kamati hadi kukamilika kwa taarifa hii, namshukuru Mkurugenzi wa Kamati za Bunge, Ndugu Othman Hussein, ndc akisaidiwa na Mkurugenzi Msaidizi, Ndugu Gerald Magili kwa kusimamia utendaji wa Kamati mbalimbali za Bunge.</seg>
+          <seg xml:id="seg351">Mheshimiwa Mwenyekiti, mwisho lakini siyo kwa umuhimu, nawashukuru watumishi wa Ofisi ya Bunge ambao wanaunda Sekretarieti ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria kwa kuratibu vikao vya Kamati na kutoa ushauri wa kitaalam wakati wa uchambuzi wa mapendekezo ya kuridhia Itifaki hadi kukamilika kwa taarifa hii, watumishi hao ni Ndugu Elihaika Mtui, Ndugu Yona Kirumbi, Ndugu Frank Nkya na Ndugu Ludovick Ringia wakisaidiwa na Ndugu Theresia Jacob. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u175" who="MheKhadijaSTaya">
+          <seg xml:id="seg352">Mheshimiwa Mwenyekiti, uamuzi kuhusu hoja. Baada ya maelezo hayo naomba sasa Bunge lijadili kuridhia Itifaki ya Kuongeza Mamlaka ya Mahakama ya Haki ya Afrika Mashariki (The Protocol to Operationalize the Extended Jurisdiction of the East African Court of Justice) kama ilivyowasilishwa na mtoa hoja.</seg>
+          <seg xml:id="seg353">Mheshimiwa Mwenyekiti, kwa niaba ya Mwenyekiti wa Kamati naomba kuwasilisha na naunga mkono hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u176" who="MheKhadijaSTaya">
+          <seg xml:id="seg354">MAONI YA KAMATI YA KUDUMU YA BUNGE YA KATIBA NA SHERIA</seg>
+          <seg xml:id="seg355">KUHUSU AZIMIO LA BUNGE KURIDHIA ITIFAKI YA KUONGEZA MAMLAKA</seg>
+          <seg xml:id="seg356">YA MAHAKAMA YA HAKI YA AFRIKA MASHARIKI -</seg>
+          <seg xml:id="seg357">KAMA ILIVYOWASILISHWA MEZANI</seg>
+          <seg xml:id="seg358">-------------------</seg>
+          <seg xml:id="seg359">1.0 UTANGULIZI</seg>
+          <seg xml:id="seg360">1.1 Maelezo ya Awali</seg>
+          <seg xml:id="seg361">Mheshimiwa Spika, kwa mujibu wa Kanuni ya 60 (6) (b) ya Kanuni za Kudumu za Bunge, Toleo la Juni, 2020, naomba kuwasilisha Maoni ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria Kuhusu Azimio la Bunge Kuridhia Itifaki ya Kuongeza Mamlaka ya Mahakama ya Haki ya Afrika Mashariki (The Protocol to Operationalise the Extended Jurisdiction of the East African Court of Justice).</seg>
+          <seg xml:id="seg362">Mheshimiwa Spika, maoni yanayowasilishwa ni utekelezaji wa jukumu la Kamati la kushughulikia Mikataba inayopendekezwa kuridhiwa na Bunge iliyo chini ya Wizara ya Katiba na Sheria kwa mujibu wa Kifungu cha 7 (1) (c) cha Nyongeza ya Nane ya Kanuni za Kudumu za Bunge.</seg>
+          <seg xml:id="seg363">Mheshimiwa Spika, sambamba na jukumu hilo la Kikanuni, jukumu hilo ni sehemu ya utekelezaji wa Madaraka ya Bunge ya kujadili na kuridhia mikataba yote inayohusu Jamhuri ya Muungano na ambayo kwa masharti yake inahitaji kuridhiwa kwa mujibu Ibara ya 63 (3) (e) ya Katiba ya Jamhuri ya Muungano wa Tanzania, 1977.</seg>
+          <seg xml:id="seg364">1.2 Namna Kamati Ilivyofanya Kazi</seg>
+          <seg xml:id="seg365">Mheshimiwa Spika, kwa mamlaka uliyopewa na Kanuni ya 108 (1), ulileta Hoja ya Kuridhia itifaki hiyo kwa Kamati ya Katiba na Sheria, na Kamati yangu ilikutana tarehe 14 Septemba, 2022 ili kupata maelezo ya Waziri wa Katiba na Sheria, Mhe. Dkt. Damas Daniel Ndumbaro (Mb.). Aidha, tarehe 19 Septemba, 2022 Wajumbe wa Kamati walipata fursa nyingine ya kujadili maudhui ya Itifaki hiyo kwa kupata maelezo ya ziada ya Serikali yaliyowasilishwa na Naibu Waziri wa Katiba na Sheria, Mhe. Geophrey Mizengo Pinda (Mb.).</seg>
+          <seg xml:id="seg366">Mheshimiwa Spika, aidha Kamati ilialika wadau kufika mbele ya Kamati ili kutoa maoni yao kwa lengo la kuisaidia katika uchambuzi wa Itifaki hiyo kwa mujibu wa Kanuni ya 108 (2). Wadau hao pia walipewa fursa ya kuwasilisha maoni yao kwa njia ya mtandao.</seg>
+          <seg xml:id="seg367">2.0 UCHAMBUZI WA KAMATI</seg>
+          <seg xml:id="seg368">2.1 Chimbuko la Itifaki</seg>
+          <seg xml:id="seg369">Mheshimiwa Spika, Jamhuri ya Muungano wa Tanzania ni miongoni mwa Nchi Wanachama wa Jumuiya ya Afrika Mashariki kwa Mkataba ulioianzisha Jumuiya hiyo (The Treaty for the Establishment of the East African Community) na kusainiwa na Wakuu wa Nchi Wanachama tarehe 30 Novemba, 1999. Baada ya kusainiwa kwa Mkataba huo, Jumuiya ilianza kufanya kazi rasmi tarehe 7 Julai, 2000.</seg>
+          <seg xml:id="seg370">Mheshimiwa Spika, Ibara ya 9 (1) ya Mkataba wa Jumuiya imeanzisha taasisi na vyombo vya Utawala vya Jumuiya ikiwemo Mahakama ya Haki ya Afrika Mashariki (The East African Court of Justice). Mahakama hiyo imepewa mamlaka kwa mujibu wa Ibara ya 27 (1) ya Mkataba, kuwa chombo kikuu cha kutafsiri Mkataba wa Jumuiya na kusimamia utekelezaji wa masharti mbalimbali ya Mkataba huo.</seg>
+          <seg xml:id="seg371">Mheshimiwa Spika, kwa upande mwingine, Ibara ya 27 (2) inaipa mamlaka Nchi Wanachama wa Jumuiya ya Afrika Mashariki, pale watakapoona inafaa, wanaweza kuiongezea Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki kwa masuala mengine mbalimbali kwa Itifaki. Kwa muktadha huo, Serikali imewasilisha Bungeni Azimio la kuiongezea mamlaka Mahakama ya Haki ya Afrika Mashariki ili Bunge lako liiridhie Itifaki hiyo. 2.2 Maudhui ya Itifaki</seg>
+          <seg xml:id="seg372">Mheshimiwa Spika, kwa mujibu wa Ibara ya 2 (2) na Ibara ya 5 (2) za Mkataba, Mtangamano wa Afrika Mashariki unatekelezwa katika hatua nne ambazo ni Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha na Shirikisho la Kisiasa. Baada ya kuanza kufanya kazi, Nchi Wanachama wa Jumuiya ya Afrika Mashariki ziliridhia Itifaki zifuatazo: - (a) Itifaki ya Umoja wa Forodha (2004)</seg>
+          <seg xml:id="seg373">(b) Itifaki ya Uanzishwaji wa Soko la Pamoja (2010) na (c) Itifaki ya Umoja wa Sarafu (2013).</seg>
+          <seg xml:id="seg374">Mheshimiwa Spika, nchi wanachama zinatekeleza Itifaki hizo katika masuala ya biashara na uwekezaji ambapo migogoro inaweza kutokea na hivyo kuhitaji utatuzi wa tafsiri sahihi ya masharti ya Itifaki hizo kwa kuzingatia matakwa ya Mkataba.</seg>
+          <seg xml:id="seg375">Mheshimiwa Spika, kwa muktadha huo, na kwa kuona umuhimu wa utekelezaji wa Itifaki hizo, Nchi Wanachama ziliamua kuwa na Itifaki ya kuiongezea mamlaka Mahakama ya Jumuiya ya Afrika Mashariki katika Mkutano wa Kawaida Wakuu wa Nchi Wanachama uliofanyika tarehe 20 Februari, 2015. Lengo la ni kuiwezesha Mahakama hiyo kuweza kushughulikia</seg>
+          <seg xml:id="seg376">Mheshimiwa Spika, katika uchambuzi wake, Kamati imebaini na kujiridhisha kwamba, Itifaki hii haitaathiri uwezo wa Mahakama zetu kushugulikia mambo yake kwa mujibu wa Ibara ya 107A ya Katiba ya Jamhuri ya Muungano wa Tanzania, 1977. Masharti haya yamewekwa bayana katika Ibara ya 3(2) ya Itifaki ambayo yanasomeka kama ifuatavyo: -</seg>
+          <seg xml:id="seg377">„2. The extension of jurisdiction under paragraph 1 shall not preclude the exercise of bodies established by the Treaty or the relevant laws of the Partner States.”</seg>
+          <seg xml:id="seg378">Mheshimiwa Spika, Ibara hii ikisomwa pamoja na Ibara ya 33 ya Mkataba wa Uanzishwaji wa Jumuiya ya Afrika Mashariki inatoa mamlaka kwa vyombo vya ndani ya nchi kutekeleza majukumu yao huku ikitunza umuhimu wa kuwa pia na tafsiri zisizogongana kwenye Ibara mbalimbali za Itifaki au Mkataba. 2.3 Umuhimu wa Kuridhia Itifaki</seg>
+          <seg xml:id="seg379">Mheshimiwa Spika, baada ya kufanya mahojiano na wadau mbalimbali ndani na nje ya Serikali, na baada ya kuoanisha Itifaki inayopendekezwa kuridhiwa na Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki, Kamati imebaini kwamba kuna umuhimu wa Tanzania kuridhia itifaki hii kwa sababu mbalimbali ikiwemo zifuatazo: -</seg>
+          <seg xml:id="seg380">(a) Kuwezesha Nchi Wanachama kuwa na mamlaka moja yenye tafsiri moja kisheria katika Itifaki pale inapotokea utata katika tafsiri ya vipengele vya Itifaki katika migogoro ya kibiashara, uwekezaji na sarafu ya pamoja. (b) Kuimairisha mahusiano ya kibiashara na uwekezaji kwa Nchi Wanachama ambazo zimeridhia Itifaki hii.</seg>
+          <seg xml:id="seg381">(c) Kwa kuwa tayari Tanzania imesaini Itifaki hiyo na imechukua muda mrefu kuridhia, ni wakati sahihi wa kufanya hivyo. 3.0 MAONI NA USHAURI</seg>
+          <seg xml:id="seg382">Mheshimiwa Spika, baada ya Kamati kujadili kwa kina Hoja ya Serikali kuhusu Azimio la Kuridhia Itifaki ya Kuongeza Mamlaka ya Mahakama ya Haki ya Afrika Mashariki, Kamati ina maoni na ushauri ufuatao: - (a) Bunge liridhie Itifaki hii kwa kuzingatia umuhimu wake katika utekelezaji mpana wa masharti ya Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki, pamoja na Itifaki za Umoja wa Forodha, Soko la Pamoja na Umoja wa Fedha;</seg>
+          <seg xml:id="seg383">(b) Serikali itoe elimu ya kutosha kwa Wananchi kuhusu Mamlaka ya Mahakama ya Haki ya Afrika Mashariki katika kushughulikia migogoro mbalimbali ambayo inaweza kuibuka katika kutekeleza masharti ya Itifaki mbalimbali zinazotumika katika Jumuiya ya Afrika Mashariki. 4.0 HITIMISHO</seg>
+          <seg xml:id="seg384">4.1 Shukrani</seg>
+          <seg xml:id="seg385">Mheshimiwa Spika, naomba nichukue fursa hii kukushukuru kwa dhati wewe binafsi, ukisaidiwa na Naibu Spika kwa kuliongoza vema Bunge hili na kwa namna ambavyo umeipa Kamati ushirikiano. Ushauri wako na maelekezo yako vimekuwa ni nyenzo muhimu katika ufanisi wa utekelezaji wa majukumu ya kila siku ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria. Mheshimiwa Spika, nawashukuru kwa dhati Wajumbe wa Kamati ya Kudumu ya Bunge ya Katiba na Sheria, ambao katika kutekeleza majukumu yao kikatiba, walichambua, kujadili, na kutoa maoni mbalimbali kwa lengo la kuboresha maudhui ya Azimio la kuridhia Itifaki hii. Kwa kutambua mchango wao, naomba majina yao yaingie katika Taarifa Rasmi za Bunge kama ifuatavyo: -</seg>
+          <seg xml:id="seg386">Mhe. Najma Murtaza Giga, Mb. Makamu Mhe. Abdullah Ali Mwinyi, Mb. Mjumbe Mhe. Emmanuel Adamson Mwakasaka, Mb. Mjumbe Mhe. Wanu Hafidh Ameir, Mb. Mjumbe Mhe. Edward Olelekaita Kisau, Mb. Mjumbe Mhe. Zainab Athman Katimba, Mb. Mjumbe Mhe. Lemburis Saputu Mollel Noah, Mb. Mjumbe Mhe. Asha Abdullah Juma, Mb. Mjumbe Mhe. Omar Ali Omar, Mb. Mjumbe Mhe. Suma Ikenda Fyandomo, Mb. Mjumbe Mhe. Salum Mohammed Shaafi, Mb. Mjumbe Mhe. Ahmed Juma Ngwali Dedi, Mb. Mjumbe Mhe. Agnesta Lambert Kaiza, Mb. Mjumbe Mhe. Yahaya Omary Massare, Mb. Mjumbe Mhe. Jacqueline Ngonyani Msongozi, Mb. Mjumbe Mhe. Hussein Nassor Amar, Mb. Mjumbe Mhe. Khadija Shaaban Taya, Mb. Mjumbe Mhe. Luhaga Joelson Mpina, Mb. Mjumbe Mhe. Rashid Abdallah Shangazi, Mb. Mjumbe Mhe. Jonas Van Zeeland, Mb. Mjumbe Mhe. Rashid Abdalla Rashid, Mb. Mjumbe Mhe. Boniphace Nyangindu Butondo, Mb. Mjumbe Mhe. Mohamed Lujuo Monni, Mb. Mjumbe Mheshimiwa Spika, Kamati inampongeza Waziri wa Katiba na Sheria, Mhe. Dkt. Damas Daniel Ndumbaro (Mb.), akisaidiwa na Naibu Waziri, Mhe.</seg>
+          <seg xml:id="seg387">Geophrey Mizengo Pinda (Mb.) kwa kuwasilisha Azimio la kuridhia Itifaki hii. Aidha, nawashukuru watendaji wote wa Wizara ya Katiba na Sheria chini ya uongozi wa Katibu Mkuu, Bi. Mary Gabriel Makondo akisaidiwa na Naibu Katibu Mkuu Ndg. Khatibu M. Kazungu.</seg>
+          <seg xml:id="seg388">Mheshimiwa Spika, kipekee niwashukuru Watumishi wa Ofisi ya Bunge chini ya uongozi wa Katibu wa Bunge, Ndg. Nenelwa J. Mwihambi, ndc, kwa uratibu wa shughuli za Kamati hadi kukamilika kwa taarifa hii. Namshukuru Mkurugenzi wa Kamati za Bunge, Ndg. Athuman Hussein, ndc, akisaidiwa na Mkurugenzi Msaidizi, Ndg. Gerald Magili, kwa kusimamia utendaji wa Kamati mbalimbali za Bunge.</seg>
+          <seg xml:id="seg389">Mheshimiwa Spika, mwisho lakini sio kwa umuhimu, nawashukuru Watumishi wa Ofisi ya Bunge ambao wanaunda Sekretarieti ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria kwa kuratibu vikao vya Kamati na kutoa ushauri wa kitaalam wakati wa uchambuzi wa mapendekezo ya kuridhia Itifaki hadi kukamilika kwa taarifa hii. Watumishi hao ni Ndg. Elihaika Mtui, Ndg. Yona Kirumbi, Ndg. Frank Nkya na Ndg. Ludovick Ringia wakisaidiwa na Ndg. Theresia Jacob.</seg>
+          <seg xml:id="seg390">4.2 Uamuzi Kuhusu Hoja</seg>
+          <seg xml:id="seg391">Mheshimiwa Spika, baada ya maelezo hayo naomba Bunge sasa lijadili na kuridhia Itifaki ya Kuongeza Mamlaka ya Mahakama ya Haki ya Afrika Mashariki (The Protocol to Operationalise the Extended Jurisdiction of The East African Court of Justice), kama ilivyowasilishwa na Mtoa Hoja. Mheshimiwa Spika, naomba kuwasilisha na ninaunga mkono Hoja.</seg>
+          <seg xml:id="seg392">Dkt. Joseph Kizito Mhagama, Mb.</seg>
+          <seg xml:id="seg393">MWENYEKITI</seg>
+          <seg xml:id="seg394">Kamati ya Kudumu ya Bunge ya Katiba na Sheria</seg>
+          <seg xml:id="seg395">20 Septemba, 2022</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u177" who="Mwenyekiti">
+          <seg xml:id="seg396">Ahsante sana Mheshimiwa. Tunashukuru sana Mheshimiwa Khadija Shaaban Taya kwa niaba ya Mwenyekiti wa Kamati ya Katiba na Sheria. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u178" who="Mwenyekiti">
+          <seg xml:id="seg397">Waheshimiwa Wabunge, tunaendelea na uchangiaji ninamuita Mheshimiwa Abdullah Ali Mwinyi, wakati huo Mheshimiwa Noah Lemburis Saputu Mollel na Mheshimiwa Zainab Athman Katimba pamoja na Mheshimiwa Joseph Anania Tadayo wanajiandaa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u179" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg398">Mheshimiwa Mwenyekiti, ahsante sana. Nami naomba kutoa shukrani ya dhati kwa kunijaalia wasaa huu kuleta</seg>
+          <seg xml:id="seg399">mchango wangu juu ya Itifaki ya Jumuiya ya Afrika Mashariki ya Kuongeza Mamlaka ya Mahakama ya Afrika Mashariki.</seg>
+          <seg xml:id="seg400">Mheshimiwa Mwenyekiti, mwanzo kabisa napenda kuchukua fursa hii kuwapongeza wawasilishaji, Mheshimiwa Waziri pamoja na Mheshimiwa Khadija Shaaban Taya ambaye amewasilisha report kwa niaba ya Kamati, kwa hakika uwasilishaji ulikuwa mahiri sana na wameeleweka. Tutajitahidi na sisi kuchangia vema ili tuende na mlolongo wao waliouanzisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u180" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg401">Mheshimiwa Mwenyekiti, hakika tumechelewa kuipitisha hii Itifaki. Itifaki hii ina umuhimu mkubwa sana katika ustawi wa Jumuiya ya Afrika Mashariki. Ili nieleweke inabidi niweke kwa muhtasari Jumuiya ya Afrika Mashariki ni nini na mihimili yake ili watu watuelewe na kwa nini Itifaki hii ni muhimu sana iridhiwe.</seg>
+          <seg xml:id="seg402">Mheshimiwa Mwenyekiti, Jumuiya ya Afrika Mashariki ina mihimili Minne. Mhimili wa kwanza ni Umoja wa Forodha (Customs Union), mhimili wa pili ni Soko Huria (Common Market), mhimili wa tatu ni Sarafu Moja (Monitory Union) na mhimili wa nne ni Umoja wa Kisiasa (Political Federation) lakini kwa sasa hivi tunazungumzia Political Confederation.</seg>
+          <seg xml:id="seg403">Mheshimiwa Mwenyekiti, napenda kuchukua wasaa kidogo nigusie kwa muhtasari haya. Customs Union (Umoja wa Forodha), hivi Umoja wa Forodha maana yake nini? Haya maneno yanazungumzwa sana lakini bila kuyatambua na kuyafahamu ni vigumu kwa Waheshimiwa Wabunge na Bunge lako Tukufu kujadili vema.</seg>
+          <seg xml:id="seg404">Mheshimiwa Mwenyekiti, Umoja wa Forodha ni jambo jepesi sana. Umoja wa Forodha ni mfumo ambao ndani ya hizi nchi Tano au Sita za Jumuiya ya Afrika Mashariki tukafanya tukawa na kitu kinaitwa common external tariff. Common external tariff ni nini? Kila nchi ikiagizia vitu kutoka nje ya nchi kuna vipengele vya kulipia kodi, Tanzania tuna vipengele vitatu. Chochote utakachoagiziwa nje ama utalipa zero percent ya kodi au asilimia 25 au asilimia 35. Vitu vyote vya nje vikiingia ndani lazima vilipiwe ushuru kwa vigezo hivyo.</seg>
+          <seg xml:id="seg405">Mheshimiwa Mwenyekiti, sasa common external tariff baina ya zile nchi tano, hivi vigezo vyote vinakuwa sawia katika hizo nchi zote tano. Yaani ukiagiza kishikwambi chako kutoka China au Mkenya akiagiza kishikwambi chake kutoka China au Mganda au Mnyarwanda au Mkongo kodi itakayolipwa ni ileile. Sasa common external tariff inatengeneza single customs territory. Eneo zima lile linakuwa na umoja wa forodha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u181" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg406">Mheshimiwa Mwenyekiti, sasa mgogoro ukitokea nani awe msuluhishi? Ndiyo hoja tunayoizungumzia hapa. Msuluhishi hapa tunasema iwe East African Court of Justice wale ndiyo wataalam ambao wanaelewa taratibu</seg>
+          <seg xml:id="seg407">na sheria na itifaki kwa undani ili wao ndiyo warekebishe, hilo la kwanza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u182" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg408">Mheshimiwa Mwenyekiti, jambo la pili, kila nchi kupitia Mahakama zake za nchi wanachama kuna uwezekano mkubwa sana tukapata maamuzi tofauti. High Court ya Tanzania ikaamua vyake, High Court ya Kenya ikaamua vyake, High Court ya Rwanda ikaamua vyake, kwa kweli kwa uhakika tutajivuruga.</seg>
+          <seg xml:id="seg409">Mheshimiwa Mwenyekiti, mhilimi wa pili, Common Market (Soko Huria) watu wanapenda kusema soko la pamoja, Hapana ni soko huria (free market). Ndani ya Jumuiya hii ya Afrika Mashariki soko liko wazi. Tumekubaliana sisi Itifaki hii ya mwaka 2004, vitu vitakavyotengenezwa ndani ya Jumuiya vikihama kutoka sehemu moja kwenda nyingine havina kodi. Utakachokitengeneza Tanzania ukakipeleka Kenya, Uganda, Rwanda hakuna kodi. Hali kadhalika utakachokitengeneza Rwanda, DRC, South Sudan ukikileta Tanzania hakina kodi, soko huria.</seg>
+          <seg xml:id="seg410">Mheshimiwa Mwenyekiti, sasa soko huria linatoa haki fulanifulani na hizo ni muhimu tuzielewe. Soko huria linatoa haki ya kwanza ya free movement of goods (bidhaa ziko huru), free movement of person maana yake nini? Maana yake uhuru wa wananchi kwenda popote ndani ya Jumuiya ya Afrika Mashariki. Haki ya tatu, haki ya kuishi. Mwanaafrika Mashariki ana haki ya kuishi kokote ndani ya Jumuiya ya Afrika Mashariki maadamu ana shughuli ya msingi ya kufanya.</seg>
+          <seg xml:id="seg411">Mheshimiwa Mwenyekiti, uhuru wa kufanya kazi sehemu yoyote, uhuru wa kusafirisha mitaji na uwekezaji sehemu yoyote, uhuru wa kufanya biashara ya huduma. Sasa, kukiwa na mkanganyiko baina ya nchi moja au nyingine juu ya uhuru au huru hizo, nani ahukumu? Itifaki hii inatuambia The East African Court of Justice ambao Majaji wake wanatoka kila nchi mwanachama, Watanzania wapo, Wakenya wapo, Majaji ambao wanazo sifa na uwelewa wa kuhukumu masuala hayo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u183" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg412">Mheshimiwa Mwenyekiti, mhimili wa tatu, Monitoring Union. Monitoring Union kidogo ina utaalam na ni kitu kikubwa kidogo. Monitoring Union ili tuwe tuna sarafu moja, chumi za hizi nchi Sita kwa pamoja lazima ziunganishwe ziwe moja (marketing integration). Unafanyaje chumi hizi kutoka kuwa sita iwe moja? Kuna vigezo tumejiwekea. Vigezo hivyo vinaitwaje? Maneno complicated lakini ni simple. Inaitwa macroeconomic convergence criteria. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u184" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg413">Mheshimiwa Mwenyekiti, hivyo vitu ni vitu gani? vitu vichache ni kama vifuatavyo:</seg>
+          <seg xml:id="seg414">(i) Kila nchi mwanachama lazima inflation rate yao wai-control isizidi asilimia nane. Kiwango cha juu cha mfumuko wa bei usizidi eight percent.</seg>
+          <seg xml:id="seg415">(ii) Nakisi ya bajeti baada ya kujumuisha misaada isizidi asilimia tatu ya GDP ya Pato la Taifa.</seg>
+          <seg xml:id="seg416">(iii) Deni la Taifa lisilozidi asilimia 50 ya Pato la Taifa.</seg>
+          <seg xml:id="seg417">(iv) Akiba ya fedha za kigeni isiyopungua mahitaji ya miezi minne na nusu.</seg>
+          <seg xml:id="seg418">(v) Nchi wanachama lazima waweze kuweka hivi vigezo kwa miaka mitatu mfululizo ili waweze kuingia kwenye sarafu moja.</seg>
+          <seg xml:id="seg419">Mheshimiwa Mwenyekiti, hapo ndiyo tutapata marketing integration. Eneo lote lile likawa kama sehemu moja na tukaweza kuwa na sarafu moja. Sasa, mtazamaji ni nani wa kusema bwana nchi fulani kidogo hapa imelegalega? Lazima kuwe na taasisi moja ya kuhakikisha haya yote yako sawa. Kama kuna mgogoro lazima taasisi hiyo moja ya katikati itatue huo mgogoro. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u185" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg420">Mheshimiwa Mwenyekiti, hakika Jumuiya ya Afrika Mashariki ni jambo nyeti sana. tunalichukulia poa lakini siyo poa. Jumuiya ya Afrika Mashariki kwa upana wake ina dhamira ya kutufanya sisi, chini Kusini mwa Jangwa la Afrika kuna chumi kuu mbili, wengine wote wadandiaji tuu. Chumi kuu mbili, Nigeria in West Africa na South Africa Kusini kabisa.</seg>
+          <seg xml:id="seg421">Mheshimiwa Mwenyekiti, sasa Jumuiya ya Afrika Mashariki mawanda yake mapana ni kutengeneza chumi kuu Tatu. Nigeria na wenzake ECOWAS kule, South Afrika na wenzake Kusini, Tanzania na Afrika Mashariki. Major geopolitical purpose tunataka kuwa katika miongoni mwa nchi Kusini mwa jangwa la Afrika ambao tuna chumi kubwa kuendeleza maendeleo yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u186" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg422">Mheshimiwa Mwenyekiti, baada ya hayo kuyagusia, mwisho kabisa napenda sana kuunga mkono hii hoja na napenda kuwaomba Wabunge wenzangu waiunge mkono hii hoja bila ukakasi wa aina yoyote, kwa sababu ya maslahi mapana ya Tanzania ndani ya Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg423">Mheshimiwa Mwenyekiti, naomba kuunga mkono hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u187" who="Mwenyekiti">
+          <seg xml:id="seg424">Ahsante sana Mheshimiwa Abdullah Ali Mwinyi. Nilimwita Mheshimiwa Noah Lemburis Saputu Mollel aanze kuchangia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u188" who="MheNoahLSMollel">
+          <seg xml:id="seg425">Mheshimiwa Mwenyekiti, nashukuru kwa kunipa nafasi pia na mimi ya kuchangia Protocol au Itifaki ya Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg426">Mheshimiwa Mwenyekiti, kwanza kabisa nimshukuru Mwenyezi Mungu ambaye ametupa uzima na kuwepo asubuhi ya leo katika Bunge lako.</seg>
+          <seg xml:id="seg427">Mheshimiwa Mwenyekiti, nianze kwa kuchangia kwamba Jumuiya ya Afrika Mashariki ina historia ndefu kidogo ambayo imetoka mbali. Ilianzishwa na Waasisi waliotangulia mbele ya haki na sisi leo tunaendelea kuiboresha zaidi kama ambavyo tumepata fursa hii siku ya leo.</seg>
+          <seg xml:id="seg428">Mheshimiwa Mwenyekiti, Jumuiya ya Afrika Mashariki ilianza mwaka 1917 ikiwa na nchi mbili ya Kenya na Uganda. Baadae mwaka 1927 Tanzania ilijiunga katika Jumuiya hiyo ikiwa na jina jingine kwa maana ya Tanganyika. Lakini Jumuiya hii ilikuja tena kuanzishwa rasmi kwa hizo nchi tatu ikitambulika kama Jumuiya ya Afrika Mashariki mwaka 1967 ambapo baadae iliendelea kushamiri na kunawiri.</seg>
+          <seg xml:id="seg429">Mheshimiwa Mwenyekiti, mwaka 1977 Jumuiya hii iliweza kuanguka. Sababu za kuanguka kwa jumuiya hii zilikuwa ni nchi wanachama ikiwemo Kenya kudai sehemu kubwa ya maamuzi. Pia jambo lingine la pili ilikuwa ni nchi ya Uganda kwa maana ya Dikteta Idd Amin kuvamia Tanzania, kuchukia kuona kama Tanzania inaingilia uhuru wa Uganda.</seg>
+          <seg xml:id="seg430">Mheshimiwa Mwenyekiti, pamoja na historia hiyo yote, jumuiya hii tena ilianzishwa mwaka 1999 baada ya Wakuu wa Nchi kukaa na kuona kwamba kuna haja tena ya kuendelea kunyanyua jumuiya hii. Jumuiya hii iliendelea kwa wananchi wake kushirikiana kwa nchi tatu na baadaye nchi nyingine mbalimbali ziliongeza kama Burundi, Rwanda mpaka baadaye na Kongo juzi imejiunga. Hayo yote yanafanya jumuiya hii iweze kusaidia wananchi wake kuingia katika nchi yoyote ya Jumuiya ya Afrika Mashariki na kufanya biashara, kazi, na pia ule ushirikiano wa kindugu, kisiasa kijamii na kiuchumi nao umeendelea kushika kasi.</seg>
+          <seg xml:id="seg431">Mheshimiwa Mwenyekiti, katika kuhakikisha kwamba jumuiya hii inaendelea kusonga mbele, Wakuu wa Nchi tarehe 2/3/2004 waliweza kusaini Itifaki ya Soko la Pamoja, lakini pia tarehe 30/11/2013 ilisaniwa pia Itifaki ya Sarafu ya Pamoja.</seg>
+          <seg xml:id="seg432">Mheshimiwa Mwenyekiti, kwa nini naendelea kusema hivyo? Ni kuonesha kwamba sisi leo kuletewa itifaki kuisaini, siyo kwamba ni jambo la kwanza, bali hasa katika itifaki hii tumechelewa kufanya hivyo. Nadhani ni kwa sababu Tanzania ni nchi makini, ambayo watu wake wanafanya utafiti wa kina katika masuala mbalimbali, ndiyo maana tumechelewa kwa kiwango hicho, lakini bado tuko kwenye jumuiya na tumekuwa ndio wabeba jumuiya kwa sehemu kubwa.</seg>
+          <seg xml:id="seg433">Mheshimiwa Mwenyekiti, kwa nini tunatakiwa kuongezea Jumuiya ya Afrika Mashariki nguvu kwa maana ya mamlaka? Tunatakiwa kufanya hivyo kwa sababu kwanza mkataba wenyewe unatutaka kufanya hivyo. Katika kifungu cha 27 kifungu kidogo cha (2) cha Mkataba wa Jumuiya ya Afrika Mashariki, kwa ruhusa yako naomba kunukuu: „the Court shall have such other origina,l appellate, human rights and other jurisdiction as will be determined by the Council at a suitable subsequent date. To this end, the partner states shall conclude a protocol to operationalize the extended jurisdiction.”</seg>
+          <seg xml:id="seg434">Mheshimiwa Mwenyekiti, kwa kifungu hicho tunapewa mamlaka hayo ya kuweza kuongezea Mahakama hii mamlaka ili iweze kuamua haki kwa wanachama wote kwa maana ya nchi wanachama, kwa wananchi wetu; na kwa maana nyingine kwamba lazima wawekezaji wetu waweze kuamini nchi yetu kwamba imesaini mkataba kikamilifu katika kuhakikisha kwamba tunapata wawekezaji wengi zaidi na wananchi wetu wanaweza kupata haki.</seg>
+          <seg xml:id="seg435">Mheshimiwa Mwenyekiti, siyo hiyo tu, kabla ya hapo, suala la migogoro ya biashara ilikuwa inafanywa na nchi wanachama kwa maana ya Mahakama za ndani ya nchi wanachama. Sasa suala hili wakati mwingine linaleta changamoto kwa sababu inakuwa ni mgogoro wa maslahi (conflict of interest) katika Mahakama za ndani. Labda tuna kesi Uganda na nchi nyingine au mwananchi wetu wa Tanzania, obviously tutaanza kufikiri kwamba kama yule mtu wa Uganda atapewa haki, ina maana tutasema Mahamaka ya Uganda imetuonea.</seg>
+          <seg xml:id="seg436">Mheshimiwa Mwenyekiti, kwa hiyo, kwa kuridhia itifaki hii ni faida kubwa sana kwetu kama nchi na wananchi wetu pale ambako tutakuwa na mashauri ambayo yanafanyiwa maamuzi. Kwa sababu tukienda mbali zaidi, utakuta shauri ambalo limefanyika Uganda linaweza likatolewa maamuzi tofauti, baadaye ikija Tanzania maamuzi tofauti, ikienda Rwanda maamuzi tofauti. Kwa hiyo, kama tutaiongezea Mahakama hii ya Afrika Mashariki suala la mamlaka kamili, itakuwa inatoa maamuzi ambayo ni moja tu katika Jumuiya yetu ya Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u189" who="MheNoahLSMollel">
+          <seg xml:id="seg437">Mheshimiwa Mwenyekiti, pamoja na hayo kulikuwepo pia na wasiwasi ndani ya nchi yetu kwa maana ya wananchi wa Tanzania kwamba sisi kuridhia itifaki hizi inaweza kuchukuwa ardhi yetu. Hiyo ilikuwa ni mitizamo ya wananchi wetu wa Tanzania, lakini tunahakikishiwa ndani ya itifaki katika Ibara ile ya 15 ya Soko la Pamoja kwamba ardhi haitahusika katika itifaki hii ambayo inaridhiwa na Tanzania. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u190" who="MheNoahLSMollel">
+          <seg xml:id="seg438">Mheshimiwa Mwenyekiti, kwa hiyo, tunaondoa kabisa wasiwasi kwa Watanzania kwamba ardhi itakuwa ni miongoni mwa maamuzi. Ardhi itabaki katika kuamuliwa na Mahakama za ndani za Tanzania, kama ambavyo imesemwa ndani ya itifaki yenyewe. Kwa hiyo, wasiwasi huo kwa wananchi</seg>
+          <seg xml:id="seg439">wetu na Bunge lako tukufu tuondokanonalo kabisa kwa sababu haitakuwepo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u191" who="MheNoahLSMollel">
+          <seg xml:id="seg440">Mheshimiwa Mwenyekiti, faida ya kuridhia itifaki hii ni kubwa sana na ninaamini kwamba Waheshimiwa Wabunge wa Bunge lako hili la Jamhuri ya Muungano wa Tanzania wataridhia. Kwa sababu tukiridhia, wananchi wetu watakuwa na uhuru wa kuingia katika nchi yoyote kwenye Jamhuri hizi za Afrika Mashariki, kuingia na kutoka na kufanya biashara mbalimbali, watakuwa na uhuru wa kufanya kazi kama ambavyo hata sasa wanafanya.</seg>
+          <seg xml:id="seg441">Mheshimiwa Mwenyekiti, pia watakuwa na uhuru wa kupata huduma mbalimbali katika Jamhuri hizo za nchi za Afrika Mashariki, kuwekeza mitaji mbalimbali. Kama walivyosema, tutakapokuwa tumesaini itifaki hii, wawekezaji wetu watakuwa na imani kubwa ya kuja kuwekeza Tanzania na katika nchi za Afrika Mashariki kwa sababu sasa wana kitu ambacho wanaamini kwamba Mahakama ya Afrika Mashariki itatoa haki kwa pande zote bila upendeleo.</seg>
+          <seg xml:id="seg442">Mheshimiwa Mwenyekiti, baada ya kusema hayo, nasisitiza kwamba tukumbuke kwamba Wimbo wa Jumuiya wa Afrika Mashariki ni kielelezo dhahiri shahiri, inatueleza kwamba tuilinde Jumuiya yetu ya Afrika Mashariki. Maudhui ya wimbo huo yanaeleza kabisa kwamba tuna wajibu mkubwa wa kulinda Jumuiya ya Afrika Mashariki na kupitisha itifaki hii.</seg>
+          <seg xml:id="seg443">Mheshimiwa Mwenyekiti, baada ya kusema hayo, naomba Waheshimiwa Wabunge wa Jamhuri ya Muungano wa Tanzania wapitishe itifaki hii bila wasiwasi wala tashwishi kwa sababu sisi Kamati tumepitisha na tumechambua kwa kina, na tumeuliza maswali kadha wa kadha ili kujiridhisha kwamba tuna maslahi gani ndani ya itifaki hii? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u192" who="MheNoahLSMollel">
+          <seg xml:id="seg444">Mheshimiwa Mwenyekiti, baada ya kusema hayo, naunga mkono hoja. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u193" who="Mwenyekiti">
+          <seg xml:id="seg445">Ahsante sana Mheshimiwa Noah Lemburis Saputu Mollel kwa mchango wako. Nilimwita Mheshimiwa Zainab Athman Katimba, wakati huo Mheshimiwa Joseph Anania Tadayo, anajiandaa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u194" who="MheZainabAKatimba">
+          <seg xml:id="seg446">Mheshimiwa Mwenyekiti, nashukuru sana nami kupata nafasi ya kuweza kuchangia katika azimio hili na kuridhia itifaki ya Jumuiya ya Afrika Mashariki ya kuiongezea mamlaka Mahakama ya Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg447">Mheshimiwa Mwenyekiti, kama wote tunavyofahamu, Jumuiya ya Afrika Mashariki ilianzishwa mwaka 2001 Julai, lakini katika kuimarisha utengamano wa Jumuiya ya Afrika Mashariki, nchi wanachama ziliweza kuanzisha na kuridhia itifaki tatu; Utifaki ya Uanzishwaji wa Umoja wa Forodha</seg>
+          <seg xml:id="seg448">mwaka 2004, Itifaki ya Uanzishwaji wa Soko la Pamoja 2010, na Itifaki ya Uanzishwaji wa Umoja wa Sarafu Mwaka 2013. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u195" who="MheZainabAKatimba">
+          <seg xml:id="seg449">Mheshimiwa Mwenyekiti, katika kipindi hiki chote kunapotokea dosari katika utekelezaji wa itifaki hizi, basi Mahakama za nchi wanachama wa Afrika Mashariki na hasa kwenye nchi ambapo dosari imejitokeza, ndiyo zilikuwa zina mamlaka ya kuweza kusikiliza mashauri hayo. Hata hivyo, kwenye mkataba wa uanzishwaji wa Afrika Mashariki Ibara ya 9 vimeanzishwa vyombo na taasisi mbalimbali za kiutawala kwa ajili ya Jumuiya ya Afrika Mashariki na miongoni mwa taasisi hizo ni pamoja na kuanzishwa kwa Mahakama hii ya Afrika Mashariki. Mahakama hii pamoja na kuanzishwa kwake, kwenye mkataba wa huu wa uanzishwaji Afrika Mashariki imepewa mamlaka ya kutafsiri ule mkataba wa uanzishwaji wa Afrika Mashariki, yaani The East Africa Community Treaty.</seg>
+          <seg xml:id="seg450">Mheshimiwa Mwenyekiti, kwenye ibara hiyo, au kwenye ule mkataba mama wa uanzishwaji wa Afrika Mashariki, Mahakama hii haiukupewa mamlaka ya kutafsiri itifaki hizi tatu nyingine zilizoanzishwa. Yaani Itifaki ya Kuanzisha Customs Union, Itifaki ya Kuanzisha Soko la Pamoja (common market) na Itifaki ya Uanzishwaji wa Umoja wa Sarafu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u196" who="MheZainabAKatimba">
+          <seg xml:id="seg451">Mheshimiwa Mwenyekiti, ukienda kwenye Ibara ya 27 ya Mkataba wa Uanzishwaji wa Afrika Mashariki Ibara ndogo ya (2), ibara hii imetoa mamlaka kwa nchi wanachama kuridhia itifaki kwa pamoja ya kutoa mamlaka zaidi kwa Mahakama hii ya Afrika Mashariki kusikiliza mashauri zaidi (extended jurisdiction), kwa kiswahili kidogo inakuwa inachanganya.</seg>
+          <seg xml:id="seg452">Mheshimiwa Mwenyekiti, kwa hiyo, kwa Ibara hii ya 27, Ibara ndogo ya (2) ina maana nchi wanachama wa Afrika Mashariki wanaweza kuiongezea Mahakama ile ya Afrika Mashariki. Sasa kwa muhktadha huu, nchi wanachama tarehe 20 Februari, 2015 kwenye Mkutano wa Kawaida wa 16 wa Wakuu wa Nchi, Wanachama wa Jumuiya ya Afrika Mashariki waliweza kwa pamoja kupitisha azimio la kuiongezea Mahamaka ya Jumuiya ya Afrika Mashariki mamlaka ya kushughulikia masuala ya biashara, uwekezaji na sarafu moja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u197" who="MheZainabAKatimba">
+          <seg xml:id="seg453">Mheshimiwa Mwenyekiti, sasa kwa mujibu wa taratibu za jumuiya yetu hii ya Afrika Mashariki, nchi zinavyoleta azimo kama hili, ili sasa azimio hili liweze na nguvu na Mahamaka hii iweze kuongezewa mamlaka, ni lazima nchi wanachama na zenyewe ziweze kuridhia itifaki ile ambayo inakusudia kuanzishwa. Ina maana sasa, ndiyo leo hii tunaona Serikali imeweze kuona azimio la itifaki hii ili nasi kama nchi, kama wanachama wa Jumuiya ya Afrika Mashariki tuweze kuunga mkono itifaki hii na mwisho wa siku mamlaka za Mahakama hii ya Afrika Mashariki ziweze kuongezeka.</seg>
+          <seg xml:id="seg454">Mheshimiwa Mwenyekiti, hii hatua tuliyofika ni muhimu sana kwa sababu kuridhia kwa itifaki hii kutawezesha kutatua migogoro ya kibiashara</seg>
+          <seg xml:id="seg455">na uwekezaji ambayo inajitokeza katika utekelezaji wa itifaki hizi tatu nilizozitaja; Itifaki ya Uanzishwaji Umoja wa Forodha, Itifaki ya Uanzishwaji wa Soko la Pamoja na Itifaki ya Kuanzisha Umoja wa Sarafu. Kwa hiyo, nawaomba sana Wabunge wenzangu waweze kuwa sehemu ya kuridhia na kuunga mkono hoja hii iliyoletwa na Serikali kwa maana ina umuhimu mkubwa sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u198" who="MheZainabAKatimba">
+          <seg xml:id="seg456">Mheshimiwa Mwenyekiti, siyo hivyo tu, tukienda mbali zaidi, jumuku hili au hatua hii tuliyokuwanayo ni sehemu ya kuweza kurahisisha kuongeza utengemano wa Jumuiya ya Afrika Mashariki. Kwa maana ipi?</seg>
+          <seg xml:id="seg457">Mheshimiwa Mwenyekiti, hapo awali tunaona kwamba Mahakama za Nchi Wanachama ndizo zilikuwa na mamlaka ya kuweza kusikiliza mashauri yanayotokana na changamoto za itifaki hizi nilizozitaja, lakini sasa hivi tunataka kuipa Mahakama ya Afrika Mashariki jukumu la msingi la kutafsiri siyo tu mkataba wa uanzishwaji wa Afrika Mashariki, bali na zile itifaki tatu. Sasa katika sheria, sisi tunaona hatua hii itasaidia sana katika kuleta maendeleo sawia katika jurisprudensia ndani ya ukanda wa Afrika Mashariki.</seg>
+          <seg xml:id="seg458">Mheshimiwa Mwenyekiti, siyo tu kwamba tutakuza jurisprudensia au tutaleta maendeleo zaidi ya jurisprudensia katika ukanda wa Afrika Mashariki, lakini kwa sababu hii Mahamaka itaanzishiwa sub-registries; ina maana kwenye hizo sub-registries, huduma itawafikia wananchi katika Jumuiya yote ya Afrika Mashariki na pia kutakuwa na fursa mbalimbali za ajira, kwa sababu sub-registries zikianzishwa au hii Mahakama ikiwa ina majukumu zaidi, kazi zikiwa zipo nyingi zaidi, ina maana kutakuwa na nafasi nyingi za kuajiri kada mbalimbali ikiwemo kada ya Majaji. Kwa hiyo, hili suala linatunufaisha kwa njia tofauti tofauti ikiwemo katika suala la ajira. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u199" who="MheZainabAKatimba">
+          <seg xml:id="seg459">Mheshimiwa Mwenyekiti, baada ya kuchangia machache hayo, naomba tena niendelee kuwasisitiza Waheshimiwa Wabunge wenzangu waweze kuunga mkono hoja hii iliyopo mbele yetu ili sisi kama nchi, Tanzania tuweze kuwa sehemu ya kupitisha itifaki hii ili Mahakama ya Jumuiya ya Afrika Mashariki iweze kuwa na mamlaka zaidi ya kusikiliza mashauri mbalimbali katika Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u200" who="MheZainabAKatimba">
+          <seg xml:id="seg460">Mheshimiwa Mwenyekiti, ahsante sana. Naunga mkono hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u201" who="Mwenyekiti">
+          <seg xml:id="seg461">Ahsante sana Mheshimiwa Zainab Athman Katimba. Nilimwita Mheshimiwa Joseph Anania Tadayo, wakati huo Mheshimiwa Aida Joseph Khenani, Mheshimiwa Jerry William Silaa, na Mheshimiwa Edward Olelekaita Kisau, wajiandae.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u202" who="MheJosephATadayo">
+          <seg xml:id="seg462">Mheshimiwa Mwenyekiti, nashukuru sana kupata fursa hii kuchangia. Awali ya yote naipongeza sana Serikali kwa hatua ambayo wamefikia sasa kutuletea itifaki hii kwa ajili ya kuiridhia.</seg>
+          <seg xml:id="seg463">Kipekee pia nampongeza Mheshimiwa Waziri wa Sheria pamoja na timu yake kwa kazi nzuri ambayo wameifanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u203" who="MheJosephATadayo">
+          <seg xml:id="seg464">Mheshimiwa Mwenyekiti, suala hii tunalolijadili leo lina umuhimu mkubwa sana katika kuhakikisha kwamba Jumuiya hii ya Afrika Mashariki inaendelea na haitakutana tena na madhila kama yale yaliyoipata ile iliyotangulia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u204" who="MheJosephATadayo">
+          <seg xml:id="seg465">Mheshimiwa Mwenyekiti, ukiangalia historia utakuta kwamba suala la umoja wa forodha katika nchi hizi ya Afrika Mashariki, lilianza hata kabla nchi hizi hazijapata uhuru; lilianza wakati wa mkoloni, likianza na Kenya na Uganda na baadaye Tanzania. Kwa hiyo, hata Jumuiya ya Afrika Mashariki ilipoundwa mara ya kwanza mwaka 1967 jambo kubwa ambalo lilikuwa linazingatiwa ni hapo kwenye masuala ya forodha, lakini baada ya miaka 10 ile jumuiya ikawa imeshindwa kuendelea.</seg>
+          <seg xml:id="seg466">Mheshimiwa Mwenyekiti, ukisoma sababu za kuanguka kwa Jumuiya ya Afrika Mashariki kwa miaka ile, zinatajwa nyingi, lakini mojawapo wanazungumzia habari za tofauti za mifumo ya kiuchumi katika nchi wanachama. Sasa mimi ukiniuliza nitasema, katika ushirikiano wa aina yoyote ile, tofauti na mifumo ya kiuchumi au kisiasa hazipaswi kuwa sababu ya kuanguka kwa jumuiya. Kuanguka kwa jumuiya kunatokana na kukosekana kwa mikakati ya kuweza kuzisawazisha zile tofauti ili nchi zikaenda kwa pamoja.</seg>
+          <seg xml:id="seg467">Mheshimiwa Mwenyekiti, nadhani ndicho tunachokizungumza hapa kwamba kwa kuwa madhumuni makubwa ya hizi jumuiya ni uchumi; tunazungumzia sawa siasa, jamii na nini, lakini kama jumuiya yoyote, hizi Reginal Integration, kama hai-address suala la uchumi lazima itaanguka. Kwa hiyo, masuala haya ya uchumi yasipowekewa mfumo mzuri wa kuyaendesha na kuyadhibiti, basi lazima anguko lake litakuwa karibu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u205" who="MheJosephATadayo">
+          <seg xml:id="seg468">Mheshimiwa Mwenyekiti, ndiyo maana utakuta mwaka 1999 tulipounda tena jumuiya mpya kama walivyoeleza waliotangulia kwamba hatua ya kwanza ikawa ni masuala ya Umoja wa Forodha mwaka 2005, ni suala la uchumi hilo; ikaja Soko Huria 2010, ni uchumi sasa tunaangalia mambo ya Sarafu ya Pamoja, ni uchumi pia, ndiyo sasa tuanze kuota hiyo ndoto ya Political Federation huko baadaye, lakini mpaka haya yakae stable kwanza ndiyo unaweza kufikiria hilo la kisiasa.</seg>
+          <seg xml:id="seg469">Mheshimiwa Mwenyekiti, chombo ambacho kina-balance au kina- harmonize haya mambo huwa ni Mahakama. Mahali popote pale ukitaka mambo yaende bila migogoro, lazima uwe na Mahakama, kwa sababu vinginevyo basi unaachia watu waamue kwa kutumia mapanga. Sasa Mahakama tuliyonayo sasa hivi ambayo inaundwa na Ibara ya 23 na 27 ya Mkataba huu wa Afrika wa Mashariki, inashughulikia zaidi mambo ya tafsiri</seg>
+          <seg xml:id="seg470">ya mkataba waliovunjwa ule mkataba; iwe ni nchi au ni watu binafsi, mamlaka hiyo iko ndani ya Mahakama hiyo.</seg>
+          <seg xml:id="seg471">Mheshimiwa Mwenyekiti, hata hivyo, mamlaka hii haiendi katika kutoa maamuzi ambayo yana nguvu ya kisheria, ni binding kwa lugha ya kisheria, ni maamuzi ambayo ni matamko (declamatory) au ni ya kushauri tu (advisory). Sasa haya yanaweza yakaendelea kwenye upande wa siasa na jamii na haki za binadamu na kadhalika; lakini ukija kwenye uchumi, lazima kuwe na maamuzi ambayo ni binding, yaani yanaweza yakafanyiwa kazi.</seg>
+          <seg xml:id="seg472">Mheshimiwa Mwenyekiti, ibara ya 27 inaruhusu kwamba mahakama ile itakuja kuongezewa mamlaka kama ambavyo council itaamua na nadhani ndiyo kinachofanyika hapa. Kwa hiyo tunachokifanya hapa kiko ndani kabisa ya ule Mkataba wa East Africa kwamba mahakama sasa iongezewe uwezo katika mambo haya ya kiuchumi; Umoja wa Forodha, umoja wa hii mambo ya fedha ili kuweza kutoa maamuzi ambayo yanaweza kutiliwa nguvu ya kisheria yakafanyika. Kwa hiyo, nadhani kuridhia hili ni jambo la muhimu sana katika kufanya jumuiya hii isikubwe tena na madhila ya kuyumba au kuanguka kama hapo nyuma ilivyotokea.</seg>
+          <seg xml:id="seg473">Mheshimiwa Mwenyekiti, sasa hakuna jambo jema ambalo halina changamoto zake au halina tahadhari za kujiandaa. Naona hili ni jambo jema sana, lakini sisi kama nchi tunahitaji kutia nguvu zaidi kwenye uzalendo wetu. Unapoingia kwenye mambo ya mashirikiano na watu wengine suala la uzalendo linatakiwa liwe na kipaumbele sana. Kwa hiyo moja, tunahitaji sana kujenga nguvu kubwa zaidi ya uchumi wetu, yaani tujenge nguvu ya ushindani kwenye uchumi ili hata tunaposema Umoja wa Forodha na sisi tuwe na mambo ya kwenda kufanya kule kwa wenzetu. Isije ikawa ni Umoja wa Forodha wenzetu wakawa wanakuja kufanya kwetu, sisi hatuna access ya kwenda kule. Siyo access kwa sababu ya sheria, ila access kwa sababu ya uwezo, kwa hiyo tuwajengee wafanyabiashara wetu uwezo wa kushiriki katika uchumi katika biashara zinazokwenda nje ya mipaka.</seg>
+          <seg xml:id="seg474">Mheshimiwa Mwenyekiti, pia kuwajengea uwezo Watanzania kujua fursa zilizopo katika nchi za wenzetu. Ni kweli tunatakiwa kufanya jitihada sana wawekezaji waje kwetu, lakini pia na sisi tunahitaji kwenda kuwekeza kwenye nchi za wenzetu. Sasa hapa tunahitaji kuwajengea uwezo Watanzania, vijana wanaoinukia kwenye biashara ili wawekeze hapa na watoke pia nje wawekeze. Ni mabenki mangapi ya Tanzania ambayo yamefungua matawi nje ya nchi. Pengine wala siyo uwezo, baadhi ya benki zetu zinao, lakini ile kuona iko fursa pale inaweza ikawa ni tatizo.</seg>
+          <seg xml:id="seg475">Mheshimiwa Mwenyekiti, sasa tunakwenda kwenye mahakama, mahakama ni sehemu muhimu sana ya biashara, kwa hiyo mtu akipata kesi yake anataka akawakilishwe na mtu ambaye atashinda, whether ana kosa au hana, anachotaka yeye ni kushinda kesi. Kwa hiyo uwezo pia wa Wanasheria wetu na Mawakili wetu ni jambo muhimu sana. Hili ni eneo</seg>
+          <seg xml:id="seg476">maalum, siyo kesi za kawaida zile ambazo tumezoea kufanya, kwa hiyo Chama cha Wanasheria Tanganyika na hasa hasa Wizara ya Katiba na Sheria iratibu mafunzo na kuwajengea uwezo Wanasheria wetu ili waweze kushiriki katika mahakama hii, vinginevyo watatokea wafanyabiasha wataenda kutafuta Wanasheria nje, kwa sababu mfanyabiashara anachotaka yeye ni kushinda kesi, siyo mambo mengine ya wema wema. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u206" who="MheJosephATadayo">
+          <seg xml:id="seg477">Mheshimiwa Mwenyekiti, basi nishukuru kwa kupata nafasi hii, kama nilivyosema nitachangia kwa ufupi, naunga mkono hoja kwa tahadhari hizo ambazo nimejaribu kuzitoa. Nashukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u207" who="Mwenyekiti">
+          <seg xml:id="seg478">Ahsante sana Mheshimiwa kwa mchango wako Mheshimiwa Joseph Anania Tadayo.</seg>
+          <seg xml:id="seg479">Nilimwita Mheshimiwa Aida Joseph Khenani, wakati huo Mheshimiwa Jerry William Silaa anajiandaa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u208" who="MheAidaJKhenani">
+          <seg xml:id="seg480">Mheshimiwa Mwenyekiti, nakushukuru sana kwa nafasi ili niweze kuchangia kwenye Azimio hili muhimu, Azimio la Kuridhia Itifaki ya Jumuiya ya Afrika Mashariki kuhusu Kuongezewa Mamlaka Mahakama ya Jumuiya ya Afrika Mashariki. Hili ni jambo muhimu sana na sisi kama Taifa, naona kama tulichelewa lakini kwa kuwa limekuja leo, tunashukuru kwa sababu limefika na kama Bunge tutimize wajibu wetu, lakini kuna mambo kadhaa ambayo nataka niyashauri.</seg>
+          <seg xml:id="seg481">Mheshimiwa Mwenyekiti, kutokana na kukua kwa Jumuiya hii ya Afrika Mashariki kumepelekea kuridhia Itifaki kadhaa, Itifaki ambazo zimeshazungumzwa, Itifaki wa Umoja wa Forodha, Itifaki ya Soko la Pamoja lakini Itifaki ya Umoja wa Sarafu pamoja na Itifaki nyingine.</seg>
+          <seg xml:id="seg482">Mheshimiwa Mwenyekiti, ukilitazama jambo hili leo tunapozungumzia kuongeza mamlaka, lazima jambo hili liendane sambamba na kupunguza baadhi ya mamlaka zilizopo kwenye mahakama zetu, pamoja na kwamba tunasema haitaathiri, kwa sababu tunapoongeza mamlaka kwenye Mahakama ya Afrika Mashariki tunaenda kuiongezea nguvu. Ili uiongezee nguvu kuna baadhi ya vitu lazima vitoke huku viende kule kwenye Mahakama ya Afrika Mashariki.</seg>
+          <seg xml:id="seg483">Mheshimiwa Mwenyekiti, katika mambo hayo kwa sababu na sisi lazima tuone tunanufaika vipi, unapozungumzia mahakama ni chombo ambacho kinakwenda sasa ku-balance mizani kwenye hizi Nchi Wanachama. Lazima tujue tumejiandaaje kama Taifa kuandaa Wanasheria wetu lakini na ushiriki wa Majaji kwenye mahakama hiyo ili kama Taifa tuweze kunufaika kwenye jambo hili.</seg>
+          <seg xml:id="seg484">Mheshimiwa Mwenyekiti, kama sisi tumeridhia na tumeshachunguza kwa sababu inawezekana huu muda ambao tumechelewa kuleta hapa au kuridhia walikuwa wanachunguza kwamba je, kuna athari gani kwenye taifa na mambo gani, lakini lazima tujue tunapoamua kuridhia leo lazima pia tuheshimu maamuzi yanayotolewa na Mahakama hii ya Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u209" who="MheAidaJKhenani">
+          <seg xml:id="seg485">Mheshimiwa Mwenyekiti, kuna mambo kadhaa ambayo yalishatolewa maamuzi, mfano pekee, ni ile sheria ya vyama vya siasa, lakini mpaka leo kama Taifa hatujatekeleza yale maamuzi yaliyotolewa na Mahakama hii. Ni vizuri kama tumeamua kuingia na hapa kwenye ushauri wangu kwa sababu wanachama waliopo kwenye jumuiya hii, kama tumeamua kuongeza mamlaka basi sisi nchi wanachama tuheshimu mamlaka ya hiyo mahakama na maamuzi ambayo yanatolewa.</seg>
+          <seg xml:id="seg486">Mheshimiwa Mwenyekiti, kuongezewa mamlaka kwa mahakama hii ya Afrika Mashariki ni lazima iendane na kuiwezesha kwenye teknolojia, iendane na hali ya sasa. Lazima kuwepo kwa nguvu kazi ya kutosha ikiwepo nguvu kazi ya kutosha hata maamuzi yatafanyika kwa haraka na haki itatolewa kwa haraka.</seg>
+          <seg xml:id="seg487">Mheshimiwa Mwenyekiti, pamoja na kwamba tunazungumzia kuridhia kwenye Itifaki hii, tumewaandaaje wafanyabiashara wetu kwenye hizi Itifaki kadhaa ambazo tumeshapitia na pia tumejiandaaje kuondoa huu utitiri wa kodi na tozo ambazo zinaweza zikawa vikwazo kwenye hii jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg488">Mheshimiwa Mwenyekiti, bado elimu inahitajika sana hata kwa wananchi wetu, kuona umuhimu wa hii mahakama, lakini ni vizuri kama tumepitisha leo tukajikita zaidi kuwapa elimu wananchi wetu wakajua faida ya mahakama hii ya Afrika Mashariki.</seg>
+          <seg xml:id="seg489">Mheshimiwa Mwenyekiti, ikiwezekana kwa sababu tunapozungumzia jumuiya hii tunazungumzia pia soko la ajira, tumewaandaaje vijana wetu waweze kunufaika na hii fursa kwenye suala la ajira kwenye umoja wa Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u210" who="MheAidaJKhenani">
+          <seg xml:id="seg490">Mheshimiwa Mwenyekiti, kila kitu unapokuwa unataka fursa lazima uangalie kwamba kuna ushindani. Tumejiandaaje na huo ushindani, kama hatujajiandaa watanufaika wengine tutabaki kuwa wanachama tu, kwa sababu lazima tupime ni wapi ambapo kama Taifa tumejipima, ni kweli tunaendana na huo mfumo? Mifumo yetu ni rafiki ya kwenda ku-compete kwenye huo Umoja wa Afrika Mashariki? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u211" who="MheAidaJKhenani">
+          <seg xml:id="seg491">Mheshimiwa Mwenyekiti, lazima tuwe na umakini wa kutosha tuweze kutumia kama fursa katika nafasi hiyo ambayo tutakuwa tumeipata. Pamoja na kwamba tumeingia muda mrefu lakini kuna mambo ambayo kama Taifa</seg>
+          <seg xml:id="seg492">tuone, ni kweli sisi hapa tulipofikia haya manufaa tunayoyapata ndiyo yanatosha kwa wananchi wa Taifa hili kama wanachama wa Umoja wa Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u212" who="MheAidaJKhenani">
+          <seg xml:id="seg493">Mheshimiwa Mwenyekiti, kuna mambo ambayo lazima tuyatazame, leo unapozungumzia biashara tuna changamoto ya wakulima wetu kwenye biashara, hata bima tu kwa mkulima kwa ajili ya biashara yake bado ni changamoto kwenye Taifa letu. Je, tunakwenda kunufaikaje sisi na hiyo Itifaki? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u213" who="MheAidaJKhenani">
+          <seg xml:id="seg494">Mheshimiwa Mwenyekiti, kwa kuwa leo nilikuwa nataka kujikita kwenye kushauri na nasema kwa umoja wake Kamati ya Katiba imefanya kazi kubwa sana ya uchambuzi, wamechambua kwa kina, lakini ni vizuri umakini ukaongezeka, zile ambazo tunaziona ni fursa tuzitumie na kuwasaidia wananchi wetu.</seg>
+          <seg xml:id="seg495">Mheshimiwa Mwenyekiti, nakushukuru kwa kunipa nafasi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u214" who="Mwenyekiti">
+          <seg xml:id="seg496">Ahsante sana Mheshimiwa Aida Joseph Khenani kwa mchango wako. Nilimwita Mheshimiwa Jerry William Silaa na Mheshimiwa Edward Ole-Lekaita Kisau ajiandae.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u215" who="MheJerryWSilaa">
+          <seg xml:id="seg497">Mheshimiwa Mwenyekiti, nikushukuru kwa kunipa nafasi katika kuchangia na kuliomba Bunge lako pamoja na kuunga mkono hoja ya kuridhia kuiongezea The East African Court jurisdiction ili iweze kufanya kazi ya kutoa tafsiri na kutatua migogoro itakayotokana na zile protocol ambazo wachangiaji wengi wamezitaja nami nitazitaja hapo baadaye.</seg>
+          <seg xml:id="seg498">Mheshimiwa Mwenyekiti, kwanza niungane na wenzangu kumpongeza kwa dhati Dkt. Damas Ndumbalo, Waziri wa Sheria na Katiba kwa uwasilishaji wake mzuri wa hoja ambayo imetupa uelewa mpana wa Itifaki hii ambayo tunaenda kuiridhia. Vilevile nimpongeze mdogo wangu Keisha kwa uwasilishaji wenye ueledi mkubwa alioutoa hapa kwa niaba ya Kamati ya Bunge na Sheria ya Katiba. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u216" who="MheJerryWSilaa">
+          <seg xml:id="seg499">Mheshimiwa Mwenyekiti, niendelee kupongeza; nimpongeze sana ndugu yangu Abdullah Mwinyi, maana yeye leo hakuchangia ametoa lecture na nimemwomba aandae notisi kina Kingu wangependa kuzisoma, zilete uelewa mpana zaidi na ametueleza na tumepata fursa ya kuona Wabunge wa Afrika Mashariki wenye sifa tunaowapeleka kule wanapokuja kuleta tija kwenye Taifa letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u217" who="MheJerryWSilaa">
+          <seg xml:id="seg500">Mheshimiwa Mwenyekiti, Nchi yetu ni Mwanachama wa Jumuiya ya Afrika Mashariki kwa mujibu wa the East African Treaty tuliyotia saini mwaka 1999 na ilivyoanza rasmi mwaka 2001 kama walivyoeleza wachangiaji wengine. Article 9 ya Treaty hiyo ndiyo inayoanzisha vyombo mbalimbali vya</seg>
+          <seg xml:id="seg501">kiutendaji, The East African Legislative Assembly, The East African Court of Justice na ukisoma article ile inaipa mamlaka mahakama hii kuweza kutafsiri mambo yanayotokana na treaty ile. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u218" who="MheJerryWSilaa">
+          <seg xml:id="seg502">Mheshimiwa Mwenyekiti, wachangiaji wote wamesema, mwaka 2004 tumeingia kwenye common customs, tumeridhia kuwa na common custom kwa maana ya custom union ya pamoja, rates za forodha na nadhani Mheshimiwa Abdullah ameelezea vizuri zaidi na ndio maana hapa tukiwa tunapitisha bajeti zile custom measures (jitihada) za Serikali za forodha zinakuwa zimeridhiwa na Nchi zote za Afrika Mashariki na sisi kama Nchi Wanachama tunatakiwa tuendane nazo kwa jinsi Mawaziri wa Fedha wa Nchi za Afrika Mashariki walivyokubaliana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u219" who="MheJerryWSilaa">
+          <seg xml:id="seg503">Mheshimiwa Mwenyekiti, mwaka 2010 tumeingia kwenye common market na mwaka 2013 tumeenda kwenye single currency ambayo imeelezewa mchakato wake wa kufikia kule kwa kufanya integration ya chumi za nchi zote wanachama. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u220" who="MheJerryWSilaa">
+          <seg xml:id="seg504">Mheshimiwa Mwenyekiti, kinachoombwa hapa leo ni nini? Amekisema vizuri Wakili Msomi Zainab Katimba, ni ile article 27(2) ambayo inaipa Nchi Wanachama ya ile East African Treaty tuliyoingia mwaka 1999 uwezo wa ku- extend jurisdiction ya Mahakama hii ili iweze kutoa majibu kwenye hizi protocols nyingine ambazo kabla ya kuomba ridhaa hii, masuala yote yaliyokuwa ya kimgogoro wa protocol hizi yalikuwa yanaamuliwa na Mahakama za partner state na madhara yake ni nini? Madhara yake kila Mahakama ya Nchi Wanachama itatoa tafsiri kwa kadri ya busara ya Mahakama husika kama mhimili unaojitegemea wa Taifa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u221" who="MheJerryWSilaa">
+          <seg xml:id="seg505">Mheshimiwa Mwenyekiti, kwa hiyo, suala moja linaweza kujitokeza kwenye nchi mbili tofauti kwa item moja ya common customs, lakini ikapata maamuzi mawili tofauti kwa Mahakama ya Nchi Wanachama na ku-set precedent mbili kwa jambo linalofanana kwa protocol moja. Kwa hiyo, kinachoombwa hapa ni nini? Kinachoombwa hapa ni jambo la kisheria ambalo lipo kwenye treaty la kutaka ku-extend jurisdiction ya Mahakama hii ya Afrika Mashariki ili sasa iwe na nguvu ya kufanya tafsiri na maamuzi wa hizi protocol tatu tulizozieleza kwa maana ya common custom, common market na monitory union na hilo nilishawishi Bunge hili lina faida kubwa katika ule uwanda mpana mzima wa ile nguvu ya kiuchumi tunayoitafuta kama Jumuiya ya Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u222" who="MheJerryWSilaa">
+          <seg xml:id="seg506">Mheshimiwa Mwenyekiti, ndiyo maana hata leo tulipokaa hapa Babu Tale hajakaa, tumekaa katika safu moja tu ya kutafuta ile mantiki ya kutengeneza jambo hili kwenye uwanda wake wa kisheria na Mheshimiwa Kingu amekiri kwamba kuna kiti kilikuwa wazi lakini ameshindwa kuja kukaa kwa sababu amesema yeye ameona ajikite na Ole-Lekaita kwenye uchangiaji wa mwisho yeye amejitolea kwenye suala la kupiga makofi. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u223" who="MheJerryWSilaa">
+          <seg xml:id="seg507">Mheshimiwa Mwenyekiti, kwa hiyo, tunawashawishi sana Waheshimiwa Wabunge kuweza kuridhia hoja hii iliyopo mezani ili nchi yetu kama wanachama tuliyoridhia ile East African Treaty mwaka 1999, tuweze ku- extend jurisdiction ya Mahakama hii kwa faida pana ya Jumuiya yetu ya Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u224" who="MheJerryWSilaa">
+          <seg xml:id="seg508">Mheshimiwa Mwenyekiti, kwa maneno hayo, naunga mkono hoja na nirejee tena kuomba Bunge lako liliridhie protocol hii. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u225" who="Mwenyekiti">
+          <seg xml:id="seg509">Ahsante sana Mheshimiwa Jerry William Silaa. Nilimwita Mheshimiwa Edward Ole-Lekaita Kisau wakati huo Mheshimiwa Naibu Waziri Mheshimiwa Godfrey Mizengo Pinda, akijiandaa na kisha Mtoa Hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u226" who="MheEdwardOKisau">
+          <seg xml:id="seg510">Mheshimiwa Mwenyekiti, nakushukuru kwa nafasi ili niweze kuchangia Itifaki hii ya kuongezea Mahakama ya Afrika ya Mashariki nguvu ya kisheria ya kuanza kusikiliza kesi za biashara.</seg>
+          <seg xml:id="seg511">Mheshimiwa Mwenyekiti, nimpongeze Waziri wa Katiba na Sheria na Mheshimiwa Naibu Waziri na timu yao yote kwa kazi ambayo wamefanya. Kazi ambayo Bunge imepewa ifanye sasa ni kwa mujibu wa Katiba wa Jamhuri ya Muungano wa Tanzania, kwa mujibu wa Ibara ya 63(3)(e) ya Katiba ya Jamhuri ya Muungano wa Tanzania inasema hivi na naomba ninukuu:</seg>
+          <seg xml:id="seg512">„Kujadili na kuridhia mikataba yote inayohusu Jamhuri ya Muungano na ambayo kwa masharti yake ni lazima inahitaji kuridhiwa na Bunge la Jamhuri ya Muungano wa Tanzania”. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u227" who="MheEdwardOKisau">
+          <seg xml:id="seg513">Mheshimiwa Mwenyekiti, kwa hivyo, tunafanya kazi ya kikatiba kabisa ya Bunge na niwapongeze Mawakili Wasomi wale ambao wameanza mjadala, Mheshimiwa Mwinyi ambaye kwa kweli hili ndiyo eneo lake la kujidai Afrika Mashariki na Mheshimiwa Zainab Katimba, Mheshimiwa Jerry Silaa na Wakili maarufu sana hapa Bungeni Mheshimiwa Thadayo. Kwa kweli sasa napata wakati mgumu kusema baada ya hao wote kusema. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u228" who="MheEdwardOKisau">
+          <seg xml:id="seg514">Mheshimiwa Mwenyekiti, Mahakama ya Afrika Mashariki sisi kama Taifa, kwanza ni faida kubwa kwetu kwa sababu Makao Makuu ya Mahakama hii ya Afrika Mashariki ipo Arusha Tanzania. Kwa hiyo, tayari kwa wenzetu wale Mahakama hii kuwepo kwetu ni faida. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u229" who="MheEdwardOKisau">
+          <seg xml:id="seg515">Mheshimiwa Mwenyekiti, kama walivyosema wengine hizi Itifaki za Common Markets, Monitoring Union na Customs Union tayari zimeshapitishwa lakini kwa integration ambayo inaenda vizuri sana, mkishaanza kuingia kwenye Itifaki hizi za Common Markets, Customs Union na Monitoring Union ni lazima mtarajie kwamba disputes zitatokea na kwa mujibu Treaty hii ukisoma article 5 and 6 imeeleza kabisa misingi ya Treaty hii kwamba ni lazima</seg>
+          <seg xml:id="seg516">tumekubaliana tusuluhishe migogoro yetu kwa namna ya kisheria nzuri na hakuna namna bora zaidi, zaidi ya kwenda Mahakamani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u230" who="MheEdwardOKisau">
+          <seg xml:id="seg517">Mheshimiwa Mwenyekiti, kwa hiyo, ili Wanachama wa Afrika Mashariki waweze kufurahia protocols hizi za Monitory, Customs Union na Common Market lazima kuwe na Mahakama ambayo likitokea jambo, yeyote kati ya wale anaweza kwenda Mahakamani na akapata haki yake. Kwa hiyo, ni muhimu kabisa na hata nje ya dunia wakitaka kuangalia kama integration yetu ni nzuri sana, wataangalia kama kuna mechanism kwamba jambo likitokea unaweza kwenda Mahakamani na ukapata redress. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u231" who="MheEdwardOKisau">
+          <seg xml:id="seg518">Mheshimiwa Mwenyekiti, kwa hiyo, hii jurisdiction kwa kweli wamefanya kazi nzuri sana. Labda nimtoe wasiwasi dada yangu aliyekuwa anazungumza hapa, nilikuwa naangalia hii protocol yenyewe article 3 kwamba hainyang’anyi haki za Mahakama zetu kusuluhisha migogoro hii. Ukisoma hiyo article 3(2) inasema hivi naomba ninukuu: „The extension of jurisdiction under paragraph 1 shall not preclude the exercise of jurisdiction conferred upon other bodies by the Treaty or the relevant laws of the Partner States”.</seg>
+          <seg xml:id="seg519">Mheshimiwa Mwenyekiti, kwa hiyo hakuna confusion hapo. Hii ni option tu kwamba party anaweza kwenda Mahakama hii ya Afrika Mashariki kama ni jambo linalohusiana na mambo ya customs union, common market ama monitoring union. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u232" who="MheEdwardOKisau">
+          <seg xml:id="seg520">Mheshimiwa Mwenyekiti, hata ukisoma Treaty yenyewe imeeleza kabisa kwamba, mtu anaweza kwenda kwenye Mahakama zetu na akaomba Mahakama zetu zitoe tafsiri ya Treaty hii ya Afrika Mashariki. Kwa hiyo hakuna confusion. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u233" who="MheEdwardOKisau">
+          <seg xml:id="seg521">Mheshimiwa Mwenyekiti, nagusia alichosema Mheshimiwa Tadayo. Unajua wakati wa Supreme Court of Kenya wakati kesi hizi zinaendelea, kati ya messages nyingi tulizozipata tunaulizwa hivi huku kwetu tuna wanasheria wazuri kama wale ambao tulikuwa tunawaona kwenye TV? Jibu ni ndiyo. Kabisa! </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u234" who="MheEdwardOKisau">
+          <seg xml:id="seg522">Mheshimiwa Mwenyekiti, Mheshimiwa Waziri, lakini ni kweli, lazima tujiandae kwa sababu Afrika Mashariki ni competitiveness. Ukishakuwa competitive ni lazima soko sasa litafunguka. Kwa hiyo, niwatoe wasiwasi tu, wako Wanasheria wazuri sana, hapa kwetu tu ni minus TV ndiyo maana hamuwaoni, lakini kesi zikiwa live mtawaona, tena wako wazuri sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u235" who="MheEdwardOKisau">
+          <seg xml:id="seg523">Mheshimiwa Mwenyekiti, Mheshimiwa Waziri, lakini ni kweli, tuendeshe elimu nzuri sana ili watu wetu wajiandae kabisa namna ya kushirikiana na wenzetu wa Afrika Mashariki.</seg>
+          <seg xml:id="seg524">Mheshimiwa Mwenyekiti, nguzo kuu ya Afrika Mashariki ni kitu kinaitwa widening and deepening of integration. Kwa hiyo, hii ni stage moja wapo ya sisi kuendelea ku-widen scope ya Afrika Mashariki na kui-deepen. Kwa hiyo, kila wakati kumbuka to widen and deepen the integration kwa sababu tuliamua. Hii ni uchumi na kwa kweli kwa nchi zote za Afrika Mashariki na sasa nchi nyingine zinaongezeka, ziko Saba sasa, nchi yetu iko strategically positioned kuwa mnufaika mkubwa sana wa integration ya Afrika Mashariki.</seg>
+          <seg xml:id="seg525">Mheshimiwa Mwenyekiti, kwa hiyo Kamati imefanya kazi nzuri sana. Ninaomba tulishawishi Bunge hili likubali kupitisha Itifaki hii bila kuchelewa ili Mheshimiwa Waziri na timu yake wakaendelee kufanya kazi nzuri sana. Na sisi kwa kweli we are Leaders in the region, lazima tuoneshe leading role kwenye vitu kama hivyo.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u236" who="MheEdwardOKisau">
+          <seg xml:id="seg526">Mheshimiwa Mwenyekiti, baada ya kusema haya, nakushukuru. Ahsante sana naunga mkono hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u237" who="Mwenyekiti">
+          <seg xml:id="seg527">Ahsante sana Mheshimiwa Edward Olelekaita Kisau kwa mchango wako. Sasa naomba nimuite Mheshimiwa Geophrey Mizengo Pinda, Naibu Waziri wa Katiba na Sheria, kwa ajili ya kutoa mchango wake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u238" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg528">Mheshimiwa Mwenyekiti, awali ya yote namshukuru Mwenyezi Mungu kutuwezesha tukae hapa leo na kulijadili jambo hili muhimu kwa mustakabali wa Taifa letu.</seg>
+          <seg xml:id="seg529">Mheshimiwa Mwenyekiti, nianze kwa kuishukuru Kamati kwa kutoa mwelekeo ambao mawazo yao ni chanya sana katika kukubaliana na wazo la kuridhia Itifaki ya Kuwaongezea Majukumu Mahakama yetu ya Afrika Mashariki.</seg>
+          <seg xml:id="seg530">Mheshimiwa Mwenyekiti, Waheshimiwa Wabunge wote waliotoa mawazo yao wametoa msukumo kwamba jambo hili kwanza lilichelewa, na ni kweli kabisa kwamba lilichelewa kwa sababu wale waliokuja na wazo la kuanzisha chombo hiki walikuwa na maana yake. Nasi kama Tanzania katika ile Mihimili mitatu ya nchi kubwa zilizoanzisha Jumuiya hii nasi ni mmojawao. Kwa hiyo, nadhani lilikuwa linasubiri wakati na sasa wakati umefika, nami nikubaliane na mawazo ya Waheshimiwa Wabunge waliochangia, kuwashawishi Wabunge wote mliopo katika ukumbi huu kuiridhia hii Itifaki ya kuwaongezea majukumu.</seg>
+          <seg xml:id="seg531">Mheshimiwa Mwenyekiti, actually siyo kuwaongezea majukumu ile Mahakama ni kutufungulia milango sisi Watanzania, kwa sababu kuchelewa kote huku kunaweza kukawa kumesababisha vitu vingi sana ambavyo watu wetu wameshindwa kunufaika kwa wakati juu ya matumizi ya Mahakama hii. Kwa sababu wakati mwingine unaweza ukapata hofu ya kitu chenye msaada kwako mwenyewe.</seg>
+          <seg xml:id="seg532">Mheshimiwa Mwenyekiti, wafanyabiashara wengi sana wanafanya biashara na hizi nchi, lakini inapotokea migogoro unaona kabisa uhitaji wa chombo cha marekebisho ya migogoro ile ni mkubwa kuliko wakati wowote ule.</seg>
+          <seg xml:id="seg533">Mheshimiwa Mwenyekiti, naamini wazi tunapokwenda kuridhia Itifaki hii ya kuwaongeza Majukumu hii Mahakama ya Afrika Mashariki, itatusaidia sana, hasa katika haya maeneo matatu ambayo yanatufanya tuwe pamoja zaidi. Kuendelea kutoridhia kutasababisha tubaki nyuma sana kwa sababu huwezi kukaa nje ya competition halafu ukasema na wewe ni mmojawapo. Ni lazima tuingie huko ndani tuendelee kunufaika na uwepo wa vyombo hivi, kimsingi kama tulikuwa na mashaka yalishaondolewa na waliokuwa watungulizi wetu, wameonesha kwamba ardhi iendelee kubaki chini ya milki za Serikali husika. Kwa hiyo, hatuna mashaka makubwa sana ambayo unasema hapa hili ndilo linaloweza likasababisha tusi-ratify haya makubaliano.</seg>
+          <seg xml:id="seg534">Mheshimiwa Mwenyekiti, kwa hiyo, katika mazingira ya kawaida ninashukuru sana mapokeo ya Waheshimiwa Wabunge kwa sababu katika wale wachangiaji, pamoja na kwamba walikuwa kama Sita tu, lakini unaona ile message walioiwasilisha kwenye Bunge lako Tukufu, ni message nzito sana ya kushawishi ili wananchi wetu waende wakanufaike na hizo opportunities zinazotokana na haya masoko huria, matumizi ya shilingi moja na ile free movement ya vitu katika ukanda wetu.</seg>
+          <seg xml:id="seg535">Mheshimiwa Mwenyekiti, hivyo ninaamini wazi kwamba ikiridhiwa hii inakwenda kufungua miliango. Kwa sababu tukisharidhia tukamalizika katika Jumuiya yetu hii, maana yake vitu vingine ambavyo havijafanyika, kwa mfano kuwa na hiyo one currency haiwezi kwenda kuanza mchakato wa aina yoyote mpaka turidhie sisi wote wanachama ili tukaunde mawazo mapya, kwamba, okay, kutoka hapa sasa hela gani tunaweza tukai- formulate pale iweze kutembea katika huu muungano wetu wa jumuiya.</seg>
+          <seg xml:id="seg536">Mheshimiwa Mwenyekiti, maana yake nchi kama zile za Eurozone unaona wanatumia Euro, siyo hela ya nchi moja katika zile. Na advantage ni kubwa sana kwa sababu biashara inakuwa miongoni mwa wanachama, haikui kwa mtu mmoja mmoja. Kwa hiyo, unaona faida ambayo tunategemea itakwenda kupatikana huko ni kubwa sana. Hivyo basi, mimi nisiwe msemaji sana kwa sababu hakuna ambacho unaweza ukasema unajibu hoja ambazo labda zinataka ufafanuzi. Katika watoa hoja, wote wamekubaliana na wazo la kuridhia mkataba huu.</seg>
+          <seg xml:id="seg537">Mheshimiwa Mwenyekiti, hivyo basi, kwanza naunga mkono hoja, vilevile nimalize kwa kusema twendeni kwenye maendeleo ya kweli kupitia Jumuiya ya Afrika Mashariki. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u239" who="Mwenyekiti">
+          <seg xml:id="seg538">Ahsante. Waheshimiwa Wabunge, kama mnavyofahamu kwamba Mheshimiwa Waziri Mkuu hayuko hapa, hivyo nafasi yake anakaimu Mheshimiwa Kapteni George Huruma Mkuchika, yuko pale. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u240" who="Mwenyekiti">
+          <seg xml:id="seg539">Waheshimiwa Wabunge, tunaendelea na sasa namuita mtoa hoja, Mheshimiwa Dkt. Damas Ndumbaro, Waziri wa Katiba na Sheria, kwa ajili ya kuhitimisha hoja yake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u241" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg540">Mheshimiwa Mwenyekiti, ninaomba kutumia nafasi hii kumshukuru sana Mheshimiwa Rais wa Jamhuri ya Muungano wa Tanzania, Makamu wa Rais wa Jamhuri ya Muungano wa Tanzania, Mheshimiwa Waziri Mkuu na Waheshimiwa Mawaziri wote ambao walijadili Itifaki hii na kupendekeza iletwe Bungeni kwa ajili ya kupitiwa na kujadiliwa na kufanyiwa maamuzi, kwa sababu maamuzi yao ndiyo yamefanya tuwe na mjadala huu leo.</seg>
+          <seg xml:id="seg541">Mheshimiwa Mwenyekiti, niwashukuru sana Mheshimiwa Spika, Mheshimiwa Naibu Spika, Waheshimiwa Wenyeviti wa Bunge na Kamati ya Kudumu ya Bunge ya Katiba na Sheria kwa kupokea Itifaki hii, kuijadili na hatimae kutoa maelekezo kwa Serikali kama ambavyo imefanyika.</seg>
+          <seg xml:id="seg542">Mheshimiwa Mwenyekiti, ninawashukuru sana Waheshimiwa Wabunge Saba ambao wamechangia michango yao mbalimbali, niruhusu niwataje kwa sababu ni wachache sana. Ninamshukuru sana Mheshimiwa Abdullah Ali Mwinyi - Mwanasheria msomi, kwa kutoa darasa la mtangamano wa Jumuiya ya Afrika Mashariki leo. Naamini wale wagombea wetu wangekuwepo hapa leo, wangejua nini wanatakiwa kwenda kufanya wakienda kule Arusha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u242" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg543">Mheshimiwa Mwenyekiti, ninamshukuru Mheshimiwa Mollel, ametupa darasa la historia ya Jumuiya ya Afrika Mashariki toka mwaka 1917 mpaka hii tuliyokuwa nayo leo. Pia ameelezea kwa ufasaha sana ni kwa nini tumechelewa kufika hapa ili kuwatoa hofu Waheshimiwa Wabunge na Watanzania wote. Ninamshukuru Mheshimiwa Zainab Katimba, kama ambavyo amesema Mheshimiwa Jerry Silaa, wamejipanga pale leo kuhakikisha mambo yanakwenda vizuri. Ninamshukuru sana Kaka yangu, Wakili Msomi, Mheshimiwa Tadayo Joseph, nae ametoa mchango mzuri sana na amesisitiza kwamba hii sasa inakwenda kuleta ushindani wa haki ndani ya Jumuiya ya Afrika Mashariki katika mawanda ya kufanya biashara. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u243" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg544">Mheshimiwa Mwenyekiti, ninamshukuru sana pia Mbunge jemedari, Mheshimiwa Aida Joseph Khenani. Mimi namuita Mbunge jemedari kwa sababu aling’oa mbuyu na ndiyo maana yuko hapa na tumeona mchango wake. Nimwambie tu Mheshimiwa Aida kwamba asiwe na wasiwasi, Mahakama hii haiendi kupora au kupoka mamlaka ya Mahakama yoyote, ila inakwenda ku-supplement pale ambapo tumekuwa na pengo na</seg>
+          <seg xml:id="seg545">kumekuwa na tafsiri tofauti katika Itifaki hii, hatimaye kwenda kuongeza confidence kwa wafanyabiashara wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u244" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg546">Mheshimiwa Mwenyekiti, ninamshukuru sana Mheshimiwa Jerry William Silaa, kwa jina maarufu Meya Mstaafu, nae ametoa mchango wake mzuri sana katika kuhakikisha kwamba Itifaki hii inafika vizuri. Ninamshukuru mchangiaji wa mwisho, Mheshimiwa Olelekaita, ni rafiki yangu sana, Mwanasheria Msomi, na yeye amechambua vizuri sana ikiwemo kuidadavua Ibara ya 5 ya Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u245" who="WaziriWaKatibaNaSheria">
+          <seg xml:id="seg547">Mheshimiwa Mwenyekiti, kama ambavyo imesemwa, Jumuiya ya Afrika Mashariki inabebwa na nguzo muhimu Nne. Nguzo ya Kwanza ni Umoja wa Forodha, ili kuhakikisha kwamba masuala ya forodha yote katika Jumuiya yanakwenda sawa. Nguzo ya Pili ni Soko la Pamoja. Nguzo ya Tatu ni Umoja wa Sarafu, Nguzo ya Nne ni Shirikisho la Kisiasa ambalo bado halijakamilika katika uanzishwaji wake.</seg>
+          <seg xml:id="seg548">Mheshimiwa Mwenyekiti, katika utekelezaji wa madhumuni na majukumu ya nguzo hizi ambayo kimsingi ni kuongeza mtangamano wa Jumuiya ya Afrika Mashariki, suala la migogoro ni la kawaida. Suala la umuhimu na matakwa ya kutafsiri Itifaki mbalimbali ni la kawaida. Kwa hivi sasa Itifaki hizo zimekuwa zikitafsiriwa na nchi zenyewe, hivyo kuleta mgongano wa hapa na pale.</seg>
+          <seg xml:id="seg549">Mheshimiwa Mwenyekiti, michango ya Waheshimiwa Wabunge imesema bayana kabisa, sasa tunakwenda kutoa tofauti hiyo. Hivi sasa kuna uwezekano kwamba kifungu kimoja cha itifaki kikatafsiriwa tofauti Tanzania, kikatafsiriwa tofauti Kenya, kikatafsiriwa tofauti Uganda, kikatafsiriwa tofauti Rwanda, Burundi na South Sudan kutegemeana na Majaji waliokaa kwenye nchi hiyo wameangalia vipi, ili kuondoa mgongano huo ndiyo maana Mahakama hii ilipendekezwa iongezewe mamlaka yake. Kwa hiyo, hiki tunachokwenda kukifanya ni kuongeza mtangamano, tunaimarisha Jumuiya na kuondoa migogoro ambayo ilisababisha jumuiya hii kuvunjika mwaka 1977.</seg>
+          <seg xml:id="seg550">Mheshimiwa Mwenyekiti, muhimu zaidi tunakwenda kuleta confidence kwa wafanyabiashara wetu. Tunakwenda kuongeza confidence kwa wawekezaji katika Ukanda huu wa Jumuiya ya Afrika Mashariki, kwamba wakiwekeza fedha zao, wakifanya biashara, kuna chombo madhubuti cha pamoja chenye uhakika cha utatuzi wa migogoro.</seg>
+          <seg xml:id="seg551">Mheshimiwa Mwenyekiti, kwa sababu Mahakama hii iko Tanzania ni fursa kwetu sisi ambao ni wenyeji, tunaenda kuongeza ajira zaidi na kuifanya Tanzania iweze kung’ara zaidi.</seg>
+          <seg xml:id="seg552">Mheshimiwa Mwenyekiti, kwa kuwa Itifaki hii ni muhimu, na kwa kuwa imejadiliwa sana na Waheshimiwa Wabunge na kuungwa mkono kwa kiasi</seg>
+          <seg xml:id="seg553">kikubwa sana, niruhusu sasa niliombe Bunge lako Tukufu baada ya maelezo hayo yote niliyoyatoa, baada ya kupokea taarifa ya Kamati ya Kudumu ya Bunge ya Katiba na Sheria, na baada ya michango thabiti ya Waheshimiwa Wabunge, kwa mujibu wa Ibara ya 63(3)(e) ya Katiba ya Jamhuri ya Muungano wa Tanzania ya mwaka 1977, kama ambavyo imefanyiwa mabadiliko, naomba sasa Bunge lako Tukufu katika Mkutano wake huu wa Nane, likubali kuridhia Itifaki ya Jumuiya ya Afrika Mashariki ya Kuongeza Mamlaka ya Mahakama ya Afrika Mashariki (The Protocol to Operationalize the Extended Jurisdiction of The East African Court of Justice).</seg>
+          <seg xml:id="seg554">Mheshimiwa Mwenyekiti, naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u246" who="WaziriWaFedhaNaMipango">
+          <seg xml:id="seg555">Mheshimiwa Mwenyekiti, naafiki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u247" who="Mwenyekiti">
+          <seg xml:id="seg556">Hoja imetolewa na imeungwa mkono.</seg>
+          <seg xml:id="seg557">Sasa Waheshimiwa Wabunge, baada ya kutolewa hoja na maoni ya Kamati na mjadala mrefu, nitawahoji ili kupata wanaounga mkono hoja na wasioiunga mkono kuhusu Azimio la Bunge la Kuridhia Itifaki ya Jumuiya ya Afrika Mashariki ya kuongeza Mamlaka ya Mahakama ya Afrika ya Mashariki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2022-09-20-bunge-08-06.u248" who="Mwenyekiti">
+          <seg xml:id="seg558"> (Itifaki ya Jumuiya ya Afrika Mashariki ya Kuongeza Mamlaka ya Mahakama</seg>
+          <seg xml:id="seg559">ya Afrika Mashariki iliridhiwa na Bunge)</seg>
+          <seg xml:id="seg560">Sasa azimio limeridhiwa na Bunge la Jamhuri ya Muungano wa Tanzania. Hivyo sasa Serikali wanaweza kuendelea na hatua zinazofuata ili Itifaki hii iweze kutekelezwa katika hatua zote kama zitakavyokamilika.</seg>
+          <seg xml:id="seg561">Tunawashukuru sana Serikali, tunawashukuru sana Waheshimiwa Wabunge. Tunaamini ushauri uliotolewa na Waheshimiwa Wabunge utakwenda kuzingatiwa kwa ajili ya maslahi mapana ya Taifa letu na pengine kusaidia Jumuiya yetu hii iweze kusonga mbele ili tusije tukarudi kuanguka kwa Jumuiya ya Afrika Mashariki kama huko nyuma.</seg>
+          <seg xml:id="seg562">Waheshimiwa Wabunge, shughuli zilizopangwa kwa leo zimekamilika, hivyo, naahirisha Bunge mpaka Jumatano, Tarehe 21, Septemba, 2022, Saa tatu asubuhi.</seg>
+          <seg xml:id="seg563">(Saa 5.55 asubuhi Bunge liliahirishwa hadi Siku ya Jumatano,</seg>
+          <seg xml:id="seg564">Tarehe 21 Septemba, 2022, Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

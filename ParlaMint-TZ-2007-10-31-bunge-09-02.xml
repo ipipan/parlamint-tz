@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2007-10-31) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2007-10-31) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="2">2. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="9">9. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1464710494-HS-9-2-2007.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2007-10-31">31.10.2007</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 14. Zanzibar Kutambulika kama Mkoa</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u1" who="MheYahyaKassimIssa">
+          <seg xml:id="seg1">Kwa kuwa, sehemu zote mbili za Muungano zina mikoa yake, na kwa kuwa, wakati wa majumuisho ya Bajeti za Mikoa, Zanzibar huingizwa katika orodha hiyo wakati Zanzibar ina mikoa yake tofauti, na kwa kuwa miaka ya nyuma (1998 – 2002) Serikali ilishaahidi kurekebisha jambo hili:-</seg>
+          <seg xml:id="seg2">(a) Je, kwa nini Serikali bado inaendelea kuiorodhesha Zanzibar katika orodha ya mikoa ya Tanzania Bara?</seg>
+          <seg xml:id="seg3">(b) Je, Serikali haioni kwamba inapaswa kuitaja mikoa husika ya Zanzibar kwa jambo lolote linalohusu mikoa hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u2" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoMheDrHusseinAliMwinyi">
+          <seg xml:id="seg4">Mheshimiwa Spika, Jamhuri ya Muungano wa Tanzania ina Serikali mbili na jumla ya mikoa 26. Mikoa mitano kati ya hii ipo upande wa Tanzania Zanzibar. Suala la Tawala za Mikoa na Serikali za Mitaa si la Muungano. Serikali ya Mapinduzi ya Zanzibar chini ya Ofisi ya Rais, Tawala za Mikoa na Vikosi vya SMZ inawajibika kushughulikia mikoa yote ya Tanzania Zanzibar na kwa upande wa Jamhuri ya Muungano Ofisi ya Waziri Mkuu, Tawala za Mikoa na Serikali za Mitaa, inawajibika kwa Mikoa ya Tanzania Bara.</seg>
+          <seg xml:id="seg5">Baada ya maelezo hayo ya utangulizi sasa napenda kujibu swali la Mheshimiwa Yahya Kassim Issa, Mbunge wa Chwaka, lenye sehemu (a) na (b) kama ifuatavyo :-</seg>
+          <seg xml:id="seg6">(a) Mheshimiwa Spika, Serikali haijumuishi Zanzibar katika Mikoa ya Tanzania Bara kwani inatambua vyema kuwa Zanzibar ina Mikoa yake kama nilivoelezea katika utangulizi. Endapo jambo hili limetokea basi litakua limetokea kwa makosa na litarekebishwa.</seg>
+          <seg xml:id="seg7">(b) Mheshimiwa Spika, katika shughuli zote zinazohusu mikoa katika Jamhuri ya Muungano wa Tanzania, mikoa husika imekuwa ikitajwa kutegemea shughuli inayofanyika kwa wakati huo.</seg>
+          <seg xml:id="seg8">Kwa mfano suala la uteuzi wa Makamanda wa Polisi katika Jamhuri ya Muungano wa Tanzania hujumuisha mikoa iliyopo Tanzania Zanzibar kwa kuwa suala hili ni la Muungano.</seg>
+          <seg xml:id="seg9">Kwa masuala yasiyo ya Muungano kwa mfano miradi ya kisekta Zanzibar hupatiwa mgao wake na jukumu la kugawa katika mikoa mitano ya Zanzibar linakua ni la Serikali ya Mapinduzi ya Zanzibar.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u3" who="Spika">
+          <seg xml:id="seg10">Swali la nyongeza Mheshimiwa Yahya Kassim Issa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u4" who="MheYahyaKassimIssa">
+          <seg xml:id="seg11">Mheshimiwa Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg12">Mheshimiwa Spika, kwa kuwa Zanzibar mara nyingi katika vitabu hata mnamo 2002 na kuendelea huorodheshwa katika Mikoa pamoja na Mikoa ya Tanzania Bara na wakati Zanzibar ina Mikoa yake na kwa ushahidi huo zaidi katika ukurasa wa 71 katika Hotuba ya Waziri wa Nchi, Menejimenti ya Utumishi imeingizwa hivyo hata hotuba ya Maendeleo ya Mifugo katika ukurasa wa 84/86 iliingizwa hivyo.</seg>
+          <seg xml:id="seg13">Je, Serikali haioni kuiorodhesha katika Mikoa ni kupotosha historia kwa kizazi kijacho kwa Zanzibar?</seg>
+          <seg xml:id="seg14">Pili, kwa kuwa historia ya maandishi ni kitu cha kudumu na kwa kizazi kijacho kinaweza kupata tafsiri kinyume na hali halisi ilivyo. Je, Serikali kwa vile vitabu ambavyo vimekwishaandikwa itafanya utaratibu gani ili kuondosha maandishi yale?</seg>
+          <seg xml:id="seg15">Je, Serikali iko tayari kuchoma vitabu vile?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u5" who="Spika">
+          <seg xml:id="seg16">Majibu Mheshimiwa Waziri wa Nchi, Ofisi ya Makamu wa Rais, Masuala ya Muungano.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u6" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoMheDrHusseinAliMwinyi">
+          <seg xml:id="seg17">Mheshimiwa Spika, napenda kujibu maswali mawili ya Mheshimiwa Yahya Kassim Issa kama ifuatavyo:</seg>
+          <seg xml:id="seg18">Mheshimiwa Spika, kama nilivyosema katika jibu langu la msingi ni kwamba Serikali inatambua fika kwamba Zanzibar ina Mikoa yake mitano kama nilivyoeleza na kwa maana hiyo kuingizwa vilevile nilisema katika jibu la msingi kwamba pengine hiyo ilifanyika kwa makosa na hali hiyo itarekebishwa kama nilivyomwahidi Mheshimiwa Mbunge.</seg>
+          <seg xml:id="seg19">Kuhusu suala hili la Maendeleo ya Mifugo ilikuwa ni mfano wa mradi, kulikuwa na ule mradi wa utafiti wa masuala haya ya kutokomeza mbung’o ambao ulifanyika Zanzibar. Kwa hiyo, baada ya kutajwa Mikoa iliyofanyika na Zanzibar kwa maana ya Mikoa ya Zanzibar kwa ujumla wake iliorodheshwa pale.</seg>
+          <seg xml:id="seg20">Kwa hiyo, si jambo ambalo limekusudiwa kuidhalilisha Zanzibar bali ni suala lililotolewa mfano kwamba ni mradi uliofanyika katika Mikoa ya Zanzibar vilevile.Kuhusu vitabu hivi, kama nilivyokwishasema, tunachosema ni kwamba kama kuna sehemu imefanyika makosa yatarekebishwa ili makosa hayo yasiendelee kuonekana katika vitabu vya Bajeti. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 15. Matumizi ya Nishati Zinazozidisha Uchafu wa Mazingira</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u7" who="MheZubeirAliMaulid">
+          <seg xml:id="seg21">Kwa kuwa, matumizi ya „Green House Gases“ yanazidisha uchafuzi wa Mazingira kwa kuongeza hewa chafu ya „Carbondioxide“ hewani ambayo inachangia kwa kiasi kikubwa kuongezeka kwa kina cha maji baharini, kuyeyusha barafu katika Bara la Arctic na Antarctic na kusababisha baadhi ya Visiwa kuzama na fukwe nyingi nzuri kupotea :-</seg>
+          <seg xml:id="seg22">Je, Serikali inasemaje juu ya kujiunga na juhudi zinazoanzishwa na baadhi ya mataifa katika kuokoa Mazingira yetu kwa kupunguza matumizi ya nishati hizo?</seg>
+          <seg xml:id="seg23">(MHE. PROF. MARK JAMES MWANDOSYA) alijibu:-</seg>
+          <seg xml:id="seg24">Mheshimiwa Spika, awali ya yote naomba kutoa salamu za rambirambi kwa familia ya Marehemu Salime J. Mbatia aliyefariki kwa ajali ya gari, Mwenyezi Mungu aiweke roho ya Marehemu Mahali Pema Peponi, Amin! Sasa naomba kujibu swali la Mheshimiwa Zubeir Ali Maulid, Mbunge wa Kwamtipura kama ifuatavyo :-</seg>
+          <seg xml:id="seg25">Greenhouse gases (GHGs) au kwa Kiswahili ni gesijoto ni fesi zinazochangia kuongeza joto la dunia kwa kuzuia mawimbi ya joto kurejea angani. Gesi hizi ni pamoja na hewamkaa yaani Carbondioxide (CO2) ; Methani (CH4); na Nitrous oxide (N20) angani. Matokeo yake, joto la dunia sasa linaongezeka na kusababisha mabadiliko katika mfumo wa hali ya hewa na tabianchi kwa ujumla.</seg>
+          <seg xml:id="seg26">Mheshimiwa Spika, ili kukabiliana na tatizo la mabadiliko ya tabianchi linalosababishwa na kuongezeka kwa gesi joto mwaka 1992, jumuiya ya kimataifa ilifikia makubaliano na kuanzisha Mkataba wa Umoja wa Mataifa wa Mabadiliko ya Tabianchi yaani (The United Nations Framework Convention on Climate Change (UNFCCC)). Mwaka 1997 jumuiya ya kimataifa ilianzisha Itifaki ya Kyoto ya Mkataba huu ili kuhakikisha utekelezaji wa upunguzaji wa gesijoto, hasa kwa nchi zilizoendelea ambazo ndizo zimesababisha tatizo hili. Kaw ujumla wao, nchi zilizoendelea zinatakiwa zipunguze utoaji wa gesijoto kwa kiwango cha wastani 5% ya kiwango cha mwaka 1990, ifikapo mwaka 2012. Tanzania iliridhia Mkataba mwaka 1996 na Itifaki mwaka 2002.</seg>
+          <seg xml:id="seg27">Mheshimiwa Spika, Utekelezaji wa Itifaki ya Kyoto katika kipindi cha kwanza utaisha mwaka 2012. Mkutano ujao wa Mataifa yaliyoridhia Mkataba na Itifaki ya Kyoto utafanyika Bali, Indonesia, Desemba, 2007 ambapo mazungumzo yataanza ili kuweka viwango vipya kwa nchi zilizoendelea na kuona jinsi nchi zinazoendelea zitakavyohusika na upunguzaji wa utoaji wa gesijoto.</seg>
+          <seg xml:id="seg28">Mheshimiwa Spika, wiki iliyopita nilipata heshima ya kuwa mmoja wa wawakilishi wa nchi zinazoendelea katika majadiliano na nchi muhimu zilizoendelea, yaliyofanyika Bogor, Indonesia ili kuangalia uwezekano wa kupunguza tofauti kati ya nchi zilizoendelea na zinazoendelea katika Mkutano wa Bali wa Mwezi Desemba, 2007.</seg>
+          <seg xml:id="seg29">Mheshimiwa Spika, kwa kumalizia naomba kuwashukuru sana wanachama wa Chama cha Mapinduzi na wananchi wa mkoa wa Mbeya kwa imani kubwa waliyonipa kuwa Mjumbe wa Halmashauri Kuu ya Taifa, nawashukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u8" who="Spika">
+          <seg xml:id="seg30">Mheshimiwa Spika naye anakupongeza kwa hatua hiyo uliyofikia. Swali la nyongeza Mheshimiwa Zubeir Ali Maulid.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u9" who="MheZubeirAliMaulid">
+          <seg xml:id="seg31">Mheshimiwa Spika, ahsante sana kwa kunipa fursa ya kuuliza swali dogo tu la nyongeza.</seg>
+          <seg xml:id="seg32">Mheshimiwa Spika, kwa kuwa matumizi ya magari ambayo tunayatumia yanachangia kwa kiasi kikubwa sana katika kuongeza hewa hii chafu ya carbondioxide katika mazingira yetu na baadhi ya nchi zilizoendelea kwa mfano nchi kama India wao wamepiga hatua zaidi kwa kuwa na emition control kuangalia viwango gani vya magari yaani yale magari yanayochafua mazingira wanajitahidi kwa kadri inavyowezekana kujaribu kuondoa tatizo hilo kwa kuyaondoa barabarani.</seg>
+          <seg xml:id="seg33">Je, sisi Tanzania tunafanya juhudi gani angalau tuanzie hapo kwa sababu kuna magari mengi sana ambayo yanachafua hewa lakini hawachukuliwi hatua yoyote na yapo barabarani?</seg>
+          <seg xml:id="seg34">WAZIRI WA NCHI, OFISI YA MAKAMU WA RAIS (MAZINGIRA) – (MHE. PROF. MARK JAMES MWANDOSYA) Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Zubeir Ali Maulid, Mbunge wa Kwamtipura, kama ifuatavyo:</seg>
+          <seg xml:id="seg35">Ni kweli matumizi ya Nishati kwa ujumla ndiyo yanayochangia kwa kiwango kikubwa kwa utoaji wa gesi joto hewani na kuleta ongezeko la joto duniani.</seg>
+          <seg xml:id="seg36">Ni kweli vilevile kwamba matumizi ya magari ni moja ya kile kinacholeta ongezeko kubwa la gesi hizi. Lakini naomba ieleweke kwamba ni mfumo mzima wa uchukuzi ambao una matatizo ikiwa ni pamoja na magari yenyewe, nikisema mfumo wa uchukuzi ni pamoja misululu ya magari, mpangilio wa Barabara, Mipango miji na kadhalika na vilevile kwa ujumla wake ni pamoja na uchukuzi wa anga na vilevile uchukuzi wa meli. Kwa hiyo, tunapoliangalia hili suala la magari tuliangalie katika upana huo.</seg>
+          <seg xml:id="seg37">Hata hivyo, juhudi za kupunguza utoaji gesi katika sekta ya uchukuzi kama unaweza ukasaidia au ikasaidia mara nyingi ni zile hatua za kiuchumi ambazo zinahusisha vilevile na ongezeko la kodi katika magari haya kwani ukiongezea kodi unapunguza magari hasa kodi kwa magari mabovu unapunguza sana utoaji wa gesi hewani.</seg>
+          <seg xml:id="seg38">Hii ni moja ya hatua ambazo nadhani utakumbuka kwamba mwaka jana Mheshimiwa Zakia Meghji, Waziri wa Fedha, alizitangaza hapa hapa Bungeni. Zilitangazwa kama vile ni hatua za kifedha lakini zinasaidia vilevile katika sekta ya mazingira.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u10" who="Spika">
+          <seg xml:id="seg39">Mheshimiwa Mohamed Habib Juma Mnyaa, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u11" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg40">Mheshimiwa Spika, ahsante. Kwa kuwa, kuna uhusiano mkubwa wa uchafuzi wa mazingira kwa kukata miti na kwa kuwa kuna vikundi vingi nchini ambavyo vinajishughulisha katika kupanda miti.</seg>
+          <seg xml:id="seg41">Je, Ofisi ya Waziri wa Nchi itajishughulisha vipi kwa hivi vikundi vinavyopanda miti kwa wingi kufaidika na hali hiyo?</seg>
+          <seg xml:id="seg42">WAZIRI WA NCHI, OFISI YA MAKAMU WA RAIS (MAZINGIRA) – (MHE. PROF. MARK JAMES MWANDOSYA) Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Mohamed Habib Juma Mnyaa, Mwanafunzi wangu ambaye nina hakika siku moja atanifuata upande huu kama ifuatavyo:-</seg>
+          <seg xml:id="seg43">Mheshimiwa Spika, ni kweli kwamba miti kwa ujumla na misitu inachangia kwa kiwango kikubwa kuchukua hewa ya gesi joto kutoka hewani na hivyo inasaidia kupunguza ongezeko la joto, hilo ni sahihi kabisa. Kwa maana hiyo, juhudi za kupanda miti zinaweza kuchukuwa kama ni juhudi za kitaifa za kupunguza ongezeko la joto duniani.</seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u12" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg44">Sasa nchini Tanzania tuna juhudi za kitaifa za hifadhi ya ardhi na vyanzo vya maji, katika mkakati huo kila Wilaya inatakiwa ipande kila mwaka miti isiyopungua milioni moja na laki tano. Juhudi zinatakiwa zifanywe na kila Wilaya katika kuotesha miche ya miti ili kuweza kusaidia katika jambo hili.</seg>
+          <seg xml:id="seg45">Lakini vilevile kuna mpango wa Clean Development Mechanism (CDM) ambao unasaidia nchi zinazoendelea kupunguza ongezeko la joto kwa kuzisaidia katika maendeleo endelevu na fedha au mtaji au raslimali ya kufanya hivyo inatokana na mkataba wa Kyoto kutoka nchi zilizoendelea.</seg>
+          <seg xml:id="seg46">Naamini siku moja katika mwaka huu au mwanzoni mwa mwaka kesho tutapata nafasi ya kutoa Semina kwa Waheshimiwa Wabunge kuhusu suala hili muhimu la Clean Development Mechanism (CDM).</seg>
+          <seg xml:id="seg47">Mheshimiwa Spika, nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 16. Gharama ya Matibabu Nje ya Nchi</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u13" who="MheSirajuJumaKaboyonga">
+          <seg xml:id="seg48">(a) Je, Serikali imetumia wastani wa shilingi ngapi kwa mwaka katika miaka mitatu (3) iliyopita kwa ajili ya gharama za matibabu ya Watanzania nje ya nchi na walipelekwa kwenye hospitali zipi na katika nchi gani?</seg>
+          <seg xml:id="seg49">(b) Je, Serikali ina mipango gani ya kupunguza au kuondokana kabisa na gharama hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u14" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg50">Mheshimiwa Spika, kwa niaba ya Waziri wa Afya na Ustawi wa Jamii, naomba kujibu swali la Mheshimiwa Siraju Juma Kaboyonga, Mbunge wa Tabora Mjini, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg51">(a) Mheshimiwa Spika, katika kipindi cha miaka mitatu iliyopita Wizara ilitumia jumla ya shilingi 4,523,451,640.93 kwa ajili ya matibabu ya wangojwa nje ya nchi. Mchanganuo wa matumizi ya fedha hizo ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg52">Mwaka 2003/2004 - Shilingi 1,218,817,074.14</seg>
+          <seg xml:id="seg53">Mwaka 2004/2005 - Shilingi 1,306,735,269.79</seg>
+          <seg xml:id="seg54">Mwaka 2005/2006 - Shilingi 1,997,899,297.50</seg>
+          <seg xml:id="seg55">Wagonjwa walitibiwa katika hospitali za Madras Medical Mission, Indraprastha, Apollo, Care na Mannipol Multispeciality nchini nchini India, Hospitali ya Millpark – Afrika Kusini, Kenya Hospitali – Nairobi na London Medical Diabetes ya Uingereza.</seg>
+          <seg xml:id="seg56">(b) Mheshimiwa Spika, takriban 75% ya wagonjwa wanaopewa rufaa ya kwenda kutibiwa nje ya nchi ni wale wenye matatizo ya moyo. Kwa kulitambua hilo, Wizara yangu imeandaa mpango wa kuanzisha huduma ya upasuaji wa moyo (Open heart Surgery) hapa nchini. Timu ya Wataalam 28 wa upasuaji wa moyo waliokuwa mafunzoni India na Israel tayari imekwisha rejea nchini.</seg>
+          <seg xml:id="seg57">Hivi sasa, Wizara inaendelea na taratibu za manunuzi ya vifaa tiba kwa ajili ya huduma hiyo. Ni matarajio yetu kuwa vifaa hivyo vitapatikana kabla ya mwezi Desemba, 2007.</seg>
+          <seg xml:id="seg58">Vyumba vya upasuaji wa moyo pamoja na na chumba cha wagonjwa wanaohitaji uangalizi wa hali ya juu (ICU) tayari vimekwishatengwa katika Taasisi ya Mifupa – Muhimbili (MOI)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u15" who="MheSirajuJumaKaboyonga">
+          <seg xml:id="seg59">Mheshimiwa Spika, pamoja na majibu mazuri kutoka kwa Naibu Waziri wa Afya naomba niulize maswali yafuatayo ya nyongeza.</seg>
+          <seg xml:id="seg60">Mheshimiwa Spika, uwekezaji katika hospitali ni uwekezaji mzuri sana kama alivyoanisha Mheshimiwa Waziri kwamba Taifa linatumia fedha kiasi cha bilioni 4 kwa ajili ya kuwapeleka wageni wetu nje.</seg>
+          <seg xml:id="seg61">Kwa hiyo, ni dhahiri kwamba kama tutajenga hospitali za rufaa kubwa hapa nchini taifa lita serve kiasi hicho na pengine zaidi kwa maana ya kuingiza fedha kutoka kwa wagonjwa wengine ambao watakuja kutibiwa hapa Tanzania.</seg>
+          <seg xml:id="seg62">Kwa mantiki hiyo, nauliza kwamba kwa nini Tanzania Heart Institute tunaambiwa ina uwezo wa kutibia magonjwa ya moyo hapa nchini kwa nini Serikali haiitumii hospitali hiyo na badala yake tunapeleka wagonjwa nje?</seg>
+          <seg xml:id="seg63">Pili, wagonjwa wanaopata niseme hiyo bahati ya kwenda nje ni sehemu gani ya wagonjwa wote ambao wanaomba au wanastahili kutibiwa nje lakini hawapati fursa hiyo ya kwenda nje?</seg>
+          <seg xml:id="seg64">Ni vigezo vipi vinavyotumika kuwapata hao wanaokwenda nje na kuwaacha wengine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u16" who="Spika">
+          <seg xml:id="seg65">Majibu Mheshimiwa Naibu Waziri, ingawa naona ameuliza maswali ya nyongeza matatu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u17" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg66">Mheshimiwa Spika, naomba kujibu maswali matatu ya nyongeza ya Mheshimiwa Siraju Juma Kaboyonga, kama ifuatavyo:</seg>
+          <seg xml:id="seg67">Mheshimiwa Spika, ni kweli kabisa kwamba tumetumia pesa nyingi kama nilivyosema na ni kweli kabisa kwamba tunahitaji uwekezaji mzuri.</seg>
+          <seg xml:id="seg68">Tanzania Heart Institute ni hospitali ambayo na yenyewe iko katika harakati za kukamilisha taratibu za kuweza kufanya upasuaji wa moyo, sasa hivi Serikali siyo kwamba hatuitumii lakini ni kwamba bado Tanzania Heart Institute ingawa imeanza kupasua watu wachache bado haijakidhi kwa sababu haina watalaam wa kutosha ambao ni full time wapo pale katika hospitali ya Tanzania Heart Institute kwa maana hiyo, ndiyo maana wagonjwa wengine tunawapeleka nje kwenda kutibia matatizo haya ya moyo.</seg>
+          <seg xml:id="seg69">Mheshimiwa Spika, lakini napenda kuliambia Bunge lako Tukufu kwamba Serikali katika kuwekeza na katika mpango wetu wa maendeleo ya Afya ya Msingi na kwa kuzingatia kwamba tulisema tutaboresha katika program yetu tutakuwa tuna hospitali za rufaa katika kila mkoa.</seg>
+          <seg xml:id="seg70">Lakini katika kila kanda tutakuwa na hospitali ambayo ni speciality ni matumaini yetu kwamba tutakapofikia wakati huo tutaweza kuhakikisha kwamba huduma hizi zinapatikana katika baadhi ya hospitali ambazo zina speciality ili kuweza kufanya upasuaji wa moyo na hivyo kupunguza gharama ambazo tunazitumia kwenda nje.</seg>
+          <seg xml:id="seg71">Sehemu ya wagonjwa ambao wanapata nafasi ya kwenda kutibiwa nje ya nchi ukilinganisha na mahitaji kwa kweli bado ni ndogo kutokana na ufinyu wa Bajeti tuliyokuwa nayo na wengi wanakuwepo siwezi kusema ni asilimia ngapi lakini naweza kusema kwamba ni ndogo inaweza kuwa ni moja ya tatu tu ndiyo wanaweza kupata nafasi ya kwenda kule.</seg>
+          <seg xml:id="seg72">Vigezo vinavyotumika ni kwamba mgonjwa anaona katika hospitali za rufaa katika kila sehemu wanayotoka, bodi ya watalaam inakaa na kujadili na wao wakileta mapendekezo yao Wizara ya Afya wanaleta pale ikifika Wizarani kuna Kamati inakaa na kuanza kupitia yale maombi na wakati huohuo yanawekwa kwa priority kwamba wale ambao wana mahitaji yao makubwa na ya haraka zaidi wanapata priority ya kwenda na wengine wanaendelea kusubiria na ikijitokeza wale wanaosubiria kuna mwingine ambaye hali yake ni mbaya zaidi basi anapangiwa kusafiri ili kuweza kupata huduma za haraka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u18" who="Spika">
+          <seg xml:id="seg73">Swali la mwisho la nyongeza linaulizwa na Mheshimiwa Dr. Chrisant Majiyatanga Mzindakaya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u19" who="MheDrChrisantMajiyatangaMzindakaya">
+          <seg xml:id="seg74">Mheshimiwa Spika, ninapenda kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg75">Je, Mheshimiwa Waziri atakubaliana nami kwamba Tanzania sasa tunao madaktari wazuri na waaminifu na wana uwezo mkubwa lakini hawana vifaa vya kufanyia kazi siyo kwa magonjwa hayo ya moyo tu, lakini hata magonjwa mengine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u20" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg76">Mheshimiwa Spika, naomba kujibu swali la nyongeza la Mheshimiwa Dr. Chrisant Majiyatanga Mzindakaya, kama ifuatavyo:</seg>
+          <seg xml:id="seg77">Nakubaliana na yeye kabisa kwamba Tanzania tunao wataalamu ambao wanaweza kufanya makubwa ikiwemo upasuaji lakini wanakosa vifaa. Kama nilivyojibu katika jibu langu la msingi kwa kuanzia nimesema kwamba sasa hivi Serikali katika harakati za kununua vifaa tiba ili kuweza kuhakikisha kwamba inaweza kufungua ile taasisi ya upasuaji wa moyo pale MOI.</seg>
+          <seg xml:id="seg78">Lakini si hivyo tu Serikali inaendelea kununua vifaa na kupeleka katika maeneo husika kwa kadri ya Bajeti yetu itakavyokuwa inaturuhusu kuwawezesha wale wataalamu wetu kuweza kuvitumia na kutoa huduma inayotakiwa.</seg>
+        </u>
+        <note>Na. 17. Mfumuko wa Bei na Bidhaa</note>
+        <note>(K.n.y. MHE. VITA R. KAWAWA</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u21" who="MheEzekielMagolyoMaige">
+          <seg xml:id="seg79">Kwa kuwa mara baada ya Bajeti ya Serikali ya mwaka 2007/2008 kumetokea mfumuko wa bei za bidhaa za madukani, hasa katika maeneo ya vijijini ambako wananchi wengi wanaishi.</seg>
+          <seg xml:id="seg80">Je, Serikali inatambua hali hiyo na inachukua hatua gani kuidhibiti ili mwananchi wa kawaida asiendelee kuathirika kiuchumi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u22" who="NaibuWaziriWaFedhaMheMustafaHaidiMkulo">
+          <seg xml:id="seg81">Mheshimiwa Spika, kwa niaba ya Waziri wa Fedha napenda kujibu swali la Mheshimiwa Vita R. Kawawa, Mbunge wa Namtumbo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg82">Mheshimiwa Spika, Serikali inatambua kuhusu ongezeko la bei mara baada ya Bajeti ya mwaka 2007/2008 kutangazwa mwezi Juni, 2007. Ongezeko hili lilisababishwa kwa kiasi kikubwa na kuongezeka kwa bei za vyakula.</seg>
+          <seg xml:id="seg83">Hii ni kwa sababu matumizi ya chakula yanachukua wastani wa asilimia 55.9 ya matumizi yote ya Mtanzania hivyo kupanda kwa bei zake kunaathiri utulivu wa bei nchini.</seg>
+          <seg xml:id="seg84">Mheshimiwa Spika, pamoja na ongezeko la bei za vyakula, ongezkeo la bei baada ya Bajeti ya Serikali limechangiwa pia na:-</seg>
+          <seg xml:id="seg85">(i) Kuongezeka kwa gharama za usafiri na usafirishaji kutokana na ongezeko la</seg>
+          <seg xml:id="seg86">bei ya mafuta kulisababisha wafanyabiashara kupandisha bei za bidhaa na</seg>
+          <seg xml:id="seg87">huduma.</seg>
+          <seg xml:id="seg88">(ii) Taarifa ya nia ya Serikali kuboresha maslahi ya watumishi wake iliyotolewa</seg>
+          <seg xml:id="seg89">wakati wa bajeti ya Serikali ilisababisha wafanyabiashara wengi kuongeza bei</seg>
+          <seg xml:id="seg90">za bidhaa na huduma kwa kutambua kuwa kipato cha wafanyakazi</seg>
+          <seg xml:id="seg91">kitaongezeka.</seg>
+          <seg xml:id="seg92">(iii) Kushuka kwa thamani ya shilingi kulisababisha pia mfumuko wa bei kutokana</seg>
+          <seg xml:id="seg93">na kuongezeka kwa bei ya malighafi na bidhaa zinazoagizwa kutoka nje ya</seg>
+          <seg xml:id="seg94">nchi.</seg>
+          <seg xml:id="seg95">(iv) Ongezeko la ujazi wa fedha kwenye uchumi usioenenda na ukuaji wa uchumi</seg>
+          <seg xml:id="seg96">ulisababisha pia ongezeko la bei za bidhaa na huduma.</seg>
+          <seg xml:id="seg97">Mheshimiwa Spika, Serikali inatambua athari ambazo wananchi wanapata kutokana na kuwepo kwa mfumuko wa bei.</seg>
+          <seg xml:id="seg98">Pia mfumuko wa bei wa kiwango kidogo ni kigezo muhimu cha utulivu wa uchumi (Macroeconomic stability) ambao ni muhimu kwa ajili ya maendeleo ya</seg>
+          <seg xml:id="seg99">kiuchumi na jamii kwa ujumla. Kwa sababu hizo, Serikali wakati wote inafuatilia kwa makini mwenendo wa mfumo wa bei ili kuchukua hatua muafaka kudhibiti hali hiyo.</seg>
+          <seg xml:id="seg100">Mheshimiwa Spika, hatua hizo ni pamoja na zifuatazo:-</seg>
+          <seg xml:id="seg101">(i) Serikali kuamua kutokukopa kwa kutumia dhamana za Serikali ili</seg>
+          <seg xml:id="seg102">kuipunguzia Serikali gharama za mauzo ya dhamana zake na kushusha riba</seg>
+          <seg xml:id="seg103">inayotozwa na mabenki.</seg>
+          <seg xml:id="seg104">(ii) Serikali iko kwenye maandalizi ya kutekeleza zoezi la kuhamisha akiba za</seg>
+          <seg xml:id="seg105">Serikali kutoka kwenye mabenki ya biashara kwenda Benki Kuu ikiwa ni njia</seg>
+          <seg xml:id="seg106">mojawapo ya kudhibiti ujazi wa fedha ambao pia huchochea ongezeko la</seg>
+          <seg xml:id="seg107">mfumuko wa bei.</seg>
+          <seg xml:id="seg108">(iii) Serikali imeongezea Mamlaka ya Udhibiti wa Nishati na Maji (EWURA)</seg>
+          <seg xml:id="seg109">uwezo wa kisheria wa kudhibiti ongezeko holela la bei ya mafuta pamoja na</seg>
+          <seg xml:id="seg110">kusimamia mwenendo, upatikanaji, usambazaji na uuzaji wa mafuta nchini.</seg>
+          <seg xml:id="seg111">(iv) Mamlaka ya Usafirishaji Majini na Nchi kavu (SUMATRA) inafuatilia na</seg>
+          <seg xml:id="seg112">kusimamia kwa karibu zaidi nauli za usafiri na usafirishaji ili kuhakikisha</seg>
+          <seg xml:id="seg113">nauli hazipandi kiholela.</seg>
+          <seg xml:id="seg114">(v) Kuhakikisha ujazi wa fedha kwenye uchumi unakua sawia na ukuaji wa</seg>
+          <seg xml:id="seg115">shughuli za kiuchumi.</seg>
+          <seg xml:id="seg116">(vi) Kuendelea kuchukua hatua mbalimbali zinazolenga kuongeza tija kwenye</seg>
+          <seg xml:id="seg117">kilimo ikiwa ni pamoja na kuhakikisha upatikanaji wa mbolea, mbegu za</seg>
+          <seg xml:id="seg118">kilimo kwa wakati na kuwepo kwa wataalam wa kilimo.</seg>
+          <seg xml:id="seg119">(vii) Kuendelea kuboresha miundombinu ili kurahisisha usambazaji wa pembejeo</seg>
+          <seg xml:id="seg120">na mazao ya kilimo pamoja na bidhaa nyingine ili kupunguza gharama za</seg>
+          <seg xml:id="seg121">usafirishaji ambao zinachangia kuwepo kwa mfumuko wa bei.</seg>
+          <seg xml:id="seg122">(viii) Serikali pia imekuwa ikichukua hatua za dharura kudhibiti bei ya bidhaa</seg>
+          <seg xml:id="seg123">muhimu kama sementi kwa kudhibiti uuzaji wake nje ya nchi na kushawishi</seg>
+          <seg xml:id="seg124">wafanyabiashara kuagiza bidhaa hizo nje ya nchi ili kuboresha na kuongeza</seg>
+          <seg xml:id="seg125">upatikanaji wake.</seg>
+          <seg xml:id="seg126">Mheshimiwa Spika, ni matumaini ya Serikali kuwa hatua hizi zitawezsha kudhibiti mfumuko wa bei nchini na kuendeleza hali ya utulivu wa uchumi ambao ni muhimu kwa ajili ya maendeleo ya kiuchumi na jamii kwa ujumla.</seg>
+          <seg xml:id="seg127">Serikali itaendelea kuratibu kwa karibu zaidi mwenendo wa ongezeko la bei ili kudhibiti mfumuko wa bei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u23" who="MheEzekielMMaige">
+          <seg xml:id="seg128">Mheshimiwa Spika, naomba kumshukuru sana Mheshimiwa Naibu Waziri kwa majibu yake mazuri na fasaha. Lakini nina maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg129">La kwanza, kwa kuwa katika jibu lake Mheshimiwa Naibu Waziri amekiri kwamba moja ya sababu zinazosababisha mfumuko wa bei ni ongezeko wa ujazo wa fedha katika mzunguko au katika mfumo mzima wa uchumi. Je, Serikali ina mkakati gani wa kuongeza productivity katika bidhaa na hasa kwenye Sekta ya Kilimo ili kuongeza uzalishaji wa bidhaa zitazoendana na ongezeko la usambazaji wa fedha kwenye mzunguko wa uchumi?</seg>
+          <seg xml:id="seg130">La pili, kwa kuwa jitihada mojawapo inayofanyika na Serikali ya kudhibiti mfumuko huu ni pamoja na kuimarisha vyombo vya udhibiti kama EWURA na SUMATRA. Lakini bahati mbaya sana vyombo hivi naweza kusema ni vyombo ambavyo vipo Dar es Salaam. Kwa sababu katika maeneo ya Mikoani hakuna vyombo hivi, kwa maana hiyo, bei hazina udhibiti.</seg>
+          <seg xml:id="seg131">Je, Serikali ina mkakati gani wa kuwa na mtandao wa hivi vyombo kama SUMATRA na EWURA katika Mikoa na hasa kwenye Jiji tarajiwa la Kahama ambapo kwa kweli bei inaongezeka kila kukicha? Nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u24" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg132">Mheshimiwa Spika, kwanza kuhusu ujazo wa fedha kwenye kilimo tuna mpango maalum wa ESDP ambapo nina uhakika na ninakumbuka hapa Bungeni kulitolewa Semina na tunategemea kwamba kwa kweli kilimo kitakuwa improved.</seg>
+          <seg xml:id="seg133">Kuhusu EWURA na SUMATRA kuwepo Dar es Salaam peke yake si kweli. Hivi vyombo vipo Mikoani kama Mheshimiwa Mbunge ameangalia Televisheni juzi Mkoa wangu wa Morogoro SUMATRA ya Kanda waliweza kudhibiti bei pale, wakapunguza bei kutoka shilingi 12,000 kati ya Wilaya na Wilaya na kuifanya isizidi shilingi 7,000. Kwa hiyo, kama Mwanza hakuna au Shinyanga hakuna, nafikiri tuzungumze tu ili na wao pia waweze kupelekewa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u25" who="Spika">
+          <seg xml:id="seg134">Waheshimiwa Wabunge, kuna majibu ya ziada ya Mheshimiwa Naibu Waziri wa Miundombinu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u26" who="NaibuWaziriWaMiundombinuMheDrMauaADaftari">
+          <seg xml:id="seg135">Mheshimiwa Spika, napenda kumhakikishia Mheshimiwa Mbunge kwamba Mwanza ipo SUMATRA tumeishafungua Tawi pale. Kwa hiyo, kama ana malalamiko apeleke tu pale.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u27" who="Spika">
+          <seg xml:id="seg136">Nadhani Mwanza ndiyo Kanda hiyo na Shinyanga inahudumiwa kutoka Mwanza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u28" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg137">Mheshimiwa Spika, nashukuru kwa kunipa nafasi ya kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg138">Mheshimiwa Spika, kwa kuwa wafanyabiashara wengi wametumia nafasi ya mfumuko wa bei kwa kujineemesha wakati hali ya wananchi inaendelea kuwa mbaya kiasi kwamba ukienda labda kwenye Supermarket zilizopo kwenye line moja, unakuta mfanyabiashara huyu hapa anauza labda kitu shilingi 10,000/= wakati mwenzake anauza kwa shilingi 15,000/= na mwingine anauza shilingi 17,000/= wakati wapo kwenye line ile ile moja na kwa kuwa Serikali ina mpango mzuri inavyosema kuhakikisha kwamba inaboresha maisha ya wananchi. Lakini hali imezidi kuwa mbaya. Wananchi wengi wanashindwa kununua sukari kilo shilingi 1,300/= na sementi mfuko mmoja shilingi 16,000 au 17,000.</seg>
+          <seg xml:id="seg139">Mheshimiwa Naibu Waziri amesema kwamba kuna vyombo vinavyofuatilia. Je, Serikali inafuatilia namna gani kwa karibu zaidi kuhakikisha kwamba vyombo hivyo kweli vinawafuatilia wafanyabiashara; kwa kuwa sasa hivi wanaofaidika ni wafanyabiashara wakati wananchi wanaendelea kunyanyasika na wengi wao wamekata tamaa ya maisha. Naomba Mheshimiwa Naibu Waziri atupe majibu ya kuridhisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u29" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg140">Mheshimiwa Spika, Serikali inafuatilia kwa karibu. Kwanza, baada ya kutangaza Bajeti mwezi Juni, 2007 bei ya petroli ilipanda kati ya shilingi 1,500 mpaka shilingi 1,900 kwa lita. Baada ya Serikali kufuatilia sasa hivi bei imepungua ipo kati ya shilingi 1,340 mpaka shilingi 1,550. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u30" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg141">Kuhusu sementi nafikiri mlimsikiliza Mheshimiwa Waziri wa Viwanda, Biashara na Masoko hivi karibuni alitangaza bei ya sementi. Kwanza, bei imepunguzwa kutoka shilingi 17,000/= mpaka shilingi 20,000/=. Kwa Dar es Salaam mfuko wa sementi shilingi 11,000/= na mfuko wa sementi Mikaoni usizidi shilingi 16,000/=. Kwa hiyo, hiyo imefuatiliwa. EWURA wameishaanza kuonyesha meno.</seg>
+          <seg xml:id="seg142">SUMATRA kama alivyosema Naibu Waziri wa Miundombinu ame-confirm kwamba inafanya kazi. Kwa hiyo, nadhani kwa sababu ni kweli wafanyabiashara walifanya walichokifanya na mfanyabiashara kazi yake ni kupata faida na kuchukua mwanya wowote ule ili aweze kupata faida. Lakini kwa sababu Serikali nayo imeanza kufanya kazi yake nadhani tuvute subira, tuta-control situation.</seg>
+        </u>
+        <note>Na. 18. Makato ya Askari Polisi kwa Ajili ya Mfuko wa PSPF</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u31" who="MheBensonMMpesya">
+          <seg xml:id="seg143">Kwa kuwa baadhi ya Askari Polisi waliojiunga na Mfuko wa PSPF na makato yao kupelekwa huko Jijini Mbeya hawajalipwa mafao yao mpaka sasa baada ya kustaafu:-</seg>
+          <seg xml:id="seg144">(a) Je, ni lini Serikali itaondoa kero hiyo kwa Askari wote wastaafu ndani ya nchi hii ambao makato yao yalipelekwa kwenye Mfuko huo?</seg>
+          <seg xml:id="seg145">(b) Je ni nini chanzo cha usumbufu huo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u32" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg146">Mheshimiwa Spika, kwa niaba ya Waziri wa Fedha, napenda kujibu swali la Mheshimiwa Benson Mpesya, Mbunge wa Mbeya Mjini, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg147">(a) Mheshimiwa Spika, ni kweli kuwa baadhi ya Askari Polisi walijiunga na Mfuko wa PSPF, na makato yao kupelekwa kwenye mfuko huu ambao ulianzishwa mwaka 1999. Kwa mujibu wa Sheria iliyaonzisha mfuko huu, sheria ya mafao ya hitimisho la kazi kwa watumishi wa umma Na. 2 ya mwaka 1999, mfuko ulikuwa na kipindi cha mpito cha miaka mitano (5) hadi Juni, mwaka 2004 kabla ya kuanza kulipa mafao.</seg>
+          <seg xml:id="seg148">Katika kipindi hicho Wizara ya Fedha ndiyo ilikuwa na jukumu la kulipa mafao kwa watumishi wote wa Serikali Kuu. Mfuko wa PSPF haukuwajibika kufanya malipo ya aina yoyote kwa watumishi wote waliostaafu katika kipindi hicho.</seg>
+          <seg xml:id="seg149">Hivyo, watumishi waliostaafu wakati huo michango yao(5% ya mshahara wa kila mwezi) ilijumuisha katika kiinua mgongo walicholipwa na Wizara ya Fedha na malipo ya kila mwezi ambayo wanaendelea kupokea hadi sasa. Kwa hivi sasa Askari wote wanaostaafu hulipwa mafao yao mara moja isipokuwa pale ambapo taratibu za ulipaji mafao hazijakamilishwa. Mfuko unachukua hatua ya kuhakikisha kuwa kumbukumbu zote muhimu zinapatikana kabla mtumishi hajastaafu ili kuondoa usumbufu.</seg>
+          <seg xml:id="seg150">(b) Mheshimiwa Spika, chanzo cha wastaafu husika kuona kwamba wanasumbuliwa ni kutopata maelezo ya kina kuhusu utekelezaji wa sheria iliyoanzisha PSPF. Askari wastaafu wa Mbeya walikwishafahamishwa kwa barua yenye Kumbukumbu Na. PSPF/PB26/212/02/568 ya tarehe 24 Agosti, 2005 ambapo walipewa ufafanuzi kama nilivyosema katika kipengele (a) ni matarajio ya mfuko kuwa wastaafu hao wameelewa na kama bado, mfuko pamoja Wizara tutakuwa tayari kutoa maelezo zaidi ili wananachi hao waweze kuelewa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u33" who="MheBensonMMpesya">
+          <seg xml:id="seg151">Mheshimiwa Spika, kwanza nashukuru kwa majibu mazuri ya Mheshimiwa Naibu Waziri. Ninaomba niulize swali moja ndogo la nyongeza. Pamoja na matatizo mengi waliyopata na usumbufu waliopata Maaskari hao.</seg>
+          <seg xml:id="seg152">Je, Serikali itafanya utaratibu gani kwa Mifuko hiyo kutoa elimu ya kutosha kabla ya kuanza makato kwa wanachama ili kuepuka usumbufu siku za usoni?</seg>
+          <seg xml:id="seg153">Spika, Wizara pamoja na Mfuko PSPF tumeandaa Semina na tutapeleka Semina karibu kila Mkoa kwa wanachama wote kwa ujumla lakini pia na Askari Magereza, Askari Polisi na Askari wengine. Ni matumaini yangu kwamba ifikapo mwezi Juni, 2008 tutakuwa tumewafikia wote ili waweze kuelewa maudhui yaliyomo katika Sheria ya PSPF.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u34" who="MheHafidhATahir">
+          <seg xml:id="seg154">Mheshimiwa Spika, kwanza namshukuru sana Mheshimiwa Naibu Waziri kwa majibu yake katika swali la msingi.</seg>
+          <seg xml:id="seg155">Mheshimiwa Spika, Bunge lako hili Tukufu tutakuwa shahidi kuhusu utaratibu huu na matatizo wanayoyapata Askari Polisi pale wanapostaafu. Mheshimiwa Naibu Waziri anaweza kuniambia hasa tatizo lipo wapi. Kwa sababu Askari Polisi anapoajiriwa inajulikana tarehe yake ya kuajiriwa na tarehe yake ya kustaafu inajulikana mapema. Sasa tatizo lipo wapi.</seg>
+          <seg xml:id="seg156">Je, watendaji ni wabovu au kuna dosari wapi katika kuwatekelezea Askari Polisi hao mafao yao ya kustaafu ili kuwapunguzia shida za maisha pale zinapowakabili. Sasa tatizo liko wapi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u35" who="NaibuWaziriWaFedhaMheMustafaHMkulo">
+          <seg xml:id="seg157">Mheshimiwa Spika, tatizo kubwa ni kwamba tulibadilisha mfumo. Kabla ya mwaka 1999 hakukuwa na Mfuko wa Pensheni ni Serikali yenyewe ndiyo ilikuwa ikishughulikia na kulikuwa hakuna makato yoyote kwa wafanyakazi. Kuanzia 1999 tukaunda Shirika la PSPF ili Shirika hili liweze kuwa na fedha ilibidi lipewa kipindi cha miaka mitano cha kujitayarisha.</seg>
+          <seg xml:id="seg158">Katika kipindi kile cha miaka mitano cha kujitayarisha Serikali Kuu yaani Hazina ilikuwa ikilipa. Sasa lililokuwepo ni wale Askari wanaohusika kueleweshwa walitakiwa wafanye nini. Sasa hivi tumeishaandaa utaratibu na kama nilivyosema tutawaelimisha Askari wote katika nchi nzima pamoja wastaafu wengine ili ifikapo mwezi Juni, 2008 tuweze kuwa tumewasaidia kuelewa jinsi ya kupata pensheni zao.</seg>
+          <seg xml:id="seg159">Chombo Kinachowahukumu Majaji/ Mahakimu</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u36" who="MheKhadijaSalehNgozi">
+          <seg xml:id="seg160">Kwa kuwa, Polisi anapofanya makosa hushtakiwa na kuhukumiwa kama mwananchi mwingine wa kawaida:-</seg>
+          <seg xml:id="seg161">(a) Je, Hakimu au Jaji akifanya kosa, ni chombo gani kinachomdhibiti?</seg>
+          <seg xml:id="seg162">(b) Je, ni Mahakimu na Majaji wa ngazi zipi wameshapatikana na makosa na kuhukumiwa, na ni kwa makosa gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u37" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg163">Mheshimiwa Spika, naomba kujibu swali la Mheshimiwa Khadija Saleh Ngozi, Mbunge wa Kuteuliwa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg164">(a) Mheshimiwa Spika, Jaji au Hakimu akifanya kosa la jinai hushitakiwa na kuhukumiwa kama mwananchi wa kawaida kutegemeana na kosa alilotenda. Makosa ya kinidhamu ama ukiukwaji wa maadili ya kazi ya Uhakimu hushughulikiwa na Tume ya Utumishi wa Mahakama iliyoundwa chini ya Sheria Na. 2 ya mwaka 2005 (The Judiciary Service Act) ambayo ndiyo yenye uamuzi wa mwisho.</seg>
+          <seg xml:id="seg165">Lakini pia kuna vyombo vingine chini ya Sheria hiyo ambayo huanza kushughulikia mashitaka hayo kabla ya kufikishwa kwenye Tume kwa maamuzi ya mwisho. Vyombo hivyo ni:-</seg>
+          <seg xml:id="seg166">(i) Kamati ya Nidhamu inayowahusu Maafisa wa Mahakama and</seg>
+          <seg xml:id="seg167">Judiciary Officers Ethics Committee)</seg>
+          <seg xml:id="seg168">(ii) Kamati za Mahakama za Mikoa;</seg>
+          <seg xml:id="seg169">(iii) Kamati za Mahakama za Wilaya; na</seg>
+          <seg xml:id="seg170">(iv) Majaji hushughulikia chini ya utaratibu maalum uliowekwa na Katiba</seg>
+          <seg xml:id="seg171">chini ya Ibara</seg>
+          <seg xml:id="seg172">110 (a).</seg>
+          <seg xml:id="seg173">(b) Mheshimiwa Spika, kwa kipindi cha miaka mitatu iliyopita hakuna Jaji aliyekwishapatikana na makosa na kuhukumiwa na Tume kwa kosa lolote. Aidha, jumla ya Mahakimu 29 wa ngazi mbalimbali waliadhibiwa kwa makosa ya kinidhamu</seg>
+          <seg xml:id="seg174">(i) Jumla Mahakimu Wakazi watatu (3) na kati ya hao mmoja alifukuzwa</seg>
+          <seg xml:id="seg175">na wawili walionywa.</seg>
+          <seg xml:id="seg176">(ii) Hakimu mmoja wa Wilaya alifukuzwa mwaka 2006.</seg>
+          <seg xml:id="seg177">(iii) Jumla ya Mahakimu wa Mahakama za Mwanzo 25 na kati ya hao 21</seg>
+          <seg xml:id="seg178">walifukuzwa (mwaka 2005 watano, 2006 watano na 2007 kumi na moja),</seg>
+          <seg xml:id="seg179">na wanne walionywa (2006 wawili na 2007 wawili).</seg>
+        </u>
+        <note>Na. 20. Kuweka Vinasa Sauti katika Mahakama</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u38" who="MheIddMohamedAzzan">
+          <seg xml:id="seg180">Kwa kuwa, kuna msongamano na ucheleweshaji wa kesi kwenye Mahakama za Mikoa na Mahakama Kuu; na kwa kuwa, hizi ni zama za Sayansi na Teknolojia na bado Majaji na Mahakimu bado wanatumia kalamu kuandikia maelezo ya mashahidi, washitakiwa na kadhalika:-</seg>
+          <seg xml:id="seg181">Je, Serikali haioni kuwa, umefika wakati wa kuweka vinasa sauti au Hansard Mashines ili kurahisisha utendaji kazi wa Mahakama?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u39" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg182">Mheshimiwa Spika, kabla sijajibu swali la Mheshimiwa Idd M. Azzan Mbunge wa Kinondoni, naomba kutoa maelezo ya utangulizi kama ifuatavyo:-</seg>
+          <seg xml:id="seg183">Mheshimiwa Spika, Serikali imeendelea kuchukua hatua kadhaa kwa ajili ya kuharakisha usikilizaji wa kesi, migogoro na mashauri ili kupunguza msongamano wa ucheleweshaji wa kesi katika Mahakama za ngazi zote.</seg>
+          <seg xml:id="seg184">Hatua hizo ni pamoja na kuongeza idadi ya watendaji katika utoaji haki, ambapo umefanyika uteuzi wa majaji 23, wawili wakiwa wa Mahakama ya Rufani na 21 wa Mahakama Kuu. Uteuzi huu wa idadi kubwa ya majaji, ambao haujawahi kufanywa tangu uhuru, utaongeza kasi ya usikilizaji kesi kwa kuwa na idadi ya vikao vipatavyo 102 badala 88 kwa mwaka na hivyo kupunguza mlundiko wa kesi na msongamano wa mahabusu na wafungwa.</seg>
+          <seg xml:id="seg185">Sambamba na hali hiyo vitendea kazi, vikiwemo vifaa vya kisasa kama vile vinasa sauti, kompyuta, na kadhalika, vitaendelea kuboreshwa kadri uwezo wa kifedha wa Serikali utakavyoruhusu ili kuendana na zama za Sayansi na Teknolojia.</seg>
+          <seg xml:id="seg186">Mheshimiwa Spika, sasa baada ya maelezo hayo, naomba kujibu swali la Mheshimiwa Idd Azzan, Mbunge wa Kinondoni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg187">Ninakubaliana kabisa na Mheshimiwa Mbunge kwamba wakati wa kuweka vinasa sauti au Hansard Mashines ili kurahisisha utendaji kazi Mahakamani umefika.</seg>
+          <seg xml:id="seg188">Hata hivyo, kwa kutambua hilo Mahakama ya Tanzania imeanza taratibu za awali za uwekaji wa vifaa vya kunasia sauti katika Mahakama ya Rufani, mpango huu utakapofanikiwa utawezesha kufanyika katika Mahakama za ngazi zote kwa kadri uwezo wa kifedha wa Serikali utakavyokuwa umeruhusu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u40" who="MheIddMAzzan">
+          <seg xml:id="seg189">Mheshimiwa Spika, pamoja na majibu mazuri sana ya Mheshimiwa Naibu Waziri, ninayo maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg190">(a) Kwa kuwa, Mahakama ya Tanzania imeanzisha taratibu za kuweka vifaa hivyo katika Mahakama ya Rufani. Ningependa kufahamu lini taratibu hizo zitakamilika na vifaa hivyo kuanza kutumika katika Mahakama ya Rufani?</seg>
+          <seg xml:id="seg191">(b) Kwa kuwa, Mahakama nyingi za Mikoa na Wilaya hazina kompyuta ama kompyuta zilizopo ni chache kwa ajili ya kuweka kumbukumbu na mambo mengine.</seg>
+          <seg xml:id="seg192">Je, ni lini Mahakama hizo za Mikoa na Wilaya zitapatiwa vifaa hivyo vya kompyuta ili ziweze kwenda na zama hizi za Sayansi na Teknolojia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u41" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg193">Mheshimiwa Spika, utaratibu umeanza wa kuweka vifaa vya kunasa sauti katika Mahakama ya Rufaa, na tunategemea katika mwaka huu wa fedha kazi hiyo itakuwa imekamilika.</seg>
+          <seg xml:id="seg194">Mheshimiwa Spika, kuhusu ni lini kompyuta zitawekwa katika Mahakama zetu za Mikoa na Wilaya. Ni kweli tunahitaji kuweka kompyuta katika Mahakama zetu ili kurahisisha kazi. Zoezi hili tutalianza, lakini kama nilivyosema mwanzo tunategemea upatikanaji wa fedha, na ni zoezi ambalo linahitaji kubadilisha miundombinu ya Mahakama kabla hata hatujaweka hizo kompyuta. Kwa hiyo, jinsi fedha zinavyopatikana ndivyo zoezi hili litakuwa linaendeshwa kwa kasi. Nashukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 21. Adhabu Zitolewazo kwa Wahalifu</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u42" who="MheJanethMMassaburi">
+          <seg xml:id="seg195">Kwa kuwa, Mahakama nyingi nchini hutoa adhabu za kifungo na faini kwa wahalifu wa makosa mbalimbali; na kwa kuwa, makosa yenyewe hutofautiana kwa ukubwa:-</seg>
+          <seg xml:id="seg196">(a) Je, Serikali haioni kuwa, kuna haja ya kutoa adhabu ya kifungo cha nje</seg>
+          <seg xml:id="seg197">kwa watuhumiwa wenye makosa madogo madogo ili wafanye kazi za</seg>
+          <seg xml:id="seg198">kijamii kama usafi wa mazingira na upandaji miti?</seg>
+          <seg xml:id="seg199">(b) Je, Serikali haioni kuwa, kwa kumfunga kila mhalifu ni kuongeza</seg>
+          <seg xml:id="seg200">mlundikano wa wafungwa na kuiongezea Serikali mzigo mkubwa wa</seg>
+          <seg xml:id="seg201">kulisha wafungwa Magerezani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u43" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg202">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Katiba na Sheria, naomba kujibu swali la Mheshimiwa Janeth Massaburi, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg203">Kwa kuwa, kuna msongamano na ucheleweshaji wa kesi kwenye Mahakama za Mikoa na Mahakama Kuu na kwa kuwa, hizi ni zama za Sayansi na Teknolojia na bado Majaji na Mahakimu bado wanatumia kalamu kuandikia maelezo ya mashahidi, washitakiwa na kadhalika:-</seg>
+          <seg xml:id="seg204">(a) Mheshimiwa Spika, adhabu za makosa mbalimballi hutofautiana kwa kuzingatia uzito na unyeti wa kosa lililotendwa na mhalifu. Hivyo kwa kuzingatia hali ya magereza yetu na kuzuia kuwaweka ndani wahalifu wa mkaosa ya vifungo vifupi hasa vile visivyozidi miaka mitatu, mwaka 2002 Serikali ilitunga sheria ya The Community Service Act (Act No. 6 of 2002, Cap. 291 R.E 2002) ili kusimamia mfumo wa utekelezaji wa kazi za kijamii kwa wafungwa wote wanaotimiza vigezo chini ya sheria hii.</seg>
+          <seg xml:id="seg205">Kwa mujibu wa sheria hii, wafungwa wote wanaotiwa hatiani na kupewa adhabu isiyozidi miaka mitatu wanaweza wakaamriwa kufanya kazi za kijamii kama zilivyoainishwa na sheria (kifungu cha 3) chini ya usimamizi wa Maafisa Jamii wa maeneo husika.</seg>
+          <seg xml:id="seg206">Aidha, kifungu na 52 cha Sheria ya Magereza (The Prisons Act, Cap. 58 R. E. 2002) kinatoa fursa kwa wafungwa walio ndani magerezani waliotimiza vigezo vya sheria ya Community Service Act kutoka magerezani, endapo wanaridhia wenyewe kutoka, kwenda kufanya kazi za kijamii zilizoainishwa chini ya sheria wakiwa uraiani chini ya usimamizi wa Maafisa Jamii wa maeneo husika.</seg>
+          <seg xml:id="seg207">(b) Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kuwa kumfunga kila mhalifu gerezani itakuwa mzigo mkubwa sana kwa Serikali, ndio maana kila jitihada zinafanyika ili kupunguza idadi ya wahalifu wanaotumikia vifungo vyao ndani ya magereza. Jitihada hizi ni pamoja na kutunga sheria mbalimbali zikiwemo sheria nilizozitaja katika sehemu (a) ya swali lake.</seg>
+          <seg xml:id="seg208">Aidha, jitihada nyingine ni kuanzishwa kwa utaratibu wa Parole ambapo wafungwa wanaotimiza masharti chini ya sheria ya Parole wananufaika kwa kutolewa</seg>
+          <seg xml:id="seg209">nje ya magereza na kubakia wale tu ambao ni lazima watumikie vifungo vyao magerezani kutokana na uzito wa makosa waliyoyatenda.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u44" who="MheJanethNMassaburi">
+          <seg xml:id="seg210">Mheshimiwa Spika, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, nina swali moja dogo la nyongeza. Kwa kuwa, kumekuwa na kasi ndogo katika kukamilisha upelelezi wa watuhumiwa.</seg>
+          <seg xml:id="seg211">Je, Serikali inaweza kusema ni sababu gani zinazosababisha ucheleweshwaji wa hizo kesi kukamilisha?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u45" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg212">Mheshimiwa Spika, ni kweli upelelezi mara nyingi huchukua muda mrefu. Kwa sababu upelelezi ni kazi ya kitaalam na tunapotaka kumpeleka mtu Mahakamani tunatakiwa tuwe na uhakika kwamba kweli mtu huyo amelifanya kosa lile. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u46" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg213">Kwa hiyo, upelelezi lazima uwe makini na uwe sahihi ili tunapomhukumu mtu tusimhukumu mtu kwa kitu ambacho hajakifanya. Ndiyo sababu basi upelelezi unachukua muda mrefu. Kwa sababu tunachotaka kukifanya ni kuhakikisha kwamba aliyefanya kosa lile awe kweli amelifanya na anaadhibiwa kwa kosa alilolifanya.</seg>
+        </u>
+        <note>Na. 22. Utaratibu wa Njia Tatu Jijini Dar es Salaam na Athari zake</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u47" who="MheAnneKMalecela">
+          <seg xml:id="seg214">Kwa kuwa, ni ukweli usiopingika kwamba, Jiji la Dar es Salaam lina msongamano mkubwa sana wa magari; na kwa kuwa, Serikali katika jitihada zake za kulitatua tatizo hilo imeanzisha utaratibu wa njia tatu kwa nia nzuri kabisa. Lakini kumetokea dosari mbalimbali katika kutekeleza utaratibu huo:-</seg>
+          <seg xml:id="seg215">(a) Je, Serikali baada ya kuanzisha utaratibu huo wa kutumia njia tatu ambao sio wa kudumu, inaweza kutueleza ni kwa kiasi gani utaratibu huo umeweza kupunguza tatizo la msongamano wa magari Jijini?</seg>
+          <seg xml:id="seg216">(b) Je, Serikali inaweza kuwaeleza Watanzania kwamba, ni ajali ngapi zilizosababishwa na utaratibu huo wa kutumia njia tatu, na ni Watanzania wangapi wamepoteza maisha yao kutokana na utaratibu huo?</seg>
+          <seg xml:id="seg217">(c) Je, Serikali inatoa tamko gani kulingana na jinsi hali ilivyo sasa Jijini Dar es Salaam?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u48" who="NaibuWaziriWaUsalamaWaRaia">
+          <seg xml:id="seg218">Mheshimiwa Spika, kwa niaba ya Mheshimiwa Waziri wa Usalama wa Raia, kabla ya kujibu swali la Mheshimiwa Anne Kilango Malecela, Mbunge wa Same Mashariki, lenye sehemu (a), (b) na (c), napenda kutoa maelezo mafupi kama ifuatavyo:-</seg>
+          <seg xml:id="seg219">Mheshimiwa Spika, nakubaliana na Mheshimiwa Mbunge kwamba Jiji la Dar es Salaam lina msongamano mkubwa wa magari katika barabara zake, hali hii inasababisha usumbufu kwa wananchi wanaotumia barabara hizo hasa nyakati za asubuhi wanapokwenda Mjini kuwahi shughuli zao na jioni wanaporejea majumbani kwao.</seg>
+          <seg xml:id="seg220">Ili kupunguza tatizo hili, Serikali mnamo mwezi Mei, 2007 ilianzisha utaratibu wa njia Tatu katika barabara za Morogoro na Ally Hassan Mwinyi, kwa lengo la kupunguza msongamano kama hatua ya muda wakati hatua mbalimbali zinaendelea kuchukuliwa ili kuondoa tatizo hili.</seg>
+          <seg xml:id="seg221">Mheshimiwa Spika, baada ya kutoa maelezo hayo, kwa niaba ya Mheshimiwa Waziri wa Usalama na Raia, sasa naomba kujibu swali la Mheshimiwa Anne Kilango Malecela, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg222">(a) Mheshimiwa Spika, Serikali baada ya kuanzisha utaratibu wa Njia Tatu kwa kiasi kikubwa umeweza kusaidia kupunguza msongamano wa magari na kusaidia wananchi au wafanyakazi kuweza kuwahi shughuli zao saa za asubuhi. Aidha utaratibu huu umeweza kusaidia wananchi kuwahi kurudi majumbani mwao hasa muda wa jioni. Kwa maana hiyo utaratibu huu umeweza kusaidia kwa kiasi kikubwa kupunguza misururu mirefu ya magari kwenye barabara za Jiji la Dar es Salaam nyakati za asubuhi na jioni (peak hours).</seg>
+          <seg xml:id="seg223">(b) Mheshimiwa Spika, takwimu za ajali zilizotokea katika barabara za Morogoro na Ally Hassan Mwinyi kati ya mwezi Mei, 2007 hadi tarehe 29 Oktoba, 2007 ni jumla ya ajali 107 ambazo zilisababisha vifo vya watu 11. Tathmini inayoonyesha kwamba chanzo cha ajali hizo ni pamoja na kutokuzoeleka kwa utaratibu wa njia tatu, mwendokasi, uzembe wa madereva na watumiaji wengine wa barabara kutokufuata sheria za barabarani ipasavyo.</seg>
+          <seg xml:id="seg224">(c) Mheshimiwa Spika, kwa kuwa mpango huu sasa umezoeleka kama nilivyosema katika majibu yangu sehemu (a), Serikali inaona ni vyema mpango huu ukaendelea kwani umepunguza kwa kiasi kikubwa msongamano wa magari katika maeneo hayo.</seg>
+          <seg xml:id="seg225">Mheshimiwa Spika, tunachoomba ni madereva na watumiaji wengine wa barabara kuwa makini na kufuata sheria na taratibu zilizowekwa, ili kuepuka kusababisha ajali ambazo zinaweza kuzuilika iwapo kila mtu atatimiza wajibu wake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u49" who="MheAnneKMalecela">
+          <seg xml:id="seg226">Meshimiwa Spika, kwanza ninashukuru kupata majibu ambayo ndiyo niliyoyategemea. Sasa naomba kuuliza maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg227">Mheshimiwa Spika, Serikali hapa inajitahidi kuwasaidia wananchi wawahi kazini, lakini kama mwananchi anataka kuwahi kazini ni vyema akaamka mapema.</seg>
+          <seg xml:id="seg228">Mheshimiwa Spika, sasa naomba kuuliza swali la kwanza. Kwa kuwa, tatizo la msongamano wa magari hasa peak hours kama alivyozungumza Mheshimiwa Naibu Waziri ni tatizo ambalo si la Dar es Salaam tu lipo hata kwenye nchi za Ulimwengu wa kwanza.</seg>
+          <seg xml:id="seg229">Mheshimiwa Spika, lakini kulingana na faida tunazozipata za kuwafanya watu wawahi kazini, na hasara ambazo tunazipata za kupoteza maisha ya wananchi wetu.</seg>
+          <seg xml:id="seg230">Ninaona kwamba ni vyema Serikali ikafikiria mara mbili kuhusu utaratibu huu; na kwa kuwa sasa wananchi waliokufa ni 11 kwa ajali 107 na mpaka sasa hivi siyo waliokufa ni 11 tu maana yake takwimu hizi ni za mwezi Oktoba, 2007.</seg>
+          <seg xml:id="seg231">Je, Serikali haioni kwamba ni vyema ikawahamasisha wananchi waamke mapema sana asubuhi ili wawahi kazini, lakini utaratibu huu tuuache mara moja? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u50" who="MheAnneKMalecela">
+          <seg xml:id="seg232">La pili, kwa kuwa Mheshimiwa Naibu Waziri, amesema utaratibu huu umezoeleka, si kweli. Kwa sababu kuna wananchi wanaokuja Dar es Salaam wanaoishi Mikoani hawalifahamu hili. Kwa hivyo matatizo ya wananchi kufa yataendelea kuwepo pale pale.</seg>
+          <seg xml:id="seg233">Je, Serikali haioni kwamba ni vyema ikajikita kutatua tatizo hili kwa njia nyingine ya kudumu kuliko kuendelea kupoteza wananchi ambao hawana makosa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u51" who="NaibuWaziriWaUsalamaWaRaia">
+          <seg xml:id="seg234">Mheshimiwa Spika, kama nilivyosema katika jibu langu la msingi kwamba utaratibu huu umesaidia sana kuwarahisishia wananchi na wafanyakazi kuwahi makazini na pia kuwahi majumbani wakati wa jioni. Kama nilivyoeleza utaratibu huu sasa umeanza kuzoeleka na ushahidi wa wazi ni kupungua kwa takwimu za ajali katika maeneo hayo. Kwa hiyo inaonekana wazi utaratibu huu umesaidia na ajali zinapungua na kadri siku zinavyosonga mbele, elimu zaidi inatolewa hata kwa wale ambao wanaotoka Mikoani ili kuhakikisha kwamba ajali hasa za vifo zinaepukika katika maeneo hayo. Cha msingi kama nilivyosema ni kwa wananchi kufuata taratibu zilizowekwa na madereva kuwa makini katika uendeshaji huo ili utaratibu huo mzuri tuendelee nao na tuepuke ajali za barabarani. Lakini licha ya utaratibu huu wa muda, Serikali ina mpango wa muda mrefu katika kutatua tatizo la msongamano wa barabara katika Jiji la Dar es Salaam. Kwanza, kuna utaratibu huu wa ring road ambao utatumika kwa barabara zile za Wazo Hill, Goba, Mbezi, Kifuru,</seg>
+          <seg xml:id="seg235">Kinyerezi, Banana, Jet Corner, Vituka, Davis Corner hadi Mtoni Mtongani kwa upande wa Kilwa Road.</seg>
+          <seg xml:id="seg236">Aidha, pia kuna mpango ule wa mabasi yaendayo kwa kasi na mwaka huu wa fedha wa 2007/2008, tayari Serikali imetenga Sh.10bil kwa ajili ya matayarisho ya awali ya mradi huo. Mradi huo utakuwa wa awamu sita utaanzia Morogoro Road, Kilwa Road, Nyerere Road, Barabara ya Ali Hassan Mwinyi na New Bagamoyo Road, barabara tano za Mandela na Mlandizi na barabara ya Old Bagamoyo, Shekilango, Mabibo na Kigogo. Kwa hivyo, Serikali ina mpango mkubwa sana wa kuondoa kabisa tatizo hilo. Ninawaomba wananchi wavute subira wakati Serikali ikishughulikia tatizo hilo. Nina hakika mambo yatakuwa mazuri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u52" who="MheRamadhaniAManeno">
+          <seg xml:id="seg237">Mheshimiwa Spika, nashukuru kwa kunipa nafasi. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri kwa tatizo hili la njia tatu la Mkoa wa Dar es Salaam, nina swali moja la nyongeza.</seg>
+          <seg xml:id="seg238">Kwa kuwa Serikali imekiri haikuwa na muda wa kutosha kuwaelimisha wananchi juu ya utaratibu ule na kwa kuwa vifo vingi vimetokea kama alivyoeleza Naibu Waziri je, Serikali ina mpango gani wa kuwafidia wale wananchi waliokufa ambao hawakuweza kuujua utaratibu huu kwa kipindi kile husika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u53" who="NaibuWaziriWaUsalamaWaRaia">
+          <seg xml:id="seg239">Mheshimiwa Spika, taratibu za sheria zipo kuhusiana na masuala ya fidia kwa wale waliopata ajali. Kwa hivyo, utaratibu huo uliopo ndio utakaofuatwa.</seg>
+        </u>
+        <note>Na. 23. Ununuzi na Usambazaji wa Dawa za Mifugo</note>
+        <note>(K.n.y. MHE. MICHAEL L. LAIZER)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u54" who="MheChristopherOleSendeka">
+          <seg xml:id="seg240">Kwa kuwa, Mifugo ni rasilimali kama ilivyo kwa mazao mengine ya kilimo na kwa kuwa Serikali inatoa fedha za ruzuku, kwa ajili ya dawa za Mifugo hiyo:-</seg>
+          <seg xml:id="seg241">(a) Je, kwa nini wafugaji wenyewe ambao wanaweza kununua dawa hizo na kuzisambaza vijijini wasipewe kazi hiyo kuliko kazi hiyo kufanywa na Kampuni ambazo hazifahamiki Wilayani?</seg>
+          <seg xml:id="seg242">(b) Kwa kuwa, Kampuni iliyopewa kazi ya kusambaza dawa za mifugo iko Dar es Salaam, je, kwa nini kazi hiyo hawakupewa watu wenye maduka walioko Arusha ambao wanafahamika na wafugaji ili wafugaji waweze kupata dawa hizo kwa urahisi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u55" who="NaibuWaziriWaMaendeleoYaMifugo">
+          <seg xml:id="seg243">Mheshimiwa Spika, awali ya yote, naomba uniruhusu kwa niaba ya wananchi wa Shinyanga Mjini, niwape pole sana wale wote waliofiwa na wapendwa wao ikiwemo familia ya Marehemu Mheshimiwa Salome Joseph Mbatia.</seg>
+          <seg xml:id="seg244">Mheshimiwa Spika, baada ya kusema hayo, kwa niaba ya Mheshimiwa Waziri wa Maendeleo ya Mifugo, naomba kujibu swali la Mheshimiwa Michael Lekule Laizer, Mbunge wa Longido lenye vipengele (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg245">(a) Ni kweli kwamba Serikali ilitoa ruzuku kiasi cha Sh.1.5bil mwaka 2006/2007 kwa ajili ya kuwawezesha wafugaji wapate dawa za kuogeshea mifugo yao kwa bei nafuuu ambapo walinunua dawa hizo kwa asilimia sitini (60%) ya bei ya soko asilimia arobaini (40%) iliyobaki inalipwa na Serikali kama ruzuku.</seg>
+          <seg xml:id="seg246">Zabuni ya kuagiza na kusambaza dawa za ruzuku za kuogeshea mifugo ilitangazwa na Serikali kwa kuzingatia Sheria ya Ununuzi ya Mwaka 2004. Jumla ya Makampuni 11 kutoka Mikoa ya Dar es Salaam na Arusha yaliwasilisha maombi ya kufanya kazi hiyo ambapo Makampuni nane ya Anicrop Services, Bajuta General- VETAGRO, Bytrade Tanzania Ltd, Cooper Tanzania Ltd, Mukpar Tanzania Ltd. Ronheam International, Tanveterina na Ultravetis Tanzania Ltd. yalishinda na kupewa zabuni hiyo.</seg>
+          <seg xml:id="seg247">Vigezo vilivyozingatiwa kisheria katika kutoa zabuni ni kwa Kampuni kuwa na leseni na kusajiliwa na Taasisi ya Utafiti wa Viuatilifu katika nchi za Joto (TPRI) na kuwa na mwakilishi ama ajenti wa Kampuni hiyo katika Wilaya alikosambaza dawa. Wizara yangu, iliyatangaza magazetini Makampuni yote yaliyoshinda na Wilaya ambazo yangehudumia na pia Wizara ilizijulisha Halmashauri zote kwa barua. Pamoja na kwamba baadhi ya wafugaji walikuwa na uwezo wa kununua dawa hizo, isingekuwa rahisi kuruhusu kila mfugaji asambaze dawa bila kuwa na leseni na kutambuliwa na TPRI katika nchi za joto.</seg>
+          <seg xml:id="seg248">(b) Ni kweli Kampuni Mukpar Tanzania Limited iliyopewa zabuni ya kusambaza dawa za ruzuku kwa Mkoa wa Arusha ikiwemo Halmashauri ya Wilaya ya Longido ipo Dar es Salaam. Kama nilivyoeleza hapo juu, Kampuni zilizojitokeza ni za Dar es Salaam na Arusha.</seg>
+          <seg xml:id="seg249">Kabla ya kutoa zabuni, tulipata maelezo kutoka Halmashauri ya Wilaya ya Monduli ambayo kwa sasa imegawanywa katika Halmashauri za Wilaya mbili za Monduli na Longido kwamba dawa iliyokuwa inatumika sana huko ni Alphacypermethrin na Kampuni iliyoshinda kuisambaza huko ni Mukpar (T) Ltd.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u56" who="MheChristopherOleSendeka">
+          <seg xml:id="seg250">Mheshimiwa Spika, pamoja na majibu ya Mheshimiwa Naibu Waziri ambayo siyo mabaya ni mazuri, ningependa tu Naibu Waziri anisaidie kunieleza ni utaratibu gani uliowekwa na Serikali ili kujua Makampuni haya yaliyopewa dawa hizi za ruzuku wameweza kuuza kiasi gani mpaka sasa na ni fedha gani ya Serikali bado wanayo ambayo bado wafugaji wanaweza kufaidi na ni kwa muda gani? Nikipata maelezo haya, nitashukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u57" who="NaibuWaziriWaMaendeleoYaMifugo">
+          <seg xml:id="seg251">Mheshimiwa Spika, sasa tuko mwezi wa Oktoba katika mwaka wa fedha 2007/2008. Kiasi kilichotolewa cha Sh.1.5bil kama ruzuku ilikuwa ni kwa kipindi cha mwaka wa fedha uliopita. Kwa hiyo, kwa sasa karibu Makampuni yote yamekwishasambaza dawa hizo kwa mwaka uliopita na sasa Wizara inajiandaa kutangaza zabuni nyingine kwa ajili ya mwaka wa fedha huu ili kuweza kuwasambazia wafugaji madawa mengine ya ruzuku ya kuogeshea mifugo yao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u58" who="Spika">
+          <seg xml:id="seg252">Waheshimiwa Wabunge, swali linalofuata Na.24 lilikwishajibiwa na mwuliza swali ameridhika, ameniandikia. Kwa hiyo, tunaendelea na Wizara ya Kilimo, Chakula na Ushirika.</seg>
+        </u>
+        <note>Na. 25. Kilimo cha Mazao ya Ufuta na Choroko Mikoa ya Kusini</note>
+        <note>(K.n.y. MHE. SULEIMAN O. KUMCHAYA)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u59" who="MheRaynaldAMrope">
+          <seg xml:id="seg253">Kwa kuwa, katika Mikoa ya Kusini, mazao kama karanga, ufuta, choroko na kadhalika yalikuwa yakinunuliwa hali iliyokuwa inapunguza maisha magumu kwa wakulima:-</seg>
+          <seg xml:id="seg254">(a) Je, Serikali ina mpango gani wa kuimarisha ununuzi wa mazao hayo ili yaendelee kupunguza makali ya maisha kwa wakulima kama walivyokuwa wananunua GAPEX?</seg>
+          <seg xml:id="seg255">(b) Kwa kuwa, mazao hayo yanalimwa kwa uzoefu tu, je, Serikali haioni kuwa kuna haja ya kuongeza utaalam katika kulima mazao hayo ili yapatikane kwa wingi hali itakayopunguza umaskini katika Mikoa hiyo?</seg>
+          <seg xml:id="seg256">(c) Je, Serikali haioni kuwa kuna haja ya kuwa na Bodi ya Mazao Mchanganyiko ili kuyapa msukumo mazao hayo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u60" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg257">Mheshimiwa Spika, kwa niaba ya Waziri wa Kilimo, Chakula na Ushirika, kabla ya kujibu swali la Mheshimiwa Suleiman Omar Kumchaya, Mbunge wa Lulindi, lenye sehemu (a), (b) (c), napenda kutoa maelezo yafuatayo:-</seg>
+          <seg xml:id="seg258">Mheshimiwa Spika, katika miaka ya 1970 na 1980, ununuzi wa mazao ya mbegu za mafuta, viungo na maharage ulikuwa unafanywa na Shirika la Umma la General Agricultural Production for Export (GAPEX). Baada ya kuanza kwa Sera ya Soko Huru, Shirika hilo lilishindwa ushindani na kuacha kununua mazao hayo. Serikali inatambua kwamba ipo haja ya kuanzisha chombo kitakachowahudumia wakulima wa mazao mchanganyiko ikiwa ni pamoja na nafaka na mazao ya mbegu za mafuta kwa ufanisi zaidi na kuhakikisha kuwa kunakuwepo na soko la uhakika na bei nzuri kwa mazao.</seg>
+          <seg xml:id="seg259">Mheshimiwa Spika, baada ya maelezo hayo, napenda kujibu swali la Mheshimiwa Suleiman Kumchaya, kama ifuatavyo:-</seg>
+          <seg xml:id="seg260">(a) Mheshimiwa Spika, mpango wa Serikali wa kuimarisha ununuzi wa mazao ni kuwa na Sera ya Masoko ya Mazao ya Kilimo ambayo itakuwa na mkakati wa kushughulikia masoko ya mazao ya kilimo yakiwemo ufuta, choroko na karanga. Mchakato wa maandalizi ya sera hiyo unaendelea na rasimu imewasilishwa katika Baraza la Mawaziri. Aidha, sera ya ubinafsishaji na mfumo wa soko huria inagusa mazao ya kilimo. Kwa sasa Makampuni yanayonunua karanga, ufuta na choroko katika Mikoa ya Mtwara na Lindi ni Export Trading Company Ltd., Mohamed Enterprises, Dashwood na Abbasi Exports.</seg>
+          <seg xml:id="seg261">(b) Mheshimiwa Spika, Serikali kwa muda wote, imekuwa ikihimiza wakulima kutumia kanuni za kilimo bora katika uzalishaji wa mazao mbalimbali. Juhudi zinazofanywa na Serikali kuongeza utaalam ni pamoja na kufanya tafiti mbalimbali za mazao na kutoa mafunzo kwa wakulima na wataalamu wa ugani na wadau wengine juu ya uzalishaji bora wa mazao.</seg>
+          <seg xml:id="seg262">Aidha, vituo vya utafiti vimekuwa vikitoa aina za mbegu zinazotoa mavuno mengi kwa eneo na zenye kustahimili magonjwa na visumbufu mbalimbali kwa ajili ya wakulima. Kwa mfano, hadi mwaka 2006 aina bora mbili za mbegu za choroko ziitwazo Nuru na Imara ambazo zina tija kubwa na uvumilivu dhidi ya magonjwa zimetolewa.</seg>
+          <seg xml:id="seg263">Aidha, aina tano za mbegu za Red Mwitunde, Nyota, Pendo na Johari zenye mionjo na tija kubwa zaidi zimezalishwa na kusambazwa kwa wakulima. Mbegu za ufuta ni pamoja na Naliendele 92, Ziada 94 na Lindi 02; mbegu hizo zina sifa ya kutoa mavuno mengi na kustahimili magonjwa na visumbufu vingine vya mimea.</seg>
+          <seg xml:id="seg264">Aidha, Serikali inaendelea kutoa machapisho na vijarida juu ya uzalishaji wa mazao hayo kama njia mojawapo ya kuelimisha juu ya kilimo bora.</seg>
+          <seg xml:id="seg265">Kuhusu kuboresha huduma za ugani, Serikali katika mwaka huu wa 2007/2008 imetenga fedha kwa ajili ya kuajiri jumla ya wataalamu 2,500 ili kupunguza pengo la wataalamu 11,703 wanaohitajika nchini. Sehemu ya wataalamu hao wataajiriwa katika Mikoa ya Kusini. Hadi sasa, Serikali ina jumla ya wataalam 3,915 waliopo nchini. Kati ya hao wataalam 109 wako katika Mkoa wa Lindi, 82 Mkoa wa Mtwara na 146 katika Mkoa wa Ruvuma.</seg>
+          <seg xml:id="seg266">(c) Mheshimiwa Spika, kwa sasa Serikali inaendelea na mchakato wa kuunda Bodi hiyo itakayohusisha mazao mbalimbali yakiwemo ya choroko na mbegu za mafuta. Kinachosubiriwa ni kupitishwa kwa Sera ya Masoko ya Mazao ya Kilimo na bidhaa zake ambayo mapendekezo yake yamekwishafikishwa katika Baraza la Mawaziri. Kwa kuwa Sera ya Masoko ya Mazao ya Kilimo inayoandaliwa ina vipengele vinavyohusu masoko ya mazao, itakapokamilika itatoa mwelekeo wa muundo wa Bodi ya Mazao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u61" who="MheRaynaldAMrope">
+          <seg xml:id="seg267">Mheshimiwa Spika, namshukuru Mheshimiwa Naibu Waziri kwa majibu yake mazuri lakini nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg268">La kwanza, kutokana na sera hii ya biashara huria kumekuwa na uholela sana wa soko lenyewe na hasa hasa katika mazao haya yaliyotajwa kwa kweli hayana utaratibu mzuri wa kuuza. Je, Waziri anawaambia nini wakulima kwamba katika msimu ujao bei inaweza ikawa nzuri kuliko ilivyo holela hivi sasa ili waweze kulima kwa wingi karanga, ufuta na choroko?</seg>
+          <seg xml:id="seg269">Pili, ametaja kituo cha Naliendele kweli kinafanya kazi nzuri lakini kituo hiki kina mikakati gani ya kuhakikisha kwamba kinazalisha mbegu hizi na zinasambazwa katika maeneo mbalimbali ili kuweza kuongeza tija katika uzalishaji wa mbegu hizi za ufuta pamoja na karanga?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u62" who="NaibuWaziriWaKilimoChakulaNaUshirikaMheChristopherKChiza">
+          <seg xml:id="seg270">Mheshimiwa Spika, uholela wa soko kama nilivyosema katika majibu yangu ya swali la msingi, hayo yapo kwa sababu mazao mengine ambayo hayana utaratibu wa Bodi bado yanaendelea kuuzwa katika soko huru ni tofauti kabisa na mazao mengine yale ambayo yana Bodi kama kahawa, pamba, tumbaku na kadhalika.</seg>
+          <seg xml:id="seg271">Lakini ninachoweza kusema sasa hivi ni kwamba wakati tunajiandaa kutengeneza mchakato huu wa kuanzisha Bodi ya Mazao Mchanganyiko bado tunataka wananchi waendelee kuyazalisha mazao haya kwa sababu masoko yapo. Nashauri tu wananchi na</seg>
+          <seg xml:id="seg272">Waheshimiwa Wabunge tuwe na tabia ya kutembelea mitandao na kuangalia taarifa za masoko yaliyopo.</seg>
+          <seg xml:id="seg273">Kwa mfano zao hili la ufuta lina soko zuri sana Mashariki ya mbali hususan nchi ya Japan na tumekuwa tuna export karibu tani 10,000 mpaka 15,000 kwa mwaka na ufuta mweupe Mheshimiwa Mrope ndio una bei nzuri sana kule Japan.</seg>
+          <seg xml:id="seg274">Kwa hiyo, napenda kusema kwamba tuendelee kuangalia hali ya soko na kuwa- encourage wakulima kuzalisha mazao haya wakati Serikali inaandaa mchakato huu wa Bodi ya Mazao Mchanganyiko.</seg>
+          <seg xml:id="seg275">Mheshimiwa Spika, kuhusu Naliendele, kituo chetu kile kinaendelea vizuri, kama nilivyosema katika majibu yangu ya msingi kinaendelea kuzalisha mbegu hizi. Tayari katika utaratibu wetu huu wa kuendeleza kilimo tumeongeza fedha kwa ajili ya vituo hivi ili viweze kuzalisha mbegu hizi kwa ajili ya wananchi. Lakini pia tunao utaratibu wa uzalishaji wa mbegu tunataka pia uwahusishe na wananchi wenyewe kule waliko. Kwa hivyo, mbegu zitaendelea kuzalishwa kwa jinsi ambavyo fedha zile zitakuwa zinapatikana.</seg>
+        </u>
+        <note>Na. 26. Ahadi ya Kuwalipa Wadai wa NHC</note>
+        <note>(K.n.y. AZIZA SLEYUM ALLY)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u63" who="MheLucasLSelelii">
+          <seg xml:id="seg276">Kwa kuwa, kanuni ya 50(1) ya Kanuni za Bunge inamtaka kila Mbunge kusema kweli ndani ya Bunge na kwa kuwa katika bajeti ya mwaka 2006, Serikali kupitia Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi ilitamka kuwa ndani ya mwezi mmoja wadai wote wa hati za nyumba za NHC watapata hati zao, jambo ambalo mpaka sasa halijatekelezwa:_</seg>
+          <seg xml:id="seg277">(a) Je, Serikali iko tayari kuliomba radhi Bunge pamoja na wadai hao kwani kauli yake inapingana na utekelezaji?</seg>
+          <seg xml:id="seg278">(b) Je, Serikali sasa iko tayari kutoa kauli ya kweli kuhusu suala hilo kama Kanuni za Bunge zinavyoelekeza?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u64" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg279">Mheshimiwa Spika, kwa niaba ya Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi napenda kujibu swali la Mheshimiwa Aziza Sleyum Ally kama ifuatavyo:-</seg>
+          <seg xml:id="seg280">Mheshimiwa Spika, si kweli kwamba mpaka sasa wadai wote wa hati za nyumba za NHC hawajapata au kutayarishiwa hati zao.</seg>
+          <seg xml:id="seg281">Mheshimiwa Spika, hadi sasa Wizara yangu imekwishawaandalia hati miliki waliokamilisha masharti yote ya mkataba na yale ya umilikishwaji ambapo hati 53 kati ya nyumba 143 za „Kaze Hill” zilizouzwa zimekamilika na kati ya hizo 43 wamekabidhiwa wamiliki. Wamiliki wa hati 5 hawajaja kuzichukua licha ya kutangaziwa waje kuzichukua ili kukamilisha utaratibu. Hati 2 ziko kwenye hatua ya kutiwa saini na wamiliki ili zitumwe tena kwa Kamishna wa Ardhi kwa ajili ya kukamilishwa.</seg>
+          <seg xml:id="seg282">Mheshimiwa Spika, hivyo, kwa wale wote waliokamilisha masharti ya mkataba na umilikishwaji, hati zao ziliandaliwa ndani ya siku 30 kama nilivyoahidi. Haikuwa rahisi kuandaa hati kwa wamiliki wote kwa kuwa mikataba ya kuuziwa imekuwa ikiwasilishwa katika Ofisi ya Ardhi Manispaa ya Tabora na mmiliki mmoja mmoja baada ya kutimiza masharti ya mkataba. Kwa tafsiri hii, bado wengine hawajawasilisha mikataba yao. Mikataba hiyo ikiwasilishwa wataandaliwa hati kama nilivyoahidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u65" who="MheLucasLSelelii">
+          <seg xml:id="seg283">Mheshimiwa Spika, nakushukuru sana na ningemwomba Mheshimiwa Waziri arejee katika swali la Mheshimiwa Mbunge Aziza na wakati anajibu hoja mwaka 2006 aliahidi ndani ya Bunge hili hili kwamba ndani ya mwezi mmoja wamiliki wote wangeweza kupewa hati zao.</seg>
+          <seg xml:id="seg284">Sasa anaposema si kweli maana yake hata hiyo hesabu anayoitoa ya 53 ni miezi 14 na yeye aliahidi ndani ya mwezi mmoja bado watu 90 hawajapewa. Ingekuwa vyema akafuta hiyo kauli ya mwezi mmoja, aseme ndani ya muda muafaka watapewa hati zao lakini akisema mwezi mmoja maana yake analidanganya Bunge.</seg>
+          <seg xml:id="seg285">Mimi naomba kwanza afute matamshi yake kwamba sio mwezi mmoja bali ndani ya muda muafaka watapewa na aseme basi hao 90 waliosalia watapewa lini? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u66" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg286">Mheshimiwa Spika, tunaposema ndani ya mwezi mmoja hati zitapatikana ina maana kwamba pamoja na taratibu za kupata hizo hati zitimizwe.</seg>
+          <seg xml:id="seg287">Mheshimiwa Spika, mwaka 2006 tulipoongea hapa Bungeni, Mheshimiwa Waziri alichukua jukumu la kwenda Mkoa wa Tabora akawahamasisha wananchi wale wote walionunua nyumba ambao ni 143 kupitia Wenyeviti wa Mitaa, Misikiti, Makanisa na kwa njia ya redio kwamba njooni na mikataba yenu kwa sababu tuligundua kwamba waliponunua nyumba zao baada ya kulipa walikaa nyumbani wakitegemea watapata hati bila kurudisha mikataba ambayo tuliwaambia warudishe.</seg>
+          <seg xml:id="seg288">Mheshimiwa Spika, baada ya uhamasishaji huo wananchi walionunua hizo nyumba wa Mkoa wa Tabora 104 wamerudisha mikataba hadi sasa lakini wamekuwa wakirudisha mmoja mmoja kwa wakati wake na mpaka sasa hivi mikataba</seg>
+          <seg xml:id="seg289">tumekwishaipokea 104 tunaishughulikia na ndani ya mwezi mmoja tuna hakika kwa wale waliokamilisha watapata hati zao.</seg>
+          <seg xml:id="seg290">Mheshimiwa Spika, baada ya hayo, nimepata taarifa kwamba viongozi wa Mkoa wa Tabora watakuja karibuni hapa kwa shughuli maalum ningeomba kukutana na hao viongozi wa Mkoa wa Tabora wote ili niweze kuwahakikisha kwamba tutawapa hati baada ya mwezi mmoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u67" who="MheHassanCKigwalilo">
+          <seg xml:id="seg291">Mheshimiwa Spika, ahsante sana kwa kunipa nafasi ili nami niweze kuuliza swali la nyongeza pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri. Hivi karibuni pametokea wimbi kubwa au la kasi mno la kununua nyumba za Msajili na nyumba nyingine za watu binafsi inayofanywa na Kampuni ya Richmond, je, Richmond ni mbadala wa National Housing?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u68" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg292">Mheshimiwa Spika, National Housing haina mbadala. Kwa hiyo kama Richmond ni Kampuni binafsi wameamua kuuza nyumba kama agent watakuwa ni wakala lakini sio mbadala wa National Housing.</seg>
+        </u>
+        <note>Na. 27. Kupanda kwa Bei za Viwanja</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u69" who="MheJobYNdugai">
+          <seg xml:id="seg293">Kwa kuwa, bei ya kununua viwanja inazidi kupanda kila siku hasa mijini:-</seg>
+          <seg xml:id="seg294">(a) Je, Serikali ina mpango gani wa kuweka Mdhibiti (Regulator) ili Watanzania wa kawaida waweze kununua viwanja na mashamba?</seg>
+          <seg xml:id="seg295">(b) Je, Serikali haioni kuwa utaratibu wa sasa wa „willing buyer willing seller principle” wa ugawaji wa viwanja na mashamba ni wa kuwabagua wengine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u70" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg296">Mheshimiwa Spika, kwa niaba ya Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi, sasa napenda kujibu swali la Mheshimiwa Job Ndugai, Mbunge wa Kongwa, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg297">Mheshimiwa Spika, ni kweli bei ya kununulia viwanja mijini inazidi kupanda siku hadi siku. Hii inatokana na gharama za mchakato mzima wa upatikanaji wa viwanja ambao unajumuisha utwaaji wa ardhi kutoka kwa mwananchi aliyekuwa anaimiliki/anaitumia, kupanga matumizi, kupima na hatimaye kumilikisha.</seg>
+          <seg xml:id="seg298">Gharama za utwaaji wa ardhi ni kubwa ikizingatiwa kuwa kwa mujibu wa Sheria Ardhi, Sheria Na. 4 ya mwaka 1999, ardhi inahesabiwa kuwa na thamani (thamani ya soko) tofauti na Sheria ya Ardhi tuliyoirithi kutoka kwa Wakoloni ya mwaka 1923 ambapo ardhi ilihesabiwa kutokuwa na thamani bali maendelezo juu yake (unexhausted development/improvement).</seg>
+          <seg xml:id="seg299">Aidha, kuna gharama za usumbufu anazolipwa mwananchi ambaye ardhi yake inatwaliwa. Gharama za utwaaji wa ardhi, upangaji matumizi, upimaji na umilikishaji zote kwa pamoja ndizo zinazotumika kukokotoa bei ya kiwanja atakachopewa wananchi. Baada ya maelezo hayo, naomba kujibu swali kama ifuatavyo:-</seg>
+          <seg xml:id="seg300">(a) Mheshimiwa Spika, Serikali kwa sasa haina mpango wa kuweka Mdhibiti (Regulator). Ili kudhibiti na kuhakikisha kuwa kunakuwepo mazingira mazuri ya kumpa kila mwananchi fursa ya kununua kiwanja, Serikali imekuwa ikipima viwanja vyenye viwango tofauti na hivyo bei tofauti. Viwanja hivyo huwa ni vya ujazo wa juu (high density), ujazo wa kati (medium density) na ujazo wa chini (low density). Kwa mtazamo huo, kila mwananchi huomba kiwanja kinacholingana na uwezo wake.</seg>
+          <seg xml:id="seg301">(b) Mheshimiwa Spika, viwanja vikishapimwa, umma hutangaziwa kuwepo kwa viwanja hivyo kwa njia ya uwazi kupitia vyombo vya habari ikiwepo luninga ya taifa, redio na magazeti yanayosomwa kwa wingi nchini. Matangazo hayo huelekeza waziwazi kuwa mwananchi aende kwenye mamlaka ipi kuchukua fomu ya kuomba kiwanja.</seg>
+          <seg xml:id="seg302">(c) Fomu hizo zikishajazwa hurejeshwa kwenye mamlaka husika na kisha Kamati ya Ugawaji Ardhi ya Mamlaka hiyo hukaa na kupitia maombi hayo na kupitisha majina ya watakaopewa viwanja. Utaratibu huu huwa hauna ubaguzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u71" who="MheJobYNdugai">
+          <seg xml:id="seg303">Mheshimiwa Spika, nakushukuru sana kwa kunipa nafasi niulize maswali mawili madogo pamoja na shukrani kwa Mheshimiwa Naibu Waziri kwa majibu yake.</seg>
+          <seg xml:id="seg304">Nianze na masikitiko katika jibu lake kusema Serikali haina hata mpango wa kuweka Mdhibiti katika masuala haya ya viwanja na mashamba. Nadhani ni vyema ikawa na mpango. Lakini katika suala langu la kwanza ni kwamba wananchi wengi wa kawaida wanauziana viwanja na mashamba kwa Balozi wa Nyumba Kumi, kwa Mwenyekiti wa Kitongoji na kumalizana huko huko, kwa nini Serikali isiweke utaratibu mzuri zaidi?</seg>
+          <seg xml:id="seg305">Lakini la pili na muhimu zaidi ni kwamba huko Wilayani tunakotoka na waliko wananchi wengi kwenye Halmashauri zetu Idara za Ardhi hazipewi fungu lolote kabisa kwa ajili ya kupima viwanja. Hii inasababisha matatizo makubwa sana ya kujenga ovyo ovyo kule kwa mfano Kongwa, Mlali, Mkoka, Kibaigwa na maeneo mengine. Je, Serikali ina mpango gani sasa wa kuhakikisha Ofisi za Ardhi za Wilaya kila mwaka zinatengewa fungu specifically kwa ajili ya kupima viwanja na mashamba?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u72" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg306">Mheshimiwa Spika, tumewapa kisheria mamlaka Vijiji na Serikali za Mitaa kumiliki ardhi yao peke yao. Kwa maana hiyo, sio vyema kwa Serikali kuingilia kati tena na kwenda kutazama wananchi wanaouziana wenyewe kwa wenyewe. Mamlaka hiyo tumewaachia Serikali za Mitaa akiwemo Mwenyekiti pamoja na Wajumbe wa Halmashauri ya Serikali ya Mtaa ili kuweza kuhakikisha kwamba haki inatendeka kwa wananchi wanaouziana mashamba yao.</seg>
+          <seg xml:id="seg307">Mheshimiwa Spika, pili, Serikali mwaka 1993 ilianzisha Mfuko unaoitwa Plot Development Revolving Fund na ikaanza na msingi wa Sh.50mil kwa nia ya kuwezesha Halmashauri za Miji kukopa fedha na kupima viwanja. Kilichotokea ni kwamba Halmashauri 16 walirejesha mkopo huo lakini zingine zaidi ya 16 mpaka sasa bado hawajarudisha mkopo huo. Labda tungehimiza Halmashauri ambazo hazijarudisha mikopo warejeshe ili kuweza kupatikana fedha za kuweza kupima viwanja ambavyo vinaweza vikasaidia wananchi wa mijini pamoja na vijijini.</seg>
+          <seg xml:id="seg308">Mheshimiwa Spika, vile vile Wizara yangu mwaka 2000 ilichukua mkopo kutoka Hazina na kupima viwanja katika Jiji la Dar es Salaam na sasa hivi Mfuko huo ni kama Revolving Fund ambapo tunawapa Halmashauri mbalimbali ili waweze kupima viwanja na mpaka sasa tumekwishapima viwanja 50,000 nchi nzima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u73" who="Spika">
+          <seg xml:id="seg309">Waheshimiwa Wabunge, muda wa maswali umekwisha na maswali yamekwisha.</seg>
+          <seg xml:id="seg310">Naomba nikumbushe kwamba hivi punde zimegawiwa nakala za orodha ya nyongeza ya shughuli za leo. Hii inatokana na ukweli kwamba Kamati iliyokuwa inashughulikia Miswada ya leo haikuweza kukamilisha shughuli zake kwa sababu kulikuwa na marekebisho kadhaa yaliyopendekezwa kuhusu Miswada hiyo na haukupatikana muda jana kumaliza kazi hiyo kwa sababu Mwanasheria Mkuu alikuwa hajapitia kwa sababu ilikuwa ni jioni. Sasa yanapitiwa leo na nitakapositisha shughuli kwa asubuhi hii mkumbuke kwamba kwa asubuhi hii saa 11.00 kuna Muswada mmoja au miwili itakuwa tayari kama inavyoonyesha hapo kwamba „The Environmental Health Practitioners Registration Bill” utakuwa tayari. Kwa hiyo saa 11.00 tutaendelea na shughuli za Miswada.</seg>
+          <seg xml:id="seg311">Mheshimiwa Mwanakhamis Said ana mgeni wake anaitwa Ndugu Issa Mohamed Suleiman, Mbunge wa zamani wa Jimbo la Magomeni katika Bunge lililopita. Mheshimiwa Issa yule pale, karibu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u74" who="Spika">
+          <seg xml:id="seg312">Ninayo taarifa ya wageni wa Mheshimiwa Vuai Abdallah Khamis, nao nitawatamka. Naomba wasimame ili Waheshimiwa Wabunge wawatambue.</seg>
+          <seg xml:id="seg313">Mheshimiwa Sheha Ali Mcha, Mheshimiwa Petro Malale Cheyo, Mheshimiwa Time Mohamed Hemed, Mheshimiwa Amir Abdallah Hassan, Mheshimiwa Mariam Omar Said, Mheshimiwa Abdallah Fundi, Mheshimiwa Juma Machano, Mheshimiwa Saada Haji Hassan, Mheshimiwa</seg>
+          <seg xml:id="seg314">Mwaka Mwinyijuma na Mheshimiwa Sichana Ali Vuai, wale pale. Karibuni sana ndugu zetu kutoka Zanzibar. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u75" who="Spika">
+          <seg xml:id="seg315">Yupo mgeni wa Mheshimiwa Siraju Kaboyonga kwa jina anaitwa Daniel Mhina ni Katibu wa Jimbo lake kule Tabora Mjini, yule pale. Karibu sana, karibu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u76" who="Spika">
+          <seg xml:id="seg316">Pale kwenye eneo la Spika (Speaker’s gallery), ninao Waheshimiwa wafuatao: Mheshimiwa Asha Abdallah Juma, Mjumbe wa Baraza la Wawakilishi na Waziri wa Kazi Maendeleo ya Vijana, Wanawake na Watoto (SMZ), yule pale, ahsante karibu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u77" who="Spika">
+          <seg xml:id="seg317">Pia yupo rafiki yangu Salim Juma Othman, Waziri Mstaafu na Mkuu wa Mkoa Mstaafu. Tulikwenda naye kozi moja ya Wakuu wa Mikoa siku za nyuma kule Ireland, ni mtu mstaarabu sana huyu. Ukikaa na mtu wiki tatu katika mazingira ya hoteli unamwelewa tabia zake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u78" who="Spika">
+          <seg xml:id="seg318">Taarifa za Vikao. Mheshimiwa Omar Kwaangw’, Mwenyekiti Kamati ya Huduma za Jamii, anaomba Wajumbe wa Kamati ya Huduma za Jamii wakutane saa 4.30 asubuhi hii katika ukumbi Na. 231.</seg>
+          <seg xml:id="seg319">Mheshimiwa Alhaj Mohamed Missanga, Mwenyekiti wa Kamati ya Miundombinu, anaomba Wajumbe wote wa Kamati ya Miundombinu wakutane leo tarehe 31 Oktoba, 2007 saa 5.00 asubuhi katika ukumbi Na. 219 ghorofa ya 2 katika jengo la Utawala. Kwa hiyo, Kamati ya Miundombinu kwa kuzingatia Miswada mitatu wana kazi kubwa mbele yao bila kukosa saa 5.00 asubuhi ukumbi Na. 219.</seg>
+          <seg xml:id="seg320">Waheshimiwa Wabunge, baada ya hapo, nasitisha Shughuli za Bunge hadi hapo saa 11.00 jioni.</seg>
+        </u>
+        <note>(Saa 04.38 Asubuhi Bunge lilifungwa Mpaka Saa 11.00 jioni)</note>
+        <note>(Saa 11.00 jioni Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u79" who="Spika">
+          <seg xml:id="seg321">MISWADA YA SHERIA YA SERIKALI</seg>
+          <seg xml:id="seg322">Muswada wa Sheria ya Usajili wa Wataalam wa Afya na Mazingira wa</seg>
+          <seg xml:id="seg323">Mwaka 2007 (The Environmental Health Practitioners Registration Bill, 2007)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u80" who="WaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg324">Mheshimiwa Naibu Spika, naomba kutoa hoja kwamba Muswada wa Sheria ya Usajili wa Wataalam wa Afya na Mazingira (The Environmental Health Practitioner Registration Bill, 2007), kama ilivyopangwa kwenye shughuli za leo pamoja na marekebisho yake yaliyoambatanishwa, sasa usomwe kwa mara ya pili.</seg>
+          <seg xml:id="seg325">Mheshimiwa Naibu Spika, awali ya yote, napenda kumshukuru Mwenyezi Mungu kwa kutuwezesha kuhudhuria Mkutano huu wa Bunge. Kabla sijaanza kutoa hoja yangu, naomba niungane na Waheshimiwa Wabunge walionitangulia kwa kutoa salamu za rambirambi kwa niaba ya wananchi wa Rungwe Magharibi kwa familia ya aliyekuwa Waziri wa Maendeleo ya Jamii, Jinsia na Watoto, Hayati Salome J. Mbatia, aliyetutoka tarehe 24 Oktoba mwaka huu huko Kibena, Wilaya ya Njombe, Mkoani Iringa. Kwa hakika kifo chake kimeacha pengo kubwa kwa Taifa. Mwenyezi Mungu ailaze roho yake mahali pema peponi, amen.</seg>
+          <seg xml:id="seg326">Mheshimiwa Naibu Spika, napenda kuwashukuru wajumbe wa Kamati ya Huduma za Jamii kwa mchango wao mkubwa ambao umeniwezesha kuwasilisha Muswada huu Bungeni. Pia napenda kuishukuru Ofisi ya Mwanasheria Mkuu wa Serikali kwa kuandaa Muswada huu na kwa kuandaa jedwali la mabadiliko kwa wakati. Aidha, shukrani za pekee ziwaendee wadau wote walioshiriki kujadili Muswada huu kwa kina na kuleta mapendekezo ambayo tumeyazingatia.</seg>
+          <seg xml:id="seg327">Mheshimiwa Naibu Spika, katika miaka ya hivi karibuni, nchi yetu imekabiliwa na mabadiliko katika nyanja za utunzaji mazingira, ubora wa vyakula, milipuko ya magonjwa na kuongezeka kwa magonjwa ya kuambukiza na yasiyo ya kuambukiza. Aidha, mabadiliko katika hali ya hewa yamekuwa chimbuko kubwa la majanga ya asili na yale yanayotokana na kazi za binadamu. Aidha, athari nyingi za kiafya zimesababishwa na ongezeko la watu lisiloendana na ukuaji wa makazi na kukosekana kwa vyombo madhubuti vya kusimamia na kudhibiti afya ya mazingira nchini.</seg>
+          <seg xml:id="seg328">Mheshimiwa Naibu Spika, kwa upande wa Serikali tumekuwa tukitekeleza sera ya kukasimu madaraka kwa Serikali za Mitaa yaani Decentralization by Devolution ambapo ajira za wataalam mbalimbali zinatekelezwa chini ya Serikali za Mitaa moja kwa moja. Kutokana na mabadiliko hayo, Serikali kupitia Wizara yangu imeona umuhimu wa</seg>
+          <seg xml:id="seg329">kupendekeza kutungwa kwa Sheria ya Kusimamia na Kudhibiti Wataalam wa Afya ya Mazingira hapa nchini.</seg>
+          <seg xml:id="seg330">Mheshimiwa Naibu Spika, sheria inayopendekezwa imezingatia Sera ya Afya ya mwaka 1990 kama ilivyorejewa mwaka 2007 na Kanuni 149 (2) ya Kanuni za Utumishi wa Utumishi wa Umma na Kifungu 704 (2) cha Sheria ya Serikali za Mitaa ya mwaka 1982 ambavyo vinasisitiza kuwepo Mabaraza ya Kusajili Wataalam katika Sekta ya Afya na kusimamia shughuli za kitaalam kwa wataalam walioko katika Serikali za Mitaa.</seg>
+          <seg xml:id="seg331">Mheshimiwa Naibu Spika, madhumuni ya Muswada, Wizara yangu ndiyo msimamizi mkuu wa mambo yote yanayohusu afya ya mazingira nchini. Lakini kukosekana chombo cha kusimamia maadili na nidhamu katika utendaji kazi wa wataalam wa afya ya mazingira hali ambayo inasabisha kuzorota kwa huduma za afya ya mazingira nchini na kwa mantiki hiyo basi Serikali inapendekeza kutungwa kwa Sheria ya Usajili wa Wataalam wa Afya ya Mazingira itakayosimamia utendaji kazi na huduma za afya ya mazingira nchini.</seg>
+          <seg xml:id="seg332">Mheshimiwa Naibu Spika, kwa kutungwa sheria hii mpya, ni matarajio ya Serikali kwamba wananchi watanufaika kutokana na mambo yafuatayo:-</seg>
+          <seg xml:id="seg333">Kutakuwa na chombo cha kusimamia wataalam wa afya ya mazingira vilevile utoaji wa huduma za afya ya mazingira utaboreshwa. Wananchi watakuwa na usalama wa afya zao katika mazingira wanayoishi kutokana na utendaji bora wa utendaji wa wataalam wa afya ya mazingira. Sheria hii itatoa changamoto kwa wataalam wa afya ya mazingira katika kuleta mabadiliko katika utoaji wa huduma za afya ya mazingira katika jamii.</seg>
+          <seg xml:id="seg334">Vilevile sheria hii itasaidia kutokomeza kwa kiasi kikubwa magonjwa kama vile malaria, kipindupindu, homa ya matumbo na magonjwa mengine ya kuambukiza na yasiyo ya kuambukiza. Vilevile maadili ya utendaji kazi wa wataalam husika yataimarika na hivyo wananchi watajenga imani na Serikali yao.</seg>
+          <seg xml:id="seg335">Mheshimiwa Naibu Spika, kwa kutunga Sheria hii ya Usajili wa Wataalam wa Afya ya Mazingira, mambo yafuatayo yamezingatiwa:-</seg>
+          <seg xml:id="seg336">(i) Sheria itampa Waziri mwenye dhamana ya Afya na Ustawi wa Jamii mamlaka ya kuteua wajumbe na viongozi wa Baraza la Usajili wa Wataalam wa Afya ya Mazingira. Pia itaainisha majukumu mbalimbali ya Baraza pamoja na kuunda Kamati mbalimbali na majukumu yao.</seg>
+          <seg xml:id="seg337">(ii) Sheria itaweka masharti ya usajili wa wataalam wa afya ya mazingira. Sanjari na masharti hayo ya usajili itaainisha vilevile aina mbalimbali za usajili wa</seg>
+          <seg xml:id="seg338">(iii) Sheria itafafanua wajibu wa wataalam wa afya ya mazingira na kubainisha Kanuni na miiko ya kinidhamu inayotakiwa kuzingatiwa na wataalam hawa.</seg>
+          <seg xml:id="seg339">Mheshimiwa Naibu Spika, mpangilio wa Muswada. Kwa kuzingatia mambo yaliyoainishwa hapo juu, Muswada huu umegawanyika katika sehemu tisa zifuatazo:-</seg>
+          <seg xml:id="seg340">Sehemu ya kwanza inahusu vipengele vya mwanzo ambavyo ni jina la sheria, matumizi ya sheria na tafsiri ya misamiati mbalimbali iliyotumika katika Muswada huu.</seg>
+          <seg xml:id="seg341">Sehemu ya pili, inahusu uanzishwaji wa Baraza la Wataalam wa Afya ya Mazingira. Sehemu hii pia inataja shughuli za kazi mbalimbali za Baraza hilo, uanzishwa wa Kamati mbalimbali na uteuzi wa Msajili wa Baraza.</seg>
+          <seg xml:id="seg342">Sehemu ya tatu, inaweka masharti ya usajili wa wataalam wa afya ya mazingira kwa kuzingatia elimu, uzoefu kazini na uraia.</seg>
+          <seg xml:id="seg343">Sehemu ya nne, inataja kazi za wataalam wa afya ya mazingira, inaweka masharti ya kufutwa na kusimamishwa kazi kwa wataalam wa afya ya mazingira katika daftari la usajili la wataalam hao.</seg>
+          <seg xml:id="seg344">Sehemu ya tano, inaweka utaratibu wa kufutwa na kurejeshwa kwa usajili wa wataalam wa afya ya mazingira.</seg>
+          <seg xml:id="seg345">Sehemu ya sita, inaweka utaratibu wa kupokea na kuchunguza malalamiko na rufaa dhidi ya utekelezaji wa sheria hii.</seg>
+          <seg xml:id="seg346">Sehemu ya saba, inahusu masharti ya fedha na wajibu wa Msajili kutunza hesabu za Baraza.</seg>
+          <seg xml:id="seg347">Sehemu ya nane, inaainisha makosa na adhabu zitakazotolewa chini ya sheria hii.</seg>
+          <seg xml:id="seg348">Sehemu ya tisa, inaainisha na kuweka masharti ya jumla ikiwemo kinga dhidi ya jambo lolote linalofanywa na Baraza, Kamati na Msajili na uwezo wa Waziri mwenye dhamana wa kutengeneza Kanuni. Vilevile sehemu hii inaweka masharti ya mpito kwa wataalam wa afya ya mazingira ambao hawakuwa wamesajiliwa kabla ya kuanza kutumika kwa sheria hii.</seg>
+          <seg xml:id="seg349">Sehemu ya kumi na ya mwisho ina majedwali ambayo yameainisha masuala mbalimbali ikiwemo muundo wa Baraza, taratibu za mikutano ya Baraza, ada mbalimbali zitakazotozwa kutokana na usajili chini ya sheria inayopendekezwa, fomu ya maombi ya usajili na kanuni za maadili zitakazosimamia wataalam wa afya ya mazingira nchini.</seg>
+          <seg xml:id="seg350">Mheshimiwa Naibu Spika, nina imani kubwa kwamba Sheria hii itakapoanza kutumika kutakuwa na mabadiliko makubwa kwenye utoaji na upatikanaji wa huduma bora za afya ya mazingira hapa nchini.</seg>
+          <seg xml:id="seg351">Mheshimiwa Naibu Spika, kwa kuhitimisha, mapendekezo ninayowasilisha mbele ya Bunge hili Tukufu, yamezingatia maoni ya wadau ambayo tuliyapata katika ngazi mbalimbali za maandalizi ya Muswada huo. Aidha, maoni ya Waheshimiwa Wabunge wa Kamati ya Huduma za Jamii yamezingatiwa. Kamati hii chini ya uongozi makini wa Mwenyekiti wake Mheshimiwa Omar Shaban Kwaangw’, Mbunge wa Babati Mjini kwa michango yao waliyotoa na kwa hakika michango hiyo ililenga kuboresha Muswada ulio mbele yenu. Jedwali la marekebisho lililoambatishwa katika shughuli za leo ni matokeo ya michango mizuri tuliyoipata kutoka kwenye Kamati. Napenda kuchukua nafasi hii kutoa shukrani za kipekee kwa Kamati hii kutokana na michango yao na ushirikiano mkubwa ambao tumekuwa tukiupata toka kwenye Kamati hii. Nasema ahsanteni sana.</seg>
+          <seg xml:id="seg352">Mheshimiwa Naibu Spika, mwisho, naomba nimalizie kwa kuwaomba Waheshimiwa Wabunge waweze kujadili mapendekezo yaliyomo katika Muswada huu na hatimaye kuupitisha ili uwe Sheria ya Wataalam wa Afya ya Mazingira (The Environmental Health Practitioners Registration Act ya mwaka 2007).</seg>
+          <seg xml:id="seg353">Mheshimiwa Naibu Spika, kwa heshima kubwa, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u81" who="WaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg354">Mheshimiwa Naibu Spika, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u82" who="MwenyekitiWaKamatiYaHudumaZaJamii">
+          <seg xml:id="seg355">Mheshimiwa Naibu Spika, kwa niaba ya Wajumbe wa Kamati ya Bunge ya Kudumu ya Huduma za Jamii, naomba kutumia nafasi hii kutoa rambirambi kwa familia ya marehemu Mheshimiwa Salome Mbatia ambaye alikuwa Naibu Waziri wa Wizara ya Maendeleo ya Jamii, Jinsia na Watoto na wananchi wa Mkoa wa Kilimanjaro kwa kifo chake. Mungu ailaze roho yake mahali pema peponi, amen.</seg>
+          <seg xml:id="seg356">Aidha, naomba nitumie nafasi hii kutoa pole kwa Waheshimiwa Wabunge wote waliopatwa na ajali mbaya za magari akiwemo Mheshimiwa Mudhihir Mudhihir, Mbunge wa Jimbo la Mchinga na Mheshimiwa Prof. Juma Kapuya, Mbunge wa Urambo Mashariki na Waziri wa Ulinzi na Jeshi la Kujenga Taifa. Tunawaombea kwa Mungu wapone haraka.</seg>
+          <seg xml:id="seg357">Mheshimiwa Naibu Spika, Kamati yangu uliipa jukumu la kufikiria Muswada wa Sheria ya Usajili wa Wataalam wa Afya ya Mazingira wa mwaka 2007. Kamati ilikutana na ilipata maelezo ya Mheshimiwa Waziri wa Afya na Ustawi wa Jamii na pia ilipata maoni ya wadau wa Muswada na hatimaye kupitia vifungu vyote vya Muswada.</seg>
+          <seg xml:id="seg358">Mheshimiwa Naibu Spika, Kamati inaunga mkono Muswada wa Sheria ya Wataalam wa Afya ya Mazingira kwa sababu kumekuwepo na mabadiliko mengi katika kukabiliana na changamoto mbalimbali katika nyanja za uchafuzi wa mazingira, ubora wa vyakula na milipuko ya magonjwa na kuongezeka kwa magonjwa ya kuambukiza na yasiyo ya kuambukizwa. Hivyo kutokana na changamoto hizo, Kamati inakubaliana na</seg>
+          <seg xml:id="seg359">Serikali kuwa kuna umuhimu wa kuwa na sheria ya kusimamia na kudhibiti wataalam wa afya ya mazingira wa hapa nchini. Kamati imeona umuhimu wa kuwa na sheria hii katika harakati za kuzingatia Sera ya Afya ya mwaka 1990 kama ilivyorejewa mwaka 1997 na pia kwa kuzingatia umuhimu wa kuanzishwa kwa Mabaraza ya Usajili ya kusajili wataalam katika sekta ya afya kulingana na Sheria na Kanuni za Utumishi wa Umma ya mwaka 2003 na pia kwa kuzingatia Sheria za Serikali za Mitaa ya mwaka 1982.</seg>
+          <seg xml:id="seg360">Mheshimiwa Naibu Spika, Kamati pia inakubaliana na Serikali kuwa sheria hii ni muhimu katika nyanja zifuatazo:-</seg>
+          <seg xml:id="seg361">(i) Katika kusimamia utendaji kazi wa Wataalam wa Afya ya Mazingira;</seg>
+          <seg xml:id="seg362">(ii) Katika kuboresha utoaji wa uhuduma za afya za mazingira;</seg>
+          <seg xml:id="seg363">(iii) Kuleta changamoto kwa wataalam wa afya ya mazingira katika kuleta mabadiliko hasa ya utoaji wa huduma za afya mazingira katika jamii; na</seg>
+          <seg xml:id="seg364">(iv) Pia Sheria hii itasaidia katika hatua za kutokomeza magonjwa kama vile malaria, kipindupindu, homa ya matumbo na magonjwa mengine ya kuambukiza na yasiyo ya kuambukiza.</seg>
+          <seg xml:id="seg365">Mheshimiwa Naibu Spika, katika kuzingatia Muswada huu, Kamati ilipitia sehemu zote tisa na vipengele vyake na hivyo kutoa maoni katika vifungu mbalimbali ambavyo Serikali imeshauriwa kuboresha kama ifuatavyo:-</seg>
+          <seg xml:id="seg366">Sehemu ya Kwanza, inahusika na tafsiri ya maneno yatakayotumika katika Muswada na kamati inashauri kuwa maneno yafuatavyo yapewe tafsiri yaani provision registration na temporary registration na nashukuru kwamba kazi hii imefanywa ipo kwenye schedule of amendment.</seg>
+          <seg xml:id="seg367">Kifungu cha 7 cha Muswada kipengele cha 7 (a) sehemu ya tatu, Kamati inashauri kipengele hicho kitolewe kwa sababu jukumu la ukaguzi wa ubora wa vyuo, majengo, mitaala na vifaa vya kufundishia linatekelezwa na vyombo vilivyoundwa kwa sheria zilizoundwa na Bunge hili. Kwa mfano, Tume ya Vyuo Kikuu (TCU) na Baraza la Taifa la Elimu ya Ufundi (NACTE) na kuwa kunaweza kujitokeza kuingiliana kwa majukumu katika vyombo hivi katika kutekeleza majukumu yake. Kamati inashauri kuwa kipengele hiki kifanyiwe marekebisho vinginevyo Kamati inashauri kiondolewe na tunashukuru kwamba kipengele hiki kimefutwa.</seg>
+          <seg xml:id="seg368">Kifungu cha 9, sehemu ya pili, Kamati inashauri kuwa madaraka ya Msajili wa Wataalam wa Afya ya Mazingira yawekewe mipaka. Aidha, Kamati inaona kuwa si vyema Msajili kuwa na uwezo wa kuingia katika jengo lolote yaani any build au kufanya kitu chochote yaani doing anything. Ushauri wa Kamati ni kuwa mamlaka ya Msajili yawe na mipaka katika kuzingatia misingi ya utawala bora, tunashukuru eneo hili nalo limerekebishwa.</seg>
+          <seg xml:id="seg369">Sehemu tatu, kifungu cha 12(b), Kamati inashauri kuwa sheria itambue kuwepo kwa madaraja mbalimbali ya taaluma za afya ya mazingira yanayotokana na viwango vya elimu. Hivyo usajili wa wataalam utofautishe wataalam wenye sifa za Shahada na Stashahada na Vyeti.</seg>
+          <seg xml:id="seg370">Aidha, kutokana na tofauti katika ngazi za taaluma, Kamati inashauri kuwa vyeo na kazi wanazopangiwa wataalam wa afya ya mazingira zitofautiane kwa kuzingatia viwango vya elimu. Utekelezaji wa ushauri huo utaleta motisha vilevile kwa watumishi wa daraja la chini kuona umuhimu wa ulazima wa kujiendeleza kitaaluma.</seg>
+          <seg xml:id="seg371">Kifungu cha 12(b), Kamati inashauri kuwa, maneno other edition qualification yaondolewe kwani tunaona kwamba yanaleta utata kwenye sehemu hiyo na tunashukuru kwamba yamefanyiwa marekebisho.</seg>
+          <seg xml:id="seg372">Kifungu cha 18(i), Kamati inaona kuwa kifungu hiki cha Muswada kinaweka masharti ya usajili wa muda kwa wataalam wa afya ya mazingira ambao si raia wa Tanzania. Kamati inashauri kuwa pamoja na masharti yaliyowekwa kwa kuzingatia maendeleo ya utandawazi na kufunguliwa milango ya soko la ajira hapa nchini, Kamati inapendekeza kuwa waombaji wa usajili wasio raia wa Tanzania waongezewe masharti ya kukamilisha kabla ya kupewa usajili wa muda na kwamba:-</seg>
+          <seg xml:id="seg373">(i) Waombaji walazimike kufanya mitihani maalum ya kuthibitisha sifa za taaluma zao;</seg>
+          <seg xml:id="seg374">(ii) Ada iliyopendekezwa kwa usajili wao wa Sh.30,000/- ibadilishwe na kuwa dola za Kimarekani 200;</seg>
+          <seg xml:id="seg375">(iii) Usajili wa muda kwa waombaji wasio raia wa Tanzania uwe ni mwaka mmoja badala ya miaka mitatu; na</seg>
+          <seg xml:id="seg376">(iv) Wawekewe masharti ya kuangaliwa au kufuatiliwa kwa karibu Surveillance kuhusu utendaji wao kwa muda wa miezi sita.</seg>
+          <seg xml:id="seg377">Kifungu cha 21(i), Kamati inashauri kuwa maneno Health Officers yaondolewe na badala yake yawekwe Health Practitioners ambayo yametumika kwenye Muswada na tunashukuru kwamba hilo limefanyika.</seg>
+          <seg xml:id="seg378">Sehemu ya nane kuhusu adhabu mbalimbali, Kamati inashauri kuwa adhabu iliyopendekezwa kwa wataalam wa afya ya mazingira watakaokiuka taratibu zinazopaswa kuzingatiwa na wanataaluma ya afya ya mazingira irekebishwe. Badala ya faini kuwa Sh.500,000/= tunaomba iwe faini isiyopungua Sh.500,000/= na isizidi Sh.1,000,000/= au kifungo kisichopungua mwaka mmoja. Tunashukuru hilo limetekelezwa.</seg>
+          <seg xml:id="seg379">Kifungu cha 27(i), Kamati ina maoni kuwa adhabu iliyopendekezwa kwa Mtaalam wa Afya ya Mazingira atakayekiuka masharti ya taaluma na Baraza la Usajili kusimamisha usajili wake kwa muda wa miezi sita haitoshi. Kamati inashauri kuwa badala yake muda huo uongezwe kufikia mwaka mmoja. Aidha Kamati inashauri kuwa ili atakayesimamishiwa usajili wake aweze kurejeshewa usajili wake ni vema akathibitishwa na watu au mtu mashuhuri kwa maandishi kuwa amejirekebisha.</seg>
+          <seg xml:id="seg380">Mheshimiwa Naibu Spika, jedwali la kwanza, Kamati inapendekeza kuwa sheria iweke wazi kuwa uwakilishi katika Baraza unazingatia jinsia pamoja na uteuzi kwa kuzingatia nafasi zao kila inapowezekana, jinsia izingatiwe.</seg>
+          <seg xml:id="seg381">Mheshimiwa Naibu Spika, pili katika Baraza kadri itakavyowezekana kuwepo uwakilishi wa sekta binafsi (private sector) ili kulinda dhana ya ushirikiano kati ya Serikali na sekta binafsi yaani public private partinership katika Baraza hilo. Tunashukuru hilo limelekebishwa vizuri.</seg>
+          <seg xml:id="seg382">Mheshimiwa Naibu Spika, jedwali la pili, Kamati inapendekeza jedwali hili lirekebishwe kama ifuatavyo:-</seg>
+          <seg xml:id="seg383">Kipengele cha pili, kwenye provisional registration badala ya ada ya Sh.20,000/= irekebishwe na kuwa Sh.25,000/=. Temporary registration kwa wageni badala ya Sh.30,000/= kama tulivyosema irekebishwe na kuwa dola za Marekani 200. Hilo limetekelezwa, tunashukuru.</seg>
+          <seg xml:id="seg384">Mheshimiwa Naibu Spika, Kamati inashauri kuwa muundo wa Idara ya Kinga uimarishwe ili Idara hii iwe na nyenzo za kufanyia kazi katika kupunguza gharama kubwa za matibabu kwa kuzingatia kuwa kinga ni bora kuliko tiba. Hilo ni la kwanza. Pili, Kitengo cha Afya na Usafi wa Mazingira kiimarishwe kwa kuwa na wataalam wa afya na usafi wa mazingira ambao ni Maafisa Afya. Aidha waendelezwe kitaaluma hadi kufikia ngazi ya Shahada kwa njia ya mafunzo kazini yaani in service training.</seg>
+          <seg xml:id="seg385">Tatu, Wizara ya Ustawi wa Jamii ifufue vyuo vya Maafisa Afya Wasaidizi ambao kazi yao ni kutoa elimu ya afya na usafi wa mazingira hasa vijijini. Hatua hii itasaidia kupunguza magonjwa ya kuambukiza ambayo yanaweza kuzuilika kama vile malaria, kipindupindu, kuhara na kuhara damu na kadhalika.</seg>
+          <seg xml:id="seg386">Nne, ni imani yetu kuwa kitengo hiki kikiimarishwa na kupewa vitendea kazi vya kutosha na bajeti yao ikiongezwa huduma za afya zitaboreka sana.</seg>
+          <seg xml:id="seg387">Mheshimiwa Naibu Spika, mwisho, naomba nitumie nafasi hii kumshukuru Waziri wa Afya na Ustawi wa Jamii na Naibu wake kwa ushirikiano waliouonyesha wakati Kamati inachambua Muswada huu.</seg>
+          <seg xml:id="seg388">Mheshimiwa Naibu Spika, naomba kuunga mkono hoja, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(K.n.y. MSEMAJI MKUU WA KAMBI YA UPINZANI KWA WIZARA YA AFYA NA USTAWI WA JAMII)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u83" who="MheFatmaAFereji">
+          <seg xml:id="seg389">Mheshimiwa Naibu Spika, kwanza kabisa, nachukua fursa hii kwa niaba ya Kambi ya Upinzani kutoa maoni kuhusu Muswada wa Sheria ya Uanzishwaji wa Utaratibu wa Kudhibiti Utoaji wa Afya ya Mazingira, Usajili wa Wataalamu wa Afya ya Mazingira na mambo yanayohusiana na shughuli zao, kwa mujibu wa Kanuni za Bunge Na.43(5)(b)(c), toleo la mwaka 2004.</seg>
+          <seg xml:id="seg390">Mheshimiwa Naibu Spika, naomba niungane na Waheshimiwa Wabunge wenzangu kutoa salamu za rambirambi kwa ndugu na jamaa wa marehemu Mheshimiwa Salome Joseph Mbatia, aliyetutoka. Naomba Mwenyezi Mungu aiweke roho yake mahali pema peponi, amen.</seg>
+          <seg xml:id="seg391">Aidha, natoa pole kwa Kiongozi wetu wa Kambi ya Upinzani, Mheshimiwa Hamad Rashid Mohammed, kwa kufiwa na mama yake mzazi. Vilevile namuombea nae aweze kupona haraka huko anakotibiwa nje ya nchi. Pia nawapa pole wale wote waliopatwa na maswahibu mbalimbali ya kidunia. Mwenyezi Mungu awape moyo wa ustahimilivu.</seg>
+          <seg xml:id="seg392">Mheshimiwa Naibu Spika, natoa pongezi kwa Mheshimiwa Waziri wa Afya pamoja na timu nzima ya Wizara kwa kuandaa Muswada huu ili kuziba pengo lililokuwepo kwa wale waliomo katika fani hii.</seg>
+          <seg xml:id="seg393">Sambamba na hilo natoa pongezi kwa Mheshimiwa Dr. Slaa, Mbunge wa Karatu ambaye kwa sasa ndiye Kiongozi wetu wa Upinzani kwa kazi kubwa anayoifanya kuhakikisha kuwa Kambi ya Upinzani inafanya kazi ambayo Watanzania wanaitegemea.</seg>
+          <seg xml:id="seg394">Mheshimiwa Naibu Spika, Kambi ya Upinzani baada ya kuupitia kiundani, kwa ujumla dhana nzima ya uanzishwaji wa taasisi hii mpya tunadhani kuna mapungufu fulani yanayosababishwa na kutokuoanisha taasisi zingine zinazofanya karibu kazi zile zile kwa madhumuni ya kuweka dhana ya kupunguza asasi za Serikali ili kupunguza matumizi ya kile kidogo kilichopo kutumiwa vizuri na kuziimarisha taasisi ambazo tayari zipo kisheria ili zilete tija kwa Watanzania kinyume chake inaunda taasisi/asasi zingine zinazohitaji mlolongo mkubwa wa uimarishwaji wake mpaka ziweze kutoa huduma iliyokusudiwa.</seg>
+          <seg xml:id="seg395">Mheshimiwa Naibu Spika, hii imejitokeza hasa baada ya kuona tafsiri ya neno „environmental health” nanukuu „means all aspects of human health and disease that are determined by factors in the environment and includes the theory and practise of assessing and controlling factors in the environment that can potentially affect health”.</seg>
+          <seg xml:id="seg396">Mheshimiwa Naibu Spika, afya ya mazingira kama ilivyoelezwa hapo juu, imetolewa kwa tafsiri pana kabisa na hivyo inahusu nyanja mbalimbali na athari zake katika afya za binadamu hivyo wataalam katika kila nyanja wajue jinsi ya kulinda afya ya mazingira ili kuepusha madhara kwa wanadamu.</seg>
+          <seg xml:id="seg397">Mheshimiwa Naibu Spika, kwa kuangalia maudhui ya nukuu hiyo hapo juu, ni dhahiri kuwa maudhui ya Sheria Na.5 ya mwaka 2003 (The Occupational Health and</seg>
+          <seg xml:id="seg398">Safety Act, 2003), Sheria Na.20 ya mwaka 2004 (The Environmental Management Act, 2004), Sheria Na.1 ya mwaka 2003 ya Chakula, Dawa na Vipodozi (Tanzania Food, Drug and Cosmetics Act, 2003) na vile vile Idara ya Mazingira (Division of Environment) iliyo chini ya Ofisi ya Makamu wa Rais, Kambi ya Upinzani inaamini kabisa kuwa sheria zilizotajwa hapo juu zinafanya baadhi ya majukumu yaliyomo katika Muswada huu wa sheria na mambo ambayo hayamo katika taasisi hizo ambazo zipo tayari kisheria ingekuwa ni bora majukumu hayo yaingizwe katika sheria tajwa hapo juu.</seg>
+          <seg xml:id="seg399">Mheshimiwa Naibu Spika, kwa hayo machache tuliyoyatoa, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u84" who="MheMohamedHMissanga">
+          <seg xml:id="seg400">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa heshima ya kuwa mzungumzaji wa kwanza katika Muswada ulio mbele yetu. Kabla sijafika mbali na baada ya kukushukuru wewe na mimi niungane na wenzangu kutoa rambirambi zangu kwa kifo cha mwenzetu Mheshimiwa Salome J. Mbatia aliyefariki tarehe 24/10/2007 na kutuachia msiba mkubwa. Kazi iliyopo ni kumwomba Mwenyezi Mungu ampokee vizuri na amuweke mahali pema peponi, amen.</seg>
+          <seg xml:id="seg401">Mheshimiwa Naibu Spika, baada ya rambirambi hizo, naomba nitumie nafasi hii kuwapa pole wenzetu ambao wamepata ajali mbalimbali hasa kutokana na usafiri wa bararabani na kadhalika katika maeneo mbalimbali. Sina sababu ya kuwataja kuokoa wakati, tunawafahamu na tuombe Mwenyezi Mungu awape nafuu wapone mapema ili tujiunge nao tena katika shughuli zetu hizi. Lakini vilevile pia niwape pole wote waliofiwa na wapendwa wao. Naomba Mwenyezi Mungu awape subira kwani kama tunavyoambiwa siku zote kila nafsi itaonja mauti.</seg>
+          <seg xml:id="seg402">Mheshimiwa Naibu Spika, napenda niipongeze Serikali kwa kuleta Muswada huu muafaka ili kusudi tuweze kufanya marekebisho yanayostahili na hatimaye tuweze kufaidika na marekebisho hayo yatakayofanywa.</seg>
+          <seg xml:id="seg403">Mheshimiwa Naibu Spika, nianze na la ujumla, zamani sisi wakati tunakuakua kulikuwa na watu wanaitwa Mabwana Afya ambao kwa kweli kazi zao zilikuwa zinafahamika. Wanapita mitaani hasa mijini humu na kuangalia hali halisi ya mazingira katika maeneo hayo kama vile barabara, mifereji na kadhalika.Walikuwa watumishi ama wa Serikali Kuu ama wa Serikali za Mitaa.</seg>
+          <seg xml:id="seg404">Kadri siku zilivyokwenda, Mabwana Afya na Mabibi Afya kwa kweli sasa wanaelekea kutoweka, mimi siwaoni! Sasa sina hakika kama wamebadilisha style ya kufanya kazi, ndiyo maana hawaonekani! Lakini ukweli unabaki pale pale kwamba hawaonekani na ushahidi kwamba hawaonekani ni kwamba hali ya mazingira ni mbaya na sisi wote tunafahamu.</seg>
+          <seg xml:id="seg405">Mheshimiwa Naibu Spika, miji ni michafu, uchafu umezagaa katika barabara mbalimbali, mifereji yetu inatoa maji ovyo. Sisi wananchi hatutimizi wajibu wetu kwa upande mmoja, lakini hata vyombo vyetu hivi kama Halmashauri zetu hizi nazo kwa upande wao hazitimizi wajibu wao na kwa sababu hiyo, suala la uchafu wa mazingira</seg>
+          <seg xml:id="seg406">limekithiri sana katika miji yetu. Sasa sina hakika hawa Mabwana Afya na Mabibi Afya wamekwenda wapi?</seg>
+          <seg xml:id="seg407">Mheshimiwa Naibu Spika, nilipokuwa nasoma Muswada huu, nimeangalia pale kwenye Kifungu cha 21, zipo kazi pale zinazotakiwa kufanywa na hao watu watakaokuwa registered. Sasa sina hakika kama haya waliyoeleza kwenye Kifungu cha 21(2)(a) mpaka (e) kitajibu hilo swali langu kwamba watakuwepo na watatumwa, watafanya kazi hizo au kifungu hiki kinazungumzia tu mambo ya profession n.k. au Bwana Afya na Bibi Afya atakapoona mambo ya uchafu n.k. asichukue hatua, ndio atakuwa amekiuka maadili ya kazi yake kama inavyoonekana kwenye Ibara ndogo ya (2) pale! Nitapenda Mheshimiwa Waziri atakapokuwa anatoa majumuisho yake, alieleze. Lakini kwa kweli ni vizuri Serikali ikajua kwamba watu wale walifanya kazi vizuri enzi hizo na wanahitajika mpaka sasa. Uko umuhimu mkubwa wa kuendedelea nao ili kuokoa mazingira na hali ya uchafu iliyopo katika miji yetu.</seg>
+          <seg xml:id="seg408">Mheshimiwa Naibu Spika, kifungu cha 12(1)kinaeleza sifa zinazostahili kusajiliwa na imejumuisha pale. Bahati mbaya sijasoma ile Schedule of Amendments, utanisamehe kama nimepotea lakini Mheshimiwa Waziri atasema. Na inajumuisha wale wenye diploma na digrii, kwamba wote wanaweza wakasajiliwa kwa umoja wao au kwa pamoja kana kwamba ukiwa na diploma au digrii, ni sawa tu kusajiliwa katika hali ya pamoja bila kuwa na categories mbalimbali ya wenye diploma na hao wenye digrii.</seg>
+          <seg xml:id="seg409">Mheshimiwa Naibu Spika, maoni yangu ni kwamba kama kweli hivyo ndivyo, mimi nadhani siyo sawa, tutakuwa hatuwatendei haki hasa wale wenye digrii. Mtu amejitahidi amesoma, amepata digrii, na mimi nimejitahidi, nimesoma, nimepata diploma. Tunatofautiana katika taaluma, katika elimu, ni vizuri pia tukatendewa haki wote, kila mmoja apewe haki yake kwa kupewa haki stahili inayohusika na ile taaluma ambayo ameipata kuliko wote wenye diploma na digrii wakajumuishwa kwenye kifungu kimoja. Mimi nadhani haitakuwa sawasawa.</seg>
+          <seg xml:id="seg410">Nilifikiri kwamba suala hili kama halijatazamwa kwenye Schedule of Amendments, basi ni vizuri Mheshimiwa Waziri aliangalie kwa sababu licha ya hiyo tu, kwanza, litawavunja moyo watu waliosoma, kwa sababu kama mimi mwenye diploma, napata stahili sawasawa na Profesa hapa, sasa nina sababu gani ya kwenda kujiunga na Chuo Kikuu ili na mimi niwe daktari au profesa?</seg>
+          <seg xml:id="seg411">Hakuna sababu kama maslahi yangu yote yanafanana na hawa wanaostahili. Kwa hiyo, tutakuwa hatuwatendei haki wale. Lakini pia tutaondoa incentive ya watu ambao hawajajiendeleza kuweza kuchukua hatua za kujiendeleza ili wapate vyeti vinavyohusika na hatimaye wanufaike na vyeti hivyo vinavyohusika.</seg>
+          <seg xml:id="seg412">Mheshimiwa Naibu Spika, ushauri wangu ni kwamba pawe na categories mbili. Moja ni ile ambayo inawahusu hawa wenye diploma na nyingine iwe inawahusu wale wenye digrii ili kutengenisha hali hiyo, vinginevyo haitakuwa sawasawa. Kwa mfano, wale wenye digrii wanaweza wakaitwa Environmental Health Practitioners na wale wenye diploma wanaweza wakasajiliwa kama Technician Practitioners. Kwa kufanya</seg>
+          <seg xml:id="seg413">hivyo, tutakuwa tumewatendea haki wale wenye sifa kubwa zaidi kuliko wale wengine. Lakini wale wenye diploma wanaweza wakawekewa utaratibu mzuri wa namna ya ku- practise kwa muda wa kutosha ili hatimaye na wao waweze kuwa registered katika hiyo Professional Board. Hilo la kwanza nililotaka nichangie.</seg>
+          <seg xml:id="seg414">Mheshimiwa Naibu Spika, la pili, katika Ibara ya 18 ya Muswada ambao bahati nzuri Mheshimiwa Mwenyekiti wetu wa Kamati aliyehusika na Muswada huu amelizungumzia vizuri pale, uko usajili wa non-citizens. Na mimi nilikuwa najiuliza kwamba kweli huyu anakuja anatoka sijui wapi, ama ni Afrika au ni Ulaya, wapi ilimradi anasema tu kwamba mimi nina shahada hii, anatoa fotokopi na sisi tunakubali, tunamsajili. Mimi nadhani kwa kweli kwa kufanya hivyo tutakuwa hatufanyi sawasawa. Kwa hiyo, nakubaliana kabisa na mawazo ya Mheshimiwa Mwenyekiti kwamba kwa kweli hawa lazima watahiniwe, wapewe mtihani.</seg>
+          <seg xml:id="seg415">Mheshimiwa Naibu Spika, wewe ni shahidi, yako malalamiko mengi katika jamii yetu hapa Tanzania kwamba wako watu wana vyeti vya uprofesa, digrii n.k. lakini ukweli ni kwamba hizo digrii zenyewe zinakuwa questionable na jamii. Sasa katika hali kama hiyo, tusiamini wenzetu hawa wanaokuja kutoka nje tu kwa sababu eti ni mzungu au kwa sababu tu katoka nchi fulani ya Afrika, akatuonyesha, tukamwamini, tukamsajili na tukamwacha afanye kazi zile ambazo anaweza kabisa akaathiri kazi zile kutokana na hali aliyonayo.</seg>
+          <seg xml:id="seg416">Kwa hiyo, ushauri wangu kama vile ambavyo amesema Mheshimiwa Mwenyekiti wetu wa Kamati, na mimi nakubaliana naye na Kamati kwamba kwa kweli lazima hawa watahiniwe. Walionekana kwamba wanafaa pamoja na vyeti vyao, sasa ndio waweze kusajiliwa na kwamba muda wa miaka mitatu ndiyo wasajiliwe.</seg>
+          <seg xml:id="seg417">Halafu la pili, nakubaliana naye vilevile, amekwishanifilisi kiasi fulani kwamba kumtoza shilingi 30,000/= kama mzawa au kama Mtanzania, mimi nadhani siyo sawasawa, hawa watozwe kwa dola. Mwezangu amependekeza dola 200. Mimi nasema sina tatizo, lakini angalau kwa dola ili kutofautisha na huyu mzalendo aliyepo hapa, tusijifanananishe na wenzetu.</seg>
+          <seg xml:id="seg418">Mheshimiwa Naibu Spika, moja ya kazi tuliyonayo kwa watalaamu wetu ni kulinda ajira au kukuza ajira kwa Watanzania na kutoendelea kuwapapatikia hao wageni kutoka nchi za nje. Hilo la muhimu sana na hii ni katika professiona mbalimbali, si katika hii tu, iwe ni katika uhandisi, utawala n.k. Ni lazima tufike mahala tuwalinde sana wataalamu wetu ambao tumetumia hela yetu ndogo kuwafundisha na sasa wameelimika lakini wanajikuta hawana jambo la kufanya. Kwa hiyo, hilo nakubaliana nalo.</seg>
+          <seg xml:id="seg419">Jambo jingine ambalo ninapenda kuzungumzia, kama nilivyosema mwanzo, hii fani ya Mabwana Afya na Mabibi Afya inataka kuonekana kwamba imetoweka toweka hivi. Kwa hiyo, kweli hili mimi nataka nilisisitize kwamba Serikali na hasa Halmashauri zetu lazima ziwe na utaratibu wa kuajiri watu wa kutosha na vilevile wafanye kazi inayostahili na sisi wakazi katika miji tutungiwe kanuni na taratibu za kufuata ambazo zitasaidia kuweka mazingira yetu sawasawa kuliko utaratibu wa sasa ambao mambo</seg>
+          <seg xml:id="seg420">yanafanyika siyo mazuri kiasi kwamba tumepoteza kabisa sifa ya kuwa na usafi katika miji yetu na tunaendelea kuharibu na mazingira yetu na wakati tumekubaliana hapa moja ya kazi nzuri ambayo inafanywa na Ofisi yetu ya Makamu wa Rais ni kuona kwamba suala la mazingira linapewa kipaumbele, Hivyo, hawa nao wakifanya kazi yao sawa sawa, nadhani watatoa mchango mkubwa katika suala hilo.</seg>
+          <seg xml:id="seg421">Mheshimiwa Naibu Spika, baada ya kusema hayo, naomba nikushukuru kwa mara nyingine tena. Naunga mkono hoja mia kwa mia. Asante sana! </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u85" who="MheJobYNdugai">
+          <seg xml:id="seg422">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi hii ili na mimi niweze kuchangia katika Muswada ulio mbele yetu. Nianze kwa kutoa salamu za rambirambi kwa niaba ya wananchi wa Kongwa kwa msiba uliolipata Taifa wa Mheshimiwa Naibu Waziri, Salome Mbatia. Mwenyezi Mungu aiweke roho ya Marehemu mahali pema peponi, Amin! Pia natoa pole kwa Mheshimiwa Prof. Juma Kapuya kwa ajali aliyoipata. Tunamwombea kwa Mwenyezi Mungu aweze kupona haraka ili aweze kujiunga nasi hapa Bungeni.</seg>
+          <seg xml:id="seg423">Nianze kwa kutoa pongezi kwa Prof. David Mwakyusa, Waziri wetu wa Afya kwa uwasilishaji mzuri alioufanya jioni ya leo kuhusiana na sheria inayopendekezwa, sheria ambayo inaweka utaratibu wa kudhibiti utoaji wa huduma za Afya na Mazingira na kuanzisha Baraza la Wataalamu wa Afya ya Mazingira. Hili ni jambo la kupongezwa sana.</seg>
+          <seg xml:id="seg424">Tunaunda chombo cha maadili na nidhamu pia chombo kitakachohusika na masuala ya usajili wa watalaamu, na wataalamu hawa ni muhimu sana. Wanahusika na usafi na afya ya mazingira kwa maana ya hewa safi, kuhakikisha maji tunayokunywa ni maji safi, kuhakikisha chakula tunachokula ni salama kabisa, kuhakikisha kwamba uchafuzi wa mazingira kutokana na viwanda na maeneo mengine, vyanzo vingine vya uchafuzi wa mazingira, unadhibitiwa.</seg>
+          <seg xml:id="seg425">Mheshimiwa Naibu Spika, hili tunaliunga mkono kwa vile ni jambo ambalo liko wazi kabisa. Miji yetu mingi imechafuka sana. Leo vyakula vilivyo vingi vinavyotoka baadhi ya nchi vinavyoingia nchini, vina matatizo makubwa sana ya kiafya. Wananchi wengi wamepoteza maisha yao kwa sababu ya magonjwa yanayotokana na vyakula mbalimbali; magonjwa ya kansa na matatizo mengine. Lakini kwa kuimarisha kitengo hiki cha afya ya jamii, tuna uhakika Taifa letu litakuwa katika nafasi bora zaidi ya kuhakikisha usalama wa kiafya wa wananchi wake. Nianze na mapendekezo kwamba idadi ya Maafisa Afya ni ndogo sana hasa wilayani, kwenye tarafa na kata zetu nchi nzima. Uangaliwe utaratibu wa kuongeza idadi ya vyuo vinavyohusika na kutoa watalamu wa afya vijijini. Nimkumbushe Mheshimiwa Waziri kwamba miaka ya mwisho ya ukoloni mpaka miaka ya mwanzo ya uhuru, tulikuwa na Chuo cha Afya Kongwa ambacho kikahamishiwa kuanzisha kile Chuo cha Muhimbili.</seg>
+          <seg xml:id="seg426">Kwa hiyo, kwa kila sababu, vitakapoanzishwa vyuo vipya vya afya, basi tukarudi kwenye maeneo tulipoanzia na Kongwa ikapewa kipaumbele cha kupata chuo cha afya.</seg>
+          <seg xml:id="seg427">Lakini pia hawa watu wapewe nyenzo za kufanyia kazi. Hawa wachache waliopo, nyenzo zao ni duni kabisa. Kwa hiyo, waimarishiwe huduma hizo kwa kuongezewa nyenzo.</seg>
+          <seg xml:id="seg428">Mheshimiwa Naibu Spika, nilisimama hasa kuzungumzia kifungu cha 12 ambacho kimefanyiwa amendment kidogo kuhusiana na lile lengo kuu la usajili wa wataalamu katika eneo hili ambapo kama alivyosema mwenzangu aliyetengulia, wanazungumziwa wataalamu wenye diploma, stashahada, cheti mahali fulani. Ningelipenda kushauri sana na ninajiuliza sana katika hili, hivi ni kwa nini kila zikija sheria za kuanzisha mabaraza ya watalaamu, tunachofanya ni kupunguza vile viwango halisi vinavyotakiwa? Iliwahi kuja sheria ya registration ya Makandarasi, ikaanza kutambua hivyo hivyo, diploma n.k. Ninajiuliza tunaenda karne ya mbele zaidi, lakini tunashusha viwango! Sababu gani inatulazimisha kushusha viwango wakati tunaimarisha elimu?</seg>
+          <seg xml:id="seg429">Mheshimiwa Naibu Spika, nilifanya zoezi kidogo kwa kuangalia wenzetu huko duniani wanafanyaje kwa kuchukulia mfano wa nchi ambayo ndiyo tumerithi mambo yake mengi, Uingereza. Wao, Environmental Health, it is a graduate profession. Lazima mtu awe amesoma miaka minne na ana experience au miaka mitatu na ana uzoefu, si chini ya hapo. Na kuna Chartered Institute inayofanya hiyo kazi ambayo ni sawasawa na hiki chombo ambacho tunakiunda hapa kwa maana ya Baraza litakalosajili watu hao. Kwa kushusha viwango vya Makandarasi, tunashangaaje leo majumba yanavyolipuka moto kila mahali! Tunashangaaje leo maghorofa yanavyoaguka!</seg>
+          <seg xml:id="seg430">Sasa katika eneo hili muhimu sana la afya ya jamii, muhimu sana kupima kule bandarini aina ya vyakula vinavyoingia katika nchi yetu, kuangalia mazingira ambayo wananchi wetu wanafanyia kazi (occupational health). Vipo viwanda ni joto tupu, saa 12 mtu yumo mle. Ni eneo ambalo linahitaji utaalamu katika wakati huu ambao tunazungumzia mabadiliko ya tabia ya nchi yanayotokana na uchafuzi wa hali ya hewa. Ni sayansi na teknolojia inayobadilika kila kukicha. Inataka wataalamu wanaojua, wenye vifaa vya kisasa, wanaoweza kushauri ipasavyo.</seg>
+          <seg xml:id="seg431">Mheshimiwa Naibu Spika, ushauri wangu ulionifanya nisimame ni kumshauri Mheshimiwa Waziri ambaye yeye mwenyewe ni profesa, mtaalamu aliyebobea, kwa kumuuliza tu swali, kwa nini unashusha viwango? Kwa nini usianzie hapo hapo kwenye shahada ya kwanza? Hivi watumishi wengine walio chini ya hapo, watajiendelezaje kitaaluma wakati hata ukiwa hapo ulipo bado utasajiliwa hata uitwe ni provisional, hata uitwe sijui nini hapo kati kati, lakini ilimradi una kibali cha kuweza ku-operate!</seg>
+          <seg xml:id="seg432">Tatizo ni nini? Kwa nini kila mtu ana class C ya udereva? Si wengine wanakuwa na hizo class nyingine na huenda pia ndiyo sababu ya ajali kuwa nyingi! Viwango! Inapofika mahali pa kuweka viwango vya kitaalamu, vya kitaaluma, mimi nashauri tusione aibu, tuweke viwango vinavyotakiwa ili kila mmoja aliye chini ya viwango hivyo, basi akitaka kuwa mtaalamu katika eneo hilo, basi ni vizuri afanye juhudi. Aingie katika vyuo vinavyotambulika, aweze kuongeza ujuzi wake ili aweze kutambuliwa na kufanya kazi ya kitaalamu kama ambavyo anadhamiria.</seg>
+          <seg xml:id="seg433">Mheshimiwa Naibu Spika, kwa ushauri huo, naomba kusema, nashukuru sana kwa fursa hii. Asante! </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u86" who="MheProfIdrisAMtulia">
+          <seg xml:id="seg434">Mheshimiwa Naibu Spika, asante sana kwa kunipa nafasi hii na mimi nichangie kidogo. Nataka kusema mimi ni mjumbe wa Kamati ya Huduma za Jamii. Muswada huu tumeupitia vizuri na kwa kweli marekebisho mengi yamefanyika. Lakini nimesimama, kwanza, kuisifu Wizara ya Afya kwa kuleta Muswada huu Bungeni kwa sababu wengi wa hawa wataalamu hawajapewa sheria inayoweza kuwadhibiti katika mwenendo wao wa kufanya kazi.</seg>
+          <seg xml:id="seg435">Kwa vile tunajua kwamba tungeweza kuzuia magonjwa mengi kama watu wanafanya kazi vizuri, basi sheria hii inatupa sisi nafasi nzuri sana ya kuweza kudhibiti namna ya utendaji kazi ya watu hawa. Lakini wakati nasifia kuletwa kwa sheria hii, bado nina tatizo kubwa sana kwamba imeandikwa kudhibiti maadili ya watumishi hawa, lakini watumishi wenyewe hawapo! Sasa hii inanipeleka katika nafasi ya pili ya kwa nini nimesimama, ni kutia mkazo tu kwamba sasa Wizara ikubali tu kuchukua hatua za haraka sana kupanua vyuo vyote vile vya wanataaluma ya Afya ya mazingira ili tuweze kuwapa nafasi wasomi wawe wengi waweze kufika sehemu kubwa ya nchi yetu.</seg>
+          <seg xml:id="seg436">Mheshimiwa Naibu Spika, siyo hilo tu, liko suala lingine la kwamba pamoja na kwamba wako wachache, lakini wapo, lakini hatuwaoni! Imekwishasemwa hapa, hawaonekani kabisa! Sasa hii sijui ni utendaji umebadilika, lakini sisi tunajua kuzuia mazalio ya mbu, inatakiwa hawa waonekane. Wakati sisi tunakua, nyumba zetu zilikuwa zinapitiwa Dar es salaam angalau kwa wiki mara moja. Watu wanakuja, wanaandika kabisa, „nimecheki nyumba hii, nimetia dawa ya wadudu hasa mbu”.</seg>
+          <seg xml:id="seg437">Vilevile utakuta watu ambao mazingira yao hawakutunza vizuri, walikuwa wanapelekwa kortini, wanatiwa adabu. Na mimi nina hakika sheria ile bado ipo, tunalohitaji ni kubadili mwendo wetu wa kazi. Kama hivi ndivyo, Wizara hii lazima ikubali kurudi nyuma kutumia nafasi yake ili tuweze kufanya kazi kwa kuhakikisha kwamba sheria hizi za afya ya mazingira zinafanya kazi.</seg>
+          <seg xml:id="seg438">Mheshimiwa Naibu Spika, vilevile, tunaona kama kuna disincentive. Kwa nini watu hawapendi kuingia kazi hii ya taaluma ya afya ya mazingira? Nadhani itakuwa lazima tukubali tutazame hawa jamaa vipi wanapata kiasi gani! Tuwawekee scheme of service nzuri, vilevile mpango wao wa malipo hata ya awali yawe mazuri na marupurupu ya kutosha kwa sababu kama mahala watu hawataki kwenda, ukiongeza nafuu sehemu ile, watu wengi watakwenda. Mimi nasema, kama wote tutakubali, turuhusu tu Wizara yetu hii ikubali kuingia gharama ya kuongeza marupurupu ya wataalamu wa afya ya mazingira kwa sababu hiyo ndiyo kitakuwa kivutio kikubwa cha watu wengi kujiunga na taaluma hii.</seg>
+          <seg xml:id="seg439">Mheshimiwa Naibu Spika, naomba vilevile kama ikiwezekana, zamani tulikuwa tunaona maafisa wanakuja katika shule hasa vile vidato vya mwisho vinavyomaliza, wanawaambia wanafunzi jiungeni na kozi hii, ina faida hii na wale wanafunzi</seg>
+          <seg xml:id="seg440">wanavutiwa tangu shule. Lakini tusingoje mpaka wamekwishatoka, halafu tunangojea kuwapa kazi ambayo mvuto wake mdogo na kwa hiyo, hatupati watumishi wa kutosha.</seg>
+          <seg xml:id="seg441">Mheshimiwa Naibu Spika, mwisho, mimi binafsi, naamini sana kwamba katika Wizara ya Afya, Idara ya Kinga (Preventive Services) ipewe nafasi kubwa sana ili iweze kuzuia magonjwa mengi na watu walio katika mstari wa mbele kuzuia magonjwa hayo ni hawa watumishi wataalamu wa afya ya mazingira. Baada ya kusema haya, nakushukuru sana, asante sana! </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u87" who="MheWilliamHShelukondo">
+          <seg xml:id="seg442">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ili na mimi nitoe mchango wangu kidogo tu. Kwanza, napenda kumpongeza sana Mheshimiwa Waziri, Prof. David Mwakyusa kwa kuleta Muswada huu. Muswada huu ni muhimu kwa sababu nchi inavyoendelea inabidi watu wapangwe kwa kuangalia taaluma ambazo zipo. Kwa hiyo, mimi naunga mkono kabisa Muswada huu wa kuanzisha kada mpya.</seg>
+          <seg xml:id="seg443">Mheshimiwa Naibu Spika, hii kada kama alivyotangulia kusema Mbunge mwenzangu hapa, haipo! Tuna Maafisa wa Afya, lakini hawa ni wa mazingira. Mazingira sasa hivi ni kitu ambacho kinapewa umuhimu mkubwa sana kwamba ukienda nayo vibaya, basi hata uchumi unaweza kuharibika. Kwa hiyo, naunga mkono kabisa uanzishaji wa kada hii na kwamba taratibu zote zile na kuwajenga kitaaluma zichukuliwe ili tupate watu bora zaidi. Watu hao hawapo, lakini kuna watu ambao wamechukua fani nyingine ambazo wakiongezea mafunzo, wanaweza kuwa ni watendaji bora sana.</seg>
+          <seg xml:id="seg444">Mimi nitakwenda zaidi kwenye Muswada wenyewe. Katika sehemu ya pili, Kifungu cha 9 ambacho kinaorodhesha majukumu ya Msajili, ukurasa wa 8. Ningependa kwenye kifungu cha 9(c), nikubaliane kidogo na Waziri kwamba nadhani tungebadili hiyo (c) hapo, kuna neno limeandikwa ambalo ukiliacha hivi hivi, linatoa fikra tofauti. Panaposema; „make necessary alterations or corrections in the register.” Sasa ku-alter ni kwamba unakwenda kinyume cha utaratibu. Mimi nadhani tungekubaliana tungetumia „amendments”. „make necessary amendments in the register”. Alterations zinaweza kuwa na connotation zingine na mtu akafanya hizo alteration na ukaambiwa sheria inani- empower kufanya alterations.</seg>
+          <seg xml:id="seg445">Mheshimiwa Naibu Spika, eneo lingine ambalo nilitaka liwe wazi, kwa sababu tunatoa majukumu haya kwa mtu, tusiache mwanya hata kidogo mahali popote. Kile kifungu cha 9(f) kinachosema „establish and maintain relationships with organizations, institutions and agencies and may be appropriate for facilitating the implementation of the polices and the carrying out of the functions of the council”. Sasa tukimwachia tu hivi, organizations, hivi hata organizations za siasa vilevile anaweza tu kufanya nazo kazi. Naona tungem-restrict kwenye zile professional renowned organizations. Ukiacha tu organizations, anaweza kuingia tu na organization yoyote ile, akasema lakini ni sheria imenipa wazi. Kwa hiyo, ni vizuri tukawa specific kwenye kumpa mtu madaraka ili tusimpe mwanya wa kufanya vingine au tusije tukamlaumu kwa jinsi tulivyoweka sheria.</seg>
+          <seg xml:id="seg446">Mheshimiwa Naibu Spika, katika kifungu hicho hicho, kifungu kidogo cha (2), ule ukurasa wa 9, pale kidogo tungekiweka kiwe wazi zaidi kuliko kukiacha kikampa nafasi mtu ya kuweza kufanya chochote. Kwa mfano, unaposema, the Registrar shall have powers to enter into any building or premises for the purpose of doing anything.“Anything!“</seg>
+          <seg xml:id="seg447">Mimi nadhani tungekuwa specific kwamba angeingia pale „for the purpose of conducting investigations or checking on specific professional issues”. Kwa sababu tuna wananchi vilevile huko, isije ikawa nafasi tu ya mtu kutumia sheria kufanya vitu vingine. Inasema, „can do anything!” Nafikiri pale tungekubaliana tui-recast hiyo, tuipe kidogo iwe specific kuliko kusema tu „doing anything!” Purpose of doing anything!”</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u88" who="NaibuSpika">
+          <seg xml:id="seg448">Rudia mapendekezo yako!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u89" who="MheWilliamHShellukindo">
+          <seg xml:id="seg449">Mheshimiwa Naibu Spika, pendekezo langu ni kwamba tutake kusema hivi, „for the purpose of conducting investigation or checking on specific professional issues”. Maana yake hapa tunazungumzia professional issues. Kwa hiyo, kama ni kuingia ku-check kama mitaro imetengenezwa vizuri, hakuna nini…, hivyo ndivyo vitu viwe specific. Sasa akiingia tu kwenye nyumba ya mtu akasema mimi sheria inani-empower kuingia hapa, akafanya tu anything, nadhani tungekuwa specific. Mimi naona kwamba sheria hii tutakuwa tunaitelekeza huko tunakokwenda. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u90" who="MheWilliamHShellukindo">
+          <seg xml:id="seg450">Mheshimiwa Naibu Spika, eneo lingine ambalo nina mchango kidogo ni kifungu cha 18, ukurasa wa 12 ambacho kimefanyiwa amendment kwenye hii amendment ambayo imezungumzwa na bahati nzuri hata Mwenyekiti wa Kamati ameitaja. Kile kifungu cha 18, kimeongezwa kifungu kipya cha 5 ambacho kinasema; „a person registered under this section shall be subject to surveillance for a period of six months”.</seg>
+          <seg xml:id="seg451">Mimi naona tungesema probation surveillance. Hiyo ni ya kijasusijasusi, vitu vya kumuweka mtu kwenye kutumiatumia na kwenye kutumia vyombo vingine. Wenzetu ambao wapo katika maeneo ya kijeshi huko surveillance ni neno zito sana kulitumia katika profession area, nadhani profession ingeweza kusaidia zaidi.</seg>
+          <seg xml:id="seg452">Mheshimiwa Naibu Spika, huo ndiyo mchango wangu, naunga mkono hoja hii, ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u91" who="NaibuSpika">
+          <seg xml:id="seg453">Ahsante sana, hawa ndiyo wachangiaji walioomba, wengine hawapo. Sasa namwomba mtoa hoja ajibu hoja hizo na pengine vile vifungu walivyovisema mviangalie, tena tutakapofika kwenye Kamati ya Bunge Zima, wanaweza wakajitokeza, kwa hiyo, muangalie tena. Mtoa hoja Mheshimiwa Waziri wa Afya!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u92" who="WaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg454">Mheshimiwa Naibu Spika, naomba nikushukuru ili niweze kuhitimisha hoja yangu. Napenda nitoe shukrani zangu za dhati kwa Waheshimiwa wabunge wote ambao wamepata nafasi ya kuchangia ama kwa</seg>
+          <seg xml:id="seg455">mdomo au kwa maandishi, wote nawashukuru kwa kuboresha hoja niliyoileta mbele ya Bunge.</seg>
+          <seg xml:id="seg456">Mheshimiwa Naibu Spika, naomba niwatambue wale waliochangia kwa kuzungumza hapa Bungeni. Kwanza, alikuwa Mheshimiwa Omar Kwaangw’, Mwenyekiti wa Kamati ya Huduma za Jamii, Mheshimiwa Fatma Fereji aliyetoa maoni ya Kambi ya Upinzani, Mheshimiwa Alhaj Mohammed Missanga, Mheshimiwa Job Ndungai, Mheshimiwa Prof. Idriss Mtulya na Mheshimiwa William Shelukindo.</seg>
+          <seg xml:id="seg457">Waliochangia kwa maandishi naomba niwatambue kama ifuatavyo: Mheshimiwa Prof. Raphael Mwalyosi, Mheshimiwa Vwai Abdallah Khamis, Mheshimiwa Suzane Lyimo, Mheshimiwa George Lubeleje, wote nawashukuru kwa michango yao na ningependa nijibu baadhi ya hoja ambazo zilitolewa na Waheshimiwa Wabunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg458">Mheshimiwa Naibu Spika, Mwenyekiti wa Kamati alikubaliana na maoni ya Serikali na alipitia vifungu ambavyo Kamati iliona vifanyiwe mabadiliko na kwa bahati nzuri vyote vilifanywa marekebisho kama ilivyooneshwa kwenye jedwali. Aliishia kwa kutoa ushauri kwamba Idara ya Kinga iimarishwe pamoja na kitengo kinachoshughulikia athari ya mazingira. Tutauchukua ushauri huo ambao umejitokeza tena hata alipochangia Mheshimiwa Mtulya na wengine ikiwa ni pamoja na Mheshimiwa Suzan Lyimo kwamba ni bora tuimarishe kinga kwa sababu kinga ni gharama ndogo kuliko tiba.</seg>
+          <seg xml:id="seg459">Vilevile ameshauri kwamba vyuo vya Maofisa Afya Wasaidizi vifunguliwe na ningependa nijumuishe hili pamoja na suala zima la uhaba wa wafanyakazi hawa ambao karibu wote waliopata nafasi ya kuzungumza wamelizungumzia, kwamba walikuwepo lakini hatuwaoni sasa. Zamani walipokuwa wanapita mijini na sisi tulikuwa tunakaa vijijini kweli tulikuwa tunawaona. Lakini niseme tu kwamba watumishi wa sekta ya afya ni wachache katika sekta zote katika kada zote na mtakuwa na taarifa kwamba huu mpango ambao ndiyo tunaanza kuutekeleza wa MAMM (Mpango wa Maendeleo ya Afya ya Msingi), suala la uhaba wa wafanyakazi limetiliwa mkazo.</seg>
+          <seg xml:id="seg460">Tunazungumza habari za kuongeza vituo vya kutolea huduma na jinsi tutakavyoongeza kasi ya kupambana na magonjwa, lakini suala la uhaba wa watenda kazi hilo limepewa kipaumbele kwa kuanza kulitekeleza kwa mwaka huu kwa kupanua vyuo ambavyo tunavyo lakini pia kuna vyuo viwili ambavyo vilikuwa vimefungwa, cha Mpanda na Chuo Cha Kagemu. Hivi tumekwishavifungua na tumeongeza usaili kwa asilima 40 kwa wale tuliokuwa tunawasaili miaka ya nyuma. Mategemeo yetu ni kwamba mwaka ujao kwa jinsi tutakavyopanua hivi vyuo, mabweni, vyombo vya kufundishia na kujifunzia, tutasaili vijana wengi zaidi. Matarajio yetu ni kwamba kwa kada hii pamoja na kada zingine tutapiga hatua jinsi tunavyokwenda.</seg>
+          <seg xml:id="seg461">Mheshimiwa Fatma Fereji kwa niaba ya Kambi ya Upinzani amesema kwamba hiki chombo kinachoundwa sasa hivi kuna vyombo tayari ambavyo vinafanya kazi ya namna hiyo, kwa hiyo ni gharama zisizo za maana. Halafu kazungumzia habari za sheria zingine zilizopita. Ningependa nimweleweshe Mheshimiwa Mbunge kwamba</seg>
+          <seg xml:id="seg462">tunachozungumzia hapa ni kusajili Maafisa, hatuundi chombo kwa maana ya kwamba tutafanya kazi occupational, tunazungumzia habari ya wafanyakazi ambao hata huko nyuma walikuwepo. Kutokana na shughuli zao tunaona utendaji wao haukidhi, ndiyo maana tukawaundia hiki chombo kwa maana ya kuwaratibu tujue nani yuko wapi na nani anafanya nini na pia anafanya kazi kufuatana na maadili ili afya ya mwananchi isidhurike na hatusemi kwamba hii ni nyongeza kwa mfano ya Occupational Health Safety, Environmental Management Act ambazo zina maudhui tofauti, hapa tunazungumzia wafanyakazi.</seg>
+          <seg xml:id="seg463">Mheshimiwa Naibu Spika, Mheshimiwa Alhaji M. Missanga, nadhani nimejibu nusu lakini kulikuwa na suala kwamba sheria hii haiwatenganishi wenye diploma na wenye digrii, kwamba wote wanasajiliwa na chombo kimoja. Nadhani hapa tunazungumzia habari za chombo kimoja lakini hawasajiliwi wote kama kada moja. Tuna chombo kwa mfano kinachosajili madaktari, tuna madaktari wenye MD lakini wote AMO chombo chao ni kimoja. Kwa hiyo, hapa kazi zinafanana sana, ni utalaamu unazidiana lakini mtu mwenye diploma na mtu mwenye digrii ni chombo kimoja, wote wanakula kiapo na maadili ni yale yale na hii haitawapunguzia kwamba kwa sababu imesajiliwa basi usijiendeleze, hiyo itakuwa ni dhana potofu kabisa.</seg>
+          <seg xml:id="seg464">Mheshimiwa Naibu Spika, nakubaliana na suala kwamba wale ambao sio Watanzania washughulikiwe kwa maana ya mitihani, na kweli hilo tumeliweka na kuwaweka chini ya uangalizi wa miezi sita kabla mpaka turidhike kwamba utendaji wao ni mzuri ndiyo wanaweza wakapewa cheti.</seg>
+          <seg xml:id="seg465">Mheshimiwa Ndugai, amezungumzia pia kwamba idadi ya maafisa afya ni ndogo, tuongeze, na nyenzo zao ni duni na kwamba tumeshusha utalaamu. Nadhani hili nimelizungumza na hapa nilikuwa nazungumzia kwamba hawa wenye diploma na wenye digrii tumewaweka pamoja. Labda niseme tu kwamba wenye digrii ni wachache sana na tusingeunda hiki chombo, mategemeo yetu watakapokuwa wengi na haja ikiwepo basi tutatenganisha tuwe na vyombo viwili tofauti lakini ukiangalia kazi ambazo wanafanya zinatofautiana tu kwa ujuzi wa utalaamu lakini maadili ni yaleyale na namna ya kazi zinafanana sana.</seg>
+          <seg xml:id="seg466">Mheshimiwa Prof. Mtulya, anasema wataalamu tunaowatungia sheria ni wachache lakini hatuwaoni, nadhani hilo nimeligusia na kwamba tuangalie kwa nini ni wachache wanaoonesha nia na mapenzi ya dhana hii na kada hii na labda tuangalie scheme yao. Huu ni ushauri ambao tutakwenda tuangalie na vilevile amesisitiza kwamba kinga ipewe nafasi, ni ushauri ambao tutauchukua.</seg>
+          <seg xml:id="seg467">Mheshimiwa Naibu Spika, Mheshimiwa Shellukindo, amezungumzia kifungu namba 9 (C), nakubaliana naye kwamba hii ku-make alterations tuzungumzie habari ya amendment. Tutalifanyia kazi hili pamoja na ofisi inayohusika, na vilevile namba 9(F) nadhani hiyo pia hatuna matatizo nayo, tunashukuru kwa ushauri huo lakini namba 9(2) sijui kama umesoma amendment, maana yake iko kwenye amendment na imezungumzia hilo na tuliliona kwamba haitawezekana mtu aingie nyumba yoyote ile kama anavyotaka. Amendment inasema, The registrar shall have powers to enter into premises</seg>
+          <seg xml:id="seg468">as may be directed by the council and in his absence he may in writing assign any other officer of the council to exercise such powers as provided for under this Act.</seg>
+          <seg xml:id="seg469">Kwa hiyo, hilo suala la mtu kuingia tu mahali popote tuliliona na ndiyo tukaweka kuwadhibiti kwa njia hii. Nadhani hizi ni hoja ambazo zimetolewa na Waheshimiwa Wabunge na kwa mara nyingine nawashukuru sana. Kuna mengi ambayo yatatusaidia katika utekelezaji pale mtakapopitisha hoja yangu.</seg>
+          <seg xml:id="seg470">Mheshimiwa Naibu Spika, naomba kutoa hoja.</seg>
+          <seg xml:id="seg471">Waziri wa Utamaduni na Mafunzo ya Ufundi: Mheshimiwa Naibu Spika, naafiki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u93" who="NaibuSpika">
+          <seg xml:id="seg472">Ahsante, hoja imetolewa na kuungwa mkono, sasa tutaendelea na hatua nyingine.</seg>
+        </u>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <note>(Muswada wa Sheria ya Serikali Ulisomwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u94" who="NaibuSpika">
+          <seg xml:id="seg473">KAMATI YA BUNGE ZIMA</seg>
+          <seg xml:id="seg474">Muswada wa Sheria ya Usajili wa Wataalamu wa Afya na Mazingira wa Mwaka</seg>
+          <seg xml:id="seg475">2007 (The Environmental Health Practitioner Registration Bill, 2007)</seg>
+          <seg xml:id="seg476">Ibara ya 1</seg>
+          <seg xml:id="seg477">Ibara ya 2</seg>
+          <seg xml:id="seg478">Ibara ya 3</seg>
+          <seg xml:id="seg479">Ibara ya 4</seg>
+          <seg xml:id="seg480">Ibara ya 5</seg>
+          <seg xml:id="seg481">Ibara ya 6</seg>
+          <seg xml:id="seg482">Ibara ya 7</seg>
+          <seg xml:id="seg483">Ibara ya 8</seg>
+          <seg xml:id="seg484">(Ibara zilizotajwa hapo juu zilipitishwa na Kamati ya Bunge</seg>
+          <seg xml:id="seg485">Zima pamoja na marekebisho yake.)</seg>
+          <seg xml:id="seg486">Ibara ya 9</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u95" who="MheshimiwaWilliamHShelukindo">
+          <seg xml:id="seg487">Mheshimiwa Mwenyekiti, ningeomba tu tukubaliane tu na Waziri kwamba kuna vitu pale nilivyodhani vingeingia, ingekuwa ni ku-check on specific environmental health issues kwa sababu sheria inamuwezesha kuingia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u96" who="Mwenyekiti">
+          <seg xml:id="seg488">Hebu rudia. Ni sehemu gani tuwe pamoja?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u97" who="MheWilliamHShellukindo">
+          <seg xml:id="seg489">Nilikuwa nasema kwenye amendment wangeboresha tukasema, which may be directed by the council for the purpose of conducting investigations or checking on specific environmental health issues, ile kuwa specific itatusaidia sana. Kuna watu wengine wanaingia kwenye maeneo ya watu wanasema nimeagizwa na sheria niingie hapa lakini vizuri huyo mtu ili ajiandae kama kuna majibu ni kama unamchaji kwamba hapa umefanya moja mbili tatu maana ni sheria hii ili turahisishe utekelezaji ndiyo hiyo tu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u98" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg490">Sijampata sawasawa labda arudie tena.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u99" who="MheWilliumHShellukindo">
+          <seg xml:id="seg491">Mheshimiwa Mwenyekiti, kifungu cha 9(2) kimekuwa amended lakini kilivyokuwa kwanza kwa sababu amendment nimezipata baadaye lakini bado lipo eneo la kuweka kitu ambacho ni specific yaani isiwe wazi tu kwamba aingie tu kwa sababu sheria inamhitaji aingie. Ni sawasawa na mimi kuingia kwenye Bunge, ndiyo niingie Bungeni, nifanye nini usikilize unavyozungumza sio uzungumze wewe.</seg>
+          <seg xml:id="seg492">Mheshimiwa Mwenyekiti, mimi nilikuwa nasema the registrar should have powers to enter into any building or premises for the purpose of conducting investigation or checking on specific environmental health issues. Haendi kutazama jengo kama lina nyufa au lina nini, lakini pengine kuna mambo ambayo ana-check on balances kwamba kuna a,b,c,d, unatakiwa ufanye hivyo kwa mujibu wa taratibu za investigations. Pande za environment wana-check zile ili watu wasibambikiziwe vitu, na sheria hii lazima iende mbele zaidi, ahsante!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u100" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg493">Mheshimiwa Mwenyekiti, ninavyoelewa hiki kifungu ni kwamba, register should have powers to enter into the premises as may be directed by the council na council imeanzishwa kwa kifungu cha 5 cha sheria hii ambayo functions zake zimeelezwa humu kwa hiyo council. Hii kwa kutengeneza functions zao hizi zilizopo hapa ndiyo anaweza huyu registrar kuingia kwenye premises kufanya kazi ambazo zitakuwa directed by council. Kwa hiyo, mimi naona kifungu kama kilivyo hakina matatizo yoyote.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u101" who="Mwenyekiti">
+          <seg xml:id="seg494">Kwa hiyo, neno kubwa hapa siyo kwamba wataingia tu watakuwa directed.</seg>
+          <seg xml:id="seg495">(Ibara iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge Zima bila ya</seg>
+          <seg xml:id="seg496">mabadiliko yoyote)</seg>
+          <seg xml:id="seg497">Zima pamoja na mabadiliko yake)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u102" who="MheWilliamHShelukindo">
+          <seg xml:id="seg498">Mheshimiwa Mwenyekiti, hii isomwe pamoja na marekebisho ya Mheshimiwa Waziri kile kifungu cha 18 ameongeza kifungu kidogo cha (5). Sasa pale kuna neno ambalo limetumika kwa kuwa sheria hii itahusu na watu wa nje, mtu wa nje ukimwambia you are under surveillance is too strong, kama nilivyokuwa nimetoa wazo kwamba tungeweka kifungu cha probationary period.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u103" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg499">Mheshimiwa Mwenyekiti, nafikiri kwamba hii ni kitaalamu zaidi lakini anavyozungumza Mheshimiwa Shellukindo ni sahihi kabisa kwamba unaweza kumweka kwenye probation.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u104" who="Mwenyekiti">
+          <seg xml:id="seg500">Kwa hiyo, badala ya surveillance tunaweka probation, ndivyo mnavyosema?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u105" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg501">Mheshimiwa Mwenyekiti, nilikuwa nasema kwamba ni ya kitaalamu zaidi lakini kama anakubali Mheshimiwa Waziri hamna tatizo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u106" who="WaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg502">Mheshimiwa Mwenyekiti, hatuna matatizo na hili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u107" who="Mwenyekiti">
+          <seg xml:id="seg503">Kwa hiyo, tunafanya mabadiliko kwamba a person registered under this section shall be subject to probation for a period of six month, ndivyo tunavyosema.</seg>
+          <seg xml:id="seg504">(Ibara iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge</seg>
+          <seg xml:id="seg505">Zima bila ya mabadiliko yoyote)</seg>
+          <seg xml:id="seg506">(Ibara zilizotajwa hapo juu zilipitishwa na Kamati ya</seg>
+          <seg xml:id="seg507">Bunge Zima pamoja na mabadiliko yake.)</seg>
+          <seg xml:id="seg508">Ibara ya 33</seg>
+          <seg xml:id="seg509">Ibara ya 34</seg>
+          <seg xml:id="seg510">Ibara ya 35</seg>
+          <seg xml:id="seg511">Ibara ya 36</seg>
+          <seg xml:id="seg512">Ibara ya 37</seg>
+          <seg xml:id="seg513">Ibara ya 38</seg>
+          <seg xml:id="seg514">Ibara ya 39</seg>
+          <seg xml:id="seg515">Ibara ya 40</seg>
+          <seg xml:id="seg516">Ibara ya 41</seg>
+          <seg xml:id="seg517">Ibara ya 42</seg>
+          <seg xml:id="seg518">Ibara ya 43</seg>
+          <seg xml:id="seg519">Ibara ya 44</seg>
+          <seg xml:id="seg520">Ibara ya 45</seg>
+          <seg xml:id="seg521">Ibara ya 46</seg>
+          <seg xml:id="seg522">Ibara ya 47</seg>
+          <seg xml:id="seg523">Ibara ya 48</seg>
+          <seg xml:id="seg524">(Ibara zilizotajwa hapo juu zilipitishwa na Kamati ya Bunge Zima</seg>
+          <seg xml:id="seg525">pamoja na mabadiliko yake.)</seg>
+          <seg xml:id="seg526">Jedwali la 1</seg>
+          <seg xml:id="seg527">Jedwali la 2.</seg>
+          <seg xml:id="seg528">(Majedwali yaliyotajwa hapo juu yalipitishwa na Kamati ya Bunge Zima</seg>
+          <seg xml:id="seg529">bila ya mabadiliko yoyote).</seg>
+        </u>
+        <note>(Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u108" who="Mwenyekiti">
+          <seg xml:id="seg530">Muswada wa Sheria ya Usajili wa Wataalamu wa Afya na Mazingira wa</seg>
+          <seg xml:id="seg531">mwaka 2007 (The Environmental Health Practictioners Registration Bill, 2007)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Tatu)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u109" who="WaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg532">Mheshimiwa Naibu Spika, naomba kutoa taarifa kwamba Kamati ya Bunge Zima imepitia muswada wa sheria uitwao, The Environmental Health Practioners Registration Bill, 2007 pamoja na mabadiliko yake Ibara kwa Ibara na kuukubali, hivyo basi, naomba kutoa hoja kwamba muswada huu sasa ukubaliwe.</seg>
+          <seg xml:id="seg533">Mheshimiwa Naibu Spika, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u110" who="WaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg534">Mheshimiwa Naibu Spika, naafiki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u111" who="Mwenyekiti">
+          <seg xml:id="seg535">Hoja imeungwa mkono, sasa nitawahoji.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u112" who="Mwenyekiti">
+          <seg xml:id="seg536">(Muswada wa Sheria ya Serikali ulisomwa Mara ya</seg>
+          <seg xml:id="seg537">Tatu na Kupitishwa)</seg>
+          <seg xml:id="seg538">Waheshimiwa Wabunge, Muswada wa Sheria kwa ajili ya kuanzisha Baraza la Kuratibu Mwenendo wa Usajili wa Wataalamu wa Afya ya Mazingira pamoja na mambo yanayohusiana nayo umepita hatua zote na umeafikiwa katika hatua zake zote na kupitishwa rasmi na Bunge letu Tukufu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-10-31-bunge-09-02.u113" who="Mwenyekiti">
+          <seg xml:id="seg539">Shughuli za leo kufuatana na Order Paper zimemalizika, sasa napenda kutoa taarifa kwamba kesho tutakuwa na miswada miwili. Tutakuwa na miswada ya The Health Laboratory Practitioners Bill, 2007 halafu tutakuwa na muswada mwingine wa The Medical Radiology and Imaging Professionals Bill, 2007. Kwa hiyo, inatosha kwa kazi ya kesho, miswada mingine ni mipya hivyo tutakuwa na kazi ya kutosha.</seg>
+          <seg xml:id="seg540">(Saa 12.30 Bunge liliahirishwa mpaka siku ya Alhamisi,</seg>
+          <seg xml:id="seg541">tarehe 1 Novemba, 2007 saa 3.00 Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,905 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2007-11-05) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2007-11-05) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="5">5. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="9">9. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1464710771-HS-9-5-2007.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2007-11-05">5.11.2007</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 58. Mwongozo wa Matumizi ya Fedha TACAIDS</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u1" who="MheMganaIMsindai">
+          <seg xml:id="seg1">Kwa kuwa, fedha zinazotolewa na na TACAIDS kwenda Halmashauri za Wilaya huwa hazina mwongozo kama ilivyo kwa fedha za Busket Fund, Road Fund na kadhalika; na kwa kuwa, fedha hizo hutumiwa na Wakurugenzi kwenye mambo ya semina, makongamano, usafiri na kadhalika:-</seg>
+          <seg xml:id="seg2">Je, Serikali haioni kwamba, inahitajika kutoa mwongozo kamili wa matumizi ya fedha hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u2" who="NaibuWaziriOfisiYaWaziriMkuuMaafaNaKampeniDhidiYaUkimwi">
+          <seg xml:id="seg3">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu naomba kujibu swali la Mheshimiwa Mgana Izumbe Msindai, Mbunge wa Iramba Mashariki</seg>
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, fedha zote zinazotolewa na Tume ya Kudhibibiti Ukimwi (TACAIDS) zikiwemo zile za kudhibiti UKIMWI zinatoka HAZINA na mara zote inahakikisha zinaambatana na mwongozo wa namna ya kuzitumia. Afua za utekelezaji ambazo zimeainishwa na Halmashauri husika, zinawasilishwa TACAIDS ambayo baada ya kuridhika kuwa zinaendana na mkakati wa Taifa wa Kudhibiti UKIMWI kiasi cha fedha kitakachotumika katika utekelezaji wake Halmashauri zinazopelekewa pesa hupaswa kutumia pesa hizo kufuatana na uainishaji uliofanyika ambao pia hutumwa kwao ili kuwezesha kuzingatiwa katika utekelezaji na si vinginevyo.</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, napenda kuliarifu Bunge lako Tukufu kuwa Wakurugenzi wa Halmashauri zote wamepewa mwongozo wa Bajeti ambao wanatakiwa waufuate wakati wa upangaji wa mipango yao. Mwongozo huo umezingatia vigezo vifuatavyo:-</seg>
+          <seg xml:id="seg6">(i) Idadi ya watu ambayo inapewa uzito wa asilimia 70;</seg>
+          <seg xml:id="seg7">(ii) Kiwango cha umasikini (poverty level) ambacho kinapewa uzito wa</seg>
+          <seg xml:id="seg8">asilimia 10;</seg>
+          <seg xml:id="seg9">(iii) Umbali wa mzunguko kufikia vituo vya huduma za afya District Medical</seg>
+          <seg xml:id="seg10">Vehicle Route) ambao unapewa uzito wa asilimia 10; na</seg>
+          <seg xml:id="seg11">(iv) Kiwango cha vifo vya watoto chini ya miaka mitano (under five mortality)</seg>
+          <seg xml:id="seg12">ambacho kinapewa uzito wa asilimia 10.</seg>
+          <seg xml:id="seg13">Mheshimiwa Naibu Spika, naomba nitumie nafasi hii kumfahamisha Mheshimiwa Mbunge na Bunge lako Tukufu kuwa, Tume ya Kudhibiti Ukimwi katika jitihada za ziada imeandaa Mwongozo unatumiwa hivi sasa na Halmashauri zote wakati wa uandaaji wa makadirio ya muda wa kati yaani Medium Term Expenditure Frame- Work (MTEF) </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u3" who="NaibuWaziriOfisiYaWaziriMkuuMaafaNaKampeniDhidiYaUkimwi">
+          <seg xml:id="seg14">Mwongozo huo unaingizwa kwenye Strategic Budget Allocation Software (SBAS) inayotumiwa na Wizara ya Fedha. Kuingizwa kwenye SBAS, kinawezesha Halmashauri zote kuwa na malengo (targets) yanayofanana na kuboresha uwezo wa kufanya kazi na ufuatiliaji (tracking) wa rasilimali za UKIMWI. Kwa kiasi kikubwa fedha zinazotolewa zinakidhi jitihada za Serikali katika kutekeleza mkakati wa Taifa wa Kudhibiti UKIMWI na katika kuzuia maambukizi mapya kwa wananchi ambao hawajaathirika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u4" who="MheMganaIMsindai">
+          <seg xml:id="seg15">Nakushukuru Naibu Spika kwa kunipa nafasi niulize maswali mawili ya nyongeza:-</seg>
+          <seg xml:id="seg16">(a) Kwa kuwa mimi nafahamu na hela nyingi zinatolewa lakini zinatumika hata Wabunge hawafahamu. Je, Serikali itakuwa tayari kutoa huo mwongozo na percentage kama alivyozisema kwa Wabunge ili tujue hela zinazotumika? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u5" who="MheMganaIMsindai">
+          <seg xml:id="seg17">(b) Kwa kuwa hizi hela zinakuja na kuwasaidia waathirika wa UKIMWI na watoto yatima kama vile kuwasomesha na kuwapa madawa, chakula. Je, Waziri yuko tayari kufuatilia kuona kama kweli Halmashauri zote zinafanya hivyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u6" who="NaibuWaziriOfisiYaWaziriMkuuMaafaNaKampeniDhidiYaUkimwi">
+          <seg xml:id="seg18">Mheshimiwa Naibu Spika kwa niaba ya Waziri Mkuu, napenda kujibu maswali mawili ya nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg19">(a) Ni kweli Serikali inatoa hela nyingi kupitia TACAIDS kwa ajili ya matumizi kwenye mapambano dhidi ya UKIMWI, kwenye ngazi za Wilaya Halmashauri za Wilaya zimepewa jukumu la kuzisimamia na kwa sababu Wabunge ni sehemu ya Mabaraza ya Madiwani wa Halmashauri za Wilaya, basi ni jukumu lao pia kuhakikisha pesa hizi zinapotumika wanazifuatilia, maana TACAIDS yenyewe ina mtandao wake hadi Mkoani baada ya hapo kuna RFAS ambazo kwa kushirikiana na Halmashauri za Wilaya kuhakikisha huduma zinatolewa kwa walengwa.</seg>
+          <seg xml:id="seg20">(b) Fedha zinazotumika kutoa huduma huko mikoani, wilayani na vijijini mara nyingi kama tulivyokusema zinatoka HAZINA na hata kama zitakuwa zinatoka kwenye yale mashirika yasiyo ya kiserikali zinapofika kule Wilayani ni jukumu la Halmashauri ambao ni pamoja na Wabunge kufuatilia matumizi yake. Mwongozo umekwishatolewa na hazina na mdhibiti na mkaguzi mkuu wa Serikali ametoa mwongozo kwamba Halmashauri au wahusika wanapokuwa wamepata hizo pesa lazima watoe taarifa kuzipokea na baada ya hapo wanafuatiliwa kuangaliwa wanatumiaje.</seg>
+        </u>
+        <note>Na. 59. Afya za Wakusanya Taka</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u7" who="MheMgeniJadiKadika">
+          <seg xml:id="seg21">Kwa kuwa, Afya ni jambo muhimu kwa kila binadamu; na kwa kuwa wakusanyaji taka wanapokuwa kazini huwa hawavai vifaa vya kujikinga na maradhi kama vile gloves, gumboots na vifaa vya kuvaa puani na mdomoni kuzuia kuvuta hewa chafu inayotokana na taka hizo na kadhalika:-</seg>
+          <seg xml:id="seg22">(a) Je, kwa nini Halmashauri au kampuni zinazofanya shughuli hizo haziwapatii wafanya kazi wao vifaa hivyo ili waweze kujikinga na athari za kupata magonjwa?</seg>
+          <seg xml:id="seg23">(b) Je, ni mara ngapi kwa mwaka wafanyakazi hao wanapima afya zao ili kujua kama wamepatwa na maradhi na Serikali inawasimamia waajiri hao kwa kiwango gani kuhusu jambo hilo?</seg>
+          <seg xml:id="seg24">(c) Je, Serikali kupitia OSHA ina mkakati gani wa kuhakikisha afya za wafanyakazi hao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u8" who="MheNaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg25">Kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Mgeni Jadi Kadika, Mbunge wa viti maalumu, lenye sehemu (a), (b), na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg26">(a) Serikali imekuwa ikisisitiza afya za wafanyakazi bila kujali kwamba anafanya katika taasisi binafsi au Serikalini. Serikali kupitia mamlaka inayohusika na afya ya usalama mahali pa kazi yaani Occupation Safety and Healthy Authority (OSHA) imeweka sheria kanuni na taratibu za kutetea na kulinda afya za watumishi wote kulingana na eneo analofanyia kazi na pia aina ya kazi anayoifanya,kuhusu suala la uzoaji taka, baadhi ya Halmashauri hasa Halmashauri za Majiji, Manispaa na Miji, kazi hii inafanywa na makampuni binafsi, Halmashauri nyingine zimekuwa zikiajiri vibarua kwa ajili ya usafishaji na uzoaji wa taka. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u9" who="MheNaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg27">Kwa Halmashauri ambazo hazijaajiri makampuni ya kuzoa taka Halmashauri zenyewe zimekuwa zikitenga fedha kwa ajili ya ununuzi wa vifaa vya kinga, si kwa wazoa taka tu bali kwa watumishi wengine wote wanaofanya kazi katika mazingira hatarishi. Aidha, Halmashauri zimekuwa zikigharamia vipimo na matibabu kwa ajili ya watumishi wake wakiwemo wazoa taka, kazi hii huratibiwa na idara ya afya kitengo cha afya na kinga katika Halmashauri zote nchini.</seg>
+          <seg xml:id="seg28">Mheshimiwa Naibu Spika, makampuni yanayopewa zabuni ya kuzoa taka kigezo kimojawapo katika mkataba kati ya Halmashauri na kampuni ni kuwepo kwa vifaa vya kutosha kwa ajili ya kujikinga na maradhi. Halmashauri zimekuwa zikifanya uhakiki wa vitendea kazi hivyo kabla ya kuikubali kampuni kwa lengo la kujiridhisha na uwezo wa vifaa vya kazi kwa mwombaji. Halmashauri pia zimekuwa zikifanya ukaguzi wa mara kwa mara kwa makampuni yanayozoa taka katika mamlaka zao ili kuhakikisha kuwa masharti ya Mkataba yanazingatiwa.</seg>
+          <seg xml:id="seg29">(b) Mheshimiwa Naibu Spika, kwa majibu wa taratibu za ajira, mtumishi mpya anayeajiriwa anapaswa kupimwa afya yake kabla hajaanza kazi (pre-medical examination). Pia taratibu za mamlaka inazoshughulika afya na usalama mahali pa kazi (OSHA) zinaelekeza kuwa mtumishi anapaswa kupimwa afya yake kila baada ya miezi sita. Aidha, Halmashauri zinatunga sheria zinazoelekeza namna salama ya kuendesha shughuli za usafishaji na vifaa vya kutumia kwa madhumuni ya kulinda Afya za wahudumu hao.</seg>
+          <seg xml:id="seg30">(c) Mheshimiwa Naibu Spika, Serikali kwa kutumia mamlaka hii ya OSHA na pia kwa kuwatumia wataalamu wake wa afya hususan Maafisa Afya itaendelea kuwaelimisha watumishi wake ikiwa ni pamoja na makampuni yanayoajiri wazoa taka umuhimu wa kuvaa vifaa vya kinga na pia umuhimu wa kupima afya zao kama taratibu za ajira OSHA zinavyoelekeza. Serikali haitasita kumchukulia hatua Mwajiri yeyote ambaye ataonekana anakwenda kinyume na taratibu hizi za afya kwa kuwanyima haki ya kujikinga na maradhi watumishi wake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u10" who="MheMkiwaAKimwanga">
+          <seg xml:id="seg31">Ahsante Mheshimiwa Naibu Spika, kwa kuwa Mheshimiwa Naibu Waziri amesema kwamba Serikali ina utaratibu wa kupitia manispaa kwa kukagua makampuni hayo pindi yanaposajiliwa. Na kwa kuwa tunashuhudia sisi tukienda katika Jiji la Dar es Salaam wazoa taka wakizoa kwa mikono mitupu na bila kuvaa vifaa vyovyote. Je! Serikali imekwisha wachukulia makampuni mangapi hatua kwa hali hii tunayoiona watu wanafanya kazi bila vitendea kazi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u11" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg32">Mheshimiwa Naibu Spika, kwa niaba ya ofisi ya Waziri Mkuu, napenda kujibu swali la nyongeza la Mheshimiwa Mkiwa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg33">Mheshimiwa Naibu Spika, vifaa vya kazi mara nyingi vinatolewa na Mwajiri pia na makampuni binafsi, tatizo ambalo linaonekana kwa watumiaji wengi wa vifaa hivyo mara nyingi hawapendi kuvitumia vifaa hivyo, Waheshimiwa Wabunge unaweza ukamlazimisha punda kwenda kisimani lakini huwezi ukamlazimisha kunywa maji. Kwa hiyo, hata hao watendaji au wazoaji taka mara nyingi vifaa hivi vipo lakini hawapendi kuvitumia ndiyo maana tunashuhudia kwamba wanazoa kwa mikono, kwa hiyo Halmashauri inapogundua kwamba kampuni binafsi watu wake hawatumii vifaa hivyo mara nyingi wana-terminate mkataba wake kwa sababu katika mkataba imeandikwa kabisa kwamba lazima watu hao watumie vifaa muhimu.</seg>
+          <seg xml:id="seg34">Kuhusu data naomba Mheshimiwa Mbunge baada ya hapo tuonane ili nitafute ni makampuni mangapi ambayo yameshachukuliwa hatua mpaka sasa hivi, kwa sasa hivi siwezi nikatoa data kamili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u12" who="MheNuruABafadhil">
+          <seg xml:id="seg35">Ahsante sana Mheshimiwa Naibu Spika kwa kunipa nafasi ya kuuliza swali moja la nyongeza. Kwa kuwa inaonekana wazoa taka wengi ni wale ambao hawana elimu, kwa hiyo wanakiuka taratibu pia za kujali afya zao. Je, Serikali ina mpango gani wa kuwapa elimu wazoa taka hao ili waepukane na maradhi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u13" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaa">
+          <seg xml:id="seg36">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri mkuu napenda kujibu swali la Mbunge kama ifuatavyo: Kama nilivyokwishaeleza pale mwanzoni kwamba OSHA inashughulikia maswala la elimu, ukaguzi na ile ni sheria ambayo imewekwa kabisa kwamba lazima watumie vifaa hivyo, kwa hiyo suala la elimu linatolewa na pia suala la kutioa elimu ni la mamlaka la Serikali za mitaa pamoja na yale makampuni, iko kwenye sheria na wanaotakiwa kufuata ni waajiri pamoja na wale wazoa taka wenyewe, na elimu inazidi kutolewa kwa vikundi mbalimbali wanavyozoa taka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u14" who="WaziriWaKaziAjiraNaMaendeleoYaVijana">
+          <seg xml:id="seg37">Mheshimiwa Naibu Spika, kwanza nampongeza Naibu Waziri wa majibu mazuri juu ya suala hili. Kama alivyosema Naibu Waziri, jukumu la kukagua maeneo ya kazi kuhakikisha</seg>
+          <seg xml:id="seg38">kwamba usalama na afya makazini unadumishwa ni jukumu la OSHA ambayo ni Wakala katika Wizara ya Kazi. Kwa muda mrefu OSHA kazi hiyo walikuwa hawaifanyi sawa sawa kwa sababu walikuwa wanaupungufu wa watumishi, nyenzo za kufanyia kazi na Bajeti.</seg>
+          <seg xml:id="seg39">Lakini kwa sasa Bajeti ya OSHA imeimarishwa, OSHA tutawaongozea watumishi, OSHA walikuwa wanafanyakazi wakiwa Dar es Salaam tu. Sasa hivi tunafungua Ofisi za Kanda. Tumeshafungua Ofisi katika Kanda ya Kati hapa Dodoma, tumeshafungua kule Mwanza Kanda ya Ziwa, tumeshafungua Arusha na bado Kanda mbili. Hizi Kanda zimeshaanza kufanya kazi, tumezipa wafanyakazi, tumewapa magari ili wafanye kazi ya ukaguzi na kutoa elimu.</seg>
+        </u>
+        <note>Na. 60. Mikataba ya Mafuta</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u15" who="MheWilliamHShellukindo">
+          <seg xml:id="seg40">Kwa kuwa, nchi kadhaa za Afrika, mfano Misri, Algeria, Afrika Kusini, Nigeria, Libya, Morocco, Sudan na kadhalika zinafanya biashara ya mafuta (kuchimba, kusafirisha na kuuza – (petroleum) na zina uzoefu katika kuingia mikataba ya utafutaji, uchimbiaji na uuzaji mafuta; na kwa kuwa imebainika kuwa kuna mikataba ya aina tano (5) yaani „Concession, Joint Venture, Product Sharing, Service Contract na Hybrid Contract”</seg>
+          <seg xml:id="seg41">(a) Je, Serikali inaweza kutoa maelezo kuhusu kila aina ya mkataba?</seg>
+          <seg xml:id="seg42">(b) Pamoja na kwamba, Tanzania haijaingia kwenye biashara ya mafuta. Je,</seg>
+          <seg xml:id="seg43">kuna mkataba wowote unaotumika?</seg>
+          <seg xml:id="seg44">(c) Je, kuna maeneo ya Tanzania yenye dalili za kuwepo mafuta (petroleum)?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u16" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg45">Mheshimiwa Naibu Spika, kabla ya kujibu swali la Mheshimiwa William Shellukindo, Mbunge wa Bumbuli, lenye sehemu (a), (b) na (c) napenda kutoa maelezo yafuatayo:-</seg>
+          <seg xml:id="seg46">Mheshimiwa Naibu Spika, duniani kuna mikataba ya aina nyingi inayotumika katika biashara ya utafutaji, uchimbaji na uuzaji wa mafuta. Mikataba hiyo ni kama vile Concession, Joint Venture, Product Sharing, Service Contract na Hybrid Contract ambayo hutofautiana kutoka eneo au nchi moja hadi nyingine kutokana na vigezo mbali mbali kama vile kuwepo ugunduzi wa mafuta uliokwisha kufanyika, uwezo wa nchi kufanya tafiti hizo na pia sababu za kisiasa.</seg>
+          <seg xml:id="seg47">Tanzania, kama vile nchi nyingi zinazoendelea na ambazo hazijagundua mafuta tunatumia mkataba wa uzalishaji na kugawana mapato (Production Sharing Agreement).</seg>
+          <seg xml:id="seg48">Mheshimiwa Naibu Spika, baada ya maelezo hayo ya utangulizi, napenda kujibu swali la Mheshimiwa William Hezekiah Shellukindo, Mbunge wa Bumbuli lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg49">(a) Mheshimiwa Naibu Spika, maelezo ya aina ya mikataba ni yafuatayo:-</seg>
+          <seg xml:id="seg50">Mheshimiwa Naibu Spika, kwenye mikataba ya Concession Kampuni hukodishwa eneo la ardhi kwa kipindi maalum ambapo hufanya utafiti kwa gharama zake. Kampuni hiyo hulipa kodi ya eneo na kodi nyingine zinazotakiwa lakini endapo itagundua mafuta, Serikali huwa haina mgao bali huendelea kufaidika kupitia kodi ya mapato.</seg>
+          <seg xml:id="seg51">Mheshimiwa Naibu Spika, kwenye mikataba ya Joint Venture, Serikali ya nchi husika na Kampuni ya mafuta huchangia gharama katika kila hatua tangu utafutaji, uendelezaji, uchimbaji na usafirishaji wa mafuta kulingana na makubaliano katika mkataba. Endapo mafuta yatagundulika, faida hugawanywa sanjari na gharama za kila mhusika.</seg>
+          <seg xml:id="seg52">Mheshimiwa Naibu Spika, chini ya mikataba ya Production Sharing Agreement. Kampuni inayoingia mkataba na nchi hufanya utafutaji wa mafuta kwa gharama zake yenyewe.</seg>
+          <seg xml:id="seg53">Athari na gharama zote za utafutaji, kifedha na kiufundi hubebwa na Kampuni husika na endapo mafuta yatapatikana Kampuni hiyo hutakiwa kurudisha gharama zake kutoka katika mafuta yatakayozalishwa (cost oil) na faida inayopatikana baada ya kuondoa gharama hizo (Profit Oil) hugawanywa kati ya Kampuni husika na Serikali.</seg>
+          <seg xml:id="seg54">Katika mikataba hii mafuta yasipogunduliwa gharama za uwekezaji zilizotajwa hapo juu huwa hazirejeshwi. Mikataba hii huiwezesha Serikali kudhibiti shughuli za utafutaji na uzalishaji wa mafuta.</seg>
+          <seg xml:id="seg55">Mheshimiwa Naibu Spika, Service Contract ni aina ya mikataba ambayo Serikali hukodisha huduma za utafutaji, uchimbaji na shughuli nyingine kwa Kampuni kulingana na makubaliano bila kuhusisha kiasi cha mafuta kinachopatikana. Kampuni inayotoa huduma haina mgawo kwenye mafuta yanayozalishwa.</seg>
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, katika mikataba ya Hybrid Contract aina tofauti ya mikataba iliyotajwa hapo juu huchanganywa.</seg>
+          <seg xml:id="seg57">(b) Mheshimiwa Naibu Spika, utafutaji wa mafuta unahitaji fedha nyingi na utaalam wa hali ya juu. Aidha, athari za utafutaji (risk) ni kubwa mno. Kwa maana hiyo nchi nyingi zinazoendelea hazina uwezo wa kugharamia shughuli hizo. Kutokana na sababu hiyo, mikataba ya uzalishaji na kugawana mapato (Production Sharing) ndiyo bora zaidi kwa nchi zinazoendelea.</seg>
+          <seg xml:id="seg58">Mheshimiwa Naibu Spika, ni kweli kwamba Tanzania haijaingia kwenye biashara ya mafuta kwa maana ya kuchimba, kusafirisha na kuuza. Hata hivyo, ili kulinda shughuli za utafutaji sheria inayotumika ni Sheria ya Utafutaji na Uzalishaji Mafuta ya mwaka 1980 na Model Production Sharing Agreement ya mwaka 2004.</seg>
+          <seg xml:id="seg59">(c) Mheshimiwa Naibu Spika, utafutaji wa mafuta na gesi (Petroleum) hapa nchini ulianza tangu miaka ya 1950. Kutokana na utafiti uliokwishafanyika, tumeweza kugundua gesi asilia huko Songo Songo (mita za ujazo bilioni 30) Mnazi Bay (mita za ujazo bilioni 15) na Mkuranga ambapo utafiti unaendelea ili kubaini kiasi cha gesi kilichopo.</seg>
+          <seg xml:id="seg60">Pamoja na kwamba bado hatujagundua mafuta takwimu zilizopo na taarifa za kijiolojia katika vilindi vya bahari, ukanda wa mwambao wa Bahari ya Hindi, mabonde ya ufa na mabonde yenye miamba ya tabaka katika nchi kavu zinaashiria kuwepo kwa mfumo hai wa mafuta (active petroleum system).</seg>
+          <seg xml:id="seg61">Kwa sasa Kampuni 11 zinafanya utafutaji wa mafuta katika maeneo mbalimbali na tunaendelea kuhamasisha Kampuni nyingine kuja kufanya utafutaji wa mafuta katika maeneo yasiyo na leseni.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u17" who="MheWilliamHShelukindo">
+          <seg xml:id="seg62">Mheshimiwa Naibu Spika, nakushukuru kunipa nafasi ili niulize swali moja la nyongeza. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri napenda kuuliza katika Mkataba ule wa kutafuta gesi au mafuta wa Mkuranga hasa ukweli wake ni upi kwa sababu kulikuwa na maelezo kwamba pale Serikali inapunjwa lakini Mtendaji Mkuu wa TPDC alitoa maelezo.</seg>
+          <seg xml:id="seg63">Mheshimiwa Naibu Spika, ninataka kupata uhakika kutoka kwa Mheshimiwa Waziri hasa Mkataba huo tumeingia katika Product Sharing au Contract au namna gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u18" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, napenda kutumia fursa hii kwa niaba ya Waziri wa Nishati na Madini kuondoa wasiwasi</seg>
+          <seg xml:id="seg65">na kuwathibitishia Watanzania kwamba katika Mkataba ambao unahusisha utafutaji wa mafuta ama gesi hapo Mkuranga, Serikali haijapunjwa.</seg>
+          <seg xml:id="seg66">Mheshimiwa Naibu Spika, mkataba ni mzuri na mkataba unaotumika kama tulivyoelezea kama ilivyo katika nchi nyingi ambazo zinaendelea ni ule wa aina ya production sharing agreement.</seg>
+          <seg xml:id="seg67">Mheshimiwa Naibu Spika, kwa hiyo mpaka sasa hivi Serikali ipo kwenye nafasi nzuri na haijapunjwa katika makubaliano hayo na bado utafiti unaendelea na tunaimani kwamba uzalishaji utakapoanza Serikali itafaidika kwa kiwango cha kuridhisha.</seg>
+        </u>
+        <note>Na. 61. Majukumu ya TANESCO</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u19" who="MheMtuturaAMtutura">
+          <seg xml:id="seg68">Kwa kuwa, majukukmu ya msingi ya Shirika la Ugavi wa Umeme (TANESCO) ni kuzalisha na kusambaza umeme kwa wateja wake, kwa kugharamia ujenzi wa njia za kusambaza umeme (Service Line) pindi wanapohitaji huduma hiyo:-_</seg>
+          <seg xml:id="seg69">(a) Je, kuna mabadiliko yoyote yaliyofanywa kisheria juu ya jukumu la msingi</seg>
+          <seg xml:id="seg70">la shirika ambapo jukumu la kugharamia ujenzi wa Service Line ni la</seg>
+          <seg xml:id="seg71">mteja na siyo TANESCO?</seg>
+          <seg xml:id="seg72">(b) Je, Service Line, iliyojengwa kwa kugharamiwa na mteja ni mali ya nani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u20" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg73">Mheshimiwa Naibu Spika, kabla ya kujibu swali la Mheshimiwa Mtutura Abdallah Mtutura, Mbunge wa Tunduru, naomba kutoa maelezo ya utangulizi yafuatayo:-</seg>
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, Shirika la TANESCO limeundwa chini ya Sheria ya Makampuni na taratibu za uzalishaji, usafirishaji, na usambazaji wa umeme zimeainishwa katika leseni ni Sheria ya Umeme.</seg>
+          <seg xml:id="seg75">Mheshimiwa Naibu Spika, kazi ya usambazaji umeme inahusisha kujenga mifumo ya umeme mkubwa wa msongo wa kilovoti 11 na 33, ufungaji wa transfoma pamoja na ujenzi wa njia ndogo za umeme wa msongo wa volti 230/400 hadi kufika katika maeneo jirani na wateja. Baada ya shughuli hiyo ya usambazaji umeme wakazi wa eneo lililo karibu na njia ndogo ya umeme ilipofika wanaweza kuungiwa njia ya umeme (service line) ambayo huwawezesha kuanza kupata huduma ya umeme.</seg>
+          <seg xml:id="seg76">Mheshimiwa Naibu Spika, gharama halisi ya Service Line ya njia moja (single phase) ni shilingi 469,379/= kama mteja atafungiwa mita ya LUKU na shilingi 414,569/= kama mteja atafungiwa mita ya kawaida. Gharama halisi ya service line ya njia tatu (three phase) ni shilingi 938,522/= kama mtajwa atafungiwa mita ya LUKU na shilingi 1,065,735/= kama mteja atafungiwa mita ya kawaida ya electronic yaani Programmable Polyphase Meter (PPM). Pamoja na bei hizo, mteja halipi gharama halisi bali huchangia tu kwenye gharama ya ujenzi wa service line.</seg>
+          <seg xml:id="seg77">Mheshimiwa Naibu Spika, gharama anazochangia mteja kwenye ujenzi wa service line ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg78">Service line ya njia moja (single phase) mteja huchangia shilingi 200,000/= kama mteja atafungiwa mita ya LUKU na shilingi 140,000/= kama mteja atafunguiwa mita ya kawaida. Kwa Service line ya njia tatu (three phase) mteja hutakiwa kulipia shilingi 450,000/= kama mteja atafungiwa mita ya LUKU na shilingi 280,000/= kama mteja atafungiwa njia ya kawaida.</seg>
+          <seg xml:id="seg79">Mheshimiwa Naibu Spika, baada ya maelezo hayo ya utangulizi naomba sasa kujibu swali la Mheshimiwa Mtutula Abdallah Mtutura, kama ifuatavyo:-</seg>
+          <seg xml:id="seg80">Mheshimiwa Naibu Spika, kwenye Katiba ya TANESCO na Sheria ya Umeme hakuna mabadiliko yaliyofanyika kuhusiana na ujenzi wa service line, ila kuna chombo kimeundwa na Serikali kwa ajili ya kusimamia pamoja na mambo mengine, utoaji huduma ya maji na nishati. Chombo hiki kinaitwa EWURA na kimeundwa kwa Sheria ya Bunge la Jamhuri ya Muungano wa Tanzania. Miongoni mwa majukumu ya chombo hiki ni kuhakikisha kuwa gharama anazolipishwa mteja zinalingana na gharama halisi ya upatikanaji wa huduma husika na hivyo TANESCO haitaweza kufanya mabadiliko ya bei ya huduma zake bila kuthibitisha gharama halisi ya upatikanaji wa huduma tajwa na bila kupata idhini ya kulipisha gharama hizo kutoka EWURA.</seg>
+          <seg xml:id="seg81">Mheshimiwa Naibu Spika, njia ndogo ya kuingiza umeme kwa mteja (Service Line) iliyojengwa kwa kuchangia gharama ni mali ya TANESCO. Hata hivyo, Service Line hiyo inaweza kuwa mali ya mtaja endapo mteja ataridhia na kukubali kugharamia gharama za uendeshaji na matengenezo (Operational and Maintenance Costs) kwa muda wote ambao mtaja atakuwa anatumia umeme.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u21" who="MheMtuturaAbdallahMtutura">
+          <seg xml:id="seg82">Mheshimiwa Naibu Spika, kwa kuwa maombi mapya kwa wateja wa umeme yamekuwa yakiongezeka siku hadi siku. Je, Serikali kupitia Shirika la Ugavi wa Umeme TANESCO lina mkakati gani</seg>
+          <seg xml:id="seg83">endelevu kuhakikisha kwamba maeneo yale yote mapya yaliyopimwa viwanja yamejengwa njia ya kusambazia umeme ili kuondoa kero hii ya upatikanaji wa umeme hasa wakati wa ujenzi na hasa kwa ile miji ambayo inakua kwa kasi kama ilivyo Mji wa Tunduru?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u22" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg84">Mheshimiwa Naibu Spika, mkakati wa TANESCO uliopo sasa hivi ni kama ambavyo tumekuwa tukijaribu kutoa taarifa hapa Bungeni kupitia vyombo vya habari kwa Watanzania, kwamba hatua inayoendelea sasa hivi katika shirika la TANESCO ni kuhakikisha kwamba kufikia mwishoni mwa mwaka huu wateja kwanza wengi ambao maombi yao bado yako TANESCO yanakuwa yameshughulikiwa kwa kiwango kikubwa na ikiwezekana yawe yameshakamilika.</seg>
+          <seg xml:id="seg85">Lakini la pili, sheria inayohusiana na masuala umeme inapitiwa na tumeshatoa taarifa mara kadhaa kwamba hivi karibuni tutaleta Muswada wa Sheria Mpya, ambao utafungua uwigo mpana zaidi kuanzisha pia watoa huduma binafsi kuweza kushiriki katika kutoa huduma hii ya umeme.</seg>
+          <seg xml:id="seg86">Lakini niseme pia kwamba huduma ya umeme ni kama huduma zingine ambazo zinatolewa baada ya uwepo wa mahitaji ya wateja. Kwa hiyo, huduma ya umeme itawafuata wateja lakini kwa asili ya huduma hiyo haitakuwa rahisi kutangulia kabla ya kuwepo wateja.</seg>
+          <seg xml:id="seg87">Mheshimiwa Naibu Spika, kwa hiyo, tutaendelea kutoa huduma kwa wananchi ambao watakuwa wanahitaji umeme kwa sababu siyo rahisi kujenga miundombinu kabla ya wananchi kufika katika maeneo hayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u23" who="MheKhalifaSulemainKhalifa">
+          <seg xml:id="seg88">Mheshimiwa Naibu Spika, nashukuru kwa kunipa fursa niulize swali dogo la nyongeza. Pamoja na majibu mazuri sana ya Mheshimiwa Naibu Waziri, ningependa kumwuliza swali kama ifuatavyo:-</seg>
+          <seg xml:id="seg89">Kimsingi wananchi wengi hawakatai yale malipo makubwa yaliyolipishwa na TANESCO. Lakini kinacholeta matatizo ni fedha kulipa kwa mkupuo. Je, Serikali inaonaje ikazungumza na Shirika la TANESCO wateja wakaweza kulipa kwa awamu ili waweze kupata huduma hii na waweze kukamilisha hayo malipo baada ya muda fulani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u24" who="NaibuSpika">
+          <seg xml:id="seg90">Mheshimiwa Naibu Waziri majibu kwa kifupi tafadhali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u25" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg91">Mheshimiwa Naibu Spika, tunapokea wazo, lakini napenda kusema kama nilivyokwisha kusema kwenye jibu la msingi, huduma ya umeme ni kama huduma zingine na kinachofanyika kwa mfano mpaka sasa hivi kwa kweli ni uchangiaji kwa sababu wateja hawalipishwi gharama halisi kwa huduma hizo. Sasa itakuwa ni jambo ambalo ni la kutumia muda wa kutathimini</seg>
+          <seg xml:id="seg92">kuona endapo malipo yatafanyika kwa installement yatasaidia kuweza kufanikisha kasi ya wateja kuhitaji umeme.</seg>
+          <seg xml:id="seg93">Lakini kwa sasa hivi tuseme kwamba utaratibu uliopo kwa kweli ni mzuri kwa sababu tunaamini unakidhi hasa kwa mahali ambapo wateja wanaweza kuwa wamekamilisha malipo haya na TANESCO ikatoa huduma kutengemeana na vifaa ambavyo vinakuwepo kwa wakati huo. Ahsante sana.. (makofi)</seg>
+        </u>
+        <note>Na. 62. Elimu ya Uraia na Utawala Bora</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u26" who="MheMohammedAmourChomboh">
+          <seg xml:id="seg94">Kwa kuwa Watanzania wengi hawajui haki zao nyingi za Uraia na Utawala Bora, kwa mujibu wa Katiba ya Tanzania:-</seg>
+          <seg xml:id="seg95">Je, Serikali haioni sasa ni wakati muafaka wa kuelimisha wananchi hasa kuanzia mashuleni kwa kuanza mitaala ya Elimu ya Uraia na Utawala Bora?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u27" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg96">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Muhammed Amour Chombon, Mbunge wa Magomeni, kama ifuatavyo:-</seg>
+          <seg xml:id="seg97">Mheshimiwa Naibu Spika, somo la Elimu ya Uraia limekuwa likifundishwa katika shule za msingi na sekondari. Katika kidato cha kwanza hadi cha nne linaitwa Civics na General Studies kwa kidato cha Tano na Sita. Kwa sasa hivi katika shule za msingi ni somo linalojitegemea kama ilivyo katika shule za sekondari.</seg>
+          <seg xml:id="seg98">Lengo ni kuwawezesha wanafunzi kujua haki za raia na wajibu wao ili kuwa raia wema kwa mujibu wa Katiba ya Jamhuri ya Muungano wa Tanzania. Mada zenye dhana hii zinaendelea kukuzwa kadri wanafunzi wanavyopanda madarasa.</seg>
+          <seg xml:id="seg99">Katika shule za msingi dhana ya utawala Bora inafundishwa katika mada za:-</seg>
+          <seg xml:id="seg100">(cid:31) Mfumo wa Uongozi kuanzia uongozi wa shule, kijiji, hadi Taifa;</seg>
+          <seg xml:id="seg101">(cid:31) Haki na Wajibu wa Raia;</seg>
+          <seg xml:id="seg102">(cid:31) Haki na Sheria; na</seg>
+          <seg xml:id="seg103">(cid:31) Usalama wa Jamii na Sheria.</seg>
+          <seg xml:id="seg104">Mheshimiwa Naibu Spika, katika shule za Sekondari Kidato cha kwanza hadi cha nne inafundishwa katika mada za:-</seg>
+          <seg xml:id="seg105">(cid:31) Aina za Serikali;</seg>
+          <seg xml:id="seg106">(cid:31) Muundo wa Serikali za Mitaa na Serikali Kuu;</seg>
+          <seg xml:id="seg107">(cid:31) Katiba ya Nchi; na</seg>
+          <seg xml:id="seg108">(cid:31) Aina za Demokrasi na Uchaguzi wa Kidemokrasia.</seg>
+          <seg xml:id="seg109">Mheshimiwa Naibu Spika, kwa kidato cha Tano na Sita inafundishwa katika mada za:-</seg>
+          <seg xml:id="seg110">(cid:31) Misingi ya Demokrasia;</seg>
+          <seg xml:id="seg111">(cid:31) Haki za msingi na Uhuru wa Raia;</seg>
+          <seg xml:id="seg112">(cid:31) Wajibu wa Rais; na</seg>
+          <seg xml:id="seg113">(cid:31) Utawala wa Sheria.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u28" who="MheMohammedAmourChombon">
+          <seg xml:id="seg114">Mheshimiwa Naibu Spika, kwa kuwa wanaopata fursa hii ni wanafunzi ambao wako shule sasa hivi, lakini ukizingatia kuna raia wengi ambao hawako mashuleni hawajui hasa elimu hii ya uraia na Utawala Bora. Je, Wizara ina mikakati gani ya kushirikiana na Wizara husika hasa ukizingatia Wizara ya Usalama wa Raia na Utawala kuwafundisha katika vyombo vya habari kama Television ili na wao wafaidike na elimu hiyo kwa ujumla?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u29" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg115">Mheshimiwa Naibu Spika, kwa kuwa somo hili lilikuwepo muda mrefu kuanzia baada ya uhuru na lilikuwa linafundishwa ni dhahiri kwamba kila aliyepitia shule ya msingi na sekondari alipata dozi iliyostahili kwa level ya elimu ya aliyokuwa amepata. Kuhusu wale ambao wako nje, hivi sasa kumekuwepo na NGOs ambazo zimekuwa zikitoa mafundisho kuhusu masuala ya uraia na haki na wajibu wa kila mwananchi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u30" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg116">Mheshimiwa Naibu Spika, naomba niseme Wizara ya Elimu na Mafunzo ya Ufundi, kwa kushirikiana na asasi zingine itaendelea kutoa mafunzo haya ili yaweze kuwafikia wananchi wote kwa haraka na kwa wepesi zaidi.</seg>
+        </u>
+        <note>Na. 63. Mafunzo ya Kilimo katika Ngazi ya Shahada</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u31" who="MheGodfreyWZambi">
+          <seg xml:id="seg117">Kwa kuwa walimu wanaofundisha masomo ya mchepuo wa kilimo sekondari husoma hadi ngazi ya Diploma tu na kwa kuwa hakuna Chuo Kikuu kinachofundisha masomo hayo katika ngazi ya Shahada (Degree):-</seg>
+          <seg xml:id="seg118">Je, Serikali ina mpango gani wa kuanzisha kozi ya masomo hayo katika ngazi ya shahada?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u32" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheLudovickJMwananzila">
+          <seg xml:id="seg119">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Godfrey Weston Zambi, Mbunge wa Mbozi Mashariki, kama ifuatavyo:-</seg>
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, kwa kawaida walimu wanaofundisha somo la mchepuo wa kilimo katika shule za sekondari, kidato cha kwanza hadi cha nne ni walimu wa ngazi ya Stashahada ya Kilimo. Walimu wanaofundisha Kidato cha Tano na Sita ni wale wenye shahada ya kilimo ambapo pia wamesomea ualimu (Post Graduate Diploma in Education). Kwa hivi sasa, Chuo Kikuu cha Kilimo cha Sokoine, kinakamilisha maandalizi ya mitaala ya Shahada ya Kwanza ya Ualimu kilimo (BSc. Agriculture Education).</seg>
+          <seg xml:id="seg121">Mtaala huo utakuwa na mbinu za kufundisha zitakazowawezesha wahitimu kutambulisha kuwa walimu wa kusajiliwa moja kwa moja na Idara ya Huduma ya utumishi wa walimu (Teachers Service Department). Chuo Kikuu cha Sokoine kitaanza kufundisha shahada hiyo mara baada ya Baraza la Seneti na Kamisheni ya Vyuo Vikuu (Tanzania Commission for Universities) kuridhia. Uanzishwaji wa shahada hiyo kutasaidia sana kutatua tatizo la upungufu wa walimu wa somo la kilimo wenye shahada katika shule za sekondari za kilimo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u33" who="MheGodfreyWZambi">
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, kwanza namshukuru Naibu Waziri kwa majibu yake mazuri na nimefarijika kusikia kwamba kuna mpango wa kuanzisha shahada ya elimu, kilimo Chuo Kikuu cha Sokoine.</seg>
+          <seg xml:id="seg123">Mheshimiwa Naibu Spika, lakini kwa kuwa ni ukweli kwamba walimu wengi wamecheleweshwa sana kwa sababu hatukuwa na shahada hiyo katika vyuo vyetu hapa nchini na nina hakika Serikali isingeweza kupata nafasi ya uwezo wa kifedha kuwapeleka walimu wengi hawa kusoma vyuo Vikuu nje ya nchi.</seg>
+          <seg xml:id="seg124">(a) Je, kwa walimu walimu wale ambao wamechelewesha sana kwa sababu hiyo. Watakapokuwa wamesoma Serikali/Wizara itakuwa mpango wowote mzuri wa kuhakikisha kwamba maslahi yao yanakwenda sawa sawa na walimu wenzao ambao walikuwa wanafundisha fani nyingine?</seg>
+          <seg xml:id="seg125">(b) Kwa kuwa tuna shule nyingi za kilimo hapa nchini na walimu hao wachache wapo lakini tatizo limekuwa ni vifaa hususan matrekta. Je, Serikali ina mpango gani wa</seg>
+          <seg xml:id="seg126">kuhakikisha kwamba hizi shule zinapata vifaa vya aina hiyo, ili walimu wale wafundishe kwa vitendo pia siyo nadharia peke yake? Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u34" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheLudovickJMwananzila">
+          <seg xml:id="seg127">Mheshimiwa Naibu Spika, ni kweli kwamba wapo walimu ambao wamecheleweshwa katika kupandishwa madaraja na Wizara inalifahamu hili na inalifanyia kazi ili kuweza kurekebisha ngazi zao za mishahara pamoja na vyeo vyao ili kila mwalimu aweze kuwa katika ngazi ambayo anastahili. Kazi hii inaendelea vizuri kwa sababu ndiyo jambo linalolalamikiwa na walimu wengi katika nchi yetu hii. Tunashughulikia kikamilifu.</seg>
+          <seg xml:id="seg128">Katika swali la pili la Mheshimiwa Mbunge, ni kweli shule nyingi za mchepuo wa kilimo kama mnavyotambua na Mheshimiwa Mbunge anafahamu kwamba michepuo hii ilipofutwa imeleta madhara makubwa kwa sababu vifaa vingi ambavyo vilikuwa vinatumika vimeachwa na walimu wengi wakaondoka katika maeneo haya ya shule hizi za kilimo. Lakini kama Mheshimiwa Waziri wa Elimu, alivyotangaza mwaka jana kwamba mchepuo wa kilimo unarejeshwa Wizara imejipanga vizuri na fedha hizi zinazotolewa kwa ajili ya vifaa sasa ni nyingi za kutosha na kila shule inafaa ijizatiti kwa fedha hizo kidogo wanazozipata kuhakikisha wananunua vile vifaa vya msingi vitakavyowasaidia katika ufundishaji wa somo hili la kilimo. Lakini Wizara itaendelea kutoa fedha kadri zinavyopatikana ili vifaa viweze kuwa vya kutosha katika shule zetu.</seg>
+        </u>
+        <note>Na. 64. Utekelezaji wa Sheria ya Manunuzi</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u35" who="MheVictorKMwambalaswa">
+          <seg xml:id="seg129">Kwa kuwa sheria ya manunuzi ya mwaka 2004 (PPA 2004) inazitaka procuring entities kupeleka kwenye taasisi ya usimamizi manunuzi (PPRA) mipango ya manunuzi ya kila mwaka na kuwa sheria hiyo ina zaidi ya miaka mitatu sasa:-</seg>
+          <seg xml:id="seg130">(a) Je, ni procuring entities ngapi zimepeleka takwimu hizo PPRA kwa mwaka wa</seg>
+          <seg xml:id="seg131">fedha 2007/2008?</seg>
+          <seg xml:id="seg132">(b) Je, ni procuring entities ngapi hazijakidhi kipengele hicho cha sheria na ni kwa</seg>
+          <seg xml:id="seg133">nini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u36" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatib">
+          <seg xml:id="seg134">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Victor K. Mwambalaswa, Mbunge wa Lupa, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg135">(a) Mheshimiwa Naibu Spika, taasisi (procuring entities) zinaendelea kuwasilishwa kwenye mamlaka ya udhibiti wa ununuzi wa umma taarifa za mipango ya manunuzi ya mwaka wa fedha 2007/2008. Hadi tarehe 20 Oktoba, 2007, taasisi arobaini na nne (44) zilikwishawasilisha taarifa hizo kama ifuatavyo:-</seg>
+          <seg xml:id="seg136">(cid:31) Wizara 16;</seg>
+          <seg xml:id="seg137">(cid:31) Mamlaka/Mashirika ya Umma 21;</seg>
+          <seg xml:id="seg138">(cid:31) Idara zinazojitegemea 5; na</seg>
+          <seg xml:id="seg139">(cid:31) Serikali za Mitaa 2.</seg>
+          <seg xml:id="seg140">Kati ya hizo taasisi ishirini na tisa (29) zilionekana zina mapungufu na hivyo kurudishwa kwenye taasisi husika ili kurekebishwe. Taarifa kutoka kwenye taasisi kumi na tano 15 ziliwekwa kwenye tovuti ya PPRA na pia kutangazwa magazetini baada ya kurekebisha mapungufu yaliyojitokeza.</seg>
+          <seg xml:id="seg141">(b) Mheshimiwa Naibu Spika, jumla ya taasisi mia mbili na themani na saba 287 hazijapeleka PPRA taarifa zao za mipango ya manunuzi ya mwaka wa fedha 2007/2008. Kwa kiasi kikubwa hili limesababishwa na uelewa mdogo wa watendaji wa taasisi katika kutayarisha taarifa hizi. Ili kuondoa tatizo hili, PPRA imeshaanza kuzitembelea taasisi husika ili kutoa maelekezo ya jinsi ya kuandaa taarifa hizo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u37" who="MheVictorKMwambalaswa">
+          <seg xml:id="seg142">Mheshimiwa Naibu Spika, kwanza napenda kuishukuru sana Serikali kwa kutengeneza kanuni za manunuzi kwenye Halmashauri ambazo zinaendana na sheria ya manunuzi ya mwaka 2004. Pia napenda kuishukuru Serikali kwa kuajiri na kufunza watalaam wa fedha, Wahasibu ambao kwa kiasi kikubwa wamefanya Halmashauri nyingi kuwa na vyeti vizuri vya mahesabu mwisho wa mwaka fedha.</seg>
+          <seg xml:id="seg143">(a) Je, Serikali ina mpango gani sasa wa kuajiri na kufunza watalaam wa ugavi ili nao wapelekwe kwenye Serikali za Mitaa?</seg>
+          <seg xml:id="seg144">(b) Kwa kuwa chanzo kikubwa cha rushwa ni manunuzi na kwa kuwa Serikali inafanya jitihada kubwa sana pamoja wahisani kuimarisha Mdhibiti na Mkaguzi Mkuu. Pia kuimarisha TAKUKURU, lakini hiyo ni matokeo, kwa kuwa source kubwa ni manunuzi. Je, Serikali ina mkakati gani wa kuimarisha PPRA iwe na mtandao mkubwa ili kudhibiti manunuzi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u38" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatib">
+          <seg xml:id="seg145">Mheshimiwa Naibu Spika, tangu sheria hii ianze kutumika kumekuwa na upungufu katika utekelezaji na kuna sababu nyingi na kubwa ilikuwa ni kiwango cha uelewa wa sheria hii ya manunuzi kwa watendaji wa taasisi na Serikali. Hili lilidhihirishwa na matokeo ya ukaguzi wa shughuli za ununuzi katika taasisi 20 za umma uliofanywa hivi karibuni na mamlaka ya udhibiti ya manunuzi umma (PPRA).</seg>
+          <seg xml:id="seg146">Matokeo ya ukaguzi yalionyesha kwamba taasisi zilizokaguliwa zinafuata sheria ya manunuzi ya umma na kanuni zake kwa asilimia 39 tu moja ya maeneo ambayo</seg>
+          <seg xml:id="seg147">yalionyesha upungufu ni utayarishaji wa mpango wa manunuzi ya mwaka, (Annual Procurement Plan) ambapo ni asilimia 35 tu ya taasisi zilizokaguliwa zilikuwa zimeandaa mpango wa manunuzi wa mwaka kama sheria inavyoelekeza.</seg>
+          <seg xml:id="seg148">Mheshimiwa Naibu Spika, Mikakati mbalimbali inaendelea kutekelezwa kuhakikisha kwamba sheria ya manunuzi ya umma inatekelezwa ipasavyo na hii ni pamoja na utekelezaji wa mkakati wa kujenga uwezo wa utendaji wa taasisi za Serikali, utekelezaji wa mfumo wa ukaguzi wa shughuli za manunuzi na utekelezaji wa mfumo wa kukusanya taarifa zote za manunuzi ya umma. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u39" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatib">
+          <seg xml:id="seg149">Pia Wizara ya Fedha katika kuhakikisha kwamba manunuzi yanafanywa vilivyo hata hao watu wa Materials Management na watu wa Procurement pia huwa wanaajiriwa wale ambao wamehitimu mafunzo yao kila mwaka pamoja na wahasibu wanapopelekwa katika Halmashauri mbalimbali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u40" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg150">Mheshimiwa Naibu Spika, kwa kuwa eneo la matumizi ya manunuzi inachukua karibu asilimia 70 ya Bajeti ya Serikali na kwa kuwa Bunge lako Tukufu limekwishatunga sheria na kwa kuwa watalaam wa Serikali walioko kwenye taasisi na Halmashauri wote ni watalaam waliofundishwa kwa kodi ya wananchi. Je, ni kweli kwamba wanashindwa kutekeleza haya kwa sababu ya uelewa mdogo au kuna makusudi ambayo yanahitaji kufanyiwa utafiti wa kina?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u41" who="NaibuWaziriWaFedhaMheAbdisalaamIssaKhatib">
+          <seg xml:id="seg151">Mheshimiwa Naibu Spika, kama nilivyojibu swali la nyongeza nimesema asilimia 35 baada ya kufanya uchunguzi wamedhihirika kwamba hawafanyi kazi hizi kwa uelewa mdogo. Pengine utaona kwamba uelewa kwa sababu baadhi ya wafanyakazi ni uvivu tu wao wa kutotaka na kutosoma maelekezo na sheria za manunuzi.</seg>
+          <seg xml:id="seg152">Lakini kama nilivyokwishasema juhudi zinafanywa. Kama yeye Mheshimiwa Dr. Slaa, anavyoona katika Halmashauri yake amepelekewa wahasibu wajuzi, amepelekewa watu wa procurement wajuzi ili kuondoa haya matatizo tuliyoyataja hapa, kwa sababu Serikali vile vile haipendelei Halmashauri zipate hati chafu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 65. Changamoto ya Ushindani Katika Soko Huria</note>
+        <note>(K.n.y. MHE. BAKARI SHAMIS FAKI)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u42" who="MheMohamedHJMnyaa">
+          <seg xml:id="seg153">Kwa kuwa, ushindani wa bidhaa katika soko huria ni changamoto linalowakabili wajasiriamali wadogo hasa kutokana na viwango hafifu vya bidhaa zao:-</seg>
+          <seg xml:id="seg154">Je, Serikali ina mikakati gani ya kuwasaidia wajasiriamali wadogo katika kukabiliana na changamoto hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u43" who="NaibuWaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg155">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Bakari Shamis Faki, Mbunge wa Ole, kama ifuatavyo:-</seg>
+          <seg xml:id="seg156">Mheshimiwa Naibu Spika, ushindani wa bidhaa katika soko huria ni changamoto inayowakabili wajasiriamali katika ngazi zote, wadogo hadi wakubwa. Katika kukabiliana na changamoto ya ushindani wa soko yapo mambo muhimu ya kuzingatia ambayo ni pamoja na kuongeza ubora wa bidhaa, kuboresha ufungashaji na vifungashio, kuzalisha bidhaa zinazokidhi mahitaji ya wateja, kutumia teknolojia zinazopunguza gharama za uzalishaji nakadhalika.</seg>
+          <seg xml:id="seg157">Mheshimiwa Naibu Spika, mikakati ya Serikali ya kuwasaidia wajasiriamali wadogo katika kukabiliana na ushindani wa bidhaa zao katika soko ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg158">(cid:31) Shiria la Viwanda Vidogo SIDO linatoa mafunzo na kuendesha maonesho ya bidhaa mbalimbali Mikoani kwa lengo la kuwapatia wajasiriamali wadogo ujuzi wa kuzalisha bidhaa bora na kupata masoko pamoja na kuwawezesha kujifunza kutoka kwa wafanya biashara wengine. Katika mwaka 2006/2007 SIDO iliandaa maonesho 13 yaliyoshirikisha wajasiriamali 1030. Katika mwaka huu wa fedha SIDO imepanga kufanya maonesho 8 ya kikanda na tayari imekwisha andaa manne kati ya hayo.</seg>
+          <seg xml:id="seg159">(cid:31) SIDO pia inahimiza upatikanaji wa teknolojia sahihi na rahisi ili ziwasaidie wajasiriamali kuongeza ufanisi tija na ubora wa bidhaa zinazokidhi mahitaji ya soko. Kwa kushirikiana na shirika la kimataifa la kuendesha viwanda (UNIDO) SIDO imeanzisha kituo cha kufundisha usindikaji wa vyakula katika mtaa wa viwanda vidogo Vingunguti Dar es Salaam ambapo umesambazwa pia Songea na Mwanza. Mpango unaandaliwa kufungua vituo vingine huko Tanga na Rukwa.</seg>
+          <seg xml:id="seg160">(cid:31)Mheshimiwa Naibu Spika, shirika la Viwango Tanzania (TBS) nalo hutoa mafunzo kwa wajasiriamali wadogo na wa kati kuhusu namna ya kuongeza ubora wa bidhaa ambapo katika mwaka 2006/2007 jumla ya viwanda vidogo 35 vilifanikiwa kupata leseni za TBS za ubora.</seg>
+          <seg xml:id="seg161">Vile vile kupitia mfuko wa kuhimili ushindani (Small Industry/Enterprise Competitive Facility (SCF) unaofadhiliwa na DANIDA wajasiriamali huwezeshwa kuboresha bidhaa zao, ikiwa ni pamoja na kupatiwa teknolojia bora na utalaamu unaohitajika ambapo chini ya programu hii tayari miradi 45 imenufaika.</seg>
+          <seg xml:id="seg162">(cid:31) Serikali pia imeunda Tume ya ushindani (Fair Competition Commission (FCC). Chini ya sheria Na. 8 ya mwaka 2003 ambayo jukumu lake kuu ni kusimamia ushindani katika soko. Kupitia sheria hiyo, kumetolewa upendeleo maalum kwa wenye viwanda au biashara ndogo kuungana bila kibali cha Tume ya Ushindani iwapo thamani ya rasilimali zao wakiungana haizidi shilingi milioni 800. Upendeleo huu unawasaidia</seg>
+          <seg xml:id="seg163">wajasiriamali wadogo kuungana kwa urahisi ili tija inayotokana na kiwango cha shughuli husika (Economies of Scale) iweze kupatikana.</seg>
+          <seg xml:id="seg164">Pamoja na jitihada hizo, Serikali inatoa mwito wa kuhamasisha wajasiriamali wadogo kuungana ili kukabiliana kwa pamoja na changamoto zinazohusu ushindani wa bidhaa katika soko kwa kuzalisha bidhaa zenye ubora unaofanana na kuziuza kwa pamoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u44" who="MheMohamedHJMnyaa">
+          <seg xml:id="seg165">Mheshimiwa Naibu Spika, kwa kuwa matatizo wanayopata wajasiriamali Mheshimiwa Naibu Waziri amekiri ni pamoja na ufungashaji wa vifurushi (packaging) na kwa kuwa TBS hivi karibuni itakamilisha maabara ya packaging.</seg>
+          <seg xml:id="seg166">Je, Wizara imeandaa mpango gani wa kuwasaidia wajasiriamali hawa wadogo katika hii teknoloji mpya ambayo hivi karibuni itapatikana hapa Tanzania ya Packaging?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u45" who="NaibuWaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg167">Mheshimiwa Naibu Spika, kama nilivyoeleza katika majibu yangu ya swali la msingi kwamba Shirika la Viwanda Vidogo Vidogo (SIDO) linatoa mafunzo pamoja na maonyesho mbalimbali katika masuala haya ya packaging pamoja na utafutaji wa masoko.</seg>
+          <seg xml:id="seg168">TBS inashiriki kikamilifu katika maonyesho haya na Serikali inahimiza wajasirimali wote kushirika katika mafunzo haya ambayo yanatolewa na mashirika haya mawili ili kuhakikisha wanakwenda sambamba na teknolojia ya ufungashaji inayostahili.</seg>
+        </u>
+        <note>Na. 66. MHE. LUCY F. OWENYA aliuliza:</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u46" who="NaibuWaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg169">Kwa kuwa, Serikali ina nia nzuri ya kutunza Historia ya nchi yetu kwa vizazi vijavyo na hata kutunza Sheria kadhaa ikiwemo Sheria ya Uhifadhi wa Mambo ya Kale (Antiquities Act No. 10) ya mwaka 1964.</seg>
+          <seg xml:id="seg170">Je, majengo yanayoangukia katika Sheria hii yanaruhusiwa kuuzwa na kama yakiuzwa masharti ya manunuzi yakoje kwa mantiki ya kuyahifadhi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u47" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg171">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Lucy Owenya, Mbunge Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg172">Kwa mujibu wa Sheria ya Mambo ya Kale Namba 10 ya mwaka 1964 na Marekebisho yake Namba 22 ya mwaka 1979 kitu chochote ambacho kilitengenezwa au kuhusiana na kazi za binadamu kabla ya mwaka 1863 ni kumbukumbu na urithi wa Taifa ikiwa ni pamoja na majengo. Aidha, vifungu 3(1) na 3(2) vya Sheria ya Mambo ya Kale vinampa Waziri mwenye dhamana na Mambo ya Kale kutangaza kupitia Gazeti la Serikali maeneo, majengo na vitu vyovyote vyenye umuhimu wa kihistoria kuwa kumbukumbu na uridhi wa Taifa unaohifadhiwa hata kama vina umri mdogo yaani vilitengenezwa baada ya 1863.</seg>
+          <seg xml:id="seg173">Tamko hili linafanywa kwa umakini mkubwa kwa kushauriana na mamlaka nyingine hususani Ofisi ya Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi, Halmashauri za Jiji, Manispaa, Miji na Wilaya pamoja na wamiliki wa rasilimali husika. Ridhaa inapotolewa ndipo eneo au raslimali hizo hutangazwa kuwa kumbukumbu na urithi wa Taifa na kuwekwa katika orodha ya Kitaifa kwa Tangazo la Serikali.</seg>
+          <seg xml:id="seg174">Hatua hii haimpokonyi mmiliki haki yake ya kuendelea kumiliki mali yake hata inapokuwa imetangazwa kuwa kumbukumbu na urithi unaohifadhiwa. Hivyo, majengo yanayohifadhiwa kwa mujibu wa Sheria hiyo, yanaruhusiwa kuuzwa kwa kibali cha Mkurugenzi wa Mambo ya Kale.</seg>
+          <seg xml:id="seg175">Mheshimiwa Naibu Spika, inapotokea kwamba eneo, jengo au kitu kinachohifadhiwa kimeuzwa, mnunuzi atatakiwa kuzingatia maelekezo yaliyo katika kifungu cha 5(2) cha Sheria ya Mambo ya Kale ikiwa ni pamoja na kutofanya mabadiliko katika jengo linaolohifadhiwa bila kutoa taarifa ya kimaandishi kwa Mkurugenzi wa Mambo ya Kale na kupata kibali kwa maandishi. Vilevile haruhusiwi kuharibu, kuandika, kuchora, kusanifu maandishi yoyote au mchoro wa awali.</seg>
+          <seg xml:id="seg176">Pia, hairuhusiwi mnyama kufanya uharibifu na haitakiwi kubadili mfumo wa mimea iliyo kwenye eneo lililohifadhiwa.</seg>
+          <seg xml:id="seg177">Mheshimiwa Naibu Spika, manunuzi ni makubaliano kati ya muuzaji na mnunuzi. Kinachofanyika ni kwa mnunuzi kupewa masharti, ili mnunuzi aelewe bayana juu ya wajibu wake akiwa mmiliki wa kumbukumbu na urithi wa Taifa. Maelekezo haya hutolewa kwa lengo la kuhakikisha kuwa kumbukumbu na urithi wa Taifa unaendelea kulindwa hata baada ya kubadili mmiliki. Nafasi hii humpa fursa mnunuzi kutambua matakwa ya uhifadhi na kuridhia kabla ya kununua mali hiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u48" who="MheLucyFOwenya">
+          <seg xml:id="seg178">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi ya kuuliza swali la nyongeza. Mheshimiwa Naibu Waziri amesema kwamba Waziri mwenye dhamana anaruhusiwa kuuza majengo ya kale kwa kupitia kwenye matangazo ya Gazeti la Serikali. Lakini ukizingatia kwa sasa hivi kuna tatizo la Global warming na Global warming inaweza ikaathiri watalii kuja kwa kwenda kutembelea mbuga za wanyama au kupanda Mlima Kilimanjaro na wengine wameshakuja mara nyingi. Je, haoni kwamba tukihifadhi hizi nyumba za kihistoria tunaweza kutumia kama Cultural Tourism na kuweza kuhifadhi kwa ajili ya vizazi vijavyo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u49" who="WaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg179">Mheshimiwa Naibu Spika, nimejaribu kusimama kweli kweli. Naomba kujibu swali la Mwanaharakati wa Utalii. Katika jibu letu la msingi hatukusema Waziri anaweza kuuza majengo ambayo yamehifadhiwa. Tulichosema mwenye jengo ambalo limehifadhiwa anaweza kumwulizia mtu mwingine ili mradi tu yule mtu atajua masharti ya kufuata wakati wa kununua jengo ambalo limehifadhiwa na kwamba jengo hilo ruhusa ya kuliuza itatolewa na Mkurugenzi wa Idara ya Mambo Kale.</seg>
+          <seg xml:id="seg180">Pili, Mheshimiwa Naibu Spika, tunaelewa vizuri sana umuhimu wa majengo na mali za kale katika utalii na ndiyo maana tunachukua hatua kubwa katika Wizara kuyakarabati yale ambayo yameshahifadhiwa na maeneo yale ya mali kale ili eneo hili la utamaduni wa kitalii liweze kukua. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u50" who="MheAniaSChaurembo">
+          <seg xml:id="seg181">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali moja dogo la nyongeza. Mheshimiwa Waziri katika jibu lake la msingi alizungumzia kuhusu hifadhi ya majengo ya kale. Kwa kuwa Serikali inahifadhi mambo ya kale na inahifadhi mazingira ya majengo ya kale.</seg>
+          <seg xml:id="seg182">Mheshimiwa Naibu Spika, ningependa kujua kwamba ni kwa nini majengo ya kale kwa mfano Wilaya ya Bagamoyo jengo ambalo lilikuwa la Ofisi ya Mkuu wa Wilaya ambalo liko katikati ya Mji sasa hivi linachanikachanika na saa yoyote linaweza likadondoka. Sasa nataka kujua kwamba ni kwa nini pale Kaole, Bagamoyo majengo yote yamedondoka na hakuna hatua zozote zinazochukuliwa kuyaweka katika mazingira mazuri ili kuweka historia kwa vizazi vijavyo na hivyo hivyo Kilwa na hivyo hivyo sehemu nyingi za nchi hii. Nataka kujua. Je, kuna chombo chochote ambacho kinashughulikia masuala haya? Kama kipo basi ni kwa nini inafikia hali hii ya kupoteza historia ya nchi hii kwa vizazi vijavyo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u51" who="NaibuSpika">
+          <seg xml:id="seg183">Ahsante. Hili swali ni zuri sana inabidi uandike upya. Nilipomwona Mheshimiwa Mwanawetu anasimama nilijua anauliza maswali yanayohusu mambo ya Kale ya Kilwa. Sasa ni swali jipya, swali la Lucy Owenya linasema. Je, majengo yanayoangukiwa kwenye Sheria hii yanaruhusiwa kuuzwa? Kwa hiyo, hiyo ndiyo lilikuwa swali. Kwa hiyo, tunaendelea, mwulize upya. Tunaendelea na swali linalofuata, Wizara ya Afya na Ustawi wa Jamii, Mheshimiwa Felix Kijiko.</seg>
+          <seg xml:id="seg184">Endelea na swali linalofuata. Mheshimiwa Naibu Waziri, majibu. Aah! Nimemwuliza nani? Aah! Mheshimiwa Lwanji, tafadhali naomba usubiri kidogo Mheshimiwa Waziri. Mheshimiwa Lwanji.</seg>
+        </u>
+        <note>Na. 67. Kupanda kwa ada za Uwindaji</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u52" who="MheJohnPLwanji">
+          <seg xml:id="seg185">Swali hilo liliondolewa na mwuliza swali na kuomba radhi kwa sababu nilikuwa safari sikuweza kuwasiliana na wahusika kuwaomba kwamba waliondoe hili swali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u53" who="NaibuSpika">
+          <seg xml:id="seg186">Ahsante, nilikuwa tayari nimelifuta kwenye Order Paper yangu. Kwa hiyo, ndiyo maana nikaliruka. Lakini mimi mwenyewe nilimshauri kwamba utaratibu kama swali liko kwenye Order Paper unasema naomba swali namba fulani liondolewe ama kwa sababu zozote zile. Kwa hiyo, swali namba 67 limeondolewa na mwuliza swali mwenyewe. Kwa hiyo, tunaendelea na swali katika Wizara ya Afya na Ustawi wa Jamii. Mheshimiwa Felix Kijiko, naomba uulize tena tafadhali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 68. Kufungwa kwa Vyuo vya MCH na upungufu wa Wauguzi</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u54" who="MheFelixNKijiko">
+          <seg xml:id="seg187">Kwa kuwa Serikal iiliamua kuanzisha vyuo vya MCH kwa ajili ya kuwafundisha wauguzi na hatimaye vyuo hivyo vilifungwa nchi nzima bila maelezo na kwa kuwa kufungwa kwa vyuo hivyo kumeleta upungufu mkubwa wa watumishi kwenye hospitali na Vituo vya Afya hali inayokwenda sambamba na kushuka kwa uwezo wa watumishi wa kada hiyo:-</seg>
+          <seg xml:id="seg188">(a) Je, Serikali haioni kuwa majengo yaliyokuwa yakitumika na vyuo hivyo</seg>
+          <seg xml:id="seg189">yanaendelea kuharibika kwa kutokuwa na matumizi kwa muda mrefu?</seg>
+          <seg xml:id="seg190">(b) Je, wauguzi waliokuwa kwenye vyuo hivyo wanatumikaje?</seg>
+          <seg xml:id="seg191">(c) Je, Serikali ina mpango gani wa kuwaendeleza wauguzi ambao sasa ni</seg>
+          <seg xml:id="seg192">wengi kutokana kufungwa kwa vyuo hivyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u55" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg193">Mheshimiwa Naibu Spika, kabla ya kujibu swali la Mheshimiwa Felix Ntibenda Kijiko, Mbunge wa Muhambwe, kwanza naomba kutoa maelezo mafupi ya utangulizi kama ifuatavyo:-</seg>
+          <seg xml:id="seg194">Mheshimiwa Naibu Spika, msingi wa utekelezaji wa mabadiliko katika Sekta ya Afya yaliyoanzishwa mwaka 1996 ni kuhakikisha utoaji wa huduma za afya zenye ubora wa hali ya juu na endelevu. Ili kufanikisha azma hiyo iliamuliwa kuwa vyuo vyote vya afya vifanyiwe tathmini ya kina ili kuboresha mafunzo ya wataalamu wa afya. Kufuatia</seg>
+          <seg xml:id="seg195">matokeo ya tathmini hiyo vyuo 11 vya MCH kati ya 15 vilipandishwa hadhi na kuwa vyuo vya Wauguzi Wakunga Daraja B ngazi ya cheti.</seg>
+          <seg xml:id="seg196">Aidha, vyuo vinne vya Nzega, Kibondo, Nachingwea na Tunduru vilivyosalia vilisimamishwa kwa muda kutokana na ufinyu wa Bajeti ya Wizara uliosababisha mgawanyo mdogo wa Bajeti ya kuendesha vyuo na kukosekana kwa tija katika uendeshaji wa vyuo kutokana na idadi ndogo wanafunzi waliokuwa wanadahiliwa.</seg>
+          <seg xml:id="seg197">Mheshimiwa Naibu Spika, baada ya maelezo hayo sasa naomba kujibu swali la Mheshimiwa Mbunge, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg198">(a) Mheshimiwa Naibu Spika, nakubaliana na Mheshimiwa Mbunge kuwa majengo ya vyuo vinne nilivyovitaja hapo juu yameanza kuharibika kutokana na kutotumika kwa muda. Hata hivyo, napenda kumfahamisha Mheshimiwa Mbunge pamoja na Bunge lako Tukufu kuwa Wizara yangu imeandaa mpango wa ukarabati wa vyuo hivyo ili kutekeleza lengo la kupanua mafunzo ya uuguzi ngazi ya cheti kama ilivyoainishwa kwenye Mpango wa Maendeleo ya Afya ya Msingi.</seg>
+          <seg xml:id="seg199">(b) Wauguzi waliokuwa kwenye vyuo hivyo walihamishiwa kwenye vyuo vingine.</seg>
+          <seg xml:id="seg200">(c) Wizara ina utaratibu wa kuwapeleka watumishi mbalimbali wakiwemo wauguzi kwenye mafunzo mbalimbali ya kujiendeleza kulingana na upatikanaji wa fedha kila mwaka. Aidha, upo utaratibu mafunzo kwa njia ya masafa marefu (Distance Learning) kwa watumishi wote wa afya ikiwa ni pamoja na wauguzi wanaohitaji kujiendeleza. Katika utaratibu huu watumishi husoma wakiwa katika vituo vyao vya kazi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u56" who="MheFelixNKijiko">
+          <seg xml:id="seg201">Mheshimiwa Naibu Spika, pamoja na majibu mazuri ambayo Naibu Waziri ameyatoa lakini bado swali la msingi linabakia pale pale kwamba kwa kule kwangu Kibondo ninakokuzungumzia chuo hiki kweli kilifungwa na mimi nimejitahidi kutafuta wafadhali waweze kutengeneza majengo hayo kusudi wauguzi waweze kupatikana na kuwa na idadi ya kutosha kuendelea kutoa huduma kwa wananchi.</seg>
+          <seg xml:id="seg202">Je, Serikali haioni kwamba hizo ni jitihada kubwa sana zimefanywa na Mbunge na kuniunga mkono kwa kufungua hicho chuo ili huduma ziendelee kutolewa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u57" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg203">Mheshimiwa Naibu Spika, kwanza nichukue nafasi hii kumpongeza sana Mheshimiwa Kijiko kwa juhudi zake anazozifanya katika Jimbo lake hasa kuhakikisha kwamba anajali afya za wananchi wake kwenye jimbo lake la Muhambwe.</seg>
+          <seg xml:id="seg204">Mheshimiwa Naibu Spika, ni kweli kabisa kwamba kuna umuhimu huu na sisi kama Serikali tutajitahidi tuweze kuhakikisha kwamba chuo hiki kilichoko Kibondo</seg>
+          <seg xml:id="seg205">kinafunguliwa lakini vile vile tutaangalia pia na uwepo wa Bajeti kama nilivyosema katika jibu langu la msingi kwamba tungeweza na tungependa sana vyuo vyetu tuvifungue lakini kutokana na ufinyu wa Bajeti basi tutafanya tutakachokiweza kuhakikisha kwamba tunamwunga mkono.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u58" who="NaibuSpika">
+          <seg xml:id="seg206">Upande huo naona mashine zina matatizo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u59" who="MheBaloziDrGetrudeIMongella">
+          <seg xml:id="seg207">Mtu ananihujumu hapa. Ahsante sana Mheshimiwa Naibu Spika. Kwanza kwa majibu mazuri ya Mheshimiwa Naibu Waziri, lakini ninalo swali la nyongeza. Vyuo hivi ni muhimu katika kutupa wataalam ambao watasaidia hasa katika kutekeleza</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u60" who="NaibuSpika">
+          <seg xml:id="seg208">Mheshimiwa Naibu Waziri wa Maliasili na Utalii siyo utaratibu huo. Mheshimiwa Mbunge endelea!! Huyu alikuwa anapita kati yangu na wewe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u61" who="MheBaloziDrGetrudeIMongella">
+          <seg xml:id="seg209">Alikuwa Out of Order. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u62" who="MheBaloziDrGetrudeIMongella">
+          <seg xml:id="seg210">Kwa kuwa nchi yetu pia ni kati ya nchi ambazo zimedhamiria kupunguza vifo vya akina mama na watoto wachanga; na kwa kuwa vyuo hivi ndivyo vingetoa watu ambao wangeweza kuifanya kazi hii kwa haraka na kwa kuwa kuna maeneo mengi hasa ya Visiwani ambayo wakina mama wengi na watoto wachanga wanapoteza maisha wakihangaika kusafiri masafa marefu na ya hatari. Je, Waziri atakubali ya kwamba tumpigie debe la nguvu ili Bajeti yake ipanuliwe kipindi kijacho na tuweze kuhakikisha ya kwamba akina mama na watoto wachanga wanapona? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u63" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg211">Mheshimiwa Naibu Spika, napenda nichukue nafasi hii kumpongeza sana Mama Mongella kwa juhudi zake na anavyotambua umuhimu wa kupunguza vifo vya watoto na akina mama kama, inavyotueleza katika Millenium Development Goals.</seg>
+          <seg xml:id="seg212">Mheshimiwa Naibu Spika, ni kweli kwamba tuna upungufu wa fedha na ninaomba rai kwamba Waheshimiwa Wabunge mtupigie debe ili Wizara yetu iongezewe fedha ili tuweze kukidhi mambo haya na hatimaye kupunguza sana vifo vya akina mama na watoto ambao kweli bado vifo viko juu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u64" who="NaibuSpika">
+          <seg xml:id="seg213">Hilo debe linatakiwa lianzie huko huko Serikalini. Waheshimiwa Wabunge Swali la 69 lilivyoulizwa limeuliza Wizara ambayo siyo. Kwa hiyo, tunaliondoa na litajibiwa kesho. Kwa hiyo, makosa yamefanyika katika Ofisi yangu. Kwa hiyo, inabidi mimi nieleze. Kwa hiyo, tunaendelea Wizara ya Maji. Mheshimiwa Emmanuel Luhahula.</seg>
+          <seg xml:id="seg214">Swali namba 69 liliondolewa na Ofisi ya Bunge na litaulizwa kesho tarehe 6/11/2007.</seg>
+        </u>
+        <note>Na. 70. Pampu za Kusukuma Maji</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u65" who="MheEmmanuelJLuhahula">
+          <seg xml:id="seg215">Kwa kuwa katika maeneo ya Mbogwe, Runzewe na sehemu nyingine yanatakiwa yapatiwe pampu za kusukuma maji na kwa kuwa kwa muda mrefu sijaona ununuzi wa pampu hizo ukiendelea:-</seg>
+          <seg xml:id="seg216">Je, Serikali inachukua hatua gani hadi sasa za kununua pampu hizo na kwenda kizifunga kwenye maeneo husika na kutatua tatizo la maji kwenye sehemu hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u66" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg217">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Emmanuel Luhahula, Mbunge wa Jimbo la Bukombe, kama ifuatavyo:-</seg>
+          <seg xml:id="seg218">Mheshimiwa Naibu Spika, katika kipindi cha mwaka huu wa fedha (2007/2008) Halmashauri ya Wilaya ya Bukombe ina mpango wa kukarabati miradi 2 ya maji ya Bwelwa.Mbogwe uliopo maeneo ya Mbogwe na Msasa/Uyovu ulioko maeneo ya Runzewe.</seg>
+          <seg xml:id="seg219">Kazi zilizopangwa ni pamoja na kukarabati bomba kuu, ununuzi na ufungaji wa pampu moja inayoendeshwa na injini ya dizeli kwa ajili ya mradi wa Bwelwa/Mbogwe na ununuzi na ufungaji wa pampu moja inayoendeshwa na Jenereta kwa ajili ya mradi wa Msasa/Uyovu.</seg>
+          <seg xml:id="seg220">Mheshimiwa Naibu Spika, zabuni kwa ajili ya ununuzi na ufungaji wa vifaa vya miradi hii ilitangazwa tarehe 9/9/2007 na Bodi ya Zabuni ya Wilaya ya Bukombe ilifungua zabuni hizo tarehe 9/10/2007. Aidha, tathmini ya zabuni hizo ilikamilika tarehe 15/10/2007 baada ya Bodi ya zabuni ya Wilaya ya Bukombe kupitisha zabuni hizo. Mikataba kati ya Halmshauri ya Wilaya na wazabuni imetayarishwa na itawekewa saini hivi karibuni. Uagizaji na ufungaji wa mitambo hii unatarajiwa kukamilika mwishoni mwa mwezi Desemba 2007.</seg>
+          <seg xml:id="seg221">Mheshimiwa Naibu Spika, baada ya kukamilisha kazi ya ufungaji wa pampu za kusukuma maji katika maeneo hayo ni matumaini yangu kuwa tatizo la maji katika maeneo hayo ya Mbogwe na Runzewe litapungua.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u67" who="MheEmmanuelJLuhahula">
+          <seg xml:id="seg222">Mheshimiwa Naibu Spika, kwanza naipongeza Serikali kwa juhudi zake ambazo inazifanya mpaka sasa hivi kwa ajili ya kuondoa tatizo la maji katika maeneo hayo. Baada ya pongezi hizo niulize swali dogo la nyongeza. Kutokana na majibu yaliyotolewa na Mheshimiwa Naibu Waziri anasema kwamba mikataba kati ya Halmashauri na Wazabuni haijawekwa na itawekwa hivi karibuni lakini pia ununuzi na ufungaji wa mitambo utakamilika Desemba, 2007.</seg>
+          <seg xml:id="seg223">Je, Mheshimiwa Naibu Spika, ananihakikishia kwamba wananchi wa Bukombe kweli Desemba mambo haya yatakuwa yamekamilika wakati mikataba haijawa tayari na itakuwa tayari kama watashindwa kukamilisha shughuli hiyo kwa Desemba nilete swali lingine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u68" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg224">Mheshimiwa Naibu Spika, napenda kumhakikishia Mheshimiwa Mbunge ya kwamba kazi iliyobakia ni ndogo tu na ambapo ni kiasi cha hawa kusaini na tatizo huwa linakuwepo kama fedha hakuna. Lakini fedha hizi tayari Wizara yangu ilishapeleka kwenye Halmashauri na ni jumla ya shilingi milioni 357,937,000/= ambazo tayari Halmashauri imepokea na kati ya fedha hizi zingine ndiyo zitatumika kwa ajili ya kununua vifaa hivyo. Kwa hiyo, kazi iliyobakia ni ndogo. Ahsante sana.</seg>
+        </u>
+        <note>Na. 71. Tatizo Sugu la Maji Ubungo</note>
+        <note>(K.n.y. MHE. HALIMA MDEE)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u69" who="MheGraceSKiwelu">
+          <seg xml:id="seg225">Kwa kuwa Serikali kupitia Wizara ya Maji kwa kipindi kirefu imekuwa ikieleza kuwa ina mipango kabambe ya kutatua tatizo la maji, na kwa kuwa Jimbo la Ubungo ni eneo ambalo ukosefu wa maji ni tatizo sugu:-</seg>
+          <seg xml:id="seg226">(a) Je, Serikali ina mkakati gani wa kuondoa kero ya maji kwenye maeneo ya</seg>
+          <seg xml:id="seg227">Jimbo la Ubungo?</seg>
+          <seg xml:id="seg228">(b) Je, Serikali inapata kiasi gani cha fedha kutokana na biashara ya maji kwa</seg>
+          <seg xml:id="seg229">kutumia magari iliyoshamiri katika jimbo la Ubungo na maeneo mengine</seg>
+          <seg xml:id="seg230">ya Jiji la Dar es Salaam?</seg>
+          <seg xml:id="seg231">(c) Je, Serikali ina mpango gani wa kudhibiti gharama za maji yanayouzwa</seg>
+          <seg xml:id="seg232">kwa kutumia magari ambayo kwa wastani ni sh.150/= hadi 300/= kwa</seg>
+          <seg xml:id="seg233">ndoo moja, hasa ikizingatiwa kwamba, kipato cha wananchi ni kidogo sana</seg>
+          <seg xml:id="seg234">kuweza kukidhi mahitaji yake na kuvuna maji?</seg>
+          <seg xml:id="seg235">Mheshimiwa Naibu Spika, kabla ya kujibu swali la Mheshimiwa Halima Mdee, Mbunge Viti Maalum, napenda kutoa maelezo yafuatayo:-</seg>
+          <seg xml:id="seg236">Mheshimiwa Naibu Spika, ni kweli kuwa jimbo la Ubungo pamoja na maeneo mengi ya Jiji la Dar es Salaam yanakabiliwa na tatizo la upungufu wa maji kwa matumizi ya majumbani. Upungufu huo unatokana na kiasi kidogo cha maji kinachosukumwa kutoka vyanzo vya maji vya Ruvu Juu, Ruvu Chini na Mtoni. Aidha, uchakavu wa mabomba ya usambazaji unasababisha upotevu mkubwa wa maji kwa uvujaji.</seg>
+          <seg xml:id="seg237">Mheshimiwa Naibu Spika, Serikali kupitia Wizara ya Maji inatekeleza programu ya uboreshaji wa miundombinu ya majisafi na majitaka katika Jiji la Dar es Salaam. Programu hii ilianza mwaka 2003 na itakamilika mwishoni mwa mwaka 2008.</seg>
+          <seg xml:id="seg238">Chini ya Programu hii mitambo ya Ruvu Juu, Ruvu Chini na Mtoni itakarabatiwa pamoja na mabomba ya usambazaji maji. Serikali pia inaendelea na uchunguzi wa maji chini ya ardhi katika maeneo ya Mpiji, Kimbiji na Ukonga kwa kuchimba visima vya kina kirefu na hadi sasa Kimbiji na Mpiji imeonyesha dalili ya kuwa na maji mengi ya kutosha.</seg>
+          <seg xml:id="seg239">Mheshimiwa Naibu Spika, baada ya maelezo hayo, napenda sasa kujibu swali la Mheshimiwa Mbunge lenye vipengele (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg240">(a) Mheshimiwa Naibu Spika, katika kuondoa kero ya maji katika maeneo ya jimbo la Ubungo, Serikali ina mkakati wa kutekeleza mradi na kukarabati na kupanua miundombinu ya majisafi na majitaka katika Jiji la Dar es Salaam. Mkakati huu utahusisha pia ulazaji wa mabomba ya maji katika maeneo mbalimbali ya jiji yakiwemo yale ya jimbo la Ubungo ambayo ni pamoja na Kiluvya, Kibamba, Mbezi, Temboni, Kimara Matangini, Baruti, Kibo, Msewe na Makuburi.</seg>
+          <seg xml:id="seg241">Kazi ya usanifu wa kazi hizi imekamilika na kazi ya kumpata mkandarasi wa kujenga mradi inaendelea. Ujenzi wa mradi unatarajiwa kuanza mwanzoni mwa mwaka, 2008.</seg>
+          <seg xml:id="seg242">(b) Mheshimiwa Naibu Spika, katika kurahisisha upatikanaji wa maji kwa maeneo ambayo hayapati maji, Shirika la DAWASCO limeweka maeneo ya kuchota maji kwa kutumia magari ili yaweze kufikisha maji maeneo hayo.</seg>
+          <seg xml:id="seg243">Mheshimiwa Naibu Spika, magari yanayouza maji yaliyopo Ubungo ni ya watu binafsi mbalimbali na hupata maji kutoka kwenye Viosk vilivyojengwa na DAWASCO. Vituo hivi viko eneo la Kijitonyama na pia Kunduchi ambapo kila gari hulipa shilingi 5,000/= kwa lita 10,000. Mauzo ya maji kutoka vituo hivi huipatia DAWASCO wastani wa shilingi milioni tatu kila mwezi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u70" who="MheGraceSKiwelu">
+          <seg xml:id="seg244">(c) Mheshimiwa Naibu Spika, Serikali kupitia DAWASCO hufanya kampuni ya kuelimisha wananchi jinsi ya kutumia maji kwa uangalifu na kujihadhari na watu wanaouza maji kwa bei ya juu. Aidha, DAWASCO imejenga sehemu za kuchota maji (viosk) kwa bei ya shilingi 20 kwa ndoo. Hivyo wananchi wanashauriwa wakachote maji katika maeneo hayo.</seg>
+          <seg xml:id="seg245">Mheshimiwa Naibu Spika, nakushukuru. Pamoja na majibu ya Mheshimiwa Naibu Waziri, nina swali moja la nyongeza. Katika majibu ya Mheshimiwa Waziri amesema ujenzi wa mradi unatarajiwa kuanza mwanzoni mwa mwaka 2008. Je, Mheshimiwa Naibu Waziri anaweza kutuambia ni lini mradi huu utaanza atupe muda muafaka ambao wananchi wa Ubungo wanaweza kupata maji ambayo wamesubiri kwa muda mrefu bila mafanikio?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u71" who="NaibuSpika">
+          <seg xml:id="seg246">Mheshimiwa Naibu Waziri majibu!! Inabidi useme na tarehe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u72" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, tumeeleza ya kwamba sasa hivi tuko katika mchakato wa kumpata mkandarasi mjenzi wa mradi. Kazi kubwa ilikuwa ni ile ya kufanya usanifu ambayo imekwisha na sasa ni bado imebakia kazi ndogo tu hiyo.</seg>
+          <seg xml:id="seg248">Lakini hata hivyo, katika kumpata mjenzi wa mradi kuna mchakato ambao utapitiwa na siyo rahisi kusema tarehe kamili lini. Lakini ni kwamba mwanzoni mwa mwaka 2008 wakati wowote mwanzoni mwa mwaka kazi hiyo itaanza kwa sababu ukarabati huo ni kitu ambacho kinahitaji umakini na kuhakikisha kwamba mkandarasi wa ujenzi huo apatikane makini kazi iende vizuri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u73" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg249">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza. Kwa kuwa Mheshimiwa Naibu Waziri kasema kwamba kazi ya kusambaza maji maeneo ambayo hayana maji kwa Jjiji la Dar es Salaam wamepewa wafanyabiashara binafsi. Lakini watu hawa wanapata maji kutoka kwenye viosk ambavyo vimejengwa na Serikali na kwa kuwa wafanyabiashara hawa wanauza bei wanayotaka wao kwa kuwa nia yao ni kutengeneza pesa, huku wananchi wakiwa wanaumia.</seg>
+          <seg xml:id="seg250">Je, Serikali haioni sababu ya kuweka kiwango maalum kwa maji kwa ndoo ili wafanya biashara hawa wawauzie wananchi kwa bei ya standard price ambayo wananchi wanaweza ku-afford badala ya kwenda kununua maji ya mitaani ambayo ni athari kwa ajili ya afya zao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u74" who="NaibuSpika">
+          <seg xml:id="seg251">Umejibu pale, inaonekana ni zito. Kwa hiyo, Mheshimiwa Naibu Waziri ujibu swali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u75" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg252">Mheshimiwa Naibu Spika, ni kwamba hawa ni watu binafsi ambao wenye uwezo wa kuwa na magari wanafanya biashara hiyo. Lakini ni kwamba siyo kweli kwamba kila mahala bei ya maji hayo ni kubwa. Bei ya maji</seg>
+          <seg xml:id="seg253">inalingana na umbali, yanaanzia kuanzia sh. 50/= hadi 300/= kufuatana na maji yanapelekwa wapi.</seg>
+          <seg xml:id="seg254">Mheshimiwa Naibu Spika, kuna baadhi wanaotaka maji hayo anaweza akaweza anakaa mbali umbali ambao unaweza ukafika huku Kimara Temboni, na kuendelea mbele. Kwa mtu kama huyo ukilinganisha na bei mbalimbali na pia usafiri jinsi ulivyo hawezi, bado yale maji akauziwa sh.20/= kwa ndoo. Kwa hiyo, kwa hali hiyo napenda pia kutoa wito kwamba tunawaomba hao wauzaji maji waangalie ukweli wa mambo na bei waipunguze kufuatana na uwezo wa wananchi. Kwa sababu hiyo ni shida yetu wote.</seg>
+          <seg xml:id="seg255">Waheshimiwa Wabunge, maswali yamekwisha na muda pia umekwisha. Kwa hiyo ninawashukuru sana. Nina matangazo kidogo kwanza ya wageni. Kwenye Speaker’s Gallery tunaye Mzee wetu Peter Kisumo, ambaye kwa miaka ya 60 mpaka ya 80 alikuwa Waziri katika Wizara mbalimbali. Nina furahi kukuona ukiwa na afya njema, karibu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u76" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg256">Wakati huohuo tunaye mgeni mwingine katika Speaker’s Gallery, ni Balozi mpya wa Marekani ambaye ni Mheshimiwa Mark Green. Amekuja kujitambulisha kwa Mheshimiwa Spika kwa sababu yeye anamfahamu Balozi aliyetangulia lakini sasa ameondoka na ameletwa Balozi mpya. Anafuatana na Mkuu wa Idara ya Masuala ya Demokrasia na Utawala Bora, Bwana Thomas Baye, anafuatana na Bwana Jefrey Salais, Mwambata wa Masuala ya Umma katika Ubalozi wa Marekani hapa nchini, it’s not the end. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u77" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg257">.</seg>
+          <seg xml:id="seg258">Kwa taarifa yenu Waheshimiwa Wabunge, Ubalozi wa Marekani sasa hivi unajiandaa kusaidiana na Bunge letu kuliimarisha Bunge letu kwenye masuala ya demokrasia, kwenye masuala ya miundombinu na hata namna ya kuongoza na kuangalia mifumo ya uendeshaji ya shughuli za Bunge. Kwa hiyo, tuna ushirikiano mkubwa na Ubalozi wa Marekani. I would like to welcome you, your Excellence, to Dodoma and particularly to our Parliament and we hope to see you after we finish this meeting, welcome </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u78" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg259">.</seg>
+          <seg xml:id="seg260">Waheshimiwa Wabunge, tuna wageni wengi leo, Mheshimiwa Waziri Karamagi, ana wageni wake, yuko Katibu Mwenezi wa Mkoa wa Kagera na Muasisi, Mjumbe wa Mkutano Mkuu. Naomba wasimame walipo, ahsante karibu sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u79" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg261">Nina wageni wengi, kuna wageni wa Mheshimiwa Ezekiel Maige na Mheshimiwa James Lembeli, hawa ni Diwani wa Kata ya Segeje, Sekenke, Segeye na Mheshimiwa Katibu na Katibu Mwenezi wa Kahama. Naomba wasimame, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u80" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg262">Ninao wageni wengine ambao ni Katibu wa Jimbo la Peramiho, mgeni wa Mheshimiwa Jenista Mhagama, aliko asimame, okay. Wewe ni maarufu na tunakushukuru sana.</seg>
+          <seg xml:id="seg263">Halafu tuna wageni wengine, unajua hawa wageni wanaleta tatizo kwa sababu imeandikwa na miandiko ya watu mbalimbali sasa inakuwa kazi. Nina wageni wengine wa Mheshimiwa Vita Kawawa, wote wasimame ni dada zake na wengine, wasimame walipo, ahsante. Aah! Kwa hiyo Mheshimiwa Vita inabidi ujibu maswali hayo. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u81" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg264">Nina wageni wengine wa Mheshimiwa Aziza Ally, Diwani Nassoro Hamdani na Diwani Iddi Kapala na Katibu Mwenezi wa Mkoa wa Tabora. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u82" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg265">Halafu nina wageni wa Mheshimiwa Fuya Kimbita, popote walipo wasimame. Halafu nina wageni wengine wa Mheshimiwa Fatma Othman, Mbunge Viti Maalum, waliko wasimame. Halafu kundi kubwa lile, ni wageni wangu kutoka Mjini Magharibi ambapo ni Makatibu wa Majimbo na Matawi, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u83" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg266">Natambua pia kuna wageni wengine ambao hatukuwataja lakini kwa utaratibu wetu ukumbi kama huu unaweza kuhudhuriwa na wananchi wowote wale. Tunakaa toka saa tatu mpaka saa saba halafu saa 11 mpaka saa mbili kasorobo. Kwa hiyo, mwananchi yeyote anapita kwa utaratibu anakuja kusikiliza shughuli za Bunge. Kwa hiyo, wote wengine mnakaribishwa sana na si mahali lazima uombe ruhusa.</seg>
+          <seg xml:id="seg267">Halafu ninalo tangazo kutoka kwa Mheshimiwa Balozi Dr. Mongela na Wabunge wanawake kwamba leo saa tisa na nusu kutakuwa na Misa ya kumwombea Mheshimiwa Salome Mbatia, Marehemu wetu ambaye alifariki tarehe 24 kule Njombe. Misa hiyo itafanyika karibu na Air Port, saa tisa na nusu. Kwa hiyo, kwa wale wanaopenda kwenda kushiriki katika shughuli hiyo, wanakaribishwa.</seg>
+          <seg xml:id="seg268">Waheshimiwa Wabunge, naomba tuendelee na shughuli nyingine. Katibu, shughuli inayoendelea!</seg>
+          <seg xml:id="seg269">MISWADA YA SHERIA YA SERIKALI</seg>
+        </u>
+        <note>(Kusomwa Mara ya Kwanza)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u84" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg270">Muswada wa Sheria ya Mikopo wa Mwaka 2007 (The Financial Leasing Bill, 2007)</seg>
+          <seg xml:id="seg271">Muswada wa Sheria ya Mfumo wa Mashitaka Nchini wa Mwaka 2007 (The</seg>
+          <seg xml:id="seg272">National Prosecutions Services Bill, 2007)</seg>
+          <seg xml:id="seg273">Muswada wa Sheria ya kufanya Marekebisho kwenye Sheria ya Kurekebisha</seg>
+          <seg xml:id="seg274">na Kutwaa Mali na Madeni ya Benki ya Taifa ya Biashara (Na.2) ya Mwaka</seg>
+          <seg xml:id="seg275">2007 (The National Bank of Commerce (Re-organisation and Vesting of Assets</seg>
+          <seg xml:id="seg276">and Liabilities) (Amendment) (No.2) Bill, 2007)</seg>
+          <seg xml:id="seg277">Muswada wa Sheria ya Umeme wa Mwaka 2007(The Electricity Bill, 2007)</seg>
+          <seg xml:id="seg278">Muswada wa Sheria wa Petroli wa Mwaka 2007(The Petroleum Supply Bill, 2007)</seg>
+          <seg xml:id="seg279">(Miswada iliyotajwa hapo juu ilisomwa</seg>
+          <seg xml:id="seg280">Bungeni kwa Mara ya Kwanza)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u85" who="NaibuSpika">
+          <seg xml:id="seg281">Waheshimiwa Wabunge, hii Miswada iliyosomwa Mara ya Kwanza ni Miswada mitano. Miswada hii mitano nakala zake zipo kwenye pigeon holes zenu. Kwa hiyo, ninaomba kila mtu atakapopita kule aangalie ataipata Miswada hii ili kusudi mjiandae vizuri katika vikao vinavyofuata. Kwa hiyo, ninaomba tafadhali, tukisema hapa tunaposema ni public. Kwa hiyo, hata general public Miswada hii wanaweza kuipata na kuisoma na kuwashauri Wabunge au kushauri namna yoyote ile itakavyokuwa inafaa. Kwa hiyo, Miswada hiyo ipo.</seg>
+          <seg xml:id="seg282">Sasa, Miswada ambayo iko tayari Kusomwa kwa Mara ya Pili, mmepata Supplimentary Order Paper na hiyo ni Muswada wa Sheria ya Kurekebisha Sheria ya Wahandisi wa mwaka 2007 (The Engineers Registration (Amendment) Bill, 2007). Mwingine ni Muswada wa Sheria ya Kurekebisha Sheria za Baraza la Ujenzi la Taifa wa mwaka 2007 (The National Construction Council (Ammendment) Bill, 2007). Miswada hii ilikuwa na matatizo machache ya kiufundi, tutaanza nayo jioni saa 11. Kwa hiyo kwa sasa hivi sina tangazo lingine, naahirisha shughuli za Bunge mpaka saa 11.00 jioni.</seg>
+          <seg xml:id="seg283">(Saa 04:43 asubuhi Bunge lilifungwa</seg>
+          <seg xml:id="seg284">mpaka saa 11:00 jioni)</seg>
+        </u>
+        <note>(Saa 11.00 jioni Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u86" who="NaibuSpika">
+          <seg xml:id="seg285">MISWADA YA SHERIA YA SERIKALI</seg>
+          <seg xml:id="seg286">Muswada wa Sheria ya Kurekebisha Sheria ya Wahandisi wa Mwaka 2007</seg>
+          <seg xml:id="seg287">(The Engineers Registration (Ammendment) Bill, 2007)</seg>
+        </u>
+        <note>(Kusomwa kwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u87" who="WaziriWaMiundombinu">
+          <seg xml:id="seg288">Mheshimiwa Naibu Spika, nakushukuru kwa kunipatia nafasi hii ili niweze kuwasilisha hoja iliyo mbele ya Bunge lako Tukufu. Awali ya yote, napenda nitoe salamu zangu za rambirambi kwa familia ya Marehemu Mheshimiwa Salome Joseph Mbatia, aliyekuwa Naibu Waziri wa Maendeleo ya Jamii, Jinsia na Watoto. Tunamwomba Mwenyezi Mungu aipe familia ya Marehemu moyo wa ujasiri na uvumilivu katika kipindi hiki cha majozi.</seg>
+          <seg xml:id="seg289">Aidha, napenda kuchukua nafasi hii kuwapongeza wajumbe wa Mkutano Mkuu wa Taifa wa Nne wa Chama cha Mapinduzi uliomalizika muda mfupi, kwa kazi kubwa na nzuri waliyoifanya hapa Dodoma kwa kumchagua kwa kura nyingi sana Mheshimiwa Jakaya Mrisho Kikwete kuwa Mwenyekiti wa Chama cha Mapinduzi Taifa. Pia</seg>
+          <seg xml:id="seg290">niwapongeze kwa kufanya kazi kubwa kwa kumpa kura nyingi sana Rais wa Zanzibar Mheshimiwa Aman Abeid Karume kuwa Makamu wa Mwenyekiti wa Chama cha Mapinduzi Zanzibar. Vilevile niwapongeze sana kwa kumchagua kwa kura nyingi sana Mheshimiwa Pius Msekwa kuwa Makamu Mwenyekiti wa Chama cha Mapinduzi Tanzania Bara.</seg>
+          <seg xml:id="seg291">Mheshimiwa Naibu Spika, nitakuwa mchoyo wa fadhila nisipowashukuru sana wajumbe wa mkutano huo kwa imani waliyoionyesha kwangu kwa kunipa kura nyingi sana ili niweze kuwa mjumbe wa Halmashauri Kuu ya Taifa ya Chama cha Mapinduzi. Nawashukuruni sana na nawaahidi utumishi ulioadilifu kwa faida ya Chama chetu lakini pia kwa faida ya nchi yetu.</seg>
+          <seg xml:id="seg292">Mheshimiwa Naibu Spika, baada ya maneno hayo ya utangulizi, naomba kutoa hoja kwamba Muswada wa Marekebisho ya Sheria ya Usajili Wahandisi ya Mwaka 1997 pamoja na marekebisho yaliyogawiwa kwa Waheshimiwa Wabunge, sasa usomwe Mara ya Pili.</seg>
+          <seg xml:id="seg293">Mheshimiwa Naibu Spika, Sheria ya Usajili Wahandisi ya Mwaka 1997 inayotumika hivi sasa ilitungwa ili kusimamia mienendo ya Wahandisi na shughuli za kihandisi zinazofanywa na Wahandisi, makampuni pamoja na kampuni za ushauri za kihandisi hapa nchini. Sheria hii imeonekana kuwa na upungufu kadhaa na hivyo kutokidhi mahitaji ya sekta kufuatana na mabadiliko mbalimbali na hivyo Bodi ya Usajili Wahandisi kukosa uwezo wa kutosha kudhibiti taaluma ya kihandisi hapa nchini.</seg>
+          <seg xml:id="seg294">Mheshimiwa Naibu Spika, madhumuni ya Muswada huu ni kufanya marekebisho kadhaa katika Sheria ya Usajili Wahandisi ya mwaka 1997 ili kuimarisha utekelezaji wa majukumu ya Bodi hiyo na hivyo kuiwezesha kufanya kazi zake kwa ubora na ufanisi zaidi. Aidha, sheria itahusisha vipengele vinavyolenga kulinda ajira ya Wahandisi wa Kitanzania kwa kudhibiti uingiaji holela wa Wahandisi wa kigeni kuja kufanya kazi hapa nchini katika nafasi za Wahandisi Wataalam au Wahandisi Washauri.</seg>
+          <seg xml:id="seg295">Mheshimiwa Naibu Spika, Muswada huu umegawanyika katika sehemu kuu mbili. Sehemu ya kwanza ya Muswada inahusu mambo ya jumla ambayo ni jina la sheria na uhusiano wake na sheria inayofanyiwa marekebisho ambayo Sheria ya Usajili wa Wahandisi ya mwaka 1997.</seg>
+          <seg xml:id="seg296">Sehemu ya pili ya marekebisho yanayopendekezwa yamo katika kifungu cha pili, cha nne, cha tano, cha kumi, cha kumi na moja, kumi na mbili, kumi na tatu, kumi na nne, kumi na tano, kumi na sita, kumi na nane, kumi na tisa, ishirini na moja na kifungu cha ishirini na tisa, thelathini tatu na kifungu cha thelathini na nne cha sheria inayotumika hivi sasa.</seg>
+          <seg xml:id="seg297">Mheshimiwa Naibu Spika, katika sehemu ya pili ya Muswada, pendekezo la kwanza ni kuongeza tafsiri mpya kama inavyoonekana katika ukurasa wa thelathini na saba hadi thelathini na nane wa Muswada ambapo kifungu cha pili cha sheria kinafanyiwa marekebisho. Lengo la marekebisho haya ni kuongeza tafsiri mpya na kuondoa utata wa aina ya Wahandisi wanaosajiliwa na Bodi.</seg>
+          <seg xml:id="seg298">Mheshimiwa Naibu Spika, pendekezo la pili katika sehemu ya pili ya Muswada liko katika ukurasa wa thelathini na nane hadi ukurasa wa arobaini wa Muswada ambapo kifungu cha nne cha sheria kinarekebishwa kwa kuboresha utendaji wa Bodi kwa kuiongezea majukumu ili kuipa nguvu ya kisheria na uwezo wa kudhibiti shughuli za kihandisi kwa lengo la kuongeza ufanisi zaidi. Majukumu hayo ni pamoja na Bodi kuwa na mamlaka ya kisheria ya kuingia na kukagua sehemu za kazi za kihandisi. Suala hili limefanyiwa marekebisho katika kipengele cha K - L katika ukurasa wa thelathini na tisa wa Muswada. Marekebisho haya yanashabihiana na Sheria Na.17 ya Usajili wa Makandarasi na Sheria Na.16 ya Usajili wa Wabunifu Majengo na Wakadiriaji Majenzi ambazo zinatoa fursa ya kuingia na kukagua kazi katika fani hizo. Sheria ya sasa ilikuwa haitoi fursa kama hiyo.</seg>
+          <seg xml:id="seg299">Aidha, kama watakavyoona Waheshimiwa Wabunge kwenye jedwali la marekebisho inapendekezwa kiwekwe kipengele kitakachoiwezesha Bodi kusimamisha mradi wowote au shughuli yoyote ya kihandisi itakayofanyika bila kuzingatia matakwa ya taaluma ya kihandisi. Hii itasaidia kuzuia madhara yoyote yanayoweza kutokea kwa binadamu na mazingira kwa kutozingatia viwango au kutozingatia taratibu za kihandisi.</seg>
+          <seg xml:id="seg300">Tatu, Bodi kupewa uwezo wa kisheria wa kutoza faini Wahandisi Waajiri na Makampuni ya Kihandisi yatakayobainika kukiuka maadili ya kitaalam, jukumu hili liko katika kipengele cha P katika ukurasa wa 39 wa Muswada huu. Eneo lingine ni kuweka utaratibu utakaohakikisha kushirikishwa kwa Kamisheni ya Vyuo Vikuu na taasisi nyingine katika kuboresha mitaala ya kufundishia wataalamu wa fani hii ya uhandisi. Jukumu hili limefafanuliwa vizuri katika Muswada huu.</seg>
+          <seg xml:id="seg301">Mheshimiwa Naibu Spika, pendekezo la tatu katika sehemu ya pili ya Muswada liko katika ukarasa wa 40 wa Muswada ambapo kifungu cha tano cha sheria kinarekebishwa kuhusu kinga kwa watakaokasimiwa majukumu ya Bodi ya Usajili wa Wahandisi.</seg>
+          <seg xml:id="seg302">Mheshimiwa Naibu Spika, pendekezo la nne liko katika ukurasa wa 40 – 42 ambapo kifungu cha 10 cha sheria kinapendekezwa kifanyiwe marekebisho. Marekebisho haya yanalenga katika kuainisha aina za Wahandisi yaani categories watakaosajiliwa na Bodi pamoja na sifa zao ili kuondoa utata wa tafsiri uliopo hivi sasa. Aina hizo ni kama</seg>
+          <seg xml:id="seg303">1. Kundi la kwanza ni la Engineering Technician. Aina hii ni Mafundi Sanifu kwa sasa hivi walikuwa hawasajiliwi na Bodi, inapendekezwa kupitia Muswada kwamba kada hii muhimu sasa itakuwa ikisajiliwa na Bodi.</seg>
+          <seg xml:id="seg304">2. Kundi la pili ni hili Graduate Cooperated Engineer.</seg>
+          <seg xml:id="seg305">3. Kundi la tatu ni Graduate Engineer.</seg>
+          <seg xml:id="seg306">4. Kundi la nne ni Cooperated Engineer.</seg>
+          <seg xml:id="seg307">5. Kundi la tano Professional Engineer.</seg>
+          <seg xml:id="seg308">6. Kundi la sita ni Consulting Engineer.</seg>
+          <seg xml:id="seg309">Mheshimiwa Naibu Spika, pendekezo la tano katika sehemu ya pili ya Muswada liko katika ukurasa wa 43 ambapo kifungu cha sheria kinarekebishwa kwa kuipa bodi uwezo wa kudhibiti uingiaji wa Wahandisi wanaotoka nje kuja kufanya kazi hapa nchini. Marekebisho yanataja bayana kuwa Wahandisi wa kigeni wataruhusiwa kuja kufanya kazi endapo ujuzi au utaalam huo hautakuwepo hapa nchini.</seg>
+          <seg xml:id="seg310">Mheshimiwa Naibu Spika, pendekezo la sita liko katika ukurasa wa 43 ambapo kinawekwa kifungu kipya cha 12(a). Lengo la kukiongeza kifungu hicho baada kifungu cha 12 cha sheria iliyopo ni ili kuhakikisha kuwa Wahandisi wanaosajili na wanapata cheti za kufanya shughuli za kihandisi iwe ni shughuli sasa ya kuanzia Januari kwa kila mwaka hadi Desemba. Inapendekezwa iwe ni kosa kwa mtu yeyote kufanya shughuli za kihandisi bila kuwa na cheti hicho yaani Practising Certificate ambacho kitakuwa na uhai wa kipindi cha miaka mitatu. Adhabu yake inapendekezwa iwe ni Sh.500,000/= au kifungo cha mwaka mmoja kwa mtu binafsi au viwili na Sh.5mil iwapo kosa hilo limefanywa na kampuni.</seg>
+          <seg xml:id="seg311">Mheshimiwa Naibu Spika, pendekezo la saba liko katika ukurasa wa 43 – 44 wa Muswada ambapo kifungu cha 13 cha sheria kinarekebishwa kwa kufafanua tafsiri za kazi mbalimbali.</seg>
+          <seg xml:id="seg312">Mheshimiwa Naibu Spika, pendekezo lingine katika Muswada huu katika sehemu ya pili linagusa kifungu cha 14 cha sheria yenyewe kwa kuweka masharti yanayozuia mtu yeyote kuajiri mtu au kampuni kufanya kazi za kihandisi kama mtu huyo sio Mhandisi Mtaalam (Professional Engineer) au mtu huyo siyo Consulting Engineer au kampuni hiyo haijasajiliwa na Bodi kama Kampuni ya Ushauri yaani Consulting Firm.</seg>
+          <seg xml:id="seg313">Mheshimiwa Naibu Spika, pendekezo la tisa katika sehemu ya pili ya Muswada linagusa kifungu cha 15 cha sheria ambapo inapendekeza kuipatia Bodi uwezo wa</seg>
+          <seg xml:id="seg314">kuwasimamisha au kuwafuta kabisa kwenye register Wahandisi au Kampuni za Kihandisi zitakazopatikana na makosa mbalimbali chini ya Sheria ya Usajili Wahandisi hapa nchini.</seg>
+          <seg xml:id="seg315">Mheshimiwa Naibu Spika, pendekezo la kumi katika sehemu ya pili ya Muswada liko katika ukurasa wa 45 hadi 46 wa Muswada ambalo linagusa kifungu cha 17 cha sheria ambapo inapendekezwa kifungu hicho kirekebishwe ili kuipa Bodi mamlaka ya kusitisha leseni ya Mhandisi atakayeshindwa au kukaidi kulipa faini aliyotozwa na Bodi ya Usajili Wahandisi hadi hapo faini hiyo itakapolipwa. Lengo ni kuiwezesha Bodi kutekeleza sheria kwa ufanisi kwa kusimamia maadili ya kazi za kihandisi hapa nchini. Aidha, sehemu hii inafanyiwa marekebisho ya mpangilio wa namba kwa vifungu hivyo. Vile vile inapendekeza kuipa Bodi uwezo wa kupanga faini kwa kosa lolote kadri itakavyoona inafaa.</seg>
+          <seg xml:id="seg316">Mheshimiwa Naibu Spika, pendekezo la kumi na moja linagusa kifungu cha 18 cha sheria. Kifungu hiki kinafanyiwa marekebisho ili kusisitiza kuwa mtu au kampuni inayochunguzwa itatakiwa ifike mbele ya Bodi kwa mahojiano na siyo kumtuma Wakili peke yake. Aidha, pendekezo lingine ni kuipa Bodi uwezo wa kumteua mtu wa kuishauri Bodi katika masuala ya uchunguzi inayofanya ya kisheria.</seg>
+          <seg xml:id="seg317">Mheshimiwa Naibu Spika, inapendekezwa pia kufanya marekebisho katika kifungu cha 19 cha sheria kwa kuongeza faini iliyopo sasa hivi ya shilingi zisizopungua 20,000 hadi shilingi 500,000 au kifungo cha mwaka mmoja au vyote viwili. Adhabu hii ni kwa kosa la kutotii kuitwa na Bodi, kutokutii summons zinazotolewa na Bodi au kukataa kwa makusudi kabisa kutoa vielelezo vinavyohitajiwa na Bodi kwa shughuli za uchunguzi.</seg>
+          <seg xml:id="seg318">Mheshimiwa Naibu Spika, pendekezo lingine linagusa kifungu cha 21(c) cha sheria kwa kuondoa jina la Wizara ya Ujenzi na badala yake sasa kutokana na mabadiliko yanayoweza kufanyika mara kwa mara itumike Wizara inayohusika na ujenzi kwani majina ya Wizara hubadilishwa mara kwa mara.</seg>
+          <seg xml:id="seg319">Mheshimiwa Naibu Spika, kifungu kingine cha sheria kinachopendekezwa kurekebishwa ni kifungu cha 29 ili Wizara au taasisi mbalimbali zinazotumia huduma za kihandisi zitakiwe kuchangia mafunzo kwa vitendo kwa Wahandisi Wahitimu (Structured Engineers Appendship Program) ambayo inaendeshwa hapa nchini kwa Wahandisi Wahitimu.</seg>
+          <seg xml:id="seg320">Mheshimiwa Naibu Spika, pendekezo lingine linahusu kifungu cha 33 cha sheria ili kuondoa mkanganyiko uliokuwepo katika sheria kwa kufanya marejeo ya kifungu cha 21 (2) ambapo hakipo katika sheria.</seg>
+          <seg xml:id="seg321">Mheshimiwa Naibu Spika, pendekezo la 16 katika sehemu ya pili ya Muswada liko katika ukurasa wa 47 wa Muswada ambapo kifungu cha 34 cha sheria kinarekebishwa ili kuiwezesha Bodi baada ya kushauriana na Waziri mwenye mamlaka husika ya kutunga sheria ndogo.</seg>
+          <seg xml:id="seg322">Mheshimiwa Naibu Spika, kabla ya kumaliza hotuba yangu, niruhusu nichukue nafasi hii nitoe shukrani zangu za dhati kabisa kwa wadau mbalimbali walioshiriki kutoa maoni yao wakati wa kikao cha wadau (public hearing) kilichofanyika Mjini Dar es Salaam tarehe 24 Oktoba mwaka huu. Maoni na ushauri wao umesaidia kuboresha Muswada huu. Nitakuwa mchoyo wa fadhili nisipoutambua mchango wa Kamati ya Kudumu ya Bunge ya Miundombinu chini ya Uenyekiti wa Mheshimiwa Mohamed Missanga, Mbunge wa Singida Kusini kwa ushirikiano wa karibu waliotupatia wakati wa kikao hicho na pia wakati wa kuchambua Muswada huo kifungu kwa kifungu uliofanyika kuanzia tarehe 25 – 26/10 Mjini Dar es Salaam. Uchambuzi wa kina wa Muswada huu uliofanywa na Kamati ya Bunge ya Miundombinu ndiyo uliowezesha Muswada huu uweze kuwasilishwa leo hii mbele ya Bunge lako Tukufu. Tunaishukuru Kamati hiyo kwa dhati kwa kutuunga mkono.</seg>
+          <seg xml:id="seg323">Mheshimiwa Naibu Spika, napenda nitoe shukrani zetu kwa Ofisi ya Mwanasheria Mkuu wa Serikali kwa kuandaa Muswada huu pamoja na orodha ya marekebisho yaliyogawiwa kwa Waheshimiwa Wabunge. Ninawashukuru pia Naibu Mawaziri wa Wizara yangu Mheshimiwa Dr. Maua A. Daftari na Mheshimiwa Dr. Milton M. Mahanga pamoja na Katibu Mkuu Dr. Enos Bukuku na Naibu Katibu Mkuu Engineer Omar Chambo pamoja na watendaji wote wa Wizara ya Miundombinu kwa ushirikiano wao katika kuandaa Muswada huu. Wote hawa wamekuwa msaada mkubwa sana, nawashukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u88" who="WaziriWaMiundombinu">
+          <seg xml:id="seg324">Mheshimiwa Naibu Spika, baada ya kusema hayo, sasa ninayo heshima ya kuwasilisha Muswada wa Marekebisho ya Sheria wa Usajili wa Uhandisi ya mwaka 2007 (The Engineers Registration (Amendment) Bill, 2007).</seg>
+          <seg xml:id="seg325">Mheshimiwa Naibu Spika, naomba Bunge lako Tukufu lijadili na kisha liupitishe Muswada huu.</seg>
+          <seg xml:id="seg326">Mheshimiwa Naibu Spika, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u89" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg327">Mheshimiwa Naibu Spika, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u90" who="NaibuSpika">
+          <seg xml:id="seg328">Hoja imeungwa mkono. Kwanza kabisa, tunaomba tukupongeze sana kwa ushindi mkubwa wa kishindo ulioupata katika kinyang’anyiro ambacho sio cha kawaida cha NEC naona na Muswada ulikuwa unakuchanganya sana maana huku kinyang’anyiro huko Muswada lakini umefanikiwa. Sasa na mimi pia nitasema baadaye</seg>
+          <seg xml:id="seg329">lakini naomba nimuite Mwenyekiti wa Kamati iliyoshughulikia Muswada huu au mwakilishi wake, Mheshimiwa Masolwa!</seg>
+        </u>
+        <note>(K.n.y. MHE. MOHAMED H. MISSANGA - MWENYEKITI KAMATI YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u91" who="MheMasolwaCMasolwa">
+          <seg xml:id="seg330">Mheshimiwa Naibu Spika, nashukuru. Kabla sijaanza kuwasilisha maoni ya Kamati, ninaomba uniruhusu kwa niaba ya wananchi wa Bububu, wanachama na wapenzi wa Chama cha Mapinduzi, kutoa pongezi nyingi kwa ushindi wa Mwenyekiti wetu wa Chama cha Mapinduzi kwa upande wa Zanzibar na Bara na pia sitawasahau Waziri wetu Mkuu, Makamu wa Rais na Katibu wa Chama cha Mapinduzi. Nitakuwa mchoyo wa fadhila nisipomshukuru na kumpongeza Naibu Spika ambaye alikuwa kwenye kundi la kifo, ameweza kuibuka mshindi pia mama Sitta, mama yetu kwa kweli ndiye alibeba lile kundi la kifo, naye nampa pongezi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u92" who="MheMasolwaCMasolwa">
+          <seg xml:id="seg331">Mheshimiwa Naibu Spika, baada ya pongezi hizo kwa Wabunge wote walioshinda na kushindwa, wote nasema wameshinda. Nawatakia kila la kheri kwa kazi nzito waliochaguliwa kuifanya. Baada ya maelezo mafupi hayo, sasa naomba kuwasilisha maoni ya Kamati.</seg>
+          <seg xml:id="seg332">Mheshimiwa Naibu Spika, nakushukuru kwa kupata fursa nyingine ya kutoa maoni ya Kamati ya Bunge ya Miundombinu kuhusu Muswada wa Marekebisho ya Sheria ya Usajili wa Wahandisi wa mwaka 2007 (The Engineers Registration (Amendment) Bill, 2007) kwa mujibu wa Kanuni za Bunge, Kanuni ya 70(2), Toleo la Mwaka 2004.</seg>
+          <seg xml:id="seg333">Mheshimiwa Naibu Spika, kabla ya kuanza kwa Mkutano huu wa Tisa wa Bunge, uliipelekea Kamati yangu kazi ya kuupitia na kuujadili Muswada wa Marekebisho ya Sheria ya Usajili wa Wahandisi wa mwaka 2007. Napenda kuchukua fursa hii kuliarifu Bunge lako Tukufu kuwa Kamati yangu ilitekeleza kazi hiyo kama ilivyotakiwa.</seg>
+          <seg xml:id="seg334">Mheshimiwa Naibu Spika, awali ya yote, napenda kuwashukuru kwa dhati Wajumbe wa Kamati ya Miundombinu kwa kushiriki kwao kikamilifu katika kuupitia na kuujadili kwa ufasaha Muswada huu wa Marekebisho ya Sheria ya Usajili wa Wahandisi.</seg>
+          <seg xml:id="seg335">Mheshimiwa Naibu Spika, nachukua fursa hii kuwashukuru Wajumbe wa Kamati ya Miundombinu kwa kazi kubwa waliyoifanya ya kuupitia na kuujadili Muswada huu. Kutokana na umakini wao wakati wa kuujadili Muswada huu pamoja na wadau na hata katika vikao vya ndani vya Kamati, wameuwezesha Muswada huu kuboreshwa kama inavyojidhihirisha katika Schedule of Amendment. Naomba niwatambue Wajumbe wa Kamati ya Miundombinu kwa majina nao ni hawa wafuatao:-</seg>
+          <seg xml:id="seg336">1. Mhe. Mohammed H. Missanga, Mb. - Mwenyekiti</seg>
+          <seg xml:id="seg337">2. Mhe. Joyce M. Masunga, Mb. - M/Mwenyekiti</seg>
+          <seg xml:id="seg338">3. Mhe. Khadija S. Al-Qassmy, Mb. - Mjumbe</seg>
+          <seg xml:id="seg339">4. Mhe. Said Amour Arfi, Mb. - Mjumbe</seg>
+          <seg xml:id="seg340">5. Mhe. Pascal C. Degera, Mb. - Mjumbe</seg>
+          <seg xml:id="seg341">6. Mhe. Bakar S. Faki, Mb. - Mjumbe</seg>
+          <seg xml:id="seg342">7. Mhe. Felix N. Kijiko, Mb. - Mjumbe</seg>
+          <seg xml:id="seg343">8. Mhe. Paul P. Kimiti, Mb. - Mjumbe</seg>
+          <seg xml:id="seg344">9. Mhe. Mkiwa A. Kimwanga, Mb. - Mjumbe</seg>
+          <seg xml:id="seg345">10. Mhe. Rosemary K. Kirigini, Mb. - Mjumbe</seg>
+          <seg xml:id="seg346">11. Mhe. Suleiman O. Kumchaya, Mb. - Mjumbe</seg>
+          <seg xml:id="seg347">12. Mhe. Ephraim N. Madeje, Mb. - Mjumbe</seg>
+          <seg xml:id="seg348">13. Mhe. Anne Kilango Malecela, Mb. - Mjumbe</seg>
+          <seg xml:id="seg349">14. Mhe. Masolwa C. Masolwa, Mb. - Mjumbe</seg>
+          <seg xml:id="seg350">15. Mhe. Balozi Dr. Getrude I. Mongella,Mb - Mjumbe</seg>
+          <seg xml:id="seg351">16. Mhe. Dr. James A. Msekela, Mb. - Mjumbe</seg>
+          <seg xml:id="seg352">17. Mhe. Mtutura A. Mtutura, Mb. - Mjumbe</seg>
+          <seg xml:id="seg353">18. Mhe. James P. Musalika, Mb. - Mjumbe</seg>
+          <seg xml:id="seg354">19. Mhe. Sigsfrid S. Ng’itu, Mb. - Mjumbe</seg>
+          <seg xml:id="seg355">20. Mhe. Richard S. Nyaulawa, Mb. - Mjumbe</seg>
+          <seg xml:id="seg356">21. Mhe. Mwaka A. Ramadhan, Mb. - Mjumbe</seg>
+          <seg xml:id="seg357">22. Mhe. Prof. Philemon M. Sarungi, Mb. - Mjumbe</seg>
+          <seg xml:id="seg358">23. Mhe. Peter J. Serukamba, Mb. - Mjumbe</seg>
+          <seg xml:id="seg359">24. Mhe. Hafidh A. Tahir, Mb. - Mjumbe</seg>
+          <seg xml:id="seg360">25. Mhe. Godfrey W. Zambi, Mb. - Mjumbe</seg>
+          <seg xml:id="seg361">Mheshimiwa Naibu Spika, madhumuni ya Muswada huu ni kufanya marekebisho katika Sheria ya Usajili wa Wahandisi ya Mwaka 1997, ambayo kwa kiasi kikubwa imeonyesha upungufu hivyo kutokidhi mahitaji ya sekta kufuatana na mabadiliko ya kisayansi na kiteknolojia.</seg>
+          <seg xml:id="seg362">Mheshimiwa Naibu Spika, kuhusu umuhimu wa Muswada, Kamati inaipongeza Serikali kwa kuleta Muswada huu wa marekebisho ambao utawezesha Sheria ya Usajili wa Wahandisi kukidhi mahitaji ya sekta husika.</seg>
+          <seg xml:id="seg363">Mheshimiwa Naibu Spika, Sheria hii ambayo itatumika sambamba na Sheria Mama pia itahusisha vipengele vinavyolenga kulinda ajira ya Wahandisi wa Kitanzania. Sheria hii itaboresha utendaji wa Bodi kwa kuiongezea majukumu ili kuipa nguvu ya kisheria na uwezo wa kudhibiti shughuli za Kihandisi ambazo baadhi hufanyika kiholela.</seg>
+          <seg xml:id="seg364">Mheshimiwa Naibu Spika, kuhusu ushiriki wa wadau, kwa mujibu wa Kanuni ya 69(2) ya Kanuni za Bunge, Toleo la mwaka 2004; Kamati ilipata fursa ya kukutana na wadau husika wa Muswada wa Marekebisho ya Sheria ya Usajili wa Wahandisi wa mwaka 2007 na kupata maoni na mapendekezo yao. Maoni ya wadau hao yaliwasilishwa mbele ya Kamati tarehe 24 – 25 Oktoba, 2007 katika kikao kilichofanyika Ofisi Ndogo ya Bunge, Dar es Salaam.</seg>
+          <seg xml:id="seg365">Mheshimiwa Naibu Spika, Kamati inawapongeza kwa dhati wadau walioshiriki katika kuuboresha Muswada huu ambao ni kutoka sekta na taasisi mbalimbali za Kiserikali na zisizo za Kiserikali kama vile Bodi ya Usajili wa Wahandisi (ERB), Bodi ya</seg>
+          <seg xml:id="seg366">Usajili wa Wakandarasi (CRB), Baraza la Taifa la Ujenzi (NCC), Chuo cha Uhandisi na Teknolojia(COET), Chama cha Washauri Tanzania (TACO), Wakala wa Majengo Tanzania (TBA), Shirika la Viwango Tanzania (TBS), Shirika la Nyumba la Taifa (NHC) na wengineo wengi ambao sitaweza kuwataja wote lakini wameshiriki kwa namna moja au nyingine.</seg>
+          <seg xml:id="seg367">Mheshimiwa Naibu Spika, Kamati yangu chini ya Wizara ya Miundombinu ilifanikiwa pia kushirikisha Wizara ya Fedha na Ofisi ya Mwanasheria Mkuu katika kuujadili na kuuboresha Muswada huu.</seg>
+          <seg xml:id="seg368">Mheshimiwa Naibu Spika, kuhusu maoni na ushauri wa Kamati, awali ya yote, Kamati inaipongeza Serikali kwa kukubali kufanya marekebisho katika Muswada huu kama yanavyojionyesha kwenye Jedwali la Marekebisho (Schedule of Amendment), ambayo yalipendekezwa yafanyike wakati wa kujadiliwa na Kamati kwa kushirikiana na wadau.</seg>
+          <seg xml:id="seg369">Mheshimiwa Naibu Spika, kwa kuzingatia umuhimu wa Bodi hii ya Usajili wa Wahandisi, Kamati inaishauri Serikali kuangalia upya uwezekano wa kuongeza idadi ya Wafanyakazi katika Bodi hii ili iweze kusimamia vyema kazi za Wahandisi wetu nchini.</seg>
+          <seg xml:id="seg370">Mheshimiwa Naibu Spika, kwa kutambua kuwa maendeleo ya nchi yoyote duniani yanategemea sana uwepo (idadi) na umahiri wa Wahandisi katika fani mbalimbali, Kamati inaishauri Serikali kwa kushirikiana na Bodi kutathmini kwa umakini viwango vya sifa za kitaalamu na kitaaluma na kufanya usajili ili kupata Wahandisi wenye sifa na viwango.</seg>
+          <seg xml:id="seg371">Mheshimiwa Naibu Spika, takwimu zilizopo zinaonyesha kuwa katika nchi yetu Mhandisi mmoja anahudumia wananchi 5000 hadi 7000 tofauti na nchi nyingine kama Japan, Singapore na Uingereza ambapo Mhandisi mmoja anahudumia si zaidi ya wananchi 150. Hivyo, Kamati inaishauri Serikali kuendelea kuhamasisha wanafunzi katika Shule za Sekondari kusoma zaidi masomo ya Hisabati na Sayansi ambayo yatawawezesha kuwa na sifa za kusomea Uhandisi.</seg>
+          <seg xml:id="seg372">Mheshimiwa Naibu Spika, Kamati inawashauri Wahandisi wote Nchini kutilia mkazo Elimu Endelevu (Continuing Professional Development) ili waende sambamba na mabadiliko ya kisayansi na kiteknolojia. Kwani huu ni mpango unaotumika kote duniani ili Wahandisi wasichakae na kupitwa na maendeleo katika taaluma na hivyo kushindwa kufanya kazi zao barabara.</seg>
+          <seg xml:id="seg373">Mheshimiwa Naibu Spika, Kamati pia inawashauri Wahandisi nchini kutekeleza kazi zao kulingana na Kanuni na taratibu zilizowekwa yaani „Code of Conduct and Ethics”. Vilevile, Kamati inasisitiza kuwa Bodi isisite kufuta au kusimamisha kazi ya Mhandisi au Kampuni yoyote ya Uhandisi iwapo taratibu na sheria zitakiukwa.</seg>
+          <seg xml:id="seg374">Mheshimiwa Naibu Spika, Kamati inashauri Makampuni ya Kihandisi kutumia mpango wa madaraja unaowekwa na Sheria hii kama changamoto ya kujiendeleza na kukua. Hii ni kwa ajili ya kukabiliana na ushindani wa kibiashara miongoni mwao na hasa kwa Makampuni yanayochipukia.</seg>
+          <seg xml:id="seg375">Mheshimiwa Naibu Spika, kwa kuwa baadhi ya Halmashauri zinaendelea kuwa na Wahandisi wasiosajiliwa na ERB au wasio na sifa na viwango vinavyotakiwa; Kamati inahimiza Serikali kwa kushirikiana na Bodi ya Usajili Wahandisi kulipatia ufumbuzi suala hili maana fedha nyingi zinapelekwa kwenye Halmashauri kwa ajili ya miradi ya ujenzi lakini inaelekea hazitumiki kwa malengo yaliyokusudiwa (value for money).</seg>
+          <seg xml:id="seg376">Mheshimiwa Naibu Spika, Kamati inaishauri Serikali kuwawezesha Wahandisi Wazalendo kupewa kazi kwa upendeleo maalum hasa kwa miradi inayogharamiwa na Serikali ili waweze kupata vifaa, mtaji na ushindani wa kibiashara katika sekta ya uhandisi na ujenzi. Mpango huu utatoa fursa na kuwajengea uwezo wataalam hawa wazalendo katika ushindani ambao kwa hivi sasa haupo.</seg>
+          <seg xml:id="seg377">Mheshimiwa Naibu Spika, Kamati inaishauri Wizara ya Miundombinu kuongeza juhudi katika kuzisimamia Bodi zake zinazohusika na sekta ya ujenzi ambazo ni Bodi ya Usajili Wahandisi (ERB), Bodi ya Usajili Wakandarasi (CRB), Bodi ya Usajili ya Wasanifu na Wakadiria Majenzi (AQSRB), Baraza la Ujenzi la Taifa (NCC) pamoja na wataalam wengine kujenga uhusiano mzuri wa kikazi baina yao ili kazi za sekta ya ujenzi ziwe za viwango na ubora unaokusudiwa.</seg>
+          <seg xml:id="seg378">Mheshimiwa Naibu Spika, ili kuondokana na utegemezi wa Serikali, Kamati inaishauri Bodi ya Usajili Wahandisi iendelee kutafuta njia mbadala ya kuongeza kipato chao. Hatua hiyo itawawezesha kujijengea uwezo na kuondokana na utegemezi wa ruzuku kutoka Serikalini.</seg>
+          <seg xml:id="seg379">Mheshimiwa Naibu Spika, hitimisho, kwa niaba ya Kamati yangu napenda nikushukuru kwa kunipa fursa hii ya kuwasilisha maoni ya Kamati ya Miundombinu. Aidha nitumie nafasi hii kumshukuru Mheshimiwa Andrew John Chenge (Mb), Waziri wa Miundombinu; Mheshimiwa Dr. Maua A. Daftari (Mb) na Mheshimiwa Dr. Makongoro M. Mahanga (Mb), Naibu Mawaziri wa Miundombinu; Dr. Enos S. Bukuku, Katibu Mkuu Wizara ya Miundombinu; Ndugu Omar A. Chambo, Naibu Katibu Mkuu pamoja na Wataalamu na Watendaji wote wa Wizara hii walioshirikiana na Kamati katika kuandaa na kutoa maelezo ya kina pale yalipohitajika.</seg>
+          <seg xml:id="seg380">Mheshimiwa Naibu Spika, napenda pia kutoa shukrani za pekee kwa Mheshimiwa Johnson P. Mwanyika (Mb), Mwanasheria Mkuu wa Serikali pamoja na Wataalamu wake kwa kutoa ufafanuzi wa vipengele mbalimbali vya kisheria kwa Kamati.</seg>
+          <seg xml:id="seg381">Mheshimiwa Naibu Spika, Kamati inawashukuru wadau wote niliokwisha wataja hapo awali kwa ushiriki wao katika „public hearing” na kutoa maoni yao ambayo kwa kiasi kikubwa yamesaidia kurahisisha kazi ya Kamati katika kukamilisha na kuuboresha</seg>
+          <seg xml:id="seg382">Mheshimiwa Naibu Spika, naomba nimalizie kwa kutoa shukrani kwa Katibu wa Bunge, Ndugu Damian S. L. Foka pamoja na watendaji wote wa Ofisi ya Bunge kwa kuiwezesha Kamati yangu kutekeleza majukumu yake. Aidha, napenda kuwashukuru Makatibu wa Kamati hii, Ndugu Justina M. Shauri, Ndugu Zainab A. Issa na Ndugu Michael Chikokoto, kwa kuweza kuihudumia vema Kamati na kukamilisha maandalizi ya taarifa hii.</seg>
+          <seg xml:id="seg383">Mheshimiwa Naibu Spika, Kamati inaunga mkono kwa dhati kuwasilishwa kwa Muswada huu na kujadiliwa Bungeni. Kwa niaba ya Kamati ya Miundombinu, naunga mkono hoja.</seg>
+          <seg xml:id="seg384">Mheshimiwa Naibu Spika, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u93" who="NaibuSpika">
+          <seg xml:id="seg385">Waheshimiwa Wabunge, pamoja na yote hayo, tuna mchangiaji mmoja tu, ni Muswada ambao ni rahisi sana kuujadili kwa hiyo mnakaribishwa. Namwita Msemaji kutoka Kambi ya Upinzani au mwakilishi wake Mheshimiwa Mkiwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>(K.n.y. MHE. BAKARI SHAMIS FAKI - MSEMAJI WA UPINZANI WIZARA YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u94" who="MheMkiwaAdamKimwanga">
+          <seg xml:id="seg386">Mheshimiwa Naibu Spika, naomba kukushukuru kwa kunipa nafasi hii ili kutoa maoni ya Kambi ya Upinzani kuhusu Muswada wa Marekebisho ya Sheria ya Usajili wa Wahandisi (Engineers Registration (Amendment) Bill, 2007), kwa mujibu wa Kanuni za Bunge, kanuni Na.34(5)c, Toleo la mwaka 2004.</seg>
+          <seg xml:id="seg387">Mheshimiwa Naibu Spika, naomba kuungana na Waheshimiwa Wabunge wa Bunge lako hili Tukufu, kutoa pole kwa familia ya Marehemu Salome Mbatia. Pia natoa pole kwa jamii nzima ya wanawake wa Tanzania bila kujali itikadi zao kwa kumpoteza kiongozi mwenye muamko wa kutupigania sisi wanawake na hususan kusukuma mbele gurudumu la maendeleo ya nchi yetu. Mungu amlaze pema peponi, amen.</seg>
+          <seg xml:id="seg388">Mheshimiwa Naibu Spika, naomba pia kutoa pole kwa Mheshimiwa Hamad Rashid Mohamed, Kiongozi wa Upinzani Bungeni, kwa kufiwa na mama yake mpendwa hali yeye mwenyewe akiwa mgonjwa na yuko nje ya nchi kwa matibabu. Ninamwombea apate nafuu na aweza kuungana na sisi katika kuendeleza hali hii ya kuwatetea Watanzania.</seg>
+          <seg xml:id="seg389">Mheshimiwa Naibu Spika, pole za kufiwa nazitoa kwa Mheshimiwa Mustapha Mkulo, aliyefiwa na mama yake mpendwa. Naomba Mwenyezi Mungu awape moyo wa subira na ustahimilifu.</seg>
+          <seg xml:id="seg390">Aidha, natoa pole kwa Waheshimiwa wengine ambao wamekumbwa na masahibu mbalimbali. Naomba Mwenyezi Mungu awape moyo wa ustahimilifu na subira.</seg>
+          <seg xml:id="seg391">Mheshimiwa Naibu Spika, hali kadhalika nachukua nafasi hii kuwapongeza wale wana CCM ambao katika uchaguzi uliopita hivi punde waligombea nafasi za NEC na wakapata ushindi wa kishindo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u95" who="MheMkiwaAdamKimwanga">
+          <seg xml:id="seg392">Mheshimiwa Naibu Spika, aidha, ninawaomba wale ambao kishindo kilikuwa kikubwa kwao na ikawa si rahisi wao kutimiza kura zinazohitajika, kwamba huu ni wakati muafaka kufanya matayarisho mapema kwa ajili ya uchaguzi ujao. Nguo ya Ijumaa siku hizi hufuliwa Jumatatu na siyo Alhamisi maana utakuwa umechelewa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u96" who="MheMkiwaAdamKimwanga">
+          <seg xml:id="seg393">Mheshimiwa Naibu Spika, kifungu cha tano cha Muswada kinachofuta kifungu cha 10 cha Sheria na kuingiza kifungu kipya kidogo cha 10 kinachohusu sifa za usajili katika kifungu kidogo cha 10(3)a, Kambi ya Upinzani inaona kifungu hiki kina nia njema kabisa kwa kuipatia taaluma hii hadhi yake lakini hakikuangalia hali halisi iliyopo katika soko. Uanzishwaji wa Kampuni ya Ushauri ni jambo linalohitaji mtaji wa kutosha. Ili upate kazi wateja wanahitaji kwanza kuona sehemu unayofanyia kazi ambapo ni lazima iwe imewekezwa vya kutosha. Katika ulimwengu wa sasa, hakuna mtu yeyote atakayekubali kutoa mtaji wa awali na kuwekeza katika kampuni na kinyume chake awe na hisa kidogo kuliko yule mwenye mchango wa taaluma tu aweze kumiliki hisa nyingi zaidi. Kwa kuwa Kampuni za Ushauri wa Kihandisi ni biashara kama biashara nyingine na kwa Wahandisi kumiliki hisa nyingi kwenye kampuni hiyo inategemea ni mchango kiasi gani Mhandisi huyo ametoa katika uanzishwaji wa kampuni hiyo, vinginevyo kigezo hiki kitawafanya Wahandisi wanaochipukia wasiweza kumiliki Makampuni ya Ushauri na kufanya biashara hii iendelee kuwa ya makampuni yale yale ya wazee waliotangulia awali.</seg>
+          <seg xml:id="seg394">Mheshimiwa Naibu Spika, katika kifungu cha tano cha Muswada ambacho kinafuta na kuweka kifungu kipya cha 10, katika kifungu hiki kuyagawa Makampuni ya Ushauri ya Wahandisi kwa kutumia maneno classes na category inaleta utata. Sasa tujiulize maana ya maneno haya mawili ni sawa au makampuni yanapangwa katika madaraja kwa kuzingatia makampuni gani makubwa kwa maana ya mali? Kama ni hivyo basi Kambi ya Upinzani inaona hili neno classes linaleta dhana ya ubaguzi miongoni mwa Makampuni ya Wahandisi.</seg>
+          <seg xml:id="seg395">Mheshimiwa Naibu Spika, kifungu cha sita cha Muswada kinachofanyia marekebisho kifungu kidogo cha kwanza cha kifungu cha (11) cha sheria kinachodhibiti Wahandishi kutoka nje ya nchi ili pale tu Wahandisi wanaoingia nchini wawe na taaluma ambayo hapa nchini kwetu hakuna Wahandisi wenye taalum hiyo. Kambi ya Upinzani inadhani kuwa njia pekee ya kulinda ajira siyo kudhibiti wageni tu ila kinachotakiwa ni kuweka mazingira sawa ya ushindani vinginevyo kwa kuweka sheria za kudhibiti wageni na kuwapa wenyeji mwanya zaidi maana yake ni kuutangazia ulimwengu kuwa Wahandisi wetu ni dhaifu kiasi kwamba hawezi kushindana na wageni na kupata kazi. Sambamba na hilo tujiulize hivi ni kweli Wahandisi wetu hawawezi kushindana na kupata kazi nje ya nchi na huko ni nani atawalinda?</seg>
+          <seg xml:id="seg396">Mheshimiwa Naibu Spika, kifungu cha saba cha Muswada kinachoongeza kifungu cha 12(a)(1), baada ya Serikali kukubaliana na baadhi ya wadau kwa neno Practicing Licence libadilishwe na litafutwe neno ambalo halihusishwi na masuala ya leseni, Kambi ya Upinzani inaona ni muhimu kwa ufanisi bora kwa Wahandisi waliongia katika practices kufuta kabisa kifungu hiki kipya cha 12(a) kwani kifungu hiki kinaonyesha ni cha kumdhibiti mno badala ya kuwahamasisha wale waliopo na wapya katika fani mbalimbali za Wahandisi.</seg>
+          <seg xml:id="seg397">Mheshimiwa Naibu Spika, baada ya kuyasema hayo machache ambayo tunaona yakizingatiwa yanaweza kutoa ushindani na uhamasishaji katika fani mbalimbali za ushindani, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u97" who="MhePonsianoDNyami">
+          <seg xml:id="seg398">Mheshimiwa Naibu Spika, nashukuru kwa kupewa nafasi hii ya kuchangia. Nitachangia machache kwa sababu Muswada wenyewe nimeusoma leo. Nina machache kwa sababu Muswada wenyewe kwanza ni mzuri na una marekebisho ambayo ni ya msingi kabisa. La kwanza nianze na lile la usajili kampuni za ndani kwa watu ambao hawajasomea au tusema hawana utaalam wa shughuli yenyewe na wengine unakuta hawana hata vifaa vya mradi wenyewe kama vile magari hata mitambo kutokana na ukosefu wa mtaji. Naomba kuwepo na umakini kwa kuzingatia kama mtu ana pesa lakini ana utaalam na anatoa ajira, kabla kampuni yake haijasajiliwa kuondolewe mashaka ya ni wataalam gani au ni Engineer wapi ambao wamesomea watakaoweza kuwepo kwenye kampuni hiyo maana wapo ma-Engineer lakini hawana mtaji. Kwa hiyo, kama mtu siyo Engineer kama mimi lakini nina mtaji wa kutosha sharti la kuwa na Engineer aliyesomea kwamba awepo katika hiyo kampuni kama mmoja wa Wakurugenzi, ni muhimu.</seg>
+          <seg xml:id="seg399">Mheshimiwa Naibu Spika, kukubali tu kuisajili kampuni kwa sababu mtu anazo pesa lakini hakuna mtaalam ambaye amethibitishwa kwamba amesomea pengine kufikia hata ngazi ya Chuo Kikuu au daraja linalofanana na hilo kunasababisha kutokuwepo na ufanisi wa utendaji wa kazi wa makampuni mengi tunayoyaona sasa hivi katika maeneo yetu, anapopewa tender haelewi anachokifanya. Kwa hiyo, kama amepewa kutengeneza eneo fulani anatakiwa kuweka kifusi cha aina fulani hawaelewi wanaweza wakaweka mchanga, inawezekana kabisa labda akakwangua tu au kuzibaziba tu mashimo na fedha inayokuwa imetumika inakuwa ni kubwa, yote hii ni kwa sababu kunakuwa hakuna mtaalam aliyepo pale. Lakini pia wengi wanashindwa kujua ni aina gani ya vifaa ambavyo vinaweza vikatumika katika eneo lipi la barabara kwa kukodi na matokeo yake inakuwa mbovu. Hii yote ni kwa sababu kumekuwepo na kusajili kampuni ambazo unakuta hakuna mtaalam hata mmoja ndani ya wale Wakurugenzi katika kampuni hiyo wale wanaomiliki hisa. Lakini kubwa zaidi ni kuchelewesha kazi na kazi hizi kufanyika kwa kutokuwa na ufanisi wa kutosha, hayo tumeyaona katika maeneo yetu.</seg>
+          <seg xml:id="seg400">Mheshimiwa Naibu Spika, katika eneo la kutoa faini na adhabu labda ya kifungo na kadhalika, pale Mheshimiwa mtoa hoja aliposema kama mhusika wa kampuni au kampuni itakuwa imeitwa na Bodi na mhusika akakataa kwenda akakaidi faini inaongezeka kutoka Sh.20,000/= kwenda hadi Sh.500,000/= au kifungo cha mwaka kama mmoja hivi kama nilikuwa nimempata vizuri bado haitoshi. Mimi nilikuwa</seg>
+          <seg xml:id="seg401">napendekeza adhabu hizi na faini hizi zitolewe kwa viwango vya kutegemea kampuni hii ni ya daraja gani isiwe tu ni ya jumla kwa sababu kama mmeweka daraja la kwanza, la pili, la tatu, la nne mnalosema Engineer Technician, sasa haya ni madaraja na ninachofahamu mimi ni kwamba unaweka daraja kutegemea labda na ujuzi au uwezo au ukubwa wa kazi utakaokuwa umeipa hii kampuni, ukubwa wa mradi pengine kiwango cha pesa na kadhalika. Kwa sababu unatoa adhabu ya jumla tu huyu mwenye mradi mkubwa sana kafanya vibaya mnamwita na hatekelezi hilo na madhara yake yatakuwa ni makubwa kama hataweza kufika kwenye Bodi utampa adhabu inayofanana na mtu wa mradi mdogo labda wa Sh.100mil au Sh.200mil ukampa sawa na mtu wa mabilioni kwa shilingi hizo hizo 500,000 sioni kama kuna kutenda haki au kuna umakini wa kushughulikia shughuli zenyewe zinazohusika.</seg>
+          <seg xml:id="seg402">Mheshimiwa Naibu Spika, napendekeza katika eneo hilo Serikali ibadili iweke viwango tofauti vya faini kutegemea na ukubwa wa mradi na adhabu tofauti pia kutegemea na ukubwa wa mradi unaohusika, vinginevyo mimi kama nina mradi wa shilingi bilioni 10 nikaitwa nikakataa adhabu yangu najua ni Sh.500,000/= ni pesa chache sana na yule ambaye ana mradi wa milioni 100 na yeye pia akaitwa akakataa na yeye anajua faini ni hiyo, huyu pia anaumia lakini pia madhara ya kazi iliyopo inatofautiana. Kwa hiyo adhabu ziwepo kutegemea na madaraja lakini si vizuri sana kwa Wanasheria au kwa sheria zinapotungwa kuweka limit ya kiwango kwamba kati ya shilingi kadhaa hadi shilingi kadhaa. Nadhani tuanze kubadili utaratibu iwe kwamba si chini ya shilingi kadhaa kwa nini nasema hivyo? Kwa sababu kuna mabadiliko ya kupanda na kushuka kwa shilingi na wewe unaponiambia faini yangu ni Sh.500,000/=, Sh.500,000/= hiyo baada ya miaka 10 itakuwa pengine ni chini mno au pengine itakuwa ni kubwa mno kutegemea na kupanda au kushuka kwa shilingi. Kwa hiyo nadhani sheria zinapotungwa zisiweke limit bali iache wazi kwa wanaotoa adhabu kwamba isiwe chini ya, lakini wanaweza wakatoa kiwango kutegemea na mradi ulivyo au kosa lililotendwa lilivyo maana yake mtu mwingine anaweza akawa na kiburi tu na akawa anarudiarudia anajua si nina pesa na pesa ni ile ile mnayompatia nyinyi wenyewe.</seg>
+          <seg xml:id="seg403">Mheshimiwa Naibu Spika, nilikuwa nina hayo machache katika maeneo niliyoyaona yanapaswa kufanyiwa marekebisho vinginevyo ninaipongeza Wizara iliyoandaa Muswada huu na kuuleta hapa Bungeni na ninaipongeza Serikali kwa ujumla wake. Lakini muhimu zaidi naomba sheria hizi, siyo hizi tu za Wizara hii bali sheria zote zinazopitwa na wakati ziwe zinarekebishwa mara kwa mara na zisiachiwe zikae zimepitwa na wakati matokeo yake Serikali inazidi kupata hasara katika utekelezaji wa majukumu mbalimbali kwa kubanwa na sheria ambazo zimepitwa na wakati.</seg>
+          <seg xml:id="seg404">Mheshimiwa Naibu Spika, mwisho ninaunga mkono hoja, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u98" who="MheBaloziDrGetrudeIMongella">
+          <seg xml:id="seg405">Mheshimiwa Naibu Spika, ahsante sana. Kwanza na mimi napenda niungane na wale wote waliotoa rambirambi hasa kwa kifo cha Mheshimiwa Salome Mbatia na wengine wote waliopata maafa katika Bunge hili kwa kufiwa au kwa kuumia. Tunamshukuru Mungu kwa wale ambao wamenusurika kwa kupitia uchaguzi na kumaliza salama salmini na kuonyesha kwamba ndugu wakiwa wana malumbano basi chukua jembe ukalime kwa sababu watayamaliza,</seg>
+          <seg xml:id="seg406">si tupo hapa! Waliopata wamepata, waliokosa ni kupewa tu next time, kwamba leo zimepiga red lights na mguu haukuwa umekaa sawa kuondoka ulipokuwa unaendesha basi unangoja the next round kukitokea green light unaondoka.</seg>
+          <seg xml:id="seg407">Kwa hiyo, ndiyo Chama cha Mapinduzi kilivyo na tunategemea viongozi wetu watasimamia vizuri Sera za Chama cha Mapinduzi ambazo ndizo zimetufanya tuingie katika Bunge hili na kushika hatamu za uongozi. Na kwa Naibu Spika na akima mama wengine waliongia humu kama akina Mheshimiwa Anne K. Malecela, Mheshimiwa Eng. Stella Manyanya na wengine wote walioingia katika uongozi tunawaomba kabla ya kipindi hiki kwisha fifty fifty katika uwakilishi wa Taasisi zetu mbalimbali likiwemo Bunge hili la Jamhuri. Hiyo ndiyo kazi tunayowapa kwenda kuifanya huko, Mheshimiwa Jenista J. Mhagama, naona unaniangalia!</seg>
+          <seg xml:id="seg408">Baada ya kusema hayo, ningependa kwanza, nimpongeze Waziri na Naibu Waziri wa Miundombinu ambayo inasimamiwa na Kamati yangu, kwa kupita kwa kishindo. Ni matumaini yangu hii inaashiria kazi nzuri mnayoifanya ambayo imewapendezesha wana- CCM kuwapa hayo madaraka. Sasa mmepata gea mpya ya kufanyia kazi, tunatumaini kwamba na hizi Sheria ambazo tunazibadilisha mtazitumia ili tufanye kazi vizuri.</seg>
+          <seg xml:id="seg409">Mimi nimepita nchi mbalimbali, uzuri wa mji au nchi unapoiangalia kwa siku hizi, kwanza, barabara zake zinaweza zikakufanya ukasema nchi hiyo ni nzuri, ukiangalia majengo yake utaridhika na kusema kuwa hapo kuna wataalamu wanafanya kazi yao barabara. Hawa mainjinia ni waumbaji na watekelezaji wa vitu ambavyo vinatoa maumbo yanayoleta uzuri siyo kwa utumiaji tu lakini pia uzuri wa mandhari. Katika nchi yetu tunahitaji sana mainjinia watakaotengeneza kazi, ukisimama unaweza kusema hebu simamisha gari niangalie hili daraja; hebu simama niliangalie hili jengo. Unashangaa kama ni mikono ya binadamu imeumba barabara, daraja na hata nyumba. Vitu hivi tusipovifanya tutabaki nyuma kwa sababu vitu vinapobadilika binadamu anaona hata woga kuwa mchafu, ukikuta barabara safi unashindwa kupanga miwa yako barabarani lakini barabara ikiwa chafu basi hata huyu anayepanga miwa barabarani anaona ni sawa tu. Kwa hiyo, huu Muswada umekuja kwa wakati na uweze kufanyiwa kazi.</seg>
+          <seg xml:id="seg410">Mheshimiwa Naibu Spika, matatizo makubwa ninayoyapata kuhusu kazi za uhandisi, moja, ni kutokuwa na standard nzuri. Katika code of conduct yaani mwenendo wa tabia katika kusimamia professionalism ya engineering, nadhani hili ni tatizo kubwa la kutokuwa na standard nzuri. Uchoraji kwa sababu injinia anafanya kazi baada ya mchoraji iwe ni jengo au iwe ni Barabara, mtu mwingine anafanya design. Design ile ile ungempa injinia mwingine ungepata kitu kizuri sana.</seg>
+          <seg xml:id="seg411">Sasa kinachotesa au kinachoharibu sana katika kazi zetu za uinjinia ambazo nadhani ndiyo zinapaswa kusisitizwa katika code of conduct siyo pesa tu kwani wakati mwingine pesa zipo za kutosha kabisa lakini code of conduct ya kuheshimu kazi unayoifanya kama Daktari anavyofurahi kumpasua mgonjwa moyo na akaona mgonjwa huyu anatembea akasimama akamwangalia akasema hii ni kazi nzuri nimeifanya. Au</seg>
+          <seg xml:id="seg412">kama Mwalimu anavyojivunia mwanafunzi wake na kama mimi najivunia mwanafunzi wangu Mheshimiwa Margreth Agness Mkanga, safi kabisa na leo amepita.</seg>
+          <seg xml:id="seg413">Najivunia mwanafunzi wangu Mheshimiwa Kate Kamba na leo amepita, nimejivunia tena mwanafunzi wangu Shamsa Selengia Mwangunga na leo akapita. Sasa nikitembea hapo ndiyo maana hata mimi sigombei siku hizi, nipo tu naangalia, Mheshimiwa Margreth Agnes Mkanga vipi huko? Vipi Shamsa Selengia Mwangunga? Vipi Kate Kamba huko? Inakupa kusimama kuangalia kazi uliyoifanya.</seg>
+          <seg xml:id="seg414">Ni code of conduct, kwamba unapopewa kama ni Mwalimu kumwandaa mtu umwandae vizuri siyo kwa leo tu ni kwa muda mrefu na kwa kipindi kirefu. Kwa hiyo, na mainjinia nao wafike mahali waone kazi wanayoifanya kama ni nyumba isiwe kama ile iliyoanguka keko na wala jibu lake mimi sijawahi kulipata. Hivi ile Tume ilikwenda wapi na ilifanya nini? Kwa sababu tuliambiwa kuna timu imalize kazi kwa muda mfupi, sijui kama wenzangu ripoti ile mliipata?</seg>
+          <seg xml:id="seg415">Mheshimiwa Naibu Spika, jengo linaanguka! Unakuta daraja limechegama au baada ya mvua mbili daraja halipo ambalo limejengwa kwa pesa nyingi, kwa hiyo, code of conduct inatuharibia. Tatizo kubwa ni nini hongo, hongo hii sisi wana-CCM tunaisema wazi kwa sababu tupo hapa kuhakikisha kwamba tunatoka katika vitu vinavyochafua nchi. Hongo kwenye siasa ni chafu, hongo katika kazi zetu za kila siku ni mbaya na inarudisha maendeleo nyuma. Kwa hiyo, hongo ikishashamiri vile vipesa kila mtu anagawana, anayebeba bahasha anachukua hapo, anayehakikisha kwamba barua inafika kwa Waziri naye anataka kuchukua chochote, inafika mahali ina–compromise standards za kazi ambazo tunazifanya.</seg>
+          <seg xml:id="seg416">Ni matumaini yangu kwamba Waziri mhusika atakapokuwa anasimamia hii section ya code of conduct asiangalie tu ile inayohusiana na professionalism bali aangalie pia ile inayohusiana na tabia chafu ambazo zinafanya kazi zetu ziwe hafifu na zisiweze kuwa za kutolea mfano. Sasa hivi Tanzania kitu kinachoweza kufanya ukasimama kidogo ukashituka ni National Stadium ya Dar es Salaam. Sasa hebu tutaje kama tunaweza kufikisha maumbo matano au kumi ya kushitua mtu kwamba hivi kweli ni kitu kimefanywa na mtu mwenye akili?</seg>
+          <seg xml:id="seg417">Mheshimiwa Naibu Spika, lakini napenda kuongeza kwamba labda tuwasaidie pia mainjinia, tuwape moyo na tuwape vifaa. Mimi nataka kushukuru Wizara ya Miundombinu kwa kupeleka bulldozer Mafia, napenda nikupongeze sana Waziri. Tulipoandika barua hizi za kutafuta vifaa ilikuwa ni Mafia na Ukerewe, natumaini hivi karibuni nitapokea barua ya kwenda kuchukua bulldozer na stone crasher na vitu vingine ili injinia aliyepo kule akishapata hivi vitu anaweza akajenga barabara inayoitwa barabara au akajenga nyumba inayoitwa nyumba, vifaa. Kwa hiyo, code of conduct peke yake haitoshelezi, lazima tuunganishe na vifaa ili huyu injinia wetu ambaye sisi tunamwona ni duni angepewa nafasi ya vifaa vilevile angeweza kufanya kazi iliyo safi na ya kupendeza.</seg>
+          <seg xml:id="seg418">Mwisho, ningependa kusema kwa Wizara yetu kwamba sisi Wanakamati tupo, tutaendelea kuzungumzia namna ya kupanua rasilimali zinazoingia katika Wizara hii ili tupate kazi nzuri. Unakwenda South Africa unaangalia Barabara jinsi zilivyo unafurahi, unaangalia majengo unafurahi! Lakini ukikuja hapa unaangalia majengo yetu bado tunajenga mtindo wa viberiti, yaani ghorofa ni viberiti vilivyolundikana pamoja, haikupi mvutio kusema hapa akili imefanya kazi, lakini mainjinia tunao, wakipewa vifaa na wakipewa moyo wanaweza kufanya vizuri.</seg>
+          <seg xml:id="seg419">Sasa vijana wetu wanaomaliza Chuo Kikuu wamebaki wanajipachika kwa mainjinia wageni ambao wanawatumia kama vibarua tu. Mimi nafikiria kwamba jinsi tunavyokwenda katika kuimarisha ubora wa mainjinia ni lazima pia tuwape nyenzo hawa vijana wanaomaliza Chuo Kikuu kuweza kujitengenezea vikampuni vyao vidogo vidogo ambavyo vitaendelea kukua mpaka ziwe kampuni kubwa.</seg>
+          <seg xml:id="seg420">Kwa mfano, tungewapa vijana wa Chuo Kikuu walioonyesha mfano, barabara zao zote kule ndani ya Chuo Kikuu walizitengeneza vizuri, Idara ya Engineering. Barabara ile ya mpakani tumempa injinia anasuasua, hata anachokifanya hakieleweki; je, tungewapa vijana wetu wa engineering Mlimani si tungewapa moyo? Tungewapa pesa ambazo tunawapa contractors wengine wakatumia kama practical katika vyuo vyetu vikuu na wameshaonyesha hivyo barabara zao ndani ya Chuo ni nzuri.</seg>
+          <seg xml:id="seg421">Mheshimiwa Naibu Spika, baada ya kusema hayo, nikupongeze tena, Kidumu Chama Cha Mapinduzi kwa upande wako na kwa upande wangu! Na kitaendelea kudumu.</seg>
+          <seg xml:id="seg422">Mheshimiwa Naibu Spika, ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u99" who="NaibuSpika">
+          <seg xml:id="seg423">Nakuahidi kuwa suala la fifty fifty litafanyiwa kazi, si unajua tena tumebadilisha na Kanuni ya Chama kufanya angalau uwakilishi wa Wanawake katika ngazi mbalimbali fifty fifty. Kwa hiyo, naamini pia Bunge lako na Wabunge waliopata NEC Wanawake kwa Wanaume watafanya kazi hiyo pamoja. Ahsante sana.</seg>
+          <seg xml:id="seg424">Sasa ni nitamwita Mheshimiwa Suleiman Omar Kumchaya, leo kambi moja haijaleta wachangiaji siju vipi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u100" who="MheSuleimanOmarKumchaya">
+          <seg xml:id="seg425">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi hii ili na mimi niweze kuchangia katika Muswada huu mpya wa Sheria hii ya Makandarasi. Nianze kwa kutoa salamu za rambirambi kwa kifo cha Mheshimiwa Naibu Waziri wetu Mama Salome J. Mbatia.</seg>
+          <seg xml:id="seg426">Mwenyezi Mungu amweke mahali pema peponi na kuwaomba wanafamilia kuwa na subira katika kipindi hiki kigumu. Amen! Tulipata habari hizi tulipokuwa safarini Cairo, tulikuwa na simanzi mbili ya kwanza kufiwa na ya pili kutokushiriki kikamilifu katika kumwaga mwenzetu kwa sababu tulikuwa nje ya nchi. Pia napenda kutoa salamu zangu za rambirambi kwa Mheshimiwa Mustafa Haidi Mkulo, kwa kifo cha mama yake mzazi. Mwenyezi Mungu amweke mahali pema peponi, na akupe moyo wa subira katika</seg>
+          <seg xml:id="seg427">kipindi hiki kigumu. Napenda pia niwape pole wale wote ambao wamepatwa na matatizo. Kama mlivyosikia katika vyombo vya habari wengi wa Waheshimiwa Wabunge wamepata matatizo ya kugongwa, kugonga na ajali za hapa na pale na mimi mwenyewe nikiwemo lakini sikuwepo katika gari lile lakini gari langu limeharibika vibaya sana.</seg>
+          <seg xml:id="seg428">Mheshimiwa Naibu Spika, pia napenda kuchua nafasi hii kumpongeza Rais wetu Mpendwa, Mheshimiwa Jakaya Mrisho Khalfan Kikwete, kwa ushindi mkubwa alioupata wa kuwa Mwenyekiti wetu wa Chama cha Mapinduzi yaani Chama Tawala na Chama Dume. Ni imani tuliyompa kwa matumaini makubwa kwamba atakiongoza Chama chetu kuelekea katika neema kwa kila Mtanzania.</seg>
+          <seg xml:id="seg429">Pia nampongeza Mheshimiwa Makamu wa Rais, kwa ushindi mkubwa kuwa Mjumbe wa Halmashauri Kuu ya Chama chetu. Nampongeza pia Mheshimiwa Waziri Mkuu kwa ushindi mkubwa kwa kuchaguliwa kwa kura nyingi kuwa Mjumbe wa Halmashauri Kuu ya Chama chetu. Nawapongeza pia Waheshimiwa Wabunge wenzetu, Mheshimiwa Anne Kilango Malecela, Mheshimiwa Andrew J. Chenge, Mheshimiwa Eng. Stella M. Manyanya na pia nichukue nafasi hii nimpongeze Spika wetu wa zamani Mheshimiwa Pius Msekwa, kwa kuchaguliwa kwa wingi kuwa Makamu wetu cha Chama cha Mapinduzi.</seg>
+          <seg xml:id="seg430">Lakini pia napenda pia nichukue nafasi hii kutoa pongezi za pekee kwa Mzee wetu, Mzee Dr. John Samweli Malecela, kwa kupumzika kwa hiari yake mwenyewe kwa heshima na taadhima. Umetujengea msingi mkubwa na mzuri kwamba ufike mahali useme sasa nipumzike niwaachie na wengine. Mzee John S. Malecela, nakupongeza sana na ninasema ahsante sana, Mungu atakulinda. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u101" who="MheSuleimanOmarKumchaya">
+          <seg xml:id="seg431">Mheshimiwa Naibu Spika, napenda pia kuipongeza Wizara yangu, maana mimi ni Mjumbe wa Kamati ya Miundombinu, Wizara inayoongozwa na Kaka yangu, Mheshimiwa Andrew J. Chenge, akisaidiwa na Waheshimiwa Naibu Mawaziri wawili, kwa kutuleta Muswada huu mbele yetu kwa kipindi hiki muafaka kabisa.</seg>
+          <seg xml:id="seg432">Napenda pia niipongeze Kamati yangu kwa mchango mkubwa ambao umeboresha Muswada huu. Mimi sina tatizo na Muswada huu hata kidogo, tatizo langu ni Sheria hizi ambazo tunaziunda hapa Bungeni, Sheria ambazo matarajio yetu ni kutaka kuisaidia nchi yetu ili mambo yaende vizuri.</seg>
+          <seg xml:id="seg433">Mheshimiwa Naibu Spika, lakini wakati mwingine inakatisha tamaa, unakuta sheria ipo, watu wanafanya maovu lakini hakuna chochote kinachofanyika. Nilishawahi kusimama hapa kuelezea utaratibu mzima ama kuuridhia utaratibu mzima wa mtu anayepewa mradi wa barabara ama ujenzi wa nyumba ni vigezo gani vinatumika na sheria gani inatumika? Nasema hivyo kwa sababu utakwenda katika maeneo mengi tu utakuta barabara imetangazwa rasmi kwamba imemalizika lakini ukiitazama haifanani na kumalizika hata kidogo.</seg>
+          <seg xml:id="seg434">Ukienda kwetu Masasi mjini kuna Barabara inajengwa inatoka Masasi inaelekea Mpeta, yamewekwa matuta kama sikosei na kama sitii chumvi sasa inakaribia miezi sita</seg>
+          <seg xml:id="seg435">hakuna maelezo wala taarifa yoyote. Sasa mimi wasiwasi wangu ni kwamba haya ndiyo mambo ambayo tunayazungumza siku zote kwamba hawa watu wanayafanya haya mambo bila sheria ambayo inaweza kumdhibiti maana kama sheria ingekuwepo kama tunavyopitisha leo hii hapa asingeweza hata kidogo kuja kuomba kujenga barabara hii ama nyumba hii na asiimalize. Na pengine kwa sababu anajua kwamba hata kama haimalizi hakuna chochote kitakachofanyika kwa sababu hakuna sheria inayomdhibiti.</seg>
+          <seg xml:id="seg436">Mheshimiwa Naibu Spika, sasa mimi naomba na kwamba leo tunapitisha Sheria hii hapa basi ifanye kazi ili mambo yetu yaende vizuri, barabara zetu zijengwe, miji yetu ipendeze.</seg>
+          <seg xml:id="seg437">Mheshimiwa Naibu Spika, mimi juzi nilikuwa Cairo, ukiutazama mji wa wenzetu ule huwezi kuamini kama wanaojenga ni watu ama hivi vitu vinadondoka tu kutoka hewani na tulipokuwa tunaulizia ulizia wakasema sheria ni kali sana. Hakuna mkandarasi kubabaishababaisha na kwa kweli mji unapendeza. Sasa hivi sisi tunachoshindwa huku kwetu ni nini? Mimi sijui nikubali ama nikatae kwamba ni kwa sababu ya hongo, kweli na ndiyo maana haya mambo hayafanyiki vizuri ama kwa sababu hawa watu wanatudanganya, hawana utalaamu huo na pengine ni kwa sababu hakuna sheria ya kuthibitisha kwamba mwombaji wa kazi anaiweza na akishindwa utachukuliwa hatua za kisheria. Basi watu wanaamua kufanya mambo kienyeji tu! Naomba tusiendelee hivyo hata kidogo lazima twende na wakati, tutapitwa na wenzetu walioamua kufanya mambo yao kwa uhakika kwa kutumia sheria. Ule wakati wa kulindana kwamba ati kwa sababu mimi kwa njia moja ama nyingine ninahusika na kampuni ile, ama yule mwenye kampuni tunazungumza vizuri, basi hapo mambo yanaharibika. Pengine niulize kama alivyouza Mama yangu, Mheshimiwa Getrude I. Mongella kwamba tuliambiwa ile Kamati itaundwa kwenda kuchunguza kubomoka kwa lile jengo lakini mpaka hivi sasa tunaona kimya, maana yake nini? Maana yake ni kwamba kama taarifa ile haitatoka nje hadharani ikaonekana ni jambo la kawaida basi Sheria hii tunayoipitisha hapa haitafanya kazi maana tutasema mangapi yamefanyika katika nchi hii? Acha liende tu hivyohivyo.</seg>
+          <seg xml:id="seg438">Mheshimiwa Naibu Spika, namalizia kwa kuipongeza tena sheria na kwa kuipongeza tena Wizara kwani imefanya vizuri kuleta Muswada huu. Ninachoomba Sheria hii ifanye kazi ili majengo yetu yawe mazuri, barabara zetu ziwe nzuri na mengine yote ambayo tutayatengeneza kwa kutumia sheria hii yawe mazuri.</seg>
+          <seg xml:id="seg439">Mheshimiwa Naibu Spika, ninaunga mkono Sheria na Muswada huu. Ahsante sana!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u102" who="NaibuSpika">
+          <seg xml:id="seg440">Ahsante sana, na sasa namwita Mheshimiwa Magdalena Hamisi Sakaya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u103" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg441">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ili niweze kuchangia kidogo Muswada uliopo mbele yetu. Kabla ya kuchangia naomba niwapongeze Wana-CCM wote waliopata kura nzuri ya kuweza kupata nafasi ya ushindi katika uchaguzi mkuu wa Chama uliofanyika hapo jana. Naomba pia nimpongeze Mheshimiwa Waziri, Naibu Waziri pamoja na watalaamu wake</seg>
+          <seg xml:id="seg442">wote wa Wizara kwa kuweza kuandaa Muswada huu na kuweza kutuletea hapa Bungeni ili tuweze kuweka inputs zetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u104" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg443">Mheshimiwa Naibu Spika, nimesoma Muswada huu kwa kifupi, mojawapo ya madhumuni makubwa niliyoyaona ya Muswada huu ni kuweza kulinda nafasi za ajira kwa wahandisi wa Tanzania. Dhamira ya Muswada huu ni nzuri sana. Lakini ningependa Serikali iwe makini sana. Tunaweza tukasema tunalinda ajira za Watanzania, ni vizuri kabisa tukalinda ajira za wananchi wetu, lakini wengi wa Makandarasi wetu hawana mitaji ya kutosha. Serikali hapa inawasaidiaje? Wengi hawana vifaa vizuri na vifaa vinavyofanya kazi kwa ufanisi wa kutosha. Hapa tunaangaliaje? Watanzania wengi wenye makampuni utakuta mtu mwingine ana hela lakini hana utalaamu wa kutosha, matokeo yake tusipoangalia kwa makini ndiyo haya tunayowapa makandarasi wetu contract za barabara, unakuta imetengenezwa lakini haina ubora unaostahili. Hapa ni kwa kuangalia vizuri sana tena kwa makini.</seg>
+          <seg xml:id="seg444">Tumekuwa tukiona barabara ambazo zikijengwa na kampuni za nje zinakuwa nzuri ukilinganisha na barabara ambazo zimejengwa na watu wa ndani, hata madaraja. Mfano mdogo tu wa hivi karibuni jaribu kuangalia Dar es Salaam, kuna Barabara ya Sam Nujoma halafu kuna Barabara ya Shekilango. Barabara ya Shekilango imepewa mzawa kampuni ya Tanzania. Barabara ya Sam Nujoma imepewa kampuni ya nje, yeyote anayepita pale unaweza kuona clear kwamba aliyejenga hapa ni mtu wa nje na anayejenga Shekilango ni mzawa wa ndani kutokana na ubora wa ufanisi wa ile kazi unajidhihirisha wazi.</seg>
+          <seg xml:id="seg445">Mheshimiwa Naibu Spika, sasa pamoja na Waziri kutuletea Muswada huu lakini tunaomba Serikali iangalie sana wazawa wetu kama alivyotangulia kusema Mbunge mwenzangu, Mama yangu Mheshimiwa Getrude I. Mongella kwamba kama hatutajitahidi kuwasaidia hawa kwa kweli tutakuwa hatutendi haki na tutakuwa mara zote tunaangalia kwamba makampuni ya nje ndiyo yenye ufanisi mzuri. Kwa hiyo, hapa ni kuweka uzito wa kutosha, naomba Waziri aangalie sana kwa makini.</seg>
+          <seg xml:id="seg446">Suala lingine ni jinsi gani tunavyotoa tenda katika makampuni mbalimbali na jinsi gani tunavyozifuatilia. Mimi sijui kwamba Serikali ikishaipa contract kampuni fulani ni kwamba imeiachia moja kwa moja kwamba fanya halafu uje ukabidi. Inafuatilia vipi step by step kuona kwamba kuna ufanisi wa kutosha? Kuna mifano ukiitaja ni mingi sana, mojawapo ni mfano mdogo, kuna barabara zimejengwa Morogoro, barabara zimebana kiasi kwamba aliyejenga unaona kwamba si mtalaamu kwa sababu mtaro wa kupitisha maji machafu ni mkubwa kuliko barabara ya magari.</seg>
+          <seg xml:id="seg447">Sasa hapo naangalia nasema kwamba aliyempa contract hakuwa anaangalia kuanzia mwanzoni kwamba ni nini kilichokuwa kikifanyika pale. Mimi naomba kama kampuni ikishasajiliwa ina watalaamu wa kutosha basi Serikali ihakikishe kwamba inafuatilia hatua kwa hatua ili hata kama kukitokea tatizo mahali, kosa linapogundulika mwanzoni kabisa marekebisho yafanyike tusije tukawa tunapoteza pesa nyingi kwa ajili ya ujenzi wa barabara. Matokeo yake sasa hivi ukiangalia barabara za Morogoro ni msongamano wa magari kutokana na kwamba pesa zimemwagwa pale lakini hakuna</seg>
+          <seg xml:id="seg448">barabara inayoeleweka. Kwa hiyo, naomba sana Serikali inapotoa kazi kwa kampuni yoyote ifuatilie step by step isisubiri mpaka mwishoni ili kuona hela zimekwishaondoka na bado hakuna kazi iliyofanyika.</seg>
+          <seg xml:id="seg449">Suala lingine la kuangalia kwenye Muswada huu ni kwamba Serikali iangalie jinsi ya kutumia utalaamu zaidi kuliko hela. Tuangalie tunapompa kazi huyu ni mtaalamu awe ni injinia ambaye ana sifa ya kuwa injinia na mtu ambaye ana pesa, anaajiri labda mainjinia labda kwa ajili ya kumfanyia kazi.</seg>
+          <seg xml:id="seg450">Yule ambaye ni injinia kwanza anajua anachokifanya ni nini, hatumii hela, anatumia wengine kama wasaidizi lakini ideals zote za contract na kadhalika yeye ndiye anazozifanya. Kwa hiyo, unakuta kwamba kazi aliyoifanya yeye mwenyewe akiwa ni mtaalamu ni tofauti na kazi ambayo anafanya mtu mwenye hela halafu ameajiri watu.</seg>
+          <seg xml:id="seg451">Kwa hiyo, naomba sana wakati wa kusajili hii bodi ya kusajili makandarasi iangalie sana mtalaamu, yeye ndiye anaweza kutoa directives akamwambia huyu fanya hivi, hapa pamebomoka na hapa fanya hivi ili kuweza kuepuka matatizo kwa sababu wale ambao wana pesa wanatumia hela yao kwa ajili ya kuchukua tenda, ndiyo wale ambao wanaharibu barabara zetu na ndiyo wanaoharibu kazi mbalimbali. Kwa hiyo, Serikali iangalie kwa makini. Mimi yangu ni hayo mafupi nashukuru kwa kunipa nafasi hii na ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u105" who="NaibuSpika">
+          <seg xml:id="seg452">Ahsante sana kwa mchango wako na sasa namwita Mheshimiwa Eng. Stella M. Manyanya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u106" who="MheEngStellaMManyanya">
+          <seg xml:id="seg453">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ili niweze kuchangia Miswada hii inayohusika na Wahandisi. Kwanza, napenda kuwapongeza waliotayarisha Muswada huu na naona kweli iko haja ya kuweza kuwalinda Wahandisi wa Tanzania. Lakini kabla sijachangia naomba niwashukuru sana wanachama wenzangu wa CCM kwa kuniwezesha kuwa mshindi kwenye NEC kupitia wazazi, mshindi wa kwanza. Hii inadhihirisha ni jinsi gani wana imani na mimi. Inanipa nguvu sana na itaniongezea kufanya kazi zangu vizuri ndani ya Bunge hili na ndani ya Chama na hivi nimepata nguvu zaidi hata za kuweza kuwashauri Waheshimiwa upande wa pili wanapokuwa hawajatuelewa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u107" who="MheEngStellaMManyanya">
+          <seg xml:id="seg454">Mheshimiwa Naibu Spika, Muswada huu umenigusa katika misingi ifuatayo: Ni kweli kabisa kuna unyanyasaji wa kupita kiasi inapotokea kwamba wewe ni Mhandisi uliyehitimu unafanya kazi zote site au hata kama ni za ubunifu, halafu mwenzako ambaye ameitwa tu Mhandisi katoka nje hata vyeti vyake havijahakikiwa, yeye anachukua donge nono kwa sababu tu amekuja na ile Kampuni. Hivyo vitu vinakawakatisha tamaa Watanzania.</seg>
+          <seg xml:id="seg455">Mheshimiwa Naibu Spika, pili, ninaloliona kwa upande wetu kama Watanzania kila mtu anataka kuwa Mhandisi, hatutaki kuwatumia wenye fani zao. Kwa mfano, ukienda TANESCO wananchi wenyewe wanafahamu fika kwamba ili ufanyiwe kwa mfano, mfumo wa umeme kwenye nyumba yako ni vema uwe chini ya Mhandisi ambaye</seg>
+          <seg xml:id="seg456">amehitimu pamoja na makandarasi wake ambao wapo chini yake. Lakini unakuta mtu anasema simfuati mkandarasi, wewe twende ukaniangalizie, lakini siku mbili unakuta nyumba imeungua.</seg>
+          <seg xml:id="seg457">Kwa hiyo, hilo napenda kutoa somo kwa upande wa pili, hayo matatizo yanayojitokeza nyumba zinapoungua, zinapodondoka kwa sababu hazikujengwa kwa kiwango, siyo kwamba linakuwa ni suala la Mhandisi peke yake ni suala ambalo linakuwa limeshaleta hasara kwetu sote. Lakini pia nawasifu kwa nafasi hii waliobuni, kwa mfano, watu wa msaada wa Sheria. Nchi yetu haina Wahandisi wengi ambao wapo mitaani, wengi wapo kwenye ajira na ndiyo maana unakuta hata kampuni zetu za wazawa hazina wahandisi wa kutosha. Hivyo, hata tukizungumza sana kwamba CRB (Contractors Registration Board) lazima ihakiki Wahandisi wote. Utakuta kwamba vile viwango vinavyotakiwa katika kuwapata hao wahandisi wenye viwango kwa kampuni moja, wanakuwa hawapo au wapo wachache sana. Ndiyo maana wakati Waheshimiwa Wabunge wenzangu wamechangia umuhimu wa kuwezesha zile fani za uhandisi na ikiwezekana hata wasomeshwe bure ili tuweze kuwaongeza hawa wahandisi, ni suala la msingi sana.</seg>
+          <seg xml:id="seg458">Mheshimiwa Naibu Spika, kwa mfano, sasa hivi ukiangalia hata kwenye maeneo yetu ubunifu umepungua kabisa. Ukiacha hao wahandisi wa ujenzi au umeme, hata wa mipango ni tatizo kwa sababu unakuta eneo moja kwenye plan yake hapo kuna ghorofa, pembeni kuna nyumba ya kawaida, yaani kunakuwa hakuna consistence kwamba hapa kuwe na nyumba za aina fulani na hapa ziwe za aina fulani. Hii inasaidia hata ku-plan, inapofikia kwamba inatakiwa kusambaza umeme au maji, unajua kwamba hapa kutahitajika mzigo wa aina fulani, pale kutahitajika maji kiasi kutokana na zile size za nyumba, inakuwa ni rahisi sana lakini sasa unakuta sisi wenyewe hatujawa tayari kutumia zile knowledge pamoja na kwamba tunakwenda nje, tukirudi tunafanya kama wale wale ambao hawajakwenda nje. Sasa hilo ni tatizo kubwa, hata tukilalamika kwamba hatujafikia maisha bora, maisha bora kwa kila Mtanzania yatafikiwa tutakapofikia wakati kila mtu akiamua kutumia akili yake kutenda inavyostahili, kutafiti inavyostahili na kuleta ubunifu katika shughuli zake.</seg>
+          <seg xml:id="seg459">Mheshimiwa Naibu Spika, nirudi kwa upande wa jinsi ambavyo leseni zinavyotolewa kwa Makandarasi au Wahandisi wenyewe. Sasa hivi tuna hii Bodi ya Usajili ya Wahandisi, lakini pia kuna Wizara na yenyewe inatoa leseni, sasa hapo naona kuna usumbufu kidogo. Sijui kama kuna mabadiliko sasa hivi, kwa sababu kama Mhandisi ameshahakikiwa na ERB, akawa ameshafuatiliwa, vyeti vyake vyote vimejulikana na amekuwa registered labda kama professional registered engineer au kama ni technician engineer anakwenda kuchukua leseni ya ku-practice anaambiwa lete vile vyeti vyako, akipeleka kule Bodi ikikaa wanampa leseni ya Wiremen au Class C, halafu unakuta mwingine hata siyo professional engineer anapewa leseni Class A au B.</seg>
+          <seg xml:id="seg460">Hapo unashindwa kuelewa wanatumia criteria zipi. Kwa hiyo, nafikiri haya masuala ya usajili au leseni ikiwezekana yaunganishwe yote yawe sehemu moja. Sasa hivi tuna EWURA na yo inahakiki, tuna Wizara, ERB, CRB lakini CRB at least naweza kuiacha pembeni. Hawa ERB ambao wanahusika na ufundi wa mtu mwenyewe kwa nini</seg>
+          <seg xml:id="seg461">wasiunganishe haya masuala ya kumhakiki mtu yakawa pamoja ili kumwezesha mtu asiwe anaruka, leo kaenda huku na kesho huku, kwa sababu inaleta usumbufu kwa watu ambao wanatakiwa kwenda haraka.</seg>
+          <seg xml:id="seg462">Mheshimiwa Naibu Spika, pia naona kuna hali ya ubaguzi, Mhandisi akishamaliza akaajiriwa na Shirika kama la TANESCO, huyo hahitaji leseni ku-practice, lakini wewe ambaye upo mtaani umefungua kampuni yako mpaka wakuhakiki na upate leseni kwa sababu zipi na wote tunafanya practice. Nafikiri hapo hata kama mtu ameajiriwa kama ni utoaji wa leseni basi wote wawe na leseni na hela ziingie katika Serikali. Katika hilo pia nashauri kwa sababu tumeziruhusu taasisi binafsi kufanya hizi shughuli za kiuhandisi kwa mfano za ujenzi, nachukulia shirika lile nililolizoea TANESCO, jengo kama hili contractor ataambiwa kwamba wewe unayeweka umeme hapa lazima uwe na Mhandisi labda professional engineer na kadhalika, atatimiza zile conditions zake. Lakini ikija kufanyiwa inspection atatumwa technician kwenda kumkagua mhandisi ambaye yeye sasa ndiye contractor. Sasa unakuta haviji, wakija site ni ugomvi, technician anasema lake, mhandisi wa kule anasema lake. Kwa hiyo, nashauri hata kwenye inspection iwepo level kwamba jengo la aina fulani kama linakagua shirika ambalo linahusika. Kwa mfano, kwa sasa ni TANESCO kwa sababu bado hatujalipunguzia madaraka, basi atumwe Mhandisi ambaye ni professional kama ambavyo ametoka kwenye private sector ili waweze kuongea lugha zinazofanana, asifanye huyu technician au mtu wa trade test peke yake akamkagua Mhandisi ambaye yuko pale halafu wakashindwa kuelewana lugha. Huu unakuwa ni unyanyasaji wa taasisi binafsi.</seg>
+          <seg xml:id="seg463">Mheshimiwa Naibu Spika, nimeona nichangie hayo kidogo lakini naamini yatakuwa yamesaidia. Nashukuru sana na naunga mkono hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u108" who="NaibuSpika">
+          <seg xml:id="seg464">Nashukuru Mheshimiwa Stella na hongera kwa ushindi huo wa kishindo uliopata. Waheshimiwa Wabunge sasa sina orodha ya mchangiaji mwingine, kwa hiyo, naomba nimwite mtoa hoja aweze kuendelea kutoa ufafanuzi. Mheshimiwa Andrew Chenge!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u109" who="WaziriWaMiundombinu">
+          <seg xml:id="seg465">Mheshimiwa Naibu Spika, napenda nikushukuru tena kwa kunipatia nafasi hii jioni hii ili niweze kufanya majumuisho ya mchango uliotolewa na Waheshimiwa Wabunge kuhusiana na hoja iliyo mbele ya Bunge lako Tukufu.</seg>
+          <seg xml:id="seg466">Mheshimiwa Naibu Spika, nianze kwa kuwashukuru Waheshimiwa Wabunge waliochangia hoja hii kwa kuongea na pia waliochangia kwa maandishi. Naamini kwa wale ambao wamekaa kimya, wamekaa kimya kwa sababu wameuelewa Muswada huu na wameelewa madhumuni na shabaha kwa nini Serikali inakuja na marekebisho hayo. Tunawashukuru sana kwa hilo.</seg>
+          <seg xml:id="seg467">Naomba niwatambue Waheshimiwa Wabunge waliochangia hoja hii kwa kuongea humu Bungeni, nikianza na Mheshimiwa Cosmas Masolwa. Yeye amechangia kwa kuwasilisha ripoti ya Kamati ya Miundombinu. Kwa upande wa Kambi ya</seg>
+          <seg xml:id="seg468">Upinzani, Mheshimiwa Mkiwa Kimwanga. Wengine ni Mheshimiwa Ponsiano Nyami, Mheshimiwa Balozi Getrude Mongella, Mheshimiwa Suleiman Kumchaya, Mheshimiwa Magdalena Sakaya na mwisho ni Mheshimiwa Eng. Stella Manyanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u110" who="WaziriWaMiundombinu">
+          <seg xml:id="seg469">Mheshimiwa Naibu Spika, kwa waliochangia kwa maandishi ninao wawili: wa kwanza ni Mheshimiwa Engineer Damas Nakei na wa pili na Mheshimiwa Magdalena Sakaya. Tunawapongeza sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u111" who="WaziriWaMiundombinu">
+          <seg xml:id="seg470">Mheshimiwa Naibu Spika, Muswada huu lengo lake ni kuboresha Sheria ya Usajili wa Wahandisi nchini na kwa sababu hii ni profession na inafanya kazi ambazo zina mahusiano ya moja kwa moja na maisha ya binadamu na uchumi wa nchi yetu, unataka uhakikishe kwamba huyo anayejiita Mhandisi kweli anafuzu vile vigezo ambavyo Sheria inaweka. Kitu ambacho kilionekana wazi ni kwamba kulikuwa na maeneo ambayo yalikuwa hayajakaa vizuri katika sheria ya sasa na kama walivyochangia Waheshimiwa Wabunge wengi, kazi ambazo zinafanywa na baadhi ya Wahandisi ubora wake ni wa chini, na umetolewa mfano wa jengo lililoporomoka pale Keko. Niseme tu kwamba Kamati iliyoundwa na Mheshimiwa Waziri Mkuu ilitoa taarifa yake na taarifa hiyo ilitoa sababu kwa nini jengo hilo liliporomoka na pia ilisema udhaifu wa jengo hilo ulikuwa ni nini.</seg>
+          <seg xml:id="seg471">Mheshimiwa Naibu Spika, kusema kweli baadhi ya mapendekezo yaliyotokana na ripoti hiyo ndio yaliyopelekea Serikali kuleta haya marekebisho. Tunatekeleza ripoti hiyo na kusema kweli matatizo ambayo tumekuwa tunakumbana nayo ni process nyingine ambayo ipo nje ya uwezo wetu kwa maana kesi ikienda Mahakamani, Bodi ya Usajili iwe ya Makandarasi, Wahandisi, Quantity Surveyors na Wabunifu Majengo ile process wewe huna uwezo nayo. Lakini kuna yale ambayo tunadhani tunaweza kuyamudu vizuri zaidi sisi wenyewe kwa kuwasimamia hawa Wahandisi vizuri zaidi na ndiyo maana sasa aina za Wahandisi ambazo zinafafanuliwa vizuri zaidi kupitia Muswada huu, lengo lake ni kujua wewe unaposajiliwa utajua upo katika kundi lipi. Ile siyo kuleta ubaguzi, hapana, wewe lazima kwa mafunzo yako au uzoefu wako uwe umeangukia katika kundi hilo na utapimwa kwa kazi yako kwa kutegemea usajili huo.</seg>
+          <seg xml:id="seg472">Mheshimiwa Naibu Spika, lingine ambalo linafanywa kupitia Muswada huu ni kuhakikisha kwamba kazi ambazo zinafanywa si lazima ufike na wewe ukaone kama kwamba hii kazi inafanywa na Mhandisi ambaye anatakiwa aifanye. Sheria ya sasa ilikuwa haitoi fursa kwa Bodi hii kupitia katika maeneo ambayo shughuli mbalimbali za kihandisi zinaendelea. Mwanya huo sasa unazibwa. Bodi inaongezewa meno, itaweza kupambana na wahusika. Ni kweli sisi tunapokea ushauri wa Kamati na tunaishukuru. Is the question of fact, kwa Tanzania injinia mmoja anahudumia watu kama elfu saba, lakini ndiyo maana ya maendeleo ndugu zangu. Kada hii lazima tuendelee kuithamini lakini kuithamini peke yake hakutoshi, lazima uhakikishe kwamba unajenga mazingira mazuri kwa wale waliohitimu na pia kwa hawa wanaokuja kwa kuwahamasisha vijana wetu kuchukua masomo ya sayansi. Kwa taarifa tulizozisikia kutoka Wizara ya Elimu ya Juu, preference ya science subject inaanza kuteremka. Sasa hiki siyo kitu cha kujivunia sana kwa sababu tunafanya nini kubadilisha hiyo trend, hiyo ni changamoto.</seg>
+          <seg xml:id="seg473">Mheshimiwa Naibu Spika, kuhusu suala la Halmashauri nyingi kutokuwa na Wahandisi waliosajiliwa na Bodi, ni kweli lakini Halmashauri hizi ambazo tunazipelekea fedha nyingi sana za walipa kodi lazima zitakiwe kuwa na Wahandisi ambao wamesajiliwa na Bodi, lakini kama Wahandisi wenyewe hawapatikani wanafanya nini? Hiyo ndiyo sehemu ya changamoto nyingine ambayo Serikali inajaribu kuhangaika nayo. Jibu ni kama tulivyofanya kwa upande wa Wahasibu na Wakaguzi wa Ndani kwa Halmashauri zetu na huku ni vizuri tukaanza kuwatumia hawa walionao wanaofundishika, wanaoweza kuendelezwa wanatoka kuanzia hapo kwa sababu hata waajiri moja ya kazi yao ni kuwaendeleza wafanyakazi wao kwa kuwapatia mafunzo mbalimbali.</seg>
+          <seg xml:id="seg474">Mheshimiwa Naibu Spika, nimeona hili la aina za Wahandisi nilieleze kidogo tu kwa sababu yawezekana mpangilio nilivyousema kwenye hotuba yangu haukueleweka vizuri. Lakini tunachokisema kwenye marekebisho yaliyopo katika ukurasa wa 40 mpaka 42, tunaainisha kwa ufasaha zaidi aina ya Wahandisi hawa ambao watasajiliwa. Ukiangukia kwenye engineering technician lazima uwe na National Technical Award, ya level gani, lazima iwe level ya sita au inayofanana na hiyo ya level ya sita.</seg>
+          <seg xml:id="seg475">Ukiwa ni graduate incorporate engineer lazima uwe na diploma ya juu katika masuala ya engineering kutoka kwenye Chuo ambacho kinatambuliwa na Bodi. Ukienda kwenye category ya graduate engineer umetoka kwenye University ambayo inatoa mafunzo ya uhandisi na inafahamika yote haya yanafafanuliwa. Ukiwa bingwa professional engineer wanakueleza utakuwa ni mwanachama wa taasisi ya Wahandisi inayofahamika katika nchi mbalimbali, tunayafahamu mambo haya. Kwa hiyo, yote haya yanaandikwa kwa ufundi na unataka sasa uje umpime mtu kwa kutegemea na pale sasa alipoangukia. Wewe upo katika kundi hili, tunakutegemea utayafanya haya na huwezi kufanya chini ya ubora huo. Kwa maana hiyo, hakuna ubaguzi wa aina yoyote. Kwa Wahandisi wa kutoka nje, sisi tunathamini sana Wahandisi wa kutoka nje kama ilivyo katika professions zingine zote iwe ni madaktari, wanasheria au wahasibu kama wana sifa. Tunachokisema ni kuweka tu ile qualification, tunataka ajira ya wahandisi wetu wa Tanzania ilindwe, waje tu pale ambapo tu kweli aina hiyo ya wataalamu au uzoefu huo hatunao. Haipendekezwi kupitia Muswada huu kwamba milango yote tunafunga hapana! Hilo si kusudio la Serikali.</seg>
+          <seg xml:id="seg476">Mheshimiwa Naibu Spika, napenda niliondolee Bunge lako Tukufu hofu ya kwamba ile requirement ya fifty one percent kwenye ukurasa wa 42, pale kuhusiana na consulting firm, usajili utaupata ukiwa na nini. Maana inasema wewe kama ni mtu au mkusanyiko wa watu hutaweza kusajiliwa kama consulting engineer, isipokuwa kama asilimia hamsini na moja ya hisa zote katika ushirika wenu huo inamilikiwa na engineers, Wahandisi waliosajiliwa na Bodi au Makampuni yaliyosajiliwa na Bodi.</seg>
+          <seg xml:id="seg477">Sasa kwa maana hiyo, ile inakupatia nguvu au uhakika wa kujua kwamba ukija katika sura hii ya consulting engineer una uhakika kabisa unatambulika na Bodi kwa sababu Bodi itakuwa imejiridhisha na hilo na la pili ndilo hilo utatakiwa uyatekeleze hayo kwamba una idadi au una co-personnel ambao wanatakiwa katika kazi hizo kama</seg>
+          <seg xml:id="seg478">inavyoelezea hapo. Ukiisoma kwa namna hiyo, wasiwasi ambao umetolewa na baadhi ya Waheshimiwa Wabunge unatoweka.</seg>
+          <seg xml:id="seg479">Mheshimiwa Naibu Spika, iligusiwa pia kwamba hii leseni isiitwe leseni, iitwe hati ya kufanya shughuli za kihandisi. Ni kweli ukisoma marekebisho ambayo yamegawiwa kwa Waheshimiwa Wabunge utaona kabisa kwamba katika Ibara ya (7) tumefanya marekebisho hayo, haiitwi leseni bali ni Certificate na haitakuwa ya mwaka mmoja kama ilivyochapishwa kwenye Muswada, sasa itakuwa inatolewa baada ya kila miaka mitatu. Bodi yenyewe kwa sababu uhai wa chombo chochote kama hiki cha Usajili wa Wahandisi ni continuing professional education, sasa Bodi hii kama ilivyo kwa Makandarasi, Bodi ya Wabunifu Majengo na Wakadiriaji Majenzi, unataka uwapime wanachama wako kwa kufanya mapitio mbalimbali kupitia semina, kongamano na pale inapobidi kama wataelewana wao wanawekeana mitihani na ndiyo maana hizi Professional Bodies maana ni safe regulatory. Wao wenyewe watasema kwamba, wewe katika kuomba upya tutataka uwe na hiki, wakikubaliana wao huo ndiyo utakuwa utaratibu, is a profession. Wanasheria wanafanya hivyo, Madaktari wanafanya hivyo, tunapenda sana na wao walione hilo kwamba huwezi kusema kwamba mimi nili- graduate 1947, basi mimi ni mjuzi tu katika masuala haya, haiendi hivyo, teknolojia inabadilika haraka sana, wanataka engineers ambao wanakwenda na wakati.</seg>
+          <seg xml:id="seg480">Kusudio la annual practice certificate ilikuwa ni hiyo, kwanza, kuwafahamu hawa, lakini Serikali imekubali hoja ya Waheshimiwa Wabunge kwamba badala ya mwaka mmoja iwe miaka mitatu. Lakini niseme, mimi kama Mwanasheria kwenye upande wa Wanasheria ni mwaka mmoja mmoja na inakwenda vizuri, kama huwezi ku- comply tunakuweka aside lakini hili acha tulione mbele ya safari, tutaona inakuwaje.</seg>
+          <seg xml:id="seg481">Mheshimiwa Naibu Spika, lakini hili la Wahandisi wetu wa Tanzania kutokuwa na vifaa na mitaji na mitambo ambalo limegusiwa na baadhi ya Waheshimiwa Wabunge waliochangia, Mheshimiwa Ponsiano Nyami, Mheshimiwa Suleiman Kumchaya, Mheshimiwa Magdalena Sakaya na Eng. Stella Manyanya, ndugu zangu ni kweli wewe kama ni Mhandisi, ingawa sheria hii ni ya Usajili wa Wahandisi, hawa kwa kufanya ile kazi hasa ndiyo unakwenda kama wewe ni mkandarasi. Sasa makandarasi wa Tanzania wanataka kufanya kazi hizo, lakini hoja inabaki pale pale kama ni mkandarasi Mtanzania atahitaji uwezo au mtaji, pia atahitaji injinia ambaye atasimamia kazi hiyo kupata ubora ambao unatakiwa ili kupata value for money.</seg>
+          <seg xml:id="seg482">Mheshimiwa Naibu Spika, katika hilo napenda niseme kwamba Serikali inakusudia katika Bunge la mwezi Januari tukiweza hivyo au la mwezi Aprili, kuleta Muswada wa Lease Finance. Nchi nyingi duniani zina utaratibu huu wa lease finance na unasaidia sana katika kuwawezesha wajasiriamali wakiwemo makandarasi na mainjinia ambao wanataka wawe na vifaa, vitendea kazi, mitambo ya kwao. Mabenki yanaijua sana biashara hii na ndiyo maana tunaamini kabisa kwamba baada ya Muswada huo kupitishwa na Bunge, mainjinia ambao wanataka kufanya kazi hizo itabidi sasa wajipange kwa namna ya kuweza ku-access fursa hiyo ambayo itakuwa imetolewa na Serikali maana kazi ya Serikali ni kujenga mazingira ambayo yanawawezesha mainjinia, makandarasi ambao wanataka kufanya kazi hizo kuweza kupata mahali pa kukimbilia na</seg>
+          <seg xml:id="seg483">kupata mtaji. Unakopa, unatumia equipment yako hiyo, rental zile unazopata kutoka malipo yako unayolipwa haziji moja kwa moja kwako, zinakwenda kumlipa yule ambaye ametoa equipment zile na baadaye ukipenda mitambo au vifaa hivyo vinakuwa vya kwako. Uki-opt kutoitaka basi inarejea kwa yule aliyekukodishia, inaendelea kutumika kwa mwingine ambaye anataka. Basi nadhani tukiwa na utaratibu huo utatusaidia sana katika kujibu hoja hii ambayo imekuwa inajirudia rudia mara nyingi sana katika michango ya Waheshimiwa Wabunge lakini ni hoja nzuri sana.</seg>
+          <seg xml:id="seg484">Mheshimiwa Naibu Spika, narudia tena, huu si Muswada wa ubora wa Barabara, ni wa Usajili wa Wahandisi, lakini naichukua point ya Mheshimiwa Suleiman Kumchaya, hiyo barabara ya Masasi-Mpeta kama tunaisimamia sisi kupitia Wakala wa Barabara yaani ni barabara ya Mkoa, tutapenda kuijua sana hii. Kama ni ya Halmashauri tunachoweza kufanya ni wa kuwajulisha wenzetu waangalie kama kweli watu wamemwaga kifusi tu halafu wanaondoka ili waone tatizo ni nini. Lakini ukichukua hata hii ya Mheshimiwa Sakaya ile mifereji ya pale Morogoro na Mwanza huwezi kumlaumu Mkandarasi kwa hilo. Mkandarasi yeye anakwenda kwa mujibu wa specifications ambazo mmempa, ile michoro kama inasema upana ndiyo huo yeye atakwambia ndiyo hicho ulichotaka wewe. Kwa maana hiyo kama ni kujilaumu, tujilaumu sisi wenyewe ambao tuliidhinisha zile specifications.</seg>
+          <seg xml:id="seg485">Mheshimiwa Naibu Spika, hata mimi nilijiuliza, hivi Morogoro ndiyo mafuriko yanakuwa namna hii mpaka mifereji ya maji inakuwa mipana kuliko hata barabara yenyewe? Lakini ndiyo matatizo ya michoro yetu, mara nyingine wanasingizia wanasema anayekupatia fedha anakwambia hicho ndicho kilichopatikana, lakini shona nguo yako kulingana na urefu wako, ni matatizo. Lakini nadhani kwa vile tuna specifications za nchi yetu na kitabu hicho kinachotawala masuala hayo tukiyasimamia vizuri kabla ya kuidhinisha tutaona kwamba hiki hakitufai. Kuhusu suala la ubora wa majengo, mandhari nzuri, Mheshimiwa Balozi Mongella tunakushukuru sana, hata sisi tungependa sana iwe hivyo. Hapa ndiyo inakuja hii dhana nzima ya Wabunifu wa Majengo kwa sababu hawa ndio wa kwanza kuanza kufikiri aione katika namna hii, kama jengo hili la ukumbi wa Bunge. Watu wa kwanza waliofanya ni wale Wabunifu wa Majengo, ndiyo walikuja hapa wakashindanishwa. Tume ndiyo ikasema mchoro huo ndio umevutia sana kwa sababu hii na hii na unakidhi yale ambayo tunayataka, lakini kila mchoro ukiutaka una gharama yake. Mara nyingi limiting factor inakuwa ni uwezo, nadhani mengi yaliyosemwa yalikuwa ni hayo.</seg>
+          <seg xml:id="seg486">Mheshimiwa Naibu Spika, lakini kuna moja la Mheshimiwa Ponsiano Nyami hizi faini unazilinda vipi kutokana na inflation au thamani ya sarafu ya Tanzania kushuka. Serikali ina zoezi hili sijui Mwanasheria Mkuu wa Serikali anaweza akajua zaidi kuliko mimi kwa sababu sipo huko tena siku hizi. Lakini tulikuwa na kazi tunaifanya ya kuja na sheria moja ambayo itakuwa inajibu hoja hiyo. Sasa hivi tutaendelea na utaratibu huu hadi tutakapokuwa na Sheria kama baadhi ya nchi hata ndani ya nchi za Jumuiya za Madola zimekuwa na utaratibu huu ambao wewe kazi yako ni kutumia tu formula hiyo na kuhuisha viwango vya faini ambavyo vinapaswa vitozwe, ila katika hili tunasema faini isiyo pungufu shilingi kwa hiyo, hiyo ndiyo flow. Mimi nilitegemea kwamba atauliza sasa ukipigwa faini ya shilingi bilioni moja, maana haina ile limit ya juu.</seg>
+          <seg xml:id="seg487">Lakini sheria mama ukiisoma inaweka hiyo. Kwa hiyo, hakuna wasiwasi isipungue hiyo faini iliyotajwa na sheria na isizidi ile ambayo imetamkwa na Sheria.</seg>
+          <seg xml:id="seg488">Mheshimiwa Naibu Spika, ninamshukuru sana Mheshimiwa Balozi Getrude Mongella, tumepeleka Bulldozer Mafia. Mnafahamu Mafia ni Kisiwa kama ilivyo Ukerewe na kuweza kumpata Mkandarasi hawezi ku-mobilize vifaa vyake kuvipeleka Mafia ni kazi kweli kama ilivyo kupeleka vifaa Ukerewe. Na hili tumeliona na kwa sababu ndogo ndogo kama kazi hizi unazitoa huwezi kupata mkandarasi atoke Mkoa wa Mara, Morogoro au Mwanza aende kufanya kazi Ukerewe au Mafia, ndiyo maana sasa tunakuja na utaratibu pale ambapo tunaweza kama tulivyofanya Mafia tunapeleke mtambo huo na tutaangalia pia uwezekano katika eneo la Ukerewe.</seg>
+          <seg xml:id="seg489">Majuzi tulikuwa kule na Mheshimiwa Waziri Mkuu, tumejionea hali halisi ya Ukerewe na ni vizuri tu tukajibu hoja hiyo kwa kuzingatia hali halisi ya mahali hapo, mahali pengine hata crashes hakuna. Lakini mimi nawashukuru Waheshimiwa Wabunge, kwa michango yenu katika giza hili, lakini limeruhusu sauti inatoka na sasa taa zimerejea tena.</seg>
+          <seg xml:id="seg490">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipatia fursa hii ya kuweza kufanya majumuisho mafupi kwa Muswada huu. Baada ya kusema hayo, nimalizie kwa kusema nawashukuru na kusema naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u112" who="WaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg491">Mheshimiwa Spika, naafiki.</seg>
+        </u>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <note>(Muswada wa Sheria ya Serikali Ulisomwa kwa Mara ya Pili)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u113" who="WaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg492">KAMATI YA BUNGE ZIMA</seg>
+          <seg xml:id="seg493">Muswada wa Sheria ya Kurekebisha Sheria ya Wahandisi wa Mwaka 2007(The</seg>
+          <seg xml:id="seg494">Engineers Registration (Amendment) Bill, 2007)</seg>
+          <seg xml:id="seg495">(Ibara iliyotajwa hapo juu ilipitishwa na Kamati ya Bunge Zima bila</seg>
+          <seg xml:id="seg496">mabadiliko yoyote)</seg>
+          <seg xml:id="seg497">(Ibara zilizotajwa hapo juu zilipitishwa na Kamati ya Bunge Zima bila</seg>
+          <seg xml:id="seg498">ya mabadiliko yoyote)</seg>
+        </u>
+        <note>(Bunge lilirudia)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u114" who="WaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg499">Muswada wa Sheria ya Kurekebisha Sheria ya Wahandisi wa Mwaka 2007</seg>
+          <seg xml:id="seg500">(The Engineers Registration (Amendment) Bill, 2007)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Tatu)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u115" who="WaziriWaMiundombinu">
+          <seg xml:id="seg501">Mheshimiwa Naibu Spika, naomba kutoa taarifa kwamba Kamati ya Bunge Zima imeupitia Muswada wa Sheria ya Kurekebisha Sheria ya Wahandisi wa Mwaka 2007 pamoja na marekebisho yaliyofanywa na kugawiwa kwa Waheshimiwa Wabunge, kifungu kwa kifungu na kuukubali bila marekebisho mapya. Hivyo napenda kutoa hoja kwamba Muswada wa Sheria ya Kurekebisha Sheria ya Wahandisi wa mwaka 2007 (Engineers Registration (Amendment) Act, 2007, sasa ukubaliwe.</seg>
+          <seg xml:id="seg502">Mheshimiwa Naibu Spika, naomba kutoa hoja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u116" who="WaziriWaViwandaBiasharaNaMasoko">
+          <seg xml:id="seg503">Mheshimiwa Naibu Spika, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <note>(Muswada wa Sheria ya Serikali Ulisoma kwa Mara ya Tatu na Kupitishwa)</note>
+        <u xml:id="ParlaMint-TZ-2007-11-05-bunge-09-05.u117" who="NaibuSpika">
+          <seg xml:id="seg504">Waheshimiwa Wabunge, katika Order Paper tuliyopewa leo asubuhi, kulikuwa na Muswada mwingine wa Kurekebisha Sheria ya Baraza la Ujenzi la Taifa wa mwaka 2007, unafanyiwa kazi kidogo haujakamilika, lakini nadhani kesho utakuwa tayari. Kwa hiyo, kutokana na hayo, kama nilivyosema nawapongeza wale Wanachama wa Chama cha Mapinduzi kwa kazi waliyofanya katika Mkutano wao Mkuu uliokuwa mgumu kabisa, nadhani wengi wamekesha zaidi ya siku tatu. Kwa hiyo, naahirisha Kikao cha Bunge mpaka kesho Saa 3.00 Asubuhi ili mkapumzike.</seg>
+          <seg xml:id="seg505">(Saa 1.11 Usiku Bunge liliahirishwa mpaka Siku ya Jumanne,</seg>
+          <seg xml:id="seg506">Tarehe 6 Novemba, 2007, Saa 3.00 Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,758 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2008-04-16) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2008-04-16) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="7">7. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="11">11. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1464704290-HS-11-7-2008.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2008-04-16">16.04.2008</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 83. Pendekezo la Kupanua Ikulu Ndogo ya Chamwino</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u1" who="MheMossySuleimanMussa">
+          <seg xml:id="seg1">Kwa kuwa Hayati Mwalimu Nyerere alituachia urithi mkubwa wa mambo mbali mbali yakiwemo na majengo; na kwa kuwa hivi sasa Ikulu ndogo ya Chamwino, Dodoma imekuwa ikitumika kwa shughuli za kuapisha viongozi licha ya kwamba sehemu inayotumiwa ni finyu, hivyo kuwabana viongozi wetu:-</seg>
+          <seg xml:id="seg2">Je, Serikali haioni kuwa ni wakati muafaka sasa wa kufanya upanuzi wa sehemu husika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u2" who="WaziriWaNchiOfisiYaRaisUtawalaBora">
+          <seg xml:id="seg3">Mheshimiwa Naibu Spika, kabla sijajibu swali la Mheshimiwa Mossy Suleiman Mussa, Mbunge wa Jimbo la Mfenesini, napenda kutoa maelezo ya utangulizi kama ifuatavyo:-</seg>
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, Ikulu Ndogo ya Chamwino imekuwa ikitumika kama makazi rasmi kwa Hayati Baba wa Taifa na kwa Marais wote walioingia madarakani</seg>
+          <seg xml:id="seg5">baada ya kustaafu Hayati Baba wa Taifa. Pamoja na shughuli walizokuwa wakifanya Marais vikiwemo vikao vya Baraza la Mawaziri, pia Ikulu Ndogo ya Chamwino imekuwa ikitumika kwa shughuli za kuapisha viongozi mbali mbali kama Mheshimiwa Rais alivyokuwa akiona inafaa.</seg>
+          <seg xml:id="seg6">Mheshimiwa Naibu Spika, kwa kuzingatia kuwa Ikulu Ndogo ya Chamwino ilianza kutumika mnamo mwaka 1980 kama nilivyoelezea kabla, ni dhahiri kuwa mahitaji ya nafasi ya kufanyia shughuli mbali mbali ikiwemo hii inayotumika sasa kuapisha viongozi yameongezeka. Kwa kutambua hali hiyo na ili kuzingatia mahitaji ya sasa, uongozi wa Ikulu umeandaa utaratibu wa kufanyia tathmini hali ya eneo lote la Ikulu Ndogo ya Chamwino (conditional survey) na Ikulu Ndogo zote.</seg>
+          <seg xml:id="seg7">Tathmini hiyo itaaangalia hali halisi ya majengo, viwanja, mipaka na mahitaji mapya na hivyo kuiwezesha Ofisi ya Rais, Ikulu kuomba bajeti Serikalini itakayowezesha ukarabati na matengenezo makubwa ya Ikulu Ndogo zote ikiwemo hii ya Chamwino.</seg>
+          <seg xml:id="seg8">Mheshimiwa Naibu Spika, namwomba Mheshimiwa Mbunge awe na subira kufuatia hatua hizo zilizoanza kuchukuliwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u3" who="MheMossySuleimanMussa">
+          <seg xml:id="seg9">Mheshimiwa Naibu Spika, ahsante sana! Kwa kuwa Ikulu Ndogo ya Chamwino imezungukwa na mazingira ambayo hayaridhishi, Serikali haioni kwamba ni bora kuboresha mazingira yanayozunguka vijiji vile ili kuendana na uzuri wa Ikulu ya Chamwino?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u4" who="WaziriWaNchiOfisiYaRaisUtawalaBora">
+          <seg xml:id="seg10">Mheshimiwa Naibu Spika, ni kweli Ikulu Ndogo inahitaji matengenezo na kama nilivyojibu katika swali lake la msingi ni kwamba Serikali inalifanyia tathmini ili kujua ni kwa kiwango gani tunaweza kuboresha maeneo yote ya Ikulu ili ifikie kiwango kinachostahili kuwa Ikulu.</seg>
+        </u>
+        <note>Na. 84. Mikakati ya Kudhibiti Panya Waharibifu</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u5" who="MheFuyaGKimbita">
+          <seg xml:id="seg11">Kwa kuwa tuneshuhudia jinsi wakulima wetu wanavyopata tabu na shida kubwa kutokana na panya kula mbegu za mahindi na alizeti:-</seg>
+          <seg xml:id="seg12">Je, ni mkakati gani imewekwa ya kuwamaliza au kuwadhibiti panya hao waharibifu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u6" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg13">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Fuya G. Kimbita, Mbunge wa Hai kama ifuatavyo:-</seg>
+          <seg xml:id="seg14">Mheshimiwa Naibu Spika, udhibiti wa panya unalenga kuwapunguza kwa kiasi kikubwa ili kufikia kiwango ambacho hakimsababishii hasara kubwa mkulima, hii inatokana na ukweli kwamba siyo rahisi kuwaua na kuwamaliza kabisa panya wote nchini kutokana na mapori mengi ambao panya hujificha na kuzaliana.</seg>
+          <seg xml:id="seg15">Mheshimiwa Naibu Spika, napenda kumhakikishia Mheshimiwa Mbunge kwamba Serikali hutoa kipaumbele katika udhibiti wa mlipuko wa panya na ifuatayo ni mikakati iliyowekwa na Wizara ili kuwapunguza na kuwadhibiti panya hao waharibifu:-</seg>
+          <seg xml:id="seg16">§ Kununua sumu ya panya na kuifikisha katika maeneo ya milipuko mara moja.</seg>
+          <seg xml:id="seg17">§ Kutoa mafunzo kwa wakulima na Maafisa Ugani juu ya udhibiti husishi wa</seg>
+          <seg xml:id="seg18">panya (Intergrated Rodent Management) kama njia endelevu na shirikishi ya</seg>
+          <seg xml:id="seg19">kudhibiti baa hilo.</seg>
+          <seg xml:id="seg20">§ Kuhamasisha Halmashauri za Wilaya na Miji kujenga uwezo wa Maafisa</seg>
+          <seg xml:id="seg21">Ugani na wakulima ili waweze kufuatilia kwa karibu mwenendo wa idadi ya</seg>
+          <seg xml:id="seg22">panya ili kuweza kuwadhibiti wakati wakiwa wachache badala ya kusubiri</seg>
+          <seg xml:id="seg23">milipuko kuwa mikubwa.</seg>
+          <seg xml:id="seg24">§ Kuwawezesha na kuwapeleka wataalam mapema katika maeneo ya milipuko</seg>
+          <seg xml:id="seg25">mara baada ya kupata taarifa ili wataalam hao washiriki katika kazi ya udhibiti</seg>
+          <seg xml:id="seg26">na kupunguza madhara makubwa.</seg>
+          <seg xml:id="seg27">Mheshimiwa Naibu Spika, nazishauri Halmashauri za Wilaya na Miji nchini ziwasaidie wananchi katika kuibua miradi ya udhibiti wa panya kupitia DADPs.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u7" who="MheFuyaGKimbita">
+          <seg xml:id="seg28">Mheshimiwa Naibu Spika, nakushukuru sana na namshukuru sana Mheshimiwa Naibu Waziri kwa majibu yake mazuri. Naomba nimuulize kama ifuatavyo maswali mawili madogo:-</seg>
+          <seg xml:id="seg29">Kwa kuwa wananchi wamekuwa wakipata sana hii hasara kutokana na uharibifu na usumbufu wa hao panya. Je, sasa Serikali itakuwa tayari kutimiza hilo lengo lake la kwamba watakuwepo wataalam wa Ugani japo hata kama siyo kwenye kila kijiji, lakini kila Kata na vitendea kazi wapatiwe ili kwamba wakiisha kuona hizi dalili waweze kutoa taarifa mapema na kuchukua hatua zinazostahili? Swali la pili. Je, kutokana na hatua hii ya kusambaza mbolea lakini tumeshuhudia katika maeneo yetu mbolea ya ruzuku huwa haifiki kwa wakati unaofaa au ikifika ni kidogo sana, Serikali ina mkakati gani sasa kuhakikisha kwamba mbolea na mbegu za ruzuku zitakuwa zinafika kwa wakati unaotakiwa na kwa kiasi kinachojitosheleza?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u8" who="NaibuSpika">
+          <seg xml:id="seg30">Mheshimiwa Naibu Waziri, sijui mbolea imeingiaje! Naomba ujibu la kwanza. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u9" who="NaibuSpika">
+          <seg xml:id="seg31">Naibu Spika, Serikali kama tulivyotamka katika bajeti iliyopita, tunatambua upungufu wa wataalam wa ugani. Kwa sasa hivi kuna wataalam wa ugani 3470. Lakini tunahitaji kufundisha na kuajiri hatimaye 2011 tuwe tumeishapata wataalam wa ugani 15,000 kwa ajili ya vijiji 12,000 pamoja na Kata na Tarafa. Wataalam hawa wa Ugani watapatiwa vifaa vya kufanyia kazi ikiwemo extension kit, njia za usafiri kama baiskeli pamoja na pikipiki pamoja na nyumba watajengewa katika maeneo hayo ya vijiji, kata na tarafa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u10" who="MheRamadhaniAManeno">
+          <seg xml:id="seg32">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali moja la nyongeza. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, nina swali dogo la nyongeza.</seg>
+          <seg xml:id="seg33">Kwa kuwa tatizo hilo la panya kula mazao kwenye mashamba ni kubwa na husababisha upungufu mkubwa wa mavuno ya kutosha kwa wananchi. Je, Serikali inafahamu kwamba sumu hiyo ya panya haiwafikii wakulima kwa wakati muafaka kama kule jimboni kwangu Chalinze?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u11" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg34">Mheshimiwa Naibu Spika, kwanza, katika kudhibiti panya kunahitaji ushirikiano kati ya Serikali na wananchi. Labda niseme kwamba, taarifa hizi zinapochelewa kufikia Wizara, ndivyo milipuko hii inavyozidi kuongezeka na kuleta madhara makubwa. Labda kwa kuwasaidia wananchi, niweze tu kuwaeleza kwamba, tunafahamu vipi kwamba kutakuwa na baa la panya?</seg>
+          <seg xml:id="seg35">Kwanza, mvua za vuli zikiwa nyingi, ni dalili kwamba kipindi kinachofuata panya watakuwa wengi. Lakini pia, kwa kutumia mbinu shirikishi kwa maana ya kuwahusisha wakulima walio wengi kutega panya kwa wakati mmoja, kunyunyizia dawa ile ambayo siyo kali, ile inayotengenezwa Mororogo kwa wakati mmoja na kupima idadi ya panya kwa kila eka itasaidia sana kupunguza wingi wa panya.</seg>
+          <seg xml:id="seg36">Wanachi wa Muheza, wananchi wa Morogoro Mjini na Vijijini wameishafundishwa jinsi ya kutega panya na kupasua majike na kuangalia kama yana mimba na jinsi ya kuangalia madume ya panya kama kokwa zake zimeshuka chini inaonyesha kwamba ni wakati wa kuzaliana.</seg>
+        </u>
+        <note>Na. 85. Hali ya Kiwanja cha Ndege Tabora</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u12" who="MheSirajuJKaboyonga">
+          <seg xml:id="seg37">Kwa kuwa kiwanja cha ndege cha mjini Tabora ni moja kati ya viwanja vya zamani sana hapa nchini. Kiwanja hicho ambacho kipo kwenye Mkoa wenye Makao Makuu ya Brigedi ya Jeshi Kanda ya Magharibi ni muhimu sana kwa usafiri wa anga kati ya Tabora na Mikoa mingine. Lakini njia za kutua na kuondokea ndege ni za changarawe:-</seg>
+          <seg xml:id="seg38">(a) Je, Serikali ina mpango gani wa kuboresha njia za kurukia/kutua ndege</seg>
+          <seg xml:id="seg39">kwenye kiwanja hicho kwa kuziwekea lami na kuzirefusha ili kiwanja kiweze</seg>
+          <seg xml:id="seg40">kutumika kwa ndege kubwa?</seg>
+          <seg xml:id="seg41">(b) Pamoja na kukiboresha kiwanja hicho. Je, Serikali haioni kwamba iko haja ya</seg>
+          <seg xml:id="seg42">kukipatia vitendea kazi vya kisasa kama vile mashine za x-rays kwa ajili ya</seg>
+          <seg xml:id="seg43">ukaguzi wa mizigo ili kuongeza usalama wa raia?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAENDELEO YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u13" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg44">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Siraju Juma Kaboyonga, Mbunge wa Tabora Mjini, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg45">(a) Mheshimiwa Naibu Spika, ningependa kumfahamisha Mheshimiwa Mbunge kwamba kiwanja cha ndege cha Tabora kwa sasa kinafanyiwa upembuzi yakinifu na usanifu na kampuni ya Sir Frederick Snow ya Uingereza kwa lengo la kukikarabati kwa kiwango cha lami na kukiongezea urefu ili kiweze kutumika kwa ndege aina ya ATR 72 (yenye uwezo wa kubeba abiria 72) ikilinganishwa na matumizi ya sasa ya ndege aina ya ATR 42 (yenye uwezo wa kubeba abiria 42). Aidha, upanuzi wa kiwanja kwa matumizi ya ndege kuwa zaidi utategemea ongezeko la abiria.</seg>
+          <seg xml:id="seg46">Mheshimiwa Naibu Spika, kazi hii ya usanifu inahusisha viwanja vya Tabora, Arusha, Kigoma, Shinyanga, Mafia, Bukoba na Sumbawanga, chini ya ufadhili wa Benki ya Dunia kwa gharama ya dola za kimarekani 780,000. Tunatarajia kazi hii ya upembuzi yakinifu na usanifu katika kiwanja cha ndege cha Tabora kukamilika mwezi Oktoba, 2008. Aidha, usanifu unahusisha njia ya kutua/kuruka ndege, maegesho ya ndege, jengo la abiria na maegesho ya magari. Benki ya Dunia imeonyesha nia ya kufadhili ujenzi wa kiwanja cha ndege cha Tabora pamoja na uwekaji wa vifaa muhimu vya usalama katika jengo la abiria.</seg>
+          <seg xml:id="seg47">(b) Mheshimiwa Naibu Spika, kwa kutambua umuhimu wa usalama wa abiria, mizigo ya abiria, ndege na kiwanja cha ndege kwa ujumla, usanifu unaofanywa chini ya ufadhili wa Benki ya Dunia unahusisha jengo la abiria pamoja na vifaa muhimu vya usalama katika jengo hilo.</seg>
+          <seg xml:id="seg48">Pamoja na mipango hiyo niliyoelezea, katika bajeti ya mwaka wa fedha 2008/2009, Mamlaka ya Viwanja vya Ndege imetenga fedha kwa ajili ya ununuzi wa mashine ya X-</seg>
+          <seg xml:id="seg49">Ray kwa ajili ya kukagua mizigo ya mkononi yaani walk through metal detectors na hand held metal detectors pamoja na ujenzi wa uzio wa kiwanja.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u14" who="MheSirajuJKaboyonga">
+          <seg xml:id="seg50">Mheshimiwa Naibu Spika, namshukuru Naibu Waziri kwa majibu mazuri. Lakini, ninaomba niulize swali moja la nyongeza. Ni lini ujenzi utaanza. Je, unaweza ukaanza kabla ya mwisho wa muhula wa kipindi cha Mbunge anayeuliza ili na mimi niwe na kitu cha kujivunia? </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <note>(K.n.y. WAZIRI WA MAENDELEO YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u15" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg51">Mheshimiwa Naibu Spika, kama nilivyosema kwamba usanifu utamalizika Oktoba mwaka huu na kwa sababu fedha ziko tayari, tunategemea Mheshimiwa Siraju atapata kitu cha kujivunia kwamba amekisimamia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u16" who="MheAbdulkarimEHassanShah">
+          <seg xml:id="seg52">Mheshimiwa Naibu Spika, ahsate kwa kunipa nafasi hii kuuliza swali dogo la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u17" who="NaibuSpika">
+          <seg xml:id="seg53">Unaulizia kiwanja cha Mafia! </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u18" who="MheAbdulkarimEHassanShah">
+          <seg xml:id="seg54">Mheshimiwa Naibu Spika, kwa kuwa uwanja wa Mafia upo katika mpango wa MCC na hivi sasa uwanja huo unajengwa kwa pesa za ndani ya nchi kupitia Mamlaka ya Viwanja vya Ndege. Je, ni lini uwanja huu utakamilika kwa awamu ya kwanza na ni lini pesa hizi za MCC zitaanza kutumika kwa ajili ya kukamilisha uwanja huo wa Ndege wa Mafia?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAENDELEO YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u19" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg55">Mheshimiwa Naibu Spika, kwanza nichukue nafsi hii niishukuru Serikali ya Marekani kwa kuona umuhimu wa kuunga mkono katika masuala ya miundombinu na kwa kupitia Shirika lake ni kweli tumepata hela kwa ajili ya matengenezo ya uwanja wa ndege wa Mafia.</seg>
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, kinachofanyika hivi sasa ni kumaliza ukarabati ambao tunaufanya vizuri ili uendane. Baada ya kumaliza ni kutia lami katika kiwanja hiki.</seg>
+          <seg xml:id="seg57">Napenda nimhakikishie Mheshimiwa Mbunge kwamba kwa sababu mimi mwenyewe nilishawahi kwenda mara tatu pale kiwanjani kusisitiza ujenzi umalizike haraka kwa sababu watu wa Mafia hawana alternative nyingine hasa wakati wa msimu wa upepo wa baharini. Kwa hiyo, namhakikishia Mheshimiwa Mbunge suala hili tukimaliza tu masuala haya ya kujenga kwa pesa zile ambazo tulikuwa nazo, basi masuala ya kuweka lami na maeneo mengine yatachukua mkondo wake. Nimwombe Mheshimiwa Mbunge basi, fuatilia kwa karibu kama tulivyomwomba kipindi tulipokuwa naye kule Mafia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u20" who="NaibuSpika">
+          <seg xml:id="seg58">Sasa tunaendelea! Makete hakuna kiwanja, kwa hiyo tunaendelea! </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <note>Na. 86. Barabara ya Tabora – Mpanda</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u21" who="MheSaidAArfi">
+          <seg xml:id="seg59">Kwa kuwa ni dhamira ya Serikali kuunganisha barabara za Mikoa nchini:- Je, Serikali iko tayari kuimarisha barabara toka Tabora, Sikonge, Ipole, Inyonga hadi Mpanda kwa kiwango cha changarawe ili iweze kupitika wakati wote wa mwaka?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAENDELEO YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u22" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg60">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Said A. Arfi, Mbunge wa Mpanda Kati kama ifuatavyo:-</seg>
+          <seg xml:id="seg61">Mheshimiwa Naibu Spika, barabara ya Tabora – Sikonge – Ipole – Inyonga hadi Mpanda ni barabara ya muhimu ya Kitaifa (Trunk Road) ambayo inaunganisha Mkoa wa Tabora na Mkoa wa Rukwa. Kutokana na umuhimu wake, Serikali imekuwa ikiitengea fedha za matengenezo ya kuifanya ipitike wakati wote.</seg>
+          <seg xml:id="seg62">Kwa mfano, katika mwaka wa fedha 2007/2008 Serikali imetenga jumla ya shilingi bilioni 1.424 kwa barabara hiyo. Kati ya hizo matengenezo ya kawaida ni shilingi milioni 412.64, ujenzi wa daraja la Msaginya shilingi milioni 113.565 ambalo limekamilika, matengenezo ya kawaida ya madaraja mengine 15 ambayo kazi zinaendelea kwa gharama ya shilingi milioni 113.6, matengenezo makubwa na ukarabati sehemu ya Mpanda - Inyonga – Koga na Tabora – Ipole – Koga ambapo kwa sasa Makandarasi wanaendelea na kazi kwa gharama ya shilingi milioni 888.06.</seg>
+          <seg xml:id="seg63">Aidha, Serikali katika mwaka wa fedha 2008/2009 imepanga kuifanyia upembuzi yakinifu (Feasibility Study) na baadaye usanifu (Detailed Design) kwa maandalizi ya kujenga barabara hiyo kwa kiwango cha lami.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u23" who="MheSaidAArfi">
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, nashukuru kwa majibu ya kuridhisha ya Naibu Waziri. Ninauliza, katika bajeti ya mwaka huu, Je Serikali itakuwa tayari kuongeza fedha kwa ajili ya kuimarisha kipande cha kutoka Inyonga hadi Mpanda ambacho hadi sasa hivi hakina changarawe, ni barabara ya udongo?</seg>
+          <seg xml:id="seg65">Swali la pili, kwa kuwa barabara hii imo katika mpango wa kujengwa katika kiwango cha lami ili kuunganisha Mkoa wa Rukwa na Tabora, kadhalika barabara ya kutoka Mpanda kwenda Kigoma ambayo inaunganisha Mkoa wa Rukwa na Kigoma, ni lini kazi hizi za ujenzi wa kiwango cha lami itaanza?</seg>
+          <seg xml:id="seg66">Spika, napenda nimkumbushe Mheshimiwa Arfi kwamba mwaka jana tulitenga hela kwa ajili ya miradi fulani ya maendeleo kutoka Ipole – Koga kuja Mpanda na katika mradi huu kilomita kama 20 hivi zimetengenezwa.</seg>
+          <seg xml:id="seg67">Nataka nimhakikishie Mheshimiwa Mbunge kwamba ziko barabara ambazo kwa Mkoa wa Tabora ambao zilishafanywa feasibility study na design lakini bado tunahangaika kutafuta fedha kwa ajili ya kuzijenga.</seg>
+          <seg xml:id="seg68">Nimhakikishie kwamba na hii barabara anayoizungumzia tutaendelea kuona namna gani kwa kutumia fedha zetu tunaweza kuifanya ipitike kwa wakati wote. Lakini kwanza, haina budi feasibility study ifanyike na design ifanyike ili tujue ni kiasi gani cha cost inayotakiwa kwa ajili ya barabara hii kujengwa kwa kukamilika ili tuweze kutafuta fedha kwa wafadhili mbali mbali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u24" who="MhePonsianoDNyami">
+          <seg xml:id="seg69">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi niulize swali moja la nyongeza. Kwa kuwa barabara hii ya kutoka Mpanda kwenda Tabora wakati mwingi huwa haipitiki na vile vile barabara ya kutoka Mpanda kwenda Kigoma nayo pia huwa haipitiki na kwa hiyo wananchi wanaposafiri lazima watumie njia ya reli tu ambayo na yenyewe wakati wote ni mbovu; pamoja na mipango mizuri ya Serikali ya kuandaa hizo barabara. Je, kwa upande wa reli inayotoka Kaliua kwenda hadi Mpanda, mna mpango gani mahsusi wa kuimarisha ili kusudi wananchi wa Mkoa wa Rukwa wasiendelee kupata tatizo?</seg>
+        </u>
+        <note>(K.n.y. WAZIRI WA MAENDELEO YA MIUNDOMBINU)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u25" who="NaibuWaziriWaMawasilianoSayansiNaTeknolojia">
+          <seg xml:id="seg70">Mheshimiwa Naibu Spika, atakubaliana nami kwamba reli ya Kaliua – Mpanda inapita sehemu ambapo ni tambarare na ni lazima tunyanyue tuta, tuongeze na kokoto ndiyo tuweze kudhibiti reli hii.</seg>
+          <seg xml:id="seg71">Lakini mpango uliopo ni kuondosha zile reli ambazo weight yao ni ndogo na kuweka zenye weight kubwa. Wakati huu wa mvua reli hii inakuwa na matatizo sana kwa sababu maji huwa yanafunika maeneo fulani ya reli hii. Lakini nimhakikishie Mheshimiwa Mbunge kwamba kwa kushirikiana na TRL mbayo tumeikodisha Kampuni hii, tutahakikisha reli hii inapitika ili wananchi wa Mpanda wawe na alternative route ya kusafirisha mizigo yao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u26" who="NaibuSpika">
+          <seg xml:id="seg72">Tukumbuke huyu siyo Naibu Waziri wa Wizara hiyo, lakini mnaona anavyojibu vitu vyake! </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 87. Ufugaji wa Kuhamahama</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u27" who="MheMariaIbeshiHewa">
+          <seg xml:id="seg73">Kwa kuwa kumejitokeza tatizo kubwa nchini, wafugaji wamekuwa wakihamahama kutafuta malisho na maji kwa ajili ya mifugo yao:-</seg>
+          <seg xml:id="seg74">(a) Je, hadi sasa wafugaji wahamiaji hao wako Mikoa ipi walikotengewa kwa</seg>
+          <seg xml:id="seg75">makazi mapya ya kudumu?</seg>
+          <seg xml:id="seg76">(b) Je, ni wafugaji wangapi ambao wanahama toka makazi yao ya zamani</seg>
+          <seg xml:id="seg77">kwenda katika makazi mapya kwa kutafuta maji na malisho kwa mifugo yao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u28" who="NaibuWaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg78">Mheshimiwa Naibu Spika, kabla ya kujibu swali la Mheshimiwa Maria Ibeshi Hewa, Viti Maalum, naomba kutoa maelezo kama ifuatavyo;</seg>
+          <seg xml:id="seg79">Ni mazoea kwa wafugaji kuhamisha makundi ya mifugo kutoka sehemu moja ya nchi hadi nyingine ili kutafuta maji na malisho. Jambo hili limekuwa linafanyika kama njia mojawapo ya kupunguza mifugo kutoka kwenye maeneo yenye mifugo mingi kwenda maeneo yenye mifugo michache ama pasipo na mifugo kabisa. Sababu nyingine zilizochangia uhamaji wa wafugaji ni ongezeko la watu hivyo kusababisha upanuzi wa shughuli za kilimo. Aidha hali ya ukame kupanuka kwa maeneo ya wanyamapori, maradhi ya mifugo, uchimbaji mkubwa wa madini na ukosefu wa miundombinu muhimu kama maji, majosho na minada ni sababu zingine zilizochangia uhamaji wa wafugaji.</seg>
+          <seg xml:id="seg80">Mheshimiwa Naibu Spika, baada ya maelezo hayo sasa naomba kujibu swali la Mheshimiwa Mbunge, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg81">(a) Mheshimiwa Naibu Spika, Serikali inalenga kuondoa tatizo la msongamano wa mifugo katika baadhi ya maeneo nchini kwa kutenga maeneo ya ufugaji kwa kutekeleza mpango wa matumizi bora ya ardhi wakati wa zoezi la upimaji wa vijiji.</seg>
+          <seg xml:id="seg82">Takwimu za Tume ya Mipango ya Matumizi bora ya ardhi zinaonesha kuwa hadi Desemba 2008 vijiji 178 vilikuwa vimepimwa na kutenga jumla ya hekta 930,200 kwa ufugaji katika mikoa 10 ya Morogoro, Pwani, Dodoma, Mbeya, Iringa, Singida, Lindi, Kagera, Tabora na Kigoma.</seg>
+          <seg xml:id="seg83">Mheshimiwa Naibu Spika, utaratibu huu utahakikisha kuwa idadi ya mifugo inazingatia uwezo wa ardhi na maji katika sehemu mbalimbali nchini. Mikoa ambayo haikuwa na mifugo mingi na imeridhia kupokea mifugo ili kupunguza msongamano katika baadhi ya maeneo nchini ni pamoja na Mbeya (Wilaya ya Chunya) Pwani Wilaya ya Kisarawe na Rufuji na Lindi Wilaya za Nachingwea, Kilwa na Lindi Vijijini. Idadi ya wafugaji wahamaji pamoja na mifugo yao waliopokelewa na kupangiwa makazi mapya katika Mikoa hiyo ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg84">Lindi wafugaji 2500 wenye ng’ombe 50,168, mbuzi na kondoo 1911 na punda 59. Mbeya wafugaji 1,200 wenye ng’ombe 55,250, mbuzi na kondoo 9,750 na Pwani wafugaji 850 wenye ng’ombe 7,225, mbuzi na kondoo 1,275. Aidha kaya za wafugaji 47 zenye ng’ombe 22,000 na mbuzi 1,250 zimepokelewa Mkoani Ruvuma.</seg>
+          <seg xml:id="seg85">(b) Mheshimiwa Naibu Spika, usafirishaji wa mifugo kutoka eneo moja kwenda jingine unatekelezwa kwa kuzingatia waraka wa Rais Na.1 wa mwaka 2002 na Sheria ya Magonjwa ya Wanyama Na. 17 ya mwaka 2003. Waraka huo wa Rais unamtaka mfugaji yeyote kupata ridhaa ya Wilaya ama Kijiji anakohamia kabla ya kibali cha kusafirisha mifugo hakijatolewa kule anakotoka. Wafugaji wengi wanazingatia utaratibu huu, kwa mfano mwaka 2006 jumla ya 25,000 walihama ikilinganishwa na wafugaji 16,800 mwaka 2007.</seg>
+          <seg xml:id="seg86">Hata hivyo wapo wachache ambao bila kuelewa wanahama kabla ya kukubaliwa na Wilaya ama vijiji wanakohamia. Tunaendelea kutoa elimu kwa wafugaji wa aina hii ili wasipate usumbufu wowote wanapohitaji kuhama pamoja na mifugo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u29" who="MheMariaIHewa">
+          <seg xml:id="seg87">Mheshimiwa Naibu Spika, nashukuru kwa majibu mazuri ambayo Naibu Waziri ametoa.</seg>
+          <seg xml:id="seg88">Mheshimiwa Naibu Spika, nina maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg89">La kwanza, kwa kuwa makundi haya ya mifugo yanaendelea kuongezeka huko wafugaji wanakoishi hivi sasa, Je, Serikali ina mpango gani endelevu wa kuendelea kuona maeneo mapya mengine ili pindi itakapofika tena tatizo hili kujitokeza, wafugaji hao wasiendelee kubughudhiwa?</seg>
+          <seg xml:id="seg90">La pili; hawa wafugaji wako sasa wametulia huko mahali walikowaonyesha?</seg>
+          <seg xml:id="seg91">Je, Wizara ina mpango gani pamoja na Wizara nyingine au wana ushirikiano upi na Wizara zingine ili mahala hapo sasa wafugaji wanahamisha familia zao walikoziacha kuendelea kuishi na familia zao kwamba kunapatikana mahitaji muhimu kama vile maji, suala zima la afya pmaoja na elimu ili nao wajione ni Watanzania mahala walipo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u30" who="NaibuWaziriWaMaendeleoYaMifugoNaUvuvi">
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Maendeleo ya Mifugo na Uvuvi naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Maria Hewa, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg93">Ni kweli kwamba Serikali inatambua tatizo la makazi litaendelea kuwepo na hivyo imeweka mipango maalumu na itaendelea kutekeleza hiyo mipango ambayo ni kuendelea kupima ardhi za vijiji ili kuweka maeneo ambayo ni wafugaji na ya wakulima.</seg>
+          <seg xml:id="seg94">Mfano katika mwaka huu vijiji 40 zaidi vinatarajiwa kupimwa na kukamilika mwaka 2008 ili kuweka maeneo ambayo ni ya wakulima na wafugaji. Mfano Nachingwea, Mkoa wa Lindi Vijiji 6 vitapimwa, Nkinga – Tanga, vijiji 5 vitapimwa,</seg>
+          <seg xml:id="seg95">Morogoro vijijini 5 vitapimwa, Ulanga kilombero vijiji 4 vitapimwa, Kilombero Ramsa Aerial, Vijiji 20 vitapimwa, kwa hiyo kwa ujumla vijiji 40 vitapimwa.</seg>
+          <seg xml:id="seg96">Mheshimiwa Naibu Spika, Benki ya Dunia itagharamia upimaji wa vijiji 206 katika Wilaya ya Babati na Bariadi na kuandaa pamoja na matumizi ya ardhi, kwa hiyo, Serikali inayo mpango wa kuhakikisha kwamba maeneo ya wafugaji yanapanuliwa.</seg>
+          <seg xml:id="seg97">Mheshimiwa Naibu Spika, kuhusu ni mpango gani umewekwa kuhakikisha kwamba wafugaji wanapohamia huko watoto wao wanasoma, kwanza kabisa, Serikali inachojaribu kufanya ni kuhakikisha kwamba hawa wafugaji wanapokwenda huko wanawekewa Miundombinu ambayo itawafanya wasihame.</seg>
+          <seg xml:id="seg98">Kwa mfano, miundombinu ya Mifugo, kwa sasa hivi marambo mawili yamekamilika Kilwa, Chunya matatu yamekamilika na marambo ambayo yapo katika hatua ya usanifu yakinifu ni Nachingwea, Mbondo limeshakamilika na yanatarajiwa kulimwa.</seg>
+          <seg xml:id="seg99">Lindi, Mji Mwema nalo limekwishafanyiwa usanifu yakinifu. Majosho yaliyokamilika ni Mnyangala, Lindi Vijijini, Mji Mwema, Ulendeko Kilwa na vilevile Pwani tunatarajia ujenzi wa kukarabati ujenzi wa majosho na kujenga kama ifuatavyo:-</seg>
+          <seg xml:id="seg100">Kilwa 2, Mkuranga 2, Mafia 2, Rufiji 2 na Mbeya tunatarajia kujenga majosho 2 na tunafahamu huko wafugaji wanakokwenda hawawekwi mbali kwa hiyo wapo karibu na vijiji, shule zipo na hospitali na familia zao zitahudumiwa.</seg>
+        </u>
+        <note>Na. 88. Sera ya Michezo Nchini</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u31" who="MheSuleimanOKumchaya">
+          <seg xml:id="seg101">Kwa kuwa imefahamika kuwa michezo inasaidia kuleta ajira, na Mheshimiwa Rais wetu anapenda michezo; na kwa kuwa katika Jimbo la Lulindi kuna vijana wengi wenye vipaji vya michezo na wana dhamira ya kutaka kujenga uwanja wa michezo:-</seg>
+          <seg xml:id="seg102">(a) Je, Serikali inaweza kueleza Sera ya Michezo katika nchi ambayo itatoa mchango mkubwa katika kuendeleza michezo katika nchi yetu;</seg>
+          <seg xml:id="seg103">(b) Kwa kuwa mpira wa miguu unapendwa na watu wengi; je, Serikali ipo tayari kuwa na vyuo vya mpira wa miguu ambavyo katika siku za usoni vitakuwa kama vile Brazili ambako timu yetu ya Taifa ilikuwa ikipata mafunzo;</seg>
+          <seg xml:id="seg104">(c) Je, Serikali iko tayari kusaidia au kutoa ushauri kwa wananchi wa Jimbo la Lulindi ambao wameonyesha dhamira ya kujenga uwanja wa kisasa wa mpira wa miguu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u32" who="NaibuWaziriWaHabariUtamaduniNaMichezo">
+          <seg xml:id="seg105">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Habari, Utamaduni na Michezo, napenda kujibu swali la Mheshimiwa Omar Kumchaya, Mbunge wa Lulindi, lenye sehemu (a) (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg106">(a) Mheshimiwa Naibu Spika, Serikali yetu inayo sera ya maendeleo ya Michezo ambayo iliandaliwa mwaka 1995. Sera hii imeeleza bayana juu ya mchango wake katika kuendeleza michezo hapa nchini. Jambo mojawapo la msingi katika sera hiyo linahusu huduma muhimu za kukuza na kuendeleza michezo ikiwa ni pamoja na ubora wa viwanja vya michezo. Kwa sababu hiyo mojawapo ya mambo yanayotakiwa kutekelezwa ni pamoja na Serikali katika ngazi zote kwa kushirikiana na wananchi kuhakikisha kwamba vinakuwepo viwanja na kumbi bora za kutosha na za kisasa vyenye viwango vya kimataifa. Vilevile yatatengwa maeneo maalumu kwa ajili ya viwanja vya michezo na kumbi mbalimbali.</seg>
+          <seg xml:id="seg107">Mheshimiwa Naibu Spika, Sera hiyo ambayo katika kuandaliwa kwake ilizingatia pia sera za nchi nyingine zilizoendelea kimichezo, imeelezea umuhimu wa kuwepo kwa ushirikiano miongoni mwa wadau mbalimbali katika kuendeleza michezo ambayo ni chachu ya maendeleo katika jamii, hasa kwa kuzingatia kwamba maendeleo ya michezo nchini ni suala la mtambuka.</seg>
+          <seg xml:id="seg108">Aidha, kwa kutambua kuwa katika karne ya leo michezo imeleta maendeleo makubwa katika jamii duniani, kwa kuongeza ajira kwa watu binafsi na taasisi mbalimbali za michezo, sera hiyo imebainisha maeneo ya ushirikiano katika kuendeleza michezo ikiwa ni pamoja na mafunzo kwa makocha na waamuzi, kuibua vipaji, utawala, uhamamasishaji, kujenga uwezo na kuongeza uelewa.</seg>
+          <seg xml:id="seg109">(b) Mheshimiwa Naibu Spika, ni kweli kwamba mchezo wa mpira wa miguu unapendwa na watu wengi zaidi duniani. Serikali yetu kwa kutambua kuwa nchi yetu kama ilivyo kwa nchi nyingine ina wapenzi wengi wa mchezo huo, iko tayari kuwa na Vyuo vya mpira wa miguu. Kwa sasa vipo vituo vichache vya mpira wa miguu vilivyoanzishwa na watu binafsi kwa madhumuni ya kuinua na kuibua vipaji na kuendeleza mchezo huo hapa nchini.</seg>
+          <seg xml:id="seg110">Baadhi ya vituo hivyo ni pamoja na Makongo Sekondari, Pangolin Football Academy, DYOC, Elite Youth Sports Academy, Rolling Stone Youth Sports Academy Arusha, Morogoro Youth Sports Academy na kadhalika. Serikali kwa upande wake inafanya maandalizi ya kuimarisha Chuo cha Maendeleo ya Michezo cha Malya kilichopo Mkoani Mwanza ili kiweze kutoa wataalamu wa michezo mbalimbali watakaoweza kufundisha vizuri na hivyo kuibua vipaji na kuendeleza michezo hiyo hapa nchini.</seg>
+          <seg xml:id="seg111">(c) Mheshimiwa Naibu Spika, Serikali iko tayari kushirikiana na wananchi wa Jimbo la Lulindi ambao wameonyesha dhamira ya kujenga uwanja wa kisasa wa mpira</seg>
+          <seg xml:id="seg112">wa miguu kama ilivyofanya katika kujenga viwanja vya michezo huo sehemu mbalimbali katika Wilaya na Mikoa katika kufanikisha ujenzi wa uwanja utakaojengwa. Serikali inayo wataalamu ambao wataweza kutoa ushauri katika kufanikisha ujenzi wa uwanja utakaojengwa. Hata hivyo, ningependa kuchukua nafasi hii kumpongeza Mheshimiwa Kumchaya kwa namna anavyofuatilia kuona vijana katika Jimbo lake wanaendelea kimichezo na kuona kwamba uwanja wa kisasa unajengwa katika Jimbo lake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u33" who="MheSuleimanOKumchaya">
+          <seg xml:id="seg113">Ahsante sana Mheshimiwa Naibu Spika, kwa kunipa nafasi hii kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg114">Pamoja na majibu mazuri sana ya Mheshimiwa Naibu Waziri, napenda kumwuliza maswali mawili kama ifuatavyo:-</seg>
+          <seg xml:id="seg115">(1) Kwa kuwa wananchi wa Jimbo la Lulindi wameonesha dhamira ya kujenga uwanja wa kisasa wa mpira wa miguu; je, yupo tayari kufanya ziara kwa Jimbo la Lulindi ili kuwapa hamasa wananchi hawa ama Waziri mwenyewe?</seg>
+          <seg xml:id="seg116">(2) Kwa kuwa tupo katika mchakato wa kutafuta timu bora ya Taifa ya mpira wa miguu; je, Serikali iko tayari kuiruhusu TFF yaani Chama cha Mpira wa Miguu Tanzania kumruhusu mwalimu wa mpira Marcio Maximo kufanya ziara katika mikoa ya Kusini ambako atakutana na vijana wenye vipaji vya mpira wa miguu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u34" who="NaibuWaziriWaHabariUtamaduniNaMichezo">
+          <seg xml:id="seg117">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Habari Utamaduni na Michezo, ningependa kujibu maswali mawili ya Mheshimiwa Kumchaya, Mbunge wa Lulindi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg118">Kwanza kabisa naomba nikubaliane na yeye kwamba wakati wowote tuko tayari kutembelea Jimbo lake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u35" who="NaibuSpika">
+          <seg xml:id="seg119">Ni baada ya Bunge siyo saa yoyote hata sasa! </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u36" who="NaibuWaziriWaHabariUtamaduniNaMichezo">
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, ni baada ya Bunge siyo sasa. Swali lake la pili kuhusu Maximo ama Tinoko kutembelea eneo lake hasa Kanda ya Kusini nataka nimhakikishie kuwa tuko tayari kabisa kutembelea eneo hilo na tunawaomba TFF wapange ratiba ili Maximo aende Mtwara, Lindi na maeneo mengine.</seg>
+          <seg xml:id="seg121">Mheshimiwa Naibu Spika, nataka nimhakikishie Mheshimiwa Mbunge kwamba ni juzi tu Ndugu Maximo alikuwa Mtwara kwa lengo hilo hilo la kutafuta vipaji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u37" who="MheSalumHemedKhamis">
+          <seg xml:id="seg122">Nakushukuru Mheshimiwa Naibu Spika, kwa kunipa nafasi kuuliza swali moja la nyongeza. Kwa kuwa sera ya kupiga marufuku michezo mashuleni ambayo iliwahi kufanywa na Wizara husika ilipunguza kwa kiasi kikubwa idadi ya vipaji ya vijana wetu mashuleni na kote nchini na pengine hata kusababisha kutokuwa na timu nzuri za Taifa; je, Serikali iko tayari kulihakikishia Bunge hili kuwa sera za aina hii hazipewi tena nafasi wakati wa kuandaa sera mpya za michezo?</seg>
+          <seg xml:id="seg123">naomba kumjibu Mheshimiwa Mbunge, swali lake la nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg124">Mheshimiwa Naibu Spika, nakubaliana na yeye kwamba hapa katikati kulikuwa na kukatishwa kwa michezo katika mashule lakini si kufundisha darasani ilikuwa ni mashindano, lakini nataka nimhakikishie kwamba Serikali baada ya kuliona hilo sasa hivi tumejipanga vizuri, michezo imekwisharudishwa mashuleni, sekondari na vyuo. Kwa hiyo, suala hilo halipo tena, na atakumbuka yeye mwenyewe kwamba Mheshimiwa Rais ndiye amekwenda kufungua mashindano haya Kibaha kama ishara ya kuonesha kwamba michezo imekwisharudi mashuleni na programu zinaandaliwa ili utaratibu wa zamani uliokuwepo uendelee kuwepo.</seg>
+          <seg xml:id="seg125">Mheshimiwa Naibu Spika, nataka nimhakikishie kabisa kwamba sera hizo hazitarudiwa na hazitakuwepo tena.</seg>
+        </u>
+        <note>Na. 89. Kero ya Umeme Unaotumika Sumbawanga Kutoka Nchini Zambia</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u38" who="MhePaulPKimiti">
+          <seg xml:id="seg126">Kwa kuwa tatizo la kukatika mara kwa mara umeme unaotoka Zambia kuingia Mji wa Sumbawanga husababisha adha kubwa, hasara na kero kubwa kwa wananchi:-</seg>
+          <seg xml:id="seg127">(a) Je, kuna sheria inayowalinda wananchi wa Sumbawanga wanaosumbuliwa na hali hiyo ambayo inasababisha uharibifu wa baadhi ya vifaa vyao?</seg>
+          <seg xml:id="seg128">(b) Je, Serikali ina madaraka yapi ndani ya mikataba iliyosainiwa ya kutufanya tuamini kuwa mikataba hiyo haiwezi kuvunjwa kisiasa au kiuchumi bila hata notice na kuathiri uchumi wa wananchi wanaotegemea umeme huo wa nchi jirani?</seg>
+          <seg xml:id="seg129">(c) Je, kwa nini Serikali isirudishe generators zilizokuwa zimefungwa ili zitumike wakati wa shida ya umeme kabla ya mpango wa kuiweka Sumbawanga kwenye gridi ya Taifa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u39" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg130">Mheshimiwa Naibu Spika, kabla ya kujibu swali la Mheshimiwa Paul Peter Kimiti, Mbunge wa Sumbawanga Mjini, naomba kutoa maelezo ya utangulizi yafuatayo:-</seg>
+          <seg xml:id="seg131">Mheshimiwa Naibu Spika, Mji wa Sumbawanga ulianza kupata umeme kutoka katika kituo cha umeme kilichopo Mbala nchini Zambia tangu Desemba, 2001 baada ya mradi uliofadhiliwa na nchi ya Norway kukamilika. Umeme huo husafirishwa umbali wa</seg>
+          <seg xml:id="seg132">kilometa 720 kutoka Mbala nchini Zambia hadi Sumbawanga kwa msongo wa kV 66. Makubaliano ya awali yalikuwa kuupatia Mji wa Sumbawanga umeme wa msongo wa kV 66 kisha baadaye ku-upgrade hadi msongo wa kV 132 lakini hadi sasa Mji huo bado unapata umeme wa msongo kV 66.</seg>
+          <seg xml:id="seg133">Mheshimiwa Naibu Spika, Mji wa Sumbawanga kwa sasa una mahitaji ya umeme ya Megawati tatu. Kwa kipindi kirefu, upatikanaji wa umeme katika Mji wa Sumbawanga siyo wa uhakika kutokana na kukatikakatika kunakosababishwa na uchakavu wa miundombinu na pia voti kubadilikabadilika (voltage fluctuation) kunakosababishwa na umbali mrefu kutoka Zambia.</seg>
+          <seg xml:id="seg134">Mheshimiwa Naibu Spika, baada ya maelezo ya utangaulizi, naomba kujibu swali la Mheshimiwa Paul Peter Kimiti, Mbunge wa Sumbawanga Mjini, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg135">(a) Mheshimiwa Naibu Spika, kuna Sheria ya Umeme (Electricity Ordinance Cap. 131) inayomlinda mteja wa umeme kwa kumtaka mtoa huduma ya umeme kumlipa fidia endapo utatokea uharibifu wa vifaa vyake uliosababishwa na mtoa huduma. Japo umeme wa Sumbawanga unatoka Zambia, Sheria ya Umeme ya Tanzania ndiyo inayomlinda mtumiaji wa umeme Sumbawanga.</seg>
+          <seg xml:id="seg136">(b) Mheshimiwa Naibu Spika, mpaka sasa hakuna mkataba kati ya TANESCO na ZESCO wa kuuziana umeme (Power Purchase Agreement) kwa Mji wa Sumbawanga, kutokana na ZESCO kupeleka umeme Sumbawanga kwa msongo wa kV 66 badala ya kV 132 iliyohitajiwa na TANESCO. Viwango vinavyotumika sasa ni vile vilivyomo kwenye mkataba wa kuuziana umeme kati ya Tunduma na Nakonde (Nakonde Tunduma Power Purchasing Agreement).</seg>
+          <seg xml:id="seg137">(c) Mheshimiwa Naibu Spika, Serikali imepokea mapendekezo mawili kutoka TANESCO ya kumaliza tatizo la umeme Sumbawanga wakati Mji huo ukisubiri kuunganishwa kwenye gridi ya Taifa.</seg>
+          <seg xml:id="seg138">Mheshimiwa Naibu Spika, pendekezo la kwanza ni la kukarabati mitambo iliyokuwepo ambayo baada ya kuanza kupata umeme toka Zambia baadhi ya vipuri vyake vilipelekwa kukarabati mitambo mingine katika sehemu nyingine za nchi yetu. Gharama za ukarabati huo ni takriban Shilingi bilioni 3. Hata hivyo, mitambo hiyo itakuwa na uwezo wa kuzalisha umeme wa megawati mbili wakati mahitaji halisi kwa sasa kwa Mji wa Sumbawanga yamefikia megawati tatu. Pendekezo la pili ni la kununua mitambo mipya yenye uwezo wa kuzalisha megawati nne ambazo zitakidhi mahitaji ya sasa ya Mji wa Sumbawanga. Gharama za ununuzi wa mitambo hiyo ni shilingi bilioni 10.</seg>
+          <seg xml:id="seg139">Mheshimiwa Naibu Spika, kwa sasa Serikali inayapitia mapendekezo hayo ili kuona pendekezo ambalo litafaa kutoa ufumbuzi wa tatizo la umeme wa Sumbawanga. Hata hivyo, Serikali inafahamu kuwa suluhisho lililo sahihi ni kuunganisha haraka mji huu kwenye gridi ya Taifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u40" who="MhePaulKimiti">
+          <seg xml:id="seg140">Mheshimiwa Naibu Spika namshukuru Waziri kwa majibu yake mazuri, nina maswali mawili ya nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg141">Kwa kuwa katika kipindi cha mwaka jana 2007 umeme katika Mji wa Sumbawanga ulikatika mara 1360 na kusababisha hasara kubwa sana katika Mji huo, lakini pia katika hali hiyo umeme umekatika bila wao kuomba radhi; umekatika wakati Rais na wakati Waziri Mkuu wapo pale hata radhi hawakuomba:-</seg>
+          <seg xml:id="seg142">(1) Je, Mheshimiwa Waziri atanipa nakala ya sheria iliyopo ili wananchi wa Sumbawanga wafungue mashitaka dhidi ya TANESCO kwa kuleta hasara katika Mji wao?</seg>
+          <seg xml:id="seg143">(2) Kwa kuwa kilio cha umeme kutoka Zambia kimekuwa kwa wenzetu wa Tunduma na Sumbawanga na Jumatatu Mheshimiwa Ludovick Mwananzila, Mheshimiwa Mpesya, Mheshimiwa Dr. Siyame, Mheshimiwa Zambi wamelalamikia suala hili; je, Waziri atakubaliana nami kwamba badala ya kuiomba Serikali ianze kutafuta fedha, watumie fedha zilizosalia kutoka NORAD za kukamilisha mradi kutoka Zambia kuja Sumbawanga zitumike katika kununua mitambo hiyo haraka iwezekanavyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u41" who="NaibuSpika">
+          <seg xml:id="seg144">Mheshimiwa Waziri, majibu kwa kifupi sana, kwanza ni kuomba radhi. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u42" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg145">Ahsante Mheshimiwa Naibu Spika, kwa nafasi hii napenda kujibu maswali mawili ya nyongeza kutoka kwa Mheshimiwa Kimiti, kama ifuatavyo:-</seg>
+          <seg xml:id="seg146">Mheshimiwa Naibu Spika, jambo la kwanza tuko tayari kutoa hii sheria ya umeme ya mwaka 1931 kwa Mheshimiwa Kimiti ili aone ni jinsi gani anaweza kuitumia.</seg>
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, jambo la pili Serikali iko tayari kufanya majadiliano na mfadhili aliyetusaidia kufadhili mradi ule wa Serikali ya Norway kupitia shirika lake la NORAD kuweza kuona kama kiasi cha fedha ambaco kilibaki kama kinaweza kusaidia, lakini ukweli ni kwamba kile kiasi hakitoshi kwa sababu kwa mahitaji ya sasa megawati 3 tunahitaji shilingi bilioni 10 na kiasi kilichobaki ingawa sina takwimu sahihi hapa lakini hazitoshi.</seg>
+          <seg xml:id="seg148">Tunakubali kabisa kwamba ni jambo la msingi kwamba ni vema tutumie hizo fedha kwa sehemu ya uwezeshaji wa kupata fedha za kuweza kununua hiyo mitambo kwa gharama ya shilingi bilioni 10.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u43" who="MheDrLucasJSiyame">
+          <seg xml:id="seg149">Mheshimiwa Naibu Spika, nashukuru sana, kwa kuwa Mji wa Tunduma umethibitika kwamba umekwishaingizwa katika gridi ya Taifa ya umeme lakini mfumo wake wa usambazaji bado ni ule ule wa umeme uliokuwa ukitoka Zambia wa kV 11 badala ya 33; je, Mheshimiwa Waziri anaweza sasa kuwahakikishia wananchi wa Tunduma kuwa wataunganishiwa au kurekebishiwa ule</seg>
+          <seg xml:id="seg150">mfumo wa umeme hivi sasa ili yale majokofu na ile mitambo ya kuvutia maji iweze kufanya kazi na hivyo kuwawezesha kupata umeme wa uhakika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u44" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg151">Mheshimiwa Naibu Spika, napenda kujibu swali la nyongeza kutoka kwa Mheshimiwa Lucas Siyame, kama ifuatavyo:-</seg>
+          <seg xml:id="seg152">Ni kweli tunapenda kuwahakikishia wananchi wa Jimbo lake lakini pia na wananchi wa maeneo mengine ambao wana matatizo ya umeme kwamba Serikali inaendelea na juhudi za kutafuta fedha, kikwazo hapa kinachotuchelewesha kurekebisha ama kuboresha mambo mengi ni upungufu wa fedha.</seg>
+          <seg xml:id="seg153">Mheshimiwa Naibu Spika, lakini namhakikishia Mheshimiwa Mbunge kama ambavyo tulimjibu juzi kuwa tunaendelea na juhudi za kupata fedha ili tuendelee kuboresha huduma katika maeneo mbalimbali ya nchi.</seg>
+        </u>
+        <note>Na. 90. Malipo ya Wastaafu wa Afrika Mashariki</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u45" who="MheMohamedHabibJumaMnyaa">
+          <seg xml:id="seg154">Kwa kuwa wakati wa Mkutano wa Nane wa Bunge, Serikali ilipokuwa ikijibu swali la nyongeza kwa swali Na. 69 ilisema kuwa wastaafu wa Afrika Mashariki wanatakiwa kuchukua fedha zao kwa kuwa zipo; na kwa kuwa wastaafu ambao hawajapata mafao wapo na baadhi yao wamefariki lakini warithi wao wapo na ni suala la muda mrefu:-</seg>
+          <seg xml:id="seg155">(a) Je, ni nini hasa kinakwamisha malipo ya watu hao kwa muda wote huo?</seg>
+          <seg xml:id="seg156">(b) Je, wastaafu walioko Zanzibar wanachukulia wapi mafao yao?</seg>
+          <seg xml:id="seg157">(c) Je, Serikali inahitaji masharti gani yatimizwe ndipo wastaafu hao walipwe?</seg>
+          <seg xml:id="seg158">NAIBU WAZIRI WA FEDHA NA UCHUMI (MHE. OMAR YUSUF MZEE)alijibu:-</seg>
+          <seg xml:id="seg159">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Uchumi, naomba kujibu swali la Mheshimiwa Mohamed Habib Juma Mnyaa, Mbunge wa Mkanyageni, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg160">(a) Mheshimiwa Naibu Spika, kuchelewa kwa malipo ya wastaafu kunachangiwa zaidi na mambo yafuatayo:-</seg>
+          <seg xml:id="seg161">(i) Kuchelewa kupatikana kwa nyaraka au vitambulisho halisi ambavyo vinamtambulisha mhusika kwamba alikuwa mtumishi wa Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg162">(ii) Kuchelewa kupatikana kwa Hati ya mirathi kutoka Mahakamani ambayo humtambulisha msimamizi wa mirathi.</seg>
+          <seg xml:id="seg163">(iii) Kuchelewa kupatikana kwa cheti cha kifo cha Mtumishi aliyefariki.</seg>
+          <seg xml:id="seg164">(b) Mheshimiwa Naibu Spika, kuanzia tarehe 14 Januari, 2006, Serikali iliamua kuwalipa wastaafu wa Afrika Mashariki kupitia Hazina ndogo zilizoko Mikoani na kwa wale walioko Zanzibar kupitia Ofisi za Hazina, SMZ. Kwa kuwa idadi ya wanaolipwa kwa kila siku imepungua, wastaafu wote wanatakiwa kuchukulia malipo yao Kituo cha Hazina kilichopo Mtaa wa Mkwepu, Dar es Salaam.</seg>
+          <seg xml:id="seg165">(c) Mheshimiwa Naibu Spika, kabla ya mstaafu hajalipwa malipo yake, anapaswa kwanza kutimiza au kutekeleza mambo yafuatayo:-</seg>
+          <seg xml:id="seg166">(i) Kuwasiliana na Shirika alilofanyia kazi kabla ya kuvunjika kwa Jumuiya ili aweze kutambuliwa na kupata.</seg>
+          <seg xml:id="seg167">(ii) Kuwasilisha picha ndogo tatu kwenye Shirika alilolitumikia.</seg>
+          <seg xml:id="seg168">(iii) Kuwasilisha kwenye Shirika alilofanyia kazi nyaraka na vielelezo halisi vinavyoonyesha kwamba mstaafu alikuwa mtumishi katika Shirika husika kama vile barua ya ajira, namba ya ajira, hati ya malipo ya mshahara ya mwezi Juni, 1977.</seg>
+          <seg xml:id="seg169">Kwa upande wa mirathi, pamoja na vithibitisho nilivyovitaja warithi wanapaswa kuwasilisha nyaraka zifuatazo:-</seg>
+          <seg xml:id="seg170">(I) Hati ya Mirathi.</seg>
+          <seg xml:id="seg171">(ii) Nakala ya Cheti ya Kifo.</seg>
+          <seg xml:id="seg172">(iii) Muhtasari wa Kikao cha Wanandugu.</seg>
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, baada ya kukamilisha mahitaji niliyoyataja hapo juu, Shirika husika huwasilisha barua ya kumtambulisha mstaafu pamoja na jalada la mhusika katika ofisi ya Hazina, Makao Makuu, kwa ajili ya kutayarishwa malipo.</seg>
+          <seg xml:id="seg174">Mheshimiwa Naibu Spika, baada ya kutimiza mahitaji hayo mhusika hutayarishiwa na baadaye hupatiwa malipo yake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u46" who="MheHabibJumaMnyaa">
+          <seg xml:id="seg175">Mheshimiwa Naibu Spika, nashukuru kwa majibu mazuri ya Mheshimiwa Naibu Waziri yanayofurahisha pamoja na kwamba hakuihusisha RITA katika kutafuta vielelezo, hata hivyo, nina maswali mawili ya nyongeza:-</seg>
+          <seg xml:id="seg176">(a) Ningependa kujua ikiwa wameshatayarisha hundi za malipo na kuna wastaafu hawajakwenda kuzichukua na kama hawajakwenda kuzichukua wangejijua vipi kama</seg>
+          <seg xml:id="seg177">malipo yao yamekwishatayarishwa wakaondoa msongamano wa wengine kufuatilia Ikulu?</seg>
+          <seg xml:id="seg178">(b) Kwa kuwa kuna mapunjo kwa hawa wastaafu kwa wale wastaafu ambao wamestaafu kwa idadi ya miaka sawa na kazi zinazofanana lakini malipo yao hayafanani; na kwa kuwa kuna kesi nyingi za namna hiyo hata kusababisha baadhi yao kwenda mahakamani, mfano kesi Na. 84 ya mwaka 2006 faili namba 5939 na zipo za namna nyingi kama hiyo; je; Wizara yako itafanya nini kuhakikisha tatizo hili la kupunjwa halitokei?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u47" who="NaibuWaziriWaFedhaNaUchumiMheOmarYusufMzee">
+          <seg xml:id="seg179">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Uchumi napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Mohamed Habib Mnyaa, kama ifuatavyo:-</seg>
+          <seg xml:id="seg180">(a) Baada ya kupata taarifa kwamba wastaafu hawa tunawatayarishia malipo yao, jumla ya wastaafu 44,807 ndiyo waliokuwepo katika mashirika mbalimbali, wastaafu 37,100 mafaili yao yameonekana na wametayarishiwa malipo yao. Kati ya wastaafu hao 6336 hawakuja kuchukua hundi zao, tulichokifanya tumewajulisha kupitia magazeti ili waweze kuja kuzichukua na bado tunaendelea kuwajulisha kupitia kwenye magazeti. Sasa tunachokifanya kwa wale ambao wanajitokeza kuleta nyaraka zao ni pamoja na kuchukua namba zao za simu ili kuweza kuwafuatailia pale tunapomaliza kuwafuatilia waje kuchukua hundi zao.</seg>
+          <seg xml:id="seg181">(b) Mheshimiwa Naibu Spika, jambo la pili malipo kutokufanana, ni lazima tukubali kwamba hawa wastaafu wa Afrika Mashariki waliajiriwa katika mashirika mbalimbali ya iliyokuwa Afrika Mashariki na waliajiriwa katika vipindi mbalimbali. Nataka niseme kwamba ni dhahiri malipo yao yanaweza yakatofautiana kutokana na muda waliofanya kazi, lakini kama wapo ambao malipo yao yametofautiana na wameajiriwa katika kipindi kimoja na muda waliofanya kazi ni mmoja basi ni dhahiri kwamba ninawaomba waje ofisini ili tuweze kulitatua suala hili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u48" who="MheHamadRashidMohammed">
+          <seg xml:id="seg182">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi hii kuuliza swali moja la nyongeza:-</seg>
+          <seg xml:id="seg183">Kwa kuwa kutokana na maelezo ya majibu ya Mheshimiwa Waziri, kwamba wastaafu hawa wakikamilisha masharti fulani wanatakiwa kulipwa; na kwa kuwa wapo wastaafu ambao wamekwishakamilisha masharti hayo, na sisi Wabunge tumeandika barua zaidi ya sita kuwaulizia haki zao na mpaka leo hawajapata; ikiwa Mbunge kafuatilia jambo hili mara nne na mhusika hajapata haki yake; je, si kweli kwamba hawa wahusika wanapata matatizo makubwa ya kupata haki zao kiasi kwamba umefika wakati kwa Wabunge kuunda Kamati ili kuchunguza jambo hili ambalo limechukua muda mrefu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u49" who="NaibuSpika">
+          <seg xml:id="seg184">Select committee hakuna! </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u50" who="NaibuSpika">
+          <seg xml:id="seg185">NAIBU WAZIRI WA FEDHA NA UCHUMI (MHE. OMAR YUSUF MZEE) Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Uchumi napenda kujibu swali la Mheshimiwa Mbunge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg186">Mheshimiwa Naibu Spika, kwanza nakubaliana na wewe kwamba Select Committee hakuna, lakini jambo la pili nataka nimhakikishie Mheshimiwa Mbunge kwamba bado fedha za kuwalipa wastafu hawa zipo, na kama yupo mstaafu ambaye yeye ana nyaraka kamili basi tuonane baada ya kipindi hiki cha Bunge ili niweze kumsaidia.</seg>
+        </u>
+        <note>Na. 91. Uwezeshaji Wananchi Kiuchumi Kupitia Mikopo ya Benki</note>
+        <note>(K.n.y. MHE.MBARUK K. MWANDORO)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u51" who="MheFuyaGKimbita">
+          <seg xml:id="seg187">Kwa kuwa wananchi wengi wa Wilaya ya Mkinga, wamehamasika sana kujikomboa kiuchumi kwa kuunda vikundi vingi vya uzalishaji, biashara na mipango ya maendeleo; na kwa kuwa Benki bado zina milolongo na vikwazo vingi ambapo wananchi wengi hushindwa kupata mkopo kama inavyotarajiwa:-</seg>
+          <seg xml:id="seg188">(a) Je, Serikali haioni umuhimu wa kuwaondolea vikwazo kama vile benki ya CRDB kulazimisha wananchi wa Wilaya ya Mkinga kuchukua mikopo yao kupitia SACCOS ya Maramba?</seg>
+          <seg xml:id="seg189">(b) Je, Serikali inaweza ikashauri benki ya NMB kutolazimisha wanavikundi wa Wilaya ya Mkinga kuchukua mikopo kupitia Tawi la NMB Muheza badala ya matawi ya NMB ya Tanga ambayo yapo karibu zaidi na Wilaya ya Mkinga?</seg>
+          <seg xml:id="seg190">(c) Je, Serikali inakusudia kuchukua hatua zipi kwa ujumla zenye madhumuni ya kuwaondolewa wananchi kero kubwa wanazozikabili katika kupata mikopo kama inavyotarajiwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u52" who="NaibuWaziriWaFedhaNaUchumiMheJeremiahSSumari">
+          <seg xml:id="seg191">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Uchumi, napenda kujibu swali la Mheshimiwa Mbaruk Kassim Mwandoro, Mbunge wa Mkinga, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg192">(a) Mheshimiwa Naibu Spika, CRDB Tawi la Tanga ilikuwa na ubia na Muungano SACCOS ambayo iko makao makuu ya Wilaya ya Mkinga. Hata hivyo, kutokana na SACCOS kutokidhi masharti ya kupatiwa mikopo nafuu na Benki ya CRDB, Benki hiyo iliwashauri wananchi wajiunge na SACCOS ya Maramba ili waweze kupata mikopo zaidi kupitia mpango wa Serikali wa utoaji wa mikopo nafuu. Maramba</seg>
+          <seg xml:id="seg193">SACCOS imekwishapewa mkopo wa shilingi milioni 15 na benki ya CRDB kupitia mpango huo wa Serikali.</seg>
+          <seg xml:id="seg194">Aidha, baada ya wananchi kuitikia mwito wa kujiunga na Maramba SACCOS benki ya CRDB imetoa mkopo mpya wa shilingi milioni 73.13 kwa SACCOS ya Maramba na hivyo kufanya jumla ya mikopo iliyotolewa kwa Maramba SACCOS kufikia shilingi milioni 88.13.</seg>
+          <seg xml:id="seg195">Mheshimiwa Naibu Spika, katika juhudi za kuwapatia huduma za kifedha wananchi wa Mkinga, Benki ya CRDB inasaidia katika uundaji wa SACCOS mpya mbili ambazo ni Kibafuta SACCOS na Mtingwani SACCOS ambayo ni ya akina mama.</seg>
+          <seg xml:id="seg196">(b) Mheshimiwa Naibu Spika, Benki ya NMB inatoa huduma ya mikopo kwa wananchi walio katika upenyo (radius) wa kilomita 20 kutoka lilipo tawi la Benki bila kujali mipaka ya kiutawala ya Serikali. Uamuzi huo ni katika kuipunguzia Benki hiyo gharama za uendeshaji. Ni vema wananchi wa Wilaya ya Mkinga kwa kusaidiana na Mheshimiwa Mwandoro, Mbunge wao, wawasiliane na uongozi wa NMB ili kuweza kujua ni matawi yapi ya Benki hiyo yanaweza kutoa huduma kwa wananchi wa Wilaya ya Mkinga kwa kuzingatia kigezo cha ukomo wa umbali wa kutoa huduma wa benki ya NMB.</seg>
+          <seg xml:id="seg197">(c) Mheshimiwa Naibu Spika, kama ilivyofafanuliwa katika hotuba ya bajeti ya Serikali ya mwaka 2007/2008, Serikali inachukua hatua mbalimbali madhubuti zenye kulenga kuwawezesha wananchi kupata mikopo kwa ajili ya shughuli mbalimbali za maendeleo. Juhudi hizo ni pamoja na:-</seg>
+          <seg xml:id="seg198">(i) Kuharakisha utekelezaji wa awamu ya pili ya mageuzi ya sekta ya fedha ambayo itawezesha wananchi wengi zaidi kupata mikopo kwa ajili ya uzalishaji, kujenga nyumba, biashara na mikopo ya mali za kukodi.</seg>
+          <seg xml:id="seg199">(ii) Kuendelea kujenga mazingira mazuri ya kujenga tabia ya kujiwekea akiba kwa kuhamasisha uundaji wa SACCOS na aina nyingine ya vyama vya ushirika ili kupata fursa ya kukopa; na</seg>
+          <seg xml:id="seg200">(iii) Kuimarisha mifuko ya dhamana inayosimamishwa na Benki Kuu ya Tanzania ili kuweza kutoa dhamana kwa wajasiriamali wengi zaidi kuliko ilivyo hivi sasa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u53" who="MheFuyaGKimbita">
+          <seg xml:id="seg201">Namshukuru sana Mheshimiwa Waziri kwa majibu yake. Kwa sababu Mheshimiwa Waziri amekwishatuelezea mikakati yote iliyopo ningependa nimwulize; je, katika zile pesa Mheshimiwa Rais zinazofahamika kwa ujumla kama mabilioni ya JK ile awamu ya pili itaanza lini kufika katika zile taasisi zingine mbali ya CRDB na NMB? Kwa mfano, watu wa SICALT Benki ya Ushirika ya Kilimanjaro, pamoja na maeneo mengine nchini ili hizi pesa ziweze kwenda kuwasaidia hawa wananchi kama ilivyokusudiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u54" who="NaibuSpika">
+          <seg xml:id="seg202">Mheshimiwa Naibu Waziri, kwa kifupi sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u55" who="NaibuWaziriWaFedhaNaUchumiMheJeremiaSSumari">
+          <seg xml:id="seg203">Mheshimiwa Naibu Spika…!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u56" who="NaibuSpika">
+          <seg xml:id="seg204">Hapana, swali la nyongeza ni la Mheshimiwa Kimbita. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u57" who="NaibuWaziriWaFedhaNaUchumiMheJeremiaSSumari">
+          <seg xml:id="seg205">Mheshimiwa Naibu Spika, kwamba mpango huu wa uwezeshaji na kukuza ajira ulikuwa na awamu mbili, awamu ya kwanza ilianza mwaka juzi tarehe 28 Januari na awamu ya pili ya kiasi cha shilingi bilioni 10.50 ilianza na kuzinduliwa tarehe 30 Desemba,2007 na tayari asasi 13 ambazo ziliteuliwa zimekwishapewa fedha ambazo tunatarajia zitaanza sasa kutolewa kama mikopo kwa wananchi. Katika Wilaya zetu Wilaya 21 zilikuwa hazijafikiwa kwenye awamu ya kwanza na hizo zimegawiwa shilingi milioni 200 kila moja na Wilaya 46 ambazo hazikufikiwa vya kutosha zimetengewa shilingi milioni 100 kwa kuanzia na fedha hizo tunategemea sasa kwamba hizo asasi za fedha zitakuwa zinafanya kazi ya kutoa mikopo kama ilivyokusudiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u58" who="MheGodfreyWZambi">
+          <seg xml:id="seg206">Mheshimiwa Naibu Spika, nashukuru kupata nafasi ya kuuliza swali la nyongeza. Kwa kuwa azma ya Serikali ni kuhakikishia kuwa wananchi wanapata mikopo ili kuweza kujikomboa kwenye umaskini; na kwa kuwa Wilaya ya Mbozi ilipata bahati ya kuwa na hati za kimila ambazo zinawaruhusu wananchi kukopa kutoka kwenye mfuko wa pembejeo wa Taifa, lakini bahati mbaya sana hati hizo za kimila haziruhusiwi na vyombo vya kifedha kama vile mabenki; je, Serikali itakuwa tayari kurekebisha hati zile za kimila au kuhamasisha mabenki yaweze kukubali hati zile za kimila wananchi waweze kupata pia mikopo ili kujinasua kwenye umaskini? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u59" who="NaibuSpika">
+          <seg xml:id="seg207">Mheshimiwa Naibu Waziri majibu, tena kwa kifupi!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u60" who="NaibuWaziriWaFedhaNaUchumiMheJeremiaSSumari">
+          <seg xml:id="seg208">Mheshimiwa Naibu Spika, kwamba zile hati za kimila mategemeo ya Serikali ni kwamba vyombo vya Fedha vitazitambua kwamba zinaweza kutolewa kama dhamana na kwamba wataziheshimu na kutoa mikopo pale ambapo mwananchi anazitumia kupata mkopo.</seg>
+          <seg xml:id="seg209">Lakini ikiwa kuna matatizo katika jimbo la Mheshimiwa Mbunge ama Mheshimiwa Mbunge yoyote kwamba hilo halijatokea, basi Serikali iko tayari kushirikiana naye na tutazame kiini ni nini. Kwamba vile vile tutashirikiana na benki kuwahimiza kukubali hilo, tunakiri ndiyo tutafanya hivyo.</seg>
+        </u>
+        <note>Na. 92. Ujenzi wa maabara katika sekondari nchini</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u61" who="MheStephenJGalinoma">
+          <seg xml:id="seg210">Kwa kuwa katika bajeti ya Wizara ya Elimu na Mafunzo ya Ufundi ya mwaka 2006/2007 Serikali iliahidi kwamba maabara 84 zitajengwa kwenye shule za sekondari nchini; je, ni maabara ngapi zimejengwa na kwa nini Wilaya ya Iringa haikujengewa maabara hata moja?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u62" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg211">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Stephen Galinoma, Mbunge wa Kalenga, kama ifuatavyo:-</seg>
+          <seg xml:id="seg212">Mheshimiwa Naibu Spika, katika bajeti ya mwaka 2006/2007 Serikali ilitenga fedha kwa ajili ya ujenzi wa maabara 42. Maabara 2 zilipangwa kujengwa katika kila Mkoa. Makubaliano yalikuwa kila Mkoa kuchagua shule moja ambayo itapatiwa fedha za ujenzi wa maabara 2. Mikoa yote iliwasilisha mapendekezo ya shule hizo ambazo Wizara ilipeleka fedha kwa ajili hiyo. Katika Mkoa wa wa Iringa Shule ya Sekondari ya Iwawa iliyopo Wilaya ya Makete ilipewa jumla ya shilingi milioni 28 kwa ajili ya ujenzi wa maabara hizo.</seg>
+          <seg xml:id="seg213">Mwaka 2007/2008 Serikali ilitenga fedha za ujenzi wa maabara 84, maabara 4 kwa kila Mkoa. Shule za sekondari 4 ziliainishwa na Mkoa wa Iringa kupatiwa fedha za ujenzi wa maabara ambapo kila shule ilipelekewa shilingi 14,000,000/-. Shule hizo ni Kalenga katika Wilaya ya Iringa Vijijini, Selebu Wilaya ya Kilolo, Igowole Wilaya ya Mufindi na Makambako Wilaya ya Njombe.</seg>
+          <seg xml:id="seg214">Mheshimiwa Naibu Spika, jukumu la kuainisha shule itakayopatiwa ruzuku kwa ujenzi wa maabara ni la mkoa husika. Kwa kuwa shule za sekondari ni nyingi mahitaji ya maabara ni makubwa kuliko uwezo wa Serikali. Hata hivyo, Serikali itaendelea na juhudi ya kutafuta fedha kwa sababu hiyo mwaka hadi mwaka na kila fedha zitakapokuwa zinapatikana tutaomba tena Mikoa ituletee shule ambazo zitakuwa zimechaguliwa kujengewa maabara kwa wakati huo ukiwemo Mkoa wa Iringa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u63" who="MheGeorgeMLubeleje">
+          <seg xml:id="seg215">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ili niweze kuuliza swali la nyongeza. Kwa kuwa wananchi wameitikia, wamejenga shule nyingi za Sekondari kwa kila Kata ili vijana wetu waweze kusoma masomo ya sayansi kwa vitendo na kwa kinadharia ipo haja ya kujenga maabara kila shule ya sekondari. Je, kwa mpango huu wa kujenga maabara mbili kila mkoa tutakamilisha lini kujenga maabara? Je, Naibu Waziri atakubaliana nami sasa kuwa Serikali itenge fedha za kutosha kuhakikisha kwamba tunajenga maabara shule zote za sekondari? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u64" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg216">Mheshimiwa Naibu Spika, ni kweli nakubaliana naye kwamba maabara ni muhimu kwa ajili ya masomo ya sayansi kwa vitendo. Naomba</seg>
+          <seg xml:id="seg217">kulihakikishia Bunge lako Tukufu kwamba Wizara yangu inafanya kila iwezalo kuhakikisha kwamba tunapata fedha kwa ajili ya kujenga maabara. Naomba tuwe na subira, hata Mheshimiwa Rais amelipa kipaumbele jambo hili na naamini katika siku zisizo nyingi tutaweza kuongeza idadi ya maabara kwa kila Mkoa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u65" who="MheVedastusMManyinyi">
+          <seg xml:id="seg218">Ahsante Mheshimiwa Naibu Spika, kwa kunipa nafasi ya kuweza kuuliza swali dogo la nyongeza. Sambamba na tatizo la maabara ambalo liko katika kila Mkoa, lakini vilevile tunalo tatizo kubwa sana la walimu katika shule zetu za Sekondari. Ningependa kujua Serikali ina mpango gani wa kuhakikisha kwamba hili tatizo la walimu linaisha hasa kwa mwaka huu ili wanafunzi kule mashuleni waweze kupata elimu iliyo bora?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u66" who="NaibuSpika">
+          <seg xml:id="seg219">Kwa hiyo, ni walimu wa maabara? Naibu Waziri majibu!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u67" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg220">Mheshimiwa Naibu Spika, ni kweli shule zetu nyingi zinakabiliwa na uhaba mkubwa wa walimu. Naomba kumhakikishia Mheshimiwa Mbunge kwamba Wizara imeandaa mpango mkakati na mpango kabambe wa namna ya kupata walimu kuanzia hivi sasa hadi ifikapo mwaka 2011. Kwa utaratibu tuliojiwekea tutakuwa tumeweza kupata idadi ya walimu wa kutosha, pamoja na hilo pia tumeomba wenzetu wa vyuo vikuu kuanzisha fani ya ualimu ili kuweza kupunguza uhaba huo wa walimu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u68" who="MheDianaMChilolo">
+          <seg xml:id="seg221">Ahsante sana Mheshimiwa Naibu Spika, kwa kuniona. Pamoja na matatizo ya maabara kwa maeneo mengi vilevile hata shule zenye maabara kwa mfano, shule ya Mwenge Sekondari Singida Mjini, inakabiliwa na tatizo la kutokuwa na vifaa vya maabara pamoja na kemikali zake. Je, Serikali itakuwa tayari kusaidia shule hii kongwe vifaa vya maabara na kemikali zake?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u69" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg222">Mheshimiwa Naibu Spika, Wizara yangu kila mwaka huwa inazipelekea fedha kwa ajili ya ununuzi wa vifaa vya maabara zikiwemo kemikali mbalimbali. Hata hivyo, katika mpango ambao tunauandaa shule hizo zitaongezewa na nitoe rai kwamba pale tunapopeleka hizo fedha tuwaombe wakuu wa shule wahakikishe kwamba wananunua vifaa hivyo kwa pesa hizo chache ambazo tunazipeleka tukiamini haba na haba hujaza kibaba.</seg>
+        </u>
+        <note>Na. 93. Kuandaa shule za kidato cha tano</note>
+        <note>(K.n.y. MHE. BERNADETA MUSHASHU)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u70" who="MheElizabethNBatenga">
+          <seg xml:id="seg223">Kwa kuwa Serikali imeainisha kuwa elimu ipewe kipaumbele cha kwanza hapa nchini; na kwa kuwa wananchi wameitikia wito huo wa kushirikiana na Serikali kujenga</seg>
+          <seg xml:id="seg224">shule takriban katika kila Kata na hivyo kuongeza idadi ya wanafunzi wanaosoma katika shule za sekondari ambao watakuwa wanamaliza kidato cha nne baada ya miaka miwili kuanzia sasa:-</seg>
+          <seg xml:id="seg225">Je, Serikali inajiandaaje kuhakikisha kuwa wahitimu wa kidato cha nne wengi wao wanaingia kidato cha tano?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u71" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg226">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Bernadeta Mushashu, Mbunge Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg227">Mheshimiwa Naibu Spika, baada ya upanuzi mkubwa wa shule za sekondari kwa kidato cha 1 hadi cha 4 vijana waliomaliza elimu ya sekondari wameongezeka kutoka 77,238 mwaka 2005 na kufikia 115,302 mwaka 2007 na wanategemewa kuwa 326,935 mwaka 2010. Hivyo ninakubaliana na Mheshimiwa Mbunge kuwa tunayo changamoto kubwa ya kupanua elimu ya sekondari katika kiwango cha kidato cha 5 na 6. Katika hatua ya kwanza ya kukabiliana na changamoto hii katika kipindi cha 2004-2006 Serikali imebadilisha shule 13 za sekondari za kidato cha 1 hadi cha 4 kuwa za kidato cha 5 na 6 pekee. Shule hizo ni:- Kondoa, Ruvu, Loleza, Nganza, Weruweru, Nangwa na Songea Wasichana kwa ajili ya wasichana na Mwenge, Minaki, Njombe, Karatu, Ndanda na Milambo kwa ajili ya wavulana. Aidha, shule 45 zinatarajiwa kupanuliwa na kuwa na kidato cha 5-6 katika mwaka 2008/2009 na nyingine 45 zinatarajiwa kupanuliwa mwaka 2010/2011. Shule hizo zitatoa ongezeko la nafasi 10,800 za kidato cha 5.</seg>
+          <seg xml:id="seg228">Mheshimiwa Naibu Spika, katika hatua ya pili, Serikali itaanza mpango wa kubadili shule zote za bweni za kitaifa zilizobakia kuwa za kidato cha 5 na 6 pekee kuanzia mwaka 2009. Mpango huo utafanywa kwa awamu kama ifuatavyo:-</seg>
+          <seg xml:id="seg229">Mwaka 2009 shule hizo hazitachukua wanafunzi wa kidato cha 1. Hatua hii itaongeza nafasi 8,000 za kidato cha 5.</seg>
+          <seg xml:id="seg230">Mwaka 2010 kidato cha 4 cha mwaka 2009 watakuwa wameondoka, tutabakia na kidato cha 3 na cha 4 na mwaka 2010 hii itaongeza nafasi 16,000 za kidato cha 5.</seg>
+          <seg xml:id="seg231">Mwaka 2011 tutakuwa na kidato cha 4 tu, nafasi zitakazoongezeka zitakuwa 24,000. Kwa hiyo, mpango huu utatoa ongezeko la nafasi 32,000 za wanafunzi wa kidato cha 5 ifikapo mwaka 2012.</seg>
+          <seg xml:id="seg232">Mheshimiwa Naibu Spika, katika hatua ya tatu, mpango utakaoanza mwaka 2009 ni kila Wilaya kutayarisha shule 2 za kitaifa, 1 ya wasichana na 1 ya wavulana kwa ajili ya kidato cha 5 na 6 tu. Shule hizi zitakuwa na mikondo 3 ya kidato cha 5. Mpango huu utawezesha kuongeza nafasi 21,600 za kidato cha 5. Aidha, katika mpango wa kupanua shule chache za Kata zitakazokidhi vigezo kuwa na kidato cha 5 na 6 matarajio ni kuwa shule hizo zitaongeza nafasi 12,000 za kidato cha 5 ifikapo mwaka 2010.</seg>
+          <seg xml:id="seg233">Mheshimiwa Naibu Spika, kwa hatua hizi inategemewa kuwa ifikapo mwaka 2010 kuwa na ongezeko la nafasi 86,800 za kidato cha 5. Matarajio ni kupanua elimu ya sekondari katika kiwango cha kidato cha 5 kutoka wanafunzi 35,000 kwa sasa hadi kufikia wanafunzi 120,000 ifikapo mwaka 2012.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u72" who="MheElizabethNBatenga">
+          <seg xml:id="seg234">Mheshimiwa Naibu Spika, kwanza niipongeze Serikali kwa ajili ya mikakati na mipango mizuri iliyoelezwa ndani ya Bunge lako Tukufu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u73" who="MheElizabethNBatenga">
+          <seg xml:id="seg235">Nina swali moja dogo la nyongeza. Kwa kuwa Mheshimiwa Naibu Waziri, ameeleza kwamba katika mipango hiyo kuna baadhi ya shule za Kata ambazo zinaweza zikaongezewa na kuanzisha kidato cha 5 na 6; je, kwa vile shule nyingi za Kata hizi ni za kutwa, Mheshimiwa Naibu Waziri anaweza kutueleza kwamba hizi shule ziwe za bweni ili kuweza kuleta watoto kutoka sehemu mbalimbali za nchi na kuleta mchanganyiko mzuri katika hali ya kujenga utaifa wetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u74" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg236">Mheshimiwa Naibu Spika, ni kweli shule nyingi za Kata zinazojengwa hazina hosteli. Hata hivyo, ili kuweza kupata kibali cha shule hiyo kupandishwa daraja na kuwa kidato cha 5, moja ya sifa zake lazima iwe na mabweni, maabara na nyumba za walimu za kutosha. Hivyo basi naomba nitoe rai, Halmashauri, Kata au Mikoa yote inayopenda au inayopendekeza shule zao kupandishwa daraja wazingatie masharti hayo kwanza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u75" who="MheDrFestusBLimbu">
+          <seg xml:id="seg237">Nakushukuru Mheshimiwa Naibu Spika, kunipa nafasi niulize swali la nyongeza. Nampongeza sana Mheshimiwa Naibu Waziri kwa majibu mazuri, lakini pamoja na majibu hayo mazuri je, Mheshimiwa Naibu Waziri atakubaliana na mimi kwamba kasi ya kuongeza au kupanua elimu ya high school ni ndogo sana ukilinganisha na ongezeko kubwa lililotokea kwa kasi ya elimu ya sekondari o level na ongezeko la kasi ambalo limetokea kwa miaka ya karibuni kwa elimu ya vyuo vikuu na elimu ya juu kwamba hata mwaka huu wa elimu uliokwisha wanafunzi wengi waliomaliza kidato cha 4 waliofaulu kwenda kidato cha 5 wamekosa nafasi. Mheshimiwa Waziri haoni kwamba mpango waliouweka utachukua muda mrefu sana kuziba pengo hili la mahitaji ya wanafunzi waliomaliza form six kwenda vyuo mbalimbali na kwamba Serikali ingechukua hatua za dharura kuongeza nafasi kuliko mpango huo alioutaja Mheshimiwa Waziri? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u76" who="NaibuSpika">
+          <seg xml:id="seg238">Swali moja tu. Haya Mheshimiwa Naibu Waziri!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u77" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg239">Mheshimiwa Naibu Spika, mpango mkakati tuliouweka kitaalamu unatosheleza mahitaji yetu. Hata hivyo, tunazo nafasi ambazo zitajazwa katika chaguo la pili baada ya baadhi ya wanafunzi kuamua wenyewe kwenda kwenye shule zisizo za Serikali. Aidha, utaratibu wa ku-phase out utawezesha pia</seg>
+          <seg xml:id="seg240">wanafunzi wengine kupungua katika zile shule na nafasi zao zitazibwa kwa utaratibu tuliojiwekea na kwamba mpango mkubwa zaidi utaelekezwa katika mpango wa elimu ya sekondari awamu ya pili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u78" who="MheEstherKNyawazwa">
+          <seg xml:id="seg241">Nakushukuru sana Mheshimiwa Naibu Spika, kwa kunipa nafasi hii ili na mimi niweze kuuliza swali dogo la nyongeza. Katika jibu la msingi la Mheshimiwa Naibu Waziri alisema kwamba kuna shule ambazo wamezitenga kwa ajili ya upanuzi; je, miongoni mwa hizo shule, Shule ya Sekondari ya Wasichana ya Bwiru ni miongoni mwa hizo shule za upanuzi kwa sababu ina eneo zuri ambalo unaweza uka-extend mpaka ukapata high school?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u79" who="NaibuSpika">
+          <seg xml:id="seg242">Mheshimiwa Naibu Waziri majibu, that is a specific question. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u80" who="NaibuWaziriWaElimuNaMafunzoYaUfundiMheMwantumuBMahiza">
+          <seg xml:id="seg243">Mheshimiwa Naibu Spika, napenda kumthibitishia Mheshimiwa Mbunge wa Viti Maalum kwamba shule yake ni mojawapo ya shule zitakazopanuliwa. Na nitoe pongezi tu na kuwashukuru Waheshimiwa Wabunge kwa namna ya pekee wanavyoonyesha kuguswa zaidi na suala la elimu. Nawashukuru, ahsanteni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 94. Zanzibar kushirikishwa katika mambo ya Muungano</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u81" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg244">Kwa kuwa Katiba ya Jamhuri ya Muungano wa Tanzania katika nyongeza ya Ibara ya 4(3) imeainisha mambo ya Muungano yanayoshughulikiwa na Serikali ya Muungano; na kwa kuwa mambo yasiyo ya Muungano kwa Zanzibar kama vile Kilimo, Elimu, Afya, Mawasiliano, Biashara, Utalii na kadhalika yanayoshughulikiwa na Serikali ya Mapinduzi ya Zanzibar; je, ni sababu gani zilizoifanya Serikali ya Jamhuri ya Muungano wa Tanzania kuyashirikisha maeneo hayo yasiyokuwa ya muungano kuwa ni mambo ya Jumuiya ya Afrika Mashariki bila Zanzibar kushirikishwa kwa maana ya kuwa na Mawaziri wake husika katika Jumuiya hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u82" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg245">Mheshimiwa Naibu Spika, kwa ruhusa yako na kwa niaba ya Mheshimiwa Waziri wa Ushirikiano wa Afrika Mashariki, napenda kujibu swali la Mheshimiwa Abubakar Khamis Bakary wa Baraza la Wawakilishi, Zanzibar kama ifuatavyo:-</seg>
+          <seg xml:id="seg246">Mheshimiwa Naibu Spika, ni kweli Katiba ya Jamhuri ya Muungano wa Tanzania katika Ibara ya 4(3) imeainisha mambo ya Muungano yanayoshughulikiwa na Serikali ya Jamhuri ya Muungano wa Tanzania na yale mambo yasiyo ya Muungano yanayoshughulikiwa na Serikali ya Mapinduzi ya Zanzibar.</seg>
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, Tanzania imeingia katika Jumuiya ya Afrika Mashariki kama Jamhuri ya Muungano wa Tanzania. Hivyo, Zanzibar ikiwa ni sehemu ya Jamhuri ya Muungano wa Tanzania uwakilishi wake katika Jumuiya ya Afrika Mashariki upo ndani ya Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg248">Mheshimiwa Naibu Spika, kwa mujibu wa Mkataba wa Jumuiya ya Afrika Mashariki Kifungu 8(3)(a) kinataka nchi wanachama kuwa na Wizara mahususi inayoshughulikia mambo yanayohusu Jumuiya ya Afrika Mashariki. Jamhuri ya Muungano wa Tanzania, inawakilishwa na Wizara ya Ushirikiano wa Afrika Mashariki ambayo inaratibu masuala yote yanayohusu Jumuiya hiyo, hata hivyo, ushiriki wa kila sekta unapewa nafasi yake. Nchi wanachama zimekubaliana kushirikiana katika masuala ya uchumi, huduma za jamii, utafiti, ulinzi, sheria na siasa kwa nia ya kuunganisha nguvu za kiuchumi ili kuleta maendeleo endelevu na maisha bora kwa wananchi waishio ndani ya Afrika Mashariki. Lengo kuu ni kuhakikisha kuwa Jamhuri ya Muungano wa Tanzania inanufaika vyema na ushiriki wake katika Jumuiya hii kwa manufaa ya nchi zetu mbili zilizoungana na kuwa Jamhuri moja ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg249">Mheshimiwa Naibu Spika, kutokana na hali hiyo, Zanzibar imekuwa ikishirikishwa kwa ukamilifu katika masuala ya Jumuiya ya Afrika Mashariki kwa kuhakikisha ushiriki wake unakuwepo katika mikutano na majadiliano yanayofanyika. Aidha, kabla ya kufanyika vikao vya Jumuiya, Wizara katika kufanikisha ushiriki wa nchi wenye manufaa huitisha vikao vya pamoja vya ushauri ili kuweka msimamo wa nchi kwa pamoja. Nataka kumhakikishia Mheshimiwa Mbunge na Bunge lako Tukufu kuwa vikao vya ngazi zote kuanzia wataalamu, Makatibu Wakuu na Mawaziri kutoka Zanzibar huwa wanashiriki kikamilifu. Napenda kutoa shukrani na pongezi maalumu kwa Serikali ya Mapinduzi ya Zanzibar kwa ushiriki mzuri na wenye maelewano na ndio maana mambo yanayohusu Zanzibar yanashughulikiwa kwa ufanisi kupitia ngazi zote husika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u83" who="MheAbubakarKhamisBakary">
+          <seg xml:id="seg250">Mheshimiwa Naibu Spika, namshukuru Mheshimiwa Naibu Waziri kwa jibu lake ambalo ni zuri kidogo. Lakini kutokana na jibu lake ni kwamba Serikali ya Mapinduzi ya Zanzibar inashirikishwa katika vikao vya chini, kwa maana hiyo ni Waziri wa Afrika ya Mashiriki inayokwenda katika Jumuiya ya Afrika Mashariki na kwa maana hiyo haoni kwamba anapokwenda Waziri katika mikutano ya Afrika Mashariki anaweza kusahau baadhi ya mambo yanayohusu Zanzibar? Kwa mfano, nilipozungumza suala la mawasiliano ya barabara au katika mawasiliano ya Ziwa Victoria, masuala hayo hayakuzungumzwa kwa Zanzibar na kule kuna haja ya kuwa na mawasiliano hayo ya usafiri?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u84" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg251">Mheshimiwa Naibu Spika, kama nilivyosema katika jibu la msingi kwamba ushiriki wa Zanzibar ni wa kikamilifu siyo wa vikao vya chini tu, vikao vyote wanakuwepo, hata kwenye mazungumzo ya Baraza la Mawaziri la Jumuiya ya Afrika Mashariki, Mawaziri huhusika, hukaribishwa, hushirikishwa na kutoa mchango wao kikamilifu. Huwa hawakatazwi kueleza yale mambo ya msingi tuliyokubaliana kama nchi ya Jamhuri ya</seg>
+          <seg xml:id="seg252">Muungano wa Tanzania. Nataka nimhakikishie Mheshimiwa Abubakary kwamba mambo ya Zanzibar yanashughulikiwa kwa ukamilifu na kabla ya vikao vyetu kama nilivyosema awali hukutana na kuweka msimamo wa nchi kwa pamoja. Kwa hiyo, yale mambo ambayo hayahusu Zanzibar wakati mwingine ndiyo hayo ambayo yanazungumzwa na Waziri wetu peke yake. Lakini masuala ya Jumuiya ya Afrika Mashariki na masuala ya pamoja tunayazungumza kwa pamoja na hupata muafaka katika mambo yote tunayoyashughulikia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u85" who="MheKabweZZitto">
+          <seg xml:id="seg253">Mheshimiwa Naibu Spika, nashukuru. Kwanza napenda kushukuru kwamba angalau sasa hivi Wizara inaonyesha sura ya muungano kwamba Waziri anatoka Bara na Naibu Waziri anatokea Zanzibar. Angalau kuna sura ya muungano. Lakini kuna masuala katika Jumuiya ya Afrika Mashariki ambayo si ya muungano na kawaida tunapokuwa tunakubaliana Jumuiya ya Afrika Mashariki huwa protokali au mikataba inakuja katika Bunge la Muungano. Sasa je, haoni kwamba kuna kasoro pale ambapo zile protokali au mikataba inayohusu masuala ambayo ni ya Zanzibar; kwa nini yasipelekwe kwenye Baraza la Wawakilishi kwa ajili ya kuwa ratified kwenye Baraza la Wawakilishi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u86" who="NaibuWaziriWaUshirikianoWaAfrikaMashariki">
+          <seg xml:id="seg254">Mheshimiwa Naibu Spika, kwanza pia nimshukuru kwa kutupongeza kwa kuwa Wizara yetu ina sura ya Muungano lakini hata hapo awali ilikuwa na sura ya kimuungano.</seg>
+          <seg xml:id="seg255">Mheshimiwa Naibu Spika, ni kwamba kama nilivyosema tumeingia kwenye Jumuiya ya Afrika Mashariki kama Jamhuri ya Muungano wa Tanzania. Hata katika Bunge lako tukufu wapo Wabunge kutoka upande wa Zanzibar. Kwa hiyo yale mambo ambayo yanapitishwa hapa kufanya ratification ni ya pamoja ya nchi nzima. Kwa hiyo, hakutakuwa na umuhimu wa mambo haya kuyapeleka kwenye Baraza la Wawakilishi, bali umuhimu wake upo hapa na Jamhuri ya Muungano inajali sana maslahi ya Zanzibar na kuhakikisha masuala ya Zanzibar yanashughulikiwa kwa ukamilifu wake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u87" who="NaibuSpika">
+          <seg xml:id="seg256">Mheshimiwa Mnyaa swali la nyongeza! Umeshaondoa swali lako! Waheshimiwa Wabunge, napenda kusema kwa furaha kabisa maswali yamekwisha na muda umefika. Sasa tathmini ya leo kazi imefanywa vizuri sana. Mmeona tumejitahidi angalau kila swali limeulizwa maswali ya nyongeza na watu karibu wawili. Ni kwa sababu zifuatazo:-</seg>
+          <seg xml:id="seg257">Swali la kwanza limetumia dakika 5, la pili tano, la tatu tano. La sita saba, lililoharibu ni swali la 87 limechukua dakika 10. Swali la 88 limechukua dakika 10. Swali la 89 limechukua dakika 7. Swali la 90 limechukua dakika 10. Swali la 91 dakika 8 na swali la 91 dakika nane. Swali la 92 dakika 10 na haya ya mwisho yamechukua muda kwa sababu kulikuwa na muda. Sasa kilichotokea Mawaziri wameondoa dibaji ya maswali yao, utangulizi wameondoa. Walipokuta utangulizi wameondoa wote wameingia kwenye kujibu maswali. Sasa naomba sana dibaji ziondoke, halafu Waziri jiulize swali kwanza ameuliza nini, ndio ujibu hicho. Maana mnajibu tu vitu vingine wala hamjaulizwa. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u88" who="NaibuSpika">
+          <seg xml:id="seg258">Sasa hiyo inasababisha maswali kuwa marefu. Siyo ufundi wa kuwaambia kila kitu unatusababisha matatizo. Ningependa Kanuni zinasema maswali ya nyongeza yawe zaidi ya mpaka matatu. Sasa mkijibu kwa kifupi namna hiyo tutafika. Halafu Bunge lenyewe lote linakuwa lively.</seg>
+          <seg xml:id="seg259">Kwa sababu kinachotokea sasa, unamwita yule aliyeandika swali anauliza (anasoma); ninyi wengine wote mnawasikiliza hawa, hizo zinakuwa ni hotuba. Kipindi hiki kinatakiwa kiwe kichangamfu, unamuuliza maswali simultaneously, kwa hiyo, ninaomba maswali yenu yasizidi page moja, yakizidi tu tutakuwa tunayakataa. Sasa hilo moja.</seg>
+          <seg xml:id="seg260">La pili, Waheshimiwa Wabunge, katika muda wa wiki iliyopita, kumetokea maneno ndani na nje ya Bunge, kuhusu Hoja Binafsi za Mbunge na role ya Vyama vya Siasa katika hoja hizo. Sasa ninaomba nisome Kanuni zetu na mtagawiwa huu waraka nitakaousoma.</seg>
+          <seg xml:id="seg261">Kumetokea maneno kuhusu namna ya kuwasilisha hoja binafsi na namna Vyama vya Siasa vinavyopaswa kushiriki katika hoja hizo binafsi. Sasa Kanuni zetu zinaeleza kama ifuatavyo:-</seg>
+          <seg xml:id="seg262">Utaratibu wa kuwasilisha hoja binafsi; Kanuni za Bunge zimeweka utaratibu maalum unaotumika kuwasilisha hoja binafsi. Kila Mbunge anayo haki sawa ya kuwasilisha Hoja Binafsi Bungeni pale anapoona inafaa kufanya hivyo. Kanuni ya 55(1) na (2) inahusu taarifa ya hoja; ninanukuu Kanuni ya 55(1) - Taarifa ya hoja: „Taarifa ya hoja: Isipokuwa kama Kanuni hizi zitaruhusu vinginevyo au kama Spika atatoa idhini yake kwa kutilia maanani udharura wa jambo lenyewe, hoja yoyote haitatolewa Bungeni mpaka taarifa ya hoja hiyo iwe imewasilishwa na kupokelewa na Katibu angalau siku moja ya kazi kabla ya Mkutano ambapo hoja hiyo inakusudiwa kutolewa.” Kifungu kidogo cha (2) cha Kanuni ya 55: „Taarifa ya hoja yoyote itatolewa kwa maandishi na itawekwa saini na Mbunge anayeitoa kabla ya kupokelewa na Katibu kufuatana na masharti ya Kanuni hizi.”</seg>
+          <seg xml:id="seg263">Kwa kutambua uwepo wa Vyama vya Siasa Bungeni, Kanuni ya 109 na Kanuni ya 110 ya Kanuni za Kudumu za Bunge, Toleo la 2007, zinaweka utaratibu wa kuwepo kwa Kamati za Vyama vya Siasa. Ili kuvitendea haki Vyama vya Siasa, Kanuni ya 110 imewekwa mahususi, kwa ajili ya kuviwezesha vyama vyenyewe vijiwekee utaratibu bora wa kuratibu masuala ya vyama vyao, ikiwa ni pamoja na utaratibu wa kushughulikia maswali mbalimbali yanayokusudiwa kuwasilishwa Bungeni ili kuweka uwajibikaji wa pamoja wa kichama Bungeni (Collective Responsibility). Kanuni husika ya 110 inatamka kama ifuatavyo: „Kamati za Vyama vya Siasa Bungeni zitajiwekea utaratibu kwa ajili ya uendeshaji wa shughuli.” Chama cha Mapinduzi kinao utaratibu na Vyama vya Upinzani Kanuni imetaka waweke utaratibu. Kanuni ndogo yake inasema: „Majadiliano yote kwenye mikutano ya Kamati pamoja na mambo mengine yote yanayohusu Kamati hizo yatakuwa na hadhi, kinga na nafuu zote zinazotolewa kwa mujibu wa Sheria kuhusu majadiliano, kumbukumbu na mambo mengineyo ya Bunge na vikao vyake kwa mujibu</seg>
+          <seg xml:id="seg264">wa masharti ya Ibara ya 100(1) na (2) ya Katiba na Sheria ya Kinga, Madarska na Haki za Bunge.”</seg>
+          <seg xml:id="seg265">Kutokana na utaratibu huo uliowekwa na Kanuni za Kudumu za Bunge, hoja yoyote binafsi inayokusudiwa kuwasilishwa Bungeni, inapaswa kuzingatia utaratibu ulioainishwa kwenye Kanuni za Kudumu za Bunge, ikiwa ni pamoja na utaratibu wa hoja husika kupitia kwanza, kwenye Kamati ya Chama cha Kisiasa kinachohusika kabla ya kuwasilishwa kwa Katibu wa Bunge. Ieleweke wazi kwamba, Bunge halitawajibika kuzuwia hoja yoyote itakayokuwa imetimiza masharti yaliyoainishwa katika Kanuni za Kudumu za Bunge. Utaratibu huu unakusudia kuepusha fikra potofu kuwa, Hoja Binafsi za Wabunge zinakwamishwa na Viongozi wa Bunge na vilevile kuepusha migongano inayosababishwa na hoja hizo kuwasilishwa kwa Katibu wa Bunge kabla hazijapitishwa na Kamati za Chama cha Siasa kinachohusika.</seg>
+          <seg xml:id="seg266">Hoja ikishawasilishwa rasmi kwa maandishi kwa Katibu wa Bunge, inakuwa ni mali ya Bunge, hadi hapo inapowasilishwa Bungeni au mtoa hoja atakapoamua kuiondoa kwa hiari yake. Kwa kuzingatia dhana ya uwakilishi (Three Line Whips), mazoea yamejengeka ambapo Wabunge wamekuwa wakitoa maelezo ya hoja zao au Miswada yao binafsi, wanayokusudia kuiwasilisha Bungeni au kwenye vyombo vya habari, kabla ya kupata baraka za vyama vyao vya siasa kuhusu hoja au Miswada hiyo. Aidha, Wabunge wamekuwa wakiwasilisha maelezo ya hoja zao kwa Katibu wa Bunge, kabla ya kupata baraka za vyama vyao vya siasa na wanapowasilisha kwenye vyama vyao vya siasa, vyama hivyo hutoa maamuzi tofauti au vinginevyo, wakati tayari hoja hizo zipo katika mamlaka ya Bunge na hivyo kuleta mtazamo usio sahihi kuwa, Uongozi wa Bunge hupeleka hoja katika Kamati za Vyama baada ya kupokea hoja au Muswada husika.</seg>
+          <seg xml:id="seg267">Ni vyema ieleweke wazi kuwa, Bunge huendesha shughuli zake kwa mujibu wa Kanuni ambazo zimeweka bayana utaratibu ambao unatakiwa kufuatwa katika kila jambo linalokusudiwa kuwasilishwa Bungeni. Dhana kuu iwe kwa kila chama kuelimisha Wabunge wake, utaratibu waliojiwekea bila kuathiri utekelezaji wa Kanuni za Bunge. Maelezo haya yanatolewa kwa lengo la kuepusha uwezekano wa umma wa Watanzania, kujenga fikra na hisia potofu, kuhusu uwasilishwaji wa hoja na Miswada Binafsi Bungeni kwamba; Uongozi wa Bunge huziwekea vizingiti Hoja Binafsi na Miswada Binafsi ya Wabunge ili isiwasilishwe na kujadiliwa Bungeni. Kwa hiyo, Waheshimiwa Wabunge, tumeeleza kwa kirefu na si Wabunge tu na Umma wa Tanzania.</seg>
+          <seg xml:id="seg268">Katika mfumo wa Commonwealth na Mabunge yote yanayokuwa na vyama, role ya vyama katika shughuli zote za Bunge linalohusika, hata Wapinzani wana role yao. Wanakaa huko wanajadiliana wakileta msimamo hapa wa ku-walk out wanafanya walk out, wakifanya vinginevyo wanafanya, kwa hiyo, hata Chama Tawala nacho ni lazima kiangalie hoja za watu wake zinakwenda vipi. Wakikubaliana zitakuja, wasipokubaliana kama inalazimika wamkatalie Mbunge watamkatalia. Huu ni utaratibu unao-apply Mabunge yote. Kwa hiyo, Waheshimiwa Wabunge, tunachotaka kusema, chama chochote kina wajibu wa kupokea hoja kwa mwanachama wake na kuijadili kabla haijaletwa Bungeni; ikifika Bungeni ni ya Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u89" who="NaibuSpika">
+          <seg xml:id="seg269">Kwa hiyo, Waheshimiwa Wabunge, tumetoa huu Waraka mtaupata na Kanuni zilizotajwa zipo. Baada ya kusema hivyo, Waheshimiwa Wabunge, tuna Kanuni Mpya, sio hiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u90" who="MheHamadRashidMohamed">
+          <seg xml:id="seg270">Kanuni ya 68?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u91" who="NaibuSpika">
+          <seg xml:id="seg271">Tuna Kanuni Mpya, hiyo ibara unayoshika sio yenyewe </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u92" who="MheHamadRashidMohamed">
+          <seg xml:id="seg272">Mheshimiwa Naibu Spika, Kanuni ya 68?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u93" who="NaibuSpika">
+          <seg xml:id="seg273">Kanuni zetu nakala ni hii, sio hiyo! </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u94" who="MheHamadRashidMohamed">
+          <seg xml:id="seg274">Namba ni hii hii Mheshimiwa Naibu Spika?</seg>
+          <seg xml:id="seg275">Mheshimiwa Naibu Spika, kwanza, ninashukuru sana kwa maelezo uliyoyatoa, ila ningeomba ufafanuzi; kama Mbunge shauri lake limeshafikishwa ndani ya Bunge na hatimaye Mheshimiwa Spika, akatoa agizo kutokana na Kauli ya Bunge kwamba, Mbunge alete maelezo ndani ya Bunge; je, vyama bado vina madaraka ya kumzuwia Mbunge huyo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u95" who="NaibuSpika">
+          <seg xml:id="seg276">Una mfano wowote?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u96" who="MheHamadRashidMohamed">
+          <seg xml:id="seg277">Mheshimiwa Naibu Spika, ni mfano wa Mheshimiwa Rostam Aziz, ambaye baada ya Select Committee kumtaja katika Bunge hili kwamba, aliandika taarifa yake kwa maandishi na taarifa hiyo ikaonekana ina upungufu fulani na hatimaye akatakiwa aje ndani ya Bunge hili kuthibitisha; Mheshimiwa Spika, akatolea maagizo kauli ile ndani ya Bunge hili kwamba, Mheshimiwa Rostam atakuja kutoa maelezo. Bahati mbaya tukasikia kwamba, Kamati ya Uongozi ya Chama ikamzuwia asifanye hivyo. Sasa ninasema hili lilitoka ndani ya Bunge; je, bado vyama vina madaraka ya kuzuwia? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u97" who="NaibuSpika">
+          <seg xml:id="seg278">Mheshimiwa Mbunge, nimefurahi sana swali hilo limeulizwa. Katika suala analouliza Mheshimiwa Hamad Rashid, ilikuwa kuna Hansard ya majadiliano ya Bunge Mkutano wa Kumi. Katika Mkutano ule wa Kumi suala liliulizwa na mtoa hoja ambaye alikuwa Mwenyekiti wa Kamati Teule, aliomba Mwongozo wa Spika kuhusiana na ukurasa wa 71; ninaomba mtulie kabisa na ninataka kuwa very clear, kwa sababu hii kitu mmeanza ku-learn; maneno yametokea sana kwenye vyombo.</seg>
+          <seg xml:id="seg279">Mheshimiwa Dr. Harrison Mwakyembe, alitaka maelezo kuhusiana na maelezo ya aliyoandika Mheshimiwa Rostam Aziz kwenye Hansard; alijadili hoja ile na ipo katika maandiko ya Hansard.</seg>
+          <seg xml:id="seg280">Katika majadiliano yake, inaelekea Spika hakuona Hansard ile ambayo aliiandika Mheshimiwa Rostam Aziz. Mheshimiwa Dr. Mwakyembe akawa anahoji kwamba, anataka Mwongozo wa Spika kuhusu hoja aliyoisema Mheshimiwa Rostam Aziz katika majadiliano yake ya maandishi. Mwongozo wenyewe ulikuwa ni kuhusu muda ambao Kamati ilifanya kazi; Spika alisema kwa kuwa Mheshimiwa Rostam Aziz hayupo, atajibu wakati unaofuata. Mheshimiwa Rostam Aziz, alipokuja katika Bunge hili, akataka awe na maelezo binafsi. Kwa mujibu wa Kanuni, maelezo binafsi yanatakiwa kutolewa saa moja na kwa maandishi.</seg>
+          <seg xml:id="seg281">Alipoleta maandishi ikapitia kwenye Kamati ya chama chake; kusoma maelezo ya Mheshimiwa Rostam Aziz, yalifanana kabisa na hoja aliyojadili kwenye Hansard. Hansard hiyo mnaweza kuisoma ni ukurasa wa 57 na hoja yake aliyotaka kuileta hapa ilifanana sawasawa. Kumbe alichoagiza Spika ni mwongozo ambao Mheshimiwa Dr. Mwakyembe, alitaka kupata kutokana na allegations zilizotokana na Hansard ya Mheshimiwa Rostam Aziz.</seg>
+          <seg xml:id="seg282">Kwa hiyo, Kamati ile iliposoma ikakuta kwamba, tena siyo Kamati ile ya Uongozi tu hata ya Kanuni; ikakuta anachosema Mheshimiwa Rostam Aziz ni kurudia yale yaliyokuwa katika mjadala wa Tume Teule, ambayo yamefungwa kwa mujibu wa Kanuni ya 54(4). Alichotaka kusema Mheshimiwa Rostam Aziz, alikuwa anarudia yale yaliyoko ndani ya Hansard yake, kwa hiyo, kwa mujibu wa Kanuni ya 54(4), asingeweza kufungua tena mjadala huo. Hiyo ndiyo sababu ya kukataa Muswada huo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u98" who="MheKabweZZitto">
+          <seg xml:id="seg283">Mheshimiwa Naibu Spika - Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u99" who="NaibuSpika">
+          <seg xml:id="seg284">Kifungu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u100" who="MheKabweZZitto">
+          <seg xml:id="seg285">Kanuni ya 68(7), inayohusu Mwongozo wa Spika. Kufuatana na maelezo yako, kwanza kabisa, Mheshimiwa Naibu Spika, tungekuomba u- declare interest kwa sababu wewe ni Mjumbe wa Kamati ya Uongozi wa upannde wa CCM. Kwa hiyo, maelezo unayoyatoa kwa vyovyote vile, yanakuwa yanalinda maslahi ya chama ambacho wewe ni Mjumbe wa Kamati ya Uongozi. Kwa hiyo, ulipaswa ku- declare interest kwa mujibu wa Kanuni zetu kabla hujatoa maelezo ambayo umeyatoa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u101" who="MheKabweZZitto">
+          <seg xml:id="seg286">Mheshimiwa Naibu Spika, la pili, kwa mujibu wa Kanuni zetu, Mbunge ana njia mbalimbali za kuleta hoja ndani ya Bunge; kuna maswali, kuna maswali ya nyongeza, kuna maelezo binafsi, kuna maelezo ya Mawaziri na kadhalika. Maelezo ambayo umeyatoa yanahusu Hoja Binafsi peke yake, lakini Kanuni zina-provide kwa maelezo binafsi na hayo mengine ambayo nimeyaeleza. Kwa hiyo, kwa vyovyote vile na kama nilivyosema, kwa sababu huku-declare interest, umejikuta unaelezea vitu ambavyo vitalinda kambi ya chama chako. Kwa sababu maelezo kama haya ambayo umeyatoa kama yangekuja kwenye Kamati ya Uongozi ya Bunge, ingeweza ku-take care ya provisions nyingine za Kanuni ambazo zinatoa nafasi kwa Wabunge kuweza kushiriki katika shughuli za Bunge. Kwa hiyo, maelezo yako yamegusa kitu kidogo, kwa sababu kumekuwa kuna kitu ambacho kimekuwa kikitokea. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u102" who="MheKabweZZitto">
+          <seg xml:id="seg287">Mheshimiwa Naibu Spika, nilikuwa ninaomba mwongozo wako kwamba, maelezo uliyoyatoa yarudi kwenye Kamati ya Uongozi kwa sababu yanahusu utekelezaji wa Kanuni za Bunge, lakini pia maelezo haya ambayo umeyatoa, samahani sana kusema hivi; yanawabana Wabunge wa Chama cha Mapinduzi kuwa huru kutoa maelezo yao ndani ya Bunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u103" who="NaibuSpika">
+          <seg xml:id="seg288">Kwanza, Mheshimiwa Kabwe Zitto, huko sahihi hata kidogo, kwa sababu Kanuni niliyotoa ipo ndani ya Kanuni na wewe unaweza kusoma na ndio maana nimetoa nakala. Kama unazungumzia suala la Mheshimiwa Rostam Aziz, ninataka kukwambia ni Kanuni ya Bunge ya 54(4) na kwamba lazima kila Mbunge atakayetoa hoja apitishe kwa Spika kwa maandishi. Sababu za kupitisha ni kama hizo. Imegundulika Mheshimiwa Rostam Aziz, alikuwa anataka kueleza maelezo ambayo tayari yako ndani ya Hansard yake. Kwa hiyo, Kanuni isingeweza kumruhusu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u104" who="NaibuSpika">
+          <seg xml:id="seg289">Sasa declaration of interest; nani asiyejua Kanuni yetu ya Uchaguzi wa Spika na Naibu Spika; ni lazima wapendekezwe na vyama vinavyohusika; nani asiyejua hilo? Ya pili, ni lazima mimi nitumie Kanuni; situmii Kanuni ya chama chochote; Kanuni hizi zimetungwa na Bunge hili; ni Kanuni gani ningeitumia ambayo iko nje ya Kanuni hizi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u105" who="MheKabweZZitto">
+          <seg xml:id="seg290">Mheshimiwa Naibu Spika – Taarifa. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u106" who="NaibuSpika">
+          <seg xml:id="seg291">Hatubishani na Kiti. Utaratibu wa kubishana na Kiti upo, ninachosema ni kwamba, Mheshimiwa Zitto, umekwenda nje ya utaratibu, kwa sababu nilichosema kinatumia Kanuni hizi. Nimependa kufafanua hili la Mheshimiwa Rostam Aziz na nimefurahi mmelisema kwa sababu nilijua mnalizungumza hivyo. Waheshimiwa Wabunge, tukitaka amani ya Bunge, tuwe wakweli; ndio maana sisi tuna-stick strictly kwenye rules na ninaomba Wabunge mzijue. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u107" who="NaibuSpika">
+          <seg xml:id="seg292">Vyombo vya Habari tunaomba sana mpokee Kanuni zetu na mzisome na pale ambapo hamzielewi, ninaomba tuko tayari ofisi yetu kuzielezea. Msizitafsiri vinginevyo; ukisema habari ya chama changu, Azimio ambalo tutalisambaza la Musoma, limewaagiza Wabunge wa Chama cha Mapinduzi, kuwa huru ndani ya Bunge na ndani ya caucus yao. Kwa hiyo, hilo na ninyi si hivyo hivyo; Kambi ya Upinzani lazima muwe huru ndani ya caucus zenu na ndani ya Bunge hili? Sasa tusione upande mmoja, hapa tunazungumza ni Bunge la Vyama Vingi. Kwa hiyo, Waheshimiwa Wabunge, tusianze kuchanganya watu kwa maneno na ufundi wa kusema sana. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u108" who="MheKabweZZitto">
+          <seg xml:id="seg293">Mheshimiwa Naibu Spika - Taarifa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u109" who="NaibuSpika">
+          <seg xml:id="seg294">Mheshimiwa Zitto, maelezo zaidi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u110" who="MheKabweZZitto">
+          <seg xml:id="seg295">Taarifa Mheshimiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u111" who="NaibuSpika">
+          <seg xml:id="seg296">Ndiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u112" who="MheKabweZZitto">
+          <seg xml:id="seg297">Kwanza, mimi sizungumzii suala la Mheshimiwa Rostam Aziz, kwa hiyo, nilikuwa ninaomba ufute; mimi ninazungumzia suala la maelezo ambayo umeyatoa ndani ya Bunge hili. Ninaomba Wabunge wa Chama cha Mapinduzi, wanipe haki ya kusema kwa sababu ni haki yangu na nimetumwa hapa na watu wa Kigoma Kaskazini kusema, kama jinsi ambavyo ninyi mmetumwa kusema. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u113" who="NaibuSpika">
+          <seg xml:id="seg298">Ninaomba u-address kwa Spika, usiseme na watu ambao hawakukuuliza swali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u114" who="MheKabweZZitto">
+          <seg xml:id="seg299">Na hao Wabunge wa CCM wanyamaze!</seg>
+          <seg xml:id="seg300">Mheshimiwa Naibu Spika, ninaomba ufafanue; sizungumzii suala la Mheshimiwa Rostam Aziz, ninazungumzia maelezo ambayo umeyatoa, kwa sababu yanazungumzia Hoja Binafsi peke yake, wakati Wabunge tuna fursa nyingi kwa mfano, melezo binafsi. Maelezo yako hayana suala la maelezo binafsi, ndio maana nimeshauri kwamba, hayo maelezo ambayo umeyatoa, yangepaswa kwanza yapite kwenye Kamati ya Uongozi ili yaweze kuzungumzwa. Ndani ya Kamati ya Uongozi kuna Wawakilishi wa Upinzani, kabla hujaja kuyatoa hapa ambapo unayazungumza. Wabunge wa CCM waache kunyamaza, haya uliyoyatoa yanawabana wao kusema. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u115" who="MheAnnaMAbdallah">
+          <seg xml:id="seg301">Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u116" who="NaibuSpika">
+          <seg xml:id="seg302">Tunamaliza kwanza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u117" who="MheAnnaMAbdallah">
+          <seg xml:id="seg303">Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u118" who="NaibuSpika">
+          <seg xml:id="seg304">Sawasawa, tunamaliza hili kwanza. Mheshimiwa Kabwe Zitto, unataka nikueleze kwamba, leo ninazungumzia Hoja Binafsi; siwezi kuchanganya yote, mimi ninazungumzia Hoja Binafsi, nikitaka lingine nitakuja kueleza, lakini ni Hoja Binafsi. Vilevile sihitaji Kamati ya Uongozi, kwa sababu vipo ndani ya Kanuni; ni wajibu wa Spika kutafsiri Kanuni. Mheshimiwa Anna Abdallah - Mwongozo wa Spika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u119" who="MheAnnaMAbdallah">
+          <seg xml:id="seg305">Mwongozo wa Spika - Kwa kutumia Kanuni namba 68 (1); ningependa kujua kwamba, Mheshimiwa Naibu Spika ulipokuwa unajibu na ukataja jina la Mheshimiwa Rostam Aziz, ulikuwa unajibu swali sio la Mheshimiwa Zitto Kabwe, lilikuwa swali la Mbunge mwingine aliyetangulia, alimtaja Mheshimiwa Rostam Aziz kwa jina. Hilo la kwanza.</seg>
+          <seg xml:id="seg306">La pili, ningependa Mwongozo, ninataka kujua kama ni interest; wao wana interest gani kwa Wabunge wa Chama cha Mapinduzi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u120" who="NaibuSpika">
+          <seg xml:id="seg307">Waheshimiwa Wabunge, hiyo kwa Kiingereza inaitwa „light moment”. Sasa sote hapa hatuna interest ya chama chochote isipokuwa wananchi. </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u121" who="NaibuSpika">
+          <seg xml:id="seg308">Waheshimiwa Wabunge, tunaendelea. Nimesema tuwe clear na vitu vyetu kwa sababu tusipoelewana, tutaleta dhana kwa wananchi kwamba, tunachokifanya hapa ni hiyari ya mtu ama ni matakwa ya mtu. Tutasoma Kanuni za Bunge na kama nilivyosema, Waandishi wa Habari chukueni Kanuni zetu kama hamzielewi, Ofisi ya Bunge iko tayari kuwaelimisha. Tusiudanganye Umma kwa maneno ambayo tunapenda kuyasema. Kwa hiyo, baada ya kusema hivyo tunaendelea. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u122" who="NaibuSpika">
+          <seg xml:id="seg309">Matangazo; leo tuna wageni wafuatao: Order please! Order please! Someni Kanuni ya 66(3). Leo kuna wageni wa Mheshimiwa Dr. Festus Limbu na Mheshimiwa Dr. Chegeni Masunga; hawa ni Ndugu Raphael Babasha Cheyo, ambaye ni Diwani na Katibu Mwenezi wa Wilaya ya Magu. Yuko wapi? Huyu ni Mheshimiwa Diwani. Yupo Diwani mwingine wa Magu, Mheshimiwa John Charles Lukale. Mheshimiwa Diwani pia usimame. Wapo pia wageni wa Mheshimiwa Issa Kassim Issa; ni Ndugu Ramadhani Barongo - Katibu Mwenezi wa Tawi la Meya, Jimbo la Mpendae na kuna wageni wa Mheshimiwa Yahya Kassim Issa; ni ndugu Mlenge Vuai Muombwa na Ndugu Mussa Suleiman Khamis. Tunao wanafunzi 40 kutoka Shule ya Msingi Mnadani Dodoma. Tafadhali wote msimame, hawapo?</seg>
+          <seg xml:id="seg310">Tunao wanafunzi 70 kutoka Shule ya Sekondari ya Jamhuri Dodoma, wote wasimame kama wapo? Okey. Karibuni sana, tunawatakia masomo mema ahsante.</seg>
+          <seg xml:id="seg311">Baada ya hapo, tuna tangazo la utaratibu pia; tunapenda kuwakumbusha kwamba, kesho ni ile siku ya kumuuliza Waziri Mkuu maswali. Mwongozo uliowekwa na Kanuni za Bunge ni kwamba, Wabunge wanaokusudia kumuuliza Waziri Mkuu maswali, watawasilisha majina yao kwa Katibu wa Bunge kabla ya saa 2.30 asubuhi, Siku ya Alhamisi yenyewe. Ukipeleka leo jioni hupokelewi, kesho hiyo hiyo kabla ya saa 2.30, ikipita saa 2.30 hayapokelewi. Kwa hiyo, wakati uliopita watu waliwasilisha jioni halafu wengine waliotangulia hawakupata nafasi. Unapeleka Ofisi ya Katibu wa Bunge.</seg>
+          <seg xml:id="seg312">Mwenyekiti wa Kamati ya Hesabu za Serikali, Mheshimiwa John Cheyo, anaomba niwatangazie Waheshimiwa Wajumbe wa Kamati yake kuwa, kutakuwa na kikao cha Kamati hiyo leo hii tarehe 16 Aprili, 2008 saa 5.00, ninadhani baada ya kikao hiki katika ukumbi namba 432.</seg>
+          <seg xml:id="seg313">Mwenyekiti wa Kamati ya Hesabu za Mashirika ya Umma, Mheshimiwa Kabwe Zitto, yeye anawataarifu Wajumbe wa Kamati yake kwamba, watakuwa na kikao cha kupitia Rasimu ya Ratiba ya Kazi za Kamati kwa mwezi Mei na Juni, 2008. Kikao chao kitafanyika leo tarehe 16 Aprili, 2008 katika ukumbi 428 nao baada ya kuahirisha Shughuli za Bunge hapa.</seg>
+          <seg xml:id="seg314">Mwenyekiti wa Kamati ya Sheria na Utawala, Mheshimiwa George Malima Lubeleje, yeye anaomba Wajumbe wake wakutane leo tarehe 16 Aprili, 2008 katika chumba 133, baada ya Kikao hiki.</seg>
+          <seg xml:id="seg315">Mwenyekiti wa Kamati ya Bunge ya Nishati na Madini, Mheshimiwa William Shellukindo, anaomba Wajumbe wa Kamati yake wakutane leo katika kikao kitakachofanyika baada ya kuahirisha shughuli hizi katika chumba namba 231.</seg>
+          <seg xml:id="seg316">Mheshimiwa Lediana Mafuru Mng’ong’o, Mwenyekiti wa TAPAC, anapenda kuwaarifu Mheshimiwa Kidawa Salehe, Mheshimiwa Godfrey Zambi, Mheshimiwa Dr. Zainab Gama na Mheshimiwa Charles Keenja kuwa, wakutane baada ya kikao hiki chumba namba 227.</seg>
+          <seg xml:id="seg317">Mheshimiwa Fatma Othman Ali, yeye ni Katibu wa Umoja wa Wabunge wa CCM kutoka Zanzibar, anaomba Wajumbe wake hao wakutane; Wabunge wote wa CCM kutoka Zanzibar wanaarifiwa kuwa kutakuwa na mkutano wa umoja wao huo leo, tarehe 16 Aprili, 2008 katika chumba namba 227. Kule kuna mkutano mwingine mtajua wenyewe namna ya kujipanga. Ninadhani mko wawili, baada ya kikao hiki.</seg>
+          <seg xml:id="seg318">Mwenyekiti wa Kamati ya Miundombinu, Mheshimiwa Mohamed Missanga, anaomba Wajumbe wa Kamati yake wakutane tarehe hii ya leo 16 Aprili, 2008, baada ya kikao hiki katika Ukumbi wa Pius Msekwa.</seg>
+          <seg xml:id="seg319">Halafu kuna Mwenyekiti wa Kamati ya Fedha na Uchumi, Mheshimiwa Dr. Abdallah Kigoda, anaomba Wajumbe wake wakutane katika chumba namba 231, kama mnagongana mtakutana huko baada ya kikao hiki. Ninadhani hayo ndio matangazo ya kazi. Baada ya hapo katibu?</seg>
+          <seg xml:id="seg320">KAULI ZA MAWAZIRI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u123" who="WaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg321">Mheshimiwa Naibu Spika, mnamo tarehe 10 Aprili, 2008, Mheshimiwa Hafidh Ali Tahir, Mbunge wa Dimani, aliomba mwongozo wako kuhusu DVD za kutangaza Hifadhi za Taifa zilizosambazwa kwa Waheshimiwa Wabunge katika Mkutano huu wa Kumi na Moja.</seg>
+          <seg xml:id="seg322">Katika maelezo yake, Mheshimiwa Tahir alitaka mwongozo wako kwa kusema kuwa, DVD zilizosambazwa, zinapotosha Historia ya Zanzibar kuwa ilipata uhuru mwaka 1963 na iliungana na Tanganyika baada ya uhuru huo. Hivyo, akaomba mwongozo wako kwamba, DVD hizi ikiwezekana zikusanywe tena na zikafanyiwe ukarabati na zieleze Muungano wa Tanzania ulipatikana vipi.</seg>
+          <seg xml:id="seg323">Katika kujibu hoja yake, Mheshimiwa Naibu Spika uliiagiza Serikali kupitia kwa Mheshimiwa Waziri Mkuu kuwa, Waziri wa Maliasili na Utalii, atoe ufafanuzi kuhusu DVD hizo katika Kikao cha Bunge cha leo.</seg>
+          <seg xml:id="seg324">Mheshimiwa Naibu Spika, mnamo tarehe 05 Februari, 2008 katika Mkutano wa Kumi wa Bunge la Jamhuri ya Muungano wa Tanzania, Waziri wa Maliasili na Utalii wakati akihitimisha hoja ya Muswada wa Sheria ya Utalii, aliliahidi Bunge lako Tukufu kuwa, angesambaza DVD zilizoandaliwa kwa ajili ya kutangaza utalii wa Tanzania nje ya nchi.</seg>
+          <seg xml:id="seg325">Katika kutekeleza ahadi hiyo, Wizara ya Maliasili na Utalii kupitia Shirika la Hifadhi za Taifa, lilikuwa na Mradi wa Kuandaa Matangazo mbalimbali zikiwemo DVD. Katika kutekeleza Mradi huu, TANAPA iliiteua Kampuni ya Malem Communications kufanya kazi ya kuandaa DVD na matangazo mengine.</seg>
+          <seg xml:id="seg326">Mheshimiwa Naibu Spika, katika jitihada za Serikali za kuongeza kasi ya kutangaza utalii wetu, Bodi ya Utalii Tanzania ndiyo yenye jukumu la kutangaza vivutio mbalimbali vya utalii Tanzania Bara na TANAPA hutangaza vivutio vya utalii kwenye Hifadhi za Taifa za Tanzania Bara.</seg>
+          <seg xml:id="seg327">Taasisi hizi hutangaza vivutio vya utalii wa nchi yetu kwa njia mbalimbali, zikiwemo vipeperushi, DVD, makala kwenye magazeti mbalimbali na matangazo kwenye runinga (TVs).</seg>
+          <seg xml:id="seg328">Katika kuandaa matangazo haya, Bodi ya Utalii na TANAPA, hushughulikia maandalizi, malipo na uhakiki wa usahihi wa matangazo haya na kupitishwa na Bodi zao moja kwa moja bila kulazimika kupitisha kwa ngazi nyingine yoyote ya Serikali.</seg>
+          <seg xml:id="seg329">Katika mazingira haya, inakuwa si rahisi kwa Waziri wa Maliasili na Utalii, kuhakiki usahihi wa kila tangazo la utalii, hasa ukichukulia kuwa, yanakuwa yameshapitishwa na Bodi za Taasisi zao.</seg>
+          <seg xml:id="seg330">Mheshimiwa Naibu Spika, katika kutekeleza ahadi yake, ofisi yangu ilikabidhi DVD 340 ili zisambazwe kwa Waheshimiwa Wabunge; ni kweli katika DVD hizo, kuna upungufu katika sehemu ya utangulizi unaoelezea historia.</seg>
+          <seg xml:id="seg331">Katika sehemu hiyo, Tanzania inaelezewa kuwa ni nchi iliyoundwa mwaka 1964, kwa Muungano wa nchi (states) mbili za Tanganyika (iliyopata uhuru tarehe 9 Desemba, 1961) na Zanzibar (iliyopata uhuru wake mwaka 1963).</seg>
+          <seg xml:id="seg332">Taarifa hii si kamilifu, kwani baada ya Zanzibar kupata uhuru wake mwaka 1963, ilifuatiwa na Mapinduzi Matukufu ya tarehe 12 Januari, 1964. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u124" who="WaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg333">Mheshimiwa Naibu Spika, kutokana na upungufu huo, nikiwa Waziri wa Wizara ya Maliasili na Utalii, ikiwa ni pamoja na Taasisi zilizopo chini yake, ninakubaliana na hoja iliyowasilishwa na Mheshimiwa Hafidhi Ali Tahir, Mbunge wa Dimani na tayari nimeshatoa maelekezo yafuatayo:-</seg>
+          <seg xml:id="seg334">Kwanza, TANAPA isimamishe mara moja uzalishaji na usambazaji wa DVD hizo.</seg>
+          <seg xml:id="seg335">Pili, TANAPA itoe DVD nyingine zinazoelezea vivutio vya utalii, zikibainisha ukamilifu wa historia ya nchi yetu.</seg>
+          <seg xml:id="seg336">Tatu, TANAPA na Taasisi zote zinazotangaza Utalii wa Tanzania, zianzishe mfumo stahiki wa kuhakiki ukweli na usahihi wa matangazo yote. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u125" who="WaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg337">Mheshimiwa Naibu Spika, kwa maelezo hayo, nikiwa Waziri wa Wizara hii, ninawajibika kuliomba radhi Bunge lako Tukufu, pamoja na Watanzania wote, hususan wenzetu wa Tanzania Zanzibar, kwa upungufu huo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u126" who="WaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg338">Aidha, ninawaomba Waheshimiwa Wabunge na Watanzania kwa ujumla, tuungane katika kazi tuliyoianza kwa kasi ya kuitangaza nchi yetu na historia yake kwa usahihi na ukamilifu, hasa kama sehemu ya kurekebisha upotoshaji uliotokea (damage control) na pia ili tuweze kukuza uchumi wetu kwa maendeleo ya Watananzia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u127" who="WaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg339">Mheshimiwa Naibu Spika, ninaomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2008-04-16-bunge-11-07.u128" who="NaibuSpika">
+          <seg xml:id="seg340">Waheshimiwa Wabunge, kama mtakavyoona Order Paper, kwa siku ya leo Kamati nyingi zinafanya kazi ya kumalizia Miswada, ndiyo maana hatutakuwa na kazi mchana huu.</seg>
+          <seg xml:id="seg341">Kamati ya Uongozi, baada ya kutoka hapa tafadhali tukutane katika Ukumbi wa Mikutano ya Spika.</seg>
+          <seg xml:id="seg342">Kwa hiyo, Kamati nyingi ziko kama mlivyoona, nimesoma hapa wanafanya kazi ya kumalizia Miswada yao ili kesho tuwe na Miswada mingi zaidi. Kwa hiyo, Tamko la Mheshimiwa Waziri wa Maliasili, tunaweza kuliweka kwenye pigeonholes zao baada ya hili tamko alilolisema, ninadhani zimegaiwa au hazijasambazwa?</seg>
+          <seg xml:id="seg343">Waheshimiwa Wabunge, kwa hiyo, ninaahirisha Kikao cha Bunge mpaka kesho saa tatu asubuhi.</seg>
+          <seg xml:id="seg344">(Saa 05.04 asubuhi Bunge liliahirishwa mpaka Siku ya Alhamisi,</seg>
+          <seg xml:id="seg345">tarehe 17 Aprili, 2008, Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

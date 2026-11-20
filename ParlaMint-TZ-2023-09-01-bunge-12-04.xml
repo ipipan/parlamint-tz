@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2023-09-01) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2023-09-01) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="4">4. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="12">12. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1693979601-BJT01SEPTEMBA2023.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2023-09-01">1.09.2023</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u1" who="NaibuSpika">
+          <seg xml:id="seg1">Waheshimiwa Wabunge, maswali, tunaanza na Ofisi ya Waziri Mkuu, Mheshimiwa Nancy.</seg>
+        </u>
+        <note>Na. 45. Maboresho ya Pensheni</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u2" who="MheNancyHNyalusi">
+          <seg xml:id="seg2">Je, lini Serikali itaboresha mafao ya Wastaafu kwa kuongeza kiwango cha pensheni anayopata Mstaafu kwa mwezi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u3" who="WenyeUlemavuMhePascalPKatambi">
+          <seg xml:id="seg3">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Nancy Hassan Nyalusi, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, Mifuko ya Hifadhi ya Jamii huongeza kiwango cha pensheni ya kila mwezi kwa wastaafu mara baada ya kufanya tathmini na kujua uendelevu na uwezo wa kulipa mafao kwa wanachama wake. Tathmini hiyo hufanyika kila baada ya miaka mitatu kwa kipindi kifupi, miaka mitano kwa kipindi cha kati na tathmini ya kipindi kirefu kwa miaka kumi.</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, Kanuni za ulipaji mafao Namba 11(1) za mwaka 2018, zinaelekeza Mifuko ya Hifadhi ya Jamii kuongeza pensheni kwa kuzingatia mfumuko wa bei na uendelevu wa Mfuko kila baada ya miaka mitatu. Hata hivyo, ninayo furaha kuliarifu Bunge lako Tukufu kuwa hadi sasa wastaafu wa Serikali waliboreshewa pensheni zao za kila mwezi ambapo imefikia kiwango cha chini cha shilingi laki moja na kuendelea, tofauti na hapo awali, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u4" who="NaibuSpika">
+          <seg xml:id="seg6">Mheshimiwa Nancy.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u5" who="MheNancyHNyalusi">
+          <seg xml:id="seg7">Mheshimiwa Naibu Spika, ahsante. Nashukuru kwa majibu mazuri ya Serikali, lakini nina maswali mawili ya nyongeza. Swali la kwanza; je, ni hatua gani Serikali imechukua kuhakikisha kwamba, inaondoa usumbufu kwa wanachama kupata mafao yao?</seg>
+          <seg xml:id="seg8">Mheshimiwa Naibu Spika, swali la pili; je, kwa nini Serikali imeamua kuunganisha Mifuko ya Pensheni, haioni kwamba, imechangia kuzaa changamoto? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u6" who="MheNancyHNyalusi">
+          <seg xml:id="seg9">ahsante. Naomba kujibu maswali mawili ya Mheshimiwa Nancy, kama alivyouliza:-</seg>
+          <seg xml:id="seg10">Mheshimiwa Naibu Spika, Mfuko wetu wa Hifadhi ya Jamii au Mifuko yote kwa pamoja PSSF na NSSF imeweza kwa sehemu kubwa sana kuondoa changamoto za ulipaji wa mafao kwa wakati. Kwa kufikia sasa tunalipa ndani ya siku 60 kama mfanyakazi atakuwa hana changamoto zozote za kitaarifa au kumbukumbu na hata wakati mwingine tunalipa hata chini ya siku saba.</seg>
+          <seg xml:id="seg11">Mheshimiwa Naibu Spika, hatua nyingine ambazo Serikali imechukua kupunguza usumbufu ni pamoja na kuweka Mfumo wa TEHAMA ambapo mwanachama anapata taarifa zake kupitia simu yake ya kiganjani na hatua nyingine mojawapo, pia ilikuwa ni hii ya kuunganisha Mifuko ili kuweza kutengeneza utaratibu wa uwiano katika malipo, lakini pia ulinganifu.</seg>
+          <seg xml:id="seg12">Mheshimiwa Naibu Spika, swali lake la pili, lilikuwa ni katika kutoa usumbufu, kwa nini Mifuko iliunganishwa. Mifuko hii iliunganishwa, la kwanza kulikuwa kuna changamoto kubwa sana ya uwiano wa mafao. Mtu alikuwa PPF na aliyekuwa LAPF unakuta wote wamefanya kazi sawa na wamestaafu sawa na wametumikia Taifa sawa, lakini mmoja unaweza ukakuta katika pensheni yake mwishoni akalipwa milioni 40 na mwingine milioni 75 kwa sababu ya utofauti wa Mifuko, lakini kwa hiyo, kutengeneza ulinganifu wa mafao tukaona ni bora kuweza kuunganisha Mifuko hii baada ya kupata utafiti uliofanywa kama actuarial evaluation.</seg>
+          <seg xml:id="seg13">Mheshimiwa Naibu Spika, sababu ya pili, ilikuwa ni uendelevu wa Mifuko. Uendelevu wa Mifuko hii kwa sababu ya kuwa mingi ilikuwa inasuasua sana katika kujisimamia na kuwa na uendelevu wake. Mpaka sasa baada ya kuchukua hatua ya kuiunganisha thamani iliyokuwepo kwa PSSF ilikuwa ni trilioni tano, lakini sasa Mfuko umeweza kufika zaidi ya trilioni 8.1. Kwa hiyo, unaweza ukaona tofauti hiyo kubwa kama faida.</seg>
+          <seg xml:id="seg14">Mheshimiwa Naibu Spika, hatua nyingine ilikuwa ni kupunguza gharama za uendeshaji. Hii Mifuko ya Hifadhi ya Jamii ilikuwa zaidi ya</seg>
+          <seg xml:id="seg15">mitano, sasa unakuta yote ina Menejimenti, Bodi na huku kuna Menejimenti, lakini pia kuna Bodi, kuziendesha na kulipa mishahara, gharama za operational cost na kadhalika zote zilikuwa kubwa sana. Tumeweza kufanikiwa kwa Serikali hii ya Dkt. Samia Suluhu Hassan kupunguza hasara hiyo ya gharama ya uendeshaji kutoka asilimia 12 mpaka asilimia tano.</seg>
+          <seg xml:id="seg16">Mheshimiwa Naibu Spika, sababu nyingine ya nne ilikuwa ni kuondoa ushindani…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u7" who="NaibuSpika">
+          <seg xml:id="seg17">Mheshimiwa inatosha, umeshajibu vizuri sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u8" who="NaibuSpika">
+          <seg xml:id="seg18">Mheshimiwa Sophia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u9" who="MheSophiaHMwakagenda">
+          <seg xml:id="seg19">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza. Imekuwa vyema ambavyo mifuko hii inawekeza na kuwa na majengo ya kibiashara, lakini mfanyakazi ananufaikaje na biashara hizo? Pia tunajuaje wamepata kiasi gani na mwananchi wa kawaida anapokwenda kustaafu anapataje gawio sahihi katika Mifuko hiyo ambayo wamewekeza?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u10" who="NaibuSpika">
+          <seg xml:id="seg20">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u11" who="NaibuWaziriOfisiYaWaziriMkuuKaziAjiraVijanaNaWenyeUlemavuMhePascalPKatambi">
+          <seg xml:id="seg21">Mheshimiwa Naibu Spika, ahsante. Ni swali zuri la Mheshimiwa Mbunge, Mheshimiwa Sophia Mwakagenda. Ni kweli kwa kuangalia tija ya wanufaika wa Mifuko hii ya Hifadhi ya Jamii. Kile kinachochangiwa na mwanachama ukikipigia hesabu hata mwanachama yeyote kokote aliko akipiga hesabu ya fedha ambayo ameichangia mpaka kustaafu kwake na kile ambacho anaenda kukipata kama malipo ya mkupuo na kile anacholipwa mwisho wa mwezi ni kikubwa kuliko kile ambacho alichangia.</seg>
+          <seg xml:id="seg22">Mheshimiwa Naibu Spika, kwa wale waliokuwa katika Mifuko mingine unakumbuka PSPF wakati huo, lakini pia LAPF na NSSF fedha</seg>
+          <seg xml:id="seg23">yake thamani imeongezeka ambayo ni ongezo kama faida ya uwekezaji na ulindaji wa thamani ya fedha kutoka asilimia 50 mpaka asilimia 67. Hii ni hatua kubwa sana ambayo Serikali imefanya na hata wenzetu nchi jirani, sitaitaja lakini, wamekuja kuiga mfano wa namna gani ambavyo tumekuwa tukiongeza maslahi ya wastaafu kutokana na uwekezaji unaofanyika katika mifuko, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u12" who="NaibuSpika">
+          <seg xml:id="seg24">Ahsante. Waheshimiwa tunaendelea, Ofisi ya Rais, Mheshimiwa Neema.</seg>
+        </u>
+        <note>Na. 46. Fursa za uwekezaji</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u13" who="MheNeemaGMwandabila">
+          <seg xml:id="seg25">Je, ni miradi mingapi ya kimkakati imejengwa katika Wilaya ya Ileje?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u14" who="NaibuSpika">
+          <seg xml:id="seg26">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA NCHI, OFISI YA RAIS, MIPANGO NA UWEKEZAJI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u15" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg27">Mheshimiwa Naibu Spika, nakushukuru. Kwa niaba ya Waziri wa Mipango na Uwekezaji, napenda kujibu swali la Mheshimiwa Neema Gerald Mwandabila, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg28">Mheshimiwa Naibu Spika, Serikali inatekeleza miradi mbalimbali ya kimkakati katika Halmashauri ya Wilaya ya Ileje ikiwemo ya uwekezaji wa madini, kilimo, biashara na uvuvi ambayo ina mchango mkubwa katika mapato ya Wilaya hiyo. Miongoni mwa miradi hiyo ni pamoja na:-</seg>
+          <seg xml:id="seg29">(i) Mradi wa Makaa ya Mawe wa Kiwira.</seg>
+          <seg xml:id="seg30">(ii) Mradi wa Kuzalisha Umeme wa Bwelui wa megawati 4.7 wenye thamani ya shilingi 19,675,520,200.</seg>
+          <seg xml:id="seg31">(iii) Mradi wa Ujenzi wa Soko la Kimataifa la Isongoole.</seg>
+          <seg xml:id="seg32">Mheshimiwa Naibu Spika, Serikali itaendelea kutekeleza Miradi mbalimbali ya Kimkakati kuilingana na fursa zinazopatikana nchini kwa lengo la kukuza uchumi, nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u16" who="NaibuSpika">
+          <seg xml:id="seg33">Mheshimiwa Neema.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u17" who="MheNeemaGMwandabila">
+          <seg xml:id="seg34">Mheshimiwa Naibu Spika, kumekuwa na ucheleweshaji wa ukamilishaji wa miradi mingi ya kimkakati ambayo inakuwa imeandaliwa na Serikali. Swali la kwanza; nataka kufahamu ni nini mkakati wa Serikali wa kuhakikisha miradi hii ya kimkakati inaisha kwa wakati? Mfano mzuri ni Mradi wa Chumvi, Momba, mpaka leo haupelekewi fedha.</seg>
+          <seg xml:id="seg35">Mheshimiwa Naibu Spika, swali la pili; nataka pia, kufahamu, kwa kuwa, kumekuwa na miradi mingi ambayo inaibuliwa ambayo inatumia fedha nyingi za Serikali na haiishi kwa wakati na mingine imekuwa na poor designing na allocation ya miradi kwa hiyo, pesa nyingi zinaenda zinakuwa hazileti tija kwa wakati. Ni nini mkakati wa Serikali wa kupunguza hasara inayotokana na miradi hiyo ambayo inakuwa imebuniwa chini ya kiwango? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u18" who="NaibuSpika">
+          <seg xml:id="seg36">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA NCHI, OFISI YA RAIS, MIPANGO NA UWEKEZAJI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u19" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg37">Mheshimiwa Naibu Spika, nakushukuru. Miradi mingi inayotekelezwa na Serikali ni kweli mingine inaweza kuwa na changamoto katika utekelezaji wake kutokana na sababu mbalimbali, lakini nimhakikishie Mheshimiwa Mbunge kwamba, miradi ambayo imeshawekewa mikakati maalum na ikatengewa fedha kwa wakati husika, tunatekeleza kwa wakati. Pale kunapokuwa na changamoto basi zinakuwa ni zile ambazo ziko nje ya uwezo ambao tumeupanga,</seg>
+          <seg xml:id="seg38">Mheshimiwa Naibu Spika, la pili, Mbunge ametoa mfano wa Mradi wa Chumvi, Momba ni kwamba, huu ulibuniwa na Halmashauri,</seg>
+          <seg xml:id="seg39">lakini na sisi kama Serikali Kuu tutaweka fedha hapo kama tulivyosema hapo awali, ili waweze kutekeleza mradi huo, lakini kwenye miradi mingine ambayo inatekelezwa kwa muda mrefu, Serikali ya Awamu ya Sita, chini ya Rais wetu Dkt. Samia Suluhu Hassan, imeshatoa maelekezo kwamba, miradi ambayo imewekwa kwenye mipango lazima tuikamilishe kulingana na wakati na fedha nyingi zitatolewa kadiri ambavyo Serikali inapata, ili kuhakikisha tunaondokana na ucheleweshaji katika miradi husika, nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u20" who="NaibuSpika">
+          <seg xml:id="seg40">Waheshimiwa tunaendelea na Wizara ya…</seg>
+          <seg xml:id="seg41">Mheshimiwa Chumi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u21" who="MheCosatoDChumi">
+          <seg xml:id="seg42">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi. Halmashauri ya Mji wa Mafinga imetenga eneo la ekari 750 kwa ajili ya Industrial Park ili tuweze kuwa soko la kimataifa la mazao ya misitu; je, Serikali iko tayari kushirikiana na sisi kupitia EPZA kufanikisha ndoto hiyo ambayo itakuwa ni chanzo cha mapato na chanzo cha ajira?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u22" who="NaibuSpika">
+          <seg xml:id="seg43">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA NCHI, OFISI YA RAIS, MIPANGO NA UWEKEZAJI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u23" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg44">Mheshimiwa Naibu Spika, nakushukuru sana. Kwanza nimpongeze sana Mheshimiwa Chumi, lakini Halmashauri ya Mafinga kwa kutenga maeneo haya ambayo ni mumhimu sana kwa ajili ya uwekezaji.</seg>
+          <seg xml:id="seg45">Mheshimiwa Naibu Spika, Serikali tunathamini na tutahakikisha tunapeleka wawekezaji, lakini pia kusajili eneo hili chini ya uwekezaji, EPZA, ili mazao au bidhaa zinazozalishwa pale ziweze kuuzwa nje, lakini na ndani ya nchi katika kujiletea maendeleo katika Halmashauri ya Mafinga, lakini nchi kwa ujumla, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u24" who="NaibuSpika">
+          <seg xml:id="seg46">Mheshimiwa Pallangyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u25" who="MheDktJohnDPallangyo">
+          <seg xml:id="seg47">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ili niulize swali la nyongeza. Kuelekea</seg>
+          <seg xml:id="seg48">mwishoni mwa mwaka jana Serikali ilichukua hatua za kuweka mipaka ya kudumu eneo linalozunguka Uwanja wa Kimataifa wa KIA kwa lengo la kuweka miradi ya kimkakati. Je, ni miradi mingapi ya kimkakati na ni ya namna gani ambayo itajengwa kwenye eneo lile kwa sababu imechukua eneo kubwa sana takribani square kilometer 110? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u26" who="NaibuSpika">
+          <seg xml:id="seg49">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA NCHI, OFISI YA RAIS, MIPANGO NA UWEKEZAJI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u27" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg50">Mheshimiwa Naibu Spika, nakushukuru sana. Ni kweli lengo la Serikali ya Awamu ya Sita, kama nilivyosema chini ya Rais wetu mpendwa, Mheshimiwa Dkt. Samia Suluhu Hassan, ni kuona tunaongeza uwekezaji, kuvutia mitaji katika uwekezaji, uwekezaji wa ndani, lakini pia uwekezaji kutoka nje. Jambo hili linataka maeneo mahususi ambayo yameshaandaliwa tayari ili kupunguza ukiritimba na urasimu wa kutokupata maeneo ya uwekezaji kwa wawekezaji katika maeneo mengi.</seg>
+          <seg xml:id="seg51">Mheshimiwa Naibu Spika, kwa hiyo, eneo hili la KIA linafanyiwa tathmini ili kuona miradi mahususi ya kimkakati ambayo itawekezwa katika eneo hili ambalo mwanzoni lilikuwa kidogo na changamoto ya kuingiliwa na watu. Kwa hiyo, Serikali inaendelea kufanya tathmini ili kuona miradi mahususi ambayo itawekezwa katika eneo hili la KIA, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u28" who="NaibuSpika">
+          <seg xml:id="seg52">Ahsante. Tunaendelea na Wizara ya Viwanda na Biashara, Mheshimiwa Toufiq.</seg>
+        </u>
+        <note>Na. 47. Kuzalisha mafuta ya kula kwa wingi nchini</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u29" who="MheFatmaHToufiq">
+          <seg xml:id="seg53">Je, nini mkakati wa Serikali kuhakikisha mafuta ya kula yanazalishwa kwa wingi nchini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u30" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg54">Mheshimiwa Naibu Spika, nakushukuru na kwa niaba ya Waziri wa Viwanda na Biashara, napenda kujibu swali la Mheshimiwa Fatma Hassan Toufiq, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg55">Mheshimiwa Naibu Spika, Serikali kwa kushirikiana na wadau mbalimbali imeendelea kutekeleza mkakati wa kuendeleza Sekta Ndogo ya Alizeti na Chikichi ambayo ndiyo mazao makubwa yanayoweza kuzalisha kwa tija mafuta ya kula hapa nchini kwa sasa.</seg>
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, katika utekelezaji wa mkakati huo, viwanda vipya, kama Qstec na Jeolong vimeanzishwa. Upanuzi wa viwanda kama Mount Meru Millers, lakini pia, Serikali imeongeza nguvu katika taasisi za utafiti wa mbegu na hivyo kuongeza uzalishaji wa mbegu bora za alizeti na michikichi.</seg>
+          <seg xml:id="seg57">Mheshimiwa Naibu Spika, kwa sasa Serikali inaelekeza nguvu zaidi kwenye kilimo cha kuzalisha mbegu bora, ili kukidhi mahitaji ya malighafi katika viwanda vyetu vya ndani.</seg>
+          <seg xml:id="seg58">Mheshimiwa Naibu Spika, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u31" who="NaibuSpika">
+          <seg xml:id="seg59">Mheshimiwa Toufiq.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u32" who="MheFatmaHToufiq">
+          <seg xml:id="seg60">Mheshimiwa Naibu Spika, ahsante. Pamoja na majibu mazuri ya Serikali, nina swali moja la nyongeza. Je, Serikali haioni umefikia wakati wa kuhamasisha wawekezaji wa ndani ili kusudi waweze kuzalisha mafuta yanayotokana na alizeti, ufuta, karanga, pamba, pamoja na mafuta yanayotokana na mifugo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u33" who="NaibuSpika">
+          <seg xml:id="seg61">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u34" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg62">Mheshimiwa Naibu Spika, nakushukuru sana. Ni kweli moja ya maeneo ambayo Serikali imeweka kipaumbele ni kuhamasisha uzalishaji wa mafuta kwa</seg>
+          <seg xml:id="seg63">wazalishaji wa ndani, pamoja na kukaribisha wawekezaji kutoka nje, lakini mkakati mkubwa ni kwa wazalishaji wa ndani.</seg>
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, hili tunalifanya kupitia, mosi kama nilivyosema, kuwawezesha wakulima ili kulima mbegu zenye ubora na zenye tija. Pili, tunatengeneza teknolojia rahisi, viwanda vidogovidogo ambavyo vitapelekea wananchi hawa wazalishaji wa ndani kuzalisha mafuta mengi, lakini yenye ubora kwa sababu, changamoto hapa si tu upatikanaji wa mafuta, lakini pia tunataka mafuta yenye ubora ambayo yatakuwa hayana athari hasi kwa walaji. Kwa hiyo, tunaendelea kuhakikisha tunawezesha teknolojia rahisi ili kuzalisha zaidi mafuta ya kula hapa nchini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u35" who="NaibuSpika">
+          <seg xml:id="seg65">Waheshimiwa, tunaendelea na Wizara ya Kilimo, Mheshimiwa Mnzava.</seg>
+        </u>
+        <note>Na. 48. Kuwa na kiuatilifu kimoja kwenye zao la korosho</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u36" who="MheTimotheoPMnzava">
+          <seg xml:id="seg66">Je, nini mkakati wa Serikali kuhakikisha bei ya Zao la Mkonge haitetereki?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u37" who="NaibuSpika">
+          <seg xml:id="seg67">Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg68">NAIBU WAZIRI WA VIWANDA NA BIASHARA K.n.y WAZIRI WA KILIMO alijibu:-</seg>
+          <seg xml:id="seg69">Mheshimiwa Naibu Spika, nakushukuru. Kwa niaba ya Waziri wa Kilimo, naomba kujibu swali la Mheshimiwa Timotheo Paul Mnzava, Mbunge wa Korogwe Vijijini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg70">Mheshimiwa Naibu Spika, katika kuhakikisha bei ya zao la mkonge haitetereki, Wizara ya Kilimo kupitia Bodi ya Mkonge imechukua hatua mbalimbali ikiwemo kuimarisha soko la ndani kwa kuongeza matumizi ya ndani katika kutengeneza bidhaa</seg>
+          <seg xml:id="seg71">zilizoongezwa thamani kama vile kamba, mazulia, magunia, mapambo na bidhaa za ufumaji na kupunguza matumizi ya bidhaa kutoka nje kama uagizaji wa kamba za plastiki, mazulia na vifungashio.</seg>
+          <seg xml:id="seg72">Mheshimiwa Naibu Spika, Wizara inaendelea kutenga bajeti kila mwaka kuanzia mwaka wa fedha 2022/2023 kwa ajili ya kununua mashine mpya za kuchakata (makorona) ili kuhakikisha kuwa, ubora wa mkonge unaochakatwa unakidhi matakwa na viwango vya soko la ndani na soko la kimataifa na hivyo kuimarisha bei ya zao hilo, nakushukuru sana.</seg>
+          <seg xml:id="seg73">Mheshimiwa Mnzava.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u38" who="MheTimotheoPMnzava">
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, nakushukuru. Pamoja na majibu ya Serikali, nina maswali madogo mawili ya nyongeza. Swali la kwanza; moja ya njia ya kutoa bei nzuri isiyotetereka ya zao la mkonge ni kuwa na nyuzi bora, kama alivyosema Mheshimiwa Naibu Waziri. Je, ni lini sasa Serikali itatekeleza ahadi yake ya kununua mashine za kuchakata mkonge, ili mazao ya mkonge, nyuzi zinazochakatwa ziwe na ubora ukizingatia kwamba, tuna changamoto kubwa ya uhaba wa mashine?</seg>
+          <seg xml:id="seg75">Mheshimiwa Naibu Spika, swali la pili; katika kuimarisha soko la ndani, kama alivyosema Mheshimiwa Naibu Waziri, Serikali ilitoa agizo la kuzuia uingizaji wa kamba na nyuzi za plastic, lakini mpaka leo hali bado sio nzuri. Je, ni nini kauli ya Serikali juu ya kudhibiti uingizaji wa nyuzi na kamba za plastic kwenye nchi yetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u39" who="NaibuSpika">
+          <seg xml:id="seg76">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA KILIMO</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u40" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg77">Mheshimiwa Naibu Spika, nakushukuru sana. Naomba kujibu maswali mawili ya Mheshimiwa Mbunge, kama ifuatavyo:-</seg>
+          <seg xml:id="seg78">Mheshimiwa Naibu Spika, moja ya maeneo ambayo tunatilia mkazo ni kuwa na teknolojia sahihi ya kuzalisha bidhaa mbalimbali, ikiwemo nyuzi zinazotokana na mkonge. Katika jitihada hizo</seg>
+          <seg xml:id="seg79">tumeshaweka bajeti kwa ajili ya kununua mashine hizo za kisasa ambazo ziliahidiwa, lakini zaidi kupitia taasisi zetu za ubunifu, TEMDO, kuna mashine inaandaliwa ambayo nayo itasaidia kuchakata mkonge, ili kupata nyuzi bora na zenye tija kwa ajili ya kuhakikisha tunapunguza uingizaji wa nyuzi mbadala za plastic kutoka nje.</seg>
+          <seg xml:id="seg80">Mheshimiwa Naibu Spika, kuhusu kuzuia uingizaji wa nyuzi za plastic kama unavyojua ni kweli, bado mahitaji ni makubwa zaidi ya bidhaa hii kuliko uwezo wa kuzalisha wa ndani, kadri tunavyoendelea kuimarisha uzalishaji wa nyuzi za mkonge naamini tutapunguza hilo gap na pale tutakapokuwa tumejitosheleza, maana yake hii marufuku itaisha ili kuhakikisha hatuagizi tena nyuzi za plastic kutoka nje, nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u41" who="NaibuSpika">
+          <seg xml:id="seg81">Mheshimiwa Profesa Patrick Alois Ndakidemi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u42" who="MheProfPatrickANdakidemi">
+          <seg xml:id="seg82">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa fursa ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg83">Je, Serikali ina mkakati gani wa kuboresha bei ya zao la kahawa kwa wakulima wanaolima kahawa aina ya Arabika na Robusta? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u43" who="NaibuSpika">
+          <seg xml:id="seg84">Mheshimiwa ungechomekea tu, kama vile Mkonge na huku Kahawa, anyway Mheshimiwa Waziri jibu hilo swali.</seg>
+          <seg xml:id="seg85">NAIBU WAZIRI WA VIWANDA NA BIASHARA Mheshimiwa Naibu Spika, nakushukuru, naomba kujibu Swali la Mheshimiwa Prof. Ndakidemi kama ifuatavyo: -</seg>
+          <seg xml:id="seg86">Mheshimiwa Naibu Spika, ni kweli moja ya maeneo ambayo Serikali inaangalia kwa ukaribu sana ni kuona namna gani tunaboresha bei ya mazao ya kilimo ikiwemo Kahawa katika nchi hii. Serikali ya Awamu ya Sita chini ya Rais wetu Mheshimiwa Dkt. Samia Suluhu Hassan, tunaendelea kuongeza uwekezaji. Mosi, uwekezaji wa viwanda vya kuchakata zao la Kahawa. Pili, kuona tunafungua masoko ili wananchi hawa ambao wanazalisha, hata wale ambao hawajaongeza thamani waweze kuuza popote. Kwa hiyo, maana</seg>
+          <seg xml:id="seg87">yake kupitia hiyo najua bei yake itaongezeka kwa sababu mahitaji yatakuwa makubwa kwa hiyo bei nayo itapanda. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u44" who="NaibuSpika">
+          <seg xml:id="seg88">Mheshimiwa Dkt. Kabati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u45" who="MheDktRittaEKabati">
+          <seg xml:id="seg89">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi.</seg>
+          <seg xml:id="seg90">Mheshimiwa Naibu Spika, Mkoa wa Iringa ni kati ya Mikoa iliyohamasisha kulima kwa wingi zao la parachichi, changamoto inayowakabili ni bei kubwa sana ya miche ya mbegu. Je, ni lini Serikali itaona umuhimu hata kuwapatia miche ya ruzuku ili wananchi waweze kulima kwa wingi zaidi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u46" who="NaibuSpika">
+          <seg xml:id="seg91">Mheshimiwa Waziri wewe ni mzoefu, jibu hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u47" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, nakushukuru. Naomba kujibu swali la Mheshimiwa Dkt. Ritta Kabati, Mbunge kama ifuatavyo: -</seg>
+          <seg xml:id="seg93">Mheshimiwa Naibu Spika, Serikali yetu ya Awamu ya Sita kama nilivyosema, chini ya Rais wetu mpendwa Mheshimiwa Dkt. Samia Suluhu Hassan, imeongeza fedha nyingi sana kwenye sekta hii ya kilimo na ninyi ni mashahidi kutoka billioni 200 mpaka karibu trilioni moja sasa. Moja ya maeneo ambayo yameangaliwa ni kuongeza ruzuku kwenye uzalishaji wa miche ya mazao mbalimbali ikiwemo parachichi. Hii tayari tumeshaweka na kule Iringa tayari pale Kilolo kuna miche ambayo inazalishwa kwa ajili ya ruzuku.</seg>
+          <seg xml:id="seg94">Mheshimiwa Naibu Spika, kwa hiyo, ni muda tu kwamba wakulima wawasiliane na Idara ya Kilimo katika Mkoa wa Iringa ili waweze kupata miche ya ruzuku kwa ajili ya kupanda zao hili la parachichi. Nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u48" who="NaibuSpika">
+          <seg xml:id="seg95">Mheshimiwa Waziri hili swali la Mheshimiwa Mnzava la Mkonge, Mwaka 1962 Tanzania ilikuwa inalima mkonge tani</seg>
+          <seg xml:id="seg96">130,000 leo hatufiki hata tani 38,000. Hili nendeni mkalifanyie kazi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u49" who="NaibuSpika">
+          <seg xml:id="seg97">Waheshimiwa Wabunge, tunaendelea na Wizara ya Mambo ya Ndani ya Nchi, Mheshimiwa Maida.</seg>
+        </u>
+        <note>Na. 49. Malipo ya madeni ya kusafirisha mizigo ya askari wastaafu</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u50" who="MheMaidaHamadAbdallah">
+          <seg xml:id="seg98">Je, lini Serikali italipa madeni ya fedha za kusafirishia mizigo kwa Askari Wastaafu?</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u51" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg99">Mheshimiwa Naibu Spika, nakushukuru. Kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, naomba kujibu swali la Mheshimiwa Maida Hamad Abdallah, Mbunge wa Viti Maalum, kama ifuatavyo: -</seg>
+          <seg xml:id="seg100">Mheshimiwa Naibu Spika, Serikali kupitia Jeshi la Polisi limeshafanya uhakiki wa madeni ya kusafirisha mizigo ya askari polisi wastaafu 624. Uhakiki huo unaonesha kuwa jumla ya fedha zinazohitajika kwa ajili ya kusafirisha mizigo ya askari polisi wastaafu ni shilingi 806,067,788.02. Madai hayo yatalipwa baada ya Wizara ya Fedha kukamilisha taratibu za kuhamishia fedha hizo Wizara ya Mambo ya Ndani ya Nchi kukamilika. Ninakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u52" who="NaibuSpika">
+          <seg xml:id="seg101">Mheshimiwa Maida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u53" who="MheMaidaHamadAbdallah">
+          <seg xml:id="seg102">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza maswali ya nyongeza.</seg>
+          <seg xml:id="seg103">Mheshimiwa Naibu Spika, ni muda mrefu sasa wastaafu hawa tokea waliostaafu kipindi cha miaka ya 2020 hadi 2021. Ni bajeti gani</seg>
+          <seg xml:id="seg104">ambayo imepanga fedha hizo kupewa wastaafu hawa. Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u54" who="NaibuSpika">
+          <seg xml:id="seg105">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u55" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg106">Mheshimiwa Naibu Spika, nakushukuru, kama nilivyosema, wastaafu jumla walikuwa 624, ili kulipa madeni haya lazima kufanaya uhakiki. Kama nilivyosema, tumeshahahikiki tayari wastaafu 579 ambao ndiyo jumla ya fedha hizo ambazo zimepangwa katika mwaka wa fedha kulipwa, ambazo ni shilingi 806,067,788.02. Hao wengine waliobakia nao tunaendelea na uhakiki ili kujiridhisha kwamba tunalipa stahiki zao bila kumpunja mstaafu yeyote katika Jeshi la Polisi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u56" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg107">Mheshimiwa Naibu Spika, kwa hiyo, Serikali inahakikisha itatenga hizi fedha ili kuwalipa baada ya uhakiki huu kukamilika. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u57" who="NaibuSpika">
+          <seg xml:id="seg108">Mheshimiwa Hokororo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u58" who="MheAgnesEHokororo">
+          <seg xml:id="seg109">Mheshimiwa Naibu Spika, ahsante. Pamoja na fedha za wastaafu lakini kumekuwa na changamoto kubwa kwa watumishi wanaofanya kwenye Wizara hiyo, wanapohama kutokulipwa madai yao ya uhamisho kwa wakati.</seg>
+          <seg xml:id="seg110">Je, Serikali ina utaratibu gani wa kuhakikisha inawalipa kwa haraka? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u59" who="NaibuSpika">
+          <seg xml:id="seg111">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u60" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg112">Mheshimiwa Naibu Spika, nakushukuru sana. Ni kweli moja ya changamoto zinazotokea pale kunapokuwa na uhamisho ambao haukuwepo kwenye bajeti kwa mwaka husika. Nakuhakikishia kwamba, uhamisho wote ambao umefuata taratibu kamili, wote watalipwa na hasa hii inatakiwa baada ya kuhakiki gharama hizo na kuingiza kwenye bajeti ya mwaka husika, watumishi</seg>
+          <seg xml:id="seg113">hawa wanaohama wanalipwa stahiki zao kama ambavyo wamestahili. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u61" who="NaibuSpika">
+          <seg xml:id="seg114">Mheshimiwa Sitta, jiandae Mheshimiwa Janejelly.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u62" who="MheMargaretSSitta">
+          <seg xml:id="seg115">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi na mimi niulize swali la nyongeza kama ifuatavyo: -</seg>
+          <seg xml:id="seg116">Mheshimiwa Naibu Spika, je, ni lini Serikali itakuja kumaliza migogoro iliyopo kati ya Gereza ya Urambo na wananchi wanaozunguka gereza hilo ambapo migogoro imedumu kwa muda mrefu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u63" who="NaibuSpika">
+          <seg xml:id="seg117">Mheshimiwa Waziri, kama unazo takwimu jibu hilo swali.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u64" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg118">Mheshimiwa Naibu Spika, naomba hili lije kama swali au kama atataka takwimu tutampa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u65" who="NaibuSpika">
+          <seg xml:id="seg119">Ahsante. Mheshimiwa Janejelly jiandae Mheshimiwa Bulaya.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u66" who="MheJanejellyJNtate">
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, ahsante. Tunajua mtumishi kabla hajastaafu ana miezi sita ya kumwandaa kustaafu. Je, ni nini sasa tamko la Serikali kuandaa mapema hayo malipo ya kusafirisha mizigo ya wastaafu ili wasiendelee kunyanyasika kama ilivyo sasa hivi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u67" who="NaibuSpika">
+          <seg xml:id="seg121">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u68" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, nakushukuru. Kama nilivyosema mwanzo ni kweli moja ya changamoto ambazo huwa zinakuwepo ni kwa wale ambao wanastaafu lakini bado kwenye bajeti yetu hatujaweka. Kwa sababu, ni kweli kwamba wanaostaafu wanajulikana, dhamira ya Serikali yetu ni kuhakikisha wote wanalipwa kwa wakati.</seg>
+          <seg xml:id="seg123">Mheshimiwa Naibu Spika, kwa hiyo, tunahakikisha kila unapotokea mwaka husika ambao wanaastafu wanawekwa kwenye bajeti za Serikali ili kulipwa kwa wakati bila kufanya ucheleweshwaji wowote kama ambavyo Mheshimiwa Mbunge amesema. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u69" who="NaibuSpika">
+          <seg xml:id="seg124">Mheshimiwa Bulaya, ajiandae Mheshimiwa Kassinge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u70" who="MheEsterABulaya">
+          <seg xml:id="seg125">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg126">Mheshimiwa Naibu Spika, tatizo la watu wanaostaafu kuchelewa kulipwa mizigo ni kubwa, hata kwenye Ripoti za CAG ipo na tatizo la uhamisho na lenyewe ni kubwa. Kwa Mkoa wa Mara, kuna watu ambao hawajalipwa huu ni mwaka wa tatu mpaka wa nne mfululizo ikiwemo na Wilaya ya Bunda.</seg>
+          <seg xml:id="seg127">Je, ni lini Serikali mtalipa madeni ya mizigo na uhamisho kwa waataafu wa Mkoa wa Mara? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u71" who="NaibuSpika">
+          <seg xml:id="seg128">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u72" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg129">Mheshimiwa Naibu Spika, nakushukuru. Ninaomba niwahakikishie Waheshimiwa Wabunge kwamba Serikali ina dhamira njema ya kuhakikisha wastaafu wanalipwa stahili zao kwa wakati, ikiwemo usafirishaji wa mizigo na mafao yao ya kustaafu. Kwa hiyo, moja ya maeneo ambayo tunaweka msisitizo ni kuhakikisha kila mwaka wa bajeti tunaweka bajeti ya kutosha ili kufidia madeni ya nyuma. Pili, kuhakikisha wale wanaostaafu katika mwaka husika wanalipwa kwa wakati.</seg>
+          <seg xml:id="seg130">Mheshimiwa Naibu Spika, kwa hiyo nawahakikishia Waheshimiwa Wabunge kwamba, Serikali itaendelea kuwalipa kwa wakati kadri ambavyo fedha zitapatikana katika bajeti ya kila mwaka. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u73" who="NaibuSpika">
+          <seg xml:id="seg131">Mheshimiwa Kassinge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u74" who="MheAllyMKassinge">
+          <seg xml:id="seg132">Mheshimiwa Naibu Spika, nakushukuru kwa nafasi. Kutokana na changamoto ambayo imeendelea kujitokeza kwa Askari wetu wanapostaafu kucheleweshewa mafao yao, kwanini Serikali sasa isije na mpango wa kufanya uhakiki angalau mwaka mmoja kabla ili mtumishi au askari anapostaafu apate mafao yake pamoja na fedha za usafiri? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u75" who="NaibuSpika">
+          <seg xml:id="seg133">Mheshimiwa Waziri.</seg>
+        </u>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u76" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg134">Mheshimiwa Naibu Spika, nakushukuru. Sisi tunalichukua hili na ni maeneo ambayo tunayafanyia kazi kama nilivyosema kuhakiki mapema. Mosi, madeni na Pili, mahitaji ya mwaka husika ili kupunguza ucheleweshaji huo.</seg>
+          <seg xml:id="seg135">Mheshimiwa Naibu Spika, Serikali tunalifanyia kazi hili kama ambavyo wamesema na tunahakikisha tunafanya hivyo ili kupunguza adha kwa wastaafu hawa katika maeneo yote. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u77" who="NaibuSpika">
+          <seg xml:id="seg136">Waheshimiwa tunaendelea. Mheshimiwa Mtaturu.</seg>
+        </u>
+        <note>Na. 50. Ujenzi wa vituo vya polisi na nyumba za askari Singida Mashariki</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u78" who="MheMirajiJMtaturu">
+          <seg xml:id="seg137">Je, lini Serikali itajenga Vituo vya Polisi kwenye Kata za Mkiwa, Misughaa na Mungaa pamoja na nyumba za kuishi askari Singida Mashariki?</seg>
+          <seg xml:id="seg138">Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Miraji Jumanne Mtaturu, Mbunge wa Singida Mashariki, kama ifuatavyo: -</seg>
+          <seg xml:id="seg139">Mheshimiwa Naibu Spika, Serikali inazo taarifa kuwa Kata za Mkiwa, Misughaa na Mungaa zimeshatenga maeneo kwa ajili ya ujenzi wa vituo vya Polisi na nyumba za makazi ya askari. Serikali kupitia Jeshi la Polisi inasubiri kupata taarifa ya maendeleo ya ujenzi wa vituo na nyumba hizo ili kuunga mkono kwenye ukamilishaji. Nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u79" who="NaibuSpika">
+          <seg xml:id="seg140">Mheshimiwa Mtaturu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u80" who="MheMirajiJMtaturu">
+          <seg xml:id="seg141">Mheshimiwa Naibu Spika, ahsante sana.</seg>
+          <seg xml:id="seg142">Swali la kwanza; kwa kuwa ukuaji wa shughuli za kiuchumi unaongeza changamoto za kiusalama katika maeneo yetu na kwa kuwa tulikubaliana kuwa na Polisi Kata, Polisi Kata ambao hawana vituo itakuwa ni sawa na bure. Ni nini mkakati wa Serikali sasa kujenga Vituo hivi vya Polisi katika maeneo ya pembezoni, ikiwemo Mkiwa na Misughaa pamoja na Mungaa ili kuweza kusaidia ulinzi na kwa sababu wananchi wameshafyatua matofali 1000 katika Kata ya Mkiwa na mimi kwenye Mfuko wa Jimbo nimeanza kuwaunga mkono. Ni nini Serikali itafanya kwa ajili ya kutusaidia kumalizia ujenzi huo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u81" who="MheMirajiJMtaturu">
+          <seg xml:id="seg143">Swali la pili; Askari wetu wanafanya kazi nzuri sana na maeneo mengi hawana nyumba za kuishi, wanakaa mtaani. Ni nini mkakati wa Serikali hususan kwenye Wilaya ya Ikungi, ambayo hatuna nyumba hata moja ya Askari, hata Mkuu wa Polisi Wilaya anaishi mtaani.</seg>
+          <seg xml:id="seg144">Ni nini mkakati wa Serikali kuwajengea makazi Polisi wetu. Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u82" who="MamboYaNdaniYaNchi">
+          <seg xml:id="seg145">Mheshimiwa Naibu Spika, Nakushukuru. Naomba kujibu maswali mawili ya Mheshimiwa Mbunge, kama ifuatavyo: -</seg>
+          <seg xml:id="seg146">Mheshimiwa Naibu Spika, kama nilivyosema awali, tunapongeza sana juhudi za Mheshimiwa Mbunge lakini na wananchi wa Jimbo kwa kuanzisha ujenzi wa Vituo hivi vya Polisi katika Kata hizo ambazo amezitaja. Mkakati wa Serikali ni kuhakikisha tunaunga mkono juhudi za wananchi ili kuhakikisha tunakamilisha ujenzi huo. Katika hili tuwasiliane na Wizara ili kuhakikisha tunakamilisha majengo hayo ambayo Mheshimiwa Mbunge ameyataja na wameanza kufanya kazi kwa ajili ya kujenga na kukamilisha vituo hivyo vya Polisi Kata. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u83" who="MamboYaNdaniYaNchi">
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, swali lake la pili, moja ya mikakati ya Serikali ya Awamu ya Sita, chini ya Rais wetu Mheshimiwa Dkt. Samia Suluhu Hassan, kuimarisha ulinzi na usalama ni kuona Askari wanaishi katika maeneo stahiki na yenye tija au hali nzuri katika maeneo ya kazi. Kwa hiyo, moja ya maeneo ambayo inaangalia ni kujenga nyumba za Askari katika maeneo yote ikiwemo katika Kata hii. Kwa hiyo, katika mipango ya Serikali ni kuona tunaendelea kujenga makazi ya Askari Polisi na Watumishi wengine ambao wanastahili kupata nyumba hizo ili waweze kufanya kazi zao kwa ubora zaidi. Nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u84" who="NaibuSpika">
+          <seg xml:id="seg148">Mheshimiwa Amar, jiandae Mheshimiwa Midimu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u85" who="MheHusseinNAmar">
+          <seg xml:id="seg149">Mheshimiwa Naibu Spika, ahsante kwa kuniona.</seg>
+          <seg xml:id="seg150">Kwa kuwa, Kituo cha Polisi cha Nyang’hwale hakina hadhi na ni kidogo na kimechakaa. Je, Serikali ina mpango gani wa kujenga Kituo cha Polisi cha kisasa cha Wilaya hapo Nyang’hwale?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u86" who="MamboYaNdaniYaNchi">
+          <seg xml:id="seg151">Mheshimiwa Naibu Spika, nakushukuru. Ni kweli maeneo mengi vituo vya Polisi ikiwemo hiki cha Nyang’hwale ni vya muda mrefu, kwa hiyo vimechakaa. Kama nilivosema, moja ya maeneo ambayo Serikali tunaweka mkazo ni kuboresha vituo hivi vya Polisi, hicho ni mojawapo ya Kituo cha Polisi ambacho tutaangalia namna ya kukirekebisha, kukarabati kadri ambavyo fedha zitapatikana. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u87" who="NaibuSpika">
+          <seg xml:id="seg152">Mheshimiwa Midimu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u88" who="MheEstherLMidimu">
+          <seg xml:id="seg153">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ili niweze kuuliza swali la nyongeza. Je, ni lini Serikali itajenga nyumba za Askari Wilaya ya Itilima, Mkoa wa Simiyu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u89" who="NaibuSpika">
+          <seg xml:id="seg154">Mheshimiwa Waziri, majibu ungejibu kwa kifupi, Serikali inajua umuhimu wa vituo hivyo vya Polisi, tunajiandaa kwenye bajeti ijayo kuhakikisha vituo vyote tunajenga. Sasa utajibu, kuna Wilaya zaidi ya 180 hapa! </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <note>K.n.y. WAZIRI WA MAMBO YA NDANI YA NCHI</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u90" who="NaibuWaziriWaViwandaNaBiashara">
+          <seg xml:id="seg155">Mheshimiwa Naibu Spika, nakushukuru sana.</seg>
+          <seg xml:id="seg156">Mheshimiwa Naibu Spika, kama ambavyo umesema ni kweli Serikali inajua umuhimu wa kuwa na vituo hivi vya Polisi, kwa hiyo, katika bajeti zake tutaendelea kutenga fedha ili kuhakikisha maeneo haya yote yanajengewa vituo vya Polisi, kadri ya muda utakavyohitajika. Nakushukuru sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u91" who="NaibuSpika">
+          <seg xml:id="seg157">Mheshimiwa Waziri kapumzike ahsante kwa majibu mazuri. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u92" who="NaibuSpika">
+          <seg xml:id="seg158">Waheshimiwa Wabunge, ahsanteni. Tunaendelea na Wizara ya Mifugo na Uvuvi, Mheshimiwa Amour Mbarouk. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u93" who="NaibuSpika">
+          <seg xml:id="seg159">Kuanzisha uvuvi unaotumia dira maalum</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u94" who="MheAmourKhamisMbarouk">
+          <seg xml:id="seg160">Je, ni lini Serikali itawaendeleza wavuvi kwa kuanzisha uvuvi unaotumia dira maalum inayoelekeza samaki walipo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u95" who="NaibuWaziri">
+          <seg xml:id="seg161">Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg162">NAIBU WAZIRI, OFISI YA WAZIRI MKUU, KAZI, AJIRA, VIJANA NA WENYE ULEMAVU (MHE. PASCAL P. KATAMBI) K.n.y WAZIRI WA MIFUGO NA UVUVI alijibu: -</seg>
+          <seg xml:id="seg163">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Mifugo na Uvuvi, naomba kujibu swali la Mheshimiwa Amour Khamis Mbarouk, Mbunge wa Tumbe, kama ifuatavyo: -</seg>
+          <seg xml:id="seg164">Mheshimiwa Naibu Spika, Wizara kupitia Taasisi ya Utafiti wa Uvuvi Tanzania (Tanzania Fisheries Research Institute - TAFIRI), imeshaanza kuteleleza mradi wa kutambua maeneo yenye samaki yanayofaa kwa uvuvi (Potential Fishing Zones - PFZs) katika Bahari ya Hindi ili kuwasaidia wavuvi kujua maeneo yenye samaki wengi. Aidha, katika mradi huu, wavuvi wanawezeshwa kufanya uvuvi unaotumia dira maalum kwa kupewa taarifa za kijiografia (GPS) kupitia simu za mkononi ili kujua maeneo yenye samaki kwa wakati husika. Mradi huu wa majaribio ulifanyika kwa mafanikio kwa kushirikiana na wavuvi wa maeneo ya Mafia na Tanga kwa upande wa Tanzania Bara na Unguja na Pemba kwa upande wa Zanzibar.</seg>
+          <seg xml:id="seg165">Mheshimiwa Naibu Spika, kwa sasa TAFIRI inatengeneza programu maalumu (mobile app) ambayo itawawezesha wavuvi kupata taarifa za maeneo ya uvuvi ambako samaki wanapatikana kwa wingi. Aidha, programu hiyo imekamilika kwa asilimia 90. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u96" who="NaibuSpika">
+          <seg xml:id="seg166">Mheshimiwa Amour.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u97" who="MheAmourKhamisMbarouk">
+          <seg xml:id="seg167">Mheshimiwa Naibu Spika, ahsante. Nampongeza sana Waziri kwa majibu yake mazuri sana, Mwenyezi Mungu awawezeshe ila nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg168">Moja, hiyo mobile app ambayo iko asilimia 90 itakamilika lini ili kupunguza vifo vya wavuvi ambao wanakwenda kutafuta bila kujua wanatafuta nini na wapi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u98" who="MheAmourKhamisMbarouk">
+          <seg xml:id="seg169">Swali la Pili; hivi Serikali ilishawaeleza wavuvi wajibu wao kuhusiana na mobile app ambayo wanaingeneza? Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u99" who="NaibuSpika">
+          <seg xml:id="seg170">Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg171">NAIBU WAZIRI, OFISI YA WAZIRI MKUU, KAZI, AJIRA, VIJANA NA WENYE ULEMAVU (MHE. PASCAL P. KATAMBI) K.n.y WAZIRI WA MIFUGO NA UVUVI: Mheshimiwa Naibu Spika, ahsante. Naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Amour Khamis Mbarouk, Mbunge wa Tumbe, kama ifuatavyo: -</seg>
+          <seg xml:id="seg172">Mheshimiwa Naibu Spika, kama nilivyoeleza kwenye majibu yangu ya msingi kwamba, hii application tayari imekwishakamilika, iko katika asilimia 90. Asilimia 10 hiyo ni ile ya kuangalia ule mfumo unaweza kufanya kazi kwa usahihi kiasi gani. Halafu, hatua ya pili itakuwa inajibu swali lake la pili kwamba, wavuvi kama wamekwishakujulishwa.</seg>
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, baada ya mfumo huu kuwa umekamilika, tutaanza hatua ya kuwajulisha wavuvi wote ili kuweza kunufaika na utaratibu huo, ikiwa ni pamoja na kutoa elimu kwa wavuvi katika makundi mbalimbali. Ahsante.</seg>
+          <seg xml:id="seg174">Mheshimiwa Mkundi, jiandae Mheshimiwa Mariam Mwinyi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u100" who="MheJosephMMkundi">
+          <seg xml:id="seg175">Mheshimiwa Naibu Spika, nashukuru, wakati wa hotuba ya Bajeti Kuu mwaka 2023/2024, Bunge hili lilipitisha Tozo ya shilingi 100 kwa kila kilo moja ya samaki wakavu aina ya</seg>
+          <seg xml:id="seg176">dagaa wanaosafirishwa kuingia nchini au Kwenda nje ya nchi. Jambo hili limetafsiriwa vibaya Jimboni Ukerewe, jambo ambalo limefanya watumishi wanatoza wananchi shilingi 100 kwa samaki wanaosafirishwa ndani ya Wilaya jambo ambalo limeleta taharuki kubwa Jimboni Ukerewe.</seg>
+          <seg xml:id="seg177">Mheshimiwa Naibu Spika, ninataka kupata kauli ya Serikali juu ya jambo hili ili kujenga amani kwa wananchi wa Jimbo la Ukerewe. Nashukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u101" who="NaibuSpika">
+          <seg xml:id="seg178">Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg179">NAIBU WAZIRI, OFISI YA WAZIRI MKUU, KAZI, AJIRA, VIJANA NA WENYE ULEMAVU (MHE. PASCAL P. KATAMBI) K.n.y WAZIRI WA MIFUGO NA UVUVI: Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Mkundi, Mbunge wa Ukerewe, kama ifuatavyo: -</seg>
+          <seg xml:id="seg180">Mheshimiwa Naibu Spika, kwanza nimpongeze, jambo hili amekuwa akilifuatilia sana kwenye Wizara ili kuhakikisha wavuvi waliopo katika ukanda huo wa Ziwa Victoria na pale Ukerewe wananufaika zaidi na biashara wanayoifanya.</seg>
+          <seg xml:id="seg181">Mheshimiwa Naibu Spika, katika kipindi cha marekebisha ya tozo, awali tozo ilikuwa kuanzia kilo 0 - 500 ilikuwa haitozwi chochote, lakini kilogramu kuanzia 501 na kuendelea ilikuwa inatozwa shilingi 100. Kwa kuzingatia kwamba ile ni biashara ya ndani na nje (import and export business) haiwezi kuwa na masharti sawa na ufanyaji wa biashara ndani ya nchi.</seg>
+          <seg xml:id="seg182">Mheshimiwa Naibu Spika, hapa ni kosa la kitafsiri la kanuni na sheria, hivyo natumia fursa hii kwa niaba ya Waziri wa Mifugo na Uvuvi kumwagiza Katibu Mkuu awasiliane na Mheshimiwa Mbunge ili kwenda kurekebisha changamoto hiyo inayowapata wavuvi wa hapo Ukerewe, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u102" who="NaibuSpika">
+          <seg xml:id="seg183">Mheshimiwa Maryam Mwinyi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u103" who="MheMaryamAzanMwinyi">
+          <seg xml:id="seg184">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali moja la nyongeza; je, Serikali ipo tayari kugawa vifaa kwa wavuvi ili waweze kutumia hiyo mobile app? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u104" who="NaibuSpika">
+          <seg xml:id="seg185">Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg186">NAIBU WAZIRI, OFISI YA WAZIRI MKUU, KAZI, AJIRA, VIJANA NA WENYE ULEMAVU (MHE. PASCAL P. KATAMBI) K.n.y WAZIRI WA MIFUGO NA UVUVI: Mheshimiwa Naibu Spika, ahsante. Naomba kujibu swali la Mheshimiwa Maryam Mwinyi, kama ifuatavyo: -</seg>
+          <seg xml:id="seg187">Mheshimiwa Naibu Spika, kama nilivyoeleza tangu awali kwenye majibu yangu ya msingi kwamba Serikali tupo tayari, ilikuwa kwanza ni kuangalia namna gani tunaweza tukawafanya wavuvi wetu waweze kunufaika na mazao ya bahari au mito na maziwa kwa kufanya huo utafiti na kupata hiyo application ambayo ni maalum inayosaidia wao kuweza kujua mazalia ya samaki.</seg>
+          <seg xml:id="seg188">Mheshimiwa Naibu Spika, huu mpango ni pamoja na utaratibu wa kuweza kuwafundisha, kuwapa elimu, na pia utaenda sambamba na kuwapa vifaa. Zaidi hapa watatumia simu zao za mkononi tu kuweza kujua mazalia ya samaki na kupata taarifa zaidi. Kwa hiyo, tutaendelea kushirikiana nao na kuwawezesha kiutaalamu, kielimu, na kiujuzi katika kuhakikisha kwamba tunapata tija iliyokusudiwa na Mheshimiwa Rais Dkt. Samia Suluhu Hassan, katika kukuza sekta ya uvuvi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u105" who="NaibuSpika">
+          <seg xml:id="seg189">Mheshimiwa Tunza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u106" who="MheTunzaIMalapo">
+          <seg xml:id="seg190">Mheshimiwa Naibu Spika, nakushukuru. Tatizo linalowakumba wavuvi wetu nchini ni kukosa zana bora za uvuvi. Serikali katika bajeti yake ilisema itanunua meli za uvuvi ili igawe, ipeleke katika sehemu mbalimbali. Nataka kujua, mkakati huo umefikia hatua gani? Kwa sababu Mtwara kule sisi hatujapata hiyo meli. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u107" who="MheTunzaIMalapo">
+          <seg xml:id="seg191">Mheshimiwa Tunza Malapo, kama ifuatavyo: -</seg>
+          <seg xml:id="seg192">Mheshimiwa Naibu Spika, ni kweli katika bajeti ilielezwa, lakini pia tumeendelea kuchukua hatua mbalimbali ikiwemo kuwasiliana kwanza kwenye masuala ya fedha, kuhakikisha tunapata fedha na kutekeleza bajeti kwa kadri ilivyokuwa imepangwa kwa mwaka wa fedha 2023/2024. Hivyo, nimhakikishie Mheshimiwa Mbunge, yale yote ambayo tuliyapitisha katika bajeti, tupo kwenye hatua za utekelezaji na tutahakikisha kwamba tunayatekeleza kama ambavyo tumekuwa na matamanio, likiwemo hilo la kuweza kununua meli na kuboresha katika sekta hiyo ya uvuvi kwa kuleta mitambo ya kisasa na pia kutumia teknolojia ya kisasa, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u108" who="NaibuSpika">
+          <seg xml:id="seg193">Mheshimiwa Bupe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u109" who="MheBupeNMwakangAta">
+          <seg xml:id="seg194">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali. Ni lini Serikali itapunguza tozo ya shilingi 7,000 ambayo wavuvi wanatozwa wanapoingia kuvua samaki mle ndani ya Ziwa Rukwa? Ni lini sasa Serikali itakuja kupunguza tozo hiyo? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u110" who="NaibuSpika">
+          <seg xml:id="seg195">Mheshimiwa Naibu Waziri.</seg>
+          <seg xml:id="seg196">NAIBU WAZIRI, OFISI YA WAZIRI MKUU, KAZI, AJIRA, VIJANA NA WENYE ULEMAVU (MHE. PASCAL P. KATAMBI) K.n.y WAZIRI WA MIFUGO NA UVUVI: Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Bupe, kama ifuatavyo: -</seg>
+          <seg xml:id="seg197">Mheshimiwa Naibu Spika, kuhusiana na suala la lini Serikali itapunguza tozo, kwanza ni kupata uhakika wa aina ya tozo na kiwango kinachotozwa kwenye maeneo hayo. Kwa hiyo, naomba suala hili nilichukue kwa sababu linahusiana zaidi na takwimu ili kuweza kupata uhakika kwanza wa tozo zinazotozwa, na pili, kuweza kuona utaratibu wa kisera pamoja na kanuni na sheria zinasemaje</seg>
+          <seg xml:id="seg198">katika eneo hilo na hatua ya tatu itakuwa ni kuleta mapendekezo ya kuona unafuu utapatikanaje kwa wavuvi wetu ili waweze kupata faida zaidi, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u111" who="NaibuSpika">
+          <seg xml:id="seg199">Ahsante sana Mheshimiwa Naibu Waziri. Nawe hongera sana kwa kucheza namba zote leo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u112" who="NaibuSpika">
+          <seg xml:id="seg200">Waheshimiwa tunaendelea na Wizara ya Afya, Mheshimiwa Mwakasaka.</seg>
+        </u>
+        <note>Na. 52. Kumaliza upungufu wa madawa na vifaa tiba nchini</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u113" who="MheEmmanuelAMwakasaka">
+          <seg xml:id="seg201">Je, kuna mkakati gani wa kumaliza upungufu wa madawa na vifaa tiba katika hospitali zetu nchini?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u114" who="NaibuSpika">
+          <seg xml:id="seg202">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u115" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg203">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Afya, naomba kujibu swali la Mheshimiwa Emmanuel Adamson Mwakasaka, Mbunge wa Tabora Mjini kama ifuatavyo: -</seg>
+          <seg xml:id="seg204">Mheshimiwa Naibu Spika, Serikali inaendelea kuboresha upatikanaji wa dawa na vifaa tiba katika hospitali zetu nchini kwa kutekeleza yafuatayo: -</seg>
+          <seg xml:id="seg205">(1) Kuipatia mtaji Bohari ya Dawa kwa mwaka wa fedha</seg>
+          <seg xml:id="seg206">2023/2024 ili kuwa na bidhaa za afya muda wote;</seg>
+          <seg xml:id="seg207">(2) Serikali kutoa fedha za ununuzi wa bidhaa za afya kila</seg>
+          <seg xml:id="seg208">mwezi kwa ajili ya vituo vya kutolea huduma za afya vya</seg>
+          <seg xml:id="seg209">Serikali;</seg>
+          <seg xml:id="seg210">(3) Kuhakikisha suala la usimamizi wa bidhaa za afya linakuwa</seg>
+          <seg xml:id="seg211">sehemu ya ajenda ya kudumu ya Kamati za Ulinzi na</seg>
+          <seg xml:id="seg212">Usalama za Wilaya na Mikoa;</seg>
+          <seg xml:id="seg213">(4) Kuwasimamia watoa huduma katika vituo vya kutolea</seg>
+          <seg xml:id="seg214">huduma za afya ili kuweza kukadiria makadirio sahihi</seg>
+          <seg xml:id="seg215">(forecasting); na</seg>
+          <seg xml:id="seg216">(5) Vituo vya kutolea huduma za afya kutumia fedha</seg>
+          <seg xml:id="seg217">zinazotokana na malipo ya huduma na dawa kununua</seg>
+          <seg xml:id="seg218">bidhaa za afya kuliko kutegemea fedha zinazotolewa na</seg>
+          <seg xml:id="seg219">Serikali pekee.</seg>
+          <seg xml:id="seg220">Mheshimiwa Naibu Spika, naomba kuwasilisha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u116" who="NaibuSpika">
+          <seg xml:id="seg221">Mheshimiwa Mwakasaka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u117" who="MheEmmanuelAMwakasaka">
+          <seg xml:id="seg222">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza maswali mawili ya nyongeza. Pamoja na majibu mazuri ya Serikali, naomba kuuliza maswali mawili kama ifuatavyo: -</seg>
+          <seg xml:id="seg223">Mheshimiwa Naibu Spika, kwa mujibu wa takwimu za Bohari ya Madawa, sasa hivi upatikanaji wa dawa ni asilimia zaidi ya 80, lakini ukienda kwenye uhalisia, hicho kitu ni tofauti kabisa. Kumekuwa na shida kubwa ya dawa sijui tatizo ni nini? Hilo la kwanza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u118" who="MheEmmanuelAMwakasaka">
+          <seg xml:id="seg224">Mheshimiwa Naibu Spika, swali langu la pili ni kwamba, sasa kumekuwa na tatizo sugu kabisa kwenye hospitali zetu nyingi; wagonjwa kila wanapokuwa wameandikiwa dawa nyingi huwa wanaambiwa wakanunue kwenye maduka ya watu binafsi: Je, Serikali ina mpango gani wakutatua tatizo hili la wagonjwa kila mala kuandikiwa kwenda kununua dawa katika maduka ya watu binafsi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u119" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg225">Mheshimiwa Naibu Spika, naomba kujibu maswali mawili ya Mheshimiwa Mbunge, kama ifuatavyo: -</seg>
+          <seg xml:id="seg226">Mheshimiwa Naibu Spika, kwanza amesema kwenye takwimu za Bohari ya Dawa upatikanaji wa dawa ni asilimia 80, lakini ukienda kwenye uhalisia unakuta kuna jambo tofauti. Labda nimwambie Mheshimiwa Mbunge, ni kweli kwamba ukiangalia kwenye hospitali zetu za Taifa mpaka hospitali zetu za mikoa, upatikanaji wa dawa ni asilimia 97, kwa sababu wanatumia dawa zinazotoka Bohari ya Dawa na pia wanatumia mapato ya ndani kununua dawa wenyewe. Kwa hiyo, asilimia yao ni kubwa kuliko hata ile ambayo ipo Bohari ya Dawa. Pia kwenye hospitali zetu za wilaya, ni kweli kwamba sasa upatikanaji wa dawa kwa sasa ni asilimia 68, maana yake kuna asilimia 32 ya watu ambao bado wanakosa dawa.</seg>
+          <seg xml:id="seg227">Mheshimiwa Naibu Spika, Mheshimiwa Mbunge ni shahidi kwamba ukilinganisha mwaka jana 2022 na sasa kuna ongezeko la upatikanaji wa dawa. Kama ambavyo sasa MSD inaenda kupata mtaji kutoka Serikalini ili waweze kununua dawa mapema, sasa hilo tatizo litaisha.</seg>
+          <seg xml:id="seg228">Mheshimiwa Naibu Spika, pia Mheshimiwa Mbunge amesema kuna tatizo sugu la wananchi kukosa dawa na wanatakiwa kununua kwenye maduka ya watu binafsi. Hilo hilo linajibu, kwa sababu kama ndani ya hospitali zetu za wilaya na vituo vyetu kwenye hospitali za mikoa kwenda Taifa ni asilimia 97, maana yake kuna upungufu wa asilimia tatu. Ukija kwenye hospitali zetu za wilaya kushuka chini asilimia 32, kwa hiyo, ni lazima watanunua.</seg>
+          <seg xml:id="seg229">Mheshimiwa Naibu Spika, napenda kumwambia Mheshimiwa Mbunge, kwa mkakati ambao umewekwa hapa na Serikali kwa maana ya kutoa mtaji MSD, tutaenda kutatua hilo tatizo kama ambavyo anategemea litatuliwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u120" who="NaibuSpika">
+          <seg xml:id="seg230">Mheshimiwa Deo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u121" who="MheDeodatusPMwanyika">
+          <seg xml:id="seg231">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa nafasi ya kuuliza swali dogo la</seg>
+          <seg xml:id="seg232">nyongeza. Hospitali ya Rufaa Njombe, tunaishukuru Serikali kwanza kwa kuleta vifaa tiba na kuweza kuiboresha, lakini bado wananchi katika Mkoa wa Njombe wana matatizo makubwa sana ya uhitaji wa kusafishwa damu na bado inawabidi wasafiri: Ni lini Serikali italeta mashine ya kusaidia kusafisha damu kwa wagonjwa wa figo katika Hospitari ya Rufaa ya Njombe?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u122" who="NaibuSpika">
+          <seg xml:id="seg233">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u123" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg234">Mheshimiwa Naibu Spika, nimemsikiliza, kama vile anasema suala la upatikanaji wa damu, lakini nilichomwelewa anamaanisha kusafisha figo.</seg>
+          <seg xml:id="seg235">Mheshimiwa Naibu Spika, tumeagiza hospitali zote za mikoa, na vifaa vipo kwa ajili ya kuweka majengo ya kusafisha damu. Kwa sababu hospitali yetu ni mpya, namwomba Mheshimiwa Mbunge tufanye mawasiliano tujue jengo kwa ajili ya kusafisha damu, kwa maana ya kutibu wagonjwa wa figo, lipo kwenye hatua gani ya ujenzi ili vifaa viweze kwenda kwa ajili ya kutatua tatizo hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u124" who="NaibuSpika">
+          <seg xml:id="seg236">Mheshimiwa Catherine.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u125" who="MheCatherineVMagige">
+          <seg xml:id="seg237">Mheshimiwa Naibu Spika, nakushukuru. Hospitali ya Selian imekuwa ni hospitali ambayo inatoa msaada mkubwa sana kwa wakazi wa Arusha, lakini hospitali hii imekuwa inapitia changamoto nyingi: Je, Serikali haioni sasa ni wakati muafaka wa kuisaidia hospitali hii ya Selian kama ambavyo imekuwa ikisaidia hospitali nyingine? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u126" who="NaibuSpika">
+          <seg xml:id="seg238">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u127" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg239">Mheshimiwa Naibu Spika, ni kweli kwamba Hospitali ya Selian kwa maana ya ALMC inapitia katika changamoto ambapo tumeona wanafika mahali wanakaa mpaka miezi minne hawajalipa mishahara, na walishaleta maombi yao Serikalini kwa ajili ya kusaidiwa kwenye baadhi ya mambo ili waweze kujikwamua kwenye hali hiyo. Serikali imeshaunda timu, na timu</seg>
+          <seg xml:id="seg240">imeenda kwenye hospitali hiyo, wamefanya uchunguzi ili kujua ni matatizo gani ambayo yanaikumba hospitali hiyo.</seg>
+          <seg xml:id="seg241">Mheshimiwa Naibu Spika, tumeshayaona matatizo, kuna mengine tumewaambia warekebishe na watupe Subira kwani kuna mchakato unaendelea ndani ya Wizara zetu ili tujue tutafanya nini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u128" who="NaibuSpika">
+          <seg xml:id="seg242">Mheshimiwa Iddi Kassim.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u129" who="MheIddiKIddi">
+          <seg xml:id="seg243">Mheshimiwa Naibu Spika, ahsante sana. Kwa kuwa Halmashauri ya Msalala tumekamirisha ujenzi wa vituo vya afya viwili na zahanati 24: Nini mkakati wa dharura wa Serikali wa kuhakikisha kwamba wanapeleka vifaa tiba ili zahanati hizi na vituo vya afya vianze kufanya kazi haraka iwezekanavyo? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u130" who="NaibuSpika">
+          <seg xml:id="seg244">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u131" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg245">Mheshimiwa Naibu Spika, mimi na Mheshimiwa Mbunge, tumetembelea vituo hivyo na nimeona kweli kuna tatizo hilo. Namwomba Mheshimiwa Mbunge aje tukae pamoja, tumpigie DMO wake ili aweze kutuma list ya vifaa ambavyo tulikuwa tumeona havipo tupeleke MSD ili aweze kupata vifaa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u132" who="NaibuSpika">
+          <seg xml:id="seg246">Mheshimiwa George.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u133" who="MheGeorgeRMwenisongole">
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza. Tatizo la madawa nchini linaweza kwisha iwapo tu Serikali itaamua kutoa fedha za mtaji ambazo Bohari Kuu ya Dawa Nchini (MSD) wameomba. Wameomba takribani shilingi bilioni 200.</seg>
+          <seg xml:id="seg248">Je, Mheshimiwa Naibu Waziri, anaweza kutuhakikishia Wabunge kwamba Serikali ipo tayari kutoa hizo fedha za mtaji ili kumaliza tatizo la usambazaji wa dawa hapa nchini kwenye vituo vyetu vya afya na zahanati?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u134" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg249">Mheshimiwa Naibu Spika, hilo lilikuwa ni mjadala mkubwa sana hapa ndani ya Bunge wakati wa bajeti. Nawashukuru ninyi Wabunge kwamba mlilipitisha hilo na Serikali ipo tayari, ndiyo maana wakati wa bajeti, Waziri wa Afya na Waziri wa Fedha walikiri kwamba hilo litaenda kufanyiwa kazi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u135" who="NaibuSpika">
+          <seg xml:id="seg250">Ahsante. Mheshimiwa Issaay.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u136" who="MheZachariaPIssaay">
+          <seg xml:id="seg251">Mheshimiwa Naibu Spika, nakushukuru sana. Changamoto hii ya ukosefu wa dawa imetugharimu sana kwa wananchi: Je, Serikali haioni kuwa sasa ni wakati muafaka wa kuweka alama dawa za Serikali ili kudhibiti upotevu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u137" who="NaibuSpika">
+          <seg xml:id="seg252">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u138" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg253">Mheshimiwa Naibu Spika, jambo la kuweka alama limekuwa ni endelevu na dawa zote za MSD zimekuwa na alama. Ninachoweza kumwomba Mheshimiwa Mbunge, kwenye Baraza la Madiwani suala la dawa na vifaa tiba liwe ni ajenda ya kudumu. Pia nawaomba Wakuu wa Mikoa na Wakuu wa Wilaya hilo liwe ni ajenda ya kudumu, kwa sababu ni ukweli kwamba upungufu mkubwa unasababishwa na matumizi mabaya ya fedha yanayopatikana baada ya kuuza huduma na dawa zenyewe, na pia baadhi ya dawa kuibiwa kwenye vituo vyetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u139" who="NaibuSpika">
+          <seg xml:id="seg254">Mheshimiwa Aida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u140" who="MheAidaJKhenani">
+          <seg xml:id="seg255">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipatia nafasi nami niulize swali dogo la nyongeza. Kumekuwa na changamoto katika maeneo mbalimbali nchini. Aidha, hospitali ina vifaa tiba vya kutosha, haina wataalam; au ina wataalam, haina vifaa tiba: Serikali haioni haja sasa yakupeleka hivyo vikaenda sambamba ili kutumia fedha hizi vizuri za walipa kodi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u141" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg256">Mheshimiwa Naibu Spika, namshukuru Mheshimiwa Mbunge, kwa sababu anakubaliana kwamba kuna wakati watumishi wamekuwepo lakini kunakuwa nashida ya vifaa tiba na wakati mwengine kunakuwepo na vifaa tiba, lakini hakuna watumishi.</seg>
+          <seg xml:id="seg257">Mheshimiwa Naibu Spika, kwanza nimhakikishie Mheshimiwa Mbunge, na kama kuna hilo tatizo kwenye jimbo lake la hiyo irregularity, aniletee tuone jinsi ya kulitatua kwa pamoja, lakini pia…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u142" who="NaibuSpika">
+          <seg xml:id="seg258">Mheshimiwa Flatei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u143" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg259">…lakini pia…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u144" who="NaibuSpika">
+          <seg xml:id="seg260">Mheshimiwa Naibu Waziri ameshakuelewa.</seg>
+          <seg xml:id="seg261">Mheshimiwa Flatei. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u145" who="MheFlateiGMassay">
+          <seg xml:id="seg262">Mheshimiwa Naibu Spika, ahsante. Tumejenga vituo vya afya viwili vya Hydom na Eshkesh, havina vifaa tiba na mmetuletea madaktari: Je, lini mnapeleka vifaa tiba ili wananchi wapate huduma ya utabibu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u146" who="NaibuSpika">
+          <seg xml:id="seg263">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u147" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg264">Mheshimiwa Naibu Spika, kama ambavyo nimeshasema hapa, Rais wetu ameshatoa kwa ajili ya kununua vifaa tiba kwa vituo vyote ambavyo vimeisha. Namwomba Mheshimiwa Mbunge, nikitoka hapa, tutakaa pamoja naye tujue ni vifaa gani vinahitajika ili tuweze kuweka utaratibu wa kuvipeleka kwenye eneo lake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u148" who="NaibuSpika">
+          <seg xml:id="seg265">Mheshimiwa Zaytun.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u149" who="MheZaytunSSwai">
+          <seg xml:id="seg266">Mheshimiwa Naibu Spika, ahsante. Hospitali ya Rufaa ya Mount Meru ina uhaba mkubwa wa madaktari:</seg>
+          <seg xml:id="seg267">Je, Serikali ina mpango gani kuongeza madaktari katika hospitali hii ambayo inahudumia zaidi ya mikoa mitatu? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u150" who="NaibuSpika">
+          <seg xml:id="seg268">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u151" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg269">Mheshimiwa Naibu Spika, Hospitali ya Rufaa ya Mount Meru nafikiri anachomaanisha Mheshimiwa Mbunge, ni upungufu wa madaktari bingwa. Ni kweli kwenye hospitali yetu ya Mount Meru na siyo Mount Meru peke yake, hospitali nyingi kuna upungufu wa madaktari bingwa. Ndiyo maana Rais wetu ametoa shilingi bilioni tisa kwa ajili ya kusomesha madaktari bingwa. Mmesikia Dkt. Samia Suluhu Hassan Scholarship ambayo inaendelea na tunaendelea namna hiyo.</seg>
+          <seg xml:id="seg270">Mheshimiwa Naibu Spika, Mount Meru wana madaktari ambao wapo shuleni ambao pia wamesomeshwa kuanzia miaka miwili iliyopita, kwa maana hao wakimaliza shule, upungufu huo ambao upo Mount Meru utapungua.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u152" who="NaibuSpika">
+          <seg xml:id="seg271">Mheshimiwa Mchungahela, jiandae Mheshimiwa Jesca, na Mheshimiwa Dkt. Kimei. Mheshimiwa Mchungahela!</seg>
+          <seg xml:id="seg272">Mheshimiwa Saashisha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u153" who="MheSaashishaEMafuwe">
+          <seg xml:id="seg273">Mheshimiwa Naibu Spika, Kituo cha Afya cha Mkansila, tunashukuru Serikali ilituletea fedha na Kituo cha Afya cha Masamakati, wewe mwenyewe Mheshimiwa Naibu Waziri, ulituhamasisha pale tukajenga kwa nguvu za wananchi na fedha ya Halmashauri: Je, ni lini Serikali italeta fedha ya kumalizia vituo hivi vya afya viwili?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u154" who="NaibuSpika">
+          <seg xml:id="seg274">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u155" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg275">Mheshimiwa Naibu Spika, ni kweli tumekwenda na Mheshimiwa Mbunge, tukakuta wananchi wanaohitaji zahanati, tuliwaomba na tukawahamasisha pamoja na yeye ili waweze kuanza wakati Serikali inakuja nyuma. Nimhakikishie</seg>
+          <seg xml:id="seg276">Mheshimiwa Mbunge hapa, kabla ya mwezi wa Tatu mwakani 2023, kazi hiyo itakuwa imeisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u156" who="NaibuSpika">
+          <seg xml:id="seg277">Mheshimiwa Jesca.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u157" who="MheJescaJMsambatavangu">
+          <seg xml:id="seg278">Mheshimiwa Naibu Spika, nashukuru. Kituo cha Afya Mkoga, kimejengwa kwa nguvu za wananchi na Mfuko wa Jimbo, tumefikia hatua ya boma: Je, Serikali inawezaje kutusaidia ili tumalizie kwa sababu tunahitaji sana huduma kwa eneo lile? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u158" who="NaibuSpika">
+          <seg xml:id="seg279">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u159" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg280">Mheshimiwa Naibu Spika, nimwambie Mheshimiwa Mbunge, kama ambavyo Serikali imekuwa ikitoa fedha shilingi milioni hamsini hamsini kwa ajili ya kumalizia vituo kama hivyo, navyo tutaenda kuviangalia na tutahakikisha na kituo chake kinakuwepo kwenye orodha ya vituo ambavyo vitamaliziwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u160" who="NaibuSpika">
+          <seg xml:id="seg281">Mheshimiwa Dkt. Kimei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u161" who="MheDktCharlesSKimei">
+          <seg xml:id="seg282">Mheshimiwa Naibu Spika, swali langu ni je, Serikali inatoa ushirikiano gani kwa vituo vya afya vinavyomilikiwa na sekta binafsi hususan Makanisa ili viweze kutoa huduma kwa wananchi wanaotegemea sana hivi vituo kwa bei nafuu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u162" who="NaibuSpika">
+          <seg xml:id="seg283">Mheshimiwa Naibu Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u163" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg284">Mheshimiwa Naibu Spika, kumekuwepo na utaratibu wa Serikali kushirikiana na hivyo vituo kwa mikataba maalum. Kama Mheshimiwa Mbunge anakumbuka hata kwenye jimbo lake kuna kituo ambacho kuna ushirikiano kama huo, naomba kama kuna Kituo ambacho amekiona kinategemewa sana na wananchi na vituo vingine vipo mbali na anahitaji hilo, angeleta ili kupita kwenye mchakato ikionekana inafaa na ikikidhi vigezo, basi Serikali itatafakari la kufanya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u164" who="NaibuSpika">
+          <seg xml:id="seg285">Waheshimiwa Wabunge, kwa sababu maalum nimeruhusu maswali mengi ya nyongeza, na kwa mujibu wa kanuni yetu ya 51(4) maswali ya nyongeza hayatazidi matatu. Kutokana na sababu maalum tumeruhusu maswali, kama nilivyosema sababu maalum.</seg>
+          <seg xml:id="seg286">Kwa hiyo, Mheshimiwa Naibu Waziri, nakushuru sana na ninakupongeza kwa majibu mazuri uliyoyatoa, haya weekend njema.</seg>
+          <seg xml:id="seg287">Mheshimiwa Rose Tweve, Mheshimiwa Tweve…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u165" who="MbungeFulani">
+          <seg xml:id="seg288">Kwa niaba…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u166" who="NaibuSpika">
+          <seg xml:id="seg289">Kwa niaba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u167" who="MheKuntiYKajala">
+          <seg xml:id="seg290">Kwa niaba ya Mheshimwa Tweve naomba swali lake namba 53 lipate majibu ya Serikali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u168" who="NaibuSpika">
+          <seg xml:id="seg291">Siyo wewe, kaa chini. Mheshimiwa Mchafu uliza hilo swali. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u169" who="MheHawaMChakoma">
+          <seg xml:id="seg292">Mheshimiwa Naibu Spika, nakushukuru…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u170" who="NaibuSpika">
+          <seg xml:id="seg293">Hebu ngoja kwanza. Mheshimiwa kitendo ulichokifanya siyo kitendo cha Kibunge, nakuambia kitendo ulichokifanya siyo kitendo cha Kibunge. Mheshimiwa Mchafu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 53. Kuwekeza fedha kiwanda – Kibaha</note>
+        <note>K.n.y. MHE. ROSE C. TWEVE</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u171" who="MheHawaMChakoma">
+          <seg xml:id="seg294">Je, kwa nini Serikali isiwekeze fedha Kiwanda cha Viuadudu Kibaha ili kutokomeza malaria nchini?</seg>
+          <seg xml:id="seg295">naomba kujibu swali na Mheshimiwa Rose Cyprian Tweve, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg296">Mhemishimiwa Naibu Spika, katika kipindi cha mwaka 2017 hadi 2023, Serikali imenunua viuadudu vyenye thamani ya shilingi bilioni 5.9 na kutumika katika ngazi ya halmashauri.</seg>
+          <seg xml:id="seg297">Mheshimiwa Naibu Spika, ili kuhakikisha uhakika wa upatikanaji wa viuadudu kutoka Kiwanda cha Kibaha, kwa kipindi cha mwaka 2024 - 2026, Wizara ya Afya imeomba kupatiwa jumla ya shilingi bilioni 129.1 kwa ajili ya utekelezaji wa afua ya unyunyiziaji wa viuadudu ili kuangamiza viluilui vya mbu kwenye mazalia ili kufikia lengo la kutokomeza malaria ifikapo mwaka 2030.</seg>
+          <seg xml:id="seg298">Mheshimiwa Naibu Spika, Wizara ya Afya inashirikiana na Shirika la Taifa la Maendeleo ya Viwanda kuhakikisha kiwanda kinapata ithibati kutoka Shirika la Afya Duniani ili kuongeza wigo wa upatikanaji wa fedha za kutekeleza afua hii kutoka kwa wadau mbalimbali wa mapambano dhidi ya ugonjwa wa malaria.</seg>
+          <seg xml:id="seg299">Mheshimiwa Naibu Spika, naomba kuwasilisha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u172" who="NaibuSpika">
+          <seg xml:id="seg300">Mheshimiwa Mchafu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u173" who="MheHawaMChakoma">
+          <seg xml:id="seg301">Mheshimiwa Naibu Spika, ninakushukuru. Pamoja na majibu mazuri ya Serikali naomba kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg302">Mheshimiwa Naibu Waziri, je, Serikali ina mpango gani kuhakikisha Buy Lava Off Taking Agreement unasainiwa ili kuiwezesha Wizara ya Afya kununua dawa zinazotengenezwa na kiwanda hiki ili kutokomeza malaria nchini?</seg>
+          <seg xml:id="seg303">Mheshimiwa Naibu Spika, swali langu la pili, ninataka kujua sasa ni lini kiwanda hiki kitalipa deni linalodaiwa na TANESCO ili waweze</seg>
+          <seg xml:id="seg304">kurudishiwa umeme na kuhakikisha kazi ya uzalishaji wa dawa ya viuadudu inaendelea kwa kasi ile ile? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u174" who="NaibuSpika">
+          <seg xml:id="seg305">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u175" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg306">Mheshimiwa Naibu Spika, Waziri wa Afya pamoja na Waziri wa Viwanda wameunda taskforce ambayo inashungulikia kiwanda hiki kiweze kupata ithibati na hiyo mikataba kuweza kusainiwa. Wiki ijayo tunakutana kwa ajili ya kuona ni namna gani tunaweza kwenda mbele na tatizo hili.</seg>
+          <seg xml:id="seg307">Mheshimiwa Naibu Spika, pia swali lako la pili la suala la umeme nafikiri mojawapo ya ajenda kwenye hicho kikao itakuwa pamoja na hili suala la umeme tutalitatua kwa pamoja. Nataka kumhakikishia Mheshimiwa Mbunge hili suala litashughulikiwa na litapata suluhu muda si mrefu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u176" who="NaibuSpika">
+          <seg xml:id="seg308">Mheshimiwa Ikupa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u177" who="MheStellaAIkupa">
+          <seg xml:id="seg309">Mheshimiwa Naibu Spika, ahsante, ili kuendelea kutokemeza malaria nchini, pamoja na majibu mazuri yaliyotolewa hapa, Serikali inaonaje ikajielekeza pia kutuhamasisha sisi wananchi kufanya fumigation kwenye makazi yetu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u178" who="NaibuSpika">
+          <seg xml:id="seg310">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u179" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg311">Mheshimiwa Naibu Spika, kwanza swali lake hilo liko straight, kwanza nimuombe awe balozi wa kwanza na niwaombe Wabunge mliopo hapa mtusaidie kuhamasisha na tunalichukua kama alivyolisema, tunaenda kutekeleza. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u180" who="NaibuSpika">
+          <seg xml:id="seg312">Mheshimiwa Nyongo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u181" who="MheStanslausHNyongo">
+          <seg xml:id="seg313">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi, naomba nimuulize Mheshimiwa Naibu Waziri, je, Serikali ina mpango gani wa kutambua, kwa sababu hii teknolojia ya viuadudu ni teknolojia ya kuangamiza mbu. Mbu ni kiumbe aliyeumbwa na Mungu kuishi duniani.</seg>
+          <seg xml:id="seg314">Je, Serikali imefanya mkakati gani kwamba teknolojia hii ikitamalaki mbu wote watakuwa wamekwisha yaani hatutakuwa na mbu. Je, Serikali imeshafanya utafiti kutambua umuhimu wa mbu kuwepo duniani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u182" who="NaibuSpika">
+          <seg xml:id="seg315">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u183" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg316">Mheshimiwa Naibu Spika, ni kweli anachosema Mheshimiwa Nyongo, anazungumzia kweli unapomuondoa kiumbe yoyote ndani ya ikolojia kuna madhara yake kwenye ikolojia. Kwa sababu sehemu mbalimbali duniani wamekuwa wakifanya hilo na wakatokomeza mbu wanaoeneza malaria na haijawahi kutokea tatizo kwenye ikolojia ambalo limeweza kuleta madhara ya kibinadamu.</seg>
+          <seg xml:id="seg317">Mheshimiwa Naibu Spika, nafikiri aendelee kuiamini hii sayansi inayoenda kutumika kwa sababu moja, sisi tunaenda kumtegea mbu pale ambapo anazaliwa kwa maana ya kumuondoa pale ambapo anazaliana, lakini anapokosekana hapa ndiyo tunatumia alichosema dada yangu Mheshimiwa Ikupa kwa maana ya kunyunyuzia.</seg>
+          <seg xml:id="seg318">Mheshimiwa Naibu Spika, anaposhindikana eneo hilo tunatumia net, tunaenda kutumia hizo mbinu zote. Nataka kumhakikishia kwamba kitakachoenda, ndiyo maana tunataka ipate ithibati kupitia Shirika la Afya Duniani kwa maana ya WHO ili kuhakikisha hayo mambo yote unayoyasema ya ikolojia na mambo mengine yamezingatiwa, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u184" who="NaibuSpika">
+          <seg xml:id="seg319">Mheshimiwa Hawa, Mheshimiwa Kilave.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u185" who="MheHawaSMwaifunga">
+          <seg xml:id="seg320">Mheshimiwa Naibu Spika, nakushukuru, suala hili ni suala la muda mrefu kiwanda hiki kutonunuliwa dawa hizi. Serikali imekuwa ikiziomba halmashauri zetu ziweze kununua dawa hizi ili kutokomeza malaria kwenye Majimbo na Mikoa yetu ya Tanzania.</seg>
+          <seg xml:id="seg321">Je, ninyi kama Wizara mna mpango gani wa kutoa waraka maaalum ili angalau halmashauri zetu ziweze kununua hizi dawa na tuweze kutokomeza malaria nchini? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u186" who="NaibuSpika">
+          <seg xml:id="seg322">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u187" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg323">Mheshimiwa Naibu Spika, kwanza nampongeza Mheshimiwa Mbunge kwa maana anaonekana kwamba anatamani hili litokee kwa nguvu. Kwa hiyo, tayari ni balozi wetu. Ninachosema ni juzi Waziri wa TAMISEMI alikuwa na Wakuu wote wa Wilaya, Wakurugenzi wote na Wakuu wa Mikoa. Mojawapo ya makubaliano ni kwamba wahakikishe wameweka fedha kwa ajili ya afua ya lishe, pia wahakikishe wameweka fedha kwa ajili ya kununua viuddudu wa kutokomeza malaria.</seg>
+          <seg xml:id="seg324">Mheshimiwa Naibu Spika, kwa hiyo, hilo linafanyika na la kuandika waraka tutaenda kushirikiana na wenzetu wa TAMISEMI tutaandika waraka maalumu kuhakikisha mambo haya yanatokomezwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u188" who="NaibuSpika">
+          <seg xml:id="seg325">Mheshimiwa Kilave.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u189" who="MheDorothyGKilave">
+          <seg xml:id="seg326">Mheshimiwa Naibu Spika, ahsante, nilikuwa kwenye swali hilo hilo. Mlihakikisha kwamba Halmashauri zetu zinanunua dawa kutoka kwenye hicho kiwanda, lakini naona NBS walipojenga hiki kiwanda ilikuwa ni makusudi maalum kabisa kwamba fedha hizi zirudi ndani ya shirika lile.</seg>
+          <seg xml:id="seg327">Je, sasa hamuoni ipo haja Serikali itoe mamlaka zaidi ili tuweze kununua dawa kutoka kwenye Manispaa zetu kutoka kwenye hiki kiwanda ili kiwanda hiki kiendelee kujiendesha kwa sababu sasa hivi naona kama kiwanda chenyewe hakipo tena? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u190" who="NaibuSpika">
+          <seg xml:id="seg328">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u191" who="NaibuWaziriWaAfya">
+          <seg xml:id="seg329">Mheshimiwa Naibu Spika, kwanza nimuondoe wasiwasi Mheshimiwa Mbunge, ukiona tumeomba shilingi bilioni 129.1 kwa maana tunaomba fedha maalumu kutoka Wizara ya</seg>
+          <seg xml:id="seg330">Fedha, hiki ni kikao ambacho Waziri Mkuu mwenyewe amekisimamia na ameki-push ili haya mambo yatokee.</seg>
+          <seg xml:id="seg331">Mheshimiwa Naibu Spika, kwa hiyo, Waziri Mkuu wa Serikali ya Jamhuri ya Muungano, alikaa mwenyewe kikao na kuelekeza tulifanye hili na pia kwa maana ya ushauri wenu pia uandikwe waraka kuhakikisha kwenye CCHP za halmashauri inawekwa bajeti kwa ajili hiyo. Tukifanya hayo yote tutaenda kufakinikiwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u192" who="NaibuSpika">
+          <seg xml:id="seg332">Mheshimiwa Waziri, hizi dawa za viuadudu nyingi zinaagizwa kutoka nchi za nje na ubora wa dawa hizi kutoka nchi za nje ni mdogo, ni mbovu na ni mbaya sana. Kiwanda hiki kipo nchini mwetu, jaribuni sasa kununua vitu, inaitwa shop local. Nunueni vitu ndani ya Tanzania itaokoa fedha za kigeni, itaokoa kuingiza dawa ambazo hazina ubora. Waziri wa Viwanda na Biashara upo hapa TBS wahakikishe haya madawa mengi yanatoka nje hazina ubora wowote.</seg>
+          <seg xml:id="seg333">Waheshimiwa tuendelee. Hongera Mheshimiwa Waziri wa Afya, ahsante sana. Wizara ya Fedha. Mheshimiwa Ng’enda.</seg>
+        </u>
+        <note>Na. 54. Hatua zilizochukuliwa juu ya Itifaki ya Forodha kati ya</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u193" who="NaibuSpika">
+          <seg xml:id="seg334">Tanzania na DRC</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u194" who="MheKilumbeSNgEnda">
+          <seg xml:id="seg335">Je, hatua zipi zimechukuliwa kuhusu Itifaki ya Forodha kati ya Tanzania na DRC kujiunga na Jumuiya ya Afrika ya Mashariki?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u195" who="NaibuSpika">
+          <seg xml:id="seg336">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u196" who="NaibuWaziriWaFedha">
+          <seg xml:id="seg337">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha, naomba kujibu swali la Mheshimiwa Kilumbe Shabani Ng’enda, Mbunge wa Kigoma Mjini kama ifuatavyo:-</seg>
+          <seg xml:id="seg338">Mheshimiwa Naibu Spika, DRC imeshawasilisha hati ya kukubali kutekeleza Itifaki ya Umoja wa Forodha (Instrument of Ratification) kwa Sekretarieti ya Jumuiya ya Afrika Mashariki. Aidha, DRC inaendelea na mchakato wa kufanya marekebisho ya sheria zake za ndani ili ianze kutumia Sheria ya Pamoja ya Usimamizi wa Forodha ya Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg339">Mheshimiwa Naibu Spika, baada ya kukamilisha mchakato huo, DRC itafanya vikao na Sekretarieti ya Jumuiya ya Afrika Mashariki ili kukubaliana kuhusu utaratibu wa utekelezaji wa mpango wa utekelezaji (road map) ili kujua lini itaanza utekelezaji wa Itifaki ya Forodha ya Jumuiya ya Afrika ya Mashariki, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u197" who="NaibuSpika">
+          <seg xml:id="seg340">Mheshimiwa Kilumbe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u198" who="MheKilumbeSNgEnda">
+          <seg xml:id="seg341">Mheshimiwa Naibu Spika, nashukuru, pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri napenda kupata commitment ya Serikali kwamba wakati tukisuburi kukamilika kwa mchakato wa Itifaki ya Forodha ya Jumuiya ya Afrika Mashariki kati ya nchi yetu na nchi ya DRC ambayo ni mdau mkubwa wa kibiashara wa nchi yetu; je, Wizara yako ipo tayari kukaa na wafanyabiashara wa Kigoma ili kuwapa elimu ya Itifaki hiyo kurahisisha shughuli za kibiashara baina yetu na DRC?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u199" who="NaibuSpika">
+          <seg xml:id="seg342">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u200" who="NaibuWaziriWaFedha">
+          <seg xml:id="seg343">Mheshimiwa Naibu Spika, ahsante, naomba kujibu swali la nyongeza la Mheshimiwa Kilumbe kama ifuatavyo:-</seg>
+          <seg xml:id="seg344">Mheshimiwa Naibu Spika, Serikali ipo tayari kutoa mafunzo na kwa ujumla tayari Serikali imeandaa programu maalum kwa ajili ya kutoa mafunzo ya wafanyabiashara hao, lakini siyo tu waliopo Kigoma bali nchi nzima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u201" who="NaibuSpika">
+          <seg xml:id="seg345">Waheshimiwa Wabunge maswali yetu yamekwisha.</seg>
+          <seg xml:id="seg346">Wageni waliopo Bungeni asubuhi hii, wageni wa Waheshimiwa Wabunge, wageni 29 wa Mheshimiwa Profesa Aloyce Ndakidemi, Madiwani kutoka Jimbo la Moshi Vijijini Mkoa wa Kilimanjaro. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u202" who="NaibuSpika">
+          <seg xml:id="seg347">Wageni 140 wa Mheshimiwa Saashisha Mafuwe, wanafunzi 130 na walimu 10 wa Shilela Academy kutoka Hai, Mkoa wa Kilimanjaro, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u203" who="NaibuSpika">
+          <seg xml:id="seg348">Wageni 54 wa Mheshimiwa Iddi Kassim, viongozi wa Chama cha Mapinduzi (CCM) kutoka Jimbo la Msalala, Mkoa wa Shinyanga. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u204" who="NaibuSpika">
+          <seg xml:id="seg349">Wageni watatu wa Mheshimiwa Zainab Katimba, Mawakili kutoka jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u205" who="NaibuSpika">
+          <seg xml:id="seg350">Mgeni wa Mheshimiwa Asha Juma, mtoto wake kutoka State University of Zanzibar, Ndugu Hudhaifa Omar. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u206" who="NaibuSpika">
+          <seg xml:id="seg351">Mgeni wa Mheshimiwa Neema Mwadabila kutoka Mkoa wa Songwe Ndugu Christina Mwakalasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u207" who="NaibuSpika">
+          <seg xml:id="seg352">Wageni wa Bunge kwa ajili ya mafunzo, wageni 10 waliokuja kwa ajili ya Maonesho katika Viwanja vya Bunge kutoka makampuni yafuatayo; National Insurance Co-operation, Elven Agri Company Ltd., Kplt Company Ltd., Bahi Chicken Company, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u208" who="NaibuSpika">
+          <seg xml:id="seg353">Waheshimiwa Wabunge, Katibu wa Bunge anaomba kuwatangazia Waheshimiwa Wabunge wote kuwa kesho tarehe 2 Septemba, 2023 kutakuwa na Bonanza la mwezi Septemba. Bonanza hili litafanyika katika Viwanja vya Shule ya Sekondari ya John Merlin iliyoko Miyuji, Jijini Dodoma. Bonanza litahusisha michezo mbalimbali ya burudani na mashindano na litaanza kwa maandamano yatakayoanzia Chuo cha Mipango Dodoma saa 12.00 asubuhi.</seg>
+          <seg xml:id="seg354">Mgeni Rasmi katika bonanza hilo atakuwa Mheshimiwa Zuberi Ali Maulid, Spika wa Baraza la Wawakilishi Zanzibar, Waheshimiwa Wabunge wote mnakumbushwa kufanya maandalizi ya bonanza hili</seg>
+          <seg xml:id="seg355">kwa kufanya mazoezi bila kusahau kujisajili kwa michezo wanayopenda kushiriki.</seg>
+          <seg xml:id="seg356">Waheshimiwa Wabunge, Katibu wa Bunge anaomba kuwatangazia kuwa Shirika la Bima ya Taifa, Capital Coconut Oil, Eleven Agri Company na Bahi Chicken Company wapo katika Viwanja vya Bunge kwa ajili ya kuonesha huduma na bidhaa wanazozalisha. Waheshimiwa Wabunge wote mnakaribishwa kutembelea mabanda hayo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u209" who="NaibuSpika">
+          <seg xml:id="seg357">Waheshimiwa Wabunge, Katibu wa Bunge anaomba kuwakumbusha Waheshimiwa Wabunge wote kuwa Tume ya Taifa ya Kudhibiti UKIMWI (TACAIDS) kwa kushirikiana na Baraza la Taifa la Watu Wanaoishi na Virusi vya UKIMWI, chini ya Ofisi ya Waziri Mkuu imeandaa mdahalo wa kitaifa juu ya kuimarisha ushirikiano na ushiriki wa jamii kwenye mwitiko wa UKIMWI hapa nchini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2023-09-01-bunge-12-04.u210" who="NaibuSpika">
+          <seg xml:id="seg358">Mdahalo huo utafanyika kesho siku ya Jumamosi tarehe 2 Septemba, 2023 kuanzia saa 2 asubuhi katika Ukumbi wa Mikutano wa Jakaya Kikwete Convention Centre, Dodoma na utaambatana na madhimisho ya miaka 20 ya NACOPHA. Mgeni Rasmi katika mdahalo huo atakuwa Mheshimiwa Kassim Majaliwa Majaliwa, Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg359">Waheshimiwa Wabunge wote mnaalikwa kuhudhuria mdahalo huo.</seg>
+          <seg xml:id="seg360">Naahirisha shughuli za Bunge mpaka siku ya Jumatatu saa 3.00 asubuhi.</seg>
+          <seg xml:id="seg361">(Saa 4.15 Asubuhi Bunge Liliahirishwa hadi Siku ya Jumatatu,</seg>
+          <seg xml:id="seg362">Tarehe 4 Septemba, 2023 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

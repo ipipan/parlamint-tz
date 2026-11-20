@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2009-06-12) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2009-06-12) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="4">4. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="16">16. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1464193968-HS-16-4-2009.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2009-06-12">12.06.2009</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <note>Na. 25. Mwitikio Mdogo wa Kupiga Kura Kwenye</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u1">
+          <seg xml:id="seg1">Uchaguzi Mdogo</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u2" who="MheShokaKhamisJuma">
+          <seg xml:id="seg2">Kwa kuwa kumekuwa na mwitikio mdogo wa kupiga kura kwenye chaguzi ndogo katika nchi yetu kama ilivyojitokeza kwnye Uchaguzi wa Mbeya Vijijini ambapo walijitokeza ni asilimia 35, kwa nafasi ya Ubunge, Upanga Mashariki (Manispaa ya Ilala) asilimia 7 kwa nafasi ya Udiwani:-</seg>
+          <seg xml:id="seg3">Je, Serikali ina mpango gani wa kuhamasisha wananchi ili waweze kujitokeza katika chaguzi na kupiga kura.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u3" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu naomba kujibu swali la Mheshimiwa Shoka Khamis Juma Mbunge wa Micheweni kama ifuatavyo:-</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, Ibara ya 5(1) ya Katiba ya Jamhuri ya Muungano wa Tanzania, inatoa haki kwa kila Raia wa Tanzania aliyetimiza umri wa miaka 18 kupiga kura katika uchaguzi. Haki hii ya Kikatiba ni hiari, hivyo kila Raia ana utashi wa kupiga au kutokupiga kura.</seg>
+          <seg xml:id="seg6">Mheshimiwa Naibu Spika, ni kweli pia kwamba katika chaguzi ndogo za ubunge na Udiwani zilizofanyika hapa nchini katika miezi ya karibuni, zimebainisha mwitiko Mkuu wa Rais na Wabunge, ambapo kwa mfano katika chaguzi ndogo za Ubunge katika Majimbo mbalimbali, wananchi waliojitokeza kupiga kura ilikuwa kama ifuatavyo: Mbeya Vijijini asilimia 35, Busanda, asilimia 35.7, Tarime asilimia 46. hali hii haionyeshi taswira njema katika dhana nzima ya ukuzaji wa demokrasia hapa nchini.</seg>
+          <seg xml:id="seg7">Mheshimiwa Naibu Spika, Tume ya Taifa ya Uchaguzi imebaini tatizo hilo la mwitikio mdogo katika chaguzi ndogo na katika jitihada za awali imechukua hatua za</seg>
+          <seg xml:id="seg8">kuandaa mpango mkakati wa Elimu ya Mpiga Kura ambao unaainisha jinsi ya kuoa, kusimamia na kuratibu Elimu ya Mpiga Kura kwa ufanisi zaidi.</seg>
+          <seg xml:id="seg9">Mpango huu kwa kiasi kikubwa umewashirikisha wadau wa utoaji Elimu ya Mpiga Kura zikiwemo Asasi za Kiraia, Dini na Taasisi zisizokuwa za Kiserikali. Kipaumbele kimewekwa katika ushirikishwaji wa wadau mbalimbali wa uchaguzi ili elimu iweze kuifikia jamii kwa urahisi.</seg>
+          <seg xml:id="seg10">Mheshimiwa Naibu Spika, katika kuhakikisha kwamba tatizo hilo linapungua kama si kumalizika kabisa, Tume ya Taifa ya Uchaguzi inategemea kufanya utafiti kubaini sababu za msingi zinazowafanya wananchi wasijitokeze kupiga kura katika chaguzi ndogo. Utafiti huo unatagemea kukamilika ifikapo Desemba, 2009.</seg>
+          <seg xml:id="seg11">Mheshimiwa Naibu Spika, hata hivyo, kwa kuwa suala la uhamasishaji wananchi kujitokeza kushiriki katika chaguzi mbalimbali ni la wadau wote vikiwemo vyama vya siasa na wagombea wa nafasi mbalimbali za Ubunge na Udiwani, ni vyema nao wakatumia fursa maalum wakati wa mikutano ya hadhara na kampeni kuhamasisha na kuwaelimisha wananchi umuhimu wa kushiriki katika upigaji kura.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u4" who="MheShokaKhamisJuma">
+          <seg xml:id="seg12">Mheshimiwa Naibu Spika ahsante sana, kwa kunipa nafasi hii ili niulize swali moja la nyongeza.</seg>
+          <seg xml:id="seg13">Mheshimiwa Naibu Spika, pamoja na mwitikio mdogo wa wananchi kujitokeza kupiga kura hasa katika chaguzi ndogo. Lakini kuna chama kimoja ambacho ni kikubwa sana hapa Tanzania kina tabia ya kununua shahada za wapiga kura, hususani wale kinaowaona hakiwaungi mkono.</seg>
+          <seg xml:id="seg14">Je, Waziri anasema nini kuhusiana na suala hili, na anakiambia nini hiki Chama? (Chama cha Mapinduzi) </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u5" who="NaibuSpika">
+          <seg xml:id="seg15">Mheshimiwa Shoka, unajua hizo zinaitwa allegations, sasa mimi unataka niseme Waziri ajibu allegations wakati wewe hujatoa ushahidi kuwa hizo kura ziliibiwa wapi. Kwa hiyo, kabla hajajibu basi utaweza kutoa ushahidi kwamba ziliibiwa kura.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u6" who="MheShokaKhamisJuma">
+          <seg xml:id="seg16">Mheshimiwa Naibu Spika, mimi sijasema kuwa kura ziliibiwa kuna tabia ya kununua shahada.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u7" who="NaibuSpika">
+          <seg xml:id="seg17">Hata hiyo pia unatakiwa uthibitishe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u8" who="MheShokaKhamisJuma">
+          <seg xml:id="seg18">Mheshimiwa Naibu Spika, ushahidi upo, hivi karibuni huko Busanda…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u9" who="NaibuSpika">
+          <seg xml:id="seg19">Mheshimiwa Shoka naomba ukae chini, suala lako tutaweza kupata majibu utakapotoa ushahidi wa hayo unayosema kwamba ziliwahi kuibiwa, tunaendelea.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u10" who="MheDrWilbrodPSlaa">
+          <seg xml:id="seg20">Mheshimiwa Naibu Spika, kwa kuwa katika kikao cha hivi karibuni kati ya Tume ya Taifa ya Uchaguzi na wadau wa vyama mbalimbali Tume ya Taifa ilitoa taarifa yake na katika taarifa hiyo sababu moja iliyoelezwa ya kushuka ni pamoja na ununuzi wa shahada.</seg>
+          <seg xml:id="seg21">Je, Serikali inatoa kauli gani kwamba hii taarifa ya Tume ni ya uwongo au ni ya kweli na kama ni ya kweli inachukua hatua gani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u11" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg22">Mheshimiwa Naibu Spika, taarifa anayoisemea Mheshimiwa Mbunge bado sisi hatujaipata na mimi kama Waziri ninayehusika na masuala ya Tume ya Uchaguzi bado haijanifikia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u12" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg23">Mheshimiwa Naibu Spika, lakini napenda pamoja na kwamba sio dhamira yangu kuwafundisha wenzangu namna ya kushinda katika chaguzi mbali mbali, ukweli ni kwamba na ukweli huu unadhihirisha katika mikutano ambayo mahudhurio huwa ni makubwa sana lakini baadhi ya wagombea hawafahamu kwamba waliohudhuria katika mikutano hiyo wala si wapiga kura, wengi ni watoto wa umri chini ya miaka kumi nne.</seg>
+          <seg xml:id="seg24">Katika kijiji ambacho mimi natoka helikopta ikitua wananchi wote huenda kudadisi hii teknolojia ya siku hizi wala hawatamsikiliza mtu anayegombea na hatimaye ndiyo tunapata lawama hizi baada ya matokeo ya Uchaguzi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u13" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg25">Kwa hiyo, ombi langu na ushauri wangu wenzangu wawe makini katika zoezi la kampeni za Uchaguzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u14" who="MheJohnSMalecela">
+          <seg xml:id="seg26">Mheshimiwa Naibu Spika, nakushukuru kwa kuniruhusu kuuliza swali la nyongeza. Katika chaguzi ndogo hizi zote huwa kila chama kina mwakilishi mahali pa kupigia kura. Na huwa wanatia saini kwamba kila kitu kimekwenda sawa sawa, ikija kwenye majumuisho ndiyo watu wanasema kura zimeibiwa, kura zimeibiwa lakini kule walikopigia kura watu wanatia saini kuwa kila kitu kimekwenda sawa.</seg>
+          <seg xml:id="seg27">Je, Mheshimiwa Waziri atakubaliana na mimi kwamba madai haya si ya kweli hata kidogo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u15" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg28">Mheshimiwa Naibu Spika, sio tu kwamba ninakubaliana naye asilimia mia moja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u16" who="WaziriWaNchiOfisiYaWaziriMkuuSeraUratibuNaBunge">
+          <seg xml:id="seg29">Lakini pia napenda kuongezea kwamba hii tabia aliyoanzisha Mheshimiwa Hayati Savimbi ya kukataa matokeo ya uchaguzi baada ya kufanya vibaya wakati wa kampeni inatuaibisha sana sisi Waafrika. Kwa hiyo, rai yetu ni kwamba wenzetu wawe makini</seg>
+          <seg xml:id="seg30">sana, tuwe makini sana wakati wa kampeni hatimaye tukubali matokeo ya uchaguzi kiistaarabu.</seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u17" who="NaibuSpika">
+          <seg xml:id="seg31">Tunaendelea swali haliwezi kuwa na maswali ya nyongeza sita. Kwa hiyo, tunaendelea Wizara ya Maliasili na Utalii, Mheshimiwa John Paul Lwanji.</seg>
+        </u>
+        <note>Na. 26. Fedha za Ujenzi wa Bwawa la Maji la Rungwa</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u18" who="MheJohnPLwanji">
+          <seg xml:id="seg32">Kwa kuwa, Serikali kupitia Mfuko wa Hifadhi ya Wanyamapori (TWPF) iliahidi kutafuta fedha zaidi za ujenzi wa Bwawa la Maji la Rungwa kama hatua ya kudumu ya ufumbuzi wa tatizo la maji katika eneo hilo:-</seg>
+          <seg xml:id="seg33">(a) Je, kati ya shilingi milioni 500 zilizotengwa awali kwa kazi hiyo, ni kiasi gani</seg>
+          <seg xml:id="seg34">zaidi kinahitajika ili ujenzi huo uanze?</seg>
+          <seg xml:id="seg35">(b) Je, ni hatua zipi zimefikiwa hadi sasa katika kutafuta fedha hizo?</seg>
+          <seg xml:id="seg36">(c) Je, kati ya shilingi milioni 100 zilizotengwa kwa ajili ya kuchimba visima</seg>
+          <seg xml:id="seg37">katika eneo hilo na hakuna Maendeleo yoyote yaliyofanywa ni fedha kiasi gani</seg>
+          <seg xml:id="seg38">zimetumika na zilizobaki?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u19" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg39">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Maliasili na Utalii, naomba kujibu swali la Mheshimiwa John P. Lwanji, Mbunge wa Manyoni Magharibi, lenye kipengele (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg40">(a)Mheshimiwa Naibu Spika, Mfuko wa kuhifadhi Wanyamapori Tanzania (TWPF) ulitenga kwenye Bajeti yake ya mwaka 2007/2008 shilingi milioni 417 kwa ajili ya ujenzi wa Bwawa la maji la Rungwa.</seg>
+          <seg xml:id="seg41">Hata hivyo, mradi huo uliahirishwa ili kutoa nafasi ya kufanyika kwa utafiti wa kina kuhusiana na masuala ya udongo, mifumo ya maji katika eneo la Rungwa (haidrolojia), kubaini eneo linalofaa kwa ujenzi wa Bwawa na kufanyika tathmini ya athari ya mazingira.</seg>
+          <seg xml:id="seg42">Taarifa zitakazopatikana zitasaidia kubaini kiwango cha utalaam utakaohitajika kukidhi ujenzi wa Bwawa la kudumu na hatimaye gharama za utekelezaji wa mradi tarajiwa.</seg>
+          <seg xml:id="seg43">Ili kuruhusu maandalizi ya utafiti huo na pia kupata ufumbuzi wa muda mfupi wa uhaba wa maji wakati wa mchakato wa utafiti unafanyika, iliamuliwa kuchimba visima</seg>
+          <seg xml:id="seg44">vya maji katika eneo la Rungwa. Utafiti huo umepangwa kufanyika mwezi Julai/Agosti, 2009 baada ya World Bank kuridhia matumizi ya fedha kwa kazi hiyo (No Objection).</seg>
+          <seg xml:id="seg45">(b)Mheshimiwa Naibu Spika, kama nilivyoeleza katika jibu la sehemu (a), jitihada za kutafuta fedha zitaweza kufanyika baada ya kufanyika kwa utafiti na matokeo yake ambayo ndiyo yatakuwa msingi wa kupata makadirio ya utekelezaji wa mradi wa kujenga Bwawa la maji Rungwa.</seg>
+          <seg xml:id="seg46">(c)Mheshimiwa Naibu Spika, ili kupunguza tatizo la maji Rungwa na kuruhusu utafiti wa ufumbuzi wa kudumu wa tatizo hilo, Mfuko wa Kuhifadhi Wanyamapori Tanzania katika mwaka wa fedha 2008/2009 ulitenga shilingi milioni 105 kwa ajili ya kuchimba visima vinne vya maji katika kijiji cha Rungwa.</seg>
+          <seg xml:id="seg47">Watalaam wa maji wa Wilaya ya Manyoni walifanya soroveya katika eneo husika na kubaini maeneo ambayo yaliashiria kuwepo kwa maji. Kufuatia matokeo hayo, visima viwili vya maji vilichimbwa kwa gharama ya shilingi 60,000,000/= lakini maji hayakupatikana.</seg>
+          <seg xml:id="seg48">Kutokana na matokeo hayo ya kusikitisha, ililazimu kusitisha zoezi hilo ili kuokoa fedha za umma na badala yake kusisitiza umuhimu wa kufanya maandalizi ya kutosha hasa kwa suala la utafiti.</seg>
+          <seg xml:id="seg49">Kwa hiyo, Wizara kupitia Mfuko imetenga shilingi milioni 100 katika Bajeti yake ya mwaka 2009/2010 kwa ajili ya kufanya utafiti wa maji katika maeneo ya Rungwa.</seg>
+          <seg xml:id="seg50">Utafiti huo utafanyika kwa kushirikiana na Idara ya Maji ya Halmashauri ya Wilaya ya Manyoni kupitia Mpango wa Rural Water Supply and Sanitation Programme unaohusisha vijiji 10 vya Wilaya ya Manyoni ikiwemo Rungwa. Utaratibu huo utasaidia kupata jibu la uhakika na kwa tija.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u20" who="MheJohnPLwanji">
+          <seg xml:id="seg51">Mheshimiwa Naibu Spika ahsante. Pamoja na majibu mazuri ya Mheshimiwa Naibu Waziri, nina swali moja la nyongeza.</seg>
+          <seg xml:id="seg52">Kwa kuwa tafiti hizi zimekuwa zikishuhudiwa na wananchi wa Rungwa kwa muda mrefu sasa na kwa kuwa wananchi wa Rungwa tatizo lao kubwa ni maji ya kunywa, Serikali inasema nini kuhusu hizi tafiti kwa sababu mara kwa mara wanapokwenda pale hawawahusishi wadau ama wananchi wnyewe katika kufanya utafiti huo na ndiyo maana labda inawezekana kabisa kwamba kuna tatizo katika mchakato mzima wa kufanya utafiti.</seg>
+          <seg xml:id="seg53">Mheshimiwa Naibu Spika, ningependa kujua safari hii watakapofanya utafiti huu.</seg>
+          <seg xml:id="seg54">Je, wapo tayari kuwahusisha wananchi wa Rungwa waweze kubaini maeneo ambayo yana maji kwa sababu wao wanapochimba mmoja mmoja hubaini maji, kwa nini hawa watalaamu hawapati maji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u21" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg55">Mheshimiwa Naibu Spika, kama nilivyoeleza kwenye jibu la msingi kwamba awali approach yetu ilikuwa ni kwenda haraka iwezekanavyo na kuchimba visima na kuweka bwawa.</seg>
+          <seg xml:id="seg56">Mheshimiwa Spika, wakati huo dhana ya kufanya utafiti wa kina tulikuwa hatujaiweka mbele sana, baada ya kukosa maji sasa tumeamua kushirikiana na Idara ya Maji ya Halmashauri ya Wilaya na kwa hakika kwa sababu ina mpango wa Rural Water and Sanitation programme ambao unahusisha vijiji kumi kikiwemo kijiji cha Rungwa, ninaamini kwamba mtazamo huu na approach hii sasa itatusaidia kuweza kufikia lengo tunalolikusudia.</seg>
+          <seg xml:id="seg57">Mheshimiwa Naibu Spika, nia ya mwanzo ya kupata maji haraka iwezekanavyo na kwa kutumia utafiti ambao ulikuwa si wa kina ndiyo uliopelekea matokeo haya ambayo si ya kuridhisha. Kwa hivi sasa naamini kabisa tumejifunza na tutashirikisha wadau na niaamini kwamba mara hii maji yataweza kupatikana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 27. Fungu la Fedha kwa ajili ya Dawa kwenye Zahanati</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u22" who="MheVitaRKawawa">
+          <seg xml:id="seg58">Kwa kuwa, kiwango cha fungu la fedha za dawa kwa ajili ya Zahanati na Vituo vya Afya tangu kipangwe ni muda mrefu na kinaonekana kupitwa na wakati; na kwa kuwa idadi ya wananchi wanaopatiwa huduma za afya kwenye zahanati navituo vya afya imeongezeka:-</seg>
+          <seg xml:id="seg59">Je, Serikali inaweza kuvipitia viwango hivyo ili kuviongeza kwa sababu gharama za dawa nazo zimeongezeka?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u23" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg60">Mheshimiwa Naibu Spika, Kwa niaba ya Waziri wa Afya na Ustawi wa Jamii, napenda kujibu swali la Mheshimiwa Vita Rashid Kawawa, Mbunge wa Namtumbo kama ifuatavyo:-</seg>
+          <seg xml:id="seg61">Mheshimiwa Naibu Spika, mgawo wa fedha kwa ajili ya zahanati na vituo vya afya hufanyiwa mapitio kila mwaka. Katika kipindi cha miaka mitatu iliyopita, mgawo wa fedha za dawa na vifaa tiba kwa ajili zahanati ulikuwa kama ifuatavyo:-</seg>
+          <seg xml:id="seg62">Mheshimiwa Naibu Spika, Shilingi 310,000/= mwaka 2006/2007, shilingi 350,000/= mwaka 2007/2008 na shilingi 390,000/= mwaka 2008/2009 kwa kila mwezi. Aidha kwa upande wa vituo vya afya mgao ulikuwa kama ifuatavyo:-</seg>
+          <seg xml:id="seg63">Shilingi 585,000/= mwaka 2006/2007, shilingi 710,000/= mwaka 2007/2008 na shilingi 810,000 mwaka 2008/2009 kila mwezi. Hata hivyo, mgao wa fedha za dawa na vifaa kwa vituo vya kutolea huduma za afya vya umma unategemea kiasi cha fedha kutoka Hazina kila mwezi. Serikali itaendelea kuongeza viwango vya fedha za dawa na vifaa tiba kwa Zahanati na Vituo vya Afya kwa kulingana na ongezeko la fedha zinatolewa kwa Wizara.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u24" who="MheVitaRKawawa">
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, ahsante sana. Pamoja na majibu mazuri ya ufafanuzi kutoka kwa Naibu Waziri, nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg65">(a) Kwa Kuwa, utaratibu wa upatikanaji wa dawa katika zahanati na vituo vya afya ni mara nne kwa mwaka kila baada ya miezi mitatu, lakini kwa Namtumbo katika Zahanati na vituo vya afya dawa hazipatikani kwa mtiririko huo; na kwa kuwa huwa tunaagiza kwa wakati na toka tupate dawa mara ya mwisho alipofika Naibu Waziri, Novemba 2008 hatujapata dawa mpaka mwezi Mei, 2009.</seg>
+          <seg xml:id="seg66">Je, Serikali inaweza kutunusuru sisi wananchi wa Namtumbo katika utaratibu huu wa uletaji dawa wa kuchelewa na ukiukwaji wa taratibu?</seg>
+          <seg xml:id="seg67">(b) Kwa kuwa, Wilaya yetu ya Namtumbo hatuna Hospitali ya Wilaya na kwa kuwa tumekarabati vizuri kituo chetu cha afya.</seg>
+          <seg xml:id="seg68">Je, wakati tupo katika mchakato wa ujenzi wa hospitali ya Wilaya Serikali inaweza kutupandishia kiwango cha vifaa tiba na dawa ili tuwe tunapata kwa ngazi ya Wilaya mpaka hapo ujenzi utakapokamilika wa Hospitali ya Wilaya?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u25" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg69">Mheshimiwa Naibu Spika, kabla ya kujibu maswali hayo napenda nimpongeze sana Mheshimiwa Mbunge kwa juhudi anazozifanya kuona kwamba wananchi wake wa Nanmtumbo wanapata huduma za afya.</seg>
+          <seg xml:id="seg70">Mheshimiwa Naibu Spika, fedha za dawa huletwa Wizarani ikiwa ni pamoja na fedha zingine na matumizi mengine ya Wizara kwa ujumla wake, awali mgao wa fedha ni kweli ulikuwa ukiletwa kila kipindi cha robo mwaka lakini katika kipindi cha miaka miwili iliyopita 2007/2008, 2008/2009 mgao wa fedha umekuwa ukitolewa kila mwezi na mara nyingi fedha hizo kutoka Hazina mara nyingi huwa zinachelewa. Lakini pamoja na kuchelewa kwa upatikanaji wa fedha hizo Wizara ya Afya iliagiza MSD kuendelea kuhakikisha kwamba upatikanaji wa dawa kwenye vituo vyote hutolewa katika huduma hizo.</seg>
+          <seg xml:id="seg71">Mheshimiwa Naibu Spika, kwa sababu mimi nilikwenda kule Namtumbo na nilipitia Mkoa wa Ruvuma kwa ujumla nilichokiona kule na maeneo mengine ni kwamba kuna matatizo mawili hapa ambayo yanajitokeza. Sisi kama pesa inakosekana mgao MSD wanaendelea kupeleka dawa katika zile kanda. Tatizo linakuja kwa watendaji wa ngazi za Wilaya huwa hawaleti request zao mapema kwa sababu wao wameagizwa wawe wanaleta makadirio na mahitaji yao mapema ili waweze kuandaliwa yale makasha ya dawa.</seg>
+          <seg xml:id="seg72">Mheshimiwa Naibu Spika, napenda nikumbushe Halmashauri wawe wanaandika mahitaji yao mapema ili kuiwezesha MSD na ukizingatia sasa hivi ziko katika kanda waweze kufungashiwa zile dawa zao mapema ili ziweze kufika.</seg>
+          <seg xml:id="seg73">Kwa hiyo, suala la pesa ingawa zinachelewa Hazina lakini bado sisi MSD tumewaagiza waweze kuwapatia dawa.</seg>
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, kuhusu swali lake la pili, ni kweli kabisa kwamba Namtumbo hawana Hospitali ya Wilaya, na mimi nimeona kwamba wapo katika mchakato huo na nimeona kabisa kwamba wamefanya vizuri kwa sababu wamejenga pale jengo la huduma za wazazi na huduma zitakuwa zinatoka na kwa maana hiyo idadi ya wagonjwa itaongezeka.</seg>
+          <seg xml:id="seg75">Ninachoweza kuwashauri ni kwamba Halmashauri ya Wilaya ya Namtumbo iwasiliane na Wizara ya Afya ili iweze kupata mahitaji ya dawa kama ya Hospitali ili Wizara ya Afya iweze kupeleka watalaamu wake kule na kwenda kuona na baadaye tutaangalia ni jinsi gani tutaweza kuisaidia Wilaya ya Namtumbo na zile Wilaya nyingine ambazo zinafanana na Namtumbo. Tukiona hilo tutaweza kuona ni namna gani tunawasaidia kupata dawa muhimu na za kutosheleza mahitaji.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u26" who="NaibuSpika">
+          <seg xml:id="seg76">Ahsante sana, kwa hiyo anachosema ni kwamba ufuate utaratibu wa kuomba dawa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u27" who="MheJenistaJMhagama">
+          <seg xml:id="seg77">Mheshimiwa Naibu Spika, nashukuru sana kwa kuniona ili niulize swali jingine moja la nyongeza.</seg>
+          <seg xml:id="seg78">Mheshimiwa Naibu Spika, kwa kuwa MSD kwa kweli imekuwa ikifanya vibaya sana kwa kuwahudumia wananchi kupitia kwenye zahanati zetu kupatiwa dawa kwa wakati zinazohitajika na kwa viwango vile ambavyo walivyoviomba, na hivyo kusababisha kutokuwepo kwa dawa kwenye Zahanati zetu kwa muda mrefu; na kwa kuwa sheria si Msahafu wala Biblia na sheria hutungwa ili kuwasaidia wananchi.</seg>
+          <seg xml:id="seg79">Je, Serikali haioni kwamba Sheria iliyounda MSD sasa ni wakati muafaka iletwe tuibadilishe angalau asilimia thelathini ya fedha za dawa zipelekwe moja kwa moja kwenye Halmashauri wakati wa MSD inapochelewesha dawa kwa wananchi wetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u28" who="WaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg80">Mheshimiwa Naibu Spika, kwanza naomba nimpongeze Naibu Waziri wangu kwa majibu mazuri aliyotoa. Naomba niweke mambo fulani bayana kwamba ni kweli katika Bunge la Bajeti suala la MSD linajitokeza sana na hilo amesema kwamba sheria ingeletwa ili ibadilishwe, lakini wengine wanasema kwamba kuwe na mahali mbadala ambapo vituo vyetu vinaweza vikapata dawa, lakini yeye anasema ibadilishwe. Inategemea nitakapotoa hotuba yangu hapa labda maeneo wanayotaka yabadilishwe itatusaidia ili tunapoleta huo Muswada hapa tujue ni maeneo gani ya kuangalia.</seg>
+          <seg xml:id="seg81">Mheshimiwa Naibu Spika, nieleze mambo machache kama ifuatavyo. Kwanza utaratibu uliokuwepo ambao tumeuzoea wote wa kusambaza dawa ilikuwa kwa upande wa KITS zinafungashwa Dar es Salaam na Halmashauri zilikuwa zinafuata. Hiyo sasa hivi hizo shughuli tumeziweka kwenye Kanda.</seg>
+          <seg xml:id="seg82">Kwa hiyo, watu wa Peramiho wao wanakwenda kuchukua Iringa ili kusogeza huduma karibu na wananchi, lakini vilevile kwa sheria inayozungumzwa ya MSD inawapa kazi ya kununua dawa, kuzihifadhi na kuzisambaza mpaka ngazi ya Halmashauri. Kuanzia Halmashauri mpaka kwenye Dispensary na vituo vya Afya ni kazi ya Halmashauri sasa kazi ya MSD ni kuzipata hizo dawa na zimfikie mwananchi na kusema kweli kama hazimfikii malalamiko yanakuwa ni ya MSD tukumbuke kuwa unatoa kile ulichonacho. Bajeti ya MSD ni asilimia 56 tu ya mahitaji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u29" who="WaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg83">Vile vile kama Halmashauri zinapata dawa halafu kunakuwa na matatizo ya kuzisambaza mpaka kwenye dispensary, kusema kweli lawama ziwaendee Halmashauri. Kwa hiyo, utaratibu ambao tumeufanya sasa hivi ni MSD kwa kushirikiana na Halmashauri na TAMISEMI, waweke mfumo wa kwenda mpaka kwa mlaji wa mwisho, ili malalamiko yaende MSD badala ya kwenda Halmshauri au Serikali Kuu kwa sababu hatutengi hela za kutosha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u30" who="NaibuSpika">
+          <seg xml:id="seg84">Majibu yamekuwa marefu, sasa tunaendelea na Wizara ya Kilimo, Chakula na Ushirika.</seg>
+        </u>
+        <note>Na. 28. Maafisa Ugavi</note>
+        <note>(K.n.y. MHE. DANIEL NICODEM NSANZUGWANKO)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u31" who="MheGeorgeMLubeleje">
+          <seg xml:id="seg85">Kwa kuwa Maafisa Ugani wengi wanaishi mijini na kufanya mchango wao kwenye maendeleo ya kilimo kuwa mdogo kwa sababu wakulima wengi wapo vijijini:-</seg>
+          <seg xml:id="seg86">(a) Je, Serikali haioni kuwa wakati sasa umefika kwa Maafisa hao kufanya kazi zao kwa mkataba maalumu ili utendaji kazi wao uweze kupimwa?</seg>
+          <seg xml:id="seg87">(b) Je, ni kwa nini Wizara isihamasishe ujenzi wa nyumba za Maofisa Ugani kila Kata ili waweze kuwajibika vyema vijijini?</seg>
+          <seg xml:id="seg88">(c) Je, Serikali haioni kuwa kuendelea kufikiria kuajiri maafisa wengi zaidi bila huduma ya nyumba vijijini, vitendea kazi, vifaa vya usafiri na motisha ni kuendelea kudidimiza sekta hiyo ya kilimo vijijini na kuwekeza fedha za umma kwa mtindo wa pata potea bila tija yoyote?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u32" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg89">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Daniel Nicodem Nsanzugwanko, Mbunge wa Kasulu Mashariki, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg90">(a) Kutokana na mazingira ya vijijini na ugumu wa kazi ya maofisa ugani, utaratibu wa kuajiri wataalamu wa ugani kwa mkataba anaoupendekeza Mheshimiwa Mbunge hautafaa, kwani utasababisha wataalamu wengi kutoendelea na ajira hiyo baada ya kumaliza mkataba na kukimbilia kwenye fani yenye mazingira ya mijini ambako vijana wengi wanapenda kufanya kazi.</seg>
+          <seg xml:id="seg91">Mheshimiwa Naibu Spika, utaratibu unaotumika na serikali ni kuwaajiri wataalamu kwa masharti ya kudumu na kupima utendaji wao kwa kutumia Mfumo wa Kupima Utendaji kwa Uwazi (Open Performance Review and Appraisal System - OPRAS). Kwa kutumia mfumo huo, mwajiri huwekeana mkataba wa malengo ya utekelezaji ambayo hupimwa kwa uwazi kwa kushirikiana na waajiriwa. Kwa kutumia mfumo huo, waajiriwa huwajibika zaidi kutekeleza majukumu yao hususan mwajiri akiwapatia vitendea kazi vinavyohitajika.</seg>
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, mwaka 2006 ilibainika kwamba, katika ngazi ya Kata na Kijiji kuna Maofisa Ugani 3,379, ikilinganishwa na mahitaji ya Maofisa Ugani 15,082, ikiwa ni upungufu wa Maofisa Ugani 11,703. Ili kukabili upungufu huo, Serikali inatekeleza mpango wa kutoa mafunzo na kuajiri wataalamu kwa lengo la kuhakikisha kwamba, katika kipindi cha miaka mitatu ijayo, kila Tarafa, Kata na Kijiji, kutakuwepo mtaalamu mmoja wa ugani.</seg>
+          <seg xml:id="seg93">(b) Mheshimiwa Naibu Spika, nakubaliana na Mheshimiwa Mbunge, kuhusu umuhimu wa kuwajengea nyumba Maofisa Ugani. Kwa kutambua hivyo, Wizara kupitia Mradi wa Taifa wa Huduma za Ugani (National Agricultural Extension Project –NAEP II), ulioisha mwaka 2006, ilijenga nyumba 156. Natoa wito kwa Halmashauri ya Wilaya, kutenga fedha kutokana na fedha zinazotolewa na Serikali Kuu kupitia Mipango ya Kuendeleza Kilimo ya Wilaya (DADPs), ili kuwajengea nyumba Maofisa Ugani. Kama ilivyo kwenye ujenzi wa nyumba za Walimu, Wakulima washirikishwe kwenye ujenzi wa nyumba hizo.</seg>
+          <seg xml:id="seg94">(c) Mheshimiwa Naibu Spika, nakubaliana na Mheshimiwa Mbunge kwamba, pamoja na kuajiri wagani ni muhimu wapewe vitendea kazi, wajengewe nyumba na pia kupewa motisha. Serikali kupitia Programu ya Kuendeleza Sekta ya Kilimo (ASDP), imetoa kipaumbele kuhusu kuwajengea uwezo Maofisa Ugani. Kwa hiyo, napenda kutoa wito tena kwa kila Halmashauri, kutenga fedha kwenye Mipango ya Kuendeleza Kilimo ya Wilaya (DADPs), kwa ajili ya kununulia vitendea kazi, kugharimia wataalamu wao na pia kuwajengea nyumba. Ili kuwapa motisha watumishi, Serikali imeanza kuboresha mishahara ya watumishi. Serikali itaendelea kuboresha maslahi ya watumishi, kadiri hali ya uchumi nchini inavyoimarika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u33" who="MheGeorgeMLubeleje">
+          <seg xml:id="seg95">Mheshimiwa Naibu Spika, kwa kuwa hawa maafisa ugani wanafanya kazi katika magumu kama alivyokiri Mheshimiwa Naibu Waziri; na kwa kuwa kuna baadhi ya Kata hawa maafisa ugani hawapo kwa hiyo, wakulima wanakosa ushauri wa kitalaamu:-</seg>
+          <seg xml:id="seg96">(a) Je, Mheshimiwa Naibu Waziri utakubaliana nami kwamba ipo haja sasa ya kuongeza wanafunzi wa ugani katika vyuo vyetu ili tuweze kufundisha mabwana shamba wa kutosha na kuwapeleka katika kila kijiji?</seg>
+          <seg xml:id="seg97">(b) Kwa kuwa Mheshimiwa Naibu Waziri amekiri kwamba maafisa ugani hawa wanahitaji usafiri; na kwa kuwa Halmashauri nyingi uwezo wa fedha ni mdogo; je, Serikali itakubaliana nami kwamba ipo haja sasa ya Serikali kulifikiria suala hili ili kuwapatia Halmashauri fedha za kutosha hawa maafisa ugani wapate pikipiki kila Kata? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u34" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg98">Mheshimiwa Naibu Spika, swali lake la kwanza ni kwamba, Serikali mpaka sasa hivi imeshaanza kusomesha wanafunzi; mwaka wa kwanza ilisomesha wanafunzi 2500 na mwaka wa pili idadi hiyo hiyo 2500. Vile vile Serikali ili- advertise kuajiri wataalamu zaidi ya 1500 lakini hawakufikia hawa ambao tulitaka kuwaajiri. Kwa hiyo, niseme tu kwamba, suala hilo tunalielewa kwa sababu tunataka ifikapo mwaka 2011 tayari tuwe tumeshasomesha na kuajiri wataalamu zaidi ya 11,000. Kwa hiyo, suala hilo tayari tumeshaanza kulifanyia kazi tangu mwaka jana.</seg>
+          <seg xml:id="seg99">Swali lake la pili kuhusu kuongeza fedha; niseme tu kwamba, fedha hizi ambazo zinanunulia vitendea kazi ama kujengea nyumba kwa ajili ya maafisa ugani ni za ASDP, ambapo kule Wilayani tunaita DADPs. Mpaka sasa hivi Wilaya zimeshanunua magari 129, pikipiki 681, baiskeli 2200 na nyumba 11 zimeshajengwa. Kwa hiyo, mimi ninachomshauri Mheshimiwa Lubeleje na Waheshimiwa Wabunge ni kwamba, tujaribu kusisitiza Halmashauri zetu kule Wilayani kwamba, tutenge fedha za kutosha kwa ajili ya kununulia vitendea kazi hivi. Zipo Wilaya ambazo zimefanya vizuri sana kwa kutumia fedha hizi za DADPs na zipo Wilaya ambazo hazina vitendea kazi. Kwa hiyo, tusimamie hizo fedha kwa pamoja ili tuweze kupata vitendea kazi vya kutosha kwa ajili ya wataalamu wetu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u35" who="MheJumaHKillimbah">
+          <seg xml:id="seg100">Mheshimiwa Naibu Spika, kwa kuwa kaulimbiu ya mwaka huu ya bajeti yetu ni Kilimo Kwanza; na hivyo katika kaulimbiu hii kuna maana kwamba uhitaji wa maafisa ugani ili kuendana na kilimo cha kisasa na kutimiza kaulimbiu hiyo ni wa muhimu sana; na kwa kuwa inaonesha dhahiri kabisa kwamba uwezo wa Serikali kuwa na maafisa ugani kwa kila eneo katika kila Kata na Vijiji ni mdogo; je, Serikali ipo tayari sasa kuwapa mafunzo Maafisa Watendaji wa Kata na Vijiji ili waweze kuziba hilo pengo na tuendane na kaulimbiu ya mwaka huu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u36" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg101">Mheshimiwa Naibu Spika, nakubaliana na Mheshimiwa Killimbah kwamba, kaulimbiu ya mwaka huu ni Kilimo Kwanza. Suala la kuwapatia mafunzo Maafisa Watendaji wa Vijiji na Kata kwa ajili ya kusaidia, nadhani ni wazo zuri lakini linahitaji utafiti na kujumuisha wadau mbalimbali ili liweze kupatiwa majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u37" who="MheJobYNdugai">
+          <seg xml:id="seg102">Mheshimiwa Naibu Spika, kwa kuwa katika ziara ambayo aliifanya Waziri Mkuu, Mheshimiwa Mizengo Pinda, hapa nchini na mahali pengi alijaribu kuwa na maswali kadhaa kwa maafisa ugani wa vijiji na kata; na mahali pengi ilionekana maafisa ugani hawa hawaelewi wanachokifanya; je, Serikali ina mpango gani wa kufanya tathmini ya kujua kwamba Afisa Ugani huyu anatekeleza wajibu wake, huyu yuko likizo, kusudi malengo ya kuhakikisha Maafisa Ugani hawa wanafanya kazi yanatekelezeka kwa sababu wengi wao wako likizo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u38" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg103">Mheshimiwa Naibu Spika, ni kweli kwamba, baadhi ya maafisa ugani wamelala wanahitaji kuchemshwa kidogo, kwa maana ya mafunzo, waweze kukumbushwa misingi na utaalamu, kwa sababu wengine wameshakaa muda mrefu sana katika maeneo bila kuwa na vitendea kazi na wengine wameshasahau majukumu yao. Kwa hiyo, mimi nadhani kitu muhimu ni kwamba, sisi Wizara tunaendelea kutoa mafunzo kwa wale ambao wapo wanafanya kazi na wale wapya ambao tunawapeleka kwenye mafunzo (wale wanafunzi).</seg>
+          <seg xml:id="seg104">Tulikuwa tunaomba Halmashauri, kwa sababu kila Halmashauri zina viongozi ama wataalamu wa kilimo, basi wasaidiane katika kuangalia utendaji kazi wa wataalamu hawa katika ngazi za vijiji na kata, kwa sababu wale wamepewa malengo na hivyo wasimamie malengo hayo ili maafisa ugani waweze kufanya kazi zao. Serikali kazi yetu ni kupeleka vitendea kazi, pamoja na kutoa miongozo wakati hadi wakati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u39" who="MheMagdalenaHSakaya">
+          <seg xml:id="seg105">Mheshimiwa Naibu Spika, kwa kuwa ni rahisi sana kwa wakulima kujifunza zaidi kwa kutumia mifano hai. Je, Serikali haioni sababu sasa ya kuwapa mashamba darasa hawa maafisa ugani ili waweze kufundisha na kutoa ushauri kwa kutumia mifano hai?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u40" who="NaibuWaziriWaKilimoChakulaNaUshirika">
+          <seg xml:id="seg106">Mheshimiwa Naibu Spika, ninakubaliana kabisa na Mheshimiwa Mbunge kwamba, kuna umuhimu wa kuwa na mashamba darasa katika ngazi za Wilaya, Kata na Vijiji kusudi wananchi na wakulima waweze kuona mafunzo mazuri na waweze kuona ni mbinu zipi bora za kilimo ambazo zinaweza kuwasaidia.</seg>
+          <seg xml:id="seg107">Mfano mmoja ni kama kule Mbeya maeneo ya Mbozi, kuna mashamba darasa ambayo yaliwekwa kutumia Mbolea ya Minjingu. Kwa wale walioona mashamba yale, waliweza kuamini kwamba, Mbolea ya Minjingu ni nzuri sana ikitumiwa vizuri.</seg>
+          <seg xml:id="seg108">Kwa maana hiyo hiyo, kwa kutumia mashamba darasa, tunaweza kuwafundisha wakulima jinsi ya kuweka mbolea nyingine pamoja na spacing na hata mbegu bora ambayo inaweza kuwafaa. Kwa hiyo, nakubaliana kabisa na Mheshimiwa Mbunge.</seg>
+        </u>
+        <note>Na. 29. Vyanzo vya Maji kwa Jiji la Dar es Salaam</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u41" who="MheVictorKMwambalaswa">
+          <seg xml:id="seg109">Kwa kuwa idadi ya Wakazi wa Dar es Salaam inaongezeka kwa kasi sana; na kwa kuwa vyanzo vya maji ya Jiji la Dar es Salaam vya Mto Ruvu havikidhi mahitaji ya maji kwa Wakazi wa Jiji hilo; na kwa kuwa uchunguzi uliofanywa hivi karibuni umeonesha aquifers za Kimbiji na Bagamoyo zina maji ya ardhini kwa zaidi ya mita za ujazo 1,000:-</seg>
+          <seg xml:id="seg110">(a) Je, Serikali inatoa tamko gani kuhusiana na uchunguzi huo?</seg>
+          <seg xml:id="seg111">(b) Je, ni kipi bora kwa gharama na mazingira kati ya kujenga bwawa Kidunda au kutumia aquifers za Kimbiji na Bagamoyo katika kuongeza huduma ya maji Jijini Dar es Salaam?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u42" who="WaziriWaMajiNaUmwagiliaji">
+          <seg xml:id="seg112">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Victor Kilasile Mwambalaswa, Mbunge wa Lupa, lenye sehemu (a) na (b) kama ifuatavyo;-</seg>
+          <seg xml:id="seg113">(a) Mheshimiwa Naibu Spika, tathmini ya awali ya rasilimali za maji chini ya ardhi iliyofanyika mwaka 2006/2007, imeonesha kuwa visima katika maeneo ya Kimbiji Wilaya ya Temeke na Mpera Wilaya ya Mkuranga, vina uwezo wa kutoa maji kiasi cha mita za ujazo 13,000 kwa siku kwa kila kisima na yanafaa kwa matumizi ya binadamu. Hii inatokana na uchimbaji wa visima virefu viwili; kimoja cha uchunguzi na kingine cha uzalishaji katika maeneo ya Kimbiji na Mpera kwa kila eneo. Visima vilivyochimbwa eneo la Mpiji Bagamoyo vilikuwa na maji ya chumvi ambayo ilionekana hayafai kwa matumizi ya binadamu.</seg>
+          <seg xml:id="seg114">Mheshimiwa Naibu Spika, hivi sasa unafanyika usanifu na utayarishaji wa vitabu vya zabuni kuhusu uchimbaji, ujenzi wa matanki na ulazaji wa mabomba ya kusambaza maji kutoka Kimbiji na Mpera mpaka Dar es Salaam. Usanifu unahusu uchimbaji wa visima 20 (Kimbiji visima 12 na Mpera visima 8). Zoezi linaloendelea chini ya Mamlaka</seg>
+          <seg xml:id="seg115">ya Maji Safi na Maji Taka Dar es Salaam ni kumpata Mhandisi Mshauri wa kusimamia utekelezaji, anayetarajiwa kupatikana Septemba, 2009. Baada ya hapo, zabuni itatangazwa na kazi ya uchimbaji kuanza Januari, 2010. Mradi huu utakamilika ifikapo mwaka 2012. Chanzo hiki kitaongeza uzalishaji wa kiasi cha mita za ujazo 260,000 kwa siku, ikilinganishwa na uwezo wa mitambo yote iliyopo sasa ya uzalishaji wa mita za ujazo 300,000 kwa siku. Mradi unakadiriwa kugharimu shilingi bilioni 87. Tayari Benki ya Dunia imekubali kugharimia mradi chini ya Programu ya Maendeleo ya Sekta ya Maji (Water Basket Fund).</seg>
+          <seg xml:id="seg116">Mheshimiwa Naibu Spika, sambamba na hilo, ipo haja ya kufanya tathmini ya kina ili kubaini namna bora ya kuzalisha maji kwa kutumia njia itakayoepusha miamba ya chini (aquifers), kuingiliwa na maji ya chumvi. Tathmini hiyo imekadiriwa kuchukua muda wa miezi 18 kuanzia Julai, 2009 na Serikali ya Norway imetoa msaada wa Dola za Marekani milioni sita kwa ajili ya utekelezaji wa kazi hiyo. DAWASA inasimamia utekelezaji wa Mradi huu.</seg>
+          <seg xml:id="seg117">(b) Mheshimiwa Naibu Spika, ujenzi wa Bwawa la Kidunda utawezesha upatikanaji wa maji kutoka Mto Ruvu kwa ajili ya Jiji la Dar es Salaam kwa majira yote ya mwaka. Bwawa hilo pia litasaidia kuzuia mafuriko ya Mto Ruvu na kuhakikisha yanakuwepo maji ya kutosha kwa umwagiliaji katika Bonde la Mto Ruvu. Hadidu za rejea za kumpata Mtaalamu Mshauri wa kufanya upembuzi yakinifu na usanifu wa ujenzi wa bwawa zimekamilika na tangazo la kumpata mtaalamu huyo kutolewa 19 Februari, 2009. Kazi ya upembezi yakinifu itaanza mwishoni mwa mwezi huu wa Juni, 2009. Upembuzi yakinifu na usanifu inakadiriwa kuchukua miezi tisa, ambapo kazi ya ujenzi wa bwawa itaanza baada ya usanifu kukamilika. Gharama za ujenzi wa bwawa zinakadiriwa kuwa Dola za Marekani milioni 88.</seg>
+          <seg xml:id="seg118">Mheshimiwa Spika, maji ya Bwawa la Kidunda ambayo yatasafishwa Ruvu Juu na Ruvu Chini ni ya juu ya ardhi; kwa asilia yake, yatahitaji gharama zaidi kwa ajili ya kununua dawa za kuyasafisha, ikilinganishwa na maji yatokayo chini ya ardhi. Ili kukidhi mahitaji makubwa ya maji kwa Jiji la Dar es Salaam, vyanzo vyote vya maji vitatumika; Mto Ruvu, Mto Kizinga na maji ya chini ya ardhi, kutokana na visima katika maeneo mbalimbali ikiwa ni pamoja na Kimbiji na Mpera.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u43" who="MheVictorKMwambalaswa">
+          <seg xml:id="seg119">Mheshimiwa Naibu Spika, kwa kuwa maji yaliyo chini ya ardhi huko Kimbiji ni zaidi ya nusu ya maji yaliko Ziwa Victoria; na kwa kuwa gharama za kuchimba bwawa Kidunda kama alivyosema Mheshimiwa Waziri ni kubwa zaidi kuliko kutoa maji chini ya ardhi; na kwa kuwa sasa hivi kuna tabia ya kukimbilia maji ghali ambayo haya-realize value for money kama kununua ndege ya Rais ambayo inabeba watu 12 wakati msafara wa Rais ni watu 18; je, Waziri anasema nini kuhusu kutumia maji ya Kimbiji ambayo ni kuchimba visima tu kuliko kuweka Bwawa la Kidunda ambalo kuna gharama zaidi za kuweka dawa za kutibu maji hayo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u44" who="NaibuSpika">
+          <seg xml:id="seg120">Mheshimiwa Waziri, naomba majibu yawe mafupi tu, maana hapa haziingii ndege. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u45" who="WaziriWaMajiNaUmwagiliaji">
+          <seg xml:id="seg121">Mheshimiwa Naibu Spika, falsafa za maeneo haya mawili ni tofauti, lakini zina uhusiano. Kimbiji ni eneo jipya la chanzo kipya cha maji na Kidunda ni mradi wa kurekebisha utiririkaji wa maji katika Mto Ruvu. Kwa sababu hivi sasa tunatumia maji ya Mto Ruvu, tunachokifanya kwa ujenzi wa Bwawa la Kidunda ambalo nasema limechelewa sana ni kuwa na uhakika wa kuwa na maji kipindi chote cha mwaka mzima hata wakati wa kiangazi. Kwa hiyo, siyo kwamba unaweza kuwa na mradi mmoja ukaacha mwingine; they are not mutually exclusive.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u46" who="MheKabweZZitto">
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, kwa kuwa hivi sasa ni asilimia 50 tu ya watu wa Dar es Salaam ambao wanapata maji tena yasiyo ya uhakika; na kwa kuwa gharama za maji kwa watu maskini, yaani watu ambao wananunua maji kwenye madumu ni takriban mara 15 ya gharama za watu wenye uwezo ambao wanapata maji kwenye mabomba yanayopelekewa maji na DAWASCO; je, Serikali haioni kuna haja ya kuwa na mpango maalumu wa maji katika Jiji la Dar es Salaam kama ilivyofanya kwa maji ya kutoka Ziwa Victoria ili kuhakikisha kwamba Jiji linakuwa na maji ya uhakika kama sura ya taifa letu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u47" who="Spika">
+          <seg xml:id="seg123">Sasa wachukue maji ya bahari! </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u48" who="WaziriWaMajiNaUmwagiliaji">
+          <seg xml:id="seg124">Mheshimiwa Naibu Spika, baada ya kutekeleza Mradi wa Kupeleka Maji Kahama na Shinyanga kutoka Ziwa Victoria, ambao ulizinduliwa tarehe 30 Mei, 2009 na Mheshimiwa Jakaya Mrisho Kikwete, nguvu kubwa itaelekezwa katika kutatua tatizo la maji kwa Jiji la Dar es Salaam.</seg>
+          <seg xml:id="seg125">Kwa hiyo, nilichoeleza leo kupitia jibu la swali la Mheshimiwa Mwambalaswa ni kutoa kwa muhtasari mpango wa Serikali. Mpango huu ni mkubwa na utakaogharimu fedha nyingi, lakini ni mpango ambao tumedhamiria kuutekeleza kwa sababu tatizo la maji Dar es Salaam ni kubwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 30. Vielelezo vya Mfumko wa Bei</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u49" who="MheMzeeNgwaliZubeir">
+          <seg xml:id="seg126">Kwa kuwa mfumko wa bei unasababishwa na mambo mengi kama vile ujazi unaogharimu fedha nyingi, uhaba wa chakula, upandishaji mishahara, upandaji wa bei za bidhaa mbalimbali kwenye masoko:-</seg>
+          <seg xml:id="seg127">(a) Je, ufumbuzi wa vielelezo hivyo ni nini?</seg>
+          <seg xml:id="seg128">(b) Je, hatua gani zitachukuliwa na Serikali kwa mambo yaliyo nje ya mazingira hayo kama vile bei ya mafuta?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u50" who="NaibuWaziriWaFedhaNaUchumiMheJeremiahSSumari">
+          <seg xml:id="seg129">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Mzee Ngwali Zubeir, Mbunge wa Mkwajuni, lenye sehemu (a) na (b) kama ifuatavyo:-</seg>
+          <seg xml:id="seg130">(a) Mheshimiwa Naibu Spika, nakubaliana na Mheshimiwa Mbunge kwamba, mfumko wa bei unasababishwa na mambo mengi na udhibiti wa vielelezo hivyo ndiyo hupelekea kushuka kwa mfumko wa bei. Hivyo, Serikali na Benki Kuu ya Tanzania imekuwa ikichukua hatua mbalimbali ikiwa ni pamoja na:-</seg>
+          <seg xml:id="seg131">(i) Kuhakikisha ujazi wa fedha kwenye uchumi unakua sawia na ukuaji</seg>
+          <seg xml:id="seg132">wa shughuli za uchumi ili kuepuka mfumko wa bei.</seg>
+          <seg xml:id="seg133">(ii) Udhibiti na usimamiaji kwa karibu wa matumizi ya Serikali.</seg>
+          <seg xml:id="seg134">(iii) Kutumia kodi kama nyenzo ya udhibiti wa mfumko wa bei.</seg>
+          <seg xml:id="seg135">(iv) Kutumia sheria na kanuni husika katika kudhibiti bei za nishati ya</seg>
+          <seg xml:id="seg136">mafuta, bidhaa na huduma mbalimbali.</seg>
+          <seg xml:id="seg137">(v) Kuchukua hatua mbalimbali za kuvutia uwezekaji na ongezeko la tija</seg>
+          <seg xml:id="seg138">katika sekta mbalimbali za uchumi.</seg>
+          <seg xml:id="seg139">(vi) Kutekeleza mikakati mbalimbali ya kuboresha na kuongeza uzalishaji</seg>
+          <seg xml:id="seg140">kwenye kilimo kama vile kuimarisha scheme za umwagiliaji, utafiti,</seg>
+          <seg xml:id="seg141">kutoa ruzuku za mbolea, madawa na mbegu na kutoa elimu na mbinu</seg>
+          <seg xml:id="seg142">za kilimo bora.</seg>
+          <seg xml:id="seg143">(b) Mheshimiwa Naibu Spika, kupanda kwa bei ya mafuta ni jambo ambalo linaathiri karibu kila sekta ya uchumi wetu. Pamoja na kwamba, nchi yetu haina sauti katika kuamua bei ya mafuta katika soko la dunia, inawezekana na ni vyema kubuni na kuchukua hatua zinazofaa ili kudhibiti kasi ya kupanda kwa bei kama kwa mfano:-</seg>
+          <seg xml:id="seg144">(i) Serikali kupanua wigo wa vyanzo vya mapato yake na kupunguza</seg>
+          <seg xml:id="seg145">mzigo wa kodi kwenye sehemu au bidhaa kama mafuta.</seg>
+          <seg xml:id="seg146">(ii) Kuangalia na kurekebisha inavyobidi sera za fedha na sera za mapato</seg>
+          <seg xml:id="seg147">na matumizi ya Serikali ili zisimamie kukua kwa uchumi bila kuwa na</seg>
+          <seg xml:id="seg148">madhara ya kusababisha mfumko wa bei.</seg>
+          <seg xml:id="seg149">(iii) Kuwepo na mapinduzi ya kilimo nchini (Kilimo Kwanza).</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u51" who="MheMzeeNgwaliZubeir">
+          <seg xml:id="seg150">Mheshimiwa Naibu Spika, kama alivyosema Mheshimiwa Naibu Waziri; kupunguza mfumko wa bei ni usimamizi na ufuatiliaji mzuri wa pesa za Serikali:-</seg>
+          <seg xml:id="seg151">(a) Je, wanachukua hatua gani kwa zile Wizara ambazo zina matumizi mabovu na mabaya katika Serikali?</seg>
+          <seg xml:id="seg152">(b) Kama alivyosema kuwa mkakati mzuri ni kuhakikisha kilimo chetu kinaboreshwa; je, kuna ufuatiliaji mzuri au wamefanya utafiti mzuri wa bidhaa zetu kupata soko katika nchi za kigeni?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u52" who="NaibuWaziriWaFedhaNaUchumiMheJeremiahSSumari">
+          <seg xml:id="seg153">Mheshimiwa Naibu Spika, hatua zinazochukuliwa kwa Wizara na Idara ambazo zinaonekana kwamba zina matumizi mabaya ya Serikali, kwanza, kutokana na Ripoti ya Mdhibiti na Mkaguzi Mkuu ndiyo hapo tunapoanzia na hatua zinazofaa kuchukuliwa ni pamoja na hatua za kinidhamu na hatua nyingine ambazo zipo kwenye Kanuni za Serikali zinazosimamia Matumizi ya Serikali.</seg>
+          <seg xml:id="seg154">Swali la pili kuhusu kilimo, tafiti mbalimbali zinafanywa kwenye mazao yote hasa yale ambayo yanauzwa nchi za nje, ikiwa ni pamoja na kahawa. Tunavyo vituo vya utafiti na kama tulivyosikia, tayari Serikali imeshaamua kwamba, asilimia moja ya Bajeti ya Serikali itatumika kwenye tafiti mbalimbali, ikiwa ni pamoja na kwenye Sekta ya Kilimo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u53" who="MheMohamedHabibMnyaa">
+          <seg xml:id="seg155">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali dogo la nyongeza.</seg>
+          <seg xml:id="seg156">Pamoja na sababu alizozitaja Mheshimiwa Waziri kuhusu mfumko wa bei na namna gani ya kuzuia, lakini pia kuna suala moja kubwa sana ambalo sikusikia akilitaja, ningeomba Mheshimiwa Waziri atufafanulie; kwa kuwa uthibiti wa thamani ya fedha yetu ni moja ya chanzo cha mfumko wa bei; je, Serikali inachukua hatua gani ya kudhibiti kuanguka thamani ya shilingi yetu na kupunguza dollarisation?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u54" who="NaibuWaziriWaFedhaNaUchumiMheJeremiahSSumari">
+          <seg xml:id="seg157">Mheshimiwa Naibu Spika, kuhusu dollarization, nakubaliana naye kwamba, sio jambo jema kwa nchi yetu kung’ang’ania Dola ya Marekani, ambayo sio fedha yetu ya halali. Hatua kubwa ambayo Serikali imechukua kwenye hili ni kutoa angalizo na matamko kwenye Bunge hili hili Tukufu; aliyekuwa Waziri wa Fedha, Mama Meghji, alitoa tamko kuhusu madhara na akajenga rai ya Watanzania kurudia shilingi yao kama fedha halali ya malipo nchini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u55" who="NaibuWaziriWaFedhaNaUchumiMheJeremiahSSumari">
+          <seg xml:id="seg158">Mheshimiwa Mkulo naye ameshatoa rai hiyo, kuwakumbusha Watanzania umuhimu na hatari zilizopo kwa kung’ang’ania fedha ambayo sio yetu. Rai yangu leo ni kuwakumbusha tena Watanzania wenzetu kwamba, moja ambalo limetunusuru katika mporomoko wa uchumi unaoendelea ni pale ambapo shilingi yetu ilikutwa ikiwa ina nguvu ukilinganisha na fedha nyingine za dunia.</seg>
+          <seg xml:id="seg159">Pili, Benki Kuu inachukua hatua mbalimbali kuhakikisha kwamba, thamani ya shilingi inakuwa juu; ikiwa ni pamoja na kununua na kuuza fedha za kigeni kwenye soko la fedha hiyo kule Benki Kuu. Kwa hiyo, kwa njia hiyo na hatua nyingine, tunahakikisha kwamba thamani ya shilingi inakuwa nzuri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 31. Misaada ya Nchi ya Marekani</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u56" who="MheSalimHemedKhamis">
+          <seg xml:id="seg160">Kwa kuwa Tanzania imefaidika sana kutokana na ujio wa Rais G. W. Bush hapa nchini ikiwa ni pamoja na msaada wa MCC wa shilingi karibu bilioni 800; na kwa kuwa wahenga walisema hakuna chakula cha bure (there is no free lunch): Je, Serikali ya Marekani inategemea kupata faida gani kutokana na misaada yake hiyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u57" who="NaibuWaziriWaFedhaNaUchumiMheOmarYussufMzee">
+          <seg xml:id="seg161">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Fedha na Uchumi, napenda kujibu swali la Mheshimiwa Salim Hemed Khamis, Mbunge wa Jimbo la Chambani, kama ifuatavyo:-</seg>
+          <seg xml:id="seg162">Mheshimiwa Naibu Spika, kwanza kabisa, napenda kulifahamisha Bunge lako Tukufu kuwa, nchi ya Marekani ni miongoni mwa nchi tajiri duniani. Nchi hii imeamua kuziunga mkono jitihada za kimaendeleo, zinazofanywa na Serikali za nchi maskini ikiwemo Tanzania. Mpango wa MCC ni moja tu ya mipango iliyobuniwa na Serikali ya Marekani, kwa ajili ya kuzisaidia nchi maskini duniani. Ili kuweza kupata msaada wa Marekani kwa kupitia Mpango wa MCC, nchi inapaswa kutekeleza mambo yafuatayo: Kuwa na Utawala Bora; kuwa na uchumi huru; na kuwa na uwekezaji endelevu katika rasilimali watu hasa katika Sekta ya Elimu na Afya.</seg>
+          <seg xml:id="seg163">Mheshimiwa Naibu Spika, Serikali ya Marekani, haikuisaidia Tanzania kwa masharti ya kupata faida. Msaada wa Marekani kwa Tanzania, unalenga zaidi katika kuimarisha udugu na uelewano kati ya nchi zetu na wananchi wetu. Uelewano ni msingi mzuri wa ushirikiano katika nyanja ya biashara, teknolojia, elimu, uwekezaji, kubadilishana taarifa za kitaalamu, utalii, utamaduni na kudumisha amani. Tanzania na Marekani, zimekuwa na urafiki na ushirikiano wa miaka mingi. Kuongezeka kwa misaada kutoka Marekani ni matokeo ya kuendelea kuimarika kwa ushirikiano wetu na sio vinginevyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u58" who="MheSalimHemedKhamis">
+          <seg xml:id="seg164">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi niulize swali moja tu la nyongeza.</seg>
+          <seg xml:id="seg165">Kwa kuwa katika miaka ya karibuni Serikali ya Marekani imeonekana kuishabikia sana Tanzania, kwa kuisaidia misaada mbalimbali; na kwa kuwa ni hivi karibuni tu Rais Kikwete amekuwa Rais wa kwanza wa Afrika kualikwa na kuitembelea Ikulu ya Washington; na kwa kuwa sote tunaelewa kuwa kaulimbiu ya Washington ni kuwa America first, kwa maana kwamba America inaangalia interest zake katika kusaidia nchi mbalimbali; je, huoni kuwa iko haja Watanzania kuelezwa ukweli halisi; pamoja na Marekani kufanya mengi makubwa, ina interest gani kwa Tanzania?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u59" who="WaziriWaMamboYaNjeNaUshirikianoWaKimataifa">
+          <seg xml:id="seg166">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza, lakini kwanza, nimpongeze Naibu Waziri wa Fedha, kwa majibu mazuri sana aliyoyatoa.</seg>
+          <seg xml:id="seg167">Mheshimiwa Naibu Spika, kwanza, tuelezane jambo moja; Waamerika na hasa Serikali ya Marekani, imeamua kuwa rafiki na kuwekeza katika Nchi ya Tanzania, kwa sababu Tanzania ni miongoni mwa nchi chache sana dunia ambayo inatumia pesa za wafadhili kama inavyokusudiwa. Baraza la Senate la Serikali ya Marekani, kwa kutambua kwamba, kumbe wanapopeleka pesa katika nchi za Kiafrika, pesa zile zinatumika vizuri, ndio maana Serikali ya George W. Bush na sasa Serikali ya Rais Obama, zimeamua kwamba, kumbe unapopeleka hela katika nchi kama Tanzania, hupati hubishi wala mgongano kwenye Bunge lao (Congress), wala kwenye Senate, kwa sababu pesa zile zinatumika kama inavyotakiwa.</seg>
+          <seg xml:id="seg168">Sasa sehemu ya pili ya swali lake, Serikali ya Marekani ina interest gani Tanzania? Ningependa kujibu kama ifuatavyo:-</seg>
+          <seg xml:id="seg169">Serikali ya Marekani, inazo interest zake duniani kote, lakini uhusiano wake na Tanzania; hakuna ajenda inayojificha wala hakuna interest inayojificha. Interest ya Marekani kwa Tanzania kama ilivyo interest ya Marekani kwa Afrika nzima; ni kuzisaidia Nchi za Afrika kujikwamua katika uchumi, kuwa na Utawala Bora (Good Governance) na ku-invest kwa wananchi katika masuala ya elimu, afya na miundombinu, kama ilivyoelezwa na Wizara ya Fedha.</seg>
+          <seg xml:id="seg170">Mheshimiwa Naibu Spika, nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <note>Na. 32. Kuvusha Umeme Kupitia Daraja la Mkapa</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u60" who="MheAbdulJMarombwa">
+          <seg xml:id="seg171">Kwa kuwa kuna utata mkubwa juu ya kuvusha umeme kupitia Daraja la Mkapa kwenye Mto Rufiji na kusababisha Miji ya Mchukwi, Kibiti na Bungu kukosa umeme:-</seg>
+          <seg xml:id="seg172">(a) Je, Serikali imefikia muafaka gani juu ya suala hilo?</seg>
+          <seg xml:id="seg173">(b) Je, ni lini TANESCO itakamilisha uwekaji wa nguzo pamoja na nyaya zake toka Ikwiriri hadi Mkupuka?</seg>
+          <seg xml:id="seg174">(c) Je, ni lini Serikali italipa fidia kwa Wananchi wa Vijiji vya Mtawanya hadi Bungu ambao wamekatiwa mazao yao ili kupitisha nguzo za umeme?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u61" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg175">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Abdul J. Marombwa, Mbunge wa Kibiti, lenye sehemu (a), (b) na (c) kama ifuatavyo:-</seg>
+          <seg xml:id="seg176">(a) Mheshimiwa Naibu Spika, Wizara yangu kwa kushirikiana na Wizara ya Miundombinu, iliajiri Mshauri Mwelekezi mwezi Machi 2009 ili kutathmini uwezekano wa kupitisha nyaya za umeme wa kilovoti 33 kwenye Daraja la Mkapa, lililopo kwenye Mto Rufiji au njia nyingine mwafaka pasipo kuleta madhara. Mshauri Mwelekezi alitoa rasimu ya taarifa ya tathmini mwezi Mei, 2005 na ikasambazwa kwa wadau ili kutoa maoni yao. Wizara imeshapokea maoni ya wadau kuhusu taarifa hiyo, ikiwemo Wizara ya Maendeleo ya Miundombinu, Association of Consulting Engineers Tanzania (ACET) na NORPLAN ambaye ni Mshauri wa Mradi Mdogo wa Umeme Vijijini chini ya Mradi wa Songosongo mwezi Mei, 2009. Taarifa kamili ya Mshauri Mwelekezi itatolewa tarehe 30 Juni, 2009. Uvushaji wa nyaya kwenye Daraja la Mkapa umepangwa kukamilika ndani ya kipindi cha mwaka 2009/10.</seg>
+          <seg xml:id="seg177">(b) Mheshimiwa Naibu Naibu Spika, mkandarasi ambaye ni Kampuni ya Eltel Networks ya Sweden, ameshaagiza vifaa. Bahati mbaya, meli yenye nyaya ilitekwa nyara kwenye Bahari ya Hindi eneo la Somalia ikitokea Ulaya mwezi Mei, 2009 na haijaachiwa hadi sasa. Tunafahamu juhudi za Protocol ya Kimataifa zinaendelea kuikomboa meli hiyo. Nguzo zimeshawasili nchini. Ratiba kamili ya ukamilishaji wa usimikaji wa nguzo pamoja na nyaya zake, itajulikana mara baada ya vifaa kuwasili nchini, ingawa mipango iliyopo ni kukamilisha kazi zote ndani ya kipindi kisichozidi miezi saba.</seg>
+          <seg xml:id="seg178">(c) Mheshimiwa Naibu Spika, kumbukumbu tulizonazo zinaonesha kwamba, Serikali imekwishawafidia wananchi wote wakiwemo Wananchi wa Vijiji vya Mtawanya hadi Bungu, ambao waliathiriwa na zoezi la utekelezaji wa Mradi wa Umeme Vijijini chini ya mradi mkubwa wa Songo Songo. Hapo awali, jumla ya shilingi milioni 610 zililipwa kwa wananchi 1,613. Hata hivyo, katika ulipaji huo wa fidia, kulijitokeza malalamiko mbalimbali ya wananchi kama vile kutoridhika na viwango vya thamani za mali zao, kutothaminiwa kwa baadhi ya maeneo au mali, kubadilika kwa njia ya umeme na wengine kutothaminiwa kabisa. Hivyo, Serikali kupitia Mthamini Mkuu wa Serikali (Chief Government Valuer), walipitia malalamiko hayo na kurekebisha kasoro zilizojitokeza katika zoezi la awali kwa kufanya tathmini upya na hatimaye kutoa fidia kwa kuzingatia tathmini mpya.</seg>
+          <seg xml:id="seg179">Serikali kwa kushirikiana na Mfuko wa Nishati Vijijini, mwezi Aprili, 2008, iliwalipa jumla ya shilingi milioni 250 kama fidia kwa wananchi 351.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u62" who="MheAbdulJMarombwa">
+          <seg xml:id="seg180">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafsi ya kuuliza maswali mawili madogo ya nyongeza. Pamoja na majibu yasiyoleta matumaini kwa wananchi na hasa wa Jimbo la Kibiti, nina maswali mawili madogo:-</seg>
+          <seg xml:id="seg181">(a) Kwa kuwa meli inayoleta nyaya imekamatwa kule Somalia, je, isipoachiwa Serikali inachukua hatua gani kuhakikisha kuwa nyaya nyingine mbadala zinapatikana?</seg>
+          <seg xml:id="seg182">(b) Je, Serikali itasubiri kwa muda gani kabla haijatoa maamuzi ya nyaya nyingine mbadala kupatikana?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u63" who="WaziriWaNishatiNaMadini">
+          <seg xml:id="seg183">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza kutoka kwa Mheshimiwa Abdul J. Mrumba, kama ifuatavyo:-</seg>
+          <seg xml:id="seg184">Kwanza, naungana naye kusikitika kwa jinsi mradi ulivyochukua muda mrefu, lakini kikubwa; utekaji wa meli ni kama ajali. Haya ni mambo ambayo yako juu ya uwezo wetu sisi kama Serikali, yapo juu ya Wananchi wa Kibiti na wafaidika wa mradi huo na vilevile yako juu ya matarajio ya kawaidia kutokana na jinsi tulivyotarajia mradi utekelezwe.</seg>
+          <seg xml:id="seg185">Swali la kwanza kuhusu muda; tunafahamu katika shughuli za biashara kama hizi na hasa usafirishaji, kuna masuala ya Bima. Hii ndiyo imani yetu na tunaendelea kuifanyia kazi; tunaangalia mwagizaji kwa kushirikaina na mbebaji wa mizigi hiyo; bima yao wamekubaliana ndani ya muda gani kama jambo hilo limejitokeza, kwa sababu ni mambo ambayo yanazingatiwa katika makubaliano ya kibiashara; bima huwa hazina muda maalumu na ndio kazi ambayo sisi tunaifanyaia kazi, tunawasiliana na mkandarasi na wahusika ili tujue sasa baada ya muda gani watakuwa wamekamilisha masuala ya bima.</seg>
+          <seg xml:id="seg186">Kikubwa ni kwamba, Serikali haitachukua muda mrefu kuliamua hili kwa sababu ni jambo ambalo limetuchukua muda mrefu na tunaendelea kulifanyia kazi. Nimwombe Mheshimiwa Mbunge azidi kuwasiliana nasi.</seg>
+          <seg xml:id="seg187">Mheshimiwa Naibu Spika, ningependa nichukue nafasi hii kumhakikishia Mheshimiwa Mbunge, kama nilivyomhakikishia mwaka jana tulipotembelea Wananchi wa Kibiti tukiwa pamoja, tulipokwenda kukamilisha utekelezaji wa usimamizi wa zoezi la kulipa fidia kwa wananchi waliokuwa wameathirika na mradi; Serikali inatambua machungu walionayo, inatambua uvumilivu wao, lakini sisi kikubwa tunachofanya ni kuhakikisha tunakamilisha mradi huu bila kuchelewa kwa kadiri tulivyokuwa tumepanga baada ya matatizo haya ya vifaa kuwasili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u64" who="NaibuSpika">
+          <seg xml:id="seg188">Waheshimiwa Wabunge, muda wa maswali umepita na maswali yamekwisha. Wakati swali la namba 25 likiulizwa, tulimtaka Mheshimiwa</seg>
+          <seg xml:id="seg189">Shoka Hamisi Juma, atoe uthibitisho kuhusu maelezo aliyoyasema na bahati nzuri Hansard ya swali hili imeshatoka.</seg>
+          <seg xml:id="seg190">Anasema, yeye aliuliza swali la nyongeza, lakini kuna chama kimoja ambacho huwa ni kikubwa sana hapa Tanzania, kina tabia ya kununua shahada za wapiga kura, hususan wale kinaowaona hakiwaungi mkono. Tumemtaka athibitishe na naomba tarehe 18 Juni 2009 aweze kuthibitisha, itakuwa Siku ya Alhamisi.</seg>
+          <seg xml:id="seg191">Sasa kuna wengine wanauliza kuna tofauti gani na swali la nyongeza alilouliza Mheshimiwa Dr. Willibrod Slaa? Tofauti ipo; Mheshimiwa Dr. Willibrod Slaa yeye anasema; kwa kuwa katika kikao cha hivi karibuni kati ya Tume ya Taifa ya Uchaguzi na wadau wa vyama mbalimbali, Tume ya Taifa ilitoa taarifa yake na katika taarifa hiyo sababu moja iliyoelezwa ya kushuka ni pamoja na ununuzi wa shahada.</seg>
+          <seg xml:id="seg192">Tofauti ya swali la Mheshimiwa Shoka na Mheshimiwa Dr. Slaa; Mheshimiwa Dr. Slaa ana-refer kwenye kikao walichokaa na kwamba kulikuwa na taarifa itakayoletwa. Kwa hiyo, ndio Waziri akasema taarifa hajaipata, lakini huyu anasema Chama cha Mapinduzi kina tabia; ndiyo maana tunasema athibitishe. Kwa hiyo, tarehe 18 Juni 2009, Siku ya Alhamisi anatakiwa kutoa ushahidi.</seg>
+          <seg xml:id="seg193">Tunaendelea Katibu.</seg>
+          <seg xml:id="seg194">MISWADA YA SHERIA YA SERIKALI</seg>
+          <seg xml:id="seg195">Muswada wa Sheria ya Fedha wa Mwaka 2009</seg>
+          <seg xml:id="seg196">(The Finance Bill, 2009)</seg>
+        </u>
+        <note>(Kusomwa Mara ya Kwanza)</note>
+        <note>(Muswada Uliotajwa Hapo Juu Ulisomwa Mara ya Kwanza)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u65" who="NaibuSpika">
+          <seg xml:id="seg197">Waheshimiwa Wabunge, kuna wageni wetu waliohudhuria hapa; kwanza, wageni wa Mheshimiwa Dr. Mary M. Nagu, Waziri wa Viwanda Biashara na Masoko, ambao ni Ndugu Mathiew Darema, Msaidizi wa Jimbo; na Ndugu Mathayo Darema, ambaye ni Mwenyekiti wa Kijiji cha Dilma. Vilevile wengine wote kama wapo wasimame. Naona wengine watakuja kesho. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u66" who="NaibuSpika">
+          <seg xml:id="seg198">Tuna mgeni wa Mheshimiwa Michael L. Laizer, ambaye ni Ndugu Naikara, Katibu wa CCM Wilaya ya Longido; kumbe ni mama karibu sana, tumefurahi kukuona aksante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2009-06-12-bunge-16-04.u67" who="NaibuSpika">
+          <seg xml:id="seg199">Matangazo ya shughuli za Kamati: Kwanza, Mwenyekiti wa Kamati ya Bunge ya Ardhi, Maliasili na Mazingira, Mheshimiwa Job Y. Ndugai, anaomba niwatangazie Wajumbe wa Kamati ya Ardhi, Maliasili na Mazingira kwamba, leo tarehe 12 Juni 2009, saa saba mchana, kutakuwa na kikao cha Kamati katika Ukumbi wa Pius Msekwa; hivyo, Wajumbe wote wanaombwa kuhudhuria bila kukosa.</seg>
+          <seg xml:id="seg200">Mwenyekiti ya Kamati ya Bunge ya Fedha na Uchumi, Mheshimiwa Dr. Abdallah Kigoda, anaomba niwatangazie Wajumbe wa Kamati ya Bunge ya Fedha na Uchumi kwamba, wakutane leo katika Ukumbi Namba 219, uliopo Jengo la Utawala, ghorofa ya pili, kuanzia saa tano asubuhi hii.</seg>
+          <seg xml:id="seg201">Mwenyekiti wa Kamati ya Bunge ya Kilimo, Mifugo na Maji, Mheshimiwa Gideon A. Cheyo, anaomba niwatangazie Wajumbe wa Kamati hiyo kwamba, wakutane leo katika Ukumbi Namba 231 ulioko Jengo la Utawala, saa tano asubuhi, ili kuijadili na kuichambua Bajeti ya Wizara ya Kilimo, Chakula na Ushirika. Hawa watakutana chumba namba 231 na wale wengine 219.</seg>
+          <seg xml:id="seg202">Mwenyekiti wa Kamati ya Bunge ya Maendeleo ya Jamii, Mheshimiwa Jenista J. Mhagama, anaomba niwatangazie Wajumbe wa Kamati hiyo kwamba, wakutane leo, wamechanganya Ukumbi; mtakwenda kuelewana huko huko ni saa tano asubuhi hii. Wanaohusika waone kwamba, Kamati hizi mbili zimeingia Ukumbi mmoja, sasa waangalie.</seg>
+          <seg xml:id="seg203">Waheshimiwa Wabunge, baada ya kusema hayo, kama mlivyoelezwa na Mheshimiwa Spika jana, tunaahirisha Kikao cha Bunge kusudi muweze kupitia vizuri Hotuba ya Bajeti ya Fedha, ambayo safari hii baada tu ya Waziri kutoa majibu, tunaingia kwenye Sheria ya Fedha, ndiyo maana ya mabadiliko haya tuliyoyafanya. Kwa hiyo, jiandaeni vizuri hamtakuwa na muda mwingi; kama kuna mabadiliko yoyote yale basi jiandaeni kwenye Sheria, pamoja na kusoma hotuba yenyewe.</seg>
+          <seg xml:id="seg204">Baada ya kusema hivyo, naahirisha shughuli za Bunge mpaka Siku ya Jumatatu saa tatu asubuhi.</seg>
+          <seg xml:id="seg205">(Saa 4.13 asubuhi Bunge liliahirishwa mpaka Siku ya Jumatatu,</seg>
+          <seg xml:id="seg206">Tarehe 15 Juni, 2009 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

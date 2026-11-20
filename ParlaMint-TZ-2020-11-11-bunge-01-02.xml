@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2020-11-11) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2020-11-11) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="2">2. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="1">1. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1605702000-11 NOVEMBA 2020.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2020-11-11">11.11.2020</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u1">
+          <seg xml:id="seg1">(Kiapo cha Uaminifu Kinaendelea)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u2" who="Spika">
+          <seg xml:id="seg2">Kiapo cha uaminifu. Tunaendelea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u3" who="NdgPamelaEPallangyoKatibuMezani">
+          <seg xml:id="seg3">305. Mhe. Mariam Nassoro Kisangi</seg>
+          <seg xml:id="seg4">306. Mhe. Eric James Shigongo</seg>
+          <seg xml:id="seg5">307. Mhe. Livingstone Joseph Lusinde</seg>
+          <seg xml:id="seg6">308. Mhe. Luhaga Joelson Mpina</seg>
+          <seg xml:id="seg7">309. Mhe. Mariam Omary Ukiwaona Ramadhani Ditopile</seg>
+          <seg xml:id="seg8">Mzuzuri Mwinshehe</seg>
+          <seg xml:id="seg9">310. Mhe. Martha Nehemia Gwau</seg>
+          <seg xml:id="seg10">311. Mhe. Miraji Jumanne Mkonongo Mtaturu 312. Mhe. Zahoro Mohamed Haji</seg>
+          <seg xml:id="seg11">313. Mhe. Oliver Daniel Semuguruka</seg>
+          <seg xml:id="seg12">314. Mhe. Regina Ndege Qwaray</seg>
+          <seg xml:id="seg13">315. Mhe. Samweli Xaday Hhayuma</seg>
+          <seg xml:id="seg14">316. Mhe. Shally Josepha Raymond</seg>
+          <seg xml:id="seg15">317. Mhe. Prof. Sospeter Mwijarubi Muhongo 318. Mhe. Stanslaus Shing’oma Mabula</seg>
+          <seg xml:id="seg16">319. Mhe. Eng. Stella Martin Manyanya</seg>
+          <seg xml:id="seg17">320. Mhe. Sylivia Francis Sigula</seg>
+          <seg xml:id="seg18">321. Mhe. Taska Restituta Mbogo</seg>
+          <seg xml:id="seg19">322. Mhe. Tauhida Cassian Gallos</seg>
+          <seg xml:id="seg20">323. Mhe. Tecla Mohamed Ungele</seg>
+          <seg xml:id="seg21">324. Mhe. Ummy Hamisi Nderiananga</seg>
+          <seg xml:id="seg22">325. Mhe. Vedastus Manyinyi Mathayo 326. Mhe. Vita Rashid Kawawa</seg>
+          <seg xml:id="seg23">327. Mhe. William Tate Olenasha</seg>
+          <seg xml:id="seg24">328. Mhe. Yahaya Omary Massare</seg>
+          <seg xml:id="seg25">329. Mhe. Zacharia Paulo Issaay</seg>
+          <seg xml:id="seg26">330. Mhe. Zainab Athuman Katimba</seg>
+          <seg xml:id="seg27">331. Mhe. Zaytun Seif Swai</seg>
+          <seg xml:id="seg28">332. Mhe. Zuberi Mohamed Kuchauka</seg>
+          <seg xml:id="seg29">333. Mhe. Zuwena Athuman Bushiri</seg>
+          <seg xml:id="seg30">334. Mhe. Anne Kilango Malecela</seg>
+          <seg xml:id="seg31">335. Mhe. Cosato David Chumi</seg>
+          <seg xml:id="seg32">336. Mhe. Pauline Philipo Gekul</seg>
+          <seg xml:id="seg33">337. Mhe. Kilumbe Shabani Ng’enda</seg>
+          <seg xml:id="seg34">338. Mhe. January Yusuf Makamba</seg>
+          <seg xml:id="seg35">339. Mhe. Nape Moses Nnauye</seg>
+          <seg xml:id="seg36">340. Mhe. Rehema Juma Migilla</seg>
+          <seg xml:id="seg37">341. Mhe. Neema Kichiki Lugangira</seg>
+          <seg xml:id="seg38">342. Mhe. Toufiq Salim Turky</seg>
+          <seg xml:id="seg39">343. Mhe. Shamsia Azizi Mtamba</seg>
+          <seg xml:id="seg40">344. Mhe. Abdullah Ali Mwinyi</seg>
+          <seg xml:id="seg41">345. Mhe. Amandus Julius Chinguile 346. Mhe. Aysharose Ndogholi Mattembe 347. Mhe. George Boniface Simbachawene 348. Mhe. Omari Juma Kipanga</seg>
+          <seg xml:id="seg42">349. Mhe. Dkt. Ritta Enespher Kabati 350. Mhe. Neema William Mgaya</seg>
+          <seg xml:id="seg43">351. Mhe. Stella Ikupa Alex</seg>
+          <seg xml:id="seg44">352. Mhe. Ummy Ali Mwalimu</seg>
+          <seg xml:id="seg45">353. Mhe. Salma Rashid Kikwete</seg>
+          <seg xml:id="seg46">354. Mhe. Lucy Thomas Mayenga</seg>
+          <seg xml:id="seg47">(Wabunge Waliotajwa Hapo Juu Waliapa Kiapo</seg>
+          <seg xml:id="seg48">cha Uaminifu)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u4" who="Spika">
+          <seg xml:id="seg49">Waheshimiwa Wabunge, naendelea kusisitiza kuhusu umuhimu wa kurudisha hizi karatasi zetu za njano ambazo tunapewa kuzisaini, ni muhimu sana. Kama</seg>
+          <seg xml:id="seg50">nilivyowaeleza jana zitatusaidia sana katika masuala ya kiutawala na Waheshimiwa Wabunge najua mmewasili siku kadhaa sasa, lakini baada tu ya kuapa hapa sasa mambo yote tutarekebisha yanayohusiana na utaratibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u5" who="Spika">
+          <seg xml:id="seg51">Pia natambua kwamba Waheshimiwa Wabunge mnao wageni wengi, mnayo mambo mengi ya kurekebisha hapa mjini, wengine bado mambo ya makazi hayajakaa sawasawa, wengine simu za wajumbe bado nyingi sana, Mzee umeshafika Dodoma? </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u6" who="Spika">
+          <seg xml:id="seg52">Wajumbe bado wanawafuatilia kwa hiyo, lazima mpate muda wa kuwasiliana na wajumbe huko na wengine wamekuja. Wabunge ni watu wenye shughuli nyingi sana. Kwa hiyo, tumeona mchana wa leo tuwaachie muwe huru mrekebishe mambo yenu ili tuweze kukutana kesho Saa Tatu kwa shughuli muhimu za kesho pia. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2020-11-11-bunge-01-02.u7" who="Spika">
+          <seg xml:id="seg53">Waheshimiwa Wabunge, kwa jinsi hiyo basi, naomba kuahirisha shughuli za Bunge hadi kesho saa tatu kamili asubuhi.</seg>
+          <seg xml:id="seg54">(Saa 3.45 Asubuhi, Bunge liliahirishwa mpaka Siku ya Alhamisi,</seg>
+          <seg xml:id="seg55">Tarehe 12 Novemba, 2020 Saa 3.00 Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

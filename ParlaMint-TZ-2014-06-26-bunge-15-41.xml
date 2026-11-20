@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2014-06-26) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2014-06-26) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="41">41. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="15">15. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1458126354-HS-15-41-2014.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2014-06-26">26.06.2014</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u1" who="NaibuSpika">
+          <seg xml:id="seg1">Waheshimiwa Wabunge, hatutakuwa na Session ya Kwanza ya Mheshimiwa Waziri Mkuu. Tuna maswali ya kawaida na tunaanza na maswali yanayoelekezwa katika Ofisi ya Mheshimiwa Waziri Mkuu. Swali la kwanza linaulizwa na Mheshimiwa Halima James Mdee, Mbunge wa Kawe, kwa niaba yake Mheshimiwa John Mnyika!</seg>
+        </u>
+        <note>Na. 312. Ruzuku kwa Shule za Umma</note>
+        <note>(K.n.y. MHE. HALIMA J. MDEE)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u2" who="MheJohnJMnyika">
+          <seg xml:id="seg2">Serikali imekuwa ikitoa ruzuku (Capitation Grants) kila mwaka kwa Shule za Umma kiasi cha shilingi 15,000 kwa kila mwanafunzi (Shule za Msingi) na shilingi 25,000 kwa mwanafunzi (Shule za Sekondari) ili kuwezesha shule hizo kujiendesha na kuwapunguzia mzigo Wananchi:-</seg>
+          <seg xml:id="seg3">(a) Je, kwa mwaka 2011/2012 Serikali ilitenga shilingi ngapi na inatarajia kutenga kiasi gani kwa mwaka 2012/2013 kwa ajili ya ruzuku hiyo?</seg>
+          <seg xml:id="seg4">(b) Je, mpaka sasa ni kiasi gani cha ruzuku kimeshatumwa kwenye shule husika, kwa utaratibu na kiwango gani?</seg>
+          <seg xml:id="seg5">(c) Je, Shule za Msingi na Sekondari Jimbo la Kawe zimepata kiasi gani kwa wastani wa shilingi ngapi kwa kila mwanafunzi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u3" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg6">Kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Halima J. Mdee, Mbunge wa Kawe, lenye sehemu (a), (b) na (c), kama ifuatavyo:-</seg>
+          <seg xml:id="seg7">(a) Mheshimiwa Naibu Spika, Serikali huwa inatenga fedha za ruzuku ya uendeshaji (Capitation Grant), kwa shule za msingi na sekondari kwa kiwango cha shilingi 25,000 kwa sekondari na shilingi 10,000 kwa shule za msingi. Hii ni kwa kila mwanafunzi kwa mwaka. Kwa</seg>
+          <seg xml:id="seg8">Mwaka wa Fedha 2011/2012, Serikali ilitenga fedha za ruzuku ya uendeshaji, shilingi bilioni 40.7, kwa shule za sekondari na shilingi bilioni 80 kwa shule za msingi. Aidha, kwa Mwaka wa Fedha 2012/2013, Serikali ilitenga shilingi bilioni 41 kwa shule za sekondari na shilingi bilioni 80 kwa shule za msingi.</seg>
+          <seg xml:id="seg9">(b) Mheshimiwa Naibu Spika, kwa Mwaka wa Fedha 2013/2014, Serikali ilitenga shilingi bilioni 40.8 kwa ajili ya shule za sekondari na shilingi bilioni 81.3 kwa shule za msingi. Hadi mwezi Mei, 2014 zimeotolewa jumla ya shilingi bilioni 21 kwa ajili ya shule za sekondari, sawa na shilingi 13,147.58 kwa mwanafunzi. Kwa shule za msingi, bilioni 26.5, sawa na shilingi 3,200 kwa mwanafunzi. Aidha, kwa mwaka 2012/2013, shule za sekondari zilipata shilingi bilioni 22.4, sawa na shilingi 14,525.59 kwa mwanafunzi na shule za msingi shilingi bilioni 60.6, sawa na shilingi 7,565.27 kwa mwanafunzi.</seg>
+          <seg xml:id="seg10">(c) Mheshimiwa Naibu Spika, kwa Mwaka wa Fedha 2013/2014, shule za sekondari katika Halmashauri ya Manispaa ya Kinondoni zikiwemo za Jimbo la Kawe, zimepelekewa shilingi bilioni 1.017 zikiwemo za sekondari shilingi milioni 408, sawa na shilingi 9,157 kwa mwanafunzi na shule za msingi shilingi milioni 608, sawa na shilingi 3,994 kwa mwanafunzi. Aidha, kwa Mwaka wa Fedha 2012/2013, shule za sekondari zilipata shilingi milioni 712, sawa na shilingi 18,852 kwa mwanafunzi na shule za msingi shilingi bilioni 1.1, sawa na shilingi 7,625 kwa mwanafunzi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u4" who="MheJohnJMnyika">
+          <seg xml:id="seg11">Mheshimiwa Naibu Spika, nieleze tu masikitiko yangu kwamba, Mheshimiwa Naibu Waziri hajajibu sehemu (c) ya mwuliza swali la msingi; kwa sababu aliuliza kiwango cha fedha kilichotolewa kwa Shule za Sekondari za Kawe na Mheshimiwa Waziri amejibu kwa ujumla za Manispaa ya Kinondoni ikiwemo Kawe, bila kutoa mchanganuo wa kiwango cha fedha cha Kawe. Nina maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg12">(i) Kwa kiwango hiki cha fedha ambacho Serikali imetoa na kwa kauli ambayo Serikali imekuwa ikitoa mara kwa mara kwamba elimu ya msingi na sekondari kimsingi inagharimiwa na umma. Je, Serikali iko tayari sasa kutoa kauli ya kufuta orodha ndefu ya michango ambayo Wanafunzi wa Shule za Kawe, Jimbo la Ubungo, Jimbo la Kinondoni na maeneo mbalimbali nchini wanatozwa; mingine ya kujiorodhesha kujiunga, ya jembe, ya Mock, ya mitihani na walinzi. Michango mingi kweli kweli. Serikali iko tayari kutoa kauli ya kufuta hii michango ambayo ni mzigo kwa Watanzania maskini?</seg>
+          <seg xml:id="seg13">(ii) Naelewa kwamba, Wizara yako na Wizara ya Elimu wamesaini mikataba na Mheshimiwa Rais ya Mpango wa Matokeo Makubwa Sasa. Kwa kiwango hiki kidogo cha fedha kinachotolewa kwa ruzuku, ukilinganisha na fedha za mafungu mengine kama safari za Rais; je, mko tayari sasa mlete hapa Bungeni ule Mkataba wa BRN ya Elimu ili utekelezaji ukiwa dhaifu Bunge liweze kuchukua hatua kuepusha matokeo mabaya sasa kwenye elimu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u5" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg14">Mheshimiwa Naibu spika, kwanza, nataka nimjulishe Mheshimiwa Mbunge kwamba, kuhusu kipengele cha (c) cha swali; capitation hatupeleki kwenye Majimbo, tunazipeleka kwenye Halmashauri za Wilaya. Kwa hiyo, inawezekana pia mahitaji ya kutaka takwimu za ndani ya Jimbo ni sahihi na kwa maana hiyo sasa, tutalazimika kuagiza Halmashauri ituletee mchanganuo sahihi wa idadi ya shule zilizopo ndani ya Jimbo hilo na takwimu za fedha ambazo zimepatikana ili kwa uelewa wako Mheshimiwa Mbunge, uweze kuelewa; na hii sasa ni kwa Wabunge wote kwenye Majimbo yao.</seg>
+          <seg xml:id="seg15">Maswali yale mawili ya msingi, la kwanza kuhusu Kauli ya Serikali juu ya michango mbalimbali; tumeshaieleza hapa mara nyingi. Sasa narudia tu kwamba, Serikali haina michango iliyotaka Wananchi wachangie kwenye maeneo yao, isipokuwa shule hizi zote za msingi na</seg>
+          <seg xml:id="seg16">sekondari ni za Wananchi wenyewe. Maendeleo ya shule hizi kwenye maeneo yao ni jukumu lao kusimamia, kupanga utaratibu wa namna ambavyo shule itapata maendeleo.</seg>
+          <seg xml:id="seg17">Kwa hiyo, inawezekana pia kwa matakwa hayo na kwa kuwa tumeunda Kamati za Shule kwa Shule za Msingi na Bodi za Shule kwa Shule za Sekondari, wanayo mipango yao ya ndani ya kuendeleza shule yao. Hatuwazuii, wakiamua kupanga mipango yao wao wenyewe ikigusa michango mbalimbali yao wenyewe. Tumewambia ni lazima michango hiyo iangalie mapato ya Wananchi eneo husika.</seg>
+          <seg xml:id="seg18">Huwezi kuibua michango mingi ambayo Wananchi hawana uwezo nayo. Tumeshazuia Mwalimu Mkuu pekee au Walimu pekee yao, kuamua kuchangisha Wananchi bila ridhaa ya Kamati ya Shule inayojengwa na Wananchi wenyewe kwenye eneo lao. Kwa hiyo, Serikaki haina michango ila Wananchi wenyewe wanayo fursa ya kuamua michango kulingana na kipato walichonacho wao wenyewe, sisi hatuwazuii. Tunawapongeza sana wale ambao wamekaa wamepanga mipango yao, wamebuni jambo ambalo wanataka liendeleze shule yao, wakafanya maamuzi wakasimamia. Kwa hiyo, kwa kauli hii sitarajii mtu mmoja kufanya maamuzi yeye peke yake ya kuwachangisha Wananchi ili kuondoa kero hii. Naomba sana Waheshimiwa Wabunge, tushirikiane kwa pamoja kusimamia jambo hili lisije likawa linasumbua Wananchi wetu mahali walipo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u6" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg19">Eneo (b), suala la Matokeo Makubwa Sasa na uwiano wa fedha ambazo tumezipeleka. Mpango huu wa Matokeo Makubwa Sasa umeanza katika Mwaka wa Fedha wa 2013/2014. Takwimu nilizozitoa hapa ambazo zimeonekana zina upungufu ni za miaka iliyopita pamoja na mwaka huu. Ninataka niwaambie, shilingi 25,000 ya mwanafunzi wa sekondari na shilingi 10,000 ya mwanafunzi wa shule ya msingi, ni kigezo cha kukusanya fedha ya kumpelekea Mwalimu Mkuu. Katika fedha hizi kuna eneo la ununuzi wa vitabu ambalo tumegundua Walimu Wakuu hawanunui vitabu, badala tume-centralize ununuzi wa vitabu.</seg>
+          <seg xml:id="seg20">Kwa hiyo, kwenye mapato yale, tumeondoa asilimia 40 kwa shule za msingi na asilimia 50 kwa sekondari, tumeziweka kwenye pool, tunanunua vitabu na kuwapelekea vitabu. Hii ndiyo sababu unaona sasa kuna upungufu wa fedha zinazokwenda, haziendi shilingi 25,000 zote kwa sababu ya eneo lile la asilimia 40 kwa shule za msingi na asilimia 50 kwa shule za sekondari.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u7" who="MheMichaelLLaizer">
+          <seg xml:id="seg21">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi niulize swali moja la nyongeza.</seg>
+          <seg xml:id="seg22">Kwa kuwa Serikali imeweka utaratibu mzuri sana wa kutoa shilingi 15,000 kwa mwanafunzi wa shule ya msingi na shilingi 25,000 kwa mwanafunzi wa sekondari; na kwa kuwa ni muda sasa na bei ya vitu imepanda hata vitabu. Je, Serikali haioni sasa umefika wakati wa kupandisha hivyo viwango ili iweze kutosheleza vitabu vingi pamoja na kufanya shughuli nyingine ambazo zinapangiwa na Kamati za Shule kwa sababu bei ya vitu imepanda?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u8" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg23">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Lekule Laizer, kama ifuatavyo:-</seg>
+          <seg xml:id="seg24">Tunachukua ushauri wako, tutaufanyia kazi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u9" who="MheDianaMChilolo">
+          <seg xml:id="seg25">Mheshimiwa Naibu Spika, nakushukuru.</seg>
+          <seg xml:id="seg26">Kwa kuwa ruzuku zinazopelekwa kwenye shule za sekondari na msingi ambazo hutoa huduma mbalimbali pamoja na chakula hasa kwa wazabuni hupelekwa fedha kidogo tofauti na viwango ambavyo kila shule huwa imeomba. Je, sasa Serikali haioni kwamba umefika wakati wa kupeleka fedha zote zinazoombwa na kila shule ili huduma ziweze kutolewa ipasavyo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u10" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg27">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Chilolo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg28">Mheshimiwa Naibu Spika, ni kweli kwa wakati huu tulionao sasa tumegundua kwamba, gharama za vyakula zimepanda sana na fedha ambayo tulikuwa tumetenga kupelekea shule zetu hasa za bweni zimekuwa ndogo. Kwa hiyo, tunachofanya sasa tumeagiza Wataalam kupita maeneo yote tena kubaini mabadiliko ya bei ili tuombe chombo kinachoshughulikia ununuzi, ili tuone namna nzuri ya kuwapelekea fedha za kutosha wakuu wa shule, waweze kuhudumia na ili waweze kuwalipa wazabuni kwa stahili zao kadiri ambavyo wanatudai.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u11" who="MheChristowajaGMtinda">
+          <seg xml:id="seg29">Mheshimiwa Naibu Spika, ahsante. Mimi nina swali dogo moja la nyongeza linalohusiana na Mpango wa MMES II, ambalo hasa ndiyo swali la msingi.</seg>
+          <seg xml:id="seg30">Mheshimiwa Naibu Spika, utafiti uliofanywa mwaka 2012 na Shirika la Haki Elimu, ulionesha kwamba, Hazina ilitoa pesa zote ambazo kwa ufahamu wangu zinatoka Benki ya Dunia. Ilitoa pesa zote kwa wanafunzi wa sekondari kila mmoja apate shilingi 25,000 na zaidi kidogo. Utafiti wao ulionesha kwamba, fedha zilifika katika shule, wengine walipata shilingi 9,000 na wengine walipata shilingi 11,000. Inaonekana kuna watu ambao walidokoa hizi fedha kutoka Hazina kwenda kwenye Halmashauri mpaka shule.</seg>
+          <seg xml:id="seg31">Je, Serikali inatoa kauli gani hasa kwa mwaka huu ambapo Hazina ilitoa pesa zote, inatoa kauli gani kwa watu ambao walidokoa pesa hizo na kuleta matatizo makubwa sana katika shule zetu za sekondari? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u12" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg32">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Christowaja Mtinda, kama ifuatavyo:-</seg>
+          <seg xml:id="seg33">Sina uhakika na utafiti uliofanywa, lakini ninajua nitampata halafu atanipa nakala tuweze kuifanyia mapitio ya kina, kwa ajili ya uboresho wa jambo hili. Nakiri kwamba, upo udhaifu kwenye ngazi ya Halmashauri, ambapo fedha zinazokusudiwa kwenye eneo fulani, hazifiki kwenye vituo vyake ikiwemo fedha za capitation. Nalisema hili kwa sababu nina ushahidi nalo, nilikuwa Wilayani Mbinga, nimekuta fedha imeshatoka kwa Mkurugenzi lakini hapa katikati ukaingia ubabaishaji.</seg>
+          <seg xml:id="seg34">Ninachomhakikishia Mheshimiwa Mbunge ni kwamba, wale wote wanaojihusisha na udokozi wa fedha hizi za capitation hata Miradi mingine katika Mamlaka ya Serikali za Mitaa, tunachukua hatua, tumeshachukua hatua na tutaendelea kuchukua hatua, kwa wale wote ambao watajiingiza katika hili. Malengo yetu ni kwamba, fedha hii iende, ifanye kazi, iwasaidie watendaji wetu kule kukamilisha majukumu ambayo wamejipangia. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u13" who="MheSusanAJLyimo">
+          <seg xml:id="seg35">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa nafasi hii adhimu.</seg>
+          <seg xml:id="seg36">Mheshimiwa Naibu Spika, katika majibu yote ya Mheshimiwa Waziri kwenye swali la msingi, imeonesha dhahiri kwamba, hakuna mwaka hata mmoja fedha ilipelekwa kama</seg>
+          <seg xml:id="seg37">ambavyo ilipangwa. Kwa maana ya kwamba, hakuna shule yoyote ya sekondari au ya msingi iliyofikia kiwango cha shilingi 25,000 au 15,000 kwa shule za msingi.</seg>
+          <seg xml:id="seg38">Mheshimiwa Naibu Spika, uzoefu unaonesha kwamba, ruzuku hii kwa kweli ingeleta mabadiliko makubwa sana katika elimu hasa ukizingatia kwamba, wanafunzi wengi wanategemea vifaa vinavyotokana na ruzuku hiyo. Utafiti uliofanywa mwaka juzi pamoja na kwamba, Mheshimiwa Naibu Waziri ametoa wastani, lakini ulionesha wazi kwamba, wastani ni shilingi 1500 kwa shule za msingi.</seg>
+          <seg xml:id="seg39">Mheshimiwa Naibu Spika, nilitaka kumwuliza Mheshimiwa Waziri; anadhani katika hali hii kutakuwa na Matokeo Makubwa Sasa kwa sababu tunategemea sana wanafunzi wetu waweze kufanya vizuri kutokana na ruzuku hii; lakini wastani umeonesha 1500; hata zile takwimu ulizoonesha bado ni chache sana? Kwa hiyo, tunaomba maelezo ni kwa kiasi gani sasa mnajipanga kuhakikisha fedha hii inafika kwa wakati na yote kama ambavyo inategemewa na wanafunzi na wazazi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u14" who="NaibuWaziriOfisiYaWaziriMkuuTawalaZaMikoaNaSerikaliZaMitaaElimu">
+          <seg xml:id="seg40">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri Mkuu, naomba kujibu swali la Mheshimiwa Lyimo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg41">Kwanza, nataka nimfahamishe Mheshimiwa Mbunge kwamba, fedha hii kwa utaratibu wake baada ya kupangwa zinatumwa moja kwa moja kutoka Hazina kwenda kwenye Halmashauri zetu. Zinapofika Halmasuri kupitia vigezo vile, calculation zilishafanywa na kwa hiyo kazi inayobaki ni usambazaji. Takwimu zilizooneshwa hapa ni zile ambazo zinatokana na idadi ya wanafunzi, lakini pia fedha hizi zinapelekwa kwa quarter. Kwa hiyo, tunapofika mwisho wa mwaka wa fedha, kama ambavyo takwimu za nyuma zimeonesha, nikiri kwamba, kuna variation kubwa. Variation hii kwa sababu mbili; moja ni ile ambayo nimeieleza wakati wa jibu la Mheshimiwa Mnyika kwamba, fedha hizi tume-deduct 40% ya primary na 50% ya secondary kwa ajili ya ununuzi wa vitabu ambavyo tume-centralize. Mbili, fedha hizi zinapopelekwa pale tunatarajia pia kwamba, zinaweza zikafanya kazi iliyokusudiwa na kuleta matokeo tunayotarajia, kwa sababu fedha ile imegawiwa katika percentage na kila percentage ina role yake; ipo ukarabati, kununua vifaa mbalimbali vya michezo na vinginevyo, lakini pia kuna suala la shughuli za utawala. Kwa hiyo, utakuta kila eneo linafanya kazi yake inavyokusudiwa.</seg>
+          <seg xml:id="seg42">Tunachokifanyia kazi sasa ni ule mkakati wa kuhakikisha kwamba, kila mwisho wa mwaka wa fedha unapokwisha, fedha hii yote kwa asilimia yote itakuwa imeshakwenda, jambo ambalo tunalisimamia kwa sasa. Nataka niwaahidi Waheshimiwa Wabunge kwamba, jambo hili tutaendelea kuliimarisha. Tumeshabaini udhaifu uliopo kwenye maeneo haya na tunafanyia kazi ili tupate matokeo haya ambayo sasa tunayasimamia kwa pamoja.</seg>
+        </u>
+        <note>Na. 313. Madereva Kufuata Sheria za Barabarani</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u15" who="MheCynthiaHildaNgoye">
+          <seg xml:id="seg43">Moja ya sababu zinazosababisha ajali ni madereva kutokuzingatia Sheria za Barabarani:-</seg>
+          <seg xml:id="seg44">Je, ni hatua gani huchukuliwa kuhakikisha kuwa madereva hao wanafuata Sheria zilizowekwa kama inavyofanyika katika nchi nyingine?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u16" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg45">Mheshimiwa Naibu Spika, kwa niaba ya Mheshimiwa Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Cynthia Hilda Ngoye, Mbunge wa Viti Maalum, kama ifuatavyo:-</seg>
+          <seg xml:id="seg46">Mheshimiwa Naibu Spika, ni kweli kuwa, miongoni mwa sababu zinazochangia ajali za barabarani ni pamoja na uzembe wa madereva wa kutozingatia Sheria za Usalama Barabarani, kama alivyosema Mheshimiwa Mbunge. Ili kukabiliana na tatizo hili, Serikali kupitia Jeshi la Polisi, imekuwa ikichukua hatua mbalimbali za makusudi kama ifuatavyo:-</seg>
+          <seg xml:id="seg47">Mosi, kutoza faini za papo kwa papo kwa kila kosa. Pia kila inapobidi Jeshi la Polisi hutumia Sheria ya SUMATRA ambapo mkosaji hutozwa faini ya shilingi 150,000 kwa kosa lake.</seg>
+          <seg xml:id="seg48">Pili, kuwafikisha mahakamani madereva wanaoonekana kukithiri katika kutenda makosa ya usalama barabarani. Aidha, kukamilika na kuanza kutumika kwa mfumo mpya wa leseni na mfumo wa nukta, madereva watakaoonekana kukithiri katika makosa ya usalama barabarani, leseni zao zitafungiwa na kuwaondoa kabisa barabarani na shughuli ya uendeshaji wa magari.</seg>
+          <seg xml:id="seg49">Tatu, Serikali inajipanga kuanza kutumia TEHAMA katika suala la usalama barabara kwa kuweka Kamera na kuimarisha Mradi wa Ufuatiliaji wa Magari Makubwa (Car Tracking System), utakaosaidia kubaini makosa ya madereva, mahala walipo na kuyatuma kwenye mtandao ili wahusika waweze kuchukuliwa hatua ipasavyo. Aidha, mapendekezo ya Marekebisho ya Sheria ya Usalama Barabarani, yamekwishaandaliwa ili kuweza kuongeza adhabu kwa madereva wanaokiuka Sheria na Kanuni za Usalama Barabarani kwa makusudi na kwa uzembe pindi Bunge lako Tukufu litakapoikubali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u17" who="NaibuSpika">
+          <seg xml:id="seg50">Nilikuona Mheshimiwa Cynthia Ngoye, swali la nyongeza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u18" who="MheCynthiaHNgoye">
+          <seg xml:id="seg51">Mheshimiwa Naibu Spika, nakushukuru sana na ninamshukuru Mheshimiwa Waziri, kwa majibu yake ya ufafanuzi, lakini nina maswali mawili madogo ya nyongeza ya kumwuliza.</seg>
+          <seg xml:id="seg52">Mheshimiwa Naibu Spika tunaelewa kwamba, Alama za Barabarani za Kimataifa ziko wazi na zinafundishwa kwa kila dereva ambaye anajifunza udereva na anaeleweshwa kuhusu alama hizo.</seg>
+          <seg xml:id="seg53">(i) Kwa nini hapa Tanzania Serikali imeendelea kuruhusu baadhi ya madereva wakati mwingine kuendelea kutumia magogo, matawi yenye miba na mawe na hasa magari yao yakiharibika, kisha kuyaacha hapo hapo ili magari mengine yanapopishana yaweze kupata ajali? Kwa nini hali hiyo inaendelea kuruhusiwa?</seg>
+          <seg xml:id="seg54">(ii) Serikali inatamka nini kuhusu hii tabia ambayo imezuka hivi sasa; madereva wengi wanazungumza na simu kila wakati; ni tabia inayoendelea kiasi ambacho madereva wengi wanajisahau mpaka kwenda kinyume kabisa cha uendeshaji na kutozingatia alama za barabarani. Serikali inasema nini kuhusu suala hili? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u19" who="NaibuSpika">
+          <seg xml:id="seg55">Ahsante sana, majibu Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya Nchi, Mheshimiwa Pereira Silima.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u20" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda nijibu maswali mawili ya nyongeza ya Mheshimiwa Ngoye, kama ifuatavyo:-</seg>
+          <seg xml:id="seg57">Kwanza, suala la magogo; kwa mujibu wa sheria na kanuni za usalama barabarani, matumizi ya magogo ni makosa. Makosa zaidi pale ambapo madereva wameyatumia halafu wakayaacha barabarani. Tunachukua hatua kwa wale ambao wanaonekana kufanya hivyo na tutaendelea kutoa elimu na kuchukua hatua mpaka pale ambapo tutafikia hatua. Tunachofikiria cha kufanya ni kwamba, wakati wa kupasisha magari kila mwaka, tunahakikisha gari halitapasi kabla ya kuweka zile triangle reflectors. Gari ambalo halitakuwa na hiyo hatutalipa leseni na leseni zitatolewa kwa wenye nazo. Wakati huo huo tutaendelea kudhibiti wale ambao wanatumia magogo.</seg>
+          <seg xml:id="seg58">Kwa sababu nipo kweli kiriri hapa, naomba nitumie nafasi hii niwaambie madereva kwamba, matumizi ya magogo au matumizi ya matawi ya miti ni uchafuzi wa barabara na ni kuhatarisha usalama wa barabarani na pia ni uharibifu wa mazingira. Tunawaamrisha wasitishe mara moja ili tusifanye mambo ambayo baadaye yatatudhuru.</seg>
+          <seg xml:id="seg59">Mheshimiwa Naibu Spika, kuhusu suala la simu; suala hili tumelizungumza. Kweli watu wanatumia simu isivyo sawa wakati wanaendesha magari. Sheria zetu na kanuni bado hazijachukua suala hili, lakini kama nilivyosema, kuna kanuni ambazo tunazitayarisha na hili litakuwa miongoni mwa mambo ambayo tutayasemea na adhabu itawekwa kwa ajili hiyo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u21" who="NaibuSpika">
+          <seg xml:id="seg60">Nilikuona Mheshimiwa Waziri Kivuli Mambo ya Ndani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u22" who="MheVincentJNyerere">
+          <seg xml:id="seg61">Mheshimiwa Naibu Spika, nimestaafu, kuna mabadiliko. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u23" who="NaibuSpika">
+          <seg xml:id="seg62">Mheshimiwa Vincent Nyerere!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u24" who="MheVincentJNyerere">
+          <seg xml:id="seg63">Mheshimiwa Naibu Spika, nilipenda kujua, wapo Askari wa Usalama Barabarani ambao wanajificha na kuwashtukiza madereva kwa ajili ya kupima speed na hiyo imesababisha sana ajali. Nilitaka kujua msimamo wa Serikali, ni askari kujificha watoke wakusanye fedha au kusimama waonekane madereva wapunguze speed? Nilipenda kujua msimamo wa Serikali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u25" who="NaibuSpika">
+          <seg xml:id="seg64">Msimamo, Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya Nchi!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u26" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg65">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Mambo ya Ndani ya Nchi, napenda kujibu swali la Mheshimiwa Mstaafu Waziri Kivuli wa Wizara hii, kama ifuatavyo:-</seg>
+          <seg xml:id="seg66">Kiutaratibu, kujificha ukajitokeza kwa ajili ya kumulika speed, si jambo ambalo linapendelewa, linaweza likasababisha ajali na ni tatizo. Kikanuni suala hili tunalipiga vita na askari wajue kwamba, hili ni kosa kwa sababu wanaweza wakasababisha madhara. Hata hivyo, kuna wakati barabarani ambapo askari yupo panakuwa na jua kali na wakati mwingine hana kazi, kwa hiyo, kujiweka kwenye kivuli inaweza ikawa ni busara na hifadhi yake mwenyewe; lakini kujificha hasa kwa ajili ya kutegea madereva ni jambo ambalo halikubaliki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u27" who="NaibuSpika">
+          <seg xml:id="seg67">Mheshimiwa Clara Diana, Mbunge pekee wa CUF aliyehudhuria kikao cha leo; swali la nyongeza. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u28" who="MheClaraDianaMwatuka">
+          <seg xml:id="seg68">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi nami niulize swali. Nilikusudia hili ambalo mwenzangu ameuliza, lakini niongezee tu kwamba; Askari wa Usalama Barabarani wanasababisha ajali pale wanaposimamisha gari ghafla. Nataka nijue kwamba je, hawa sheria hizi haziwabani kutokana na kitendo hicho kwa sababu nao wanasababisha ajali? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u29" who="NaibuSpika">
+          <seg xml:id="seg69">Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya Nchi majibu, askari anaposababisha ajali anachukuliwa hatua gani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u30" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg70">Mheshimiwa Naibu Spika, naomba nijibu swali la nyongeza la Mheshimiwa Mbunge pekee wa CUF leo, kama ifuatavyo:-</seg>
+          <seg xml:id="seg71">Hata askari akithibitika kusababisha ajali naye anachukuliwa hatua. Mara zote baada ya ajali kunatokea vipimo vinafanywa na michoro inachorwa kutazama nani alisababisha ajali. Kwa hiyo, askari akiwa kwenye mchoro ule na ikithibitika kwamba amehusika, basi naye anaweza kwenda mahakamani au kutozwa faini kama sheria inavyosema.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u31" who="NaibuSpika">
+          <seg xml:id="seg72">Swali la mwisho Mheshimiwa Ally Keisy nilikuona.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u32" who="MheAllyKeissyMohamed">
+          <seg xml:id="seg73">Mheshimiwa Naibu Spika, ahsante sana.</seg>
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, nataka kumpa taarifa tu Naibu Waziri kuhusu triangle. Barabara hizi zina kona kali, zina miinuko, triangle hazitoshi. Kusema matawi yasiwekwe kutasababisha ajali zaidi na zaidi. Kwa hiyo, ni kuwaomba tu madereva, baada ya matawi, siyo magogo, matawi, majani, inasaidia sana kuepuka ajali. Baada ya kuweka na kuondoka, waondoe matawi yao barabarani. Kusema tutegemee tu triangle, triangle ukiiweka linakuja gari lina trailer, triangle yenyewe inapeperuka inakwenda usikokujua. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u33" who="MheAllyKeissyMohamed">
+          <seg xml:id="seg75">Kwa hiyo, nampa taarifa Mheshimiwa Waziri aelewe hivyo. Yeye siyo msafiri mkubwa wa barabara hizi kubwa, matawi ni muhimu wala hayaharibu mazingira, mazingira ni wale wawinda tembo na wachoma mapori. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u34" who="NaibuSpika">
+          <seg xml:id="seg76">Taarifa hiyo Mheshimiwa Naibu Waziri wa Mambo ya Ndani ya Nchi unaikubali?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u35" who="NaibuWaziriWaMamboYaNdaniYaNchi">
+          <seg xml:id="seg77">Mheshimiwa Naibu Spika, taarifa ya Mheshimiwa Mbunge Keissy sehemu naikubali, lakini nimwarifu kwamba, katika hizi triangle kuna ambazo ni light, ambazo ndiyo rahisi, zinatembezwa na Wamachinga, zile ukiziweka haziwezi kusadia kwa sababu zinapeperuka. Triangle ninazozizungumzia mimi za kisheria ni nzito ambazo si kawaida kuruka kwenye usafiri. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u36" who="NaibuSpika">
+          <seg xml:id="seg78">Nakushukuru sana Mheshimiwa Naibu Waziri. Tuendelee na Wizara ya Kazi na Ajira, swali linaulizwa na Mheshimiwa Aliko Nikusuma Kibona, Mbunge wa Ileje.</seg>
+        </u>
+        <note>Na. 314. Askari Polisi Kuwekewa Kinga na Mifuko</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u37" who="NaibuSpika">
+          <seg xml:id="seg79">ya Hifadhi ya Jamii</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u38" who="MheAlikoNKibona">
+          <seg xml:id="seg80">Tofauti ya Watumishi wengine Serikalini, Askari Polisi hawawekewi kinga ya akiba katika Mifuko ya Hifadhi ya Jamii hadi watumikie Jeshi kwa muda wa miaka 12:-</seg>
+          <seg xml:id="seg81">(a) Je, kwa nini Serikali imeendelea kukiuka Sheria ya Hifadhi ya Jamii pamoja na Azimio la ILO la Mwaka 1956 ambalo Tanzania iliridhia kulitekeleza?</seg>
+          <seg xml:id="seg82">(b) Je, ni lini Serikali itaanza kuwalipia michango askari hawa ili kuepuka hasara ya kulipa pensheni ambayo wafaidika hawajachangia?</seg>
+          <seg xml:id="seg83">(c) Je, Serikali itarekebisha lini sheria za zamani na kandamizi zinazoendelea kutumika kama hii?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u39" who="NaibuWaziriWaKaziNaAjira">
+          <seg xml:id="seg84">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Kazi na Ajira, napenda kujibu swali la Mheshimiwa Aliko Nikusuma Kibona, Mbunge wa Ileje, lenye sehemu (a), (b) na (c), kama ifuatavyo:-</seg>
+          <seg xml:id="seg85">(a) Mheshimiwa Naibu Spika, si kweli kwamba, Askari Polisi hawawekewi kinga ya akiba katika Mifuko ya Hifadhi ya Jamii hadi watumikie jeshi kwa muda wa miaka kumi na miwili. Ukweli ni kwamba, Askari Polisi kama ilivyo kwa Watumishi wengine wa Serikali, huanza kuwekewa kinga ya akiba katika Mfuko mara baada ya kujiunga na kuanza kuchangia. Kinga hii hutolewa kwa Mwanachama baada ya ajira kukoma na mhusika kutimiza masharti ya Mfuko husika.</seg>
+          <seg xml:id="seg86">Mwanachama aliyetimiza masharti ya ajira ya kudumu na malipo ya pensheni hulipwa pensheni na yule aliyeajiriwa kwa Operational Service, hulipwa mafao ya kustaafu kwa mujibu wa sheria husika. Aidha, si kweli kwamba, Serikali inakiuka Sheria yoyote ya Hifadhi ya Jamii wala Azimio lolote la ILO. Napenda kumhakikishia Mheshimiwa Mbunge kuwa, Serikali ya Tanzania inaheshimu na kutekeleza Sheria na Maazimio yote ya Shirika la Kimataifa la Kazi iliyoridhia.</seg>
+          <seg xml:id="seg87">(b) Mheshimiwa Naibu Spika, Serikali inaheshimu na kutekeleza wajibu wake kwa watumishi wake, kwa kuwasilisha michango ya watumishi kwa mujibu wa sheria. Askari wanaoajiriwa kwa mara ya kwanza kwa mikataba ya miaka mitatu mitatu, Serikali huchangia asilimia 15 na wao huchangia asilimia 10. Askari wanapotimiza miaka 12 huajiriwa katika masharti ya kudumu na malipo ya pensheni, ambapo Serikali huchangia asilimia 15 na wao asilimia 5.</seg>
+          <seg xml:id="seg88">(c) Mheshimiwa Naibu Spika, mnamo mwaka 2012, Serikali ilizifanyia marekebisho Sheria zote za Mifuko ya Hifadhi ya Jamii ili ziendane na matakwa ya Sheria Namba Nane ya Mamlaka ya Usimamizi na Udhibiti wa Hifadhi ya Jamii ya Mwaka 2008. Pamoja na mambo mengine, marekebisho hayo yalilenga kuzihuisha sheria hizo ili ziendane na hali ya sasa. Serikali itaendelea kuzifanyia marekebisho Sheria zote za Hifadhi ya Jamii kila inapobidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u40" who="MheAlikoNKibona">
+          <seg xml:id="seg89">Mheshimiwa Naibu Spika, nakushukuru. Naomba kuuliza maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg90">(i) Lengo la utaratibu wa kuwaajiri Askari Polisi kwa mkataba wa miaka mitatu mitatu ni nini hasa ukizingatia kwamba; kwa vyovyote mtu ambaye hana ajira ya kudumu anapokuwa kwenye kazi zake huwa hajiamini sawa sawa? Nataka nijue hilo.</seg>
+          <seg xml:id="seg91">(ii) Nataka kujua mpaka sasa msimamo wa Serikali au Sheria inasema nini juu ya umri wa kustaafu kwa lazima kwa askari wa cheo cha chini kabisa? Pale nyuma ilikuwa miaka 45; je, hakuna sababu sasa kuongeza umri wa kustaafu kwa sababu tumeambiwa juzi kwenye Taarifa ya Serikali kwamba umri wa Mtanzania kuishi umeongezeka?</seg>
+          <seg xml:id="seg92">na Ajira, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa kibona, kama ifuatavyo:-</seg>
+          <seg xml:id="seg93">Kwanza, nimpongeze sana Mheshimiwa Kibona, kwa kutetea wafanyakazi na hasa Jeshi letu la Polisi. Ameuliza lengo la kuajiri hawa polisi kwa miaka mitatu mitatu. Mimi nadhani huu ni utaratibu ambao umewekwa na Sheria za Jeshi; name ninadhani wako katika nafasi nzuri zaidi Wizara ya Mambo ya Ndani ya Nchi kulielezea hili. Nina hakika ni suala ambalo limekuwepo kwa muda mrefu na tunalielewa.</seg>
+          <seg xml:id="seg94">Vivyo hivyo katika swali lake la pili kwamba, sheria ya kustaafu ingebadilishwa. Bila shaka nadhani wahusika wamelisikia, kwa maana ya Wizara ya Mambo ya Ndani ya Nchi na katika kupitia sheria ambazo zipo, labda hili litaangaliwa. Utaratibu ambao tunaujua kupitia Sheria na Taratibu za Jeshi la Polisi ni kwamba, hawa wanastaafu kulingana na umri na cheo alichonacho.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u41" who="MheMurtazaAllyMangungu">
+          <seg xml:id="seg95">Mheshimiwa Naibu Spika, nakushukuru. Nimesikiliza kwa makini kabisa majibu ya Mheshimiwa Waziri, amesema katika Mfuko wa NSSF, mwajiri anachangia asilimia 10 na mtumishi anachangia asilimia 10; kinyume na Mifuko mingine ambapo mwajiri anachangia asilimia 15 na mtumishi anachangia asilimia 5.</seg>
+          <seg xml:id="seg96">Je, ni lini Serikali italeta au itarekebisha kifungu hiki ili mtumishi aweze kuhamia kwenye Mfuko wowote bila kuweka upendeleo kwamba NSSF inabidi achangie asilimia 10?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u42" who="NaibuWaziriWaKaziNaAjira">
+          <seg xml:id="seg97">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Kazi na Ajira, napenda kujibu swali la Mheshimiwa Mangungu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg98">Katika jibu langu la msingi sikuzungumzia Mfuko wa NSSF. Nilizungumzia jinsi ambavyo malipo kwa askari hufanywa, wale ambao hawajatimiza miaka miwili na wale ambao wametimiza miaka kumi na miwili, kuna utofauti. Wale wengine ambao hawajafikisha, Serikali huchangia asilimia 15 na wao asilimia 10 na wakifikisha miaka 12 wanapoingia katika masharti ya kudumu, basi huchangia asilimia 5 tu na mwajiri 15.</seg>
+          <seg xml:id="seg99">Nikubaliane naye kwamba, kweli kuna tofauti katika hii Mifuko, kwa maana ya michango inayotolewa na mwajiri na michango inayotolewa na mwajiriwa. Mambo yote haya kama ambavyo tumekuwa tukieleza, yanafanyiwa kazi kwa sasa na SSRA na muda si mrefu, mambo haya yataletwa Bungeni ili kuangalia namna gani tunaweza kuhuisha michango iwe sawa sawa kwa waajiri, waajiriwa kwa Mifuko yote.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u43" who="NaibuSpika">
+          <seg xml:id="seg100">Mheshimiwa Mchungaji Mwanjale, swali la mwisho la nyongeza</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u44" who="MheMchLucksonNMwanjale">
+          <seg xml:id="seg101">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi.</seg>
+          <seg xml:id="seg102">Mheshimiwa Naibu Spika, kumekuwa na malalamiko mengi sana hasa kuhusu pensheni za hawa wastaafu maaskari, wanajeshi na polisi. Malalamiko yao ni kwamba, pensheni zao zinatofautiana kati ya mtu na mtu. Kwa nini Serikali isiweke kiwango kimoja kwa wastaafu hasa wale wa mishahara ya nchini kuwa kimoja kuliko ilivyo sasa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u45" who="NaibuWaziriWaKaziNaAjira">
+          <seg xml:id="seg103">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Kazi na Ajira, napenda kujibu swali la Mheshimiwa Mchungaji Mwanjale, kama ifuatavyo:-</seg>
+          <seg xml:id="seg104">Ushauri wake ni mzuri na kwa kweli suala hilo linaendelea kushughulikiwa na SSRA kuweka uwiano katika michango hii ili wafanyakazi na hasa hawa wa Jeshi la Polisi na Jeshi la Wananchi kusiwe na malalamiko.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u46" who="NaibuSpika">
+          <seg xml:id="seg105">Tunaendelea na swali linalofuata la Wizara hiyo hiyo, ambalo linaulizwa na Mheshimiwa Mendrad Lutengano Kigola, Mbunge wa Mufindi Kusini.</seg>
+        </u>
+        <note>Na. 315. Waliokuwa Wafanyakazi wa Kiwanda</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u47" who="NaibuSpika">
+          <seg xml:id="seg106">cha Karatasi Mgololo</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u48" who="MheMendradLLugola">
+          <seg xml:id="seg107">Wafanyakazi 761 walioachishwa kazi katika Kiwanda cha Karatasi Mgololo bado hawajalipwa mafao yao na baada ya kushinda kesi yao, aliyetakiwa kulipa mafao yao alikata rufaa ambayo hivi sasa imepita miaka sita kesi haijamalizika, hali inayosababisha watu hao kuishi maisha ya tabu sana wakiwa makambini na miongoni mwao 54 wameshafariki:-</seg>
+          <seg xml:id="seg108">(a) Je, ni sababu zipi zinazosababisha kesi hiyo ichukue muda mrefu kiasi hicho?</seg>
+          <seg xml:id="seg109">(b) Je, Serikali ina mpango gani kuwasaidia watu hao ili kesi hiyo imalizike na waanze maisha mengine?</seg>
+          <seg xml:id="seg110">(c) Je, Serikali haioni kwamba inawakosea haki watu hao kwani wanaishi maisha ya tabu sana na wanashindwa hata kusomesha watoto?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u49" who="WaziriWaKaziNaAjira">
+          <seg xml:id="seg111">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Mendrad Lutengano Kigola, Mbunge wa Mufindi Kusini, lenye sehemu (a), (b) na (c), kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">(a) Mheshimiwa Naibu Spika, ni kweli waliokuwa Wafanyakazi wa Kiwanda cha Karatasi Mgololo waliwasilisha Mgogoro wa Uchunguzi wa Kikazi mwezi Agosti mwaka 2006 katika iliyokuwa Mahakama ya Kazi (Industrial Court of Tanzania) na ulimalizwa katika hatua ya Mgogoro wa Uchunguzi mnamo tarehe 29 Novemba, 2007 mbele ya aliyekuwa Mwenyekiti wa Mahakama ya Kazi, Mheshimiwa Mwaipopo J. ambapo wafanyakazi walishinda. Upande wa mwajiri haukuridhika na uamuzi huo; hivyo, ulikata rufaa ya marejeo mbele ya Jopo Kamili la Mahakama ya Kazi mwaka 2007, ambapo marejeo hayo yalikwisha tarehe 28 Aprili, 2009, ambapo vilevile, wafanyakazi tena walishinda.</seg>
+          <seg xml:id="seg113">Katika hatua ya uhakiki na ukazaji wa denituzo, lilijitokeza suala la PPF ambalo lilitolewa amri tarehe 25 Machi, 2010 mbele ya Mheshimiwa Mwaipopo Jaji kama alivyokuwa, ambapo aliagiza ujazaji fomu za PPF kwa washinda tuzo 42 waliobaki; hivyo, Mufindi Paper Mills (MPM), TUICO na washinda tuzo, waendelee kutekeleza zoezi hilo mpaka likamilike. Ujazaji huo ndiyo mwajiri ameukataa, suala ambalo limepelekwa kwa Jaji Mfawidhi, kwa hatua za ufafanuzi na uamuzi. Mgogoro huu umechukua muda mrefu kutokana na hatua mbalimbali za kusikilizwa na kutolewa maamuzi Mahakamani.</seg>
+          <seg xml:id="seg114">(b) Mheshimiwa Naibu Spika, shauri hili lipo mbele ya Mheshimiwa Jaji Mfawidhi kwa hatua zake mbalimbali ili liweze kumalizika mapema.</seg>
+          <seg xml:id="seg115">(c) Serikali haiwakosei haki watu hao kwani suala lao tayari liko katika chombo kinachohusika na kutoa haki na limepitia katika hatua mbalimbali kama nilizokwishataja ili kuhakikisha kuwa haki inatendeka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u50" who="MheMendradLKigola">
+          <seg xml:id="seg116">Mheshimiwa Naibu Spika, kwanza, niseme kwamba, majibu ya Naibu Waziri bado hayajaridhisha. Naishukuru Ofisi ya Waziri Mkuu na Wizara ya Fedha pamoja na Makamu wa Rais, kwa kulichukulia maanani suala hili na sasa hivi wanalishughulikia. Labda nimwulize maswali mawili tu ya nyongeza:-</seg>
+          <seg xml:id="seg117">Najua kabisa kwamba, Wizara ya Kazi na Ajira, kazi yake ni kuangalia haki za wafanyakazi.</seg>
+          <seg xml:id="seg118">(i) Nataka nimwulize Mheshimiwa Naibu Waziri aliwahi kufika Mgololo akakaa na wale wafanyakazi akaangalia matatizo yao?</seg>
+          <seg xml:id="seg119">(ii) Kama hajawahi kwenda pale akafanya Mkutano anafikiria nini juu ya wale wafanyakazi ili waweze kupata haki yao? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u51" who="NaibuWaziriKaziNaAjira">
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, kwanza, namshukuru sana kwa kufuatilia jambo hili, ni jambo ambalo limechukua muda mrefu. Vikao vingi sana vimefanyika na Serikali nzima inalijua suala hili. Mimi nina hakika katika maelezo ambayo tumetoa na ambayo yamekuwepo, suala hili litakwisha katika kipindi hiki cha Mwaka wa Fedha 2014/2015.</seg>
+          <seg xml:id="seg121">Suala la kwenda Mgololo ni kweli tumetuma sana watu wetu pale katika Idara yetu ya Kazi, Wataalamu wetu wamefanya vikao pale; lakini kuhusu mimi naahidi kwamba, safari hii kama suala hilo litaendelea kuwepo nitakwenda. Hata bila hivyo naahidi kwamba nitakwenda Mgololo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u52" who="NaibuSpika">
+          <seg xml:id="seg122">Mheshimiwa Kiongozi wa Upinzani kwa siku ya leo. Mheshimiwa Cecilia Paresso!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u53" who="MheCeciliaDParesso">
+          <seg xml:id="seg123">Mheshimiwa Naibu Spika, ahsante, lakini pia ni Wazili Kivuli wa Kazi na Ajira. Nataka nimwulize Mheshimiwa Naibu Waziri kwamba; kuna ukiukwaji mkubwa sana wa Sheria za Kazi na Haki za Wafanyakazi maeneo ya kazi. Mfano tu ni Kampuni ya Sigara pale Dar es Salaam, wafanyakazi wanaachishwa kazi bila ya kufuata utaratibu. Mifano mingine ni Kampuni ya A to Z Arusha, Makampuni ambayo yanafanya biashara za Hoteli za Kitalii maeneo ya Karatu, Ngorongoro na maeneo mbalimbali. Je, Serikali sasa ipo tayari au Wizara ipo tayari iende kufanya ukaguzi na taarifa hizo ziletwe hapa Bungeni?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u54" who="NaibuWaziriWaKaziNaAjira">
+          <seg xml:id="seg124">Mheshimiwa Naibu Spika, napenda kujibu swali la Waziri wangu Kivuli kama ifuatavyo:-</seg>
+          <seg xml:id="seg125">Mheshimiwa Naibu Spika, ni kweli maeneo mengi yamekuwepo malalamiko ya wafanyakazi kutotendewa haki na ametaja maeneo kama matatu hapo, ambayo mengine kwa mfano hayo ya Hoteli za Kitalii, mimi mwenyewe nilitembelea. Kwa maana ya Wizara, tumekuwa tukifanya kaguzi hizi ingawa uwezo wa Wizara inawezekana hautoshelezi kufanya kaguzi kila mahali. Kuna kaguzi za kushtukiza na hasa pale ambapo tunapata taarifa; kwa mfano, kama tulivyopata suala la Sigara na A to Z.</seg>
+          <seg xml:id="seg126">Mheshimiwa Naibu Spika, ninaahidi kwamba, kwa sababu kidogo bajeti yetu safari hii imeongezeka, hii itatupa uwezo mkubwa zaidi hasa Idara yetu ya Ukaguzi, kufanya kaguzi nyingi zaidi. Nami nina hakika, nia hasa wala si kwamba, tumeleta hizi taarifa hapa, lakini hatua</seg>
+          <seg xml:id="seg127">zichukuliwe kwa hao ambao hawawatendei haki wafanyakazi. Ninaahidi kwamba, hilo litafanyika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u55" who="MheModestusDKilufi">
+          <seg xml:id="seg128">Mheshimiwa Naibu Spika, suala la Mheshimiwa Mendrad Kigola la Mufindi halitofautiani sana na suala la Wafanyakazi waliokuwa wa Mbarali, ambao wao taratibu zote za Mahakama walishinda, kilichobaki ni maandalizi ya kuwalipa fedha. Naishukuru sana Ofisi ya Waziri Mkuu, baada ya kuona wanapigwa danadana imengilia kati.</seg>
+          <seg xml:id="seg129">Nataka kumwuliza Mheshimiwa Waziri; hivi inakuwaje watu kama Wafanyakazi waliokuwa wa Mbarali taratibu zote zimekamilika lakini malipo yanasuasua; na Wizara inasemaje juu ya hawa watumishi ambao wametumikia Taifa hili lakini baadaye malipo inakuwa ni shida mno? Hivi inakuwaje? Naomba majibu kutoka kwa Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u56" who="NaibuWaziriWaKaziNaAjira">
+          <seg xml:id="seg130">Mheshimiwa Naibu Spika, ni kweli kwamba, wako waajiri ambao ni wakorofi, baada ya taratibu kukamilika kwa maana ya wafanyakazi kushinda kesi, hawatekelezi haraka ama wengine wanakata tena rufaa katika ngazi ya juu na hii inachukua muda.</seg>
+          <seg xml:id="seg131">Kama unavyojua ni kwamba, sheria ikishakuwepo kule Mahakamani, namna ya Serikali ya kuingilia, kwa mfano, kama wame-appeal katika ngazi za juu inakuwa ni ngumu zaidi; lakini kama walikubali na wenyewe wakasaini wakachelewesha tu kulipa ama kwa sababu ya matatizo ya kifedha au kwa sababu ya ujeuri tu, hapo ndipo Serikali inaingilia kama ambavyo imeingilia katika suala la Mbarali. Nami nina hakika tutaendelea kushughulikia waajiri hawa ambao kwa kweli wengine wanakuwa ni wajeuri tu kutekeleza amri ambazo zimetolewa kihalali.</seg>
+        </u>
+        <note>Na. 316. Msitu wa Makere Kusini Wilayani Kasulu</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u57" who="MheMosesJMachali">
+          <seg xml:id="seg132">Eneo la Msitu wa Makere Kusini Wilayani Kasulu limekuwa likitumika kwa kilimo kwa zaidi ya miaka thelathini sasa, lakini katika miaka ya hivi karibuni Wananchi wamekuwa wakifukuzwa na hata kupigwa na kunyang’anywa mali zao na Serikali ikidai kuwa ni wavamizi:-</seg>
+          <seg xml:id="seg133">Je, Serikali haitambui kwamba idadi ya watu imeongezeka na kwa ongezeko hilo ardhi itatakiwa kwa ajili ya kilimo hivyo ione kuwa ipo haja ya kubadilisha eneo hilo ili litumike kwa kilimo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u58" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg134">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Maliasili na Utalii, naomba kujibu swali la Mheshimiwa Moses Joseph Machali, Mbunge wa Kasulu Mjini, kama ifuatavyo:-</seg>
+          <seg xml:id="seg135">Mheshimiwa Naibu Spika, Msitu wa Makere Kusini una ukubwa wa hekta 99,682.7 na ulihifadhiwa tangu tarehe 10 Agosti, 1956 kwa Tangazo la Serikali Na. 250. Miongoni mwa faida za msitu huo:-</seg>
+          <seg xml:id="seg136">(i) Ni chanzo cha maji yanayoingia kwenye Mto Malagarasi.</seg>
+          <seg xml:id="seg137">(ii) Ushoroba wa wanyamapori kati ya Pori la Akiba la Muyowosi na Pori la Akiba la</seg>
+          <seg xml:id="seg138">Kigosi.</seg>
+          <seg xml:id="seg139">(iii) Sehemu ya eneo la ardhi oevu yenye umuhimu wa Kimataifa (The Malagarasi</seg>
+          <seg xml:id="seg140">Muyoyosi Ramsar Site), ambayo ni muhimu kwa hifadhi ya wanyama, ndege,</seg>
+          <seg xml:id="seg141">maji na aina mbalimbali za viumbe hai.</seg>
+          <seg xml:id="seg142">(iv) Huchangia katika kupunguza madhara ya mabadiliko ya tabianchi.</seg>
+          <seg xml:id="seg143">Mheshimiwa Naibu Spika, malalamiko ya Wananchi wanaoishi kandokando ya Msitu wa Hifadhi ya Makere ya kufukuzwa, kupigwa na kunyang’anywa mali zao, yalishawasilishwa Bungeni tarehe 19 Novemba, 2011. Kufuatia malalamiko hayo, Waziri wa Maliasili na Utalii, alifanya ziara kwenye eneo hilo tarehe 21 na 22 Novemba, 2011 na kufanya vikao na Kamati ya Ulinzi na Usalama ya Wilaya na ya Mkoa pamoja na kufanya Mikutano ya hadhara. Katika Mikutano hiyo ilidhihirika kuwa tuhuma za watu kufukuzwa, kupigwa na kunyang’anywa mali zao siyo za kweli.</seg>
+          <seg xml:id="seg144">Mheshimiwa Naibu Spika, Serikali inatambua ongezeko la watu na ongezeko la mahitaji ya ardhi kwa ajili ya shughuli mbalimbali. Hata hivyo, matokeo ya sensa ya mwaka 2012 yanaonesha kuwa, Wilaya ya Kasulu ina idadi ya watu 634,038 na idadi kubwa ya hekta 5,324,000 na kwamba eneo linalofanya kazi za shughuli za kilimo ni hekta 3,194,400. Eneo linalotumiwa kwa kilimo ni hekta 958,320 ambayo ni asilimia 30 tu ya ardhi ya kilimo. Eneo ambalo halitumiki ni hekta 2,236,080 sawa na asilimia 70. Aidha, kuna mabonde yanayofaa kutumika kwa ajili ya kilimo cha umwagiliaji, eneo linalotumika ni hekta 700, sawa na asilimia 2.8 na lisilotumika ni hekta 24,300 sawa na asilimia 97.2. Hivyo, si kweli kwamba, kuna upungufu wa ardhi kwa ajili ya kilimo, hivyo kuitaka Serikali kuruhusu kilimo kifanyike ndani ya maeneo yaliyohifadhiwa. Bali kinachotakiwa ni kuandaa mipango ya matumizi bora ya ardhi kwa vijiji husika.</seg>
+          <seg xml:id="seg145">Mheshimiwa Naibu Spika, takwimu zinaonesha kuwa, kuna eneo kubwa ambalo bado halijatumika kwa ajili ya kilimo katika Wilaya ya Kasulu. Hivyo, Serikali haitabadili matumizi ya msitu huo kutokana na umuhimu wake katika kuhifadhi bionowai zilizopo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u59" who="MheMosesJMachali">
+          <seg xml:id="seg146">Mheshimiwa Naibu Spika, nashukuru kwa kunipa fursa niulize maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, kwanza nisikitishwe na majibu ya uongo na uzushi, ambayo yanatolewa na Wizara ya Maliasili na Utalii.</seg>
+          <seg xml:id="seg148">Mheshimiwa Naibu Spika, no research no right to speak. Kwa kuwa Wizara inaeleza kwamba, hakuna watu waliopigwa wala kunyang’anywa mali zao:-</seg>
+          <seg xml:id="seg149">(i) Ni lini Serikali hii ya CCM kupitia Wizara ya Maliasili na Utalii itaacha kutufanya Wananchi wa Kasulu Mjini kwamba ni mataahira tusiojua kwamba watu wamepigwa na watu wamenyang’anywa mali zao wakati watu wanataabika kule? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u60" who="MheMosesJMachali">
+          <seg xml:id="seg150">(ii) Kwa kuwa mwaka 2011 ambao Mheshimiwa Naibu Waziri ameurejea, Mkuu wa Wilaya ya Kasulu pamoja na Mkuu wa Mkoa, waliwaahidi Wananchi wa Kasulu kwamba kuna eneo kubwa la ardhi ambalo Wananchi wanaweza kutumia kwa ajili ya kilimo na wakaahidi kwamba watawagawia Wananchi wote wenye uhitaji wa ardhi. Hakuna jambo lolote lile ambalo limewahi kufanyika mpaka leo hii. Mimi kama Mbunge nimefuatilia kwa nyakati tofauti, hakuna Serikali mkoani Kigoma wala Wilaya ya Kasulu walichokifanya.</seg>
+          <seg xml:id="seg151">Naiuliza tena Serikali hii ya CCM; naomba watueleze majibu haya kwanza yanatofautiana na majibu ambayo aliwahi kuyatoa Waziri Mkuu ambaye alisema wataliangalia suala hili.</seg>
+          <seg xml:id="seg152">Naomba nipate kauli ya Serikali; je, Wananchi wa Kasulu Vijijini na Buhigwe na maeneo mengine ambao wanatumia yale maeneo waelewe kwamba Serikali ya CCM haitaki kuona Wananchi hao ambao wamekuwa wakilima zaidi ya miaka 30 hawataki waendelee kulima katika maeneo yale au watawapatia waendelee kulima? Naomba kauli ya Serikali katika hili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u61" who="NaibuSpika">
+          <seg xml:id="seg153">Mheshimiwa Machali, unachofanya ni kuhutubia na kidogo tuelewane, unayo haki kabisa ya kuuliza maswali, kaa tu kidogo. Najua jambo hili linakupa hasira, lakini tulia kidogo. Swali lako lijielekeze kwa Wizara ya Maliasili na Utalii kama ulivyokuwa umeuliza mwanzoni, kwa kifupi tafadhali. Maana ukiuliza kwa ujumla wake, sidhani kama Wizara ya Maliasili na Utalii inaweza kujibu baadhi ya maswali ambayo unayauliza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u62" who="MheMosesJMachali">
+          <seg xml:id="seg154">Swali la kwanza nimeuliza ni lini Wizara ya Maliasili na Utalii ambayo iko chini ya Serikali ya CCM itaacha kutufanya Wananchi wa Kasulu ni mataahira tusiojua kwamba tumepigwa na watu wamenyang’anywa mali zao ambao wamekuwa wanalima katika maeneo yale?</seg>
+          <seg xml:id="seg155">Swali la pili; kwa kuwa majibu ya Mheshimiwa Naibu Waziri yanatofautiana na maelezo ambayo amewahi kuyatoa Mheshimiwa Waziri Mkuu hapa. Je, Serikali hii ambayo inaongozwa na Chama cha Mapinduzi inatoa kauli gani kuhusiana na Wananchi hawa kwamba wataendelea kulima katika maeneo yale ambayo wamekuwa wanalima kwa zaidi ya miaka 30 hawakuondolewa au hawatalima? Naomba kauli ya Serikali hii ambayo inaongozwa na CCM nijue. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u63" who="NaibuSpika">
+          <seg xml:id="seg156">Ahsante sana. Majibu Mheshimiwa Naibu Waziri!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u64" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg157">Mheshimiwa Naibu Spika, katika maelezo yangu ya swali langu la msingi, nimejaribu kutoa data kuonesha ni kwa kiasi gani Watu wa Kasulu hawana matatizo ya ardhi.</seg>
+          <seg xml:id="seg158">Mheshimiwa Naibu Spika, lazima tuwe wakweli, ni kweli Wananchi walikuwa wanavamia na kwenda kulima kwenye maeneo yale. Nataka nimwambie kwamba, Serikali sasa hivi iko kazini, haiko tayari kuona sheria zinakiukwa. Sheria ziko wazi na nataka niseme tu, tusitumie nafasi hii kutaka kupata umaarufu wa kisiasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u65" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg159">Mheshimiwa Naibu Spika, nataka nimwambie kwamba, Serikali ya CCM iko makini na tutaendelea kufanya kazi kwa kufuata taratibu na sheria na kama mwaka 2010 uliahidi kwamba, nitawasaidia watu kulima kwenye maeneo ya msitu na sasa hivi karibu na uchaguzi unataka upate popularity, hilo hatutakubaliana sheria zitafanya kazi yake. Nataka nikuhakikishie tu Serikali iko katika Operation Capacity, tumeajiri wafanyakazi katika Idara ya Misitu 247 na tutaendelea kuyalinda maeneo yetu na najua hii itakuwa ni kwa ajili ya kusaidia nchi yetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u66" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg160">Mheshimiwa Naibu Spika, swali lake la pili nataka nimwambie Mheshimiwa Machali kwamba, hatuko tayari kuliachia hilo eneo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u67" who="MheAgripinaZBuyogera">
+          <seg xml:id="seg161">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa nafasi niulize swali moja la nyongeza na hasa kwa kuzingatia mimi ndiyo Mbunge wa Jimbo linalotajwa hapa.</seg>
+          <seg xml:id="seg162">Mheshimiwa Naibu Spika, pamoja na majibu yasiyoridhisha kwa Wananchi wa Jimbo la Kasulu Vijijini, kwa ridhaa yako ninaomba niwape kwanza pole Wananchi wa Vijiji vya Mvinza, Kagerankanda, Katoto, Chekenya, Kabolanzwili, Migezilili, Lugufu na maeneo mengine ya Jimbo la Kasulu Vijijini yanayozunguka Msitu huu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u68" who="MheAgripinaZBuyogera">
+          <seg xml:id="seg163">Mheshimiwa Naibu Spika, tangu nimekuwa Mbunge katika Bunge hili la Jamhuri ya Muungao wa Tanzania, kilio cha kwanza cha Wananchi ni maeneo ya kilimo hiki.</seg>
+          <seg xml:id="seg164">Mheshimiwa Naibu Spika, ninaomba sisi kama Bunge ambao kwa mujibu wa Katiba tunaisimamia Serikali, tuweke utaratibu wa kurekodi maswali yanayoulizwa na Wabunge ili tulinganishe na majibu yanayotolewa na Mawaziri kwa vikao mbalimbali.</seg>
+          <seg xml:id="seg165">Mheshimiwa Naibu Spika, ninaomba kuuliza swali dogo. Mheshimiwa Waziri wa Maliasili ni kwa nini anapingana na kauli ya Mheshimiwa Waziri Mkuu ambaye amekuwa akisikiliza kilio changu na kukatisha vurugu zinazofanywa kuzuia wakulima wasivune mazao kule? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u69" who="NaibuSpika">
+          <seg xml:id="seg166">Mheshimiwa Buyogera, kabla hujakaa; hivi Mheshimiwa Waziri amekuwa akipingana vipi na Waziri Mkuu? Hilo neno limekuwa likitumiwa hata na Mheshimiwa Machali bila sisi wengine kujua; kuna tofauti gani ya kauli hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u70" who="MheAgripinaZBuyogera">
+          <seg xml:id="seg167">Mheshimiwa Naibu Spika, nakushukuru sana na najua unanipa heshima hii kwa sababu ni Kamishna wa Bunge. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u71" who="MheAgripinaZBuyogera">
+          <seg xml:id="seg168">Mheshimiwa Naibu Spika, nimesema kwamba, kilio hiki cha Wananchi wa maeneo yale nimekuwa nikikiwasilisha hapa na katika maeneo ambayo Wananchi waliuawa katika Operesheni Tokomeza ni pamoja na Wananchi wa Jimbo langu. Nimewahi kusema hapa kumwomba Waziri Mkuu, wakiwa Wananchi wamezuiliwa wasivune mazao. Waziri Mkuu, ndiye aliyeshughulikia tatizo lile na Wananchi wakaruhusiwa kuvuna mazao na akasema tatizo hilo linashughulikiwa ili kumaliza mgogoro huo, kama kuna matatizo ya ongezeko la Wananchi kwenye vijiji husika wataongezewa mpaka. Sasa leo napata majibu kwamba, hakuna chochote kinachofanyika!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u72" who="NaibuSpika">
+          <seg xml:id="seg169">Ahsante sana, majibu Mheshimiwa Naibu Waziri wa Maliasili na Utalii, Mheshimiwa Mgimwa!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u73" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg170">Mheshimiwa Naibu Spika, naomba kumjibu Mheshimiwa Buyogera, swali lake la nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg171">Kwanza, nataka nimwambie kwamba, sisi hatupingani na Kauli ya Waziri Mkuu. Mara ya mwisho lilipokuja suala hili Bungeni tarehe 19 Novemba, 2011, Waziri Mkuu alitoa maelekezo kwa Wizara yetu, wakati ule Waziri akiwa Mheshimiwa Ezekiel Maige. Tarehe 21 mpaka 22, Mheshimiwa Waziri alitembelea kwenye ile site na alisikiliza mahojiano kutoka pande zote; kutoka kwa Wananchi, Serikalini na alikaa na Kamati zote na alifuatana na Wabunge wa kutoka kwenye maeneo hayo.</seg>
+          <seg xml:id="seg172">Katika majadiliano yaliyofanyika hakuna suala lililojitokeza kwamba, kuna tatizo la ardhi, ila Wananchi waliomba wapewe nafasi wavune mazao yao yaliyokuwepo ndani ya Msitu na Serikali tuliwaruhusu wakavuna. Kwa hiyo, hakuna sehemu ambayo tunapingana, kwa sababu bado kuna ardhi ya kutosha, sisi kama Serikali hatuko tayari kuiachia hiyo ardhi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u74" who="MheMosesJMachali">
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, taarifa!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u75" who="NaibuSpika">
+          <seg xml:id="seg174">Mheshimiwa Ester Bulaya!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u76" who="MheEsterABulaya">
+          <seg xml:id="seg175">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi na mimi sitaongea kwa jazba kwa sababu nimeshapanga hoja zangu vizuri.</seg>
+          <seg xml:id="seg176">Mheshimiwa Naibu Spika, natambua kwamba, kuna sheria ambazo zinatenganisha mipaka ya hifadhi pamoja na vijiji.</seg>
+          <seg xml:id="seg177">Mheshimiwa Naibu Spika, Wananchi wa Bunda ambao wanaishi pembezoni mwa Mbuga ya Serengeti wamekuwa wakiheshimu sana mipaka na wamekuwa hawavuki kwenda katika mbuga bila kibali maalum.</seg>
+          <seg xml:id="seg178">Mheshimiwa Naibu Spika, lakini hivi tunavyozungumza, Tembo wanatoka mbugani na kuja kwenye vijiji vya Wananchi ambavyo vinazunguka Mbuga ya Serengeti, Mariwanda, Kawangwa na maeneo mengine. Kuna baadhi ya watu wamekufa na mazao yao yameliwa na Tembo. Tunajua mifugo inapoingia katika mbuga wamekuwa wakitozwa faini au kukamatwa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u77" who="NaibuSpika">
+          <seg xml:id="seg179">Sasa swali!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u78" who="MheEsterABulaya">
+          <seg xml:id="seg180">Ndiyo nakwenda huko, ni lazima ujenge hoja kiufasaha kwanza ndiyo uulize swali.</seg>
+          <seg xml:id="seg181">Mheshimiwa Naibu Spika, sasa ninachotaka kumwuliza Mheshimiwa Naibu Waziri ni kwamba, Wananchi ambao wanalima kwa tabu, wamenipigia simu usiku kucha wanauliza ni lini watapata fidia ya mafao yao kutokana na uharibifu na watu kupoteza maisha na ninajua Wizara hili mnalijua?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u79" who="NaibuSpika">
+          <seg xml:id="seg182">Ahsante sana. Majibu ya swali hilo Mheshimiwa Naibu Waziri wa Maliasili na Utalii, kuhusu fidia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u80" who="NaibuWaziriWaMaliasiliNaUtalii">
+          <seg xml:id="seg183">Mheshimiwa Naibu Spika, naomba kumjibu Mheshimiwa Ester Bulaya, swali lake la nyongeza kama ifuatavyo:-</seg>
+          <seg xml:id="seg184">Mheshimiwa Naibu Spika, ni kweli kulikuwa na tatizo kubwa la Tembo kuvamia katika maeneo haya. Nimeongea mara ya mwisho na Mheshimiwa Dkt. Kabwe na mara ya mwisho nilizungumza na mwenyewe Mheshimiwa Bulaya</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u81" who="NaibuSpika">
+          <seg xml:id="seg185">Ni Dkt. Kebwe!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u82" who="NaibuWaziriWaNishatiNaMadini">
+          <seg xml:id="seg186">Tumekubalianana, tulishawaagiza Askari wetu waliopo pale kwenda kufukuza wanyama waliopo pale na tulikubaliana tarehe 21 na 22 tutakwenda kutembelea kwenye eneo hilo ili tujue madhara yaliyopo katika eneo hilo ili tuchukue hatua zinazostahiki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u83" who="NaibuSpika">
+          <seg xml:id="seg187">Ahsante sana Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg188">Waheshimiwa Wabunge, tumefika mwisho wa kipindi chetu cha maswali na sasa ni matangazo. Nimalize matangazo basi Waheshimiwa Wabunge halafu tuendelee. Nipeni nafasi kidogo nimalize matangazo.</seg>
+          <seg xml:id="seg189">Tuna wageni Bungeni; kwanza, wageni wa Mheshimiwa Felister Bura, ambao ni kikundi cha Wanawake Vijana (Victory Women Group) kutoka Dodoma, wakiongozwa na Ndugu Remida Kulanda Weja na Mariam Swedi. Pale mlipo wageni wa Mheshimiwa Mama Bura simameni; karibuni sana akina mama hapa Bungeni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u84" who="NaibuSpika">
+          <seg xml:id="seg190">Wapo wageni wa Mheshimiwa Mussa Zungu Azzan, ambao ni wanafunzi 50 kutoka Shule ya Msingi ya Benjamin William Mkapa kutoka Dar es Salaam. Wanafunzi wa Benjamini William Mkapa simameni hapo mlipo; ooh, karibuni sana watoto kutoka katikati ya Jiji la Dar es Salaam, mjifunze kuhusu Bunge na mmependeza kwelikweli. Hongereni sana wanafunzi na walimu mliokuja.</seg>
+          <seg xml:id="seg191">Vilevile, tuna wageni 61 wa Mheshimiwa Hasnain Murji kutoka Mtwara. Kwanza, asimame Dkt. Nurudin Abdallah Mangochi, Sheikh Mkuu wa Mkoa wa Mtwara; karibu sana Sheikh Mkuu. Asimame Sheikh Abdallah Ali Hemed, Kadhi wa Mkoa wa Mtwara; ahsante sana. Pia, asimamie Jamaldin Salim Chamwi, Sheikh Mkuu wa Shule ya Maimamu.</seg>
+          <seg xml:id="seg192">Niwasimamishe pia wageni wote waliofuatana na Masheikh hawa kutoka Mtwara, ambao pia ni Masheikh kutoka Mtwara; simameni wote kabisa, karibuni sana Masheikh kutoka Matwara kututembelea Bungeni na tunafurahi sana kuwaona na Mbunge wenu Mheshimiwa Murji yuko hapa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u85" who="MbungeFulani">
+          <seg xml:id="seg193">Takbir!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u86" who="WabungeFulani">
+          <seg xml:id="seg194">Allahu Akbar!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u87" who="NaibuSpika">
+          <seg xml:id="seg195">Karibuni sana na tutashirikiana na mambo yote ambayo yanaendelea. Karibuni sana Masheikh na ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u88" who="NaibuSpika">
+          <seg xml:id="seg196">Tunao wageni wa Mheshimiwa Agripina Buyogera ni Anthony J. Kabula, ambaye ni mume wake; ahsante sana Anthony, umemwona Mama akipambana hapa.</seg>
+          <seg xml:id="seg197">Pia, yupo Melikia Anthony, mtoto wake na ni mwanafunzi wa St. John na Denis Anthony, ambaye ni mtoto wa mwisho wa Mheshimiwa Agripina. Mheshimiwa Agripina, wamekosea hapa wameandika mtoto wa mwisho, lakini nafikiri bado kuna uwezekano wa kuongeza. Ameambatana na familia ya Ndugu Daud Salim ambao mmekuja wote. Karibuni sana! </seg>
+        </u>
+        <note>(Kicheko/Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u89" who="NaibuSpika">
+          <seg xml:id="seg198">Wapo wageni 30 wa Mheshimiwa Rebecca Michael Mngodo, ambao wanatoka Wilaya ya Arumeru Mashariki, Kata ya Mbuguni, ambao ni Viongozi wa Vijiji vya Msitu wa Mbogo na Shambarai; pale mlipo simameni, karibuni sana.</seg>
+          <seg xml:id="seg199">Miongoni mwa wageni hawa waliokuja wa Mheshimiwa Rebecca, wapo Viongozi katika vijiji wanaotokana na CCM na wanaotokana na CHADEMA pia. Karibuni sana Bungeni na ahsanteni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u90" who="NaibuSpika">
+          <seg xml:id="seg200">Baada ya matangazo haya, nitoe tangazo moja kwamba, mkiangalia Order Paper yetu mtaona baada ya maswali ilitakiwa tushughulikie Muswada wa Sheria ya Fedha wa Mwaka 2014 (The Finance Bill, 2014). Sasa hapa naomba tusikilizane na tuelewane kidogo; kwamba, Kamati ambayo imepelekewa Muswada huu bado inaushughulikia na wamehitaji muda kidogo ili kujiweka sawa. Vilevile Serikali kwa maana ya Waziri wa Fedha, nao wamehitaji muda kidogo ili kujiweka sawa kwa ajili ya Muswada huu huu ili wafike mahali na Kamati waweze kutushauri ipasavyo. Upande wa Upinzani pia wanahitaji muda kidogo wa kutosha ili kuweza kutengeneza maoni yao kwa sheria hii.</seg>
+          <seg xml:id="seg201">Kwa hiyo, kwa sababu hiyo, tulidhani tushughulikie Muswada huu jioni, lakini inaelekea mpaka jioni tutakuwa bado hatujafika mahali pa kuweza kuanza kuujadili. Kwa hiyo, Muswada huu utaingia kesho asubuhi. Narudia tena kwamba, Muswada huu utaingia kesho asubuhi.</seg>
+          <seg xml:id="seg202">Niliona Waheshimiwa Wabunge walikuwa wamesimama.</seg>
+          <seg xml:id="seg203">MWONGOZO WA SPIKA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u91" who="MheAlikoNKibona">
+          <seg xml:id="seg204">Mwongozo wa Spika!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u92" who="NaibuSpika">
+          <seg xml:id="seg205">Niliwaona Mheshimiwa Aliko na Mheshimiwa Mchungaji!</seg>
+          <seg xml:id="seg206">Mheshimiwa Mchungaji tafadhali!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u93" who="MheMosesJMachali">
+          <seg xml:id="seg207">Mheshimiwa Naibu Spika, na hapa pia!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u94" who="NaibuSpika">
+          <seg xml:id="seg208">Mheshimiwa Aliko!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u95" who="MheAlikoNKibona">
+          <seg xml:id="seg209">Mheshimiwa Naibu Spika, nashukuru.</seg>
+          <seg xml:id="seg210">Mheshimiwa Naibu Spika, ninaomba mwongozo wako, wakati swali langu namba 314 lilipoulizwa nimepata maelezo ambayo sikuridhika kutoka kwa Serikali.</seg>
+          <seg xml:id="seg211">Mheshimiwa Naibu Spika, wakati tunauliza maswali hapa yanakuwa ya aina mbili, moja ni ufahamu wetu, lakini mengine ni kwa sababu ya wapiga kura na Wananchi kwa ujumla, ambao hawafahamu.</seg>
+          <seg xml:id="seg212">Mheshimiwa Naibu Spika, niliuliza swali kwamba, Askari Polisi wakiarijiwa hukaa miaka mitatu halafu ajira yao inakuwa terminated, wanaingia mkataba upya mpaka wafikishe miaka 12 ndipo wana-qualify kuwa pensionable au wafanyakazi wa kudumu. Katika jibu nililolipata Serikali imenijibu kwamba, huo ni utaratibu uliozoeleka na wote tunaufahamu.</seg>
+          <seg xml:id="seg213">Mheshimiwa Naibu Spika, mjibu swali ameendelea kujibu kwamba, nadhani wahusika wamesikia wakati hapa ninamwona Waziri wa Sheria na Katiba, lakini pia namwona Mwanasheria Mkuu.</seg>
+          <seg xml:id="seg214">Mheshimiwa Naibu Spika, sasa nashindwa kuelewa nifanyeje au askari wanaosikiliza majibu haya waliotegemea sababu inayofanya tuendelee kuwaajiri kila baada ya miaka mitatu hasa ukizingatia tumeingia katika Polisi Jamii tukitambua kuwa ni watoto wetu, kaka zetu, dada zetu na mama zetu. Tunafanyaje sasa wakati hatujapata majibu ambayo yanaridhisha?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u96" who="NaibuSpika">
+          <seg xml:id="seg215">Mwanasheria Mkuu wa Serikali!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u97" who="MwanasheriaMkuuWaSerikali">
+          <seg xml:id="seg216">Mheshimiwa Naibu Spika, kwa niaba ya Serikali, tunaomba muda ili Serikali ije itoe jibu ambalo litamridhisha Mheshimiwa Mbunge na ninafikiri ni vizuri majibu haya yaeleweke kwa ufasaha zaidi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u98" who="NaibuSpika">
+          <seg xml:id="seg217">Mheshimiwa Mchungaji Mwanjale!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u99" who="MheLucksonNMwanjale">
+          <seg xml:id="seg218">Mheshimiwa Naibu Spika, nami nashukuru kwa kunipa nafasi hii.</seg>
+          <seg xml:id="seg219">Naomba mwongozo wako katika suala ambalo nakwenda kuzungumzia nalo ni kuhusu afya za watu. Ugonjwa wa Saratani, yaani Kansa, ni Ugonjwa ambao umeenea na unaenea kwa kasi sana nchini kwetu na nchi nyingine ambazo zinaendelea na zisizoendelea.</seg>
+          <seg xml:id="seg220">Mheshimiwa Naibu Spika, hivi karibuni tulipata habari katika vyombo vya habari kwamba, ugonjwa huu unaenea kwa sababu, kwanza, mafuta yanayouzwa barabara, yaani mafuta ya alizeti, ubuyu, karanga na kadhalika, yanakaa muda mrefu kwenye jua yanasababisha kansa.</seg>
+          <seg xml:id="seg221">Mheshimiwa Naibu Spika, suala hili limekuwa gumu na kwa sababu linahusu afya za watu, ninaomba Serikali itueleze au iwahabarishe Wananchi kama ni kweli habari hizi ambazo zimeenea katika vyombo vya habari ni sahihi.</seg>
+          <seg xml:id="seg222">Mheshimiwa Naibu Spika, naomba mwongozo wako. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u100" who="NaibuSpika">
+          <seg xml:id="seg223">Mheshimiwa Naibu Waziri wa Afya, sijui kama umesikia swali hilo na kama unaweza ukatusaidia? Mheshimiwa Dkt. Kebwe!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u101" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg224">Mheshimiwa Naibu Spika, nashukuru na pia nimshukuru sana ndugu yetu kwa kuliona suala hili kama ambavyo imejieleza wazi katika Sera ya Afya ya Mwaka 2007. Suala hili lipo katika maeneo ya magonjwa ambayo siyo ya kuambukiza.</seg>
+          <seg xml:id="seg225">Naomba tupate nafasi ili kuweza kupata Kauli ya Serikali juu ya suala hili, inafanya nini hususan katika eneo ambalo Mheshimiwa Mbunge amelizungumzia, yaani juu ya mafuta.</seg>
+          <seg xml:id="seg226">Mheshimiwa Naibu Spika, nashukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u102" who="NaibuSpika">
+          <seg xml:id="seg227">Ahsante sana, tuvute subira. Mheshimiwa Bura!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u103" who="MheFelisterABura">
+          <seg xml:id="seg228">Mheshimiwa Naibu Spika, nami naomba mwongozo wako kwa suala ambalo ningependa Serikali itoe ufafanuzi.</seg>
+          <seg xml:id="seg229">Mheshimiwa Naibu Spika, Sera ya Serikali ya Chama cha Mapinduzi ni maisha bora kwa kila Mtanzania na Wananchi wa Mkoa wa Dodoma wamejitahidi kufanya hilo kwa ajili ya kujitegemea na kupata mapato kwa namna mbalimbali. Kuna watu ambao wameamua kukopa kwenye mabenki ili wapate namna ya kujitegemea na kujipatia vipato mbalimbali. Wapo ambao wamefungua maduka ya madawa muhimu katika mji wetu na wamekopa katika mabenki mbalimbali kwa ajili ya kujikimu. Wapo wanawake wajane na wako wanawake ambao katika kufungua maduka hayo ya madawa muhimu, wameweza kujikimu na kuwasomesha watoto.</seg>
+          <seg xml:id="seg230">Hivi karibuni Serikali ilitoa tamko kwamba, wale wenye maduka madogo waende vijijini. Katika miji yetu wapo waliotoka Songea wanaishi hapa Mjini, wapo waliotoka Mbeya, Mara, Bukoba na kadhalika, wamefungua hayo maduka ya madawa muhimu kwa ajili ya kujikimu na yanawasaidia.</seg>
+          <seg xml:id="seg231">Mheshimiwa Naibu Spika, hivi karibuni Serikali ilitoa tamko kwamba, wenye maduka madogo ya madawa waende vijijini. Sasa wamechanganyikiwa, wale ambao wameshajiimarisha katika miji yetu waende vijijini, waende vijiji gani na wameambiwa ikifika tarehe 30 Juni wafunge hayo maduka?</seg>
+          <seg xml:id="seg232">Ninaomba Serikali sasa itoe tamko kwa hao wajasiriamali wadogo ambao Serikali ya CCM imekubali na iliwapa ruhusa na ikawaruhusu kukopa ili wajenge uwezo kutokana na biashara hizo ndogondogo, lakini sasa wameambiwa wafunge hayo maduka na waende vijijini na sasa anayetaka kufungua duka kubwa la pharmacy ndiyo awe mjini.</seg>
+          <seg xml:id="seg233">Mheshimiwa Naibu Spika, sasa linanipa tabu na linawapa Wananchi wa Dodoma tabu. Wameniambia itakapofika tarehe 30 watalala barabarani wale wenye maduka madogo ya madawa muhimu.</seg>
+          <seg xml:id="seg234">Mheshimiwa Naibu Spika, ninaomba tamko la Serikali kuhusu suala hili. Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u104" who="NaibuSpika">
+          <seg xml:id="seg235">Naibu Waziri wa Afya na Ustawi wa Jamii, Mheshimiwa Dkt. Kebwe, kama una lolote la kusema kuhusu jambo hilo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u105" who="NaibuWaziriWaAfyaNaUstawiWaJamii">
+          <seg xml:id="seg236">Mheshimiwa Naibu Spika, nakushukuru lakini pia namshukuru Mheshimiwa Bura, Mbunge wa Viti Maalum kutoka Dodoma, juu ya suala hili.</seg>
+          <seg xml:id="seg237">Kweli ni Sera ya Chama cha Mapinduzi kuhakikisha kwamba, wajasiriamali wadogo na wao wanashiriki katika kuinua uchumi wa nchi lakini kwa kufuata utaratibu na misingi ambayo imewekwa.</seg>
+          <seg xml:id="seg238">Suala hili la kuanzisha maduka ya dawa muhimu lilianzishwa kwa maana ya Accredited Drug Dispensing Outlets (ADDO), kwa lengo zima la kuboresha huduma ya afya upande wa huduma ya dawa. Kwa hiyo, kwa Sheria Namba Moja ya Mwaka 2003, iliiyoanzisha Mamlaka ya Chakula na Dawa na Vipodozi, imeeleza bayana namna ya kuboresha maduka haya muhimu.</seg>
+          <seg xml:id="seg239">Sheria ya Maduka ilivyoanza kwa msingi ilikuwa wale wasio na uwezo hususan wale wa maeneo ya vijijini waweze kupata huduma. Tunaelewa wazi kwamba, maeneo ya mjini ukilinganisha na kusambaa kwa huduma ya afya vijijini wana relative disadvantage. Huduma hii muhimu imesongamana sana maeneo ya mijini, kwa hiyo, tukiendelea kuimarisha huduma hii kwa maeneo ya mijini peke yake ni sehemu ya kuwaonea kwa upande mwingine wale walioko vijijini na ndivyo hata ilivyokuwa kwa mwaka 1977 wakati huduma hii ilipigwa marufuku na kubaki katika Serikali, lakini mwaka 1992 Serikali ilirudisha huduma hii ili kuwashirikishi kwa maana ya huduma binafsi. Kwa mfano, ukiangalia Dar es Salaam huduma ya afya, takribani 82% iko binafsi, kwa hiyo, utakuta sehemu ya jamii inapata shida katika huduma hii.</seg>
+          <seg xml:id="seg240">Namwomba Mheshimiwa Mbunge kwamba, tusaidiane hawa wajasiriamali ambao kwa bahati mbaya wafanyabiashara walio wengi huwa hawahusishi jamii au kufuata taratibu. Kwa hiyo, watu wa huduma ya afya inawezekana kuwa consulted hawa wakakopa kwa utaratibu tukawakopesha wajasiriamali wadogo.</seg>
+          <seg xml:id="seg241">Kwa hiyo, natoa rai kwamba, maelekezo yaliyotolewa yafuatwe ili huduma hii muhimu iendelee kusambaa katika maeneo mengine kuliko tuendelee kurundika huduma hii mijini, ambayo tayari miundombinu na huduma ya afya inapatikana. Ukilinganisha na maeneo ya vijijini, maeneo ya vijijini bado huduma hii inatakiwa kwa kiwango kikubwa na ndiyo maana ya kuanzisha maduka haya ya dawa muhimu tuweze kusambaza katika maeneo mengine yakiwemo ya vijijini.</seg>
+          <seg xml:id="seg242">Mheshimiwa Naibu Spika, haya ndiyo maelekezo na ninakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u106" who="NaibuSpika">
+          <seg xml:id="seg243">Nakushukuru Mheshimiwa Naibu Waziri. Mheshimiwa Machali!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u107" who="MheMosesJMachali">
+          <seg xml:id="seg244">Mheshimiwa Naibu Spika, nakushukuru.</seg>
+          <seg xml:id="seg245">Nasimama kwa mujibu wa Kanuni ya 68(7), ikisomwa sambamba na Kanuni ya 64(1)(a); Mbunge hataruhusiwa kutoa taarifa ambazo hazina ukweli ndani ya Bunge.</seg>
+          <seg xml:id="seg246">Mheshimiwa Naibu Spika, wakati swali langu namba 316 likijibiwa na Naibu Waziri wa Maliasili, amelieleza Bunge kwamba, Wananchi wa Kasulu Mjini na Vijijini hawakuweza kulalamika wakati ule Waziri wa Maliasili amefanya ziara kwamba, wanahitaji ardhi. Jambo hili siyo la kweli na ninafikiri kilichomkuta Mheshimiwa Maige wakati huo Kasulu Mjini anaweza akasimulia mwenyewe pamoja na Mkuu wa Mkoa wa Kigoma, pia Kamati ya Ulinzi na Usalama ya Mkoa na Kamati ya Ulinzi na Usalama ya Wilaya.</seg>
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, ili kuweza kudhihirisha hili, ninamwomba Waziri wa Maliasili na Utalii wakati mwingine afikirie kuja kule yeye mwenyewe ili akashuhudie.</seg>
+          <seg xml:id="seg248">Mheshimiwa Naibu Spika, jambo la pili, naomba mwongozo wako kwa sababu nimesema kauli iliyotolewa na Mheshimiwa Naibu Waziri, inapingana na kauli aliyoitoa Mheshimiwa Waziri Mkuu. Kwanza, mwaka jana wakati namwuliza swali hapa Mheshimiwa Waziri Mkuu, mwezi Desemba, ambapo Wananchi wa Kasulu Mjini na Vijijini wanaolima katika eneo hili walifyekewa mazao na Waziri Mkuu akalieleza Bunge kwamba, ameieleza Serikali Mkoani Kigoma wasimamishe zoezi hilo. Sasa aliposema Wananchi hawakuharibiwa mali zao ni wazi amelidanganya Bunge.</seg>
+          <seg xml:id="seg249">Pili ni kwamba, zaidi ya baiskeli 300 zimepigwa mnada mwaka huu. Wananchi hao ni wale ambao walinyang’anywa baiskeli zao wakiwa wanalima kule. Anawezaje kulieleza Bunge kwamba taarifa ambazo zimetolewa siyo za kweli Wananchi hawajang’anywa mali zao?</seg>
+          <seg xml:id="seg250">Baadhi ya watu wamepigwa, Naibu Waziri wa Mambo ya Ndani, alifanya ziara katika Wilaya ya Kasulu tarehe 23 Julai, 2013, alishuhudia Wananchi wakijitokeza wakiwa na POP baadhi wamepiga.</seg>
+          <seg xml:id="seg251">Mheshimiwa Naibu Spika, naomba mwongozo wako, tabia au hali hii ambayo inaendelea kujitokeza kwenye Bunge lako ya baadhi ya Mawaziri kutoa kauli za uongo, Wananchi wakiendelea kupata shida huko. Tunachukua hatua gani ili wasione mahali hapa ni mahali pa kupiga blabla?</seg>
+          <seg xml:id="seg252">Mheshimiwa Naibu Spika, la mwisho, ninapokuwa hapa kama Mbunge basi mimi ni sauti ya Wananchi walionipigia kura. Kwa hiyo, wasitake kuanza kutubeza mahali hapa kwamba, pengine hatuko informed na kwa kudhihirisha hilo basi namwomba Naibu Waziri pamoja na Waziri wake, wafanye ziara waende wakawasikilize Wananchi na siyo kuuliza Serikali Mkoani Kigoma kwani wakati mwingine wanawapa taarifa ambazo siyo za kweli.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u108" who="NaibuSpika">
+          <seg xml:id="seg253">Ahsante sana Mheshimiwa Machali. Unachokiongea sidhani kama kina tofauti kubwa sana na alichokiongea Mheshimiwa Waziri, japo mimi silifahamu hilo eneo, lakini kinachoelekea ni kwamba, hilo eneo ni hifadhi. Wapo Wananchi ambao wamelima ndani ya eneo ambalo linasemekana ni hifadhi, pakatokea maombi maalum kwamba Wananchi wale wavune mazao yao. Mheshimiwa Maige alikwenda kule akiwa Waziri wa Maliasili na Utalii na Mheshimiwa Waziri Mkuu, akaruhusu Wananchi wavune mazao yale.</seg>
+          <seg xml:id="seg254">Sasa mwaka uliofuata kilichowafanya Wananchi wakalime tena kule ndani halafu wapambane na wale wa hifadhi na kunyang’anyana baiskeli, mimi nadhani hilo linahitaji mahali pengine tena pa kuweza kulitazama kwa namna yake maalum. Namna ya kufanya ama resettlement ya hao watu ama degazettement ya baadhi ya maeneo ambayo inabidi yasiwe hifadhi, inabidi yawe na maombi maalum; DCC iwe imekaa, RCC imekaa, yaani usiwe unalalamika wewe tu peke yako bila support ya vikao vyovyote vya Mkoa na Wilaya kuunga mkono hoja kama hizo. Itakuwa ni jambo ambalo kidogo ni gumu. Naomba hilo lipewe nafasi katika wakati mwingine.</seg>
+          <seg xml:id="seg255">Mheshimiwa Salum uwe wa mwisho kwenye eneo hili!</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u109" who="MheAhmedAliSalum">
+          <seg xml:id="seg256">Mheshimiwa Naibu Spika, nakushukuru. Nasimama kuomba mwongozo kwa Kanuni ya 68(7).</seg>
+          <seg xml:id="seg257">Mheshimiwa Naibu Spika, wiki iliyopita katika swali langu namba 139, Wizara ya Nishati na Madini ilijibu swali langu tofauti na uhalisia na swali hili inaonekana ni la uongo mtupu.</seg>
+          <seg xml:id="seg258">Niliuliza kwa nini kikundi hiki cha Mwakitolyo Gold Mine hawakupewa kibali kwa ajili ya uchimbaji mdogomdogo katika eneo la Mwakitolyo na waliomba maombi hayo na mpaka sasa hawajapewa?</seg>
+          <seg xml:id="seg259">Katika majibu ya Wizara walisema kikundi hiki waliomba tu kwa kuandika barua lakini hawakufuata utaratibu wowote wa kisheria uliokuwa unahitajika.</seg>
+          <seg xml:id="seg260">Mheshimiwa Naibu Spika, kikundi hiki mwaka 2012 kilijaza fomu inayoitwa MPF5 na wakashauriwa kwamba, warudi mwaka 2014 kwani eneo lile sasa litakuwa wazi. Wakafanya hivyo wakaja mwezi Juni, 2014 wakajaza fomu hiyo na baada ya kujaza fomu hiyo, Afisa Madini Mkoa wa Shinyanga akawaambia eneo hili sasa lipo wazi nendeni mkalipie.</seg>
+          <seg xml:id="seg261">Katika majibu ya Naibu Waziri wa Nishati na Madini, wamesema kwamba, hawakufanya hivyo, yaani hawakujaza fomu wala hawakulipia wakati si kweli. Walijaza fomu 2012, wakajaza tena 2014, wakaambiwa wakalipe, wakalipia shilingi 50,000 benki.</seg>
+          <seg xml:id="seg262">Waliporudi Afisa Madini akawaambia hapana, eneo bado ni zuri na kubwa nendeni mkalipe tena ili tuwape viwanja vinne. Wakaenda wakalipa shilingi 200,000. Walipotoka benki kurudi wakakuta sintofahamu tofauti kabisa na jinsi walivyoelekezwa, wakaambiwa aah, unajua hili eneo lenu Dar es Salaam linaonekana tayari Barrick ameshalipia saa tatu.</seg>
+          <seg xml:id="seg263">Sasa Afisa Madini amewaambia wakalipie na walipolipia ilikuwa saa 2.30 na hata kama Barrick wamelipia saa tatu ina maana kuna tofauti ya nusu saa. Kama kuwahi bado kikundi hiki kilikuwa kimewahi vizuri na utaratibu huu hapa, fedha zilizolipwa ni hizi hapa, ramani waliyooneshwa eneo zuri ni hili hapa, fomu walizojaza mbili kwa pamoja MPF5 hizi hapa ya mwaka 2012 na 2014. Kwa hiyo, kuna mazingira ambayo yanaonekana kwa kweli ni ya kutatanisha.</seg>
+          <seg xml:id="seg264">Mheshimiwa Naibu Spika, ninaomba sasa Wizara iwarudishie haki yao wachimbaji wadogowadogo na wanyonge ambao walikuwa na msingi na wana haki kabisa ya kupata hilo eneo. Kama unavyojua, sasa hivi kuna migogoro mingi sana ya wachimbaji wadogowadogo katika Tanzania hii. Naomba sana Serikali izingatie na nipate majibu mazuri kutoka Serikalini.</seg>
+          <seg xml:id="seg265">Mheshimiwa Naibu Spika, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2014-06-26-bunge-15-41.u110" who="NaibuSpika">
+          <seg xml:id="seg266">Ahsante sana. Katika hilo, nawaomba wasaidizi wangu mwende mkachukue karatasi zile tuwe nazo hapa na tutawapatia Wizara ya Nishati na Madini. Kwa hakika, Mheshimiwa Mbunge watakujibu moja kwa moja, yaani watawasiliana na wewe moja kwa moja ili haki ya Wananchi hao iweze kupatikana. Naomba uwape hizo karatasi halafu tutawapatia Wizara na Wizara ita-respond vizuri zaidi kwako.</seg>
+          <seg xml:id="seg267">Waheshimiwa Wabunge, nimalizie kwa matangazo; Wabunge Wanawake wa CCM wote wanaombwa na Katibu wao, Mheshimiwa Mary Chatanda, wakutane baada ya kuahirisha hapa Ukumbi wa Msekwa. Wabunge akina mama wa Chama cha Mapinduzi, mnaombwa Msekwa Hall mara baada ya hapa.</seg>
+          <seg xml:id="seg268">Tangazo la mwisho linatoka kwa Mheshimiwa Prof. Peter Msolla. Mwenyekiti wa Kamati ya Bunge ya Kilimo, Mifugo na Maji, anawaomba Wajumbe wa Kamati ya Kilimo, Mifugo na Maji, wakutane saa saba mchana katika Ukumbi wa Hazina Ndogo, Chumba Namba 136.</seg>
+          <seg xml:id="seg269">Waheshimiwa Wabunge, baada ya matangazo hayo, kama nilivyowaambia kwamba, ile shughuli ambayo tulikuwa tuifanye baadaye itafanyika kesho. Kwa jinsi hiyo basi, naahirisha shughuli za Bunge hadi kesho saa tatu kamili asubuhi.</seg>
+          <seg xml:id="seg270">(Saa 4.30 asubuhi Bunge liliahirishwa hadi Siku ya Ijumaa,</seg>
+          <seg xml:id="seg271">Tarehe 27 Juni, 2014 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

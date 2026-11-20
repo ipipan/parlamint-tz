@@ -1,0 +1,1363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2024-09-05) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2024-09-05) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="8">8. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="16">16. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1728290486-BJT5SEPTEMBA2024.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2024-09-05">5.09.2024</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u1" who="NaibuSpika">
+          <seg xml:id="seg1">Maswali, Ofisi ya Rais, TAMISEMI, Mheshimiwa Emmanuel Shangai.</seg>
+        </u>
+        <note>Na. 126. Umaliziaji wa Kituo cha Afya Arash – Ngorongoro</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u2" who="MheEmmanuelLShangai">
+          <seg xml:id="seg2">Je, lini Serikali itapeleka fedha kwa ajili ya umaliziaji wa Kituo cha Afya Arash?</seg>
+          <seg xml:id="seg3">Mheshimiwa Naibu Spika, Kituo cha Afya cha Arash kilianza ujenzi mwaka 2018 ambapo Serikali kupitia Mamlaka ya hifadhi ya Ngorongoro (NCAA) ilipeleka shilingi milioni 100 kwa ajili ya ujenzi wa jengo la kuhudumia wagonjwa wa nje (OPD), jengo la wazazi na jengo la upasuaji.</seg>
+          <seg xml:id="seg4">Mheshimiwa Naibu Spika, jengo la kuhudumia wagonjwa wa nje limekamilika na linatumika. Majengo ya maabara, wazazi na upasuaji yako katika hatua ya kupiga plasta.</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, katika mwaka wa fedha 2023/2024 Serikali imepeleka shilingi milioni 30 kwa ajili ya kumalizia jengo la maabara ambalo liko hatua ya plasta. Aidha, Serikali kupitia TANAPA imejenga nyumba mbili za three in one ambazo ziko katika hatua za umaliziaji.</seg>
+          <seg xml:id="seg6">Mheshimiwa Naibu Spika, Serikali itaendelea kutenga fedha kwa ajili ya ukarabati na ujenzi wa miundombinu katika Kituo cha Afya cha Arash, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u3" who="NaibuSpika">
+          <seg xml:id="seg7">Mheshimiwa Shangai.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u4" who="MheEmmanuelLShangai">
+          <seg xml:id="seg8">Mheshimiwa Naibu Spika, nashukuru kwa majibu ya Serikali, lakini naomba kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg9">Kwa kuwa Kituo hiki cha Arash kinategemewa na kata zaidi ya nne, ni lini sasa Serikali itatenga fedha za kutosha kwa ajili ya kumalizia kituo hiki ambacho wananchi walichanga fedha zao? Nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u5" who="NaibuSpika">
+          <seg xml:id="seg10">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u6" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg11">Mheshimiwa Naibu Spika, ahsante sana, kwanza nimpongeze sana Mheshimiwa Ole -</seg>
+          <seg xml:id="seg12">Shangai kwa namna ambavyo anafuatilia sana miradi ya afya katika Jimbo lake la Ngorongoro na nimhakikishie kwamba Serikali ilishatambua Kata ya Arash kwamba ni kata ya kimkakati na ndio maana tumeanza kupeleka fedha hizi na nikuhakikishie tu kwamba tunatenga fedha kwenye bajeti zetu na tutatafuta pia wadau kwa ajili ya kupata fedha kukamilisha miundombinu inayobaki, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u7" who="NaibuSpika">
+          <seg xml:id="seg13">Mheshimiwa Profesa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u8" who="MheProfPatrickANdakidemi">
+          <seg xml:id="seg14">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa fursa. Eneo la Old Moshi lenye kata nne halina kituo cha afya na nilikuwa nimependekeza kituo cha mkakati cha afya kijengwe katika eneo hili. Je, ni lini Serikali itatutjengea kituo cha afya katika eneo hili la kimkakati la Old Moshi? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u9" who="NaibuSpika">
+          <seg xml:id="seg15">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u10" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg16">Mheshimiwa Naibu Spika, ahsante sana, ni dhamira ya Serikali kuhakikisha kwamba maeneo yote ya kata za kimkakati yanapata vituo vya afya ili kusogeza huduma hizi muhimu kwa jamii. Mheshimiwa Profesa Ndakidemi amefuatilia mara kadhaa kuhusiana na kituo cha afya katika Kata ya Old Moshi na tayari amewasilisha katika vituo vya kila jimbo na nikuhakikishie kwamba Serikali iko katika hatua za kutafuta fedha na kwenda kujenga vituo hivyo vya afya ikiwemo katika eneo la Old Moshi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u11" who="NaibuSpika">
+          <seg xml:id="seg17">Mheshimiwa Jonas.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u12" who="MheJonasWMbunda">
+          <seg xml:id="seg18">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg19">Mheshimiwa Naibu Spika, Serikali ilitoa shilingi milioni 250 kwa ajili ya ujenzi wa Kituo cha Afya Myangayanga na ujenzi umeanza na baadhi ya majengo tayari yameshajengwa. Je, ni lini sasa</seg>
+          <seg xml:id="seg20">Serikali itatoa shilingi milioni 250 kwa ajili ya kukamilisha kituo hiki cha Myangayanga?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u13" who="NaibuSpika">
+          <seg xml:id="seg21">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u14" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg22">Mheshimiwa Naibu Spika, Serikali ilitoa fedha kwenye vituo kadhaa kwa ajili ya kuanza ujenzi wa majengo ya awali ya vituo vya afya ikiwemo katika Kata hiyo ya Myangayanga ambayo ameitaja Mheshimiwa Mbunge wa Jimbo la Mbinga Mjini. Nimhakikishie tu kwamba tunakwenda kwa awamu, tumeanza na awamu ya kwanza tunafahamu tumefika hatua nzuri tutakwenda awamu ya pili tutapeleka fedha kwa ajili ya kukamilisha majengo yaliyobaki, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u15" who="NaibuSpika">
+          <seg xml:id="seg23">Mheshimiwa Deo Mwanyika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u16" who="MheDeodatusPMwanyika">
+          <seg xml:id="seg24">Mheshimiwa Naibu Spika, nakushukuru sana, Kituo cha Afya Njombe Mjini ni kituo kikongwe nimeongea hapa zaidi ya mara tano. Je, ni lini sasa kituo hiki kitaanza kujengwa na kukarabatiwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u17" who="NaibuSpika">
+          <seg xml:id="seg25">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u18" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg26">Mheshimiwa Naibu Spika, ahsante sana, Serikali kwa kutambua umuhimu wa kukarabati na kupanua vituo vya afya vikongwe tayari Mheshimiwa Rais wetu Dkt. Samia Suluhu Hassan alishatupa maelekezo Ofisi ya Rais, TAMISEMI na tayari tumeshaandaa orodha ya vituo vyote vikongwe viko 202 kikiwemo Kituo cha Afya cha Mji wa pale Njombe. Kwa hiyo, nimhakikishie Mheshimiwa Mwanyika kwamba Serikali iko kwenye mkakati wa kukarabati kituo hicho cha afya, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u19" who="NaibuSpika">
+          <seg xml:id="seg27">Waheshimiwa tunaendelea na Mheshimiwa Dkt. Ishengoma.</seg>
+          <seg xml:id="seg28">Ujenzi wa Kituo cha Afya Magadu - Morogoro</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u20" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg29">Je, lini Serikali itapeleka fedha kwa ajili ya ujenzi wa Kituo cha Afya Magadu katika Halmashauri ya Manispaa ya Morogoro?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u21" who="NaibuSpika">
+          <seg xml:id="seg30">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u22" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg31">Mheshimiwa Naibu Spika, Serikali imeendelea kutoa fedha kwa ajili ya ujenzi wa vituo vya afya katika kata za kimkakati kote nchini. Wananchi wa Kata ya Magadu wanapata huduma kwenye Hospitali ya Jeshi ya Mzinga na Kituo cha Afya cha SUA ambapo hospitali hii ya jeshi ipo umbali wa kilometa mbili kutoka makao makuu ya kata.</seg>
+          <seg xml:id="seg32">Mheshimiwa Naibu Spika; katika kuhakikisha wananchi wa Kata ya Magadu wanapata huduma za msingi, Serikali imeendelea kuboresha zahanati zilizopo kwenye Kata ya Magadu ikiwemo Zahanati ya Magadu ambayo imetengewa shilingi milioni 30 kwa ajili ya ukarabati wa jengo la kutolea huduma kwa wagonjwa wa nje (OPD) na umaliziaji wa boma la Zahanati ya Mgambazi shilingi milioni 40 katika bajeti ya mwaka wa fedha 2024/2025.</seg>
+          <seg xml:id="seg33">Mheshimiwa Naibu Spika, zahanati hizi zitaendelea kuimarishwa ili zitoe huduma bora kwa wananchi wa Kata ya Magadu, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u23" who="NaibuSpika">
+          <seg xml:id="seg34">Mheshimiwa Dkt. Ishengoma.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u24" who="MheDktChristineGIshengoma">
+          <seg xml:id="seg35">Mheshimiwa Naibu Spika, ahsante sana na nashukuru sana kwa majibu ya Serikali</seg>
+          <seg xml:id="seg36">ambayo ni mazuri, hata hivyo naomba sana hizi zahanati zikarabatiwe haraka kwa sababu Kituo cha Afya Mzinga ni cha kulipia.</seg>
+          <seg xml:id="seg37">Mheshimiwa Naibu Spika, swali langu la kwanza, Kituo cha Afya Mafiga nimekuwa nakiulizia humu mara kwa mara ni kituo ambacho kinapendwa na akinamama kwenda kujifungulia, lakini bahati mbaya mpaka sasa hivi hakina jengo la upasuaji kwa sababu wakipata matatizo wanakwenda kwenye hospitali kubwa. Kwa hiyo, ni lini jengo hili la upasuaji litajengwa?</seg>
+          <seg xml:id="seg38">Mheshimiwa Naibu Spika, swali langu la pili, Kituo cha Afya cha Lumuma bado hakijajegwa na huko huko kuna wananchi wengi ambao wanalima vitunguu na wanapaswa kwenda kutibiwa kwenye Wilaya ya Mpwapwa ambayo ipo kwenye Mkoa wa Dodoma. Je, ni lini hiki Kituo cha Afya Lumuma kitajegwa? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u25" who="NaibuSpika">
+          <seg xml:id="seg39">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u26" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg40">Mheshimiwa Naibu Spika, ahsante sana, nimpongeze sana Mheshimiwa Mama Ishengoma amefuatilia mara kadhaa lakini nipokee maoni yake na hoja zake kuhusiana na ukarabati na upanuzi wa zahanati hizi za Magadu na Mgambazi na nimhakikishie kwamba Serikali imeshaanza kutenga fedha ili kuboresha zahanati hizo ili ziweze kutoa huduma bora zaidi kwa wananchi.</seg>
+          <seg xml:id="seg41">Mheshimiwa Naibu Spika, kuhusiana na Kituo cha Afya cha Mafiga ni kweli kituo kile ni miongoni mwa vituo vikongwe 202 ambavyo tumeshaviainisha, tunakamilisha ukarabati wa hospitali za halmashauri kongwe 51, tumeshakarabati 32 bado 19, tukishakamilisha 19 za halmashauri tunakwenda kwenye vituo vya afya 202 kikiwemo Kituo cha Afya cha Mafiga ambacho kitajengewa wodi pamoja na jengo la upasuaji.</seg>
+          <seg xml:id="seg42">Mheshimiwa Naibu Spika, kuhusiana na kituo cha afya katika Kata ya Lumuma nimhakikishie tu Mheshimiwa Mbunge</seg>
+          <seg xml:id="seg43">kata zote zenye idadi kubwa ya wananchi na umbali mkubwa kutoka kituo cha karibu zaidi cha huduma zimewekwa kipaumbele kama kata za kimkakati na tutatafuta fedha kwa ajili ya ujenzi wa vituo vya afya, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u27" who="NaibuSpika">
+          <seg xml:id="seg44">Mheshimiwa Zuena, ajiandae Mheshimiwa Kimei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u28" who="MheZuenaABushiri">
+          <seg xml:id="seg45">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg46">Je, ni lini Kituo cha Afya cha Tarakea kitaboreshwa ili kiweze kutoa huduma ya upasuaji?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u29" who="NaibuSpika">
+          <seg xml:id="seg47">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u30" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg48">Mheshimiwa Naibu Spika, ahsante sana, naomba nichukue hoja ya Mheshimiwa Mbunge, amefuatilia mara kadhaa na sisi kama Serikali kazi yetu ni kupokea maoni na ushauri wa Waheshimiwa Wabunge kwa ajili ya kwenda kutengeneza mipango na bajeti kwa ajili ya ukarabati. Kwa hiyo, Kituo cha Afya cha Tarakea tumekichukua Mheshimiwa Mbunge, tutakiwekea mpango kwa ajili ya ukarabati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u31" who="NaibuSpika">
+          <seg xml:id="seg49">Mheshimiwa Dkt. Kimei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u32" who="MheDktCharlesSKimei">
+          <seg xml:id="seg50">Mheshimiwa Naibu Spika, ahsante sana, naomba nimuulize Mheshimiwa Waziri, je, kati ya hivi vituo vikongwe vya afya 200 ambavyo umetaja kwamba viko kwenye mchakato wa kukarabatiwa unaweza ukanihakikishia kwamba Kituo cha Mwika Msae kiko katika hivi 200?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u33" who="NaibuSpika">
+          <seg xml:id="seg51">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u34" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg52">Mheshimiwa Naibu Spika, vituo vya afya 202 vilifanyiwa tathmini ya kuonekana ni</seg>
+          <seg xml:id="seg53">vituo chakavu zaidi, sasa kwa sababu Mheshimiwa Mbunge Dkt. Kimei angependa kujua kama Mwika imo, naomba baada ya kipindi hiki cha maswali na majibu nirudi kwenye records zetu na nitakufuata hapo Mheshimiwa nikupe kama ipo halafu twende kwenye hatua nyingine. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u35" who="NaibuSpika">
+          <seg xml:id="seg54">Mheshimiwa Tarimba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u36" who="MheTarimbaGAbbas">
+          <seg xml:id="seg55">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, Ofisi ya Mbunge wa Jimbo la Kinondoni imetumia takribani fedha za Mfuko wa Jimbo shilingi milioni 129 kujenga kituo cha mionzi (x-rays pamoja na ultra sound). Serikali imeweza kutupatia vifaa kupitia Halmashauri ya Manispaa ya Kinondoni na kituo kile kinafanya kazi.</seg>
+          <seg xml:id="seg57">Je, Serikali iko tayari kupokea pongezi za wananchi wa Kinondoni kwa msaada mkubwa waliotupatia juu ya vifaa vile na sasa kituo kile kinawasaidia wananchi wa Jimbo la Kinondoni?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u37" who="NaibuSpika">
+          <seg xml:id="seg58">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u38" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg59">Mheshimiwa Naibu Spika, ahsante sana, kwanza nimpongeze sana Mheshimiwa Tarimba kwa kutoa fedha hizo shilingi milioni 129 kujenga jengo la mionzi katika vituo vyake katika Halmashauri ya Manispaa ya Kinondoni na pongezi hizo tunazipokea na zimwendee Mheshimiwa Dkt. Samia Suluhu Hassan, Rais wa Jamhuri ya Muungano wa Tanzania kwa mapenzi yake makubwa kwa wananchi na ndio maana huduma za afya zinaendelea kuimarika Kinondoni na kote nchini, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u39" who="NaibuSpika">
+          <seg xml:id="seg60">Waheshimiwa tunaendelea, Mheshimiwa Minza.</seg>
+          <seg xml:id="seg61">Ujenzi wa Shule ya Watoto Wenye Mahitaji Maalum – Simiyu</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u40" who="MheMinzaSMjika">
+          <seg xml:id="seg62">Je, lini Serikali itajenga shule ya watoto wenye mahitaji maalumu katika Mkoa wa Simiyu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u41" who="NaibuSpika">
+          <seg xml:id="seg63">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u42" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheZainabAKatimba">
+          <seg xml:id="seg64">Mheshimiwa Naibu Spika, kwa kuzingatia Mkakati wa Kitaifa wa Elimu Jumuishi 2021-2026 kadiri iwezekanavyo watoto wenye mahitaji maalumu wanatakiwa kusoma katika shule jumuishi au vitengo. Serikali imekuwa ikiboresha miundombinu ya shule ili ziwe jumuishi ikiwa ni pamoja na kupeleka vifaa visaidizi, walimu wa elimu maalumu na fedha ya chakula kwa ajili ya watoto wote wenye mahitaji maalumu.</seg>
+          <seg xml:id="seg65">Mheshimiwa Naibu Spika, Mkoa wa Simiyu una jumla ya vitengo 15 katika Halmashauri za Bariadi Mji ina vitengo vinne, Itilima ina vitengo viwili, Bariadi Vijijini ina vitengo vitatu, Busega ina vitengo viwili, Meatu ina vitengo viwili na Maswa ina vitengo viwili.</seg>
+          <seg xml:id="seg66">Mheshimiwa Naibu Spika, Serikali itaendelea kuboresha mazingira ya kutolea elimu kwa wanafunzi wenye mahitaji maalumu ikiwa ni pamoja na kuboresha miundombinu, kununua vifaa visaidizi, kupeleka fedha ya chakula na kuajiri walimu wataalamu wa elimu maalumu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u43" who="NaibuSpika">
+          <seg xml:id="seg67">Mheshimiwa Minza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u44" who="MheMinzaSMjika">
+          <seg xml:id="seg68">Mheshimiwa Naibu Spika, nashukuru na napenda kuuliza swali moja tu la nyongeza. Kwanza nashukuru sana kwa majibu mazuri ya Serikali.</seg>
+          <seg xml:id="seg69">Mheshimiwa Naibu Spika, swali langu ni moja tu. Je, ni lini sasa shule hii ya watoto wenye mahitaji maalumu itajengwa katika Mkoa wa Simiyu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u45" who="NaibuSpika">
+          <seg xml:id="seg70">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u46" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheZainabAKatimba">
+          <seg xml:id="seg71">Mheshimiwa Naibu Spika, nimpongeze sana Mheshimiwa Mbunge kwa kuona umuhimu wa kuwasemea watoto wenye mahitaji maalumu ili waweze kupata maeneo au miundombinu mizuri kwa ajili ya kupata elimu.</seg>
+          <seg xml:id="seg72">Mheshimiwa Naibu Spika, kama nilivyojibu kwenye majibu ya msingi nimesema sasa hivi Serikali inaweka kipaumbele kikubwa na msisitizo mkubwa wa kuhakikisha kwamba shule zetu hizi tunazojenga zinakuwa jumuishi kwa maana zinaweza kupokea wanafunzi wa kawaida, lakini na wale wanafunzi wenye mahitaji maalumu na Serikali imekuwa ikihakikisha kwamba kwenye hizi shule inapeleka vifaa visaidizi, lakini inapeleka walimu wa elimu maalumu, lakini fedha ya chakula kwa ajili ya watoto wote wenye mahitaji maalumu.</seg>
+          <seg xml:id="seg73">Mheshimiwa Naibu Spika, shule hizi ambazo ni mahususi kabisa kwa ajili watoto wenye mahitaji maalumu zipo, kuna shule moja ipo Arusha, Shule ya Sekondari Patandi ambayo inapokea watoto wenye mahitaji maalumu na inawahudumia.</seg>
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, katika mwaka wa fedha huu 2024/2025 kuna shule ya watoto wenye mahitaji maalumu inatarajiwa kujengwa katika Halmashauri ya Bahi, lakini msisitizo mkubwa ni kuhakikisha kwamba shule zetu zinakuwa na miundombinu ambayo itawezesha ziwe jumuishi kwa ajili ya kuwahudumia pia watoto wenye mahitaji maalumu.</seg>
+          <seg xml:id="seg75">Kwa hiyo, Mheshimiwa Mbunge naomba ufahamu hivyo tunataka watoto wetu wasome kwa pamoja. Wale wenye mahitaji maalumu na hawa wengine washirikiane kwa pamoja ili wote kwa pamoja waweze kupata elimu, lakini wengine hao wenye mahitaji wanakuwa wanasaidiwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u47" who="NaibuSpika">
+          <seg xml:id="seg76">Waheshimiwa tunaendelea Ofisi ya Rais, Utumishi na Utawala Bora, Mheshimiwa Grace Tendega.</seg>
+        </u>
+        <note>Na. 129. Hitaji la Posho za Kujikimu kwa Wafanyakazi Wanaojitolea</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u48" who="MheGraceVTendega">
+          <seg xml:id="seg77">Je, kwa nini Serikali isiwalipe posho sawa ya kujikimu wafanyakazi wanaojitolea ili kuondoa matabaka ya malipo kulingana na sehemu wanazofanya kazi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u49" who="NaibuSpika">
+          <seg xml:id="seg78">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u50" who="NaibuWaziriOfisiYaRaisMenejimentiYaUtumishiWaUmmaNaUtawalaBora">
+          <seg xml:id="seg79">Mheshimiwa Naibu Spika, Serikali inaruhusu waajiri mbalimbali katika utumishi wa umma kuwatumia wahitimu wa vyuo katika ngazi mbalimbali za elimu kufanya kazi kwa kujitolea katika maeneo yao ya kazi ili kupata uzoefu wa kazi kwa fani zao. Kwa kuwa wahitimu hao siyo watumishi wa umma, miongozo ya kiutumishi haijaelekeza utaratibu wa kuwalipa mishahara au posho ya kujikimu.</seg>
+          <seg xml:id="seg80">Mheshimiwa Naibu Spika, pamoja na maelezo ya hapo juu, Serikali inatambua umuhimu wa wafanyakazi wanaojitolea katika utumishi wa umma. Katika kuhakikisha matumizi sahihi ya mfanyakazi wa kujitolea, Serikali ipo katika hatua za mwisho za kukamilisha Mwongozo wa Kujitolea katika Utumishi wa Umma ambao utaweka utaratibu kwa waajiri na kada mbalimbali wa namna ya kuwapata, kuwasimamia na kuwalipa masilahi wafanyakazi watakaojitolea katika taasisi zao, nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u51" who="NaibuSpika">
+          <seg xml:id="seg81">Mheshimiwa Grace.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u52" who="MheGraceVTendega">
+          <seg xml:id="seg82">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi niweze kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg83">Mheshimiwa Naibu Spika, pamoja na majibu mazuri ya Mheshimiwa Waziri, lakini tumekuwa tukiona taasisi mbalimbali kwa mfano TRA, Benki Kuu, Bandari na taasisi nyingine mbalimbali ambazo zinawapa vijana nafasi za kujitolea, lakini hakuna utaratibu maalumu ambao umewekwa wa kujua kwamba hawa vijana wanaenda kupata hizo nafasi namna gani na hii inaweza ikatokea ama boss ama mfanyakazi akaweza kumpa nafasi hiyo matokeo yake tunavyokuwa tunaomba vijana hawa wapate ajira kwa sababu wamejitolea unakuta unaweka mlolongo wa walewale ambao wako katika ofisi hiyo.</seg>
+          <seg xml:id="seg84">Sasa swali langu hapa, nini mkakati wa Serikali kuhakikisha kwamba mna utaratibu maalumu wa kuwapata vijana wanaojitolea katika taasisi mbalimbali hata Serikalini?</seg>
+          <seg xml:id="seg85">Mheshimiwa Naibu Spika, swali la pili, pamoja na kusema kwamba kuna mwongozo au taratibu ambazo mmeziweka, ni lini sasa mwongozo huu utatoka hara ili vijana wetu waweze kupata nafasi hizo? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u53" who="NaibuSpika">
+          <seg xml:id="seg86">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u54" who="NaibuWaziriOfisiYaRaisMenejimentiYaUtumishiWaUmmaNaUtawalaBora">
+          <seg xml:id="seg87">Mheshimiwa Naibu Spika, nakushukuru sana naomba kujibu maswali mawili madogo ya nyongeza ya Mheshimiwa Grace Tendega, kama ifuatavyo:-</seg>
+          <seg xml:id="seg88">Mheshimiwa Naibu Spika, kwanza nimpongeze Mheshimiwa Mbunge kwa namna ambavyo amekuwa akiwasemea vijana wa kitanzania hasa awale ambao wamekuwa wakijitolea amepaza sauti sana kuwasemea.</seg>
+          <seg xml:id="seg89">Mheshimiwa Naibu Spika, nikijibu maswali mawili yake ya nyongeza kama nilivyosema kwenye jibu langu la msingi kwamba Serikali inatambua na baada ya kuona changamoto hiyo hasa</seg>
+          <seg xml:id="seg90">katika taasisi mbalimbali kwa namna ambavyo wanawapata vijana wa kujitolea. Tuko mbioni tunaandaa randama ambayo baada ya kukamilika tutatoa waraka namna na utaratibu wa kuwapata vijana hawa.</seg>
+          <seg xml:id="seg91">Mheshimiwa Naibu Spika, kwa namna ya pekee Serikali imeona kwamba itaweka utaratibu wa ushindani ilikijana aende kujitolea sehemu tunaenda kuweka utaratibu kama tunavyofanya kwenye ajira za sasa ambazo zimetangazwa kwenye kada ya ualimu, kada ya afya na kada nyinginezo. Kwa hiyo, nimuondolee shaka Mheshimiwa Mbunge, Serikali inalitambua hilo na ndio maana imeingia kwenye mchakato huo.</seg>
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, lini tutatoa waraka huo, naomba nikuhakikishie Mheshimiwa Mbunge kabla ya kukamilika kwa mwaka huu wa fedha tayari waraka huu utakuwa umetoka kuwaongoza Wakuu wa Taasisi namna ya kuwapata vijana wa kujitolea, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u55" who="NaibuSpika">
+          <seg xml:id="seg93">Waheshimiwa Wabunge, tunaendelea, Ofisi ya Makamu wa Rais, Muungano, Mheshimiwa Issa Mtemvu.</seg>
+        </u>
+        <note>Na. 130. Matumizi ya Mkaa na Kuni Nchini</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u56" who="MheIssaJMtemvu">
+          <seg xml:id="seg94">Je, upi mkakati wa Serikali wa kukabiliana na matumizi ya mkaa na kuni nchini ili kulinda mazingira?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u57" who="NaibuSpika">
+          <seg xml:id="seg95">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u58" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoNaMazingira">
+          <seg xml:id="seg96">Mheshimiwa Naibu Spika, naomba kujibu swali la Mheshimiwa Issa Mtemvu, kama ifuatavyo:-</seg>
+          <seg xml:id="seg97">Mheshimiwa Naibu Spika, Serikali imeandaa na inatekeleza Mkakati wa Taifa wa Matumizi ya Nishati Safi ya Kupikia kuanzia mwaka 2024 hadi 2034 ambao unatoa mwelekeo wa nchi wa kuhamia katika matumizi ya nishati safi ya kupikia. Mkakati huu unalenga kuhakikisha angalau 80% ya Watanzania wawe wanatumia nishati safi ya kupikia ifikapo mwaka 2034.</seg>
+          <seg xml:id="seg98">Mheshimiwa Naibu Spika, vilevile mkakati huu unalenga kupunguza gharama za nishati safi, vifaa na majiko sanifu ya kupikia, kuimarisha upatikanaji wa malighafi na miundombinu ya uhakika ya nishati safi ya kupikia, kuhamasisha uwekezaji katika nishati safi ya kupikia, pamoja na kuimarisha uelewa wa jamii kuhusu matumizi ya nishati safi ya kupikia.</seg>
+          <seg xml:id="seg99">Mheshimiwa Naibu Spika, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u59" who="NaibuSpika">
+          <seg xml:id="seg100">Mheshimiwa Mtemvu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u60" who="MheIssaJMtemvu">
+          <seg xml:id="seg101">Mheshimiwa Naibu Spika, nashukuru kwa majibu mazuri ya Serikali na naomba kuuliza maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg102">Mheshimiwa Naibu Spika, swali la kwanza, kwa kuwa Mkakati wa Serikali wa mwaka 2020 mpaka 2034 una jukumu muhimu la kupunguza gharama pamoja na kuongeza usambazaji kufikia 80% kwa Watanzania. Je, mpaka sasa mmefikia wapi kwenye eneo la kupunguza gharama na usambazaji kwa Watanzania kuelekea hiyo 80%?</seg>
+          <seg xml:id="seg103">Mheshimiwa Naibu Spika, swali langu la pili, kwa kuwa mkakati huu ni wa miaka kumi na kwa sasa kumekuwa na utumiaji wa nguvu kutafuta Watanzania mmoja mmoja ambao wanatumia mkaa kwenye makazi yetu. Sasa je, kuna kauli ipi ya Serikali juu ya jambo hili, kwa sababu muda bado ni mwingi sana mpaka mwaka 2034? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u61" who="NaMazingira">
+          <seg xml:id="seg104">Mheshimiwa Naibu Spika, ahsante sana, nitumie nafasi hii kumpongeza sana Mheshimiwa Issa Jumanne Mtemvu, Mbunge wa Kibamba kwa kuwa ni rafiki wa mazingira na amekuwa akifuatilia sana mambo yanayohusu mazingira, lakini kwa kuangalia usalama wa watu wetu pamoja na wapiga kura wake wa Kibamba.</seg>
+          <seg xml:id="seg105">Mheshimiwa Naibu Spika, naomba kujibu maswali mawili ya nyongeza kama ifuatavyo; swali la kwanza, kinachofanyika kwa sasa ni kuendelea kuita wawekezaji waje wawekeze katika eneo hili la nishati safi ya kupikia wakati Serikali inaendelea na jukumu na taratibu za kuangalia ni jinsi gani ya kupunguza gharama lakini na kuhakikisha nishati safi ya kupikia inapatikana katika maeneo yote ndani ya Taifa letu kwa bei nafuu na inaweza kununulika kulingana na uwezo wa wananchi wetu. Kwa hiyo, hilo ndilo ambalo linafanyika ndani ya Taifa letu.</seg>
+          <seg xml:id="seg106">Mheshimiwa Naibu Spika, kuhusu swali lake la pili kuhusu kauli ya Serikali, kwanza siyo sahihi kumfata Mtanzania mmoja mmoja kwenye nyumba yake kuangalia ana mkaa au hana mkaa, kwa sababu kinachofanyika ni kurudi kule kwenye misitu yetu ambapo tunazo taasisi zetu zinazosimamia misitu yetu ili isiweze kukatwa kwa sababu ukimfata Mtanzania mmoja mmoja ndani ya nyumba yake huwezi kujua mkaa alionao kama una kibali au hauna kibali.</seg>
+          <seg xml:id="seg107">Mheshimiwa Naibu Spika, kwa hiyo, nawaomba wenzangu ndani ya Serikali ili tuweze kurejea kwenye masharti na kanuni zetu zinavyotuelekeza ili tuweze kulinda mazingira yetu na tuendelee kuelimisha wananchi wetu juu ya umuhimu wa matumizi ya nishati safi ya kupikia na kwa hili nampongeza sana Mheshimiwa Rais wetu, Dkt. Samia Suluhu Hassan, amekuwa ni kiongozi na kinara kwenye eneo hili na tayari tunaraji kwenye tarehe 8 Septemba tutamuona mama mwenyewe akipika jikoni. Hiyo ndiyo njia ya kuhamasisha Watanzania tunayoisema ili wajue kwa nini tunawaelekeza wananchi wetu waelekee kwenye nishati safi ya kupikia kwani ni salama na haina madhara yoyote na gharama yake ni nafuu, nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u62" who="NaibuSpika">
+          <seg xml:id="seg108">Mheshimiwa Mabula na ajiandae Mheshimiwa Shally.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u63" who="MheDktAngelineSLMabula">
+          <seg xml:id="seg109">Mheshimiwa Naibu Spika, ahsante, kwanza nampongeza Mheshimiwa Rais kwa kuwa champion katika matumizi ya nishati safi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u64" who="MheDktAngelineSLMabula">
+          <seg xml:id="seg110">Swali langu ni kwamba, je Serikali haioni ni wakati mwafaka wa kutoa ruzuku katika matumizi ya mitungi ya gesi ili wananchi wengi watumie gesi na waachane na masuala ya kutumia mkaa na kuni ili kulinda mazingira kama ambavyo Serikali inahamasisha? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u65" who="NaibuSpika">
+          <seg xml:id="seg111">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u66" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoNaMazingira">
+          <seg xml:id="seg112">Mheshimiwa Naibu Spika, nakushukuru sana. Naomba kujibu swali moja la nyongeza la Mheshimiwa Mabula, kama ifuatavyo:-</seg>
+          <seg xml:id="seg113">Mheshimiwa Naibu Spika, kama nilivyosema kwenye jibu langu la msingi, tunatekeleza mkakati mahususi wa Taifa juu ya nishati safi ya kupikia ambapo tumeanza mwaka huu 2024 hadi 2034. Moja ya eneo lililopo ndani ya mkakati huu ni kuona jinsi gani Serikali itaweza kushusha bei na unapoongelea kushusha bei ni pamoja na utoaji wa ruzuku ili bei iweze kushuka na Watanzania wengi waweze kufikia kwenye matumizi ya nishati safi na salama ya kupikia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u67" who="NaibuSpika">
+          <seg xml:id="seg114">Mheshimiwa Shally.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u68" who="MheShallyJRaymond">
+          <seg xml:id="seg115">Mheshimiwa Naibu Spika, ahsante sana na nashukuru kwa majibu mazuri na natoa pongezi nyingi kwa Mheshimiwa Rais wetu.</seg>
+          <seg xml:id="seg116">Kwa kuwa Kampuni ya Oryx Tanzania Limited imejitahidi sana kutoa mafunzo kwa Wabunge humu ndani na pia kwa wananchi katika level wilaya hadi kata, je, Serikali iko tayari sasa kupiia kwako Mheshimiwa Waziri kuhakikisha kwamba mafunzo</seg>
+          <seg xml:id="seg117">yale hayasahauliki na hivyo basi wewe uzungumze tena na Oryx tuweze kurudi hasa Wabunge wakiwemo Wabunge wa Viti Maalum kupata mitungi mingine na kwenda kusambaza? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u69" who="NaibuSpika">
+          <seg xml:id="seg118">Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u70" who="WaziriWaNchiOfisiYaMakamuWaRaisMuunganoNaMazingira">
+          <seg xml:id="seg119">Mheshimiwa Naibu Spika, nakushukuru sana, naomba kujibu swali la Mheshimiwa Shally Raymond, kama ifuatavyo:-</seg>
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, nashukuru kwa ombi hili, maana yake ni ombi ameliweka ili tuweze kuongea na ndugu zetu wa Oryx pamoja na kampuni nyingine ili ziweze kuendelea kutoa mitungi hii ya gesi ili tuweze kufikia.</seg>
+          <seg xml:id="seg121">Mheshimiwa Naibu Spika, ndani ya Ofisi ya Makamu wa Rais, Muungano na Mazingira tunashughulika na jambo moja linaloitwa biashara ya kaboni na majiko haya ambayo yamekuwa yakigawiwa tunaangalia uwezekano wa jinsi gani wananchi hawa wanaopata majiko haya wanaingizwa katika mfumo mzima wa biashara ya kaboni ili wawe na uwezo wa kuwa na matumizi endelevu ya majiko haya, kwa sababu matumizi ya majiko haya yanaenda kupunguza ile gesi joto inayozalishwa kwa kutumia nishati isiyosafi na salama ya kupikia.</seg>
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, kwa hiyo, tunahitimisha jambo hili kwa kuongea na kampuni hizi na tutarejea kwa Waheshimiwa Wabunge hasa wa Viti Maalum na hata sisi wa majimbo pia tunastahili ili tuweze kufika kule kwa wananchi wote na tusambaze elimu hii, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u71" who="NaibuSpika">
+          <seg xml:id="seg123">Mheshimiwa Wabunge, tunampongeza Mheshimiwa Rais kwa ku-champion shughuli hii ya nishati safi na kuhakikisha anatoa majiko ya gesi bure kwa Watanzania wote. Mama Samia apewe maua yake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u72" who="NaibuSpika">
+          <seg xml:id="seg124">Waheshimiwa tunaendelea, Wizara ya Katiba na Sheria, Mheshimiwa Cecil Mwambe.</seg>
+        </u>
+        <note>Na. 131. Ujenzi wa Mahakama Kata ya Chikundi – Ndanda</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u73" who="MheCecilDMwambe">
+          <seg xml:id="seg125">Je, lini ahadi ya ujenzi wa Mahakama Kata ya Chikundi - Ndanda itatekelezwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u74" who="NaibuSpika">
+          <seg xml:id="seg126">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u75" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg127">Mheshimiwa Naibu Spika, Serikali kwa kushirikiana na Mahakama ya Tanzania, imeendelea kuimarisha majengo ya Mahakama katika ngazi mbalimbali, ikiwa ni pamoja na kujenga majengo mapya na kukarabati yaliyo katika hali ya uchakavu.</seg>
+          <seg xml:id="seg128">Mheshimiwa Naibu Spika, kwa sasa mradi wa ujenzi wa Jengo la Mahakama ya Mwanzo Chikundi unatekelezwa kwa kutumia bajeti ya mwaka 2024/2025 na mkandarasi yupo eneo la site na ujenzi unaendelea, nashukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u76" who="NaibuSpika">
+          <seg xml:id="seg129">Mheshimiwa Mwambe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u77" who="MheCecilDMwambe">
+          <seg xml:id="seg130">Mhesimiwa Naibu Spika, kwanza nashukuru kwa majibu mazuri sana ya Mheshimiwa Naibu Waziri. Ni kweli mkandarasi yuko site anaendelea na ujenzi Chikundi na kazi hiyo inaenda kwa kasi sana, naamini ndani ya muda mfupi itakamilika.</seg>
+          <seg xml:id="seg131">Mheshimiwa Naibu Spika, hata hivyo ni kwamba mahitaji ya majengo ya Mahakama ni makubwa. Tunatambua ni maeneo mengi. Hivi sasa Kata ya Lukuledi ambayo inasimamia kwenye Tarafa ya Lisekese wanatoa huduma za Mahakama kupitia Ofisi ya Kata ambayo inamlazimu Hakimu baada ya kutoa hukumu</seg>
+          <seg xml:id="seg132">abebe ma-file yake pamoja na documents nyingine na kusafiri nazo zaidi ya kilometa 40 kwenda kuzihifadhi Masasi.</seg>
+          <seg xml:id="seg133">Mheshimiwa Naibu Spika, naiomba Serikali ione uwezekano wa kujenga jengo la Mahakama kwenye Kata ya Lukuledi ambako tayari eneo lilishatengwa kwa ajili ya Tarafa ya Lisekese. Naipongeza sana Serikali kwa kutekeleza hayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u78" who="NaibuSpika">
+          <seg xml:id="seg134">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u79" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg135">Mhehimiwa Naibu Spika, kwanza nashukuru kwa shukrani hizi anazozitoa Mheshimiwa Mbunge na kwa kweli shukrani zimwendee Rais wa Jamhuri ya Muungano wa Tanzania, Dkt. Samia Suluhu Hassan ambaye kwa dhamira safi ameamua kuimarisha sekta ya utoaji haki na haki jinai katika nchi yetu, ikiwa ni pamoja na kuimarisha hii sekta ya Mahakama.</seg>
+          <seg xml:id="seg136">Mheshimiwa Naibu Spika, kwa hiyo ombi lake juu ya Kata yake ya Lukuledi kule Masasi tutaona uwezekano wakati tunahuisha mpango wa awamu ya pili ya ujenzi na uimarishaji wa sekta ya Mahakama uwezekano wa kuiingiza Mahakama aliyoitaja katika mpango wa ujenzi, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u80" who="NaibuSpika">
+          <seg xml:id="seg137">Ahsante, Mheshimiwa Jackson Kiswaga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u81" who="MheJacksonGKiswaga">
+          <seg xml:id="seg138">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza, katika Tarafa ya Kiponzelo, Kata ya Kiponzelo, Kijiji cha Kiponzelo lipo Baraza la Mkoloni/Baraza la Chifu. Nilishaomba tujengewe Mahakama pale ili tuboreshe huduma za Mahakama, je, ni lini sasa Serikali itazingatia ombi hilo halali? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u82" who="NaibuSpika">
+          <seg xml:id="seg139">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u83" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg140">Mheshimiwa Naibu Spika, naomba nilipokee ombi la Mheshimiwa Mbunge, lakini nakiri kwamba Serikali imefanya juhudi ya kuanza kujenga majengo ya Mahakama za Wilaya maeneo ambayo haikuwa</seg>
+          <seg xml:id="seg141">nazo, na najua katika Mkoa wa Iringa ni moja ya wilaya zilizonufaika. Sasa hii Kiponzelo aliyoitaja tutaona uwezekano wa kuiingiza katika mpango wa ujenzi tutakapohuisha mkakati wa uimarishaji wa sekta ya Mahakama, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u84" who="NaibuSpika">
+          <seg xml:id="seg142">Mheshimiwa Kuchauka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u85" who="MheZuberiMKuchauka">
+          <seg xml:id="seg143">Mheshimiwa Naibu Spika, ahsante kwa nafasi.</seg>
+          <seg xml:id="seg144">Mheshimiwa Naibu Spika, uhitaji wa Mahakama za Mwanzo kwenye Tarafa za Kibutuka na Makata, Wilayani Liwale ni mkubwa sana, je, Serikali iko tayari kutimiza ahadi hiyo ya kujenga hizo Mahakama za Mwanzo kwenye Tarafa hizo mbili?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u86" who="NaibuSpika">
+          <seg xml:id="seg145">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u87" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg146">Mhehimiwa Naibu Spika, kama nilivyosema kwenye jibu la msingi, Serikali ina dhamira ya kuendelea kuimarisha utoaji wa haki kwa wananchi kupitia Mahakama yake ikiwa ni pamoja na kupeleka hizi huduma karibu na wananchi. Kwa hiyo, kipaumbele ni kwenye tarafa ambazo hazina kabisa Mahakama zikiwemo hizo za Kibutuka na Makata.</seg>
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, napokea ushauri wa Mheshimiwa Mbunge kwamba wakati kutekeleza mpango wa awamu ya pili ya ujenzi tarafa alizozitaja Idara ya Mahakama ione uwezekano wa kuziingiza katika mapngo wa ujenzi, nashukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u88" who="NaibuSpika">
+          <seg xml:id="seg148">Mheshimiwa Bidyanguze.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u89" who="MheNashonWBidyanguze">
+          <seg xml:id="seg149">Mheshimiwa Naibu Spika, ahsante, naomba niulize swali kwamba ni lini Mahakama ya Mwanzo ya pale Buhingu itajengwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u90" who="NaibuSpika">
+          <seg xml:id="seg150">Mheshimiwa Waiziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u91" who="NaibuWaziriWaKatibaNaSheria">
+          <seg xml:id="seg151">Mhehimiwa Naibu Spika, naomba tu nipokee ombi la Mheshimiwa Mbunge juu ya</seg>
+          <seg xml:id="seg152">kujenga hii Mahakama ya Mwanzo kwa sababu kama nilivyosema kwenye majibu ya Waheshimiwa Wabunge kwenye maswali yao ya nyongeza, kipaumbele tulianza na Mahakama Jumuishi ngazi ya mikoa. Tumeingia ngazi ya wilaya kuhakikisha kwamba wilaya zote zinapata Mahakama na sasa tunashuka kwenda kwenye Mahakama za Mwanzo.</seg>
+          <seg xml:id="seg153">Mheshimiwa Naibu Spika, kwa hiyo, kadiri hali ya fedha itakavyoruhusu na kwa mazungumzo yetu na wadau wa maendeleo Mahakama ya Mwanzo aliyoitaja Mheshimiwa Mbunge kule Mkoani Kigoma itazingatiwa, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u92" who="NaibuSpika">
+          <seg xml:id="seg154">Waheshimiwa tunaendelea, Wizara ya Mifugo na Uvuvi, Mheshimiwa Joseph Tadayo.</seg>
+        </u>
+        <note>Na. 132. Mnada wa Mifugo Kata ya Kileo Mwanga Kufunguliwa</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u93" who="MheJosephATadayo">
+          <seg xml:id="seg155">Je, lini mnada wa mifugo uliojengwa kwa gharama ya shilingi milioni 600 katika Kata ya Kileo, Wilayani Mwanga utafunguliwa na kuanza kazi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u94" who="NaibuSpika">
+          <seg xml:id="seg156">Mheshimiwa Waiziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u95" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg157">Mheshimiwa Naibu Spika, Serikali kupitia Wizara ya Mifugo na Uvuvi inawajibu wa kuhakikisha kuwa biashara ya mifugo inafanyika katika mazingira yenye miundombinu muhimu ili kurahisisha biashara hiyo. Katika kufanikisha hilo, Serikali hujenga na kukarabati miundombinu hiyo ili kuboresha mazingira ya biashara ya mifugo hapa nchini katika minada ya mifugo ya awali, upili na mipakani ukiwemo Mnada wa Kileo.</seg>
+          <seg xml:id="seg158">Mheshimiwa Naibu Spika, Serikali ilijenga miundombinu mbalimbali katika Mnada wa Kileo ikiwemo ukuta, vipakilio, ofisi</seg>
+          <seg xml:id="seg159">na mazizi. Hata hivyo, kulingana na matakwa ya kibiashara ya mifugo minadani kuna miundombinu michache ya msingi ambayo inahitaji kukamilishwa.</seg>
+          <seg xml:id="seg160">Mheshimiwa Naibu Spika, Wizara kwa kushirikiana na Halmashauri ya Mwanga itafanya ukarabati wa dharura wa haraka wa choo cha mnada ili mnada uanze kutumika. Wizara imepanga kufanya ukarabati huo wa robo ya pili ya bajeti ya mwaka 2024/2025. Aidha, ujenzi wa miundombinu iliyobaki utafanyika katika mpango wa bajeti wa mwaka 2025/2026 wakati mnada ukiendelea kutumika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u96" who="NaibuSpika">
+          <seg xml:id="seg161">Mheshimiwa Tadayo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u97" who="MheJosephATadayo">
+          <seg xml:id="seg162">Mheshimiwa Naibu Spika, pamoja na majibu ya Serikali, naomba kuuliza swali na kusema yafuatayo:-</seg>
+          <seg xml:id="seg163">Mheshimiwa Naibu Spika, kwa kuwa mojawapo ya changamoto kubwa sana za Halmashauri ya Mwanga ni suala zima la mapato na wananchi wa Mwanga walikuwa wanasubiri sana mnada huu ufunguliwe ili waweze kupata mapato na kwa vile mnada huu kila kitu kilijengwa kipya kabisa, lakini kikaachwa na kutokufunguliwa mpaka leo vimechakaa.</seg>
+          <seg xml:id="seg164">Mheshimiwa Naibu Spika, na kwa kuwa sasa tunaambiwa mnada haufunguliwa kwa sababu ya choo tu, je, Mheshimiwa Naibu Waziri yuko tayari kuambatana nami mara baada ya Bunge hili kwanza, akaone hali halisi ilivyo na kwamba uhalisia siyo huo anaouzungumza na pili aturuhusu tukarabati kile choo kwa makubaliano kwamba anatupa tarehe ya kufungua ule mnada ili tuendelee kupata mapato kutoka kwenye chanzo kile kikubwa sana cha mapato? Ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u98" who="NaibuSpika">
+          <seg xml:id="seg165">Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u99" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg166">Mheshimiwa Naibu Spika, moja niko tayari kuambatana na Mheshimiwa Mbunge baada ya Bunge hili Tukufu kukamilika vikao vyake, lakini pili,</seg>
+          <seg xml:id="seg167">Wanamwanga kupitia halmashauri yao ya wilaya wanaruhusiwa kukarabati mnada huo kwa maeneo ambayo wanaona haya yana changamoto. Pia wanaruhusiwa kufanya ujenzi wa choo hicho, kwa sababu Serikali hii ni moja, siyo lazima kusubiri pesa zitoke Serikali Kuu ama zitoke Wizarani ndiyo ziende kufanya ukarabati katika mazingira ambayo wao wanaweza.</seg>
+          <seg xml:id="seg168">Mheshimiwa Naibu Spika, kwa hiyo, nimhakikishie Mheshimiwa Mbunge sisi kama Wizara tuko tayari kuwapa ushirikiano Halmashauri ya Mwanga, lakini maeneo ambayo wanaona wanaweza kufanya ukarabati ama wanaweza kujenga choo, sisi wala hatuna tatizo na hilo wanaweza wakaendelea na mnada ukaendelea kutumika kama kawaida, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u100" who="NaibuSpika">
+          <seg xml:id="seg169">Mheshimiwa Asia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u101" who="MheAsiaAHalamga">
+          <seg xml:id="seg170">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg171">Mheshimiwa Naibu Spika, Wilaya ya Hanang ina ng’ombe zaidi ya 300,000 na tuna magulio 17. Je, ni lini Serikali itajenga miundombinu kwa Mnada wa Endasak na Katesh walau wa kuanzia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u102" who="NaibuSpika">
+          <seg xml:id="seg172">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u103" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, ni kweli anavyosema Mheshimiwa Mbunge, Wilaya ya Hanang ina mahitaji makubwa ya ujenzi wa minada, lakini mchakato wa kibajeti huanzia chini. Wananchi wanapoanzisha mradi wao chini kwa mapendekezo katika mpango wa bajeti yakifika huku juu sisi tuko tayari kutekeleza ujenzi wa mnada huo.</seg>
+          <seg xml:id="seg174">Mheshimiwa Naibu Spika, kwa hiyo, nimuombe Mheshimiwa Mbunge arudi kule jimboni, awaeleze wananchi kwamba wanaweza kuanzisha mchakato wa mawazo ya kuanza kuingiza kwenye mpango wa bajeti ya mwaka 2024/2025 ili tuweze kuingiza kwenye mpango wa bajeti kuu, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u104" who="MnaibuSpika">
+          <seg xml:id="seg175">Mheshimiwa Felix.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u105" who="MheKavejuruEFelix">
+          <seg xml:id="seg176">Mheshimiwa Naibu Spika, Wilayani Buhigwe kuna mnada wa Serikali ambao umejengwa na umekamilika takribani miaka mitatu sasa, lakini haujafunguli, lini utafunguliwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u106" who="NaibuSpika">
+          <seg xml:id="seg177">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u107" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg178">Mheshimiwa Naibu Spika, mnada huko Buhigwe kama umekamilika na miundombinu yote iko tayari na kama tayari Halmashauri ya Wilaya wameshakabidhiwa mnada huo, sisi Wizara hatuna kipingamizi chochote tunawaruhusu wanaweza kuendelea kuutumia kwa mujibu wa taratibu na sheria ambazo zipo, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u108" who="NaibuSpika">
+          <seg xml:id="seg179">Mheshimiwa Matiko.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u109" who="MheEstherNMatiko">
+          <seg xml:id="seg180">Mheshimiwa Naibu Spika, Mnada wa Magena uliopo katika Halmashauri ya Mji wa Tarime ni mnada wa kimkakati kwa sababu upo mpakani. Serikali kupitia aliyekuwa Waziri kipindi hicho Mheshimiwa Mashimba walitembelea ule mnada na kuahidi kuboresha miundombinu ya mnada ule na kuanza kufanyakazi mara moja, lakini mpaka sasa hivi takribani miaka mitatu imeshapita mnada huo haujaanza kufanya kazi. Nataka kujua ni lini mnada huo utaanza kufanya kazi ili kuweza kuongeza pato la Taifa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u110" who="NaibuSpika">
+          <seg xml:id="seg181">Mheshimjiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u111" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg182">Mheshimiwa Naibu Spika, ni kweli Mheshimiwa Ndaki alitembelea mnada huo ambao uko Tarime na akatoa maelekezo mnada uanze kufanya kazi na mimi nasisitiza tena kuzielekeza Mamlaka za Serikali za Mtaa zinazohusika ambao ndiyo wasimamizi wa mnada huo kuanza mara moja matumizi ya mnada huo, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u112" who="NaibuSpika">
+          <seg xml:id="seg183">Waheshimiwa tunaendelea, Mheshimiwa Omar Issa Kombo.</seg>
+          <seg xml:id="seg184">Ununuzi wa Meli Nane za Uvuvi</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u113" who="MheOmarIssaKombo">
+          <seg xml:id="seg185">Je, lini Serikali itanunua meli nane za uvuvi ikiwa ni sehemu ya utekelezaji wa Ilani ya CCM 2020 – 2025?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u114" who="NaibuSpika">
+          <seg xml:id="seg186">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u115" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg187">Mheshimiwa Naibu Spika, ununuzi wa meli nane za uvuvi kama ilivyoelekezwa kwenye Ilani ya Uchaguzi ya CCM wa mwaka 2020, Ibara ya 43(b) unaendelea kupitia Shirika la Uvuvi Tanzania (TAFICO) meli nne na Kampuni ya Uvuvi Zanzibar (ZAFICO) meli nne. Aidha, kati ya meli nne za TAFICO, Shirika limeanza na ununuzi wa meli mbili za awali za uvuvi wa bahari kuu kutumia mishipi (long line fishing vessel). Meli hizi zitanunuliwa na Serikali, kupitia Programu ya Kuendeleza Kilimo na Uvuvi (AFDP) kwa mkopo wenye masharti nafuu kutoka Mfuko wa Kimataifa wa Kuendeleza Kilimo (IFAD).</seg>
+          <seg xml:id="seg188">Mheshimiwa Naibu Spika, kwa upande wa meli mbili za awali hatua iliyofikiwa hadi sasa ni kama ifuatavyo:-</seg>
+          <seg xml:id="seg189">(i) Kukamilika kwa msawazo (specification) za meli mbili</seg>
+          <seg xml:id="seg190">zenye urefu wa meta-39.9;</seg>
+          <seg xml:id="seg191">(ii) Kukamilika kwa Tathmini ya Athari za Mazingira na</seg>
+          <seg xml:id="seg192">Kijamii za Uvuvi wa Bahari Kuu;</seg>
+          <seg xml:id="seg193">(iii) Kukamilika kwa upembuzi yakinifu wa awali (pre -</seg>
+          <seg xml:id="seg194">feasibility study) na upembuzi yakinifu kamili (full</seg>
+          <seg xml:id="seg195">feasibility study) wa ununuzi na uendeshaji wa meli; na</seg>
+          <seg xml:id="seg196">(iv) Kwa sasa maandalizi ya nyaraka kwa ajili ya kutangaza</seg>
+          <seg xml:id="seg197">zabuni yanaendelea.</seg>
+          <seg xml:id="seg198">Mheshimiwa Naibu Spika, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u116" who="NaibuSpika">
+          <seg xml:id="seg199">Mheshimiwa Kombo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u117" who="MheOmarIssaKombo">
+          <seg xml:id="seg200">Mheshimiwa Naibu Spika, ahsante na naipongeza Serikali kwa majibu, lakini naomba niulize maswali mawili ya nyongeza kama ifuatavyo: -</seg>
+          <seg xml:id="seg201">Mheshimiwa Naibu Spika, kwa kuwa Ilani imeelekeza kwamba ununuzi wa meli hizi ni kwa kuzingatia pande mbili za Muungano na Mheshimiwa Waziri amesema kuna mchakato wa ununuzi wa meli mbili.</seg>
+          <seg xml:id="seg202">Je, Zanzibar inakwenda kunufaika vipi kutokana na ununuzi wa meli hizo mbili za awali?</seg>
+          <seg xml:id="seg203">Swali la pili, je, kuna ushirikiano gani kati ya ZAFICO na TAFICO katika ununuzi wa meli hizo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u118" who="NaibuSpika">
+          <seg xml:id="seg204">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u119" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg205">Mheshimiwa Naibu Spika, nianze na hili la kwanza, Mheshimiwa Mbunge anataka kujua Zanzibar inanufaika vipi?</seg>
+          <seg xml:id="seg206">Mheshimiwa Naibu Spika, kama nilivyosema katika jibu la msingi meli ziko nane na meli hizi zimegawanywa katika pande zote mbili, Bara meli nne na Zanzibar meli nne. Kama nilivyosema kupitia TAFICO tayari meli mbili zabuni zimeshatangazwa na kwa bahati nzuri sana kule Zanzibar tayari wao walishafika mbali zaidi kwenye mchakato wa manunuzi wa meli hizi.</seg>
+          <seg xml:id="seg207">Mheshimiwa Naibu Spika, kwa hiyo kupitia taratibu za kimanunuzi Zanzibar wao wanaendelea na utaratibu wao na kwa sababu tulishagawana meli hizi na huku Bara nao wanaendelea na utaratibu wao. Kwa hiyo, namhakikishia Mheshimiwa Mbunge kwamba meli hizi zitakaponunuliwa pande zote mbili zitanufaika na manunuzi ya meli hizi na kila kitu kitakwenda sawa sawa.</seg>
+          <seg xml:id="seg208">Mheshimiwa Naibu Spika, kuhusu uhusiano kati ya ZAFICO na TAFICO, mashirika haya ni ya umma, yanashirikiana katika kubadilishana utaalam, kufanya utafiti na mambo mengine, lakini kazi kwa maana ya kazi hizi za uvuvi na shughuli zote zinazohusiana na masuala ya uvuvi ushirikiano wa mashirika haya ni mkubwa na wanashirikiana kwa karibu sana, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u120" who="NaibuSpika">
+          <seg xml:id="seg209">Mheshimiwa Mkundi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u121" who="MheJosephMMkundi">
+          <seg xml:id="seg210">Mheshimiwa Naibu Spika, nashukuru, hivi tunavyoongea kuna sintofahamu kwenye ukanda wote unaozunguka Ziwa Victoria hasa Visiwa vya Ukerewe kwamba kuanzia sasa muda wowote Ziwa Victoria litafungwa.</seg>
+          <seg xml:id="seg211">Je, Serikali inaweza kutoa kauli kuondoa sintofahamu hii kwa wananchi hasa wa visiwa vya Ukerewe? Nashukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u122" who="NaibuSpika">
+          <seg xml:id="seg212">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u123" who="NaibuWaziriWaMifugoNaUvuvi">
+          <seg xml:id="seg213">Mheshimiwa Naibu Spika, hii sintofahamu ya kufunga ziwa sijajua wanaitoa wapi, kwa sababu wako wataalamu wa propaganda wanatengeneza maneno wanayasambaza kwa wavuvi kuleta taharuki. Serikali mpaka sasa haina mpango wowote wa kufunga Ziwa Victoria mpaka hapo itakapokuwa imesema baadaye. Kama kutakuwa na umuhimu wa kufunga Ziwa Victoria, Serikali itafuata michakato yote na taratibu zote kuanzia chini mpaka juu ili maamuzi ya kufunga ziwa yawe ni maamuzi ya wote na siyo maamuzi ya mtu mmoja, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u124" who="NaibuSpika">
+          <seg xml:id="seg214">Ahsante. Waheshimiwa tunaendelea Wizara ya Maji, Mheshimiwa Josephine Chagula.</seg>
+        </u>
+        <note>Na. 134. Tatizo la Maji Mkoa wa Geita</note>
+        <note>K.n.y. MHE JOSEPHINE T. CHAGULA</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u125" who="MheJosephKMusukuma">
+          <seg xml:id="seg215">Je, lini Serikali itamaliza tatizo la maji katika Mkoa wa Geita?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u126" who="NaibuSpika">
+          <seg xml:id="seg216">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u127" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg217">Mheshimiwa Naibu Spika, kwa mujibu wa sensa ya mwaka 2022 Mkoa wa Geita ulikuwa na wakazi wapatao 2,977,608 na kwa makadirio ya ongezeko la 5.4% kwa mwaka. Kwa sasa mkoa unakadiriwa kuwa na wakazi wapatao 3,307,872. Hali ya upatikanaji wa huduma ya majisafi na salama mkoani humo ni wastani wa 65% vijijini na 75% mijini.</seg>
+          <seg xml:id="seg218">Mheshimiwa Naibu Spika, katika kuhakikisha maeneo yote ya Mkoa wa Geita yanafikiwa na huduma ya majisafi na salama, Serikali inaendelea na utekelezaji wa miradi ya maji 59 katika maeneo mbalimbali ya mijini pamoja na vijijini mkoani humo.</seg>
+          <seg xml:id="seg219">Mheshimiwa Naibu Spika, kukamilika kwa miradi inayoendelea kunatarajia kufikisha huduma ya maji kwenye Mkoa wa Geita kwa wastani wa 88% vijijini na 98% mijini ifikapo mwezi Desemba, 2025.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u128" who="NaibuSpika">
+          <seg xml:id="seg220">Mheshimiwa Musukuma.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u129" who="MheJosephKMusukuma">
+          <seg xml:id="seg221">Mheshimiwa Naibu Spika, nakushukuru na naomba kumuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg222">Swali la kwanza, suluhisho la maji Mji wa Geita ni ule Mradi wa Miji 28 na ninatambua Mheshimiwa Waziri umefanya ziara hivi karibuni umeona jinsi utekelezaji wake unavyosuasua. Sasa ni mkakati gani wa Serikali wa kumsukuma mkandarasi ili aweze kuongeza speed ili kumaliza tatizo la maji Geita?</seg>
+          <seg xml:id="seg223">Mheshimiwa Naibu Spika, swali la pili, wananchi wa Kata ya Bugarama, Mkolani, Yarubanga, Ibisabageni na Kamhanga iliyoko katika Jimbo la Geita hawajawahi kabisa kupata maji ya bomba ilihali wako kilometa 20 tu kutoka ziwani. Mheshimiwa Waziri, uko tayari kufuatana na mimi kwenda kuona wananchi</seg>
+          <seg xml:id="seg224">wale katika kata hizo ili uweze kuweka kwenye bajeti yako ya mwaka 2025/2026? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u130" who="NaibuSpika">
+          <seg xml:id="seg225">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u131" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg226">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Joseph Kasheku Musukuma, Mbunge wa Geita Vijijini, kama ifuatavyo: -</seg>
+          <seg xml:id="seg227">Mheshimiwa Naibu Spika, ni kweli kabisa tatizo la maji katika Kata hizi za Bugarama na Mkolani kama ambavyo Mheshimiwa Mbunge alivyozitaja zina changamoto ya maji. Ninaendelea kumpongeza, Mheshimiwa Mbunge anaendelea kutupatia ushirikiano mzuri sana katika kuhakikisha kwamba utekelezaji wa miradi ya maji unaendelea vizuri na kutupatia taarifa pale panapohitajika. Kwa kweli amekuwa mstari wa mbele kuwatetea wananchi wake kupata huduma ya maji safi na salama. Hivyo basi, Serikali kupitia Wizara ya Maji tuko tayari kuongozana naye kwenda kujionea hali halisi na namna ambavyo tutachukua hatua stahiki na kuweka kwenye bajeti ya mwaka 2025/2026 kama ambavyo Mheshimiwa Mbunge ameomba. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u132" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg228">Mheshimiwa Naibu Spika, swali la pili, Mradi wa Miji 28 ni kweli kabisa nilifanya ziara katika mradi huu nikakuta uko katika 10% lakini nikagundua kwamba mkandarasi hakuwa na wafanyakazi wa kutosha, lakini pia kazi zilivyokuwa zinaendelea hazikuwa zinaridhisha. Nilitoa maelekezo waongeze nguvu kazi, lakini vilevile wahakikishe kwamba wanafanya kazi usiku na mchana kwa sababu mradi huu unatakiwa kukamilika ifikapo Machi, 2025. Hivyo, tunaendelea ku-monitor na kuona progress inaendeleaje ili kuhakikisha kwamba maji yanapatikana kwa wakati, ahsante sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u133" who="NaibuSpika">
+          <seg xml:id="seg229">Ahsante, Mheshimiwa Maimuna.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u134" who="MheMaimunaSMtanda">
+          <seg xml:id="seg230">Mheshimiwa Naibu Spika, nakushukuru kwa kunipatia nafasi hii.</seg>
+          <seg xml:id="seg231">Mheshimiwa Naibu Spika, ili kukabiliana na changamoto ya maji katika majimbo ya Newala Mjini, Newala Vijijini, Tandahimba pamoja na Nanyamba, Serikali ilituweka katika Mradi wa Miji 28 wa kukarabati mradi mkubwa wa Makonde ulioko Newala Vijijini. Hata hivyo, mradi ule unasua sua kwa changamoto ya fedha. Je, lini Serikali itatupatia fedha ili mradi ule uweze kuendelea na wananchi wainuliwe kupata maji? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u135" who="NaibuSpika">
+          <seg xml:id="seg232">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u136" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg233">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Maimuna, kama ifuatavyo: -</seg>
+          <seg xml:id="seg234">Mheshimiwa Naibu Spika, nampongeza sana Mheshimiwa Maimuna kwa kazi kubwa anayoifanya kwa jimbo lake na wananchi wake kuendelea kuwatetea kupata huduma mbalimbali ikiwemo huduma ya maji safi na salama.</seg>
+          <seg xml:id="seg235">Mheshimiwa Naibu Spika, ni kweli Mradi wa Miji 28 unahitaji msukumo na Mheshimiwa Waziri ameshatoa maelekezo mahsusi kuhakikisha kwamba miradi hiyo ianze kwenda kwa haraka zaidi. Vilevile ili kutatua changamoto ya maji lazima Serikali tuwe na mpango wa muda mfupi, kati na muda mrefu. Mradi huu wa Miji 28 ni mpango wa muda mrefu, lakini sasa Serikali kupitia visima 900 ambavyo tunaenda kuvichimba nchi nzima, tunaamini kwamba katika maeneo ya Newala yataenda kupata maji ya visima kwanza wakati mradi huu mkubwa ukiendelea kutekelezwa. Sisi tutaendelea kuhakikisha kwamba tunapeleka fedha ili mradi huu ukamilike kwa wakati na wananchi wa maeneo hayo waweze kunufaika na huduma ya maji safi na salama, nakushukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u137" who="NaibuSpika">
+          <seg xml:id="seg236">Mheshimiwa Maganga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u138" who="MheNicodemasHMaganga">
+          <seg xml:id="seg237">Mheshimiwa Naibu Spika,</seg>
+          <seg xml:id="seg238">Mheshimiwa Naibu Spika, kwanza namshukuru Naibu Waziri wa Maji kwa kutupa visima vya maji vile vidogo, lakini siyo muarobaini wa kumaliza shida za maji Wilayani Mbogwe.</seg>
+          <seg xml:id="seg239">Mheshimiwa Naibu Spika, lini mradi mkubwa wa Ziwa Victoria utafanywa ili kusudi Mbogwe tupate maji kwa sababu changamoto bado ni kubwa na wewe juzi ulifika uliona hali. Sasa Serikali ina mpango gani ili kusudi ituingizie huo mradi mkubwa wa maji? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u139" who="NaibuSpika">
+          <seg xml:id="seg240">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u140" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg241">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Maganga, Mbunge wa Mbogwe, kama ifuatavyo: -</seg>
+          <seg xml:id="seg242">Mheshimiwa Naibu Spika, ni kweli kabisa nilifika Mbogwe na kujionea tatizo. Kwanza kabisa kutambua kuna tatizo ni moja ya usuluhishi wa tatizo, kwa sababu sasa tunajua ni nini tunachotakiwa kwenda kukifanya na ndiyo maana tukaanza kumpatia visima kwanza ili wananchi wake waendelee kupata maji wakati Serikali ikifanya mchakato wa kuhakikisha tunapata fedha ya kusukuma mradi wa maji ya kutoka Ziwa Victoria ili wananchi wa Mbogwe wasiwe na changamoto ya upatikanaji wa wingi wa maji. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u141" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg243">Mheshimiwa Naibu Spika, tunapokea kama Serikali, tunalifanyia kazi kwa kadri ambavyo pesa itapatikana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u142" who="NaibuSpika">
+          <seg xml:id="seg244">Ahsante. Mheshimiwa Kapufi, ajiandae Mheshimiwa Gulamali.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u143" who="MheSebastianSKapufi">
+          <seg xml:id="seg245">Mheshimiwa Naibu Spika, nakushukuru, Manispaa ya Mpanda iko katika Miji 28 na wapo wananchi waliopisha mradi huo kupitia Bwawa la Milala hawajalipwa fidia. Ni lini watalipwa fidia? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u144" who="MheSebastianSKapufi">
+          <seg xml:id="seg246">kujibu swali la Mheshimiwa Kapufi, Mbunge wa Mpanda, kama ifuatavyo: -</seg>
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, kwa sababu ni suala specific na kwa sababu linagusa maisha ya watu ambao kwa uzalendo wao wamepisha ili mradi uweze kutekelezwa, naomba nilipokee ili tukalifanyie kazi na tuone ni nini ambacho kimebaki kuhakikisha kwamba wananchi hao wanalipwa fidia yao ili mradi huo uweze kuwa na amani kabisa wakati wa utekelezaji wake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u145" who="MheSeifKSGulamali">
+          <seg xml:id="seg248">Mheshimiwa Naibu Spika, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u146" who="NaibuSpika">
+          <seg xml:id="seg249">Mheshimiwa Gulamali sijakuita, nimekwambia ujiandae.</seg>
+          <seg xml:id="seg250">Mheshimiwa Gulamali. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u147" who="MheSeifKSGulamali">
+          <seg xml:id="seg251">Mheshimiwa Naibu Spika, nakushukuru sana kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg252">Mheshimiwa Naibu Waziri, tunayo miradi ya maji pale katika Mji wa Chomachankola na Nkinga kwenda Nsimbo na miradi hii inaenda kwa kusua sua. Je, ni lini Wizara mtakuja kutembelea miradi hii kuikagua kuona maendeleo yake? ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u148" who="NaibuSpika">
+          <seg xml:id="seg253">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u149" who="NaibuWaziriWaMaji">
+          <seg xml:id="seg254">Mheshimiwa Naibu Spika, napenda kujibu swali la nyongeza la Mheshimiwa Gulamali, kama ifuatavyo:-</seg>
+          <seg xml:id="seg255">Mheshimiwa Naibu Spika, tayari Waziri wa Maji, Mheshimiwa Jumaa Hamidu Aweso amenielekeza kwenda Mkoa wa Tabora kufanya ziara na kujionea miradi yote ambayo ina changamoto ili tuweze kutoa maelekezo ya kuikwamua na kama inahitaji pesa basi Serikali itoe fedha kuhakikisha kwamba miradi hiyo inakamilika kwa wakati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u150" who="NaibuSpika">
+          <seg xml:id="seg256">Ahsante. Wizara ya Kilimo, Mheshimiwa Abeid Ighondo.</seg>
+        </u>
+        <note>Na. 135. Changamoto Iliyojitokeza Kwenye Mfumo Mpya wa Kuuza Mazao</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u151" who="NaibuSpika">
+          <seg xml:id="seg257">ya Dengu na Mbaazi</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u152" who="MheAbeidRIghondo">
+          <seg xml:id="seg258">Je, Serikali imejipangaje kutatua changamoto zilizojitokeza kwenye mfumo mpya wa stakabadhi ghalani wa kuuza mazao ya dengu na mbaazi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u153" who="NaibuSpika">
+          <seg xml:id="seg259">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u154" who="WaziriWaKilimo">
+          <seg xml:id="seg260">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Abeid Ighondo Ramadhani, Mbunge wa Singida Kaskazini, kama ifuatavyo: -</seg>
+          <seg xml:id="seg261">Mheshimiwa Naibu Spika, Mfumo wa Stakabadhi Ghalani unatelelezwa chini ya Sheria ya Usalama wa Chakula, Sura 249 pamoja na marekebisho yaliyofanywa na Sheria ya Nafaka na Mazao Mchanganyiko, Sura 274 na Sheria ya Stakabadhi za Ghala, Sura 339. Serikali imeendelea kukabiliana na changamoto za utekelezaji wa mfumo wa TMX hususani katika maeneo mapya ikiwemo Mkoa wa Singida na baadhi ya Mikoa ya Kanda ya Kati ikiwemo Tabora na Dodoma. Serikali inaendelea kutoa elimu kwa lengo la kutatua changamoto hizo.</seg>
+          <seg xml:id="seg262">Mheshimiwa Naibu Spika, kabla ya Mfumo wa Stakabadhi Ghalani, Mkoa wa Singida walikuwa wanauza dengu na mbaazi mtaani kwa bei isiyozidi kati ya shilingi 1,000 hadi 1,300. Wafanyabiashara walikuwa wanaenda kununua na kuuza kwenye masoko ya Dar es Salaam au Dodoma Mjini kwa shilingi 1,800. Baada ya kuanza kutekeleza minada, bei ya mnada katika Mkoa wa Singida imekuwa kati ya shilingi 1,733 hadi 2,060 kwa</seg>
+          <seg xml:id="seg263">zao la dengu na bei za mbaazi zimekuwa kati ya shilingi 1,840 hadi 2,060.</seg>
+          <seg xml:id="seg264">Mheshimiwa Spika, ninakiri zipo changamoto, lakini Serikali inaendelea kuhakikisha kupitia mifumo ya minada bei halisi za mazao zinapatikana na wanunuzi wanashiriki wao wenyewe badala ya kutumia watu wa kati. Maamuzi ya Serikali ni kuendelea na Mfumo wa Stakabadhi Ghalani kwani pamoja na changamoto zilizopo, njia hii ndiyo njia pekee ya kuweza kutambua bei halisi ya mazao na kuhakikisha wakulima wanalipwa bei halisi ya soko.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u155" who="NaibuSpika">
+          <seg xml:id="seg265">Mheshimiwa Ighondo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u156" who="MheAbeidRIghondo">
+          <seg xml:id="seg266">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa tena fursa. Kwanza naishukuru au naipongeza Serikali kwa kutuletea mfumo huu ambao kimsingi unamuondoa dalali na unamkutanisha mkulima na mfanyabiashara au mnunuzi. Hata hivyo, ningependa kumuuliza Mheshimiwa maswali mawili madogo.</seg>
+          <seg xml:id="seg267">Mheshimiwa Naibu Spika, la kwanza, ni zipi changamoto, maana yake hajazitaja na yeye kwenye majibu amekiri kwamba ni kweli huu mfumo una changamoto. Ningependa na yeye atuambie hizi changamoto ni zipi. Kwa ufupi mimi moja ambayo ninaiona kwanza kuna kuyumba kwa bei ambayo mnada wa kwanza ulifanyika ulikuwa na shilingi 2,040 lakini bei imekuwa ikishuka. Mnada wa pili ilikuwa shilingi 1,970, shilingi 1,980 na sasa kuna shilingi 1,766. Kwa hiyo, ni mkakati upi wa kuhakikisha bei haiyumbi, lakini pia wakulima wasitembee umbali mrefu kufuata maghala?</seg>
+          <seg xml:id="seg268">Mheshimiwa Naibu Spika, swali la pili, ningependa kujua Mheshimiwa Waziri amesema kwamba wanaendelea kutoa elimu na mimi ninakiri kwamba Mheshimiwa Mkuu wa Mkoa wa Singida amejitahidi sana kuhakikisha anatoa elimu lakini nguvu yake ni ndogo.</seg>
+          <seg xml:id="seg269">Mheshimiwa Naibu Spika, Serikali ina mpango gani wa kumuongezea Mkuu wa Mkoa na Serikali yake nguvu ya kutoa elimu kwa wakulima pamoja na wadau wote wanaoshiriki kwenye hii biashara ili kuwe na fair na uwazi kwa mchakato mzima wa zao hili maana yale huu mfumo kwa Singida ni mpya kabisa…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u157" who="NaibuSpika">
+          <seg xml:id="seg270">Mheshimiwa uliza swali, wewe unahutubia Bunge sasa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u158" who="MheAbeidRIghondo">
+          <seg xml:id="seg271">Mheshimiwa Naibu Spika, nimeshauliza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u159" who="NaibuSpika">
+          <seg xml:id="seg272">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u160" who="WaziriWaKilimo">
+          <seg xml:id="seg273">Mheshimiwa Naibu Spika, nashukuru kwa maswali mawili ya Mheshimiwa Ighondo na katika maswali yake ndani ametaja baadhi ya changamoto.</seg>
+          <seg xml:id="seg274">Mheshimiwa Naibu Spika, changamoto ya kwanza ni uchache wa maghala. Hivi sasa nataka nimhakikishie tu wataalamu kutoka Wizara ya Kilimo, Wizara ya Viwanda na Biashara na Wizara ya Fedha wanaanza tour katika Mikoa wa Singida, Dodoma na Manyara kwa ajili ya ku-unlock changamoto za maghala.</seg>
+          <seg xml:id="seg275">Mheshimiwa Naibu Spika, kwa mujibu wa sheria tuliyopitisha katika Bunge lako Tukufu, maghala yamewekewa grades, kwa hiyo tumebadilisha Kanuni na ninamshukuru AG ameziidhinisha na nimesha-sign, kanuni za kushusha ile grade ya maghala ili maghala yetu ya vijijini yaweze kutumika kama vituo vya mauzo. Kwa hiyo, hili litatatuliwa na litakwisha.</seg>
+          <seg xml:id="seg276">Mheshimiwa Naibu Spika, la pili ni suala la elimu. Bei za mazao, mnada tunachokifanya ni kuhakikisha bei inayopatikana kwenye soko ina-reflect bei anayopata mkulima. Ukichukulia mfano mbaazi sasa hivi ni kati ya wastani wa dola 800 mpaka 810 na 820, CIF India. Kwa hiyo, mkulima yeyote atakayeuza katika mnada zao lake halitakiwi lishuke kwa kiwango cha shilingi 1,200, 1,300. Kwa hiyo, price ya shilingi 1,800 mpaka 1,900 bado ni</seg>
+          <seg xml:id="seg277">reasonable price ukiangalia na bei iliyoko katika soko la dunia. Kwa hiyo, tunakiri ipo changamoto ya elimu, lakini changamoto kubwa ni wafanyabiashara wadogo wadogo wa kati ambao walikuwa wananunua mazao haya na kuyakimbiza Dar es Salaam na wale wakubwa kubaki Dar es Salaam. Tunachotaka wanunuzi wakubwa, ETG, Export Trade, ASM Holding na wengine wote waende moja kwa moja kwenye mfumo wakashiriki mnadani ili tuhakikishe price discovery inapatikana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u161" who="WaziriWaKilimo">
+          <seg xml:id="seg278">Mheshimiwa Naibu Spika, chini ya hapo nimeshawaandikia barua wanunuzi wote ambao wananunua mazao for export, hatutawapa export kama wataendelea kulazimisha kutumia intermediaries wadogo wadogo at the expense of the farmers kule chini.</seg>
+          <seg xml:id="seg279">Kwa hiyo, narudia kupitia Bunge lako Tukufu, tumewafungulia mfumo, waende moja kwa moja mnadani badala ya kutumia mawakala kabla ya zao kufika katika eneo lao Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u162" who="NaibuSpika">
+          <seg xml:id="seg280">Mheshimiwa Samweli.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u163" who="MheSamweliXHhayuma">
+          <seg xml:id="seg281">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi.</seg>
+          <seg xml:id="seg282">Mheshimiwa Naibu Spika, changamoto kubwa ya Mfumo wa Stakabadhi Ghalani ni kushirikisha Vyama vya Ushirika ambao kwenye uzalishaji hawajashiriki, lakini sehemu nyingine ni gharama ambazo vyama hivi vya ushirika vinatoza.</seg>
+          <seg xml:id="seg283">Moja, kuna shilingi 40 kwa kilo Chama cha Msingi, lakini chama kikuu kinatoza shilingi 20. Ukienda kwenye gharama za ghala kwa kilo shilingi 52, lakini vifungashio navyo viko ghali sana, kwa kifungashio kimoja ni shilingi 16 kwa kilo na hii inapunguza fedha ambazo anapata mkulima.</seg>
+          <seg xml:id="seg284">Je, Waziri anafikiria kuchukua hatua gani ili hizi fedha nyingi zinazoenda kwa watu ambao kwa kweli kwenye uzalishaji hawakushiriki na inachukua fedha kwa wakulima hatimaye</seg>
+          <seg xml:id="seg285">zinaenda maeneo ambayo kwa kweli hayana tija kwa watu wetu. Anachukua hatua gani ili kuondoa hii kero? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u164" who="NaibuSpika">
+          <seg xml:id="seg286">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u165" who="WaziriWaKilimo">
+          <seg xml:id="seg287">Mheshimiwa Naibu Spika, kwanza nakiri kwa hoja ya Mheshimiwa Mbunge wa Hanang, kwa hiyo, kama Wizara tunapitia upya mjengeko wa bei kwa mazao ya dengu na mbaazi, lakini nataka niseme katika Bunge lako, ni lazima tuujenge Ushirika, unless otherwise tulete Sheria ya Ushirika tuifute katika Bunge lako hili, nchi hii isiwe na suala la Ushirika. Kwa sababu hatuwezi ku-run away kwenye suala la kuujenga Ushirika wakati ni kwa mujibu wa sheria, ni Ilani ya Uchaguzi ya Chama Cha Mapinduzi.</seg>
+          <seg xml:id="seg288">Mheshimiwa Naibu Spika, mimi katika Bunge lako Tukufu, hoja ya Ushirika imekuweko toka nimekuwa Naibu Waziri. Inaonesha kuna kutokuutaka Ushirika, sisi wengi humu ni Wabunge wa CCM, twendeni tuka-convince Chama kiifute kwenye Ilani, Serikali ifute Sheria, Waziri yeyote atakayekuwa katika wizara yangu kama mimi, atakayekuja hatosimamia Ushirika. Lazima tuujenge Ushirika na ni lazima tuusimamie Ushirika, zipo changamoto hatuwezi kuukimbia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u166" who="NaibuSpika">
+          <seg xml:id="seg289">Mheshimiwa Flatei, ajiandae Mheshimiwa Festo na ajiandae Mheshimiwa Olelekaita.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u167" who="MheFlateiGMassay">
+          <seg xml:id="seg290">Mheshimiwa Naibu Spika, ahsante, kwa kuwa Serikali inafanya kazi nzuri ya kuhakikisha wakulima wadogo wadogo wanafaidika kutokana na kilimo wanachofanya cha mbaazi. Ziko changamoto Mkoa wa Manyara umezieleza mwenyewe hasa za kimfumo na elimu.</seg>
+          <seg xml:id="seg291">Je, Mheshimiwa Waziri uko tayari wewe mwenyewe kuja na wataalamu wako ili kusaidia eneo hili?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u168" who="NaibuSpika">
+          <seg xml:id="seg292">Rudia tena swali lako.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u169" who="MheFlateiGMassay">
+          <seg xml:id="seg293">Mheshimiwa Naibu Spika, kwa kuwa Mheshimiwa Waziri amekiri kwamba kuna changamoto kwenye Mfumo huu wa Stakabadhi Ghalani.</seg>
+          <seg xml:id="seg294">Je, yeye mwenyewe na wataalamu wake yupo tayari sasa kuja Manyara, kukaa na vyama hivi na wataalamu ili tukapata elimu hiyo na wakulima wakapata faida kutokana na zao hili la mbaazi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u170" who="WaziriWaKilimo">
+          <seg xml:id="seg295">Mheshimiwa Naibu Spika,…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u171" who="NaibuSpika">
+          <seg xml:id="seg296">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u172" who="WaziriWaKilimo">
+          <seg xml:id="seg297">Mheshimiwa Naibu Spika, nashukuru. Naomba tena nirudie, nakiri zipo changamoto katika Mfumo wa Stakabadhi, zipo changamoto katika Mfumo wa Ushirika. Mwaka juzi nimeshiriki mwenyewe Mkoa wa Manyara, nimekwenda, nimekaa na Vyama vya Ushirika, nimekaa na viongozi wa Serikali na tumejadili changamoto, tutaendelea kuzitatua. Nataka nimhakikishie Mheshimiwa Flatei, nitakuja Manyara kuendelea kufanya jukumu hili.</seg>
+          <seg xml:id="seg298">Mheshimiwa Naibu Spika, suala la kukabiliana na changamoto zilizoko katika Mfumo wa Ushirika katika nchi hii, ni jukumu ambalo tumepewa kama wizara, tutaendelea kukabiliana nazo na tutaendelea ku-deal na matatizo yaliyoko katika Ushirika ili kuufanya Ushirika usiwe sehemu ya kumuumiza mkulima, lakini ni njia sahihi ya kuweza kuwasimamia wakulima wadogo na kuwa na bargaining kwenye pricing na kutafuta bei halisi ya zao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u173" who="NaibuSpika">
+          <seg xml:id="seg299">Ahsante, Mheshimiwa Festo, ajiandae Mheshimiwa Olelekaita.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u174" who="MheFestoRSanga">
+          <seg xml:id="seg300">Mheshimiwa Naibu Spika, ahsante, Mheshimiwa Waziri, sisi wananchi wa Makete tunakushukuru kwa kuifanya Makete kuwa wazalishaji wa ngano. Kwa kweli wamezalisha na mmetutafutia mnunuzi amenunua vizuri, lakini changamoto tuliyopata ni kwamba mnunuzi hajalipa kwa wakati. Ni ipi hasa kauli ya matumaini kwa wananchi wa Lupila, Kipagalo,</seg>
+          <seg xml:id="seg301">Matamba na Ikuo kuhusu ulipati wa fedha hizi kwa wakulima wa ngano Wilaya ya Makete? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u175" who="NaibuSpika">
+          <seg xml:id="seg302">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u176" who="WaziriWaKilimo">
+          <seg xml:id="seg303">Mheshimiwa Naibu Spika, nashukuru na nataka kumshukuru Mheshimiwa Festo na viongozi wa Mkoa wa Njombe wote kwa kuifanya Makete kuwa sehemu ya uzalishaji wa ngano. Nawashukuru sana wakulima wa Makete, wamefanya kazi kubwa sana na sasa hivi wanafanya vizuri.</seg>
+          <seg xml:id="seg304">Mheshimiwa Naibu Spika, changamoto ya malipo kwa wakati, nakuomba tu tutakaa baadaye mimi na wewe ili tuweze kuongea na mnunuzi.</seg>
+          <seg xml:id="seg305">Mheshimiwa Naibu Spika, lakini na mimi ombi langu moja kwa Halmashauri ya Makete, mnunuzi anapofika kwa ajili ya aggregation, Serikali ya Makete na Halmashauri inapata cess kutokana na zao hili. Kumuomba tena mnunuzi gharama za ukusanyaji wa mazao ni unfair.</seg>
+          <seg xml:id="seg306">Nawaomba Halmashauri ya Makete, wakusanye kwa sababu wanavyosaidia kukusanya yale mazao kwenye maghala madogo madogo katika halmashauri, inapunguza gharama za ufanyaji wa biashara zenyewe na halmashauri yenyewe iweze kuchukua nafasi yake.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u177" who="NaibuSpika">
+          <seg xml:id="seg307">Mheshimiwa Olelekaita.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u178" who="MheEdwardOKisau">
+          <seg xml:id="seg308">Mheshimiwa Naibu Spika, nakushukuru.</seg>
+          <seg xml:id="seg309">Mheshimiwa Naibu Spika, kwa kuwa kelele ni nyingi na simu ni nyingi sana kwa maeneo haya ambayo tumeanza Stakabadhi Ghalani mpya na wewe mwenyewe umekiri. Sasa ni lini kwa siku za haraka sana uta-dispatch timu iende Kiteto na kwingine kote, wawasikilize wakulima halafu watuletee ripoti hapa tutengeneze majibu? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u179" who="WaziriWaKilimo">
+          <seg xml:id="seg310">Mheshimiwa Naibu Spika, timu leo imeanza kazi Dodoma, itakwenda Singida, itakwenda Manyara, tayari timu tumesha-dispatch. Mimi na wewe tumeliongea sana hili na Waheshimiwa Wabunge wa Kondoa, Hanang na maeneo mengine tumelijadili. Kwa hiyo nimesha-form timu na tumesha- dispatch timu imeanza kazi. Leo inaanza katika Soko la Kibaigwa, tumeamua Soko la Kibaigwa tusiendeshe Mfumo wa Stakabadhi ya Ghala, lakini wanunuzi wote wameitwa na kuambiwa kwamba price anayotakiwa kupewa mkulima pale sokoni haitakiwi ipungue shilingi 1,800.</seg>
+          <seg xml:id="seg311">Mheshimiwa Naibu Spika, kwa hiyo, tunaendelea kufanya hiyo kazi na watafika huko kwenu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u180" who="NaibuSpika">
+          <seg xml:id="seg312">Waheshimiwa Wabunge naomba utulivu, naomba utulivu.</seg>
+          <seg xml:id="seg313">Hoja ya Kutengua Kanuni, Mheshimiwa Waziri wa Nchi, Ofisi ya Waziri Mkuu, Sera, Bunge na Uratibu.</seg>
+          <seg xml:id="seg314">HOJA YA KUTENGUA KANUNI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u181" who="WaziriWaNchiOfisiYaWaziriMkuuSeraBungeNaUratibu">
+          <seg xml:id="seg315">Mheshimiwa Naibu Spika, nasoma hoja hii chini ya kanuni ya 174(1) ya Kanuni za Kudumu za Bunge Toleo la Februari, 2023.</seg>
+          <seg xml:id="seg316">Mheshimiwa Naibu Spika, kwa kuwa moja ya shughuli iliyopangwa kufanyika leo tarehe 5 Septemba, 2024, ni uchaguzi wa mjumbe mmoja wa Bunge la Tano la Afrika Mashariki;</seg>
+          <seg xml:id="seg317">Na kwa kuwa, kwa mujibu wa Kanuni ya 160(1) na 164(e) wageni hawaruhusiwi kuingia ndani ya ukumbi wa Bunge bali hutengewa sehemu maalum za kukaa;</seg>
+          <seg xml:id="seg318">Na kwa kuwa, Kanuni ya 10(2) ya Nyongeza ya Tatu ya Kanuni za Bunge inaeleza kuwa mgombea anaweza kuruhusiwa</seg>
+          <seg xml:id="seg319">kuingia ndani ya ukumbi wa Bunge ili kujitambulisha, kujieleza, kuulizwa na kujibu maswali pamoja na kuomba kura;</seg>
+          <seg xml:id="seg320">Hivyo basi, kwa madhumuni ya utekelezaji bora wa Shughuli za Bunge na kuwezesha uchaguzi wa Mjumbe wa Bunge la Afrika Mashariki kufanyika kwa ufanisi, naliomba Bunge lako liazimie kwamba Kanuni ya 160(1) na 164(e) ambazo kwa ujumla wake zinazuia wageni kuingia ndani ya ukumbi wa Bunge zitenguliwe na badala yake mgombea wa uchaguzi huu aruhusiwe kuingia ndani ya ukumbi wa Bunge ili aweze kujitambulisha, kujieleza, kuulizwa maswali na kujibu maswali pamoja na kuomba kura.</seg>
+          <seg xml:id="seg321">Mheshimiwa Naibu Spika, naomba kutoa hoja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u182" who="WaziriWaKilimo">
+          <seg xml:id="seg322">Mheshimiwa Naibu Spika, naafiki.</seg>
+        </u>
+        <note>(Hoja ilitolewa iamuliwe)</note>
+        <note>(Hoja iliamuliwa na Kuafikiwa)</note>
+        <note>(Hoja ya Kutengua Kanuni iliafikiwa na Bunge)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u183" who="MheJosephKMusukuma">
+          <seg xml:id="seg323">Mheshimiwa Naibu Spika, Mwongozo wa Spika,…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u184" who="NaibuSpika">
+          <seg xml:id="seg324">Katibu.</seg>
+          <seg xml:id="seg325">NDG. NENELWA MWIHAMBI, ndc – KATIBU WA BUNGE: UCHAGUZI WA MBUNGE WA BUNGE LA AFRIKA MASHARIKI (EALA)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u185" who="MheJosephKMusukuma">
+          <seg xml:id="seg326">Mheshimiwa Naibu Spika, Mwongozo wa Spika,…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u186" who="NaibuSpika">
+          <seg xml:id="seg327">Kaa chini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u187" who="NaibuSpika">
+          <seg xml:id="seg328">Katibu, endelea. Tayari eeh? Ahsante.</seg>
+          <seg xml:id="seg329">Waheshimiwa Wabunge, maelezo ya Mheshimiwa Spika kuhusu utaratibu wa kupiga kura katika uchaguzi wa nafasi ya Ubunge katika Bunge la Afrika Mashariki chini ya Kanuni ya 11(4) ya Nyongeza ya Tatu ya Kanuni za Kudumu za Bunge Toleo la Februari, 2023.</seg>
+          <seg xml:id="seg330">Utangulizi, Waheshimiwa Wabunge, Uchaguzi wa Ubunge wa Bunge la Afrika Mashariki unafanyika kwa mujibu wa masharti ya Ibara ya 50(1) na (2) ya Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki ya mwaka 1999. Uchaguzi huo unasimamiwa na Katiba ya Jamhuri ya Muungano wa Tanzania ya mwaka 1997, Sheria ya Uchaguzi wa Bunge la Afrika Mashariki ya mwaka 2011, Sheria ya Mkataba wa Uzalishwaji wa Jumuiya ya Afrika Mashariki ya mwaka 2001 na Kanuni za Kudumu za Bunge Toleo la Februari, 2023.</seg>
+          <seg xml:id="seg331">Waheshimiwa Wabunge, tunafanya uchaguzi huu kufuatia kifo cha Mheshimiwa Dkt. Shogo Richard Mlozi ambaye alikuwa ni miongoni mwa wajumbe waliochanguliwa kuiwakilisha Jamhuri ya Muungano wa Tanzania katika Bunge la Afrika Mashariki Kundi A la Wagombea Wanawake.</seg>
+          <seg xml:id="seg332">Kwa kuwa Mheshimiwa Dkt. Shogo Richard Mlozi alikuwa Mjumbe wa kundi la wanawake kupitia Chama Cha Mapinduzi (CCM), hivyo chama chake kimezingatia wigo wa uwakilishi uliowekwa kwa mujibu wa Ibara ya 50 ya Mkataba wa kuanzishwa Jumuiya ya Afrika Mashariki na kutoa mapendekezo.</seg>
+          <seg xml:id="seg333">Waheshimiwa Wabunge, ili tuweze kuendelea, sasa namwita Katibu wa Bunge ambaye ndiye msimamizi wa uchaguzi huu ili atoe maelezo kamili kuhusu masharti na utaratibu wa uchaguzi.</seg>
+          <seg xml:id="seg334">Katibu.</seg>
+          <seg xml:id="seg335">NDG. NENELWA MWIHAMBI, ndc – KATIBU WA BUNGE: Mheshimiwa Naibu Spika na Waheshimiwa Wabunge, ahsante.</seg>
+          <seg xml:id="seg336">Mheshimiwa Naibu Spika, Ofisi ya Bunge ilipokea taarifa kutoka kwa Mheshimiwa Spika wa Bunge wa Bunge la Afrika</seg>
+          <seg xml:id="seg337">Mashariki inayolitaka Bunge la Jamhuri ya Muungano wa Tanzania kuchagua Mjumbe mmoja ili kujaza nafasi iliyo wazi kupitia Bunge la Tanzania kufuatia kifo cha Mheshimiwa Dkt. Shogo Richard Mlozi aliyekuwa amedhaminiwa na Chama Cha Mapinduzi kupitia Kundi A Wagombea Wanawake.</seg>
+          <seg xml:id="seg338">Mheshimiwa Naibu Spika, baada ya kupokea taarifa hiyo, mchakato wa kumpata Mjumbe wa kuziba nafasi hiyo ulianza. Kanuni ya 19 ya Kanuni za Kudumu za Bunge imeweka utaratibu wa kumpata Mjumbe wa Bunge la Afrika Mashariki mara nafasi ya ujumbe wa Tanzania katika Bunge hilo inapokuwa wazi. Kanuni hiyo inasomeka kama ifuatavyo; „Mara baada ya nafasi ya Mbunge kuwa wazi kwa mujibu wa Kanuni, Bunge litafanya uchaguzi wa kujaza nafasi hiyo kwa kuzingatia utaratibu uliowekwa na sehemu hii.”</seg>
+          <seg xml:id="seg339">Mheshimiwa Naibu Spika, Kanuni ya 5(5) na Kanuni ya 11(3) ya Nyongeza ya Tatu ya Kanuni za Kudumu za Bunge, zimeainisha makundi ya uwakilishi katika uchaguzi wa Waheshimiwa Wabunge wa Bunge la Afrika Mashariki kama ifuatavyo:-</seg>
+          <seg xml:id="seg340">Kundi A Wagombea Wanawake;</seg>
+          <seg xml:id="seg341">Kundi B Wagombea wa Tanzania Zanzibar;</seg>
+          <seg xml:id="seg342">Kundi C Wagombea wa Kambi ya Walio Wachache; na</seg>
+          <seg xml:id="seg343">Kundi D Wagombea wa Tanzania Bara.</seg>
+          <seg xml:id="seg344">Mheshimiwa Naibu Spika, kama ulivyosema, uchaguzi unaotakiwa kufanyika sasa ni wa kujaza nafasi moja ya uwakilishi katika Kundi A yaani Wabunge Wanawake kupitia Chama Cha Mapinduzi.</seg>
+          <seg xml:id="seg345">Mheshimiwa Naibu Spika, kuhusu sifa za mgombea, Ibara ya 50(2) ya Mkataba unaoanzisha Jumuiya ya Afrika Mashariki, imeweka masharti ya sifa ambazo mtu anapaswa kuwa nazo ili aweze kugombea Ubunge katika Bunge la Afrika Mashariki. Kwa mujibu wa Ibara hiyo, mtu ili aweze kugombea, anatakiwa kuwa na sifa zifuatazo: -</seg>
+          <seg xml:id="seg346">1. Awe raia wa nchi mwanachama wa Jumuiya;</seg>
+          <seg xml:id="seg347">2. Awe na sifa za kuchaguliwa kuwa Mbunge katika nchi</seg>
+          <seg xml:id="seg348">husika;</seg>
+          <seg xml:id="seg349">3. Asiwe Waziri katika nchi husika;</seg>
+          <seg xml:id="seg350">4. Asiwe mtumishi wa Jumuiya ya Afrika Mashariki; na</seg>
+          <seg xml:id="seg351">5. Awe ni mtu aliyedhihirisha uzoefu wake au kuhusika katika</seg>
+          <seg xml:id="seg352">kusimamia na kuendeleza madhumuni na malengo ya</seg>
+          <seg xml:id="seg353">Jumuiya ya Afrika Mashariki.</seg>
+          <seg xml:id="seg354">Mheshimiwa Naibu Spika, baada ya kutolewa kwa tangazo la uteuzi, Chama Cha Mapinduzi kwa utaratibu wa wazi na wa kidemokrasia kama Kanuni zinavyoelekeza, kilifanya uteuzi wa mgombea wake na mgombea aliyeteuliwa ni Ndugu Gladness Ladislaus Salema. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u188" who="NaibuSpika">
+          <seg xml:id="seg355">Mheshimiwa Naibu Spika, tunaomba kutoa taarifa pia kwamba masharti ya mgombea kama nilivyoyataja katika Ibara ya 50 hususani kwamba mgombea awe raia wa nchi mwanachama na awe na sifa za kuchaguliwa kuwa Mbunge katika nchi mwanachama, zote zimetimizwa kwa kuwa tumepokea barua kutoka Idara ya Uhamiaji kwamba mgombea huyu wa Chama Cha Mapinduzi ni raia wa Tanzania.</seg>
+          <seg xml:id="seg356">Mheshimiwa Naibu Spika, pia tumepokea barua kutoka Tume Huru ya Taifa ya Uchaguzi kwamba mgombea huyu ana sifa za kuchaguliwa kuwa Mbunge katika Bunge la Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg357">Mheshimiwa Naibu Spika, kwa mujibu wa Kanuni za Bunge, kabla ya zoezi la kupiga kura kuanza, mgombea anayo fursa ya kujitambulisha na kuomba kura kutoka kwa wapiga kura ambao ni ninyi Waheshimiwa Wabunge kwa kutumia lugha ya Kiingereza na mgombea anaweza kuulizwa maswali na kuyajibu papo kwa papo kutoka kwa wapiga kura.</seg>
+          <seg xml:id="seg358">Mheshimiwa Naibu Spika, baada ya mgombea kujieleza, zoezi la kupiga kura litaanza ambapo kila mpiga kura atapewa</seg>
+          <seg xml:id="seg359">karatasi moja ya kura na atapiga kura ya siri kwa kuweka alama ya vema kwenye kisanduku cha „Ndiyo” ili kumchagua mgombea au kwenye kisanduku cha „Hapana” ili kumkataa mgombea.</seg>
+          <seg xml:id="seg360">Mheshimiwa Naibu Spika, hatua itakayofuata ni zoezi la kuhesabu kura ambalo litafanywa chini ya usimamizi wa Msimamizi wa Uchaguzi na litashuhudiwa na mawakala wawili watakaoteuliwa na Mheshimiwa Spika ili kushuhudia zoezi la kuhesabu kura. Baada ya hapo, matokeo ya kura yatatangazwa.</seg>
+          <seg xml:id="seg361">Mheshimiwa Naibu Spika, baada ya maelezo haya, sasa naomba uridhie ili zoezi la uchaguzi lianze kwa mgombea kuitwa hapa ukumbini ili ajieleze, aulizwe maswali yatakayokuwepo na taratibu nyingine ziendelee.</seg>
+          <seg xml:id="seg362">Mheshimiwa Naibu Spika, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u189" who="NaibuSpika">
+          <seg xml:id="seg363">Ahsante Katibu. Namwomba sasa mgombea aingizwe ndani, mleteni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u190" who="NaibuSpika">
+          <seg xml:id="seg364">(Hapa Mgombea wa Ubunge wa Bunge la Afrika Mashariki</seg>
+          <seg xml:id="seg365">(Dkt. Gladness Ladislaus Salema) Aliingia Ukumbini)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u191" who="DeputySpeaker">
+          <seg xml:id="seg366">You have three minutes to present yourself to the Members of Parliament and solicit for their votes.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u192" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg367">Honourable Deputy Speaker, Honourable Mussa Azan Zungu, Honourable Kassim Majaliwa Majaliwa – The Prime Minister of the United Republic of Tanzania, Honourable Ministers, Honourable Members of the Parliament of the United Republic of Tanzania, good morning.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u193" who="WabungeFulani">
+          <seg xml:id="seg368">Good morning.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u194" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg369">Honourable Deputy Speaker, may I take this opportunity first to send my sincere condolences to this</seg>
+          <seg xml:id="seg370">National Parliament for the loss of our remarkable leader Dr. Shogo Mlozi. It was a pain to everyone of us, may her soul rest in peace.</seg>
+          <seg xml:id="seg371">Honourable Deputy Speaker, I am coming forward this morning in our National Parliament, to thank my party (Chama Cha Mapinduzi) for trusting that I can represent them in the East African Legislative Assembly. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u195" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg372">I thank all the Honourable Members of Parliament from Chama Cha Mapinduzi who voted for me, but trusting and believing that I can represent this National Assembly in the East African Legislative Assembly. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u196" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg373">Honourable Deputy Speaker, I believe I am the right candidate for that position because I have all that it takes to be a representative of my party, representative of this National Assembly and my Government. My sincere appreciations go to my President of the United Republic of Tanzania for the trust she has in me. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u197" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg374">Honourable Deputy Speaker, I have a wide and extensive experience as far as governance, leadership and management is concerned. I have been engaged also in National Development Programmes which includes the Agricultural Sector Development Programme II and also, I am currently a Technical Member in drafting the Vision 2050. So, I understand very well my country priorities and interests and I think I have all that it takes to defend and protect my country in the East African Community to make sure that the interests of the Tanzanians are actually well positioned. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u198" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg375">Honourable Deputy Speaker, I am a researcher with wide experience in analysis, so I have all the skills to use data to inform all the decisions in the East African Legislative Assembly. At the same time, I have been engaged in several development activities which address the needs of the marginalized groups, so inclusiveness is one of my principles. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u199" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg376">Honourable Deputy Speaker, this morning, I come to you with a humble request, that you vote so that I can take that position to represent my country. You should just be confident that you will never be disappointed. I am a person of integrity, transparency and accountability. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u200" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg377">Honourable Deputy Speaker, at the same time, I have also been supporting regional collaborations. I have quite experience in engaging with our partners from Kenya, Uganda, Rwanda, through joint collaborative researches. So, in terms of culture dynamics, I believe I have all the skills that it takes to navigate in that particular Assembly. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u201" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg378">Honourable Deputy Speaker, saying that, this morning I come to you to request for that vote, so that I can join the Tanzanian team which is doing very well in the East African Legislative Assembly under the leadership of Honorable Angela Kizigha. So, I believe I will go and compliment their efforts, so that we push the integration agenda forward and make sure that we transform East Africa. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u202" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg379">Honourable Deputy Speaker, integration is all that it takes to bring transformation. Being an expert in logistics and supply chain management, I believe where we are moving, integrated logistics is what is going to be a rapid transformation in our country but at the same time at the regional level.</seg>
+          <seg xml:id="seg380">Honourable Deputy Speaker, saying that, I would like to request that…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u203" who="DeputySpeaker">
+          <seg xml:id="seg381">Thank you very much, your time is over. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u204" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg382">…you vote for me. Thank you. </seg>
+        </u>
+        <note>(Applause)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u205" who="DeputySpeaker">
+          <seg xml:id="seg383">Thank you very much. You will be asked three questions from the floor, and now I call Honorable Twaha Ally Mpembenwe.</seg>
+          <seg xml:id="seg384">thank you ever so much for giving me this particular opportunity. But before I start asking my question, would you please allow me a few minutes to say a word here.</seg>
+          <seg xml:id="seg385">Honourable Deputy Speaker, first of all, let me take this particular opportunity to thank my party leaders under the chairmanship of our darling President, Doctor Samia Suluhu Hassan and our General Secretary, Honorable Doctor Nchimbi. In fact, they are doing very well within our party. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u206" who="DeputySpeaker">
+          <seg xml:id="seg386">Honourable Deputy Speaker, it goes without saying that the selection process in this particular event was conducted in the very diligent way in such a way that each and single individual was given an opportunity. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <note>(Hapa baadhi ya Wabunge walizungumza bila kufuata utaratibu)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u207" who="HonTwahaAMpembenwe">
+          <seg xml:id="seg387">Honorable Deputy Speaker, let me ask a question.</seg>
+          <seg xml:id="seg388">My question to the candidate…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u208" who="DeputySpeaker">
+          <seg xml:id="seg389">Members of Parliament, it is the Chair that is running this show.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u209" who="HonTwahaAMpembenwe">
+          <seg xml:id="seg390">Honourable Deputy Speaker, my question is, which role are you going to play in fostering the cooperation between the member states?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u210" who="DeputySpeaker">
+          <seg xml:id="seg391">Answer please.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u211" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg392">Honourable Deputy Speaker, thank you so much for that interesting question.</seg>
+          <seg xml:id="seg393">Honourable Deputy Speaker, basically, as a member of the Legislative Assembly, I have the role of advocating for cooperation and ensuring that we have harmonized regulatory</seg>
+          <seg xml:id="seg394">environment, harmonized policies which bring connectivity between the parties. But I also look forward to strengthening economic integration through the difference strengths that we have as partners in the EAC. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u212" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg395">So, ideally what I expect is that we make sure that we solve our problems, that I also become a facilitator or a mediator wherever there is conflict to make sure that we solve our problems and we have a common north as far as the East African Community is concerned. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u213" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg396">Honourable Deputy Speaker, so, coming together is what is key as I look forward to this a kind of cooperation. So, connectivity and integration are what is going to bring us…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u214" who="DeputySpeaker">
+          <seg xml:id="seg397">Thank you very much.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u215" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg398">Honourable Deputy Speaker, thank you. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u216" who="DeputySpeaker">
+          <seg xml:id="seg399">Honorable Salome Makamba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u217" who="HonSalomeWMakamba">
+          <seg xml:id="seg400">Honourable Deputy Speaker, thank you very much for granting me this opportunity to ask the candidate a question.</seg>
+          <seg xml:id="seg401">Honourable Deputy Speaker, the Regional Economic Integration has been facing many challenges. More pressing are ports and custom qualities, trade and investment challenges, differences in development gaps between member states and the last one is difference in policy and governance between member states.</seg>
+          <seg xml:id="seg402">You being a new member, what are your plans to improve the situation? Thank you. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u218" who="HonSalomeWMakamba">
+          <seg xml:id="seg403">much. I think the first thing that I have to do is to learn and understand what has been going on, that will be the first thing, but as far as customs are concerned, I think we have to look forward to having standardized custom procedures so that we can be able to facilitate the trade across the East African Community. So, that is one. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u219" who="HonSalomeWMakamba">
+          <seg xml:id="seg404">Honourable Deputy Speaker, but also, it is very important that our customs should be integrated, they should be connected. So, I would recommend or advocate for automation and interconnectivity between the customs that we have. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u220" who="HonSalomeWMakamba">
+          <seg xml:id="seg405">Honourable Deputy Speaker, at the same time I look forward into advocating for amendment or improvements in the cross- border procedures, so that we have simplified procedures and we remove all the bottlenecks. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u221" who="HonSalomeWMakamba">
+          <seg xml:id="seg406">Honourable Deputy Speaker, reforms are very important, that is we have harmonized regulatory environment that is actually supporting the business environment that we are going to operate in. And as far as bridging the development gap, I think is very important that we look forward to inclusive policies. That is how now can we leverage the potential that each partner has despite their challenges, and despite their differences. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u222" who="HonSalomeWMakamba">
+          <seg xml:id="seg407">Honouring Deputy Speaker, so I will advocate for inclusive polices and ensure that all marginalized groups are being brought on board and being given a priority in the policies and in the agreements. At the same time in the development projects to make sure that they address the need. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u223" who="DeputySpeaker">
+          <seg xml:id="seg408">Thank you very much, you have said enough.</seg>
+          <seg xml:id="seg409">Now I call upon Honorable Abdullah Mwinyi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u224" who="HonAbdullahAliMwinyi">
+          <seg xml:id="seg410">Right Honourable Deputy Speaker, thank you very much.</seg>
+          <seg xml:id="seg411">I would like to address our candidate with a question in relation to the process of integration. Can the candidate explain the concept of variable geometry and how it applies to the East African Community integration process? Thank you.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u225" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg412">Honourable Deputy Speaker, thank you. Basically, when we talk about variable geometry, it is a kind of an inclusive concept that we are trying to make sure that you consider the differences we have as partners states but you leave no one behind. So, what is actual there is that you address the differences. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u226" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg413">Honourable Deputy Speaker, it means that, even if we have for example to integrate on a customs, then if one party or one partner is not ready, we allow them to remain backward while others move, that is basically what is there. But it’s also about the speed, given that we differ in terms of economic development and comparative advantages, we can have an integration aspect for example, as far as having a single currency. But some of the partner states might not be ready.</seg>
+          <seg xml:id="seg414">Honourable Deputy Speaker, so, we don’t want to delay others who are ready to go and then we all wait. So, the actual thing about variable geometry is that you allow, you have the flexibility to allow the different countries to come together at different paces. So that is basically it, and it is a principle to make sure that we don’t leave one behind and we don’t delay the performance. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u227" who="DrGladnessLSalemaEastAfricanLegislativeAssemblyCandidate">
+          <seg xml:id="seg415">Honourable Deputy Speaker, thank you. </seg>
+        </u>
+        <note>(Applauses)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u228" who="DeputySpeaker">
+          <seg xml:id="seg416">Thank you very much madam, you are now excused, thank you very much.</seg>
+          <seg xml:id="seg417">Excuse me, yes you did a solicit a vote before, thank you.</seg>
+          <seg xml:id="seg418">Waheshimiwa Wabunge, sasa tunaanza zoezi la kupiga kura. Katibu, watu wahesabiwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u229" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg419">Mheshimiwa Naibu Spika, Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u230" who="NaibuSpika">
+          <seg xml:id="seg420">Mwongozo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u231" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg421">Mheshimiwa Naibu Spika, ahsante sana. Naomba nipate mwongozo wako kipindi ambacho…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u232" who="NaibuSpika">
+          <seg xml:id="seg422">Waheshimiwa Wabunge, naomba utulivu, kuna Mwongozo.</seg>
+          <seg xml:id="seg423">MWONGOZO WA SPIKA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u233" who="MheAbdullahAliMwinyi">
+          <seg xml:id="seg424">Mheshimiwa Naibu Spika, naomba nipate Mwongozo wako, kipindi ambacho mgombea ni peke yake, ni mmoja, utaratibu unaruhusu kupiga kura ya ndiyo na hapana. Naomba mwongozo wako kama hapa itakuwa muafaka, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u234" who="NaibuSpika">
+          <seg xml:id="seg425">Mheshimiwa Abdullah utajibiwa, kaa chini. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u235" who="NaibuSpika">
+          <seg xml:id="seg426">Waheshimiwa Wabunge, namteua Mheshimiwa Emmanuel Shangai na Mheshimiwa Hawa Bananga kuwa wahesabu kura na watakuwa chini ya usimamizi wa msimamizi wa uchaguzi. Watendaji mlete na hesabu ya Wabunge.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u236" who="MheMwanakhamisKassimSaid">
+          <seg xml:id="seg427">Mheshimiwa Naibu Spika, sisi wengine hatujapata karatasi za kura huku.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u237" who="NaibuSpika">
+          <seg xml:id="seg428">Waheshimiwa Wabunge, quorum yetu ni Wabunge 230. Kuna Mbunge yeyote hajapiga kura? Mheshimiwa Byabato hiyo ni karatasi ya kura au? Umeshapiga kura?</seg>
+          <seg xml:id="seg429">Waheshimiwa Wabunge, kuna Mbunge yeyote ambaye hajapiga kura?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u238" who="MheRashidAShangazi">
+          <seg xml:id="seg430">Mheshimiwa Naibu Spika, hapa bado, kwa Shangazi hapa.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u239" who="NaibuSpika">
+          <seg xml:id="seg431">Kuna Mheshimiwa Shangazi bado pale. Wangapi bado? Wawili.</seg>
+          <seg xml:id="seg432">Katibu kuna watu wawili hawana karatasi, Mheshimiwa Shangazi na…</seg>
+          <seg xml:id="seg433">Waheshimiwa Wabunge, narudia tena kuna yeyote ambaye hajapiga kura? Kuna yeyote kapiga kura mbili? Haya.</seg>
+          <seg xml:id="seg434">Mawakala wawili niliowateua. Mheshimiwa Hawa upo Bungeni au uko kwenye mbaazi?</seg>
+          <seg xml:id="seg435">Waheshimiwa Wabunge, kura zimepigwa kwa uwazi na kwa haki, maboski mlioonyeswa yalikuwa matupu na sasa yameishatiwa kura zenu. Mawakala wawili, Mheshimiwa Emmanuel na Mheshimiwa Hawa pamoja na staff watakwenda kuhesabu kura chini ya usimamizi wa Msimamizi wa Uchaguzi, Katibu wa Bunge, karibuni nendeni sasa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u240" who="MheJosephKMusukuma">
+          <seg xml:id="seg436">Mheshimiwa Naibu Spika, Mwongozo.</seg>
+        </u>
+        <note>(Hapa Zoezi la Kuhesabu Kura Lilianza)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u241" who="NaibuSpika">
+          <seg xml:id="seg437">Waheshimiwa Wabunge, sasa matangazo.</seg>
+          <seg xml:id="seg438">Kwanza nachukua nafasi hii kwa dhati kabisa kumpongeza Mwenyekiti wa Chama Cha Mapinduzi Taifa, Mheshimiwa Dkt. Samia Suluhu Hassan kwa kusimamia mchakato huu kwa haki,</seg>
+          <seg xml:id="seg439">kwa uwazi na kwa demokrasia kuonesha viwango vyake vya kimataifa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u242" who="NaibuSpika">
+          <seg xml:id="seg440">Wote waliochaguliwa kuingia kwenye mchakato huu walikuwa na sifa na mchakato wa kumpata mgombea wetu wa Chama Cha Mapinduzi umefanyika kwa uwazi chini ya usimamizi wake na wateule wake ambao aliwateua kufanya kazi hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u243" who="NaibuSpika">
+          <seg xml:id="seg441">Waheshimiwa Wabunge wa Chama Cha Mapinduzi, nawapongeza kwa kweli mmeonesha hekima, uelewa na kujua mgombea yupi tunayemtaka aende akalipambanie Taifa letu katika Afrika Mashariki. Mgombea huyu ameonesha geo-political politics anazijua, ameonesha mikakati ya Serikali na yeye kwa vile ni mdau…</seg>
+          <seg xml:id="seg442">Unajua kuna watu wengine wanatafuta matatizo wenyewe tu humu ndani. Unajua kiti hiki mimi ni kama referee, mimi siyo kocha, nina kadi mbili; ya kwanza nina njano nimeishakupa sasa. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u244" who="NaibuSpika">
+          <seg xml:id="seg443">Kwa hiyo, nawapongeza Wabunge kwa namna mlivyoonesha kuchagua mbora zaidi ya wabora, hongereni sana Wabunge. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u245" who="NaibuSpika">
+          <seg xml:id="seg444">Narudia tena kumpongeza Mheshimiwa Rais kwa kusimamia vizuri mchakato huu na uwazi wake kuhakikisha kila mtu apate haki, hongereni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u246" who="NaibuSpika">
+          <seg xml:id="seg445">Kwenye Jukwaa la Spika, tuna wageni maalumu kutoka Chama Cha Mapinduzi, Viongozi wa Sekretarieti, wakiongozwa na Ndugu Rabia Abdallah Hamid – Katibu wa Siasa na Uhusiano wa Kimataifa; Mheshimiwa Ally Salum Hapi – Katibu Mkuu Jumuiya ya Wazazi; Ndugu Suzan Peter Kunambi – Katibu Mkuu Jumuiya ya Wanawake na Ndugu Jokate Urban Mwegelo – Katibu Mkuu Umoja wa Vijana (UVCCM). </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u247" who="NaibuSpika">
+          <seg xml:id="seg446">Wageni waliokaa Jukwaa la Spika, wageni nane wa Mheshimiwa Masache Njelu Kasaka ambao ni Wenyeviti,</seg>
+          <seg xml:id="seg447">Makatibu wa UVCCM na Diwani wa Wilaya za Mkoa wa Mbeya, Ndungu Lekson Mwakasuluka – Mwenyekiti wa Chunya; Ndugu Antony Mwangomo – Mwenyekiti wa Rungwe; Ndugu Bunsen Mwaipaja – Mwenyekiti wa Kyela; Ndugu Clemence Mwandemba – Mwenyekiti wa Mbeya Mjini; Ndugu Medson Mwambapa – Mwenyekiti Mbarali; Ndugu Msafiri Mayeye – Katibu UVCCM Chunya; Mheshimiwa Benson Msomba – Diwani Kata ya Kasanga na Ndugu Sumbuko Mwalubhaga – Mjumbe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u248" who="NaibuSpika">
+          <seg xml:id="seg448">Wageni 10 waliokuja kwenye mafunzo ya jinsi Bunge linavyoendesha shughuli zake na vilevile ni familia ya mgombea wa kiti cha Ubunge katika Bunge la Afrika Mashariki, Dkt. Gladness Ladislaus Salema; Ndugu Derick Chitama – mume wake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u249" who="NaibuSpika">
+          <seg xml:id="seg449">Kwa hiyo, nikuombe baba yetu, kazi za Bunge zina changamoto nyingi, asije akaitwa kwenye vikao, umruhusu aende. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u250" who="NaibuSpika">
+          <seg xml:id="seg450">Yupo pia Ndugu Peter Nyundo – Mchungaji; Ndugu Issack Chitama – mtoto wake; Ndugu Ladislausaviel Chitama – mtoto wake; Mheshimiwa Achana Mwabula – mtoto wake; Ndugu Happiness Salema – dada yake; Ndugu Lightness Salema – dada yake;Dkt. Peter Salema – kaka yake; Ndugu Enos Salema – kaka yake na Ndugu Wenceslaus Salema – kaka yake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u251" who="NaibuSpika">
+          <seg xml:id="seg451">Wageni wa Waheshimiwa Wabunge. Waziri wa Fedha, Mheshimiwa Mwigulu anaomba kumtambulisha mwalimu wake wa sekondari, ambaye yuko hapa juu kwetu leo. Asimame tafadhali, hajaingia? Akiingia tutamtangaza, tunaendelea wageni wengine wanaingia sasa hivi.</seg>
+          <seg xml:id="seg452">Wapo wageni 77 wa Mheshimiwa Profesa Faustine Mkenda, Waziri wa Elimu, Sayansi na Teknolojia na hawa ni Viongozi na Wajumbe wa Chama Cha Mapinduzi kutoka Jimbo la Rombo, Mkoa wa Kilimanjaro. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u252" who="NaibuSpika">
+          <seg xml:id="seg453">Wageni wanne wa Mheshimiwa Mwanaidi Ali Khamisi, Naibu Waziri wa Maendeleo ya Jamii, Jinsia, Wanawake na Makundi</seg>
+          <seg xml:id="seg454">Maalum ambao ni Taasisi ya Familia Yetu Foundation kutoka Jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u253" who="NaibuSpika">
+          <seg xml:id="seg455">Wageni wawili wa Mheshimiwa Maryprisca Winfred Mahundi, Naibu Waziri wa Habari, Mawasiliano na Teknolojia ya Habari, ndugu zake kutoka Jijini Mbeya. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u254" who="NaibuSpika">
+          <seg xml:id="seg456">Wageni 51 wa Mheshimiwa Mhandisi Andrea Mathew Kundo, Naibu Waziri wa Maji na hawa ni Maafisa Elimu na Walimu kutoka Jimbo la Bariadi, Mkoa wa Simiyu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u255" who="NaibuSpika">
+          <seg xml:id="seg457">Wageni wawili wa Mheshimiwa Zuberi Mohamedi Kuchauka, amba oni watumishi wa Benki ya CRDB kutoka Jimbo la Liwale, Mkoa wa Lindi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u256" who="NaibuSpika">
+          <seg xml:id="seg458">Wageni watatu wa Mheshimiwa Bonnah Kamoli ambao ni wapiga kura wake kutoka Jimbo la Segerea, Mkoa wa Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u257" who="NaibuSpika">
+          <seg xml:id="seg459">Wageni watatu wa Mheshimiwa Muharami Shabani Mkenge ambao ni Wajumbe wa Halmashauri Kuu ya CCM Mkoa na wenzake. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u258" who="NaibuSpika">
+          <seg xml:id="seg460">Wageni wanne wa Mheshimiwa Abeid Ighondo ambao ni Umoja wa Vijana wa Chama Cha Mapinduzi (UVCCM) kutoka Wilaya ya Singida. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u259" who="NaibuSpika">
+          <seg xml:id="seg461">Wageni wanane wa Mheshimiwa Tarimba Gulam Abbas ambaoni wafanyakazi wa Ofisi ya Mbunge wa Kinondoni kutoka Jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u260" who="NaibuSpika">
+          <seg xml:id="seg462">Wageni tisa wa Dkt. Kabati amba oni wafanyakazi wa Shirika linalolea Watoto Walemavu liitwalo Nyumba Ali kutoka Mkoa wa Iringa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u261" who="NaibuSpika">
+          <seg xml:id="seg463">Wageni 29 wa Mheshimiwa Justin Nyamoga ambao ni Wainjilisti wa Kanisa la KKKT, Dayosisi ya Iringa kutoka Ilolo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u262" who="NaibuSpika">
+          <seg xml:id="seg464">Wageni 15 wa Mheshimiwa Japhet Hasunga ni Kikundi cha Ngoma cha Asili kutoka Iyula B, Jimbo la Vwawa, Mkoa wa Songwe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u263" who="NaibuSpika">
+          <seg xml:id="seg465">Wageni 15 wa Mheshimiwa Anne Kilango Malecela ambao ni Walimu Wakuu, Makamu Walimu Wakuu na Mwandishi wa Habari kutoka Jimbo la Same Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u264" who="NaibuSpika">
+          <seg xml:id="seg466">Wageni waliotembelea Bunge kwa ajili ya mafunzo; wapo wageni 19 Umoja wa Walimu Wastaafu kutoka Jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u265" who="NaibuSpika">
+          <seg xml:id="seg467">Wapo wanafunzi 65 na walimu watano wa Shule ya Sekondari DAARUL – ARQAM ya Jijini Dar es Salaam, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u266" who="NaibuSpika">
+          <seg xml:id="seg468">Wanafunzi 154 na walimu watano wa Shule ya Awali ya Msingi Libermann kutoka Jijini Dar es Salaam… </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u267" who="MheJosephKMusukuma">
+          <seg xml:id="seg469">Mwongozo wa Spika, Mwongozo wa Spika…</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u268" who="NaibuSpika">
+          <seg xml:id="seg470">Mwongozo.</seg>
+          <seg xml:id="seg471">MWONGOZO WA SPIKA</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u269" who="MheJosephKMusukuma">
+          <seg xml:id="seg472">Mheshimiwa Naibu Spika, nakushukuru.</seg>
+          <seg xml:id="seg473">Naomba Mwongozo wako kwa jambo lililotokea leo wakati Mheshimiwa Naibu Waziri wa Maji akijibu swali langu namba 134 na humu ndani kila mtu amekuja na nembo yake. Kuna Wabunge wa Majimbo na kuna Wabunge wa Viti Maluum. Sasa kila mtu anajua Jimbo alilotoka, natoa mfano kwangu mimi naitwa Mbunge wa Geita na kuna Mbunge wa Geita Mjini, lakini kuna Mbunge wa Busanda kwenye Wilaya yetu.</seg>
+          <seg xml:id="seg474">Mheshimiwa Naibu Spika, sasa Mheshimiwa Naibu Waziri wa Maji aliposimama amesema napenda kujibu swali la Mbunge wa</seg>
+          <seg xml:id="seg475">Geita Vijijini na mimi humu ndani ukisoma kwenye profile yangu nasomeka kama Mbunge wa Geita. Sasa hii inaleta taharuki na imekuwa ni tabia ya Mawaziri kuwabandika majina Wabunge ambao sisi hatuna, wewe ni Mbunge wa Ilala, mimi ni Mbunge wa Geita. Sasa mtu mwingine ananiita Mbunge wa Geita Vijijini, mimi sitoki Vijijini, mimi natoka Geita. </seg>
+        </u>
+        <note>(Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u270" who="MheJosephKMusukuma">
+          <seg xml:id="seg476">Mheshimiwa Naibu Spika, ukisoma kwenye kompyuta msicheke. Sasa kila mtu anaweza akaridhika kubadilishwa. Ukisoma kwenye kompyuta humu ninasomeka kama Mbunge wa Geita na ni Jimbo la Geita la Uchaguzi.</seg>
+          <seg xml:id="seg477">Sasa Mheshimiwa Naibu Waziri, ameniita mimi Mbunge wa Geita Vijijini nilitaka kupata Mwongozo wako Mheshimiwa Spika. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u271" who="NaibuSpika">
+          <seg xml:id="seg478">Mheshimiwa Musukuma, kwanza tukuombe radhi na tulishatoa maelekezo sasa kwa Hansard itarekebishwa na jina lako litatokea kama lilivyo unavyojitambua mwenyewe.</seg>
+          <seg xml:id="seg479">Waheshimiwa Wabunge, naendelea kuwatangaza wageni, Mheshimiwa Adolf Mkenda anaomba kuwatangazia vilevile kuna wageni wake kwenye Jukwaa la Spika, Ndugu Themistockeles Massae – Katibu wa Uenezi CCM, Rombo; Mwenyekiti wa Bodi ya Mkenda Ndugu Felician Bajeti; Madiwani Mheshimiwa Abdallah Mbaga na pia wachezaji wa timu ya mpira ya Rongai, mabingwa wa Mkenda Cup 2024, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u272" who="NaibuSpika">
+          <seg xml:id="seg480">Waheshimiwa Wabunge, jana Timu ya Taifa imetoka sifuri kwa sifuri, hatujakata tamaa, bado na tuna uhakika wa kwenda kuwafunga Ethiopia nyumbani kwao. Tuendeleze dua na maombi mbalimbali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u273" who="NaibuSpika">
+          <seg xml:id="seg481">Tarehe 19 Oktoba kuna mechi nyingine ambayo hii hatuisemi sasa hivi. Mheshimiwa Mwigulu, mbona unaanza kutikisa kichwa mechi ya tarehe 19 Oktoba? Kwa hiyo, nayo matokeo yake tutawapatia tarehe 20 Oktoba.</seg>
+          <seg xml:id="seg482">Waheshimiwa Wabunge, kwanza nimjibu Mheshimiwa Abdullah kuhusu mwongozo wake.</seg>
+          <seg xml:id="seg483">Kwa mujibu wa taratibu na Kanuni, Spika akiwa hapa huwa hapigi kura. Kwa hiyo, karatasi za upigaji kura mlizopewa sikujua zimeandikwa jina au zimeandikwa nini, lakini jibu lako kura zinazopigwa ni hapana na ndiyo. Ndiyo kanuni iliyotumika na Bunge, kama ulivyotaka kujua na wewe ni Mbunge Mstaafu wa Afrika Mashariki.</seg>
+          <seg xml:id="seg484">MATOKEO YA UCHAGUZI</seg>
+          <seg xml:id="seg485">Waheshimiwa Wabunge, uchaguzi wa Bunge la Umoja wa Mabunge ya Afrika Mashariki, matokeo ya uchaguzi; idadi ya Wabunge wote Kikatiba ni 393. Idadi ya Wabunge waliopo kwa sasa ni 393 kwa Katiba, idadi ya Wabunge waliopiga kura ni 274 waliongezeka kutoka idadi ile ya mwanzo tuliyoitaja.</seg>
+          <seg xml:id="seg486">Kundi A Wagombea Wanawake, idadi ya kura zilizopigwa 274, idadi ya kura zilizoharibika mbili, idadi ya kura halali 272, idadi ya kura za ndiyo 254, idadi ya kura za hapana 18. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u274" who="NaibuSpika">
+          <seg xml:id="seg487">Sasa ninamtangaza rasmi Ndugu Gladness Ladislaus Salema kuwa ndiyo Mbunge wetu kutoka Bunge letu kuwakilisha Tanzania kwenye Bunge la Afrika Mashariki. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u275" who="NaibuSpika">
+          <seg xml:id="seg488">Ninamwita Mheshimiwa, jina limehama kutoka ndugu mpaka Mheshimiwa sasa. Mheshimiwa Salema njoo ndani utoe shukrani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u276" who="NaibuSpika">
+          <seg xml:id="seg489">(Hapa Mhe. Dkt. Gladness L. Salema - Mbunge Mteule wa</seg>
+          <seg xml:id="seg490">Bunge la Afrika Mashariki alirejea Ukumbini)</seg>
+          <seg xml:id="seg491">Mheshimiwa Salema, karibu sana utoe shukrani.</seg>
+          <seg xml:id="seg492">SHUKRANI</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u277" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg493">Mheshimiwa Naibu Spika wa Bunge la</seg>
+          <seg xml:id="seg494">Jamhuri ya Muungano wa Tanzania, Mheshimiwa Kassim Majaliwa Kassim, Waziri Mkuu wa Serikali ya Jamhuri ya Muungano wa Tanzania, Waheshimiwa Mawaziri, Waheshimiwa Wabunge wote, ninasimama mbele yenu nikiwa na moyo wa shukrani. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u278" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg495">Mheshimiwa Naibu Spika, naomba nimshukuru Mwenyezi Mungu, mwingi wa Rehema aliyeona kwamba ninaweza kubeba dhamana ya Taifa hili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u279" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg496">Mheshimiwa Naibu Spika, naomba nimshukuru sana Rais wangu wa Serikali ya Jamhuri ya Muungano wa Tanzania, Dkt. Samia Suluhu Hassan kwa kuniamini pamoja na chama changu cha Mapinduzi na viongozi wote, Katibu Mkuu Dkt. Nchimbi, Naibu Katibu Mkuu John Mongela, Kamati Kuu, Sekretarieti na Wajumbe wote. Pia naomba niwashukuru Wabunge wa Upinzani ninaamini wao pia wana imani na mimi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u280" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg497">Mheshimiwa Naibu Spika, baada ya kusema hayo kipekee naomba niwashukuru wazazi wangu Ladislaus na Anne Salema ambao wamenilea, wamenikuza, wakanifundisha nidhamu, wakanifundisha kufanya kazi, pia wakanifundisha kumheshimu Mwenyezi Mungu aliyeniweka mahali hapa siku ya leo. Walishatangulia, basi raha ya milele awape Bwana na mwanga wa milele awaangazie. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u281" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg498">Mheshimiwa Naibu Spika, naomba nimshukuru mume wangu Derick Chitama, my support system. Naomba niwashukuru watoto wangu wote, naomba niwashukuru kaka, dada na wakwe zangu, ndugu jamaa na marafiki wote kwa kusimama na mimi mpaka nikaweza kufika hapa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u282" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg499">Mheshimiwa Naibu Spika, naomba nimshukuru Mwajiri wangu Chuo Kikuu cha Dar es Salaam, Makamu Mkuu wa Chuo na Wasaidizi wake wote Profesa Anangisye, nawashukuru for all the support, lakini pia kwa kunipa fursa za kukitumikia Chuo katika ngazi mbalimbali za uongozi na utawala, hata leo nikawa na ujasiri kwamba ninaweza nikabeba jukumu hili. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u283" who="MheDktGladnessLSalemaMbungeMteuleWaBungeLaAfrikaMashariki">
+          <seg xml:id="seg500">Mheshimiwa Naibu Spika, baada ya kusema hayo naomba niishukuru sana meza kuu, Mungu ibariki Tanzania, Mungu alibariki Bunge letu, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u284" who="NaibuSpika">
+          <seg xml:id="seg501">Mheshimiwa Salema hongera sana na kwa kweli you deserve. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u285" who="NaibuSpika">
+          <seg xml:id="seg502">Sasa pita meza hiyo ya kwanza hapo Waziri Mkuu mpaka mwisho pale, wape mikono Viongozi Wakuu wa Bunge halafu uende kwa utaratibu mwingine. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u286" who="NaibuSpika">
+          <seg xml:id="seg503"> (Hapa Mhe. Dkt. Gladness L. Salema – Mbunge Mteuli wa Bunge la Afrika Mashariki alipita upande wa meza kuu na kuondoka</seg>
+          <seg xml:id="seg504">Ukumbini)</seg>
+          <seg xml:id="seg505">Waheshimiwa Wabunge, wageni waliopo Bungeni asubuhi hii, Wageni waliokaa Jukwaa la Spika.</seg>
+          <seg xml:id="seg506">Wageni 11 wa Mheshimiwa Balozi Dkt. Pindi Hazara Chana, Waziri wa Maliasili na Utalii na hawa ni Madiwani na Malaigwanani kutoka Wilaya ya Ngorongoro Mkoa wa Arusha, wakiongozwa na Mwenyekiti wa Halmashauri Mheshimiwa Marekani Bayo. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u287" who="NaibuSpika">
+          <seg xml:id="seg507">Wageni wa Waheshimiwa Wabunge; wapo wageni 84 wa Mheshimiwa Dkt. Mwigulu Lameck Nchemba, Mbunge na Waziri wa Fedha. Walimu Wastaafu na Walimu wa Shule ya Sekondari ya Ilboru kutoka Mkoa wa Arusha na Walimu waliomfundisha wapo kwenye ziara hii, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u288" who="NaibuSpika">
+          <seg xml:id="seg508">Mgeni wa Mheshimiwa Edward Olelekaita Kisau ambaye ni Ndugu Sakina Msonde, Mhadhiri Msaidizi na Mtaalam wa Usalama wa Mtandao, karibu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u289" who="NaibuSpika">
+          <seg xml:id="seg509">Wageni wawili wa Mheshimiwa Emmanuel Lekishon Shangai, kutoka Ngorongoro Mkoa wa Arusha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u290" who="NaibuSpika">
+          <seg xml:id="seg510">Wageni wawili wa Mheshimiwa Festo Richard Sanga amba oni marafiki zake kutoka Jijini Arusha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u291" who="NaibuSpika">
+          <seg xml:id="seg511">Wageni watatu wa Mheshimiwa Elibariki Immanuel Kingu ambaoni familia ya marehemu Mwanamuziki Mandojo kutoka Dodoma. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u292" who="NaibuSpika">
+          <seg xml:id="seg512">Wageni wanne wa Mheshimiwa Noah Saputu Mollel amaboni wapiga kura kutoka Jijini Arusha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u293" who="NaibuSpika">
+          <seg xml:id="seg513">Wageni sita wa Mheshimiwa Nicodemas Maganga ambaoni wapiga kura wake kutoka Mbogwe, Mkoa wa Geita. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u294" who="NaibuSpika">
+          <seg xml:id="seg514">Wageni 11 wa Mheshimiwa Deodatus Phillip Mwanyika amaboni Viongozi na Wajumbe wa UVCCM Mkoa na Wilaya kutoka Njombe Mjini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u295" who="NaibuSpika">
+          <seg xml:id="seg515">Wageni 13 wa Mheshimiwa Esther Matiko ambao ni Mawakili Wanawake Watetezi wa Haki za Afya ya Uzazi kutoka Jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u296" who="NaibuSpika">
+          <seg xml:id="seg516">Wageni 15 wa Mheshimiwa Zaytun Seif Swai, Wafanyabiashara kutoka Jimbo la Ngara Mkoa wa Kagera. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u297" who="NaibuSpika">
+          <seg xml:id="seg517">Wageni 24 wa Mheshimiwa Janeth Mahawanga ambao ni wafanyabiashara wadogo mabinti kutoka Jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u298" who="NaibuSpika">
+          <seg xml:id="seg518">Wageni 33 wa Mheshimiwa Asia Abdulkarim Halamga ambao ni Kikundi cha Wakinamama Wajasiriamali wa Katesh Wilaya ya Hanang, Mkoa wa Manyara. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u299" who="NaibuSpika">
+          <seg xml:id="seg519">Wageni waliotembelea Bunge kwa ajili ya mafunzo, wapo wanafunzi 80 na walimu 10 kutoka Shule ya Msingi Elisabetta Mkoani Morogoro. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u300" who="NaibuSpika">
+          <seg xml:id="seg520">Wanafunzi 65 na walimu watano wa Shule ya Sekondari Daarul-Arqam, Jijini Dar es Salaam. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u301" who="NaibuSpika">
+          <seg xml:id="seg521">Wageni wawili Ndugu Joe Kindole, Mkurugenzi Mkuu wa Shirika la COCODA Njombe na Ndugu Catherine Mbuga, Mratibu wa Ufundi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2024-09-05-bunge-16-08.u302" who="NaibuSpika">
+          <seg xml:id="seg522">Waheshimiwa Wabunge, naahirisha Shughuli za Bunge mpaka kesho saa 3.00 asubuhi.</seg>
+          <seg xml:id="seg523">(Saa 5.17 Asubuhi Bunge Liliahirishwa hadi Siku ya Ijumaa,</seg>
+          <seg xml:id="seg524">Tarehe 6 Septemba, 2024 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

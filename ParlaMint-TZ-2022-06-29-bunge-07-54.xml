@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="sw">Majadiliano ya Bunge la Tanzania ParlaMint-TZ (2022-06-29) [ParlaMint]</title>
+        <title type="main" xml:lang="en">Tanzanian parliamentary corpus ParlaMint-TZ (2022-06-29) [ParlaMint]</title>
+        <meeting ana="#parla.sitting" n="54">54. sitting of the session</meeting>
+        <meeting ana="#parla.session" n="7">7. session of Bunge</meeting>
+        <meeting ana="#parla.uni">Bunge</meeting>
+        <respStmt>
+          <persName>Maciej Ogrodniczuk</persName>
+          <persName>Beata Wójtowicz</persName>
+          <persName>Michał Rudolf</persName>
+          <resp xml:lang="sw">Upakuaji wa data na ubadilishaji kuwa TEI</resp>
+          <resp xml:lang="en">Data retrieval and conversion to TEI</resp>
+        </respStmt>
+        <funder>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN ERIC</orgName>
+          <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Tume ya Ulaya</orgName>
+          <orgName xml:lang="en">European Commission</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Taasisi ya Misingi ya Sayansi ya Kompyuta, Chuo cha Sayansi cha Poland</orgName>
+          <orgName xml:lang="en">Institute of Computer Science, Polish Academy of Sciences</orgName>
+        </funder>
+        <funder>
+          <orgName xml:lang="sw">Chuo Kikuu cha Warsaw</orgName>
+          <orgName xml:lang="en">University of Warsaw</orgName>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>1.0</edition>
+      </editionStmt>
+      <extent>
+			</extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="sw">Miundombinu ya utafiti ya CLARIN</orgName>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="sw">Kazi hii inapatikana kwa <ref target="http://creativecommons.org/licenses/by/4.0/">leseni ya kimataifa ya Creative Commons Attribution 4.0.</ref>
+					</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+					</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="URI" subtype="parliament">https://polis.bunge.go.tz/uploads/documents/1678685824-29 JUNI 2022.pdf</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sw">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+				</namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="city">Dodoma</name>
+          <name type="country" key="TZ">Tanzania</name>
+          <date ana="#parla.sitting" when="2022-06-29">29.06.2022</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:lang="en">
+      <change><name>Michał Rudolf</name>: Generated corpus in Parla-CLARIN.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sw">
+    <body>
+      <div type="debateSection">
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u1" who="NaibuSpika">
+          <seg xml:id="seg1">Waheshimiwa Wabunge, maswali Ofisi ya Rais, TAMISEMI, Mheshimiwa Stanslaus Mabula, Mbunge wa Nyamagana.</seg>
+        </u>
+        <note>Na. 474. Uanzishwaji wa Tarafa za Igoma na Buhongwa</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u2" who="MheStanslausSMabula">
+          <seg xml:id="seg2">Je, ni lini Serikali itaridhia uanzishwaji wa Tarafa za Igoma na Buhongwa ili kuongeza ufanisi katika utoaji huduma kwa wananchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u3" who="NaibuSpika">
+          <seg xml:id="seg3">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u4" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg4">alijibu:-</seg>
+          <seg xml:id="seg5">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais – TAMISEMI, naomba kujibu swali la Mheshimiwa Stanslaus Shing’oma Mabula, Mbunge wa Jimbo la Nyamagana kama ifuatavyo:-</seg>
+          <seg xml:id="seg6">Mheshimiwa Naibu Spika, Mkoa wa Mwanza mnamo mwezi Machi, 2019 uliwasilisha Ofisi ya Rais-TAMISEMI maombi ya kuanzisha Tarafa za Igoma na Buhongwa. Hata hivyo kupitia barua ya tarehe 28 Aprili, 2020 Ofisi ya Rais -TAMISEMI iliutaarifu Mkoa kwamba Mamlaka haikuridhia maombi hayo.</seg>
+          <seg xml:id="seg7">Mheshimiwa Naibu Spika, Serikali inazishauri Mamlaka za Mkoa wa Mwanza kuwa kama bado zinaona ipo haja ya kugawa Tarafa ya Nyamagana ili kupata Tarafa za Igoma na Buhongwa zifuate taratibu na sheria zilizopo ili Ofisi ya Rais- TAMISEMI ihakiki na kufanya tathmini ya kukidhi vigezo, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u5" who="NaibuSpika">
+          <seg xml:id="seg8">Mheshimiwa Mabula</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u6" who="MheStanslausSMabula">
+          <seg xml:id="seg9">Mheshimiwa Naibu Spika, nakushukuru, ningependa kumuuliza Mheshimiwa Waziri maswali mawili madogo ya nyongeza.</seg>
+          <seg xml:id="seg10">Swali la kwanza tunafahamu kabisa ya kwamba ili mji uweze kuendelea au mamlaka za halmashauri ziweze kuendelea ni pamoja na kuwa na utawala bora ambao</seg>
+          <seg xml:id="seg11">umesheheni watumishi wa kutosheleza; sasa Serikali haioni uko umuhimu kwa Jiji la Mwanza ambalo lina takribani wakazi milioni moja sasa kuwa na tarafa zingine zaidi ya moja ili kukidhi mahitaji ya wananchi?</seg>
+          <seg xml:id="seg12">Pili, hali iliyoko kwenye Jiji la Mwanza sambamba pia hali hiyo hiyo ipo kwenye Manispaa ya Ilemela; sasa Serikali haioni Manispaa hizi mbili zinauhitaji wa lazima wa kuwa na tarafa zaidi ya moja ili kukidhi mahitaji na utumishi wa watumishi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u7" who="NaibuSpika">
+          <seg xml:id="seg13">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u8" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg14">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Stanslaus Shing’oma Mabula, Mbunge wa Jimbo la Nyamagana kama ifuatavyo:-</seg>
+          <seg xml:id="seg15">Mheshimiwa Naibu Spika, nimpongeze Mheshimiwa Mabula kwa namna ambavyo anawakilisha wananchi wa Jimbo la Nyamagana. Lakini nimuhakikishie kwamba Serikali inatambua kwamba Nyamagana ni Wilaya, lakini ina tarafa moja na kuna kila sababu ya kupata tarafa nyingine na suala hili limeshaanza kufanyiwa kazi na Serikali nimuombe warejeshe maombi yao ambayo yalishakuja na yamefanyiwa kazi ili tuweze kufanya tathmini upya sambamba na Halmashauri ya Manispaa ya Ilemela, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u9" who="NaibuSpika">
+          <seg xml:id="seg16">Mheshimiwa Ndaisaba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u10" who="MheNdaisabaGRuhoro">
+          <seg xml:id="seg17">Mheshimiwa Naibu Spika, nakushukuru sana naomba sasa niulize swali la nyongeza.</seg>
+          <seg xml:id="seg18">Kata ya Lulenge pamoja na tarafa ya Lulenge kwa ujumla na hususan kata ya Nyakisasa ina maeneo makubwa sana</seg>
+          <seg xml:id="seg19">ambayo yanafanya shughuli za kiutawala na kupeleka maendeleo kwa wananchi kuwa ngumu kutokana na vijiji na vitongoji pamoja na kata kuwa na maeneo makubwa sana.</seg>
+          <seg xml:id="seg20">Ni lini sasa Serikali itaweza kutenga maeneo haya kwa ajili ya kupata vijiji vipya, vitongoji vipya pamoja na kata mpya ili kuweza kurahisisha shughuli ya kupeleka maendeleo kwa wananchi? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u11" who="NaibuSpika">
+          <seg xml:id="seg21">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u12" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg22">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu swali la nyongeza la Mheshimiwa Ndaisaba kama ifuatavyo:-</seg>
+          <seg xml:id="seg23">Ni kweli kwamba tuna maeneo makubwa kiutawala katika baadhi ya maeneo ya kata, vijiji bado ni vikubwa na inaleta changamoto kwenye masuala ya kiutawala na nimhakikishie Mheshimiwa Mbunge kwamba kuna taratibu za kisheria ambazo halmashauri wanatakiwa kufuata kufanya vikao na wadau, DCC na RCC na baadaye kuwasilisha maombi hayo Ofisi ya Rais - TAMISEMI tufanye tathmini na kuona uwezekano wa kugawa maeneo hayo.</seg>
+          <seg xml:id="seg24">Mheshimiwa Naibu Spika, lakini niseme kwamba kugawa maeneo mapya ya utawala pia kunaendana na gharama. Kwa hiyo yote haya lazima yazingatiwe ili kuweza kuendelea kuwa na gharama nafuu katika uendeshaji wa Serikali, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u13" who="NaibuSpika">
+          <seg xml:id="seg25">Mheshimiwa Chumi, ajiandae Mheshimiwa Ighondo na Mheshimiwa Subira.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u14" who="MheCosatoDChumi">
+          <seg xml:id="seg26">Mheshimiwa Naibu Spika, nashukuru kwa kunipa nafasi; Halmashauri ya Mji wa Mafinga</seg>
+          <seg xml:id="seg27">ambao ndiyo Jimbo la Mafinga Mjini ipo katika tarafa tatu tofauti yaani kuna maeneo ni tarafa ya Sadani, kuna maeneo ni tarafa ya Malangali na kuna maeneo ni tarafa ya Ifwagi.</seg>
+          <seg xml:id="seg28">Je, Serikali iko tayari kuifanya Halmashauri ya Mji wa Mafinga na Jimbo la Mafinga Mjini kuwa na tarafa inayojitegemea ili kurahisisha shughuli za maendeleo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u15" who="NaibuSpika">
+          <seg xml:id="seg29">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u16" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg30">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu swali la nyongeza la Mheshimiwa Cosato David Chumi Mbunge wa Jimbo la Mafinga mjini kama ifuatavyo:-</seg>
+          <seg xml:id="seg31">Mheshimiwa Naibu Spika, naomba Mheshimiwa Mbunge lakini na Mkurugenzi wa Mji wa Mafinga wafanye tathmini ya namna ambavyo watapendekeza tarafa hiyo iweze kugawiwa ili lengo la Mheshimiwa Mbunge liweze kukamilika lakini liwasilishwe Ofisi ya Rais-TAMISEMI kwa ajili ya tathmini hiyo, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u17" who="NaibuSpika">
+          <seg xml:id="seg32">Mheshimiwa Subira.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u18" who="MheSubiraKMgalu">
+          <seg xml:id="seg33">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi kuuliza swali dogo la nyongeza.</seg>
+          <seg xml:id="seg34">Miaka kumi iliyopita Serikali ilitoa maelekezo ya kuunda Mji Mdogo wa Halmashauri ya Bagamoyo ambako ilipelekea vijiji kupoteza haki zake na kuwa vitongoji zaidi ya 100 na Halmashauri hiyo ya Mji Mdogo wa Bagamoyo mpaka sasa haijarasimishwa hali ambayo inapelekea ugumu wa kuendesha vitongoji hivyo kwa sababu havina watendaji.</seg>
+          <seg xml:id="seg35">Je, Serikali ni lini itarasimisha halmashauri ambazo zilitangazwa Mji Mdogo kwa kipindi cha mpito ambazo zimechukua muda mrefu? Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u19" who="NaibuSpika">
+          <seg xml:id="seg36">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u20" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg37">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu swali la nyongeza la Mheshimiwa Subira Mgalu Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg38">Mheshimiwa Naibu Spika, ni kweli kwamba katika mamlaka ya Serikali za Mitaa zimeanzishwa Mamlaka za Miji Midogo na nyingi zimekaa kwa muda mrefu na sasa Serikali tunafanya tathmini ya kuona uwezekano wa zile Halmashauri za Miji Midogo kuendelea au kuzisitisha kwa maana ya kuwa na tija katika uendeshaji, lakini katika kutoa huduma kwa jamii kwa ujumla wake.</seg>
+          <seg xml:id="seg39">Mheshimiwa Naibu Spika, kwa hiyo kumekuwa na changamoto hiyo na tunaifanyia kazi kuona kama kweli zina tija kuendelea kubaki zile ambazo zitakidhi vigezo vya kuendelea kubaki zitaendelea na zile ambazo zitahitaji kufutwa basi tutafanya utaratibu wa kuzifuta, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u21" who="NaibuSpika">
+          <seg xml:id="seg40">Mheshimiwa Ighondo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u22" who="MheAbeidRIghondo">
+          <seg xml:id="seg41">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa fursa ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg42">Mheshimiwa Naibu Spika, Tarafa ya Ilongero na Tarafa ya Mtinko katika Jimbo la Singida Kaskazini ni tarafa kubwa sana</seg>
+          <seg xml:id="seg43">ambazo zinatoa shida sana kwa kufikika kwa wananchi kupata huduma.</seg>
+          <seg xml:id="seg44">Je, ni lini Serikali itagawa tarafa hizi zitoke tarafa mbili/mbili pamoja na Kata ya Mtinko, Kata ya Makuro pamoja na Kata ya Ughandi? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u23" who="NaibuSpika">
+          <seg xml:id="seg45">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u24" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg46">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu swali la nyongeza la Mheshimiwa Ighondo Ramadhani, Mbunge wa Jimbo la Singida Kaskazini kama ifuatavyo:-</seg>
+          <seg xml:id="seg47">Mheshimiwa Naibu Spika, niombe halmashauri hii kufuata taratibu za kugawa maeneo mapya ya utawala katika tarafa ambazo Mheshimiwa Mbunge amezitaja na Ofisi ya Rais, TAMISEMI itafanya tathmini na baadaye kuwasilisha kwa mamlaka kuona uwezekano wa kuanzisha tarafa nyingine.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u25" who="NaibuSpika">
+          <seg xml:id="seg48">Waheshimiwa tunaendelea Mheshimiwa Esther Edwin Malleko.</seg>
+        </u>
+        <note>Na. 475. Kuruhusu Wanakikundi wanaopata mikopo ya Serikali kufanya</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u26" who="NaibuSpika">
+          <seg xml:id="seg49">shughuli zao mmoja mmoja</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u27" who="MheEstherEMalleko">
+          <seg xml:id="seg50">Je, nini mpango wa Serikali kuruhusu wanakikundi wanapata mikopo ya Halmashauri kufanya shughuli zao mmoja mmoja badala ya kulazimika kuwa na mradi wa pamoja?</seg>
+          <seg xml:id="seg51">Ofisi ya Rais-TAMISEMI naomba kujibu swali la Mheshimiwa Esther Edwin Malleko, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg52">Mheshimiwa Naibu Spika, Serikali imeendelea kubaini uwepo wa changamoto katika utekelezaji wa Sheria na Kanuni za utoaji wa mikopo ya asilimia 10 kwa vikundi katika Halmashauri zote nchini.</seg>
+          <seg xml:id="seg53">Mheshimiwa Naibu Spika, changamoto hizo ni pamoja na halmashauri kutoa mikopo ya kiwango kidogo ikilinganishwa na mahitaji halisi yanayotokana na utofauti wa mawazo ya wanavikundi ili kuweza kutekeleza shughuli walizozipanga.</seg>
+          <seg xml:id="seg54">Mheshimiwa Naibu Spika, Serikali inaendelea kufanya tathmini ya ufanisi wa utoaji na urejeshaji wa mikopo hii tangu kutungwa kwa sheria na kanuni zake. Tathmini hii itawezesha kushauri namna bora ya utoaji wa mikopo pamoja na mapitio ya sheria, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u28" who="NaibuSpika">
+          <seg xml:id="seg55">Mheshimiwa Malleko.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u29" who="MheEstherEMalleko">
+          <seg xml:id="seg56">Mheshimiwa Naibu Spika, ahsante, swali langu la nyongeza ni kwamba ni kwa nini sasa Serikali isione namna ya kuweza kuwapa wajasiriamali wale wanaoweza kujisimamia wenyewe wakapewa mkopo kama mtu mmoja kwa sababu imekuwa ni shida sana hata katika makusanyo ya hizi pesa wakati wa kwenda kuzikusanya kwa sababu kila mmoja anapochukua anaenda kufanya biashara yake?</seg>
+          <seg xml:id="seg57">Swali la pili, ni lini sasa kanuni hii itaanza kutekelezwa kwa sababu ni muda mrefu tangu watu wameanza kupewa mikopo mnasema kanuni itatekelezwa lakini mpaka sasa bado haijatekelezwa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u30" who="NaibuSpika">
+          <seg xml:id="seg58">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u31" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg59">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Esther Edwin Maleko Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg60">Mheshimiwa Naibu Spika, ni kweli kwamba uzoefu unaonesha katika Mamlaka ya Serikali za Mitaa mikopo ya asilimia 10 ina changamoto nyingi, lakini zikiwemo changamoto za kuwa kikundi na mitazamo tofauti katika ufanyaji wa biashara na hii imepelekea changamoto ya marejesho, lakini pia ufanisi wa mikopo yenyewe. Tunafanya tathmini ili kuona uwezekano wa kukopesha mtu mmoja mmoja anayeweza kufanya shughuli zake shughuli zake mwenyewe ili kuongeza ufanisi katika maeneo hayo.</seg>
+          <seg xml:id="seg61">Lakini kanuni hii sasa baada ya tathmini hiyo itatuwezesha kutengeneza kanuni ambazo zitafuatia hiyo sheria ili tuanze kutekeleza utaratibu wa mikopo kwa mtu mmoja, mmoja kama ambavyo tunafanya kwa watu wenye ulemavu, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u32" who="NaibuSpika">
+          <seg xml:id="seg62">Mheshimiwa Dkt, Mnzava, Mheshimiwa Paresso.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u33" who="MheDktChristinaCMnzava">
+          <seg xml:id="seg63">Mheshimiwa Naibu Spika, ahsante kwa kuwa mikopo hii asilimia 10 iko kikanuni na kuna baadhi ya halmashauri hawatekelezi kanuni hii, nini kauli ya Serikali?</seg>
+          <seg xml:id="seg64">Mheshimiwa Dkt Christina Mnzava, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg65">Mheshimiwa Naibu Spika, mikopo hii ipo kwa mujibu wa sheria, kauli ya Serikali ni kwamba Mamlaka ya Serikali za Mitaa nchini kote ni lazima watekeleze matakwa ya sheria hii kuhakikisha wanakopesha asilimia 10 ya mapato ya ndani baada ya kutoa vyanzo lindwa na tutafuatilia na kuchukua hatua na katika performance indicators za Wakurugenzi ni pamoja na kutekeleza mikopo ya asilimia 10, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u34" who="NaibuSpika">
+          <seg xml:id="seg66">Mheshimiwa Paresso, ajiandae Mheshimiwa Kabati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u35" who="MheCeciliaDParesso">
+          <seg xml:id="seg67">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi niweze kuuliza swali dogo la nyongeza.</seg>
+          <seg xml:id="seg68">Kwa mujibu wa ripoti ya CAG ya ukaguzi inaonekana karibu takribani bilioni 47 hazijarudishwa kutokana na mikopo iliyochukuliwa na hivi vikundi na uhai wa vikundi hivi ni hiyo hela kuzunguka na kukopesha wengine.</seg>
+          <seg xml:id="seg69">Je, ni lini sasa Serikali mtasimamia kuhakikisha kwamba fedha hizi zinarudi ili wanufaika wengine waweze kupata?</seg>
+          <seg xml:id="seg70">Mheshimiwa Cecilia Paresso Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg71">Mheshimiwa Naibu Spika, ni kweli kwamba katika ukopeshaji wa mikopo hii asilimia 10 moja ya changamoto ilikuwa ni ufanisi wa marejesho na tukiangalia tangu tumeanza na sheria hii ya mwaka 2018/2019, 2020/2021 hali ya ukopeshaji na urejeshwaji imeendelea kuimarika siku hadi siku. Tulikuwa na asilimia 30 baadaye 50 na mwaka huu wa fedha tumekuwa asilimia 88.</seg>
+          <seg xml:id="seg72">Kwa hiyo, dhamira ya Serikali ni kuendelea kusimamia kuhakikisha fedha hizi zinarejeshwa ili vikundi vingine viweze kunufaika, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u36" who="NaibuSpika">
+          <seg xml:id="seg73">Mheshimiwa Kabati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u37" who="MheDktRittaEKabati">
+          <seg xml:id="seg74">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ili niulize swali dogo la nyongeza.</seg>
+          <seg xml:id="seg75">Kwa kuwa katika kukopesha hii mikopo, kwanza niipongeze Serikali kwa kuona umuhimu wa kuwakopesha watu wenye ulemavu mmoja, mmoja; lakini kumekuwa na changamoto kubwa sana akinamama ambao wanalea watoto wenye ulemavu au waliozaa watoto wenye ulemavu hawakopesheki kwenye kundi la akinamama kutokana na watoto walionao.</seg>
+          <seg xml:id="seg76">Je, ni kwa nini Serikali isione umuhimu katika kundi la wenye ulemavu hawa akina mama waliozaa watoto wenye ulemavu wakopesheke ili waweze kusomesha watoto wao?</seg>
+          <seg xml:id="seg77">Mheshimiwa Ritta Kabati Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg78">Mheshimiwa Naibu Spika, sheria hizi za mikopo ya asilimia 10 zimeainisha wazi wanufaika ni wanawake, vijana na watu wenye ulemavu, sasa wale ambao wanaishi na kuwalea watu wenye ulemavu bado kwenye sheria hii hawajatambulika kwamba watakopeshwa kwa dhamana ya watu wenye ulemavu wanao watunza. Kwa hiyo, naomba tuchukue wazo hili tukalifanyie kazi ili tuweze kuona uwezekano wa kuboresha sheria zetu ili ziweze ku-cover pia watu ambao wanawalea watu wenye ulemavu, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u38" who="NaibuSpika">
+          <seg xml:id="seg79">Ahsante Mheshimiwa Waziri Dkt. Charles Stephen Kimei. Mbunge wa Vunjo.</seg>
+        </u>
+        <note>Na. 476. Kuipa hadhi Zahanati kuwa Kituo cha Afya</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u39" who="MheDktCharlesSKimei">
+          <seg xml:id="seg80">Je, ni lini Serikali itatekeleza ahadi yake ya kuipa hadhi Zahanati ya Himo kuwa Kituo cha Afya pamoja na kukarabati Vituo vya Mwika?</seg>
+          <seg xml:id="seg81">Ofisi ya Rais, TAMISEMI naomba kujibu swali la Mheshimiwa Dkt. Charles Stephen Kimei, Mbunge wa Jimbo la Vunjo kama ifuatavyo:-</seg>
+          <seg xml:id="seg82">Mheshimiwa Naibu Spika, Zahanati ya Himo ilipandishwa hadhi kuwa Kituo cha Afya mwezi Desemba, 2020 na inatoa huduma za wagonjwa wa nje (OPD) na wagonjwa wa ndani (IPD). Aidha, Serikali katika mwaka wa fedha 2022/2023 itatafuta fedha kwa ajili ya upanuzi wa miundombinu ya kituo hicho.</seg>
+          <seg xml:id="seg83">Mheshimiwa Naibu Spika, Serikali itaendelea kutenga fedha kwa awamu kwa ajili ya ujenzi na ukarabati wa Vituo vya Afya vikongwe kikiwemo Kituo cha Afya Mwika ili kuendana na mahitaji ya sasa ya utoaji huduma bora za afya kwa wananchi, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u40" who="NaibuSpika">
+          <seg xml:id="seg84">Mheshimiwa Kimei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u41" who="MheDktCharlesSKimei">
+          <seg xml:id="seg85">Mheshimiwa Naibu Spika, ahsante sana; swali hili limepata majibu hayo hayo takribani mwaka mmoja na nusu sasa, lakini hamna kinachofanyika na pale kwenye hospitali hii ya OPD Himo, licha ya kwamba imepewa hadhi ya kuwa kituo cha afya bado hakuna majengo ya upasuaji, mortuary pamoja na maabara. Kwa hiyo, mimi naamini kwamba kama Hansard ingekuwa inazungumza kweli ingetoa kilio kabisa kwamba hatujapata ahadi ambayo iko sawasawa.</seg>
+          <seg xml:id="seg86">Mheshimiwa Naibu Spika, swali la pili, wananchi wa Kahe Mashariki wamejitolea nguvu zao wenyewe kuanza kujenga kituo cha afya kwenye kijiji cha Gona, lakini wameishiwa nguvu na hospitali hiyo au kituo cha afya hicho kitahudumia wananchi</seg>
+          <seg xml:id="seg87">zaidi ya 40,000 kwenye Kata ya Njiapanda, Kahe Magharibi na Kahe Mashariki.</seg>
+          <seg xml:id="seg88">Je, Serikali iko tayari kusaidia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u42" who="NaibuSpika">
+          <seg xml:id="seg89">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u43" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg90">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Dkt. Charles Stephen Kimei, Mbunge wa Jimbo la Vunjo kama ifuatavyo:-</seg>
+          <seg xml:id="seg91">Mheshimiwa Naibu Spika, ni kweli kwamba Kituo cha Afya cha OPD Himo tangu kimepandishwa hadhi mwaka 2020 bado kinakosa mawodi, jengo la upasuaji, jengo la maabara na jengo la mortuary. Nimhakikishie Mheshimiwa Mbunge kwamba kwenye bajeti ya mwaka ujao wa fedha 2022/2023 tumepanga fedha kwa ajili ya kuhakikisha tunaanza upanuzi wa kituo cha afya cha OPD Himo.</seg>
+          <seg xml:id="seg92">Mheshimiwa Naibu Spika, kuhusiana na kituo cha afya ambacho wananchi wameanza na ujenzi, niwapongeze sana wananchi kwa kutoa nguvu zao na sisi kwa awamu kwa kadri ya upatikanaji wa fedha tutakwenda kuona namna ya kuwaunga mkono ili kuhamisha kituo cha afya kwa sababu kinahudumia wananchi wengi, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u44" who="NaibuSpika">
+          <seg xml:id="seg93">Mheshimiwa Ezra.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u45" who="MheEngEzraJChiwelesa">
+          <seg xml:id="seg94">Mheshimiwa Naibu Spika, mahitaji ya vituo vya afya yaliyopo Vunjo ni sawa na Biharamulo kwangu mimi nina Kituo cha Afya cha Kalenge, Nyabusozi na Lukalagata; hivi vituo vina majengo lakini hatuna maternity wards, hatuna maabara, hatuna x-ray; sasa vituo</seg>
+          <seg xml:id="seg95">havijakamilika, ni lini Serikali itachukua hatua ya kuvikamilisha hivyo vituo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u46" who="NaibuSpika">
+          <seg xml:id="seg96">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u47" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg97">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Engineer Ezra Chiwelesa, Mbunge wa Jimbo la Biharamulo kama ifuatavyo:-</seg>
+          <seg xml:id="seg98">Mheshimiwa Naibu Spika, ni kweli kwamba bado nchini kote ikiwemo katika Jimbo la Biharamulo tuna vituo vya afya ambavyo vina miundombinu pungufu kulingana na standard za vituo vya afya, na vituo hivi nimhakikishe Mheshimiwa Mbunge na Wabunge wote kwamba Serikali tunaweka mpango mkakati wa kuvitambua vituo hivi vyote, kuviwekea mpango kwa ajili ya kutafuta fedha za kwenda kujenga majengo yanayopungua ili ziweze kutoa huduma bora zaidi.</seg>
+          <seg xml:id="seg99">Mheshimiwa Naibu Spika, lakini tunajenga vituo hivi kimkakati, nimhakikishie Mheshimiwa Mbunge kwamba tutavifanyia tathmini vituo vyake pia, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u48" who="NaibuSpika">
+          <seg xml:id="seg100">Mheshimiwa Chege.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u49" who="MheJafariWChege">
+          <seg xml:id="seg101">Mheshimiwa Naibu Spika, nikushukuru; kwa kuwa suala la Himo linafanana sana na ujenzi au upandishaji hadhi wa kituo cha afya cha Kijiji au kata ya Raboli ambacho kinatambulika kama Uriyo ambako huko nyuma waliahidiwa kupandishiwa hadhi kutoka zahanati kwenda kituo cha afya, lakini mwezi mmoja uliopita wamepata waraka kutoka Ofisi ya RAS ukiwaelekeza kwamba sasa ina quote ofisi yako Mheshimiwa Waziri mmetoa waraka unaozuia upandishaji hadhi wa zahanati kuwa vituo vya afya.</seg>
+          <seg xml:id="seg102">Mheshimiwa Naibu Spika, kupitia Bunge lako kwa sababu hili tamko limeleta taharuki sana ndani ya Wilaya yangu nilitaka nijue ni kweli kama Wizara mnao waraka unaozuia upandishaji hadhi wa zahanati kuwa vituo vya afya?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u50" who="NaibuSpika">
+          <seg xml:id="seg103">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u51" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg104">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Chege, Mbunge wa Jimbo la Rorya kama ifuatavyo:-</seg>
+          <seg xml:id="seg105">Mheshimiwa Naibu Spika, vigezo vya ujenzi wa vituo vya afya au kupandisha hadhi zahanati kuwa vituo vya afya vipo wazi, moja ni population ambayo kituo cha afya au zahanati husika inahudumia kwa wakati huo, lakini pia ukubwa wa eneo kama unakidhi kuwa kituo cha afya kutoka zahanati, lakini na mahitaji ya halmashauri. Kwa hiyo, hakuna waraka wa moja kwa moja kwamba hatuwezi kupandisha hadhi ya zahanati kuwa kituo cha afya ikiwa inakidhi vigezo ambavyo vimewekwa, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u52" who="NaibuSpika">
+          <seg xml:id="seg106">Mheshimiwa Mwambe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u53" who="MheCecilDMwambe">
+          <seg xml:id="seg107">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi kuweza kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg108">Mheshimiwa Naibu Spika, kwenye Vijiji vya Ngalole, Mihima, Liloya, Nkwera, Namatutwe pamoja na Msikisi vilivyopo Jimbo la Ndanda, wananchi kwa kushirikia na Mbunge wametumia nguvu zao na kujenga pale maboma kwa ajili ya kutoa huduma za afya.</seg>
+          <seg xml:id="seg109">Ni lini Serikali itapeleka fedha kwa ajili ya kukamilisha maeneo hayo ili waweze kutoa huduma waliyokusudia?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u54" who="NaibuSpika">
+          <seg xml:id="seg110">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u55" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg111">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Cecil Mwambe, Mbunge wa Jimbo la Ndanda kama ifuatavyo:-</seg>
+          <seg xml:id="seg112">Mheshimiwa Naibu Spika, katika bajeti ya mwaka ujao wa fedha Serikali imetenga shilingi bilioni 15 kwa ajili ya ukamilishaji wa maboma 300 ya zahanati ambayo wananchi wameanza kuyajenga, lakini nitoe angalizo kwamba zahanati ambazo tunazijaenga na vituo vya afya hatujengi kila kijiji na kila kata, tunajenga kimkakati kwa maeneo ambayo yanaweza ku-save vijiji kadhaa tunajenga zahanati moja, lakini kata ambayo inaweza ku-save kata kadhaa tunajenga kituo cha afya kimoja.</seg>
+          <seg xml:id="seg113">Mheshimiwa Naibu Spika, kwa hiyo nimhakikishie Mheshimiwa Mbunge kwamba tutakwenda kufanya tathmini ya vigezo hivyo na vile vituo au zahanati zitakazokidhi vigezo zitapewa fedha kwa ajili ya kukamilisha majengo hayo, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u56" who="NaibuSpika">
+          <seg xml:id="seg114">Mheshimiwa Kisangi, ajiandae Mheshimiwa Kilave, ajiandae Mheshimiwa Aida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u57" who="MheMariamNKisangi">
+          <seg xml:id="seg115">Mheshimiwa Naibu Spika, ahsante sana kunipa nafasi niweze kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg116">Kwa kuwa katika Kata ya Toangoma, Wilaya ya Temeke kumekuwa na ongezeko kubwa la watu hali ambayo inasababisha zahanati ya Toangoma iwe ndogo na izidiwe. Je,</seg>
+          <seg xml:id="seg117">Serikali ina mpango gani wa kupandisha hadhi zahanati ya Toangoma kuwa kituo cha afya? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u58" who="NaibuSpika">
+          <seg xml:id="seg118">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u59" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg119">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg120">Mheshimiwa Naibu Spika, niagize Halmashauri ya Manispaa ya Temeke kufanya tathmini, kutenga fedha za mapato ya ndani ili waanze ujenzi wa kwenye kituo cha afya hiki kama kinakidhi vigezo ambavyo tumeviwekea Ofisi ya Rais, TAMISEMI, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u60" who="NaibuSpika">
+          <seg xml:id="seg121">Mheshimiwa Kilave, ajiandae Mheshimiwa Aida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u61" who="MheDorothyGKilave">
+          <seg xml:id="seg122">Mheshimiwa Naibu Spika, ahsante sana, kwanza niishukuru Serikali sana kwa jinsi ambavyo kituo chetu cha afya cha Yombo Vituka ambacho kinaitwa Malawi, kimeweza kupata vifaa husika, lakini pamoja na yote hayo; je, ni lini sasa Serikali itatujengea mortuary pamoja na emergence kwa sababu sehemu ipo ila sasa tunatamani sana tupate hiyo, kwa sababu tunapopata tatizo la maiti lazima tupeleke Temeke na Temeke sasa hivi ni Hospitali ya Kimkoa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u62" who="NaibuSpika">
+          <seg xml:id="seg123">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u63" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg124">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Dorothy Kilave, Mbunge wa Jimbo la Temeke kama ifuatavyo:-</seg>
+          <seg xml:id="seg125">Mheshimiwa Naibu Spika, nitoe maelekezo kwa Mkurugenzi wa Manispaa ya Temeke watumie fedha za Serikali na fedha za Serikali ni fedha za Serikali Kuu lakini na mapato ya ndani ya Halmashauri. Kwa hiyo atumie fedha za Serikali za Mapato ya ndani ya Halmashauri kujenga jengo la mortuary ambalo si gharama kubwa na uwezo wao wa halmashauri ni mkubwa ili wananchi wapate huduma bora, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u64" who="NaibuSpika">
+          <seg xml:id="seg126">Mheshimiwa Aida.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u65" who="MheAidaJKhenani">
+          <seg xml:id="seg127">Mheshimiwa Naibu Spika, nakushukuru sana kwa nafasi.</seg>
+          <seg xml:id="seg128">Mheshimiwa Naibu Spika, Kituo cha Afya Nkomoro na Kituo cha Afya Kilando pamoja na huduma zinazotolewa, lakini bado tuna changamoto kwa sababu inahudumia zaidi ya kata moja, kwa hiyo, watu wanatoka mbali sana kwenda kwenye vituo hivyo vya afya, lakini havina uzio wala eneo la kupumzikia wale wanaouguza wagonjwa wakiwemo wale wanaowapeleka wanawake wajawazito.</seg>
+          <seg xml:id="seg129">Ni lini Serikali mtatoa fedha ili kuwasaidia wananchi wale kuliko mateso wanayoyapata hivi sasa?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u66" who="NaibuSpika">
+          <seg xml:id="seg130">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u67" who="NaibuWaziriOfisiYaRaisTawalaZaMikoaNaSerikaliZaMitaaMheDktFestoJDugange">
+          <seg xml:id="seg131">Mheshimiwa Naibu Spika, ahsante sana, naomba kujibu swali la nyongeza la Mheshimiwa Mbunge wa Jimbo la Nkasi Kaskazini kama ifuatavyo:-</seg>
+          <seg xml:id="seg132">Mheshimiwa Naibu Spika, kituo hiki cha Kilando ni kweli kinahudumia wananchi wengi, na nimhakikishie Mheshimiwa</seg>
+          <seg xml:id="seg133">Mbunge tunachukua hoja hii tutafanya tathmini, lakini pia kuwasiliana na halmashauri kuona uwezekano wa kuboresha miundombinu hii ambayo inapungua ili wananchi wapate huduma nzuri, ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u68" who="NaibuSpika">
+          <seg xml:id="seg134">Waheshimiwa tunaendelea na Ofisi ya Rais, Menejimenti ya Utumishi wa Umma na Utawala Bora, Mheshimiwa Kunambi.</seg>
+        </u>
+        <note>Na. 477. Changamoto za Mfumo wa Upimaji Utendaji Kazi kwa</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u69" who="NaibuSpika">
+          <seg xml:id="seg135">Taasisi za Umma (OPRAS)</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u70" who="MheGodwinEKunambi">
+          <seg xml:id="seg136">Je, ni lini Serikali itaanzisha Mfumo Bora wa Upimaji Utendaji Kazi kwa Taasisi za Umma?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u71" who="NaibuSpika">
+          <seg xml:id="seg137">Mheshimiwa Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u72" who="NaibuWaziriOfisiYaRaisMenejimentiYaUtumishiWaUmmaNaUtawalaBora">
+          <seg xml:id="seg138">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Nchi, Ofisi ya Rais, Menejimenti ya Utumishi wa Umma na Utawala Bora naomba kujibu swali la Mheshimiwa Godwin Emmanuel Kunambi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg139">Mheshimiwa Naibu Spika, Mfumo wa Wazi wa Mapitio na Tathmini ya Utendaji Kazi yaani OPRAS ulianza kutumika mwezi Agosti, 2004. Uanzishwaji wa mfumo huu ulifuta matumizi ya Mfumo wa Siri wa Upimaji Utendaji Kazi wa Watumishi wa Umma uliokuwa ukitumika tangu Taifa letu lipate Uhuru mwaka 1961.</seg>
+          <seg xml:id="seg140">Utumishi wa Umma na Utawala Bora imekamilisha mapitio ya mfumo wa OPRAS na imekwishafanya usanifu wa mifumo mipya na inakaribia kukamilisha ujenzi wa mifumo mipya miwili ambayo ni Mfumo wa Usimamizi wa Utendaji Kazi wa Taasisi za Umma yaani Public Institutions Performance Management Systems - PIPMIS na Mfumo wa Usimamizi wa Utendaji Kazi wa Watumishi wa Umma yaani Public Employees Performance Management Information System - PEPMIS. Mifumo hii itaanza kazi haraka katika mwaka wa fedha 2022/2023.</seg>
+          <seg xml:id="seg141">Mheshimiwa Naibu Spika, Ofisi ya Rais, Menejimenti ya Utumishi wa Umma na Utawala Bora inamshukuru Mheshimiwa Samia Suluhu Hassan, Rais wa Jamhuri ya Muungano wa Tanzania kwa miongozo na maelekezo yake katika jambo hili la usimamizi wa utendaji kazi wa watumishi na taasisi za Serikali.</seg>
+          <seg xml:id="seg142">Mheshimiwa Naibu Spika, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u73" who="NaibuSpika">
+          <seg xml:id="seg143">Mheshimiwa Kunambi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u74" who="MheGodwinEKunambi">
+          <seg xml:id="seg144">Mheshimiwa Naibu Spika, moja ya mapungufu ya OPRAS ilikuwa imeacha kupima viongozi ambao ni wasimamizi wa sera kama vile Waheshimiwa Mawaziri, Wakuu wa Mikoa na Wakuu wa Wilaya, sasa ni upi kati hii mifumo miwili inakwenda kupima viongozi hawa?</seg>
+          <seg xml:id="seg145">Swali la pili, je, ni lini Serikali italeta Muswada wa Marekebisho ya Sheria Namba 8 ya Utumishi wa Umma ya mwaka 2002 ili marekebisho haya yawe kwa mujibu wa sheria?</seg>
+          <seg xml:id="seg146">naomba kujibu maswali mawili ya nyongeza ya Mheshimiwa Godwin Kunambi kama ifuatavyo:-</seg>
+          <seg xml:id="seg147">Mheshimiwa Naibu Spika, hili la kwanza ambalo analiuliza la upimaji kazi ni mfumo upi unapima kazi Mawaziri, Wakuu wa Mikoa na Wakuu wa Wilaya, mfumo huo ni mamlaka ya uteuzi, mamlaka ya uteuzi inapima kila mteule kwenye masuala ya maadili, kwenye suala la uchapakazi wake na uaminifu katika kazi ambayo ameaminika kupewa kumsaidia Mheshimiwa Rais. Kwa hiyo na mfumo huo upo na upo imara na utaendelea kutumika.</seg>
+          <seg xml:id="seg148">Mheshimiwa Naibu Spika, kwenye Makatibu Wakuu ambao Mheshimiwa Mbunge kwanza niseme amekuwa mstari wa mbele sana katika kufuatilia masuala haya ya mifumo ya utendaji kazi Serikalini kwa muda mrefu, katika Makatibu Wakuu, Wakurugenzi wa Halmashauri, ma-RAS mfumo huo upo. Kwa Makatibu Wakuu huwa wanasaini Mkataba wa Performance Management yao na Katibu mkuu Kiongozi, ma- RAS vile vile wanasaini na Katibu Mkuu Kiongozi, lakini Wakurugenzi wote wa halmashauri nchini wanasaini Mkataba wa Utendaji kazi na Waziri wa Nchi, Ofisi ya Rais, TAMISEMI. Kwa hiyo mfumo wa upimaji kazi katika ngazi zote upo</seg>
+          <seg xml:id="seg149">Mheshimiwa Naibu Spika, nikienda kwenye swali lake la pili la Muswada; wote hapa ni mashuhuda mwaka jana mwezi wa nne wakati Mheshimiwa Rais Samia Suluhu Hassan anahutubia Bunge hili alitaja mabadiliko ya mfumo wa OPRAS na hata katika vikao mbalimbali Mheshimiwa Rais ambavyo amekuwa akikaa na Waziri wangu Mheshimiwa Jenista Mhagama, amekuwa akikaa na watumishi wa umma amekuwa akilizungumzia suala hili la mfumo wa OPRAS. Na nikuhakikishie tunaleta mabadiliko makubwa sana katika</seg>
+          <seg xml:id="seg150">upimaji, utendaji kazi wa watumishi wa umma. Mifumo hii itakapokamilika ya PEPMIS na PIPMIS tutaleta Muswada hapa Bungeni ili kuleta mabadiliko ili Wabunge wote mpitishe tuanze kuwapima watumishi wetu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u75" who="MheGodwinEKunambi">
+          <seg xml:id="seg151">Mheshimiwa Naibu Spika, naomba kuwasilisha. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u76" who="NaibuSpika">
+          <seg xml:id="seg152">Ahsante, Mheshimiwa Sanga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u77" who="MheFestoRSanga">
+          <seg xml:id="seg153">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi niweze kuuliza swali dogo la nyongeza.</seg>
+          <seg xml:id="seg154">Mheshimiwa NaibI Spika, hivi karibuni Serikali imetangaza ajira mpya na katika ajira mpya walizozitangaza kuna Watanzania ambao walihitimu miaka ya nyuma, lakini pili kuna wale ambao walikuwa wanajitolea kwenye Serikali yetu kufanya kazi, lakini wamekosa ajira.</seg>
+          <seg xml:id="seg155">Je, mfumo upi uliotumika kuajiri mtu wa mwaka 2021 ukamuacha mtu wa mwaka 2015 ambaye alikuwa anategemea kupata ajira? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u78" who="NaibuSpika">
+          <seg xml:id="seg156">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u79" who="NaibuWaziriOfisiYaRaisMenejimentiYaUtumishiWaUmmaNaUtawalaBora">
+          <seg xml:id="seg157">Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Festo Tuntemeke Sanga, Mbunge wa Makete kama ifuatavyo:-</seg>
+          <seg xml:id="seg158">Mheshimiwa Naibu Spika, ajira hizi kwanza naomba zieleweke, ajira hizi za ualimu, ajira za afya zinaratibiwa na Ofisi ya Rais – TAMISEMI, nikisema kwamba Utumishi tumetoa vibali tu vya kuweza kutoa ajira zile. Kwa hiyo, siwezi kusema ni mfumo upi walioutumia, lakini nafahamu kuna vigezo vilivyowekwa na vigezo hivyo vilifuatwa na wale wote waliostahili kuajiriwa na</seg>
+          <seg xml:id="seg159">Serikali katika dirisha hili wameajiriwa na Serikali na hao wengine ambao huenda wanajitolea ama wanasubiri kupata ajira nyingine basi nafasi yao itakuja Serikali hii ya Awamu ya Sita chini ya Mheshimiwa Rais Samia Suluhu Hassan, inaendelea kutoa vibali vya ajira na wao waendelee kujitolea na waziombe nafasi hizi na basi nafasi yao itafika ya kuweza kuingia katika mfumo wa Serikali. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u80" who="NaibuSpika">
+          <seg xml:id="seg160">Ahsante, Waheshimiwa wabunge hili swali aliloliuliza Sanga halipo kwenye swali la msingi, nimeliacha lijibiwe kwa sababu nimejua nondo za majibu yapo na ninamwamini Mheshimiwa Waziri kwa majibu yake. Ahsante sana kwa majibu sahihi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u81" who="NaibuSpika">
+          <seg xml:id="seg161">Tunaendelea na Wizara ya Ujenzi na Uchukuzi, Mheshimiwa Londo.</seg>
+        </u>
+        <note>Na. 478. Barabara inayotumika kwa ajili ya Ujenzi wa SGR</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u82" who="MheDennisLLondo">
+          <seg xml:id="seg162">Je, kuna mpango gani kuhakikisha barabara inayotumika kwa ajili ya ujenzi wa reli ya mwendokasi (SGR) inakuwa ya kudumu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u83" who="NaibuSpika">
+          <seg xml:id="seg163">Mheshimiwa Waziri majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u84" who="NaibuWaziriWaUchukuziMheAtupeleFMwakibete">
+          <seg xml:id="seg164">Mheshimiwa Spika, kwa niaba ya Waziri wa Ujenzi na Uchukuzi naomba kujibu swali la Mheshimiwa Dennis Lazaro Londo, Mbunge wa Mikumi, kama ifuatavyo:-</seg>
+          <seg xml:id="seg165">Mheshimiwa Naibu Spika, barabara zinazotumika katika ujenzi wa reli ya mwendokasi (SGR) zipo ndani ya hifadhi ya reli na barabara hizi zilitengenezwa maalum kwa ajili ya kulisaidia Shirika la Reli Tanzania kwa maana ya TRC katika usafirishaji wa vifaa vya ujenzi, ufuatiliaji wa maendeleo ya ujenzi pamoja na matengenezo ya njia pindi ujenzi utakapokamilika na huduma kuanza kutolewa. Hata hivyo, Serikali kupitia TRC imeendelea kupokea maombi kutoka kwa wananchi kuhusu kuzifanya barabara hizi kuwa za kudumu na kuruhusiwa kuzitumia.</seg>
+          <seg xml:id="seg166">Mheshimiwa Naibu Spika, Serikali kupitia TRC itafanya uchambuzi wa kiusalama kuona kama barabara hizi zinaweza kutumiwa kwa pamoja na wananchi pasipokuathiri usalama wa uendeshaji wa treni ya SGR pamoja na wananchi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u85" who="NaibuSpika">
+          <seg xml:id="seg167">Mheshimiwa Londo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u86" who="MheDennisLLondo">
+          <seg xml:id="seg168">Mheshimiwa Naibu Spika, barabara hii kutoka Dar es Salaam hadi Mwanza ina urefu wa kilometa 1,219 na barabara hii imekuwa kiungo muhimu kati ya vijiji, Wilaya na Mikoa katika vijiji ambavyo vilikuwa havifikiki kabla hata kwa pikipiki au baiskeli, barabara hii imekuwa mkombozi kwa vijiji hivi na lengo la ujenzi wa reli ya SGR ni kurahisisha usafiri wananchi hawa hawatakuja kuifaidi hii reli isipokuwa wanaweza wakafaidi barabara hii.</seg>
+          <seg xml:id="seg169">Je, nini mpango wa Serikali wa kuunganisha vijiji hivi kwa kuendelea kutumia barabara hii? Moja. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u87" who="MheDennisLLondo">
+          <seg xml:id="seg170">Mheshimiwa Naibu Spika, lakini pili kwakuwa barabara hii inatoa fursa kwa mfano kuna mashimo makubwa ya boll pits ambayo imetumika kwenye ujenzi wa barabara hii, mashimo haya yanaweza yakatumika kwa ajili ya uvuvi, kwa ajili ya kilimo na umwagiliaji kama sehemu ya kulinda barabara hii.</seg>
+          <seg xml:id="seg171">Je, nini kauli ya Serikali haioni wakati umefika sasa wa kukaa na Wizara ya Kilimo na Wizara ya Mifugo kuona namna bora ya kutumia ili kuongeza thamani ya barabara hii. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u88" who="NaibuSpika">
+          <seg xml:id="seg172">Mheshimiwa Waziri wa Ujenzi, hili suala kubwa la barabara jibu wewe. Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u89" who="NaibuWaziriWaUjenziMheEngGodfreyKMsongwe">
+          <seg xml:id="seg173">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Ujenzi na Uchukuzi, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Dennis Lazaro Londo, Mbunge wa Mikumi kama ifuatavyo:-</seg>
+          <seg xml:id="seg174">Mheshimiwa Naibu Spika, kama swali la msingi lilivyojibiwa, zipo barabara ambazo zinaingia kwenye stesheni za reli ya SGR hizo barabara tutazijenga, lakini zile barabara ambazo zinaambaa ambaa na reli kama kwenye jibu la msingi hazitaruhusiwa kutumika kwa sababu zipo kwenye hifadhi ya reli na haziruhusiwi kutumika kwa sababu ya utaratibu wenyewe ulivyo.</seg>
+          <seg xml:id="seg175">Lakini kuhusu swali lake la pili, hayo mabwawa kama hayatahitajika kutumika yanaweza kutumika na taasisi nyingine. Lakini hilo litategemea kama taasisi nyingine zitahitaji kuzitumia na Wizara ama reli haitahitaji kuzitumia kwa wakati huo, ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u90" who="NaibuSpika">
+          <seg xml:id="seg176">Ahsante kwa majibu. Tunaingia Wizara ya Kilimo Mheshimiwa Bupe Nelson.</seg>
+        </u>
+        <note>Na. 479. Kuweka ruzuku pembejeo zote za kilimo</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u91" who="MheBupeNMwakangAta">
+          <seg xml:id="seg177">Je, Serikali ina mpango gani wa kuweka ruzuku kwenye pembejeo zote za kilimo ili wakulima waweze kununua kwa bei ndogo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u92" who="NaibuSpika">
+          <seg xml:id="seg178">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u93" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg179">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Kilimo napenda kujibu Swali la Mheshimiwa Bupe Nelson Mwakang’ata, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg180">Mheshimiwa Naibu Spika, Serikali imekuwa na utaratibu wa kuweka ruzuku ya pembejeo za kilimo katika mazao mbalimbali nchini. Kwa mwaka 2021/2022 ruzuku ya pembejeo za kilimo ilitolewa kwenye korosho, tumbaku, alizeti, michikichi na kahawa. Katika mwaka 2022/2023 Serikali itaendelea na utoaji ruzuku kama ilivyokuwa mwaka 2021/2022 na zaidi ya hapo itatoa ruzuku kwenye mbolea kwa mazao yote yenye thamani ya shilingi bilioni 150 na ruzuku kwenye mbegu za alizeti zenye thamani ya shilingi bilioni 11. Aidha, Serikali itaanzisha Mfuko wa Maendeleo ya Kilimo na jukumu mojawapo ni kuhakikisha pembejeo na zana za kilimo zinapatikana kwa bei stahimilivu kwa mazao yote na wakulima wote hapa nchini. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u94" who="NaibuSpika">
+          <seg xml:id="seg181">Mheshimiwa Bupe.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u95" who="MheBupeNMwakangAta">
+          <seg xml:id="seg182">Mheshimiwa Naibu Spika, ahsante kwanza kabisa naomba niipongeze Serikali kwa kuweka ruzuku katika pembejeo, lakini pamoja na pongezi hizi kwa kuwa wananchi wa Mkoa wa Rukwa na Watanzania kwa ujumla wanachangamoto kubwa sana ya bei ya mbolea; je, Serikali sasa imejipanga vipi kuhakikisha kwamba inafungua</seg>
+          <seg xml:id="seg183">kiwanda cha mbolea kilichopo Dodoma haraka iwekekanavyo?</seg>
+          <seg xml:id="seg184">Mheshimiwa Naibu Spika, swali la pili Serikali sasa imejipangaje kuhakikisha kwamba mbolea inawafikia kwa wakati wakulima wa pembezoni hasa wa Mkoa wa Rukwa? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u96" who="NaibuSpika">
+          <seg xml:id="seg185">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u97" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg186">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Bupe Nelson Mwakang’ata, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg187">Mheshimiwa Naibu Spika, katika swali lake la kwanza la juu ya kiwanda, ni kweli hapa Dodoma katika eneo la Nala panajengwa kiwanda kikubwa cha mbolea ambacho kinajengwa chini ya Kampuni ya ITRACOM ambacho kitakuwa kina uwezo wa kuzalisha tani 600,000 za mbolea kwa mwaka na tani 300,000 za chokaa, lakini vilevile na tani 200,000 katika eneo la blending.</seg>
+          <seg xml:id="seg188">Mheshimiwa Naibu Spika, ilitangazie Bunge lako tukufu ya kwamba tumepata nafasi ya Kamati ya Wabunge wa Kilimo pamoja na Kamati ya Wabunge wa Nyanda za Juu Kusini kutembelea katika kiwanda hicho. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u98" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg189">Mheshimiwa Naibu Spika, kwa maelezo yaliyotolewa na wataalam kiwanda hicho kitaanza kufanya kazi mwezi wa saba na ambapo shughuli za uzalishaji wa mbolea itaanza na itawafikia wakulima kama ambayo imekuwa ni azma kuhakikisha kwamba pembejeo zinawahi kwa wakulima.</seg>
+          <seg xml:id="seg190">Mheshimiwa Naibu Spika, la pili juu ya upatikanaji wa urahisi wa mbolea na kusambazwa kwa wakulima moja kati ya kazi ambayo tunataka tuisimamie vizuri kabisa ni kuhakikisha pembejeo haipishani na msimu ya kilimo kwa mkulima, hivyo sambamba na kwamba tayari hivi sasa mbolea itazalishwa hapa Dodoma, lakini pia tutaweka utaratibu mzuri wa uagizwaji wa mbolea ambayo tutahakikisha tutahakikisha kwamba wakulima wanaipata kwa wakati na tuondokane na changamoto ambayo ilikuwepo pale bandarini ambayo ilikuwa inachelewesha mbolea kusambaa kwa wakati.</seg>
+          <seg xml:id="seg191">Mheshimiwa Naibu Spika, nimtoe hofu Mheshimiwa Mbunge kwamba wakulima pia wa Rukwa watanufaika na mpango huo ambao tunakuja nao wa kuhakikisha kwamba mbolea inawafikiwa kwa wakati. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u99" who="NaibuSpika">
+          <seg xml:id="seg192">Ahsante Mheshimiwa Cherehani.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u100" who="MheEmmanuelPCherehani">
+          <seg xml:id="seg193">Mheshimiwa Naibu Spika, kwanza nikushukuru wewe, lakini pia niendelee kuishukuru sana Wizara ya Kilimo.</seg>
+          <seg xml:id="seg194">Mheshimiwa Naibu Spika, kumekuwa na changamoto kubwa ya pembejeo hizi za ruzuku zinazoenda kwa wakulima nyingi kwenda kwa watu ambao hawahusiki na badala yake kukutana nazo sokoni na kwenye maduka ya watu binafsi.</seg>
+          <seg xml:id="seg195">Sasa ni lini Serikali itakamilisha kuwasajili wakulima na kuwatambua ili pembejeo hizi zinazoenda kwa wakulima za ruzuku ziende moja kwa moja kwa wakulima wanaohusika ili kuepusha hasara inayoipata Serikali? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u101" who="MheEmmanuelPCherehani">
+          <seg xml:id="seg196">napenda kujibu swali la Mheshimiwa Cherehani, Mbunge wa Ushetu kama ifuatavyo:-</seg>
+          <seg xml:id="seg197">Mheshimiwa Naibu Spika, ni kweli pamekuwepo na changamoto katika baadhi ya maeneo pembejeo kutokuwafikia wakulima wale walengwa na kwa wakati. Wizara imejipanga kuhakikisha kwamba katika bajeti inayokuja tunatekeleza Mfumo wa Usajili wa Wakulima (Farmers Registration) ambayo itatupa uhakika wa mkulima yupo wapi, anashamba ekari ngapi, anatumia matumizi gani ya mbolea ili iwe rahisi kwa ajili ya kufuatilia kwamba kweli pembejeo zinawafikia wakulima kwa wakati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u102" who="NaibuSpika">
+          <seg xml:id="seg198">Mheshimiwa Suma.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u103" who="MheSumaIFyandomo">
+          <seg xml:id="seg199">Mheshimiwa Naibu Spika, ahsante kwa kunipa nami nafasi niweze kuuliza swali la nyongeza. Kwanza niweze kumshukuru sana nakumpongeza Mheshimiwa Rais, Mama Samia Suluhu Hassan kwa kusikia kilio cha Watanzania kuhusu mbolea. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u104" who="MheSumaIFyandomo">
+          <seg xml:id="seg200">Mheshimiwa Naibu Spika, mimi namshukuru Mungu ni mmoja wa wale waliokwenda kukagua hicho kiwanda. Kiwanda kile ni kikubwa na kitawasaidia sana wananchi wote wa Tanzania kilio cha mbolea kitakuwa ni historia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u105" who="MheSumaIFyandomo">
+          <seg xml:id="seg201">Mheshimiwa Naibu Spika, nilipenda sana kuuliza swali kwamba; naomba kujua hiyo mbolea tumesikia kwamba mwezi wa saba kinaanza kutumika rasmi.</seg>
+          <seg xml:id="seg202">Mheshimiwa Naibu Spika, ni lini sasa ambapo mbolea hiyo itaanza kusambazwa kwa Watanzania hasa Mkoa wa Mbeya ambapo kilio ni kikubwa na Mbeya ni bustani ya Mungu kila soko ukipita unaambiwa hiki ni chakula cha kutoka Mbeya?</seg>
+          <seg xml:id="seg203">Mheshimiwa Naibu Spika, ahsante sana, naomba sana nipate majibu ni lini itaanza kuwafikia baada ya kuanza kutengeneza hiyo mbolea? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u106" who="NaibuSpika">
+          <seg xml:id="seg204">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u107" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg205">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Suma, Mbunge wa Viti Maalum wa Mkoa wa Mbeya kama ifuatavyo:-</seg>
+          <seg xml:id="seg206">Mheshimiwa Naibu Spika, kama nilivyosema katika majibu yangu ya awali kwamba kiwanda hiki kinategemea kuanza kazi mwezi wa saba hivyo tumaini ni kwamba kuanzia mwezi wa nane mbolea itaanza kusambazwa katika maeneo husika ili iweze kuwafikia wakulima kwa wakati.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u108" who="NaibuSpika">
+          <seg xml:id="seg207">Mheshimiwa Raymond.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u109" who="MheShallyJRaymond">
+          <seg xml:id="seg208">Mheshimiwa Naibu Spika, ahsante sana; bei ya kahawa imefikia sasa kilo shilingi 10,000 mpaka shilingi 14,000 na wananchi wa Kilimanjaro wanaolima kahawa aina ya Arabica wamehamasika sana, lakini kahawa inahitaji sana mbolea, maji na pembejeo nyingine. Katika jibu la msingi Mheshimiwa Naibu Waziri ametueleza kwamba ruzuku hiyo itapatikana Tanzania nzima.</seg>
+          <seg xml:id="seg209">Je, wananchi wa Kilimanjaro nao watapatiwa ruzuku hiyo ya kahawa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u110" who="NaibuSpika">
+          <seg xml:id="seg210">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u111" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg211">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Shally Josepha Raymond, Mbunge wa Viti Maalum toka Mkoa wa Kilimanjaro kama</seg>
+          <seg xml:id="seg212">Mheshimiwa Naibu Spika, moja kati ya utekelezaji ambao tutaufanya katika bajeti inayoanza mwezi wa saba ni kuhakikisha tunazalisha miche bora zaidi ya milioni 20 kwa ajili ya kuwafikia wakulima wote ikiwemo wakulima wa Mkoa wa Kilimanjaro wanaolima kahawa. Sambamba na hiyo maana yake tutaenda pia na katika eneo la ruzuku ambalo tumesema kwamba halitabagua mazao ni katika maeneo yote. Hivyo nimuondoe hofu Mheshimiwa Mbunge ya kwamba wakulima wa kahawa wamekumbukwa na niwapongeze sana kwa kuwasimamia wakulima wa kahawa wa Mkoa wa Kilimanjaro.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u112" who="NaibuSpika">
+          <seg xml:id="seg213">Mheshimiwa George Mwenisongole.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u113" who="MheGeorgeRMwenisongole">
+          <seg xml:id="seg214">Mheshimiwa Naibu Spika, ahsante kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg215">Mheshimiwa Naibu Waziri umesema kwamba Serikali ina mpango wa kuwasajili wakulima, lakini kwa msimu huu wa mwaka huu unaoanza ambao wakulima wanahitaji mbolea hizo mwezi wa tisa ziwafikie. Serikali ina mpango gani wa kuhakikisha kwamba madalali hawatahusika kwenye hii ruzuku ya Serikali na ruzuku hii itakwenda moja kwa moja kwa wakulima kwa msimu huu? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u114" who="NaibuSpika">
+          <seg xml:id="seg216">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u115" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg217">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa George Mwenisongole, Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg218">Mheshimiwa Naibu Spika, nakubaliana kabisa na Wabunge juu ya kilio cha madalali wa katikati hapa kutokuwafikishia mbolea wakulima kwa wakati. Sisi kama Serikali pamoja na kwamba zoezi la muda mrefu ni la kuwasajili wakulima, lakini kwa hivi sasa tumekuwa tukifanya vikao vya</seg>
+          <seg xml:id="seg219">mara kwa mara na wasambazaji wa mbolea hapa nchini kuhakikisha tunatengeneza mfumo wa pamoja ili mwisho wa siku makosa yaliyotokea miaka ya nyuma isijirudie na pembejeo hizi ziwafikie wakulima kwa wakati.</seg>
+          <seg xml:id="seg220">Nimuondoe hofu Mheshimiwa Mbunge kwamba siku mbili zilizopita Waziri wa Kilimo alikuwa na kikao na wasambazaji wa mbolea hapa nchini kwa lengo hilo la kutengeneza mfumo mzuri ambao mwisho wa siku na sisi tutausimamia kama Serikali ili mkulima aweze kunufaika na ruzuku hii ambayo tutaitoa katika eneo hili la mbolea.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u116" who="NaibuSpika">
+          <seg xml:id="seg221">Mheshimiwa Waziri si madalali tu, kuna watu wanachukua mbolea halafu baadaye wanachakachua wanaongeza na randa za mbao ndani. Hii muwe waangalifu sana kwasababu sisi watu wa Dar es Salaam ni walaji hatulimi, lakini tunaona lazima tuwatetee walimaji.</seg>
+          <seg xml:id="seg222">Mheshimiwa Vita, ajiandae Mheshimiwa Kyombo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u117" who="MheVitaRashidKawawa">
+          <seg xml:id="seg223">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi hii.</seg>
+          <seg xml:id="seg224">Kwa kuwa sasa hivi ndiyo tunaelekea kwenye msimu wa kilimo na bajeti ndiyo imeisha na mmesema kutakuwa na mchakato huo wa kufanya registration ya wakulima na wakulima wanahitaji mbolea kuanzia mwezi wa tisa.</seg>
+          <seg xml:id="seg225">Je, mtatoa maelekezo ya utaratibu gani wa kuanza kuwafikia mbolea hiyo ya ruzuku kwenye mikoa yetu ili iweze kupatikana kwa wakati? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u118" who="MheVitaRashidKawawa">
+          <seg xml:id="seg226">napenda kujibu swali la Mheshimiwa Vita Kawawa, Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg227">Mheshimiwa Naibu Spika, kama nilivyosema katika maelezo yangu ya awali ni kwamba hivi sasa tumekaa kwa pamoja sote kutengeneza mwongozo mzuri ambao utahakikisha tunatibu matatizo yaliyojitokeza pale nyuma ya kuwafanya wakulima wasipate ruzuku hiyo ya pembejeo kwa wakati, lakini vilevile mwongozo huu pia utatoa utaratibu mzuri wa ushirikishaji wa pande zote ili tuhakikishe kwamba tunashirikisha kuanzia ngazi ya Mkoa, Wilaya na kule mpaka chini kabisa ili mkulima aweze kupatiwa mbolea hizi kwa wakati pasipo ujanja ujanja wowote hapa katikati.</seg>
+          <seg xml:id="seg228">Mheshimiwa Naibu Spika, kwa hiyo mwongozo ule ukitoka tutautanga na pia Waheshimiwa Wabunge wote mtapata nafasi kuuona na vilevile baada ya hapo sasa tutaweza kuusimamia ili mwisho wa siku mkulima aweze kunufaika na ruzuku ya pembejeo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u119" who="NaibuSpika">
+          <seg xml:id="seg229">Mheshimiwa Kyombo.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u120" who="MheKasalaliEMageni">
+          <seg xml:id="seg230">Mheshimiwa Naibu Spika, naitwa Kasalali Mageni, nakushukuru.</seg>
+          <seg xml:id="seg231">Mheshimiwa Naibu Spika, Serikali imewekeza sana kwenye kufahamu wakulima wa choroko na dengu wanauzaje mazao yao na Serikali imekuwa ikiwekeza zaidi katika kuhakikisha inakusanya mapato kwenye uuzaji wa mazao hayo, lakini Serikali hii haijawekeza kabisa kwenye kujua wanazalisha vipi choroko na dengu.</seg>
+          <seg xml:id="seg232">Je, Serikali haioni sasa umefika wakati wa kutoa ruzuku na mbegu bora kwenye mazao haya ya choroko na dengu</seg>
+          <seg xml:id="seg233">ambayo soko lake ni la uhakika na yamekua yakichangia sana kwenye uchumi wa nchi hii? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u121" who="NaibuSpika">
+          <seg xml:id="seg234">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u122" who="NaibuWaziriWaKilimo">
+          <seg xml:id="seg235">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Kasalali Mageni, Mbunge wa Sumve kama ifuatavyo:-</seg>
+          <seg xml:id="seg236">Mheshimiwa Naibu Spika, sisi kama Serikali dhamira yetu ni kuhakikisha tunakuza sekta ya kilimo kwa kuwezesha mazao yote kuweza kuzalisha kwa tija. Nimuondoe hofu Mheshimiwa Mbunge ya kwamba hivi sasa tunapoelekea huko tunazidi kuongeza nguvu katika mazao yote kwa maana katika eneo la utafiti, lakini mwisho wa siku upatikanaji wa pembejeo za urahisi.</seg>
+          <seg xml:id="seg237">Mheshimiwa Naibu Spika, hivyo Mheshimiwa Mbunge nikutoe hofu tu ya kwamba katika mazao haya mawili ambayo umeyazungumza ya choroko na dengu kama Serikali kwa kutambua kwamba yana masoko makubwa tutaendelea kuweka nguvu kubwa kuhakikisha kwamba wakulima wetu wanalima kwa tija na mwisho wa siku kilimo hicho kiweze kuwanufaisha.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u123" who="NaibuSpika">
+          <seg xml:id="seg238">Waheshimiwa Wabunge tunaendelea Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi Mheshimiwa Mwita Mwikwabe, kw aniaba yake.</seg>
+        </u>
+        <note>Na. 480. Malipo ya Fidia kwa Wananchi Waliochukuliwa Maeneo Yao</note>
+        <note>K.n.y. MHE. MWITA M. WAITARA</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u124" who="MheMichaelMKembaki">
+          <seg xml:id="seg239">Je, ni lini wananchi wa Nyamichele, Komarera na Murwambe watalipwa fidia ya maeneo yao?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u125" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg240">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Mwita Mwikwabe Waitara, Mbunge wa Tarime Vijijini kama ifuatavyo:-</seg>
+          <seg xml:id="seg241">Mheshimiwa Naibu Spika, Wizara yetu imekamilisha uthamini wa mali za wananchi katika Kijiji cha Komarera na ulipaji wa fidia ulianza kufanyika tangu tarehe 5 Aprili, 2022. Hadi sasa jumla ya wananchi 258 kati ya 6,847 wamepokea hundi za malipo ya fidia yanayolipwa na Kampuni ya Barrick.</seg>
+          <seg xml:id="seg242">Mheshimiwa Naibu Spika, kwa upande wa Vijiji vya Nyamichele na Murwambe, wananchi hawatalipwa fidia na badala yake watalipwa fedha za usumbufu kwa kuzuiwa kuendeleza maeneo yao kutokana na Kampuni ya Barrick North Mara kuondoa nia ya kutwaa maeneo hayo. Fedha hizo zitalipwa baada ya kukamilika kwa kazi ya uchambuzi wa taarifa za uthamini uliofanyika mwaka 2013 kazi ambayo inafanywa na mthamini binafsi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u126" who="NaibuSpika">
+          <seg xml:id="seg243">Mheshimiwa Kembaki.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u127" who="MheMichaelMKembaki">
+          <seg xml:id="seg244">Mheshimiwa Naibu Spika, ningependa kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg245">Katika Mji wetu wa Tarime kuna mlima Mkongore ambao ulitwaliwa na Serikali kwa nia ya kuhifadhi mlima ule; je, ni lini wananchi wale watalipwa fidia ili waweze kupisha uhifadhi huo uweze kuendelea?</seg>
+          <seg xml:id="seg246">MAKAZI: Mheshimiwa Naibu Spika, naomba kujibu swali la nyongeza la Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg247">Mheshimiwa Naibu Spika, kwa kuwa swali hili linahitaji taarifa za kina kutoka ofisini kwetu, ningeomba Mheshimiwa Mbunge atupe nafasi ili tuweze kuulizana na wenzetu wa ofisini na watakapotupa taarifa za uhakika basi nitakuja kumpa taarifa, nashukuru. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u128" who="NaibuSpika">
+          <seg xml:id="seg248">Mheshimiwa Matiko.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u129" who="MheEstherNMatiko">
+          <seg xml:id="seg249">Mheshimiwa Naibu Spika, nakushukuru.</seg>
+          <seg xml:id="seg250">Mheshimiwa Naibu Spika, majibu ya Serikali kwa kweli yanasikitisha, wananchi wa Nyamichele na Murwambe walifanyiwa tathimini mwaka 2012, miaka 10 imepita wakafyekewa mazao yao ambayo walikuwa wanatumia kama chakula mengine kusomeshea watoto wao baadaye Barrick inaondoa nia kwamba haihitaji tena kuchukua hayo maeneo, mnasema mnalipa usumbufu tunataka kujua wananchi hawa ambao mlikata mazao yao kumfanya na uthamini kwa miaka 10 muwalipe fidia stahiki na siyo usumbufu ili waweze kuendelea na shughuli zao.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u130" who="NaibuSpika">
+          <seg xml:id="seg251">Mheshimiwa Waziri wa Ardhi.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u131" who="WaziriWaArdhiNyumbaMaendeleoNaMakazi">
+          <seg xml:id="seg252">Mheshimiwa Naibu Spika, kwanza nimshukuru Naibu Waziri kwa majibu mazuri aliyoyatoa katika swali la msingi.</seg>
+          <seg xml:id="seg253">Mheshimiwa Naibu Spika, wananchi wale hawakulipwa kwa wakati ule kama ambavyo walifanyiwa tathimini kwa sababu kumekuwa na udaganyifu mkubwa ambao wananchi wanaufanya katika kutafuta thamani ya mali zao. Wenye mgodi walikuwa tayari kuchukua, lakini na bajeti iliyokuwa imewekwa ilikuwa imetengwa sahihi, lakini kutokana na udanganyifu uliopo waliona ni heri waachane nayo ili kuwaweka wananchi wale wasipate shida zaidi wameamua kulipa usumbufu na sasa hivi wameweka consultancy ili kuona ni kiasi gani wataweza kuwalipa ili kuwafidia kwa ule muda ambao wamekuwa wakisubiri. Lakini rai yetu kama Serikali waondokane na kutegesha ili Serikali au mwekezaji anapokuja aweze kulipa stahiki zao na siyo za udanganyifu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u132" who="NaibuSpika">
+          <seg xml:id="seg254">Ahsante Mheshimiwa Chomete.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u133" who="MheGhatiZChomete">
+          <seg xml:id="seg255">Mheshimiwa Naibu Spika, ahsante; wakati wa ACCACIA wananchi walikuwa wanalipwa kwa eka moja shilingi milioni sita mpaka milioni nane na sasa wananchi wanalipwa kwa eka moja shilingi milioni tano.</seg>
+          <seg xml:id="seg256">Je, ni kwa nini hii ardhi inaendelea kushuka thamani badala ya kupanda na ukilinganisha sasa hivi vitu vimepanda kama cement, bati na nondo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u134" who="NaibuSpika">
+          <seg xml:id="seg257">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u135" who="NaibuWaziriWaArdhiNyumbaNaMaendeleoYaMakazi">
+          <seg xml:id="seg258">Mheshimiwa Naibu Spika, naomba kumjibu Mheshimiwa Ghati Chomete, Mbunge wa Mkoa wa Mara kama ifuatavyo:-</seg>
+          <seg xml:id="seg259">Mheshimiwa Naibu Spika, kwa mujibu wa vigezo vya uthamini kila eneo lina thamani yake, si kila eneo litakuwa na thamani sawa. Hivyo nataka nimuhakikishie Mheshimiwa</seg>
+          <seg xml:id="seg260">Mbunge kwamba thamani iliyoonekana katika eneo la Nyamichele na maeneo mengineyo imefanana katika uthamini uliofanywa ambapo Mthamini Mkuu anayo taarifa yake yote kamili.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u136" who="NaibuSpika">
+          <seg xml:id="seg261">Waheshimiwa tunaendelea Wizara ya Madini, Mheshimiwa Asia.</seg>
+        </u>
+        <note>Na. 481. Elimu ya Upandishaji thamani Madini ya Vito</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u137" who="MheAsiaAHalamga">
+          <seg xml:id="seg262">Je, Serikali ina mpango gani wa kutoa elimu ya upandishaji thamani madini ya vito kwa vijana wa Manyara na hasa Mji wa Mererani?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u138" who="NaibuSpika">
+          <seg xml:id="seg263">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u139" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg264">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Madini napenda kujibu swali la Mheshimiwa Asia Abbdukarimu Halamga, Mbunge wa Viti Maalum kama ifuatavyo:-</seg>
+          <seg xml:id="seg265">Mheshimiwa Naibu Spika, Wizara ya Madini, ilianzisha Kituo cha Jemolojia Tanzania kilichopo Jijini Arusha kwa ajili ya kuendesha programu mbalimbali za mafunzo ya uongezaji thamani madini. Kituo hicho kinatoa mafunzo ya muda mrefu na muda mfupi katika ngazi ya Astashahada na Stashahada kwenye fani ya teknolojia ya madini ya vito na usonara yaani gem and jewellery technology. Hadi Mei, 2022 Kituo cha Jemolojia kimetoa jumla ya wanahitimu 203 katika ngazi ya Astashahada na 11 katika ngazi ya Stashahada.</seg>
+          <seg xml:id="seg266">Mheshimiwa Naibu Spika, Wizara inaendelea kukiimarisha kituo hiki kwa kupanua miundombinu ya mafunzo itakayopelekea kuchukua wanafunzi wengi zaidi na baada ya kuimarika kwa kituo hicho, matawi mengine yatafunguliwa kwenye mikoa yenye madini ya vito ikiwemo Mkoa wa Manyara katika eneo la Mererani ambapo madini ya Tanzanite yanachimbwa.</seg>
+          <seg xml:id="seg267">Mheshimiwa Naibu Spika, kwa hiyo nitumie fursa hii kutoa wito wa wananchi wa Mkoa wa Manyara na wananchi na wananchi wote wa Tanzania wachangamkie fursa ya mafunzo ya uongezeji thamani madini ya vito ili waweze kunufaika zaidi na uwepo wa madini nchini. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u140" who="NaibuSpika">
+          <seg xml:id="seg268">Mheshimiwa Asia.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u141" who="MheAsiaAHalamga">
+          <seg xml:id="seg269">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza maswali mawili ya nyongeza.</seg>
+          <seg xml:id="seg270">Swali langu la kwanza; je, ni sifa zipi vijana wanatakiwa kuwa nazo ili kuweza kujiunga katika kituo hicho cha Jemolojia? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u142" who="MheAsiaAHalamga">
+          <seg xml:id="seg271">Mheshimiwa Naibu Spika, swali langu la pili; je, Serikali inampango gani wakuwawezesha mitaji pamoja na vifaa vijana ambao tayari wamepata mafunzo ili kuweza kujiendeleza katika ajira? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u143" who="NaibuSpika">
+          <seg xml:id="seg272">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u144" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg273">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Halamga kama ifuatavyo:-</seg>
+          <seg xml:id="seg274">Mheshimiwa Naibu Spika, kwa swali lake la kwanza kuhusu sifa za mtu anayetaka kujifunza teknolojia hii ya uongezaji thamani madini, napenda kumjulisha kwamba chuo chetu cha Jemolojia kina mafunzo katika ngazi tatu; ngazi ya kwanza ni mafunzo ya muda mfupi ya kuanzia mwezi mmoja na kuendelea ambayo mtu yeyote anayehitaji kupata ujuzi huo anaweza kujiandikisha.</seg>
+          <seg xml:id="seg275">Katika ngazi ya pili ni ngazi ya kutoa cheti cha mwaka mmoja ambapo sifa zinazohitajika ni mtu mwenye elimu ya darasa saba na kuendelea; na katika ngazi ya tatu ni kwa mujibu wa NACTE mtu mwenye elimu wa kidato cha nne na walau maksi zisizopungua „D” nne katika mtihani wa Taifa na kuendelea anaweza kusoma hii course ya Diploma kwa miaka miwili mpaka hata mitatu.</seg>
+          <seg xml:id="seg276">Mheshimiwa Naibu Spika, kwa swali lake la pili kuhusu mpango wa Serikali wa kuwawezesha wanaohitimu ili waweze kuajiriwa au kujiajiri; kupitia uwepo wa makampuni mbalimbali yanayoendelea kuanzisha vituo vya kuongeza thamani ya madini nchini hasa madini ya vito kutakuwa na fursa nyingi za hawa vijana wanaohitimu kuweza kuajiriwa. Sambamba na hilo kwa kuwa vijana hawa wapo katika lile kundi la wanufaikaji wa ile mikopo isiyo na riba ya asilimia 10 katika halmashauri zetu wanaweza wakaungana wakasajili kikundi wakapewa mikopo ya kuwawezesha kununua vifaa na hivyo kujiajiri kwa kutumia teknolojia waliyopata ya kuongeza madini thamani ya vito. Ahsante sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u145" who="NaibuSpika">
+          <seg xml:id="seg277">Mheshimiwa Asenga.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u146" who="MheAbubakariDAsenga">
+          <seg xml:id="seg278">Mheshimiwa Naibu Spika,</seg>
+          <seg xml:id="seg279">Mheshimiwa Naibu Spika, ili tupate vito zaidi vya madini lazima tuwe na madini mengi zaidi; na ili tuwe na madini mengi zaidi lazima tufanye utafiti wa kina wa madini.</seg>
+          <seg xml:id="seg280">Je, Serikali ina mpango gani wa kufanya utafiti wa upatikanaji wa madini katika Wilaya ya Kilombero?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u147" who="NaibuSpika">
+          <seg xml:id="seg281">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u148" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg282">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Asenga kama ifuatavyo:-</seg>
+          <seg xml:id="seg283">Mheshimiwa Naibu Spika, Wizara ya Madini imeshafanya tafiti mbalimbali za awali kwa kutumia Taasisi yake ya GST na ziko taarifa za awali ambazo zinaonesha maeneo yenye madini ya aina mbalimbali nchini. Kwa mfano katika eneo la Mererani zaidi ya kuwa na Tanzanite, tuna madini ya Graphite, Greenganet na Marble; na hivyo mtanzania yoyote au mtu yoyote anayehitaji kupata maeneo ambayo kuna viashiria vya uwepo vya madini, akifika kwenye Taasisi zetu hizo za GST au STAMICO au katika Ofisi ya Afisa Mkazi wa Madini wa Mkoa husika atapata taarifa na maelekezo ya maeneo ambayo yanapatikana, maeneo ambayo hayana leseni aweze kujichimbia madini hayo.</seg>
+          <seg xml:id="seg284">Mheshimiwa Naibu Spika, kwa hiyo, tafiti zimefanyika na mtu yoyote mwenye uwezo anaweza akajifadhili na akafanya utafiti wa kina zaidi apate kupata uhakika wa kiasi cha madini yaliyopo katika eneo husika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u149" who="NaibuSpika">
+          <seg xml:id="seg285">Mheshimiwa Ole-Sendeka.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u150" who="MheChristopherOOleSendeka">
+          <seg xml:id="seg286">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali dogo la</seg>
+          <seg xml:id="seg287">Mheshimiwa Naibu Spika, kwa kuwa madini ya vito ya Tanzanite yanachimbwa, kuongezewa thamani na kuuzwa katika Mji wa Mererani pekee; na kwa kuwa madini haya yanasafirishwa nje ya nchi na haijawekwa utaratibu wa uuzaji wa madini yaliyokwishaongezewa thamani kwenye maduka ya watalii na kwa masonara.</seg>
+          <seg xml:id="seg288">Je, Serikali haioni sasa iko haja ya kukaa na wadau wa Tanzanite ili kuona uwezekano wa kiasi kidogo cha madini yaliyokwishalipiwa kodi na kusanifiwa kuuzwa katika maduka ya watalii, mahoteli na kwa masonara ili kuweka usambazaji wa madini haya ndani ya nchi?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u151" who="NaibuSpika">
+          <seg xml:id="seg289">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u152" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg290">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Christopher Olonyokie Ole- Sendeka, Mbunge wa Jimbo la Simanjiro kama ifuatavyo:-</seg>
+          <seg xml:id="seg291">Mheshimiwa Naibu Spika, ni kweli tuliweka utaratibu wa kudhibiti uuzaji wa holela na utoroshaji wa madini ya Tanzanite na ndiyo maana ikaanzishwa eneo tengefu la madini ya Tanzanite na likatengenezewa kanuni zake ambazo zimedhibiti uuzaji wa Tanzanite katika maeneo mbalimbali ndani ya nchi. Lakini baada ya mwaka mmoja sasa tangu mfumo huo uanze kufanya kazi, hivi karibuni tumeanzisha tume ya kufanya tathmini (review) ya kuangalia impact ya utaratibu huo tuliojiwekea na taarifa za awali za tafiti hizo au review hiyo zimeshatoka.</seg>
+          <seg xml:id="seg292">Mheshimiwa Naibu Spika, Wizara iko katika hatua ya kuipitia na hivi karibuni tutaitisha kikao cha wadau ili kwa pamoja tuweze kuchakata na kuja na utaratibu mzuri wa kuwezesha madini haya yaweze kuongezewa thamani palepale Mererani na yaweze kuruhusiwa kuchukuliwa na</seg>
+          <seg xml:id="seg293">wauzaji mbalimbali au wafanyabiashara yaingie katika masoko yetu ya madini mengine katika Mikoa ya Dar es Salaam, Arusha, kwa masonara na maeneo ambayo yatakuwa yameidhinishwa baada ya wadau kukubaliana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u153" who="NaibuSpika">
+          <seg xml:id="seg294">Ahsante kwa majibu mazuri. Mheshimiwa Flatei.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u154" who="MheFlateiGMassay">
+          <seg xml:id="seg295">Mheshimiwa Naibu Spika, nakushukuru kwa nafasi hii.</seg>
+          <seg xml:id="seg296">Waziri kabla yako, Naibu Waziri alikuja kwenye eneo la Masieda kwenye madini ya dhahabu wakapanga namna nzuri ya uwekezaji na kwa bahati nzuri wakaingia mkataba. Lakini baada ya hapo wananchi hawakupata ile faida ya mkataba.</seg>
+          <seg xml:id="seg297">Je, kama Serikali mtatusaidiaje katika eneo hilo la Masieda?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u155" who="NaibuSpika">
+          <seg xml:id="seg298">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u156" who="NaibuWaziriWaMadini">
+          <seg xml:id="seg299">Mheshimiwa Naibu Spika, napenda kujibu swali la Mheshimiwa Flatei, Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg300">Mheshimiwa Naibu Spika, kwa mujibu wa kanuni za madini na Sheria yetu Namba 123 ni lazima mwekezaji yeyote wa madini katika eneo husika awe na mpango mahususi wa jinsi atakavyojihusisha na masuala la uchangiaji wa maendeleo kwenye jamii, tunaita Cooperate Social Responsibility. Ni mpango ambao unatambulika kikanuni ni wa kisheria.</seg>
+          <seg xml:id="seg301">Mheshimiwa Naibu Spika, kwa hivyo kama kuna tatizo katika eneo lake na kwa kuwa Mheshimiwa Mbunge nishazungumza naye kwamba nitapanga ziara mwezi wa saba</seg>
+          <seg xml:id="seg302">ya kutembelea eneo hilo, tutakuja kuifanyia kazi changamoto hiyo ili tuweze kujua ni kwa nini mwekezaji aliopo katika eneo lake hatimizi wajibu wa kisheria na kikanuni wa kutoa support katika jamii anayochimbia madini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u157" who="NaibuSpika">
+          <seg xml:id="seg303">Ahsante kwa majibu Mheshimiwa Waziri.</seg>
+          <seg xml:id="seg304">Tunaendelea Wizara ya Uwekezaji, Viwanda na Biashara. Mheshimiwa Condester Michael Sichalwe.</seg>
+        </u>
+        <note>Na. 482. Kuvutia Wawekezaji wa Kilimo cha Matunda</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u158" who="MheCondesterMSichwale">
+          <seg xml:id="seg305">Je, Serikali ina mpango gani wa kuvutia wawekezaji katika kilimo cha matunda ndani ya Bonde la Mto Momba?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u159" who="NaibuSpika">
+          <seg xml:id="seg306">Mheshimiwa Waziri wa Uwekezaji, Viwanda na Biashara majibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u160" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg307">Mheshimiwa Naibu Spika, kwa niaba ya Waziri wa Uwekezaji, Viwanda na Biashara napenda kujibu swali la Mheshimiwa Condester Michael Sichalwe, Mbunge wa Momba kama ifuatavyo:-</seg>
+          <seg xml:id="seg308">Mheshimiwa Naibu Spika, Serikali inatekeleza mipango ya kuvutia uwekezaji ikiwemo kilimo cha matunda hapa nchini kwa kuandaa miongozo ya uwekezaji kitaifa na kimikoa, kuandaa makongamano ya uwekezaji na kuweka taarifa za fursa za</seg>
+          <seg xml:id="seg309">uwekezaji katika tovuti ya Kituo cha Uwekezaji Tanzania yaani TIC.</seg>
+          <seg xml:id="seg310">Mheshimiwa Naibu Spika, wawekezaji watakaokuja kuwekeza katika sekta ya kilimo kutokana na mipango na mikakati hii tutawaelekeza pia kuwekeza katika Bonde la Mto Momba kwa ajili ya kilimo cha matunda, nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u161" who="NaibuSpika">
+          <seg xml:id="seg311">Mheshimiwa Condester.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u162" who="MheCondesterMSichalwe">
+          <seg xml:id="seg312">Mheshimiwa Naibu Spika, nakushukuru tena kwa kunipa nafasi kuuliza maswali mawili ya nyongeza. Pamoja na majibu mazuri ya Serikali ambayo yanaleta matumaini, naomba kuuliza maswali mawili kama ifuatavyo:-</seg>
+          <seg xml:id="seg313">Mheshimiwa Naibu Spika, ili uwekezaji uweze kuleta tija ni lazima kuwepo na mazingira mazuri na rafiki ya kuvutia uwekezaji. Ni nini kauli ya Wizara hii kushirikiana na Wizara za kisekta mfano Wizara ya Kilimo kuhakikisha inaboresha mazingira ya umwagiliaji, lakini Wizara ya Nishati kuhakikisha wanaweka umeme katika maeneo ambayo hayana umeme, mfano Msangano, Nkawa na vijiji vingine ambavyo vinazunguka jimbo la mto huo ili mwekezaji atakapofika akute mazingira ni rafiki?</seg>
+          <seg xml:id="seg314">Mheshimiwa Naibu Spika, swali la pili, kwa kuwa kwenye jibu lako la msingi umesema kwamba Serikali imejipanga kuandaa makongamano; je, baada ya Bunge hili la Bajeti ni lini tutaongozana wote kwenda Jimboni Momba angalau tuweze kufanya makongamano matatu kwa ajili ya kuwahamasisha wananchi kupokea huo uwekezaji? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u163" who="MheCondesterMSichalwe">
+          <seg xml:id="seg315">Mheshimiwa Naibu Spika, napenda kujibu maswali mawili ya nyongeza ya Mheshimiwa Condester Sichalwe, Mbunge wa Momba kama ifuatavyo:-</seg>
+          <seg xml:id="seg316">Mheshimiwa Naibu Spika, kwanza nimpongeze sana Mheshimiwa Condester kwa kazi kubwa anayofanya kwa kufuatilia uwekezaji katika jimbo lake na hasa katika sekta ya kilimo.</seg>
+          <seg xml:id="seg317">Mheshimiwa Naibu Spika, ni kweli najua sambamba na Bonde hili la Momba lakini pia kuna mabonde mengine mazuri ambayo yanafaa kwa kilimo ikiwemo Bonde la Msaangano na Kamsamba ambayo kimsingi kama nilivyosema tunashirikiana na Wizara ya Kilimo ambapo tayari Tume ya Umwagiliaji inafanya upembuzi yakinifu kuona namna gani watatumia mabonde hayo katika kilimo cha umwagiliaji ili kuhakikisha wananchi wa pale wanapata fursa ya kulima kupitia mabwawa, mabanio na mifereji mikuu kwa ajili ya umwagiliaji.</seg>
+          <seg xml:id="seg318">Mheshimiwa Naibu Spika, lakini sambamba na hilo, Serikali inaendelea kuweka miundombinu wezeshi ikiwemo kuhakikisha umeme unapatikana ikiwa kama kuna mwekezaji atataka kuchakata mazao hayo basi aweze kuchakata kwa unafuu, lakini zaidi kuhakikisha barabara ambayo ni miundombinu muhimu sana kwa ajili ya usafirishaji ikiwemo daraja lile la Mto Momba na barabara ambazo zinapitika muda wote.</seg>
+          <seg xml:id="seg319">Mheshimiwa Naibu Spika, kwa hiyo, tunahakikisha sekta husika ambazo zinahusika na sekta hii ya kilimo tunashirikiana kwa pamoja. Lakini zaidi kama alivyosema ni kweli moja ya hamasisho tunayofanya ni kupitia makongamano, kupitia redio mbalimbali kwa mfano kule Kusini kuna Redio Shamba FM ambayo iko pale Iringa inatangaza fursa hizi za kilimo. Lakini tutapanga baada ya Bunge hili niende jimboni kwa</seg>
+          <seg xml:id="seg320">Mheshimiwa Condester tuweze kufanya makongamano kwa kushirikiana na wadau mbalimbali ili kuhamasisha sekta hii ya kilimo. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u164" who="NaibuSpika">
+          <seg xml:id="seg321">Mheshimiwa Ndulane.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u165" who="MheFrancisKNdulane">
+          <seg xml:id="seg322">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg323">Mheshimiwa Naibu Spika, katika Jimbo la Kilwa Kaskazini katika eneo linalojulikana kama Milima ya Matumbi ni maarufu sana kwa kilimo cha matunda aina ya ndimu, malimao na machungwa matamu sana.</seg>
+          <seg xml:id="seg324">Je, Serikali ina mpango gani wa kuvutia wawekezaji wa kilimo cha matunda niliyoyataka katika Jimbo la Kilwa Kaskazini? Ahsante. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u166" who="NaibuSpika">
+          <seg xml:id="seg325">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u167" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg326">Mheshimiwa Naibu Spika, nakushukuru na napenda kujibu swali dogo la nyongeza la Mheshimiwa Kumba Ndulane, Mbunge wa Jimbo la Kilwa Kaskazini kama ifuatavyo:-</seg>
+          <seg xml:id="seg327">Mheshimiwa Naibu Spika, ni kweli kama nilivyosema nia ya Serikali ni kuhamasisha wawekezaji katika sekta ya kilimo na sekta nyingine. Mheshimiwa Mbunge kwa sababu umetupa hii taarifa, tutakuja kuona sasa kutembelea maeneo hayo ili tuweze kuyatangaza vizuri kwa ajili ya wawekezaji. Lakini zaidi nitumie fursa hii kuwaomba Wabunge, lakini halmashauri kuona tunatenga maeneo ambayo yatakuwa yanafaa kwa ajili ya kilimo, kwa ajili ya uwekezaji ili ardhi hiyo isije ikawa na malumbano wakati tukishapata wawekezaji ili wawekeze katika</seg>
+          <seg xml:id="seg328">ardhi ambayo tayari imetengwa na kutwaliwa na halmashauri husika. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u168" who="NaibuSpika">
+          <seg xml:id="seg329">Mheshimiwa Toufiq.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u169" who="MheFatmaHToufiq">
+          <seg xml:id="seg330">Mheshimiwa Naibu Spika, ahsante sana kwa kunipa fursa nami niweze kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg331">Mheshimiwa Naibu Spika, mradi wa matunda wa maembe uliopo katika Kata ya Huzi, Wilaya ya Chamwino, Mkoa wa Dodoma unasuasua na Serikali iliahidi kujenga kiwanda katika eneo hili.</seg>
+          <seg xml:id="seg332">Je, lini Serikali itafanya uharaka wa kujenga kiwanda hiki ili kusudi wananchi waweze kupata faida ya matunda yale wanayoyalima? Ahsante.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u170" who="NaibuSpika">
+          <seg xml:id="seg333">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u171" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg334">Mheshimiwa Naibu Spika, nakushukuru, napenda kujibu swali la nyongeza la Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg335">Mheshimiwa Naibu Spika, ni kweli moja ya mikakati ambayo Serikali inayo ni kuona tunahamasisha ujenzi wa viwanda kwa ajili ya kuchakata mazao ya kilimo ili kuongeza thamani ikiwemo matunda na kama ulivyosema maembe katika eneo la Chamwino.</seg>
+          <seg xml:id="seg336">Mheshimiwa Naibu Spika, tutaendelea kuwahamasisha kuvutia uwekezaji katika maeneo tofauti tofauti ikiwemo Chamwino. Lakini pia nichukue fursa hii pia kuona na sisi wenyewe kwa sababu tayari kuna teknolojia nzuri ambazo zinatolewa na mashirika yetu ikiwemo SIDO ambavyo ni viwanda vidogo vidogo ambavyo tunaweza kuvitumia na sisi</seg>
+          <seg xml:id="seg337">kuchakata mazao yetu haya ili tuongeze thamani badala ya kutegemea kuuza kama yalivyo kabla hayajaongezwa thamani.</seg>
+          <seg xml:id="seg338">Mheshimiwa Naibu Spika, kwa hiyo, na sisi ni muda wetu kutumia fursa hii kuwekeza katika maeneo haya ya viwanda vidogo vidogo. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u172" who="NaibuSpika">
+          <seg xml:id="seg339">Mheshimiwa Zaytun.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u173" who="MheZaytunSSwai">
+          <seg xml:id="seg340">Mheshimiwa Naibu Spika, nakushukuru sana kwa kunipa nafasi.</seg>
+          <seg xml:id="seg341">Je, Serikali ina mpango gani wa kutafuta wawekezaji wa mashamba makubwa ya maua na mbogamboga katika Wilaya ya Arumeru ambayo kwa muda mrefu sasa yametekelezwa? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u174" who="NaibuSpika">
+          <seg xml:id="seg342">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u175" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg343">Mheshimiwa Naibu Spika, nakushukuru, napenda kujibu swali la nyongeza la Mheshimiwa Zaytun Swai, Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg344">Mheshimiwa Naibu Spika, kama nilivyosema katika jibu la msingi Serikali tunaendelea kuhakikisha tunaweka mazingira wezeshi, lakini pia kuweka miundombinu na kuweka vivutio maalum kwa ajili ya wawekezaji kwa ajili ya wawekezaji katika sekta ya kilimo na nyingine.</seg>
+          <seg xml:id="seg345">Mheshimiwa Naibu Spika, kwa hiyo, nimhakikishie Mheshimiwa Zaytun Swai tutaendelea pia kuvutia wawekezaji katika eneo hili kwa ajili ya kilimo cha maua, lakini na</seg>
+          <seg xml:id="seg346">mbogamboga na matunda katika mkoa anaotoka Mheshimiwa Mbunge.</seg>
+          <seg xml:id="seg347">Mheshimiwa Naibu Spika, nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u176" who="NaibuSpika">
+          <seg xml:id="seg348">Mheshimiwa Husna, ajiandae Mheshimiwa Tunza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u177" who="MheHusnaJSekiboko">
+          <seg xml:id="seg349">Mheshimiwa Naibu Spika, nashukuru kunipa nafasi kuuliza swali moja la nyongeza.</seg>
+          <seg xml:id="seg350">Mheshimiwa Naibu Spika, Mkoa wa Tanga ni maarufu sana kwa kilimo cha matunda na mbogamboga, lakini mpaka tunavyozungumza sasa hakuna kiwanda kinachoongeza thamani kwa maana ya kusindika mazao ya matunda na mbogamboga kwenye Mkoa wa Tanga.</seg>
+          <seg xml:id="seg351">Ni lini sasa Serikali itaamua kwa dhati kabisa kuongeza thamani ya mazao haya kwa kufungua kiwanda cha kusindika?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u178" who="NaibuSpika">
+          <seg xml:id="seg352">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u179" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg353">Mheshimiwa Naibu Spika, nakushukuru, napenda kujibu swali la nyongeza la Mheshimiwa Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg354">Mheshimiwa Naibu Spika, ni kweli sote tunajua Mkoa wa Tanga ndiyo kitovu cha kilimo cha matunda mbalimbali ikiwemo machungwa, lakini pia na mbogamboga na kadhalika. Kama nilivyosema tunaendelea kutafuta wawekezaji. Changamoto kubwa tuliyokuwa nayo wakati mwingine ni ule uhakika wa kuwa na malighafi endelevu kwa ajili ya wawekezaji kuwekeza katika maeneo yetu.</seg>
+          <seg xml:id="seg355">Mheshimiwa Naibu Spika, kwa hiyo, kama nilivyosema tuhakikishe katika halmashauri zetu tunashauri ili kuwe na maeneo ambayo yamewekwa kwanza ili tuvutie wawekezaji kwenye kilimo cha kibiashara kwa maana ya mashamba makubwa, lakini baada ya hapo nadhani ndiyo yatavutia sasa kuwekeza viwanda vikubwa ambavyo vitapunguza upotevu au post-harvest losses katika mazao ya matunda lakini na mbogamboga katika maeneo tofauti hapa nchini.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u180" who="NaibuSpika">
+          <seg xml:id="seg356">Mheshimiwa Tunza.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u181" who="MheTunzaIMalapo">
+          <seg xml:id="seg357">Mheshimiwa Naibu Spika, nakushukuru; zao la muhogo ni zao ambalo linastawi sana katika Mkoa wa Mtwara, lakini halijafanyiwa uwekezaji na tunajua muhogo unatumika katika kuzalisha starch ya viwandani ambayo ni malighafi muhimu sana.</seg>
+          <seg xml:id="seg358">Je, Serikali ina mkakati gani wa kuhakikisha inainua kilimo cha muhogo na uwekezaji katika zao hilo? </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u182" who="NaibuSpika">
+          <seg xml:id="seg359">Swali la msingi ni matunda, lakini Mheshimiwa jibu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u183" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg360">Mheshimiwa Naibu Spika, nakushukuru, napenda kujibu swali la nyongeza la Mheshimiwa Tunza Malapo, Mbunge kama ifuatavyo:-</seg>
+          <seg xml:id="seg361">Mheshimiwa Naibu Spika, ni kweli kilimo cha muhogo hapa katikati tulikuwa tumesuasua kutokana na sababu mbalimbali ikiwemo kukosekana kwa viwanda vinavyochakata au kuongeza thamani zao hili, lakini nimpe taarifa kwamba Serikali inaendelea kuvutia wawekezaji na hivi sasa kuna kiwanda kinajengwa pale Mbeya ambacho kikikamilika kitakuwa ni suluhisho kubwa la ukosefu wa masoko ya muhogo</seg>
+          <seg xml:id="seg362">katika nchi yetu ambao wao wataenda kuzalisha starch ambayo itatumika katika viwanda mbalimbali.</seg>
+          <seg xml:id="seg363">Mheshimiwa Naibu Spika, lakini zaidi pia tunahamasisha wawekezaji na tayari wako wengine kutoka China ambao nao wanachukua muhogo huu na kuuchakata ili kuweza kuuza katika masoko mbalimbali. Kwa hiyo, tunaendelea kufanya jitihada hizo na nimhakikishie Mheshimiwa Mbunge kwamba Serikali inajua na lazima tuwasaidie wakulima ili waweze kupata tija katika kilimo cha mazao mbalimbali ikiwemo hili zao la muhogo. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u184" who="NaibuSpika">
+          <seg xml:id="seg364">Mheshimiwa Justin.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u185" who="MheJustinLNyamoga">
+          <seg xml:id="seg365">Mheshimiwa Naibu Spika, nakushukuru kwa kunipa nafasi ya kuuliza swali la nyongeza.</seg>
+          <seg xml:id="seg366">Mheshimiwa Naibu Spika, zao la parachichi ni asilimia kadhaa tu inayoweza kuchumwa na kuuzwa yakiwa matunda lakini yale yanayobaki yanaweza kuprosesiwa na kutoa mafuta ya kula na kuondoa gape la mafuta ya kula tuliyonayo nchini.</seg>
+          <seg xml:id="seg367">Je, Serikali ina mpango gani wa kuhamasisha wawekezaji wa viwanda vya mafuta yanayotokana na parachichi katika nchi yetu?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u186" who="NaibuSpika">
+          <seg xml:id="seg368">Mheshimiwa Waziri.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u187" who="NaibuWaziriWaUwekezajiViwandaNaBiashara">
+          <seg xml:id="seg369">Mheshimiwa Naibu Spika, nakushukuru sana, napenda kujibu swali la nyongeza la Mheshimiwa Justin Nyamoga, Mbunge wa Jimbo la Kilolo kama ifuatavyo:-</seg>
+          <seg xml:id="seg370">Mheshimiwa Naibu Spika, ni kweli zao la parachichi sasa ni zao ambalo linalimwa kwa wingi katika Mikoa ya Nyanda za</seg>
+          <seg xml:id="seg371">Juu Kusini na mikoa mingine ikiwemo katika Jimbo la Kilolo na Mkoa mzima wa Iringa, na changamoto kubwa kama nilivyosema, baada ya kufanya sorting au packaging ya yale matunda ambayo yanauzwa kama fresh, kama raw matunda yanayobaki yanatakiwa kuchakatwa ili angalau kupunguza ule upotevu baada ya mavuno.</seg>
+          <seg xml:id="seg372">Mheshimiwa Naibu Spika, tayari tumeshaanza kuhamasisha uwekezaji wa viwanda mbalimbali katika maeneo ya Iringa, lakini na Njombe pia na Mbeya kule ili kuhakikisha tunapata viwanda vya kuchakata matunda yanayobaki baada ya yale mengine kuuzwa. Lakini zaidi tunahamasisha uwekaji wa vyumba vya baridi ambavyo vitasaidia kuyatunza haya matunda yasiharibike haraka wakati wakulima au wanunuzi wanapoyapeleka kwenye viwanda hivi ambayo tunahamasisha viweze kujengwa ili kuhakikisha tunapata thamani halisi ya matunda yale badala ya kupoteza kwa wingi kama ilivyo sasa. Nakushukuru sana.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u188" who="MheEstherNMatiko">
+          <seg xml:id="seg373">Mheshimiwa Naibu Spika, Mwongozo wa Spika.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u189" who="NaibuSpika">
+          <seg xml:id="seg374">Waheshimiwa Wabunge, maswali yetu yamekwisha na muda umekwisha. Ni muda sasa wa kuwatambulisha wageni waliopo Bungeni asubuhi hii.</seg>
+          <seg xml:id="seg375">Wageni waliopo Jukwaa la Spika, wageni wawili wa Bunge kutoka Taasisi ya Mama Ongea na Mwanao Ndugu Steven Mengele maarufu kama Steve Nyerere – Mwenyekiti na Yvonne Cherry maarufu kama Monalisa – Makamu Mwenyekiti. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u190" who="NaibuSpika">
+          <seg xml:id="seg376">Wanamuziki kutoka label ya WCB wakiongozwa na Ndugu Nelson Kisanga – Mkurugenzi wa Wasafi FM na Ndugu</seg>
+          <seg xml:id="seg377">Spencer Lameck – Mkurugenzi wa Habari na Mahusiano, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u191" who="NaibuSpika">
+          <seg xml:id="seg378">Kuna wanawake wajasiriamali vinara waliopata tuzo ya Malkia wa Nguvu kama mfano wa wakinamama wanaojituma kutoka Arusha, karibuni sana. Nimewapa kipaumbele kwa sababu ya kutokana na namna wanawake mnavyojituma na Mbunge wenu Zaytun yuko hapa, kwa hiyo na yeye ni mwanamke vilevile. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u192" who="NaibuSpika">
+          <seg xml:id="seg379">Wageni wa Waheshimiwa Wabunge, wako wageni mbalimbali wa Waheshimiwa Wabunge waliotembelea Bunge wasimame kwa pamoja, ahsanteni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u193" who="NaibuSpika">
+          <seg xml:id="seg380">Wageni waliotembelea Bunge kwa ajili ya mafunzo wanafunzi 15 na walimu wanne kutoka Shule ya Msingi na Sekondari ya Canon Andrea Mwaka ya Jijini Dodoma, karibuni. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u194" who="NaibuSpika">
+          <seg xml:id="seg381">Mheshimiwa Cosato David Chumi - Mwenyekiti anaomba kuwatangazia Wabunge leo tarehe 29 Juni, kutakuwa na semina kuhusu utekelezaji wa mradi wa Tanzania Cities Transforming Infrastructures Competitiveness (TACTIC) itakayofanyika katika ukumbi wa Msekwa D. Semina itahusu Wabunge tu wanaotoka katika miji ambapo mradi huo unatekelezwa. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u195" who="NaibuSpika">
+          <seg xml:id="seg382">Katibu wa Bunge anaomba kuwatangazia na kuwakumbusha Wabunge kuwa leo Jumatano, tarehe 29 Juni kutakuwa na tafrija saa 12 jioni katika viwanja vya Bunge ambapo itaambatana na burudani mbalimbali kutoka kwa Wabunge na wasanii wetu watakaoalikwa. Mgeni rasmi katika tukio hilo anatarajiwa kuwa Mheshimiwa Kassim Majaliwa Majaliwa, Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania.</seg>
+          <seg xml:id="seg383">Wabunge wote na watumishi wote wa Bunge wanaombwa kuhurudhia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u196" who="NaibuSpika">
+          <seg xml:id="seg384">Kuna wageni wengine ambao hawakuwepo kwenye orodha, nao ni Zuchu, msanii Mboso na Lavalava, karibuni sana. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u197" who="NaibuSpika">
+          <seg xml:id="seg385">Katibu wa Bunge anaomba kuwatangazia Waheshimiwa Wabunge wote kuwa Ofisi ya Waziri Mkuu, Kazi, Vijana, Ajira na Watu wenye Ulemavu itaendesha semina kuhusu kanuni mpya za mafao na pensheni kwa wastaafu leo siku ya Jumatano, tarehe 29 Juni kuanzia saa tano asubuhi katika ukumbi wa Msekwa. Waheshimiwa Wabunge wote mnakaribishwa kuhudhuria semina hii muhimu ili kuwajengea uelewa kuhusu kanuni mpya za mafao ya pensheni kwa wastaafu kwa ajili ya utekelezaji wa Sheria ya Mfuko wa Hifadhi ya Jamii kwa Watumishi wa Umma.</seg>
+          <seg xml:id="seg386">Waheshimiwa Wabunge, kesho tunaahirisha Bunge, mahudhurio kwenye Bunge letu bado hayaridhishi. Kuna Mbunge hayupo ndani ya Bunge na hayupo Jimboni na wala taarifa kwa Spika hakuna. Kwa hiyo, tuombe Wabunge na Mawaziri wote kesho wawepo siku ya mwisho ya kufunga Bunge. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u198" who="NaibuSpika">
+          <seg xml:id="seg387">Siku ya mwisho ya kuahirisha Bunge, Waziri Mkuu anatoa maono ya siku zinazokuja, kama hauko Bungeni huwezi kujua maelekezo gani yaliyotolewa na Waziri Mkuu ili yaweze kufanyiwa kazi. Kwa hiyo, tunatoa tahadhari ya mahudhurio, tabia kama hii haifai, haileti heshima kwa Bunge letu. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u199" who="NaibuSpika">
+          <seg xml:id="seg388">Waheshimiwa Wabunge, juzi tulikuwa na shughuli maalum ya kumpongeza Mheshimiwa Rais ambayo ilifanywa na Mwenyekiti wetu wa Wanawake Wabunge, lakini kuna kero kubwa sana ya michango mashuleni. Wananchi wanaumia</seg>
+          <seg xml:id="seg389">sana kuchangishwa michango ambayo ingeweza kufanya na halmashauri zenyewe. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u200" who="NaibuSpika">
+          <seg xml:id="seg390">Dodoma wameonesha njia, naipongeza sana Halmashauri ya Dodoma. Gharama za umeme, gharama za ulinzi zinafanywa na halmashauri. Umetoka mtindo sasa hivi wa wazazi kulazimishwa kununua uniform mashuleni. Sisi watu wa Dar es Salaam uniform tunanunua pale Karume. Ukienda uki- point shilingi 5,000 unapata, lakini ukienda shuleni uniform shilingi 20,000; wazazi hawawezi gharama hizi. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u201" who="NaibuSpika">
+          <seg xml:id="seg391">Hii michango na Waziri wa TAMISEMI uko hapa, hatuoni sababu kwa nini halmashauri zisiweze kugharamia ulinzi na umeme. Kwa nini wazazi wachangie ulinzi na umeme? Inaumiza sana wazazi katika michango kama hii. Rais ametoa ada, lakini bado kuna michango ya ziada ambayo inawasumbua wazazi. Nguo za michezo bei yake mjini tofauti na bei zinazouzwa shuleni. Kwa hiyo, mimi niwaombe Waziri wa TAMISEMI muweze kulichukua hili nakuweza kulishughulikia. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u202" who="NaibuSpika">
+          <seg xml:id="seg392">Ehee Mheshimiwa Matiko ulikuwa na Mwongozo?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u203" who="MheEstherNMatiko">
+          <seg xml:id="seg393">Mheshimiwa Naibu Spika, nakushukuru.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u204" who="NaibuSpika">
+          <seg xml:id="seg394">Subiri subiri kaa chini, kaa chini kwanza.</seg>
+          <seg xml:id="seg395">Mwenyekiti wa Umoja wa Wanawake, Mheshimiwa Shally Raymond anaomba kuwatangazia Wabunge Wanawake wa TWPG kuwa leo tarehe 29 Juni kutakuwa na semina kwa Wabunge wanawake wote saa nane mchana katika ukumbi wa Takwimu, upo nyuma ya ukumbi wa Jakaya Kikwete. </seg>
+        </u>
+        <note>(Makofi)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u205" who="NaibuSpika">
+          <seg xml:id="seg396">Ehee Mheshimiwa Matiko.</seg>
+          <seg xml:id="seg397">nakushukuru, naomba ku-withdraw mwongozo wangu maana Chief Whip amenitumia ujumbe kwamba tutaongea na Serikali kitu ninachotaka kuuliza, ahsante.</seg>
+          <seg xml:id="seg398">Unaomba.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u206" who="MheEstherNMatiko">
+          <seg xml:id="seg399">Mheshimiwa Naibu Spika, nime- withdraw mwongozo wangu.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u207" who="NaibuSpika">
+          <seg xml:id="seg400">Ume-withdraw eeh?</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u208" who="MheEstherNMatiko">
+          <seg xml:id="seg401">Mheshimiwa Naibu Spika, yap.</seg>
+        </u>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u209" who="NaibuSpika">
+          <seg xml:id="seg402">Ahsante, na bora ume-withdraw. </seg>
+        </u>
+        <note>(Makofi/Kicheko)</note>
+        <u xml:id="ParlaMint-TZ-2022-06-29-bunge-07-54.u210" who="NaibuSpika">
+          <seg xml:id="seg403">Naihirisha shughuli za Bunge mpaka kesho saa tatu asubuhi.</seg>
+          <seg xml:id="seg404">(Saa 4:26 Asubuhi Bunge Liliahirishwa hadi Siku ya Alhamisi,</seg>
+          <seg xml:id="seg405">Tarehe 30 Juni, 2022 Saa Tatu Asubuhi)</seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>
